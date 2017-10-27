@@ -1,0 +1,2758 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/NewsArticle" class="no-js" prefix="og: http://ogp.me/ns#" lang="en-CA">
+	<head>
+		<meta charset="UTF-8">
+
+		
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="robots" content="noarchive">
+
+		
+		<title>
+		How Chinese scientists used a supercomputer to solve the ancient puzzle called the Three Body Problem | National Post		</title>
+
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="http://nationalpost.com/xmlrpc.php">
+
+						<meta name="description" content="Like the endlessly repeating patterns of chaos theory, the new solutions discovered by the Chinese researchers make for elaborate and weirdly beautiful images when they are plotted in two dimensions" />
+							<meta name="news_keywords" content="henri poincar, henri poincare, isaac newton, mathematics, nordic countries" />
+			<meta name="google-site-verification" content="gpwoEJPJUg3ROJCJdh57kfONPUShcZp639SqJs901Ko" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=nationalpost.com&amp;id=37979189&amp;t=1509094857&amp;back=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//static.freeskreen.com' />
+<link rel='dns-prefetch' href='//cdn.mediavoice.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//maps.google.com' />
+<link rel='dns-prefetch' href='//www.canada.com' />
+<link rel='dns-prefetch' href='//nationalpostcom.wordpress.com' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='http://s1.wp.com/_static/??-eJx9jtEKgzAMRX9oWSlszj2MfYvWoNVGg0mpn78o+DZ8CTfhHHJdYQjLrDirowycch9ncSlOKG5E5SZMcGz3IHJz//GwrGh34kZ3grCLDSYkw660Erse1XQ5MyhulwpxdT7a42D1LpsVNhrallcUAZsUM4EO1u3wvvTxj3dVv3z99OMP7qJkMw==' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-1-1' href='http://s0.wp.com/wp-content/themes/vip/plugins/taxonomy-images/css/style.css?m=1506960102h' type='text/css' media='screen' />
+<link rel='stylesheet' id='all-css-2-1' href='http://s1.wp.com/_static/??-eJytUstOAzEM/CFStwhULohfQGpRj8jNuqlZJ4422S79e9LdPigVqCBuHseeGduBLhqrIVPIkNfkKcGGI0RN2VPFaKK0jkMCFDEcjAYyG65ITURbg00JapTcNjgq8Q1cS/c1YwJ1SShnanrSE7yOt0+aEFexb/e4o4wXvb49Oui4cpQTrNDSUrU2wnUJ3iHlrdA1nUktY9lKKTkHv7csmFIpeD48woKWsNjrvGQWzttZWQcHl/oB2yH3Onj5Z8E5oZ9Zbco6sKl6vXSEgxZD0DxMfgh+WpkrH0bUYmYNZ8CsBPnyxp9ai6yoK6HrjZzgXz9ckT9a2THuzznyHL6jXN+BE12i7Aqe/OPkfjx9mEynt+O3D7nrO4U=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PostmediaVO = {"appServiceUrl":"http:\/\/app.canada.com\/video\/video.svc"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Postmedia = {"adConfig":{"site":"npo_news","msite":"np.m","preroll":"on","networkId":3081,"keys":{"aid":["12dc4e9f-1896-40ab-b088-78fbcfdfc6e1","76861524"],"author":"joseph-brean","cinf":["isaac-newton","mathematics","henri-poincar"],"ck":"news","nk":"print","page":"story","pr":"np","sck":"world"},"async":true,"enablecasale":false,"zone":"news\/world\/story"},"Urls":{"home_url":"http:\/\/nationalpost.com","stylesheet_directory_uri":"http:\/\/s0.wp.com\/wp-content\/themes\/vip\/postmedia-theme-npfp","ajaxurl":"http:\/\/nationalpost.com\/wp-admin\/admin-ajax.php"},"Properties":{"domain":"","userAgents":["mozilla","msie","webkit","ipad"],"mobileAgents":["iphone","ipod","android"],"isMobile":false,"isIpad":false,"isModal":false},"Facebook":{"pageId":"110225254594","appId":"114466555268868","mobileId":"np.m"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJylkmtugzAQhC9Uh0ZVlPZH1aNUG3shC37Va4PS03fJQ1XSKKFEQgKGb2aNPdUQFXlti0GuWrm+Cqbd8bZo+am6BShHTYKMC0f+BOvgM/o8si5syKIqjAka0SSoDle4GDg7ZBboytfzJZHvCYe7WIs5gu5UQqbvP6l5izKv6ikeZxsCFW1pyHNl6qjA7H82etUWHtetMrlHYnQIHT0SMCAIneYEibsng0GFHlOSp2PkQYwWdpj+FQjWjlsSPJ4yZKvH0A5sLglu9KZQpUM6K8x1aiDTYL7PuSD1uo9xSBk2dgJppKvNVDTEeIlOO5ILRcnJcGE16vshh/dJmXtR+VjH0aiNViWTnes1kGGGdYtgMH1qCzxn8m8/pY3i/3Dvy9Xz68tquV6/tT9ZIL4h'></script>
+<script type='text/javascript' src='http://cdn.mediavoice.com/nativeads/script/postmedia/polarAd-npfp2.0-prod.js?184104137&#038;ver=4.8.2'></script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyNzLEKwkAMgOEXsk3Fo3QppaObk3s4Q81xlxxNtPj2VnBwdP3h/2CrTVRxEge/UyGDJ1eoal7oxtjU/FhY7KcspFkjOqtAMtgI93FtC0ub7AD/giiYX87RvuVjXdnYdZ0v552ayngMw6kPXR+G9AaMVT7X'></script>
+<link rel='stylesheet' id='all-css-0-2' href='http://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nationalpostcom.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" />
+<link rel='shortlink' href='http://nationalpost.com/wcm/12dc4e9f-1896-40ab-b088-78fbcfdfc6e1' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How Chinese scientists used a supercomputer to solve the ancient puzzle called the Three Body Problem" />
+<meta property="og:url" content="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" />
+<meta property="og:description" content="Like the endlessly repeating patterns of chaos theory, the new solutions discovered by the Chinese researchers make for elaborate and weirdly beautiful images when they are plotted in two dimension…" />
+<meta property="article:published_time" content="2017-10-18T21:14:10+00:00" />
+<meta property="article:modified_time" content="2017-10-18T21:14:10+00:00" />
+<meta property="og:site_name" content="National Post" />
+<meta property="og:image" content="https://nationalpostcom.files.wordpress.com/2017/10/1529831.png" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@nationalpost" />
+<meta name="twitter:text:title" content="How Chinese scientists used a supercomputer to solve the ancient puzzle called the Three Body Problem" />
+<meta name="twitter:image" content="https://nationalpostcom.files.wordpress.com/2017/10/1529831.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@acoyne" />
+<meta property="article:publisher" content="http://facebook.com/nationalpost" />
+<link rel="shortcut icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/bf69214e83fdd5520e4b5d91ba3b7d64?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/bf69214e83fdd5520e4b5d91ba3b7d64?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/bf69214e83fdd5520e4b5d91ba3b7d64?s=114" />
+<link rel='openid.server' href='http://nationalpostcom.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://nationalpostcom.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://nationalpost.com/osd.xml" title="National Post" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="stats-full-init" value="0.008" />
+<meta name="stats-postmedia_theme_pre_initialize" value="0.000" />
+<meta name="stats-initialize" value="0.007" />
+<meta name="stats-postmedia_theme_post_initialize" value="0.001" />
+<meta name="stats-vip_load_plugins" value="0.001" />
+<meta name="stats-load_plugins" value="0.005" />
+<meta name="stats-register_widgets" value="0.000" />
+<script type="text/javascript">
+function janrainSignOut(){
+	janrain.capture.ui.endCaptureSession();
+}
+(function() {
+	if (typeof window.janrain !== 'object') window.janrain = {};
+	window.janrain.settings = {};
+	window.janrain.settings.capture = {};
+
+	// capture settings
+	janrain.settings.capture.redirectUri = 'https://nationalpostcom.wordpress.com/wp-admin/admin-ajax.php?action=janrain_capture_redirect_uri';
+	janrain.settings.capture.appId= 'ztcpr5854s8kyh93khrgw44sv9';
+	janrain.settings.capture.clientId = 'bh6fmkjbm3j3qj82zemw7jm64tckeb6z';
+	janrain.settings.capture.responseType = 'token';
+	janrain.settings.capture.captureServer = 'https://postmedia.us.janraincapture.com';
+	janrain.settings.capture.registerFlow = 'socialRegistration';
+	janrain.settings.packages = ['capture','login'];
+
+	janrain.settings.capture.setProfileCookie = true;
+	janrain.settings.capture.keepProfileCookieAfterLogout = true;
+	janrain.settings.capture.setProfileData = 'true';
+
+	janrain.settings.capture.federateEnableSafari = true;
+
+	// styles
+	janrain.settings.capture.stylesheets = ['http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/janrain-capture-screens/stylesheets/styles.css?m=1494273160h'];
+	janrain.settings.capture.mobileStylesheets = ['http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/janrain-capture-screens/stylesheets/mobile-styles.css?m=1503423025h'];
+	janrain.settings.capture.recaptchaPublicKey = '6LeVKb4SAAAAAGv-hg5i6gtiOV4XrLuCDsJOnYoP';
+
+	// engage settings
+	janrain.settings.appUrl = 'https://login.canada.com/';
+	janrain.settings.tokenAction = 'event';
+		
+
+	// federate settings
+	janrain.settings.capture.federate = 1;
+	janrain.settings.capture.federateServer = 'https://postmedia.us.janrainsso.com';
+	janrain.settings.capture.federateXdReceiver = 'http://nationalpost.com/wp-content/themes/vip/plugins/janrain-capture/xdcomm.html';
+	janrain.settings.capture.federateLogoutUri = 'https://nationalpostcom.wordpress.com/wp-login.php?loggedout=true';
+		
+	function isReady() { janrain.ready = true; };
+	if (document.addEventListener) {
+		document.addEventListener("DOMContentLoaded", isReady, false);
+	} else {
+		window.attachEvent('onload', isReady);
+	}
+
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.id = 'janrainAuthWidget'
+	var url = document.location.protocol === 'https:' ? 'https://' : 'http://';
+	url += 'widget-cdn.rpxnow.com/load/login.canada.com';
+	e.src = url;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(e, s);
+})();
+</script><script type="text/javascript">function janrainCaptureWidgetOnLoad() {
+
+    var emailVerificationNotificationShown = false;
+    var handleRegistrationSuccessResult = null;
+	var refreshPageOnLogin = false;
+	
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+    var np_wp_ajax_url = ( typeof Postmedia != "undefined" ) 
+        && Postmedia.hasOwnProperty( "Urls" ) && Postmedia.Urls.hasOwnProperty( "ajaxurl" )
+        ? Postmedia.Urls.ajaxurl : "/wp-admin/admin-ajax.php";
+
+    function handleCaptureLogout() {
+        // Call NP hook to log out of Post Points, etc.
+        localStorage.removeItem('npPostPointsUserId');
+        localStorage.removeItem('npPostPointsSid');
+        jQuery.ajax({
+            type: 'get',
+            url: np_wp_ajax_url,
+            async: false,
+            data: {
+                'action':'npfp_ajax',
+                'command':'janrain_capture_logout'
+            },
+            success: function(data) {
+				if( jQuery('#editProfile')[0] || jQuery('.my-account-page')[0] ){
+					 window.location = 'http://' + document.location.host;
+				} else {
+					location.reload(true);
+				}
+            }
+        });  
+    }
+
+    function handleCaptureLogin(result) {
+        // Call NP hook to login to Post Points, etc.
+        if (result) {
+            jQuery.ajax({
+                type: 'get',
+                dataType: 'text',
+                url: np_wp_ajax_url,
+                async: false,
+                data: {
+                    'action':'npfp_ajax',
+                    'command':'janrain_capture_login',
+                    'accessToken': result['accessToken'],
+                    'uuid' : result['userData']['uuid']
+                },
+                success:function(data) {
+					if ( data && localStorage ) {
+                        var o_fsk_response = JSON.parse( data );
+                        localStorage.setItem('npPostPointsUserId', o_fsk_response.user_id);
+                        localStorage.setItem('npPostPointsSid', o_fsk_response.sid);
+                    }
+                    var return_url = getParameterByName('returnurl');
+                    if ('' !== return_url) {
+                        window.location = decodeURIComponent(return_url);
+                    } else {
+						if ( refreshPageOnLogin ){
+							location.reload(true); // Update buttons / points bar
+						}
+					}             
+                },
+                error: function(error){
+                    console.log("np_janrain_capture_login error:", error);
+                }
+            });  
+        }
+    }
+
+    function handleCaptureLoginFailed(result) {
+        if (result.statusMessage == "accountDeactivated") {
+            janrain.capture.ui.renderScreen('accountDeactivated');
+        }
+    }
+
+    function handleRegistrationSuccess(result) {
+        if (emailVerificationNotificationShown) {
+            handleRegistrationSuccessResult = result;
+        } else {
+            handleCaptureLogin(result);
+        }
+    }
+
+    function handleCaptureScreenShow(result) {
+        var callFunction = true;
+        var eventMsg = '';
+        switch (result.screen){
+            case 'signIn': //2.1
+                eventMsg = 'Signin Meter Login'
+                break;
+            case 'returnSocial': //2.2
+                eventMsg = 'Social Login Return User'
+                break;
+            case 'returnTraditional': //2.3
+                var span = document.getElementById('traditionalWelcomeName');
+                var name = janrain.capture.ui.getReturnExperienceData("displayName");
+                if (span && name) {
+                    span.innerHTML = "Welcome back, " + name + "!";
+                }
+                eventMsg = 'Traditional Login Return User';
+                break;
+            case 'socialRegistration':  //2.5
+                eventMsg = 'Social Registration Meter Account Creation';
+                break;
+            case 'traditionalRegistration': //2.6
+                eventMsg = 'Traditional Registration Meter Account Creation';
+                break;
+            case 'emailVerificationNotification': //2.7
+                emailVerificationNotificationShown = true;
+                eventMsg = 'Email Notification Meter Purchase Summary';
+                break;
+            case 'forgotPassword': //2.8
+                eventMsg = 'Forgot Pwd Enter Email';
+                break;
+            case 'forgotPasswordSuccess': //2.9
+                eventMsg = 'Forgot Pwd Success Email Sent';
+                break;
+            case 'verifyEmail': //2.12
+                eventMsg = 'Verify Email';
+                break;
+            case 'resendVerificationSuccess': //2.13
+                eventMsg = 'Resend Verification Success';
+                break;
+            case 'verifyEmailSuccess': //2.14.
+                eventMsg = 'Verify Email Success';
+                break;
+            case 'resetPassword':  //2.15
+                eventMsg = 'Reset Pwd New Password';
+                break;
+            case 'resetPasswordSuccess': //2.16
+                eventMsg = 'Reset Pwd Success Pwd Changed';
+                break;
+            case 'resetPasswordRequestCode': //2.17
+                eventMsg = 'Reset Pwd Request Code';
+                break;
+            case 'resetPasswordRequestCodeSuccess': //2.18
+                eventMsg = 'Reset Pwd Request Code Success';
+                break;
+            case 'editProfile': //2.19
+                eventMsg = 'Edit Profile';
+                break;
+            case 'changePassword': //2.20
+                eventMsg = 'Change Pwd';
+                break;
+            case 'confirmAccountDeactivation': //2.21
+                eventMsg = 'Confirm Account Deactivation';
+                break;
+            case 'accountDeactivated': //2.4
+            case 'mergeAccounts': //2.10
+            case 'traditionalAuthenticateMerge': //2.11
+            case 'reactivateAccount':
+            case 'reactivateAccountSuccess':
+            case 'emailVerificationRequired':
+            default:
+                callFunction = false;
+                break;
+        }
+
+        if (callFunction){
+            Postmedia.Analytics.ModelScreen('Janrain', eventMsg);
+        }
+    }
+
+    function handleCaptureSessionFound(result) {
+        var return_url = getParameterByName('returnurl');
+        if ('' !== return_url) {
+            window.location = decodeURIComponent(return_url);
+        }
+    }
+
+    /* Social login button click tracking
+     *
+     * For more information, please go to http://developers.janrain.com/overview/integrations/blueprint-integrations/omniture-sitecatalyst/#overview
+     */
+    janrain.events.onProviderLoginStart.addHandler(function(result){
+        var callFunction = true;
+        var provider = null;
+        
+        switch( result.provider ) {
+            case 'facebook':
+                provider = Postmedia.Analytics.SocialTypes.FACEBOOK_LOGIN;
+                break;
+            case 'twitter':
+                provider = Postmedia.Analytics.SocialTypes.TWITTER_LOGIN;
+                break;
+            case 'googleplus':
+                provider = Postmedia.Analytics.SocialTypes.GOOGLE_LOGIN;
+                break;
+            case 'yahoo':
+                provider = Postmedia.Analytics.SocialTypes.YAHOO_LOGIN;
+                break;
+            case 'linkedin':
+                provider = Postmedia.Analytics.SocialTypes.LINKEDIN_LOGIN;
+                break;
+            case 'openid':
+                provider = Postmedia.Analytics.SocialTypes.OPENID_LOGIN;
+                break;
+            default :
+                callFunction = false;
+                break;
+        }
+        
+        if (callFunction){
+            Postmedia.Analytics.SocialLogin(provider);
+        }
+    });
+
+    function handleModalReady() {
+        var screenToRender = getParameterByName('screenToRender');
+        if ( screenToRender ) {
+            janrain.capture.ui.modal.open( screenToRender );
+        } else if ( getParameterByName('layer') == 'true' && !janrain.capture.ui.hasActiveSession() )
+        {
+            janrain.capture.ui.modal.open( 'signIn' );
+        }
+    }
+
+    function handleModalClose() {
+        if (emailVerificationNotificationShown) {
+            emailVerificationNotificationShown = false;
+            handleCaptureLogin(handleRegistrationSuccessResult);
+        }
+    }
+
+    function handleonAccountDeactivateSuccess(result) {
+        if(result.status == "success") {
+            document.getElementById("editProfile").style.display = 'none';
+            janrain.capture.ui.modal.close();
+            janrain.capture.ui.endCaptureSession();
+            window.location = '/category/news/?screenToRender=accountDeactivated';
+        }
+    }
+	
+	function handleonCaptureAccessDenied(result) {
+		 if(localStorage && localStorage.getItem("janrainCaptureToken")){
+            janrain.capture.ui.createCaptureSession(localStorage.getItem("janrainCaptureToken"));
+        }else{
+        	window.location = 'http://' + document.location.host
+                + '/?layer=true&returnurl=' + encodeURIComponent( document.location.href );
+        }
+	}
+	
+	function handleOnCaptureFederateNoLogin(){
+		refreshPageOnLogin = true;
+	}
+	
+	function handleOnModalOpen(){
+		if ( window.innerWidth < 768 ){
+			document.getElementById('page').style.display = 'none';
+		}
+	}
+	
+	function handleOnModalClose(){
+		if ( window.innerWidth < 768 ){
+			document.getElementById('page').style.display = 'block';
+		}
+	}
+	
+    janrain.events.onCaptureSessionEnded.addHandler(handleCaptureLogout);
+    janrain.events.onCaptureLoginSuccess.addHandler(handleCaptureLogin);
+    janrain.events.onCaptureLoginFailed.addHandler(handleCaptureLoginFailed);
+    janrain.events.onCaptureSessionFound.addHandler(handleCaptureSessionFound);
+    janrain.events.onCaptureRegistrationSuccess.addHandler(handleRegistrationSuccess);
+    janrain.events.onCaptureScreenShow.addHandler(handleCaptureScreenShow);
+    janrain.events.onCaptureModalReady.addHandler(handleModalReady);
+    janrain.events.onModalClose.addHandler(handleModalClose);
+    janrain.events.onCaptureAccountDeactivateSuccess.addHandler(handleonAccountDeactivateSuccess);
+	janrain.events.onCaptureAccessDenied.addHandler(handleonCaptureAccessDenied);
+	janrain.events.onCaptureFederateNoLogin.addHandler(handleOnCaptureFederateNoLogin);
+	janrain.events.onModalOpen.addHandler(handleOnModalOpen);
+	janrain.events.onModalClose.addHandler(handleOnModalClose);
+	
+    // register postal code validation
+    janrain.capture.ui.registerFunction('postalCodeValidation', function( name, value ){
+        return /^[A-Za-z]\d[A-Za-z][ ]?\d[A-Za-z]\d$/.test(value);
+    });
+
+    janrain.capture.ui.start();
+}
+
+// Post Points (Freeskreen) bar
+FSK_callback_join = function () {
+    janrain.capture.ui.modal.open( 'signIn' );
+};
+FSK_callback_login = function () {
+    janrain.capture.ui.modal.open( 'signIn' );
+};
+FSK_callback_logout = function () {
+    janrain.capture.ui.endCaptureSession();
+};</script>			<meta property="fb:pages" content="110225254594" />
+							<meta property="ia:markup_url" content="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem?ia_markup=1" />
+				                <script type="text/javascript">var AamGpt={strictEncode:function(a){return encodeURIComponent(a).replace(/[!'()]/g,escape).replace(/\*/g,'%2A')},getCookie:function(b){var d,a,f,e=document.cookie.split(';');for(d=0;d<e.length;d++){a=e[d].substr(0,e[d].indexOf('='));f=e[d].substr(e[d].indexOf('=')+1);a=a.replace(/^\s+|\s+$/g,'');if(a==b){return unescape(f)}}},getKey:function(a){var d=this.getCookie(a);d=this.strictEncode(d);if(typeof d!='undefined'&&d.match(/\w+%3D/)){var b=d.split('%3D');if(typeof b[0]!='undefined'&&b[0].match(/\w+/)){return b[0]}}},getValues:function(a){var e=this.getCookie(a);e=this.strictEncode(e);if(typeof e!='undefined'&&e.match(/\w+%3D\w+/)){var b=e.split('%3D');if(typeof b[1]!='undefined'&&b[1].match(/\w+/)){var d=b[1].split('%2C');if(typeof d[0]!='undefined'){return d}else{return null}}else{return null}}else{return null}}};</script>             <script type="text/javascript" src="//js-sec.indexww.com/ht/p/184635-225789216445563.js"> </script>
+                        <script type="text/javascript"> var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.getElementsByTagName('script')[0],b=document.createElement("script");b.async=true;b.src="http://www.googletagservices.com/tag/js/gpt.js";b.type='text/javascript';a.parentNode.insertBefore(b,a)}()); </script>
+            
+        <script type="text/javascript">
+           
+         googletag.cmd.push(function(){  googletag.pubads() 
+                     .setTargeting(
+                        'aid'
+                        , ["12dc4e9f-1896-40ab-b088-78fbcfdfc6e1","76861524"]                     )
+
+                   
+                     .setTargeting(
+                        'author'
+                        , "joseph-brean"                     )
+
+                   
+                     .setTargeting(
+                        'cinf'
+                        , ["isaac-newton","mathematics","henri-poincar"]                     )
+
+                   
+                     .setTargeting(
+                        'ck'
+                        , "news"                     )
+
+                   
+                     .setTargeting(
+                        'nk'
+                        , "print"                     )
+
+                   
+                     .setTargeting(
+                        'page'
+                        , "story"                     )
+
+                   
+                     .setTargeting(
+                        'pr'
+                        , "np"                     )
+
+                   
+                     .setTargeting(
+                        'sck'
+                        , "world"                     )
+
+                   
+
+           ; if( typeof AamGpt.getCookie( "aam_dfp" ) != "undefined" ){ googletag.pubads().setTargeting( AamGpt.getKey( "aam_dfp" ),AamGpt.getValues( "aam_dfp") ); };
+
+                
+            if( typeof AamGpt.getCookie("aam_uuid") != "undefined" ){ googletag.pubads().setTargeting( "aamId", AamGpt.getCookie("aam_uuid") ); };
+
+
+            if ( document.referrer )
+                googletag.pubads().setTargeting( "r" ,document.referrer.split('/')[2] )
+            
+                if ( 'undefined' != typeof pnWeatherCookieHandler && null != pnWeatherCookieHandler ) {
+
+                    var pn_weather = pnWeatherCookieHandler.setPostmediaAdConfig();
+                }
+
+                if ( 'undefined' != typeof pn_weather ) {
+
+                    if ( null != pn_weather ) {
+
+                        if ( null != pn_weather.wc ) {
+
+                            googletag.pubads().setTargeting( "wc" , pn_weather.wc );
+
+                            googletag.pubads().setTargeting( "wt", pn_weather.wt );
+
+                            googletag.pubads().setTargeting( "ww", pn_weather.ww );
+
+                        }
+
+                    }
+
+                }
+
+                if(  'undefined' != typeof I10C ) {
+                    if ( 'undefined' != I10C.Morph ) {
+                        if ( null != I10C.Morph ) {
+                            if ( 1 == I10C.Morph ) {
+                               googletag.pubads().setTargeting( "shield" , "1" );
+                            }
+                        }
+                    }
+                }
+            googletag.pubads().collapseEmptyDivs();
+ 	 googletag.pubads().disableInitialLoad();
+ 	 googletag.enableServices();});        </script>
+    
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var adSlots = [];
+			/* ]]> */
+		</script>
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                var pn_Gpt_Weather = {"wc":"partly-cloudy","wt":"3","ww":"0"};
+                /* ]]> */
+            </script><meta name="ROBOTS" content="NOARCHIVE" />			<meta name="google-site-verification" content="ryJYjEHNyNzMUhMyJ8vBr_Ii7-S6pUIXdKWA6I7HH1g" />
+						<meta itemprop="genre" content="News" />
+						<link rel="publisher" href="https://plus.google.com/+NationalPost/" />
+					<script type='text/javascript'>
+			/* <![CDATA[ */
+			 				var pn_theme_piano_app_id = "SE0WzqlbUG";
+ 						/* ]]> */
+		</script>
+								<meta property="fb:pages" content="110225254594" />
+												<meta property="fb:pages" content="168282878593" />
+												<meta property="fb:pages" content="7561650675" />
+												<meta property="fb:pages" content="7116517082" />
+												<meta property="fb:pages" content="20654027008" />
+												<meta property="fb:pages" content="141888329160971" />
+												<meta property="fb:pages" content="164697223559731" />
+												<meta property="fb:pages" content="207513175076" />
+												<meta property="fb:pages" content="100429659640" />
+												<meta property="fb:pages" content="42682032028" />
+												<meta property="fb:pages" content="6533373917" />
+												<meta property="fb:pages" content="273805206181" />
+												<meta property="fb:pages" content="150969458282586" />
+												<meta property="fb:pages" content="57540727364" />
+												<meta property="fb:pages" content="189526659635" />
+												<meta property="fb:pages" content="166378686727483" />
+												<meta property="fb:pages" content="150969458282586" />
+												<meta property="fb:pages" content="48139565306" />
+										<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,"script","dataLayer","GTM-P7HPNP6");</script>
+				<meta property="fb:app_id" content="114466555268868" />
+<meta property="fb:page_id" content="110225254594" />
+<meta property="fb:admins" content="100002625504753" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="National Post" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Canadian News, World News and Breaking Headlines" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://nationalpost.com/feed;icon-uri=http://1.gravatar.com/blavatar/bf69214e83fdd5520e4b5d91ba3b7d64?s=16" /><link rel="amphtml" href="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem/amp" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">var Postmedia=Postmedia || {};Postmedia.Analytics=Postmedia.Analytics || {};Postmedia.Analytics.PublishedDate = "2017/10/18 17:14:10";Postmedia.Analytics.ModifiedDate = "2017/10/18 17:14:10";Postmedia.Analytics.GlobalSlug = "1012 1013";Postmedia.Analytics.Authors = "jbrean";</script>
+	</head>
+	
+	<body id="" class="post-template-default single single-post postid-12dc4e9f-1896-40ab-b088-78fbcfdfc6e1 single-format-standard mp6 customizer-styles-applied site-np highlander-enabled highlander-light" >
+		<!-- Google Tag Manager Postmedia-Global - Needs to be inserted immediately after body tag NEED CODE -->
+		<!-- Google Tag Manager The Province - Needs to be inserted immediately after Postmedia-Global snippet NEED CODE -->
+		
+					<!-- Needs to be the first ad rendered on the page -->
+			<div id="gpt-nulladslot" style='height:0; display:none;'>
+				<!-- Null Ad Slot for bug DAS-265-->
+				<script>
+					googletag.cmd.push(function() {
+						var gpt_nulladslot = googletag.defineSlot('null', [66, 6], 'gpt-nulladslot').addService(googletag.pubads());
+						googletag.display('gpt-nulladslot');
+						googletag.pubads().refresh( [ gpt_nulladslot ], {changeCorrelator: false} );
+					});
+				</script>
+				<!-- Null Ad Slot ends -->
+			</div>
+				
+		<!-- Start of DoubleClick Floodlight Tag: Please do not remove NEED CODE --> 
+
+		<div id="fb-root"></div>
+		
+				<div itemscope itemtype="http://schema.org/Organization">
+		<meta itemprop="url" content="http://nationalpost.com/">
+		<meta itemprop="name" content="National Post">
+		<meta itemprop="logo" content="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/images/logo-header-np.svg">
+					<link itemprop="sameAs" href="https://www.facebook.com/NationalPost">
+						<link itemprop="sameAs" href="https://twitter.com/nationalpost">
+						<link itemprop="sameAs" href="https://www.pinterest.com/nationalpost/">
+						<link itemprop="sameAs" href="https://www.youtube.com/nationalpost">
+						<link itemprop="sameAs" href="https://www.instagram.com/nationalpost/">
+						<link itemprop="sameAs" href="https://plus.google.com/+NationalPost">
+						<link itemprop="sameAs" href="http://nationalpost.tumblr.com/">
+						<link itemprop="sameAs" href="https://www.reddit.com/domain/news.nationalpost.com/">
+							<link itemprop="sameAs" href="https://en.wikipedia.org/wiki/National_Post">
+				<link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.nationalpost&hl=en">
+				<link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.newspaperdirect.nationalpost.android&hl=en">
+				<link itemprop="sameAs" href="https://itunes.apple.com/ca/app/national-post-mobile/id409444645?mt=8">
+				<link itemprop="sameAs" href="https://itunes.apple.com/ca/app/national-post-epaper/id629410892?mt=8">
+				<link itemprop="sameAs" href="https://www.microsoft.com/en-ca/store/p/national-post-epaper/9wzdncrdczl0">
+						</div>
+						<!-- Out of Page ad -->
+				<div class="out-of-page">
+				            <div id="gpt-oop" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                    jQuery( document ).ready( function() {
+            googletag.cmd.push( function() {
+        
+				var gpt_oop = googletag.
+
+			 defineOutOfPageSlot ("/3081/npo_news/news/world/story" , 'gpt-oop'); gpt_oop.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                 pnJustInTime.route( 
+        { 
+                        ad_id: '"#gpt-oop"',
+                        pixels_away:100,
+                        pixels_away_count:1,
+                        mode:'down',
+                        lazy_loading_enabled:'"on"',
+                        refresh_enabled:'"on"',
+                        refresh_count:5,
+                        refresh_time:62,
+                        block_these_ads:'"#gpt-bigboxtop, #gpt-wallpaper, #gpt-leaderboard, #gpt-leaderboard-mobile, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-impulse, #gpt-impulse-mobile"',
+                        admode:'""',
+                        ad_data:'null',
+                        adslot: gpt_oop,
+                    } 
+                );
+            });                         
+        });
+                     </script>
+                </div>
+        
+
+    				</div>
+				<!-- Wallpaper Ad -->
+				<div class="wallpaper-container" style="position:absolute">
+				            <div id="gpt-wallpaper" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                    jQuery( document ).ready( function() {
+            googletag.cmd.push( function() {
+        
+				var gpt_wallpaper = googletag.
+
+			 defineSlot ("/3081/npo_news/news/world/story", [[4,4]] , 'gpt-wallpaper');  adSlots.push( gpt_wallpaper ); gpt_wallpaper.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                 pnJustInTime.route( 
+        { 
+                        ad_id: '"#gpt-wallpaper"',
+                        pixels_away:100,
+                        pixels_away_count:1,
+                        mode:'down',
+                        lazy_loading_enabled:'"on"',
+                        refresh_enabled:'"on"',
+                        refresh_count:5,
+                        refresh_time:62,
+                        block_these_ads:'"#gpt-bigboxtop, #gpt-wallpaper, #gpt-leaderboard, #gpt-leaderboard-mobile, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-impulse, #gpt-impulse-mobile"',
+                        admode:'""',
+                        ad_data:'null',
+                        adslot: gpt_wallpaper,
+                    } 
+                );
+            });                         
+        });
+                     </script>
+                </div>
+        
+
+    				</div>
+						
+		
+		<div id="page" class="hfeed site desktop" >
+	
+		
+<header class="l-header full-width   ">
+	<div class="header-wrapper">
+				<div class="top-bar">
+			<div class="l-constrained">
+				<ul class="subscriber-links track_event" data-event-tracking="Header - Subscription">
+					<li class="signin"><a href="javascript:void(0);" onclick="janrain.capture.ui.renderScreen('signIn')">Sign In/Register</a></li>
+					<li class="subscribe"><a href="http://www.nationalpost.com/subscribe/index.html">Subscribe</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="masthead">
+			<div class="track_event" data-event-tracking="Header - Logo">
+				<a class="logo" href="http://nationalpost.com">
+									<img src="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/images/logo-header-np.svg" alt="National Post" />
+				</a>
+			</div>
+			<div class="track_event" data-event-tracking="Header Mobile - Nagigation Open Close">
+				<a href="javascript:void(0)" class="nav-button"></a>
+			</div>
+		</div>
+		<div class="nav-wrap">
+			<div class="search track_event" data-event-tracking="Header - Search">
+				<div class="l-constrained">
+					<a class="start-search" title="Open Search" href="javascript:void(0)"></a>
+					<form class="search-form" action="/?" method="get" >
+												<label class="search-label">Search NationalPost.com ...</label>
+						<input id="main-searcher" type="text" name="s" class="search-box" autocomplete="off" />
+						<a class="close-search" title="Close Search" href="javascript:void(0)"></a>
+					</form>
+				</div>
+			</div>
+			
+			<nav id="primary-nav" class="navigation">
+				<ul id="menu-primary" class="main-nav track_event" data-event-tracking="Header - Main Navigation">
+				<li id="menu-item-76014932" class="menu-item menu-item-object-category menu-item-has-children news"><a href="http://nationalpost.com/category/news">News</a><div class="subnav"><ul class="subnav-menu"><li id="menu-item-76016415" class="menu-item menu-item-object-category news"><a href="http://nationalpost.com/category/news">All News</a></li><li id="menu-item-76014933" class="menu-item menu-item-object-category national"><a href="http://nationalpost.com/category/news/national">National</a></li><li id="menu-item-76014934" class="menu-item menu-item-object-category world"><a href="http://nationalpost.com/category/news/world">World</a></li><li id="menu-item-76023453" class="menu-item menu-item-object-category toronto"><a href="http://nationalpost.com/category/news/toronto">Toronto</a></li><li id="menu-item-76024651" class="menu-item menu-item-object-category politics"><a href="http://nationalpost.com/category/news/politics">Politics</a></li></ul></div><li id="menu-item-76015762" class="menu-item menu-item-object-category opinion"><a href="http://nationalpost.com/category/opinion">Full Comment</a></li><li id="menu-item-76014958" class="menu-item menu-item-object-category menu-item-has-children sports"><a href="http://nationalpost.com/category/sports">Sports</a><div class="subnav"><ul class="subnav-menu"><li id="menu-item-76016416" class="menu-item menu-item-object-category sports"><a href="http://nationalpost.com/category/sports">All Sports</a></li><li id="menu-item-76014959" class="menu-item menu-item-object-category menu-item-has-children nhl"><a href="http://nationalpost.com/category/sports/hockey/nhl">NHL</a><div class="subnav"><ul class="subnav-menu"><li class="menu-item menu-item-object-category vancouver-canucks"><a href="http://nationalpost.com/category/sports/hockey/nhl/vancouver-canucks">Vancouver Canucks</a></li><li class="menu-item menu-item-object-category calgary-flames"><a href="http://nationalpost.com/category/sports/hockey/nhl/calgary-flames">Calgary Flames</a></li><li class="menu-item menu-item-object-category edmonton-oilers"><a href="http://nationalpost.com/category/sports/hockey/nhl/edmonton-oilers">Edmonton Oilers</a></li><li class="menu-item menu-item-object-category winnipeg-jets"><a href="http://nationalpost.com/category/sports/hockey/nhl/winnipeg-jets">Winnipeg Jets</a></li><li class="menu-item menu-item-object-category toronto-mapleleafs"><a href="http://nationalpost.com/category/sports/hockey/nhl/toronto-mapleleafs">Toronto Maple Leafs</a></li><li class="menu-item menu-item-object-category ottawa-senators"><a href="http://nationalpost.com/category/sports/hockey/nhl/ottawa-senators">Ottawa Senators</a></li><li class="menu-item menu-item-object-category montreal-canadiens"><a href="http://nationalpost.com/category/sports/hockey/nhl/montreal-canadiens">Montreal Canadiens</a></li></ul></div></li><li id="menu-item-76014968" class="menu-item menu-item-object-category baseball"><a href="http://nationalpost.com/category/sports/baseball">Baseball</a></li><li id="menu-item-76014969" class="menu-item menu-item-object-category menu-item-has-children basketball"><a href="http://nationalpost.com/category/sports/basketball">Basketball</a><div class="subnav"><ul class="subnav-menu"><li class="menu-item menu-item-object-category nba"><a href="http://nationalpost.com/category/sports/basketball/nba">NBA</a></li><li class="menu-item menu-item-object-category ncaa"><a href="http://nationalpost.com/category/sports/basketball/ncaa">NCAA</a></li></ul></div></li><li id="menu-item-76014972" class="menu-item menu-item-object-category menu-item-has-children football"><a href="http://nationalpost.com/category/sports/football">Football</a><div class="subnav"><ul class="subnav-menu"><li class="menu-item menu-item-object-category cfl"><a href="http://nationalpost.com/category/sports/football/cfl">CFL</a></li><li class="menu-item menu-item-object-category nfl"><a href="http://nationalpost.com/category/sports/football/nfl">NFL</a></li></ul></div></li><li id="menu-item-76014967" class="menu-item menu-item-object-category soccer"><a href="http://nationalpost.com/category/sports/soccer">Soccer</a></li><li id="menu-item-76014975" class="menu-item menu-item-object-category golf"><a href="http://nationalpost.com/category/sports/golf">Golf</a></li><li id="menu-item-76131789" class="menu-item menu-item-object-category tennis"><a href="http://nationalpost.com/category/sports/tennis">Tennis</a></li><li id="menu-item-76131780" class="menu-item menu-item-object-category olympics"><a href="http://nationalpost.com/category/sports/olympics">Olympics</a></li></ul></div><li id="menu-item-76014936" class="menu-item menu-item-object-category menu-item-has-children entertainment"><a href="http://nationalpost.com/category/entertainment">Culture</a><div class="subnav"><ul class="subnav-menu"><li id="menu-item-76016418" class="menu-item menu-item-object-category entertainment"><a href="http://nationalpost.com/category/entertainment">All Culture</a></li><li id="menu-item-76014937" class="menu-item menu-item-object-category books"><a href="http://nationalpost.com/category/entertainment/books">Books</a></li><li id="menu-item-76014938" class="menu-item menu-item-object-category celebrity"><a href="http://nationalpost.com/category/entertainment/celebrity">Celebrity</a></li><li id="menu-item-76014939" class="menu-item menu-item-object-category movies"><a href="http://nationalpost.com/category/entertainment/movies">Movies</a></li><li id="menu-item-76014940" class="menu-item menu-item-object-category music"><a href="http://nationalpost.com/category/entertainment/music">Music</a></li><li id="menu-item-76023474" class="menu-item menu-item-object-category theatre"><a href="http://nationalpost.com/category/entertainment/theatre">Theatre</a></li><li id="menu-item-76014942" class="menu-item menu-item-object-category television"><a href="http://nationalpost.com/category/entertainment/television">Television</a></li></ul></div><li id="menu-item-76014943" class="menu-item menu-item-object-category menu-item-has-children life"><a href="http://nationalpost.com/category/life">Life</a><div class="subnav"><ul class="subnav-menu"><li id="menu-item-76016423" class="menu-item menu-item-object-category life"><a href="http://nationalpost.com/category/life">All Life</a></li><li id="menu-item-76014944" class="menu-item menu-item-object-category health"><a href="http://nationalpost.com/category/health">Health</a></li><li id="menu-item-76014951" class="menu-item menu-item-object-category homes"><a href="http://nationalpost.com/category/life/homes">Homes</a></li><li id="menu-item-76023489" class="menu-item menu-item-object-category food"><a href="http://nationalpost.com/category/life/food">Eating &amp; Drinking</a></li><li id="menu-item-76014954" class="menu-item menu-item-object-category fashion-beauty"><a href="http://nationalpost.com/category/life/fashion-beauty">Style</a></li><li id="menu-item-76014955" class="menu-item menu-item-object-category travel"><a href="http://nationalpost.com/category/travel">Travel</a></li><li id="menu-item-76480986" class="menu-item menu-item-object-category life-by-design"><a href="http://nationalpost.com/category/life/life-by-design">Life By Design</a></li><li id="menu-item-76023494" class="menu-item menu-item-object-category parenting"><a href="http://nationalpost.com/category/life/parenting">Parenting</a></li></ul></div><li id="menu-item-76027861" class="menu-item menu-item-has-children more"><a href="">More</a><div class="subnav"><ul class="subnav-menu"><li id="menu-item-76014978" class="menu-item menu-item-object-category horoscopes"><a href="http://nationalpost.com/category/life/horoscopes">Horoscopes</a></li><li id="menu-item-76014979" class="menu-item contests"><a href="http://www.nationalpost.com/contests/index.html">Contests</a></li></ul></div><li id="menu-item-76014980" class="menu-item driving"><a href="http://driving.ca/">Driving</a></li><li id="menu-item-76014981" class="menu-item classifieds"><a href="http://classifieds.nationalpost.com/">Classifieds</a></li><li id="menu-item-76014982" class="menu-item jobs"><a href="http://working.com/toronto">Jobs</a></li><li id="menu-item-76014983" class="menu-item subscribe"><a href="http://www.nationalpost.com/subscribe/index.html">Subscribe</a></li><li id="menu-item-76014984" class="menu-item financial-post"><a href="http://www.financialpost.com/index.html">Financial Post</a></li>				</ul>
+			</nav>
+					</div>
+	</div>
+</header>
+	
+		<div id="content" class="site-content">
+
+<div class="story-content  l-content">
+		<section class="l-top-content">
+		<div class="adunit">
+			
+	<div class="widget-advertisement advertisement pnLeaderboard">
+		<div id="gpt-billboard"></div>
+		<div id="pn-leaderboard-ad-large">
+			            <div id="gpt-leaderboard" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                    jQuery( document ).ready( function() {
+            googletag.cmd.push( function() {
+        
+				var gpt_leaderboard = googletag.
+
+			 defineSlot ("/3081/npo_news/news/world/story", [[728,90],[970,90],[970,250],[1200,90],[1200,250]] , 'gpt-leaderboard');  adSlots.push( gpt_leaderboard ); gpt_leaderboard.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                 pnJustInTime.route( 
+        { 
+                        ad_id: '"#gpt-leaderboard"',
+                        pixels_away:100,
+                        pixels_away_count:1,
+                        mode:'down',
+                        lazy_loading_enabled:'"on"',
+                        refresh_enabled:'"on"',
+                        refresh_count:5,
+                        refresh_time:62,
+                        block_these_ads:'"#gpt-bigboxtop, #gpt-wallpaper, #gpt-leaderboard, #gpt-leaderboard-mobile, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-impulse, #gpt-impulse-mobile"',
+                        admode:'""',
+                        ad_data:'null',
+                        adslot: gpt_leaderboard,
+                    } 
+                );
+            });                         
+        });
+                     </script>
+                </div>
+        
+
+    		</div>
+	</div>
+		</div>
+	</section>
+		<div class="l-constrained site-container contentbody">
+				<div class="l-main active" id="main">
+						<div class="fluid-holder ">
+			
+<article id="post-12dc4e9f-1896-40ab-b088-78fbcfdfc6e1" class="l-article three-col-post post-12dc4e9f-1896-40ab-b088-78fbcfdfc6e1 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-world tag-henri-poincar tag-henri-poincare tag-isaac-newton tag-mathematics tag-nordic-countries news">
+			<div itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization">
+			<meta itemprop="name" content="National Post"/>
+			<meta itemprop="url" content="http://nationalpost.com"/>
+		</div>
+		<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				<meta itemprop="url" content="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/images/logo-schema-np.png">
+				<meta itemprop="width" content="400">
+				<meta itemprop="height" content="60">
+			</div>
+			<meta itemprop="name" content="National Post">
+			<meta itemprop="url" content="http://nationalpost.com"/>
+		</div>
+				<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://nationalpostcom.files.wordpress.com/2017/10/1529831.png">
+			<meta itemprop="width" content="1000">
+			<meta itemprop="height" content="750">
+		</div>
+				<meta itemprop="mainEntityOfPage" content="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem">
+			<header class="entry-header">
+		<h1 itemprop="headline" class="entry-title">How Chinese scientists used a supercomputer to solve the ancient puzzle called the Three Body Problem</h1>
+		<h2 class="excerpt">Like the endlessly repeating patterns of chaos theory, the new solutions discovered by the Chinese researchers make for elaborate and weirdly beautiful images when they are plotted in two dimensions</h2>	</header><!-- .entry-header -->
+
+	
+		<div class="entry-featured-media-container below-content">
+
+		
+			<figure class="entry-featured-media align-none wp-caption post-img featured-image" id="post-76885856media-76885856" itemprop="associatedMedia" itemscope itemid="https://nationalpostcom.files.wordpress.com/2017/10/1529831.png" itemtype="http://schema.org/ImageObject">
+
+				<img itemprop="url" class="wp-post-image" alt="" src="https://nationalpostcom.files.wordpress.com/2017/10/1529831.png" width="780" height="439" />
+
+									<figcaption class="wp-caption-text" itemprop="description">
+						<span class="img-caption">Chinese scientists have used one of the world’s fastest supercomputers to discover nearly 700 new unique and specific solutions to the Three Body Problem, according to their new paper in the journal Science China Physics Mechanics &amp; Astronomy</span><span class="img-author"><span itemprop="creator">Handout</span></span>					</figcaption>
+				
+			</figure>
+
+				</div>
+		<!-- THREE COL CHANGE GOES HERE -->
+			<div id="left-rail" class="fixed-holder first left" >
+				<div id="entry-details-container">
+					<section id="entry-details" class="entry-details byline native-sticky clearfix">
+						
+		<div class="story-details">
+
+		
+		<div class="author-wrap">
+
+		
+			<div class="author-container main-author" itemprop="author" itemscope itemtype="http://schema.org/person">
+				<meta content="jbrean" />
+
+			<meta itemprop="name" content="Joseph Brean" /><a class="author" itemprop="sameAs" href="http://nationalpost.com/author/jbrean"><img itemprop="image" class="avatar" src="https://secure.gravatar.com/avatar/e9bf315d6af23cb2ad26d622d9eb0e5a?s=96&#038;d=mm&#038;r=g" width="90" alt="Joseph Brean" /><br/>Joseph Brean</a>				<div class="author-twitter">
+				<a href="" target="_blank"></a>				</div>
+							</div>
+					</div> <!-- /author-wrap -->
+		
+		<div class="byline-dates">
+			<p><time itemprop="datePublished" class="entry-date published pubdate" datetime="2017-10-18T17:14:10-04:00">October 18, 2017<br />5:14 PM EDT</time></p><meta itemprop="dateModified" content="2017-10-18T17:14:10-04:00">		</div>
+
+		<div class="filed-under">Filed under<div class="breadcrumb-wrap"><ul class="breadcrumb-list" itemscope itemtype="http://schema.org/BreadcrumbList"><li class="news track_event" data-event-tracking="Parent Breadcrumbs" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://nationalpost.com/category/news/" itemprop="item"> <span itemprop="name">News</span> </a> </li><li class="world track_event current-category" data-event-tracking="Parent Breadcrumbs" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://nationalpost.com/category/news/world/" itemprop="item"> <span itemprop="name">World</span> </a> </li></ul></div></div>		</div><!-- story-details-->
+
+					<div class="shortcut shortcut-comment">
+				<a href="#comments-area"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="icon"><path d="M29.6 13C29.6 5.8 23 0 14.8 0 6.6 0 0 5.8 0 13c0 7.2 6.6 13 14.8 13 2.1 0 4.1-0.4 6-1.1 1.8 1 3.9 2.7 4.8 5.1 0 0 1.6-2.6 0.5-8.5C28.3 19.2 29.6 16.3 29.6 13" class="a"/></svg>Comment</a>
+			</div>
+					<div class="shortcut share-button share-facebook">
+				<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" data-share-url="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-facebook"><g><path fill="#1B75BB" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M18.7 6.8v2.5h-1.5c-0.5 0-0.9 0.1-1.1 0.3 -0.2 0.2-0.3 0.6-0.3 1v1.8h2.8l-0.4 2.8h-2.4v7.2h-2.9v-7.2h-2.4v-2.8h2.4v-2.1c0-1.2 0.3-2.1 1-2.7 0.7-0.6 1.5-1 2.6-1C17.5 6.7 18.2 6.8 18.7 6.8z"/></g></svg>Facebook</a>
+			</div>
+			<div class="shortcut share-button share-twitter">
+				<a href="javascript:void(0)" data-share-url="https://twitter.com/intent/tweet?text=How%20Chinese%20scientists%20used%20a%20supercomputer%20to%20solve%20the%20ancient%20puzzle%20called%20the%20Three%20Body%20Problem&#038;url=http%3A%2F%2Fnationalpost.com%2Fwcm%2F12dc4e9f-1896-40ab-b088-78fbcfdfc6e1&#038;related=financialpost,fullcomment&#038;via=nationalpost" rel="nofollow external"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-twitter"><g><path fill="#4EC8F4" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M22.5 10.4c-0.4 0.6-0.9 1.1-1.5 1.6 0 0.1 0 0.2 0 0.4 0 0.8-0.1 1.6-0.4 2.5 -0.2 0.8-0.6 1.6-1.1 2.4 -0.5 0.8-1.1 1.4-1.7 2 -0.7 0.6-1.5 1-2.4 1.4 -1 0.3-2 0.5-3.1 0.5 -1.7 0-3.3-0.5-4.7-1.4 0.2 0 0.5 0 0.7 0 1.4 0 2.7-0.4 3.8-1.3 -0.7 0-1.3-0.2-1.8-0.6 -0.5-0.4-0.9-0.9-1.1-1.5 0.2 0 0.4 0 0.6 0 0.3 0 0.5 0 0.8-0.1 -0.7-0.1-1.3-0.5-1.8-1.1s-0.7-1.2-0.7-1.9v0c0.4 0.2 0.9 0.4 1.4 0.4 -0.4-0.3-0.7-0.6-1-1.1 -0.2-0.4-0.4-0.9-0.4-1.5 0-0.6 0.1-1.1 0.4-1.5 0.8 0.9 1.7 1.7 2.8 2.3 1.1 0.6 2.3 0.9 3.5 0.9 0-0.2-0.1-0.5-0.1-0.7 0-0.8 0.3-1.6 0.9-2.2 0.6-0.6 1.3-0.9 2.2-0.9 0.9 0 1.6 0.3 2.2 1 0.7-0.1 1.3-0.4 1.9-0.7 -0.2 0.7-0.7 1.3-1.3 1.7C21.3 10.8 21.9 10.6 22.5 10.4z"/></g></svg>Twitter</a>
+			</div>
+			<div class="shortcut share-button share-email">
+				<a href="mailto:?subject=National%20Post%3A%20How%20Chinese%20scientists%20used%20a%20supercomputer%20to%20solve%20the%20ancient%20puzzle%20called%20the%20Three%20Body%20Problem&#038;body=I%20wanted%20to%20share%20a%20story%20with%20you%20from%20National%20Post%3A%0A%0AHow%20Chinese%20scientists%20used%20a%20supercomputer%20to%20solve%20the%20ancient%20puzzle%20called%20the%20Three%20Body%20Problem%0ALike%20the%20endlessly%20repeating%20patterns%20of%20chaos%20theory%2C%20the%20new%20solutions%20discovered%20by%20the%20Chinese%20researchers%20make%20for%20elaborate%20and%20weirdly%20beautiful%20images%20when%20they%20are%20plotted%20in%20two%20dimensions%0Ahttp%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem%0A" rel="nofollow external" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-email"><g><path fill="#6EA943" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M22.1 19.3c0 0.7-0.6 1.3-1.3 1.3H9.2c-0.7 0-1.3-0.6-1.3-1.3v-6.3c0.2 0.3 0.5 0.5 0.8 0.7 1.3 0.9 2.6 1.8 3.9 2.7 0.7 0.5 1.5 1.1 2.3 1.1H15h0c0.9 0 1.7-0.6 2.3-1.1 1.3-0.9 2.6-1.8 3.9-2.7 0.3-0.2 0.6-0.4 0.8-0.7V19.3zM20.7 12.9c-1.2 0.9-2.5 1.7-3.7 2.6 -0.5 0.4-1.4 1.1-2 1.1H15h0c-0.6 0-1.5-0.7-2-1.1 -1.2-0.9-2.5-1.7-3.7-2.6C8.7 12.5 7.9 11.6 7.9 10.9c0-0.8 0.4-1.4 1.3-1.4h11.6c0.7 0 1.3 0.6 1.3 1.3C22.1 11.6 21.4 12.4 20.7 12.9"/></g></svg>Email</a>
+			</div>
+			<div class="shortcut share-button share-more">
+				<a href="#"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="icon"><path class="share_circle" d="M15 30c8.3 0 15-6.7 15-15S23.3 0 15 0C6.7 0 0 6.7 0 15S6.7 30 15 30" fill="#A6A8AB" /><path class="share_circle_icon" d="M18.6 16.6c-0.7 0-1.3 0.3-1.7 0.7l-3.1-1.8c0-0.1 0-0.3 0-0.4 0-0.2 0-0.3 0-0.4l3.3-1.9c0.4 0.4 1 0.6 1.6 0.6 1.3 0 2.4-1.1 2.4-2.4 0-1.3-1.1-2.4-2.4-2.4s-2.4 1.1-2.4 2.4c0 0.2 0 0.3 0 0.4l-3.3 1.9c-0.4-0.4-1-0.6-1.6-0.6 -1.3 0-2.4 1.1-2.4 2.4 0 1.3 1.1 2.4 2.4 2.4 0.6 0 1.1-0.2 1.6-0.6l3.2 1.9c0 0.1 0 0.1 0 0.2 0 1.3 1.1 2.4 2.4 2.4S21 20.4 21 19C21 17.7 19.9 16.6 18.6 16.6" fill="#FFF" /></svg>More</a>
+				<div class="share-more-popup"><div class="close-button">
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 30 30">
+    <g id="icon-close">
+<polygon fill="#000000" points="30,2.121 27.879,0 15,12.879 2.121,0 0,2.121 12.879,15 0,27.879 2.121,30 15,17.121 27.879,30 
+		30,27.879 17.121,15 " />
+    </g>
+</svg>
+</div><div class="title">Share this story</div><div class="post-title">How Chinese scientists used a supercomputer to solve the ancient puzzle called the Three Body Problem</div><div class="shortcut share-button share-tumbler"><a href="https://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem&#038;name=How+Chinese+scientists+used+a+supercomputer+to+solve+the+ancient+puzzle+called+the+Three+Body+Problem&#038;description=Like+the+endlessly+repeating+patterns+of+chaos+theory%2C+the+new+solutions+discovered+by+the+Chinese+researchers+make+for+elaborate+and+weirdly+beautiful+images+when+they+are+plotted+in+two+dimensions" rel="nofollow external" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 30 30" class="icon-tumblr"><g><path fill="#28364A" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15" /><path fill="#FFFFFF" d="M19 21.1c-0.2 0.4-1.4 0.8-2.4 0.8 -3 0.1-4.2-2.2-4.2-3.7v-4.6H11v-1.8c2.1-0.8 2.6-2.7 2.7-3.8 0-0.1 0.1-0.1 0.1-0.1h2v3.5h2.8v2.1h-2.8v4.3c0 0.6 0.2 1.4 1.3 1.4 0.4 0 0.9-0.1 1.1-0.2L19 21.1z" /></g></svg>Tumblr</a></div><div class="shortcut share-button share-pinterest"><a href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem&#038;media=https://nationalpostcom.files.wordpress.com/2017/10/1529831.png&#038;description=How+Chinese+scientists+used+a+supercomputer+to+solve+the+ancient+puzzle+called+the+Three+Body+Problem" rel="nofollow external" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 30 30" class="icon-pinterest"><g><path fill="#D02E27" class="bg" d="M30 15C30 23.3 23.3 30 15 30 6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15" /><path fill="#FFFFFF" d="M9.3 12.5c0-0.6 0.1-1.2 0.3-1.8 0.2-0.6 0.5-1.1 0.9-1.5 0.4-0.4 0.8-0.8 1.4-1.1 0.5-0.3 1.1-0.5 1.7-0.7 0.6-0.2 1.2-0.2 1.8-0.2 0.9 0 1.8 0.2 2.6 0.6 0.8 0.4 1.5 1 2 1.7s0.8 1.6 0.8 2.6c0 0.6-0.1 1.1-0.2 1.7 -0.1 0.5-0.3 1.1-0.5 1.6s-0.5 1-0.9 1.3 -0.8 0.7-1.3 0.9c-0.5 0.2-1.1 0.3-1.7 0.3 -0.4 0-0.8-0.1-1.2-0.3s-0.7-0.5-0.9-0.8c-0.1 0.2-0.1 0.6-0.2 1s-0.2 0.7-0.2 0.8c0 0.1-0.1 0.3-0.2 0.6 -0.1 0.3-0.2 0.5-0.2 0.6 -0.1 0.1-0.2 0.3-0.3 0.6s-0.3 0.5-0.4 0.7c-0.1 0.2-0.3 0.5-0.6 0.8l-0.1 0 -0.1-0.1c-0.1-0.9-0.1-1.5-0.1-1.7 0-0.5 0.1-1.2 0.2-1.8 0.1-0.7 0.3-1.5 0.6-2.6 0.3-1 0.4-1.6 0.5-1.8 -0.2-0.4-0.3-0.9-0.3-1.5 0-0.5 0.2-1 0.5-1.4 0.3-0.4 0.7-0.7 1.2-0.7 0.4 0 0.6 0.1 0.9 0.4 0.2 0.2 0.3 0.5 0.3 0.9 0 0.4-0.1 1-0.4 1.7s-0.4 1.3-0.4 1.7c0 0.4 0.1 0.7 0.4 0.9 0.3 0.2 0.6 0.4 1 0.4 0.3 0 0.6-0.1 0.9-0.2 0.3-0.1 0.5-0.4 0.7-0.6s0.4-0.5 0.5-0.8 0.3-0.6 0.3-1c0.1-0.3 0.1-0.7 0.2-1s0.1-0.6 0.1-0.9c0-1-0.3-1.8-1-2.4s-1.5-0.9-2.5-0.9c-1.2 0-2.2 0.4-3 1.2 -0.8 0.8-1.2 1.7-1.2 2.9 0 0.3 0 0.5 0.1 0.8 0.1 0.2 0.2 0.4 0.2 0.6 0.1 0.1 0.2 0.3 0.2 0.4 0.1 0.1 0.1 0.2 0.1 0.3 0 0.2 0 0.4-0.1 0.7s-0.2 0.4-0.3 0.4c0 0-0.1 0-0.2 0 -0.3-0.1-0.6-0.3-0.8-0.5 -0.2-0.2-0.4-0.5-0.5-0.8 -0.1-0.3-0.2-0.6-0.3-1C9.3 13.1 9.3 12.8 9.3 12.5z" /></g></svg>Pinterest</a></div><div class="shortcut share-button share-googleplus"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" rel="nofollow external" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 30 30" class="icon-googleplus"><g><path fill="#DA4835" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15" /><path fill="#FFFFFF" d="M17.4 15.1c0 1.2-0.2 2.2-0.7 3.1 -0.5 0.9-1.2 1.6-2.1 2.1 -0.9 0.5-1.9 0.8-3.1 0.8 -0.8 0-1.6-0.2-2.4-0.5 -0.8-0.3-1.4-0.8-2-1.3 -0.5-0.5-1-1.2-1.3-2C5.5 16.6 5.4 15.8 5.4 15s0.2-1.6 0.5-2.4 0.8-1.4 1.3-2c0.5-0.5 1.2-1 2-1.3 0.8-0.3 1.6-0.5 2.4-0.5 1.6 0 3 0.5 4.1 1.6l-1.7 1.6c-0.7-0.6-1.5-0.9-2.4-0.9 -0.7 0-1.3 0.2-1.9 0.5 -0.6 0.3-1 0.8-1.4 1.4C7.9 13.6 7.7 14.3 7.7 15s0.2 1.4 0.5 1.9c0.3 0.6 0.8 1.1 1.4 1.4 0.6 0.3 1.2 0.5 1.9 0.5 0.5 0 0.9-0.1 1.3-0.2 0.4-0.1 0.7-0.3 1-0.5 0.3-0.2 0.5-0.4 0.7-0.7 0.2-0.2 0.3-0.5 0.4-0.7 0.1-0.2 0.1-0.4 0.2-0.6h-3.5v-2.1h5.8C17.4 14.5 17.4 14.8 17.4 15.1zM24.6 14.1v1.8h-1.7v1.7h-1.8v-1.7h-1.7v-1.8h1.7v-1.7h1.8v1.8H24.6z" /></g></svg>Google Plus</a></div><div class="shortcut share-button share-linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem&#038;title=How+Chinese+scientists+used+a+supercomputer+to+solve+the+ancient+puzzle+called+the+Three+Body+Problem&#038;summary=Like+the+endlessly+repeating+patterns+of+chaos+theory%2C+the+new+solutions+discovered+by+the+Chinese+researchers+make+for+elaborate+and+weirdly+beautiful+images+when+they+are+plotted+in+two+dimensions" rel="nofollow external" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 30 30" class="icon-linkedin"><g><path fill="#007AB9" class="bg" d="M30 15c0 8.3-6.7 15-15 15S0 23.3 0 15C0 6.7 6.7 0 15 0S30 6.7 30 15" /><path fill="#FFFFFF" d="M11.4 8.8c0 0.4-0.1 0.8-0.5 1.1 -0.3 0.3-0.7 0.4-1.2 0.4H9.7c-0.5 0-0.9-0.1-1.2-0.4S8.1 9.3 8.1 8.8c0-0.4 0.2-0.8 0.5-1.1C8.9 7.4 9.3 7.3 9.8 7.3s0.9 0.1 1.2 0.4C11.3 8 11.4 8.4 11.4 8.8zM11.2 11.6v8.9H8.3v-8.9H11.2zM21.9 15.4v5.1h-3v-4.8c0-0.6-0.1-1.1-0.4-1.5 -0.2-0.4-0.6-0.5-1.1-0.5 -0.4 0-0.7 0.1-0.9 0.3 -0.3 0.2-0.4 0.5-0.6 0.8 -0.1 0.2-0.1 0.4-0.1 0.7v5h-3c0-2.4 0-4.3 0-5.8s0-2.4 0-2.7l0-0.4h3v1.3h0c0.1-0.2 0.2-0.4 0.4-0.5s0.3-0.3 0.5-0.5c0.2-0.2 0.5-0.3 0.8-0.4 0.3-0.1 0.7-0.1 1-0.1 1 0 1.8 0.3 2.5 1S21.9 14.1 21.9 15.4z" /></g></svg>LinkedIn</a></div><div class="shortcut share-button share-reddit skip-border"><a href="https://www.reddit.com/submit?url=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem&#038;title=How+Chinese+scientists+used+a+supercomputer+to+solve+the+ancient+puzzle+called+the+Three+Body+Problem" rel="nofollow external" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 30 30" class="icon-reddit"><g><path fill="#F37A23" class="bg" d="M30 15C30 23.3 23.3 30 15 30 6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15" /><path fill="#FFFFFF" d="M23 14.7c0 0.3-0.1 0.7-0.3 0.9 -0.2 0.3-0.4 0.5-0.7 0.6 0.1 0.3 0.1 0.6 0.1 0.9 0 0.9-0.3 1.8-0.9 2.6 -0.6 0.8-1.5 1.4-2.6 1.9 -1.1 0.5-2.3 0.7-3.6 0.7 -1.3 0-2.5-0.2-3.6-0.7 -1.1-0.5-2-1.1-2.6-1.9 -0.6-0.8-1-1.6-1-2.6 0-0.3 0-0.6 0.1-0.8 -0.3-0.1-0.5-0.4-0.7-0.7 -0.2-0.3-0.3-0.6-0.3-1 0-0.5 0.2-0.9 0.5-1.3 0.3-0.3 0.8-0.5 1.3-0.5 0.5 0 0.9 0.2 1.3 0.6 1.3-0.9 2.8-1.4 4.6-1.4l1-4.7c0-0.1 0.1-0.1 0.1-0.2 0.1 0 0.1-0.1 0.2 0l3.3 0.7c0.1-0.2 0.3-0.4 0.5-0.5 0.2-0.1 0.4-0.2 0.7-0.2 0.4 0 0.7 0.1 0.9 0.4s0.4 0.6 0.4 0.9 -0.1 0.7-0.4 0.9 -0.6 0.4-0.9 0.4c-0.4 0-0.7-0.1-0.9-0.4 -0.3-0.3-0.4-0.6-0.4-0.9L16.2 7.8l-0.9 4.2c1.8 0.1 3.3 0.5 4.6 1.4 0.3-0.4 0.8-0.5 1.3-0.5 0.5 0 0.9 0.2 1.3 0.5C22.8 13.8 23 14.2 23 14.7zM10.7 16.5c0 0.4 0.1 0.7 0.4 0.9 0.3 0.3 0.6 0.4 0.9 0.4s0.7-0.1 0.9-0.4c0.3-0.3 0.4-0.6 0.4-0.9s-0.1-0.7-0.4-0.9c-0.3-0.3-0.6-0.4-0.9-0.4 -0.4 0-0.7 0.1-0.9 0.4S10.7 16.1 10.7 16.5zM18 19.6c0.1-0.1 0.1-0.1 0.1-0.2 0-0.1 0-0.2-0.1-0.2 -0.1-0.1-0.1-0.1-0.2-0.1s-0.2 0-0.2 0.1c-0.2 0.3-0.6 0.4-1.1 0.6 -0.5 0.1-1 0.2-1.4 0.2s-1-0.1-1.4-0.2 -0.8-0.3-1.1-0.6c-0.1-0.1-0.1-0.1-0.2-0.1s-0.2 0-0.2 0.1c-0.1 0.1-0.1 0.1-0.1 0.2 0 0.1 0 0.2 0.1 0.2 0.3 0.3 0.6 0.5 1.1 0.6 0.4 0.1 0.8 0.2 1.1 0.3s0.6 0 0.8 0 0.5 0 0.8 0 0.6-0.1 1.1-0.3C17.4 20.1 17.7 19.9 18 19.6zM17 17.4c0.3 0.3 0.6 0.4 0.9 0.4s0.7-0.1 0.9-0.4c0.3-0.3 0.4-0.6 0.4-0.9 0-0.4-0.1-0.7-0.4-0.9s-0.6-0.4-0.9-0.4c-0.4 0-0.7 0.1-0.9 0.4 -0.3 0.3-0.4 0.6-0.4 0.9S16.7 17.2 17 17.4z" /></g></svg>Reddit</a></div></div>			</div>
+							</section>
+				</div>
+							</div>
+		
+	  <!-- THREE COL CHANGE GOES HERE -->
+		<div id="story-main-content" class="fixed-fluid-holder right active last" >
+			<div class="fluid-holder right">
+		<div class="entry-content ">
+		
+		<div class="story-content" itemprop="articleBody">
+		<p>In 1889, in honour of his 60th birthday King Oscar II of Sweden offered a rich prize to any scientist who could solve an ancient puzzle known as the Three Body Problem.</p>
+<p>It was infuriatingly simple. If you know the mass, location, and velocity of three hypothetical objects, such as planets or moons, how can you predict the future path of their orbits?</p>
+<p>The answer, as the mathematician Henri Poincar&eacute; explained in the essay which won him the king&rsquo;s prize, is that you cannot &mdash; at least not with the old-fashioned algebra and calculus known to him at the time. Despite a minor scandal over an error in Poincar&eacute;&rsquo;s paper, that is basically where things stood for many years.</p>
+<figure id="attachment_" style="width:640px;" class="wp-caption post-img size_this_image_test aligncenter" itemprop="associatedMedia" itemscope itemid="photo url" itemtype="http://schema.org/ImageObject"><img src="http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=640&amp;quality=60&amp;strip=all" class="wp-image-76885864" srcset="http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=640&amp;quality=60&amp;strip=all 640w, http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=1280&amp;quality=60&amp;strip=all 1280w, http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=150&amp;quality=60&amp;strip=all 150w, http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=300&amp;quality=60&amp;strip=all 300w, http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=768&amp;quality=60&amp;strip=all 768w, http://wpmedia.nationalpost.com/2017/10/3226-9.jpg?w=1024&amp;quality=60&amp;strip=all 1024w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="wp-caption-text">
+<span class="img-caption">
+Henri Poincare ( 1854-1912 ), French mathematician</span>
+<span class="img-author">
+
+<span itemprop="creator">Roger Viollet/Getty Images</span></span>
+
+</figcaption>
+
+</figure>
+<p>Now, however, Chinese scientists have used one of the world&rsquo;s fastest supercomputers to discover nearly 700 new unique and specific solutions to the Three Body Problem, according to their new paper in the journal Science China Physics Mechanics &amp; Astronomy. Until now, there had only been about a dozen, mostly discovered over the last few years, each representing an orbit pattern that repeats and never leads to collision. There may be an infinite number of these solutions still waiting to be found, but there is no general solution that works in all cases.</p>
+<p>Neither Poincar&eacute; nor the king knew it at the time, but the birthday contest sparked the first inkling of chaos theory, one of the three great scientific breakthroughs of the 20th century, along with quantum mechanics and relativity.</p>
+<p>Two centuries earlier, in 1687, Isaac Newton had discovered how gravity works, and explained the mathematics of how it applies to two planets, varying according to the distance between them. That was a relatively simple calculation, known as an inverse square law. But he realized that if you add a third planet into the system, the math breaks down. The equations that describe the movement of the three bodies becomes what mathematicians call non-linear. The old rules do not apply. Hence, the Three Body Problem.</p>
+<figure id="attachment_" style="width:238px;" class="wp-caption post-img size_this_image_test alignright" itemprop="associatedMedia" itemscope itemid="photo url" itemtype="http://schema.org/ImageObject"><img src="http://wpmedia.nationalpost.com/2017/10/ma_newtom.jpg?w=238&amp;quality=60&amp;strip=all" class="wp-image-76885873" srcset="http://wpmedia.nationalpost.com/2017/10/ma_newtom.jpg?w=238&amp;quality=60&amp;strip=all 238w, http://wpmedia.nationalpost.com/2017/10/ma_newtom.jpg?w=476&amp;quality=60&amp;strip=all 476w, http://wpmedia.nationalpost.com/2017/10/ma_newtom.jpg?w=119&amp;quality=60&amp;strip=all 119w" sizes="(max-width: 238px) 100vw, 238px" /><figcaption class="wp-caption-text">
+<span class="img-caption">
+Isaac Newton had discovered how gravity works, and explained the mathematics of how it applies to two planets</span>
+<span class="img-author">
+
+<span itemprop="creator">Archive photo</span></span>
+
+</figcaption>
+
+</figure>
+<p>It took a while for scientists and philosophers to come to terms with this shift. They had always assumed that the world worked by physical laws, and if you could measure initial conditions accurately enough, those laws would let you predict the future indefinitely. As James Gleick described it in his book Chaos: Making a New Science, this view was very wrong.</p>
+<p>&ldquo;There was always one small compromise, so small that working scientists usually forgot it was there, lurking in a corner of their philosophies like an unpaid bill. Measurements could never be perfect,&rdquo; he wrote. &ldquo;Scientists marching under Newton&rsquo;s banner actually waved another flag that said something like this: Given an approximate knowledge of a system&rsquo;s initial conditions and an understanding of natural law, one can calculate the approximate behaviour of the system. This assumption lay at the philosophical heart of science.&rdquo;</p>
+<p>Today we know how wrong this assumption was. The Three Body Problem is now recognized as a classic example of a chaotic system. Like the butterfly that causes a hurricane by flapping its wings, it is exquisitely sensitive to initial conditions. The tiniest tweak can have massive consequences down the line.</p>
+<p>Predicting these orbits requires a new style of calculation that was not developed until the 20th century, and even then, only about a dozen repeating patterns were ever discovered, and only in the last few years. In most scenarios, the math shows that the Three Bodies would just keep on whirling around chaotically, never repeating their paths.</p>
+<p>In some cases, when one of the three bodies has a very small mass, the orbits of the other two can create what are known as Lagrangian Points, locations where the gravity of the two larger objects is in perfect balance, and the smaller third object is held in a stable location. This is of great use in astronomy, for example space-based telescopes, which can be placed at the Lagrangian Points of the Earth and Moon, or Earth and Sun.</p>
+<ul class="related_links">
+<li><a href="http://nationalpost.com/news/canada/u-s-gets-canadian-help-to-take-on-china-in-supercomputer-race-a-perfect-world-for-d-wave">U.S. gets Canadian help to take on China in supercomputer race: ‘A perfect world for D-Wave’</a></li>
+<li><a href="http://nationalpost.com/news/world/king-of-chess-back-in-game-after-12-year-hiatus-sparked-by-loss-to-supercomputer">King of chess back in game after 12-year hiatus sparked by loss to supercomputer</a></li>
+<li><a href="http://nationalpost.com/news/for-the-first-time-china-dominates-list-of-worlds-fastest-supercomputers">For the first time, China dominates list of world&#8217;s fastest supercomputers</a></li>
+</ul>
+<p>Like the endlessly repeating patterns of chaos theory, the new solutions discovered by the Chinese researchers make for elaborate and weirdly beautiful images when they are plotted in two dimensions. They are unlikely to have ever existed in reality, however. Because of how solar systems form, planets, moons and stars tend to settle into regular orbits on a single plane.</p>
+<p>The Chinese researchers credit their discoveries to advancements in computer science and their novel technique called clean numerical simulation, which is a strategy for modelling chaotic systems, in which solutions are reached indirectly by continuous refinement, rather than directly by brute calculation.</p>
+<p>&ldquo;In this paper, we numerically obtain 695 families of Newtonian periodic planar collisionless orbits of three-body system with equal mass and zero angular momentum in case of initial conditions with isosceles collinear configuration, including the well-known figure-eight family found by Moore in 1993, the 11 families found by &Scaron;uvakov and Dmitra&scaron;inović in 2013, and more than 600 new families that have never been reported, to the best of our knowledge,&rdquo; reads the report by XiaoMing&nbsp;Li and ShiJun&nbsp;Liao.</p>
+<p><em>• Email: <a href="mailto:jbrean@nationalpost.com">jbrean@nationalpost.com</a> | Twitter: <a href="http://twitter.com/JosephBrean" class="twitter-follow-button">JosephBrean</a></em></p>
+		</div>
+		<div class="clearfix"></div>
+				<div class="sub-section">
+			<div class="shortcut-comment">
+				<a href="#comments-area">
+					<div class="icon-count-container">
+						<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 29.6 30" class="icon"><path d="M29.6 13C29.6 5.8 23 0 14.8 0 6.6 0 0 5.8 0 13c0 7.2 6.6 13 14.8 13 2.1 0 4.1-0.4 6-1.1 1.8 1 3.9 2.7 4.8 5.1 0 0 1.6-2.6 0.5-8.5C28.3 19.2 29.6 16.3 29.6 13" class="a" /></svg>
+						<span class="count fb-comments-count" data-href="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem">0</span> 
+					</div>
+					<div class="title-container">
+						<div class="title">Comments</div>
+						<div class="subtitle">Share your thoughts</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		
+			</div><!-- .entry-content -->
+
+	<!-- THREE COL CHANGE GOES HERE -->
+			</div>
+		</div>
+	
+	<div class="clearfix"></div>
+</article><!-- #post-## -->
+			</div>
+					</div>
+	<aside id="sidebar" class="l-sidebar">
+<div id="postmedia_layouts_ad-top" class="widget-wrap clearfix widget_postmedia_layouts_ad widget-sticky adsizewrapper " style="height:1200px;"><div class="widget">            <div id="gpt-bigboxtop" class="pn_dfpads adslot">                         <script type="text/javascript">                                  jQuery( document ).ready( function() {             googletag.cmd.push( function() {          				var gpt_bigboxtop = googletag.  			 defineSlot ("/3081/npo_news/news/world/story", [[300,250],[300,251],[300,600],[300,601],[300,1050]] , 'gpt-bigboxtop');  adSlots.push( gpt_bigboxtop ); gpt_bigboxtop.addService( googletag.pubads() )                       .setTargeting(                         'loc'                         , "top"                     )                                   ;                 pnJustInTime.route(          {                          ad_id: '"#gpt-bigboxtop"',                         pixels_away:100,                         pixels_away_count:1,                         mode:'down',                         lazy_loading_enabled:'"on"',                         refresh_enabled:'"on"',                         refresh_count:5,                         refresh_time:62,                         block_these_ads:'"#gpt-bigboxtop, #gpt-wallpaper, #gpt-leaderboard, #gpt-leaderboard-mobile, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-impulse, #gpt-impulse-mobile"',                         admode:'"resize"',                         ad_data:'null',                         adslot: gpt_bigboxtop,                     }                  );             });                                  });                      </script>                 </div>               </div></div><div id="pn_kaltura-29" class="widget-wrap clearfix pn_kaltura"><div class="widget"><h3 class="widget-title">News Videos</h3><div id="pn_video_363597"></div><script type="text/javascript">( function() { pnShowVideo( "0_2gadjs7y", 363597, "", "", "false", "", "", "kaltura", "playlist", "http:\/\/nationalpost.com\/news\/world\/video\/{videoId}", null, "", "false" ); } )();</script></div></div><div id="pmlay_lists_widget-176" class="widget-wrap clearfix widget_pmlay_lists_widget"><div class="widget">	<section class="widget_1 widget-outfit widget-outfit-r1 ">
+
+					<header id="section-header" class="section-header ">
+				<div id="section-label" class="section-label  clearfix">
+					<h2 class="cat-head">
+						<span>Top News Videos</span>
+					</h2>
+					<div id="section-body"></div>
+				</div>
+			</header>
+			
+		
+		<ul class="posts-list hfeed vertical-list " >
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title col-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|1|tag|"  
+				>
+					<figure class="thumbnail ">
+			<a id="link-76908038" href="/news/world/thailand-grieves-in-elaborate-final-goodbye-to-king-bhumibol/wcm/0817423b-23a3-495d-ae56-6e1ff11aab5f" target="_self">
+					<img src="http://nationalpostcom.files.wordpress.com/2017/10/afp_tq6ke.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="1000" 
+				height="750" 
+				id="img-76908038"/>
+			</a>
+		</figure>
+
+					<header>
+						<h4 class="entry-title"><a href="/news/world/thailand-grieves-in-elaborate-final-goodbye-to-king-bhumibol/wcm/0817423b-23a3-495d-ae56-6e1ff11aab5f" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>Thailand&#039;s elaborate goodbye to King Bhumibol: A golden-spired crematorium and tens of thousands of mourners</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					full-comment no-margrin-title col-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|2|tag|"  
+				>
+					<figure class="thumbnail ">
+			<a id="link-76906970" href="/opinion/john-ivison-morneau-saga-proves-ministers-cant-be-lawmakers-and-shareholders/wcm/6b198bb0-31d8-434f-8af8-53556cf49dec" target="_self">
+					<img src="http://nationalpostcom.files.wordpress.com/2017/10/bill-morneau-14.png?resize=125%2C94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="1000" 
+				height="750" 
+				id="img-76906970"/>
+			</a>
+		</figure>
+
+					<header>
+						<h4 class="entry-title"><a href="/opinion/john-ivison-morneau-saga-proves-ministers-cant-be-lawmakers-and-shareholders/wcm/6b198bb0-31d8-434f-8af8-53556cf49dec" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>John Ivison: Morneau saga proves ministers can&#039;t be lawmakers and shareholders</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title col-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|3|tag|"  
+				>
+					<figure class="thumbnail ">
+			<a id="link-76905409" href="/news/local-news/chilliwack-school-trustee-slammed-for-comments-about-lgbtq-youth-and-anti-bullying-curriculum/wcm/7b729d18-4c11-47ee-a99a-5e45c069bd85/wcm/7b729d18-4c11-47ee-a99a-5e45c069bd85" target="_self">
+					<img src="http://nationalpostcom.files.wordpress.com/2017/10/12039138_10207679209997584_8926680395869026037_o-jpg.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="1000" 
+				height="750" 
+				id="img-76905409"/>
+			</a>
+		</figure>
+
+					<header>
+						<h4 class="entry-title"><a href="/news/local-news/chilliwack-school-trustee-slammed-for-comments-about-lgbtq-youth-and-anti-bullying-curriculum/wcm/7b729d18-4c11-47ee-a99a-5e45c069bd85/wcm/7b729d18-4c11-47ee-a99a-5e45c069bd85" target="_self" rel="bookmark" title="">B.C. school trustee slammed for comments about LGBTQ youth and anti-bullying curriculum</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title col-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|4|tag|"  
+				>
+					<figure class="thumbnail ">
+			<a id="link-76905891" href="/news/canada/laura-babcocks-murder-trial-to-hear-testimony-about-her-financial-records/wcm/887801c4-057a-4b26-b56d-25feb8d94375" target="_self">
+					<img src="http://nationalpostcom.files.wordpress.com/2017/10/screen-shot-2017-10-25-at-2-45-11-pm-copy.png?resize=125%2C94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="1000" 
+				height="750" 
+				id="img-76905891"/>
+			</a>
+		</figure>
+
+					<header>
+						<h4 class="entry-title"><a href="/news/canada/laura-babcocks-murder-trial-to-hear-testimony-about-her-financial-records/wcm/887801c4-057a-4b26-b56d-25feb8d94375" target="_self" rel="bookmark" title="">Mark Smich rapped about &#039;torching a body&#039; then told friends it was a true story, trial hears</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+					</ul>
+
+		
+	</section>
+	</div></div><div id="postmedia_layouts_ad-mid" class="widget-wrap clearfix widget_postmedia_layouts_ad widget-sticky adsizewrapper " style="height:500px;"><div class="widget">            <div id="gpt-bigboxmid" class="pn_dfpads adslot">                         <script type="text/javascript">                                  jQuery( document ).ready( function() {             googletag.cmd.push( function() {          				var gpt_bigboxmid = googletag.  			 defineSlot ("/3081/npo_news/news/world/story", [[300,250],[300,252],[300,600],[300,602]] , 'gpt-bigboxmid');  adSlots.push( gpt_bigboxmid ); gpt_bigboxmid.addService( googletag.pubads() )                       .setTargeting(                         'loc'                         , "mid"                     )                                   ;                 pnJustInTime.route(          {                          ad_id: '"#gpt-bigboxmid"',                         pixels_away:100,                         pixels_away_count:1,                         mode:'down',                         lazy_loading_enabled:'"on"',                         refresh_enabled:'"on"',                         refresh_count:5,                         refresh_time:62,                         block_these_ads:'"#gpt-bigboxtop, #gpt-wallpaper, #gpt-leaderboard, #gpt-leaderboard-mobile, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-impulse, #gpt-impulse-mobile"',                         admode:'"resize"',                         ad_data:'null',                         adslot: gpt_bigboxmid,                     }                  );             });                                  });                      </script>                 </div>               </div></div><div id="pmlay_lists_widget-48" class="widget-wrap clearfix widget_pmlay_lists_widget"><div class="widget">	<section class="widget_0 widget-outfit widget-outfit-r0 ">
+
+					<header id="section-header" class="section-header ">
+				<div id="section-label" class="section-label  clearfix">
+					<h2 class="cat-head">
+						<span>Latest News</span>
+					</h2>
+					<div id="section-body"></div>
+				</div>
+			</header>
+			
+		
+		<ul class="posts-list vertical-list hfeed " >
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|1|cat|"  
+				>
+					
+					<header>
+						<h4 class="entry-title"><a href="/news/world/las-vegas-gunmans-brain-to-be-examined-for-clues-to-killings/wcm/d83cc23f-25f8-4f40-8fe3-1a79c94251b3" target="_self" rel="bookmark" title="">Las Vegas gunman’s brain to be examined for clues to killings but hope for answers is slim</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|2|cat|"  
+				>
+					
+					<header>
+						<h4 class="entry-title"><a href="/news/world/kelloggs-is-sorry-the-only-brown-corn-pop-on-its-cereal-boxes-is-a-janitor/wcm/f0e0b08a-f300-4dc9-ae8b-9cf75e9db837" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>Kellogg&#039;s is sorry the only brown Corn Pop on its cereal boxes is a janitor</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|3|cat|"  
+				>
+					
+					<header>
+						<h4 class="entry-title"><a href="/news/world/canadian-who-survived-hiroshima-nuclear-bomb-to-accept-nobel-peace-prize-this-is-her-story/wcm/c165af95-e3ca-42ae-b008-00a2493363bb" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>Canadian who survived Hiroshima nuclear bomb to accept Nobel Peace Prize. This is her story</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+						<li  >
+				<article 
+					class="post post-excerpt hentry track_event 
+					news no-margrin-title" 
+					data-event-tracking="Sidebar Outfit|0||0|4|cat|"  
+				>
+					
+					<header>
+						<h4 class="entry-title"><a href="/news/world/george-h-w-bush-offers-apologies-after-actress-accuses-ex-president-of-groping-her/wcm/f93f044d-6c7c-460b-a0a7-23dffa59f4c2" target="_self" rel="bookmark" title="">Another actress has accused George H.W. Bush of inappropriate touching</a></h4>					</header>
+
+					
+					
+					
+				</article>
+							</li>
+					</ul>
+
+		
+	</section>
+	</div></div><div id="postmedia_layouts_ad-bot" class="widget-wrap clearfix widget_postmedia_layouts_ad widget-sticky adsizewrapper " style="height:250px;"><div class="widget">            <div id="gpt-bigboxbot" class="pn_dfpads adslot">                         <script type="text/javascript">                                  jQuery( document ).ready( function() {             googletag.cmd.push( function() {          				var gpt_bigboxbot = googletag.  			 defineSlot ("/3081/npo_news/news/world/story", [[300,250],[300,253]] , 'gpt-bigboxbot');  adSlots.push( gpt_bigboxbot ); gpt_bigboxbot.addService( googletag.pubads() )                       .setTargeting(                         'loc'                         , "bot"                     )                                   ;                 pnJustInTime.route(          {                          ad_id: '"#gpt-bigboxbot"',                         pixels_away:100,                         pixels_away_count:1,                         mode:'down',                         lazy_loading_enabled:'"on"',                         refresh_enabled:'"on"',                         refresh_count:5,                         refresh_time:62,                         block_these_ads:'"#gpt-bigboxtop, #gpt-wallpaper, #gpt-leaderboard, #gpt-leaderboard-mobile, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-impulse, #gpt-impulse-mobile"',                         admode:'"resize"',                         ad_data:'null',                         adslot: gpt_bigboxbot,                     }                  );             });                                  });                      </script>                 </div>               </div></div><div id="postmedia_weather_widget-80" class="widget-wrap clearfix widget_postmedia_weather_widget"><div class="widget">
+<div class="section-header-wrap">
+	<header class="section-header">Toronto Weather</header>
+</div>
+<!-- Weather Widget -->
+<div class="weather-widget">
+	<div class="widget-body-wrapper">
+		<div class="weather">
+			<div class="current-weather">
+				<p class="temperature">5<sup>&deg;C</sup></p>
+				<p class="condition">Partly cloudy</p>
+				<p class="feels-like">Feels like 5<sup>&deg;C</sup></p>
+			</div>
+			<div class="weather-icon">
+				<img src="https://s2.wp.com/wp-content/themes/vip/postmedia-plugins/postmedia-geolocation/images/weather/hp_w_ibn_l.svg" alt="weather-icon">
+			</div>
+			<div class="three-day-weather">
+				<ul>
+												<li>
+								Saturday								<span>12<sup>&deg;C</sup></span>
+							</li>
+												<li>
+								Sunday								<span>11<sup>&deg;C</sup></span>
+							</li>
+												<li>
+								Monday								<span>10<sup>&deg;C</sup></span>
+							</li>
+												<li>
+								Tuesday								<span>9<sup>&deg;C</sup></span>
+							</li>
+									</ul>
+			</div>
+		</div>
+	</div>
+	<a class="continue-reading-link" href="/weather">Complete Forecast</a>
+</div>
+</div></div></aside>
+
+	</div>
+	<!-- / container -->
+</div>
+
+<!-- Other posts in category -->
+<div class="l-content">
+	<div class="l-constrained site-container contentbody" id="posts-in-category">
+	
+			<div class="section-header-wrap outfit fauxd25">
+				<div class="section-header-wrap track_event">
+										<a href="http://nationalpost.com/category/news/world">
+						<header class="section-header faux-header">
+							<div class="section-label">
+								<h1 class="cat-head faux-head"><span>World</span></h1>
+							</div>
+						</header>
+					</a>
+									</div>	<!-- / section-header-wrap track_event -->
+				<div class="clearfix"></div>
+
+				<div class="row">
+					<div class="twelvecol">
+						<div class="w360"><ul class="posts-list vertical-list">
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|1|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76910196" href="http://nationalpost.com/news/world/las-vegas-gunmans-brain-to-be-examined-for-clues-to-killings" target="_self">
+					<img src="http://i1.wp.com/wpmedia.nationalpost.com/2017/10/brain-1.png?resize=125%2C94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76910196"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/las-vegas-gunmans-brain-to-be-examined-for-clues-to-killings" target="_self" rel="bookmark" title="">Las Vegas gunman’s brain to be examined for clues to killings but hope for answers is slim</a></h4>				</header>
+
+							</article>
+				</li>
+	
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|2|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76907913" href="http://nationalpost.com/news/world/kelloggs-is-sorry-the-only-brown-corn-pop-on-its-cereal-boxes-is-a-janitor" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/racist-corn-pop.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76907913"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/kelloggs-is-sorry-the-only-brown-corn-pop-on-its-cereal-boxes-is-a-janitor" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>Kellogg&#039;s is sorry the only brown Corn Pop on its cereal boxes is a janitor</a></h4>				</header>
+
+							</article>
+				</li>
+	</ul></div><div class="w360"><ul class="posts-list vertical-list">
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|3|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76909042" href="http://nationalpost.com/news/world/canadian-who-survived-hiroshima-nuclear-bomb-to-accept-nobel-peace-prize-this-is-her-story" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/ezgif-com-optimize-19.gif?resize=125%2C94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76909042"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/canadian-who-survived-hiroshima-nuclear-bomb-to-accept-nobel-peace-prize-this-is-her-story" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>Canadian who survived Hiroshima nuclear bomb to accept Nobel Peace Prize. This is her story</a></h4>				</header>
+
+							</article>
+				</li>
+	
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|4|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76907402" href="http://nationalpost.com/news/world/george-h-w-bush-offers-apologies-after-actress-accuses-ex-president-of-groping-her" target="_self">
+					<img src="http://i1.wp.com/wpmedia.nationalpost.com/2017/10/bush-lind-1.png?resize=125%2C94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76907402"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/george-h-w-bush-offers-apologies-after-actress-accuses-ex-president-of-groping-her" target="_self" rel="bookmark" title="">Another actress has accused George H.W. Bush of inappropriate touching</a></h4>				</header>
+
+							</article>
+				</li>
+	</ul></div><div class="w360"><ul class="posts-list vertical-list">
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|5|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76908273" href="http://nationalpost.com/news/world/tampa-mayor-tells-police-to-bring-him-the-head-of-mystery-killer-after-string-of-three-murders-in-11-days" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/tampa_homicides-1.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76908273"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/tampa-mayor-tells-police-to-bring-him-the-head-of-mystery-killer-after-string-of-three-murders-in-11-days" target="_self" rel="bookmark" title="">Tampa mayor tells police to bring him the head of mystery killer after string of three homicides in 11 days</a></h4>				</header>
+
+							</article>
+				</li>
+	
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|6|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76908115" href="http://nationalpost.com/news/world/students-at-cambridge-university-want-more-subjects-decolonized-including-history-and-philosophy" target="_self">
+					<img src="http://i2.wp.com/wpmedia.nationalpost.com/2017/10/505057805.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76908115"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/students-at-cambridge-university-want-more-subjects-decolonized-including-history-and-philosophy" target="_self" rel="bookmark" title="">Students at Cambridge University want more subjects decolonized, including history and philosophy</a></h4>				</header>
+
+							</article>
+				</li>
+	</ul></div>					</div> <!-- / twelvecol -->
+				</div> <!-- / row -->
+
+									<ul>
+						<li class="hidden_container">
+							<input type="checkbox" id="check_id">
+							<label for="check_id"></label>
+							<ul>
+								<div class="row">
+									<div class="twelvecol">
+										<div class="w360"><ul class="posts-list vertical-list">
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|7|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76908035" href="http://nationalpost.com/news/world/for-the-first-time-in-10-years-the-u-s-navy-has-three-aircraft-carriers-on-the-pacific" target="_self">
+					<img src="http://i2.wp.com/wpmedia.nationalpost.com/2017/10/afp_tm8xf-e1509025105855.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76908035"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/for-the-first-time-in-10-years-the-u-s-navy-has-three-aircraft-carriers-on-the-pacific" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>For the first time in 10 years, the U.S. Navy has three aircraft carriers on the Pacific</a></h4>				</header>
+
+							</article>
+				</li>
+	
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|8|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76907922" href="http://nationalpost.com/news/world/boko-haram-strapped-suicide-bombs-to-them-somehow-these-teenage-girls-survived" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/boko_haram_bombers_6_1605454.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76907922"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/boko-haram-strapped-suicide-bombs-to-them-somehow-these-teenage-girls-survived" target="_self" rel="bookmark" title="">Boko Haram strapped suicide bombs to them. Somehow these teenage girls survived</a></h4>				</header>
+
+							</article>
+				</li>
+	</ul></div><div class="w360"><ul class="posts-list vertical-list">
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|9|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76907987" href="http://nationalpost.com/news/world/satellite-images-show-prison-camps-in-north-korea" target="_self">
+					<img src="http://i2.wp.com/wpmedia.nationalpost.com/2017/10/north-korea-prison-system.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76907987"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/satellite-images-show-prison-camps-in-north-korea" target="_self" rel="bookmark" title="">New satellite images reveal extensive network of prison camps in North Korea</a></h4>				</header>
+
+							</article>
+				</li>
+	
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|10|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76907846" href="http://nationalpost.com/news/world/if-you-want-to-fly-to-america-arrive-extra-early-and-get-ready-to-be-interrogated" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/afp_q27mi.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76907846"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/if-you-want-to-fly-to-america-arrive-extra-early-and-get-ready-to-be-interrogated" target="_self" rel="bookmark" title="">If you want to fly to America, arrive extra early and get ready to be interrogated</a></h4>				</header>
+
+							</article>
+				</li>
+	</ul></div><div class="w360"><ul class="posts-list vertical-list">
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|11|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76908038" href="http://nationalpost.com/news/world/thailand-grieves-in-elaborate-final-goodbye-to-king-bhumibol" target="_self">
+					<img src="http://i1.wp.com/wpmedia.nationalpost.com/2017/10/afp_tq6ke.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76908038"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/thailand-grieves-in-elaborate-final-goodbye-to-king-bhumibol" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>Thailand&#039;s elaborate goodbye to King Bhumibol: A golden-spired crematorium and tens of thousands of mourners</a></h4>				</header>
+
+							</article>
+				</li>
+	
+		<li  >
+					<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|Related Posts|1|12|Related Posts List|related-posts"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76908566" href="http://nationalpost.com/news/world/pediatricians-increasingly-being-asked-about-assisted-death-for-kids-survey" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/gettyimages-820335152.jpg?resize=125,94&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76908566"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/pediatricians-increasingly-being-asked-about-assisted-death-for-kids-survey" target="_self" rel="bookmark" title="">A survey found pediatricians are &#039;increasingly&#039; being asked about assisted death for minors</a></h4>				</header>
+
+							</article>
+				</li>
+	</ul></div>									</div>
+								</div> <!-- / row -->
+							</ul>
+						</li>
+					</ul>
+							</div> <!-- / section-header-wrap outfit d25 -->
+			</div>	<!-- / posts-in-category -->
+	<div class="l-constrained site-container contentbody" id="top-stories-in-zone">
+	
+			<div class="section-header-wrap outfit d1">
+				<div class="section-header-wrap track_event">
+					<header class="section-header faux-header">
+						<div class="section-label">
+							<h1 class="cat-head faux-head"><span>Top Stories</span></h1>
+						</div>
+					</header>
+				</div>
+				<div class="clearfix"></div>
+
+				<div class="row smaller-row">
+					<div class="clearfix row-container">
+						<div class="w260 fluid ">			<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|More News|1|1|zone|hp-top-stories"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76865997" href="http://nationalpost.com/news/canada/inside-ark-two-canadas-largest-diy-nuclear-shelter" target="_self">
+					<img src="http://i0.wp.com/wpmedia.nationalpost.com/2017/10/pjt-doomsday_grandad-1__.jpg?resize=260,195&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76865997"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/canada/inside-ark-two-canadas-largest-diy-nuclear-shelter" target="_self" rel="bookmark" title=""><span class="icon-label-holder"><span class="media-icon watch"></span><span class="media-label">Watch</span></span>How a Canadian built a DIY nuclear bunker from 42 buried buses and plenty of concrete</a></h4>				</header>
+
+									<div class="entry-content">
+						At 10,000-square-feet, the scope of Ark Two is staggering. There is a brig, mortuary, dentist’s chair, decontamination room and daycare					</div>
+							</article>
+		</div><div class="w260 fluid ">			<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|More News|1|2|zone|hp-top-stories"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76853679" href="http://nationalpost.com/news/canada/how-prepared-is-canada-for-a-nuclear-attack-we-get-on-our-knees-and-pray" target="_self">
+					<img src="http://i1.wp.com/wpmedia.nationalpost.com/2017/10/nuclear-canada.jpg?resize=260,195&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76853679"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/canada/how-prepared-is-canada-for-a-nuclear-attack-we-get-on-our-knees-and-pray" target="_self" rel="bookmark" title="">How prepared is Canada for a nuclear attack? &#039;We get on our knees and pray&#039;</a></h4>				</header>
+
+									<div class="entry-content">
+						It's unclear how well North Korea has mastered missile guidance systems — meaning a misfire is possible. And Canada could also become a 'demonstration target'					</div>
+							</article>
+		</div><div class="w260 fluid ">			<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|More News|1|3|zone|hp-top-stories"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76865461" href="http://nationalpost.com/news/world/north-korea-is-just-the-tip-of-the-stockpile-here-are-all-the-nuclear-warheads-in-the-world-visualized" target="_self">
+					<img src="http://i2.wp.com/wpmedia.nationalpost.com/2017/10/nuclear-warhead-graphic.png?resize=260%2C195&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76865461"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/world/north-korea-is-just-the-tip-of-the-stockpile-here-are-all-the-nuclear-warheads-in-the-world-visualized" target="_self" rel="bookmark" title="">North Korea is just the tip of the stockpile: Here are all the nuclear warheads in the world visualized</a></h4>				</header>
+
+									<div class="entry-content">
+						A by-the-numbers breakdown of how countries such as the United States, Russia, India, France and Israel compare					</div>
+							</article>
+		</div><div class="w260 fluid last">			<article 
+				class="post post-excerpt hentry news" 
+				data-event-tracking="Outfit|0|More News|1|4|zone|hp-top-stories"
+			>
+				<figure class="thumbnail ">
+			<a id="link-76847234" href="http://nationalpost.com/news/heres-what-ends-human-civilization-the-leading-contenders-to-kill-us-all" target="_self">
+					<img src="http://i1.wp.com/wpmedia.nationalpost.com/2017/10/lastjudgement.jpg?resize=260,195&#038;quality=60&#038;strip=all" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt=""
+				width="0" 
+				height="0" 
+				id="img-76847234"/>
+			</a>
+		</figure>
+				<header>
+					<h4 class="entry-title"><a href="http://nationalpost.com/news/heres-what-ends-human-civilization-the-leading-contenders-to-kill-us-all" target="_self" rel="bookmark" title="">Here’s what ends human civilization: The leading contenders to kill us all</a></h4>				</header>
+
+									<div class="entry-content">
+						Robots and asteroids are likely threats, but we'll probably be wiped out by good, old-fashioned disease					</div>
+							</article>
+		</div>					</div>	<!-- / clearfix row-container -->
+				</div> <!-- / row -->
+			</div>	<!-- / section-header-wrap outfit d1 -->
+			</div>	<!-- / top-stories-in-zone -->
+</div>
+<!-- / l-content -->
+
+
+<div class="l-content">
+	<div class="l-constrained container contentbody" id="flyercity-module">
+		<div class="section-header-wrap"><header class="section-header">This Week in Flyers</header></div><div id="flyertown_module_10560"></div>
+	</div><!-- / contentbody -->
+
+<a class="comments-anchor" id="comments-area"></a>
+<div class="l-constrained container contentbody">
+
+<div id="comments">
+	<div class="find-on-facebook">
+	<a class="find-on-facebook-logo" href="http://www.facebook.com/NationalPost" rel="external nofollow" target="_blank">
+		<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M3.5 3.5h504v504H3.5z" fill="#3B5998"/><path d="M207.9 190.2h-39.5v64.5h39.5v189.5h76v-190.3h53l5.6-63.7H283.9v-36.3c0-15 3-21 17.5-21h41.1V66.8h-52.6c-56.5 0-82 24.9-82 72.6v50.8z" fill="#FFF"/></svg>
+	</a>
+	<a class="find-on-facebook-text" href="http://www.facebook.com/NationalPost" rel="external nofollow" target="_blank">
+		Find National Post on Facebook	</a>
+</div>
+	<!-- Facebook Code -->
+	<div class="fb-comments" data-href="http://nationalpost.com/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" width="590" data-num-posts="5"></div>
+	<!-- / Facebook Code -->
+</div><!-- #comments -->
+</div>
+
+</div><!-- / l-content -->
+
+			</div><!-- #content -->
+			
+			<footer  class="l-footer" itemscope itemtype="http://schema.org/WPFooter">
+				<div class="l-constrained">
+											<div id="footer-tier-1" class="track_event" data-event-tracking="Footer - Logo">
+							<a itemprop="url" href="http://nationalpost.com">
+								<img itemprop="image" src="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/images/logo-footer-np.png?m=1495718861h" alt="" />
+							</a>
+							<ul class="track_event" data-event-tracking="Footer - Recommended">
+														</ul>
+						</div>
+
+						<div id="footer-tier-2">
+						<section><h2>Classifieds</h2><ul class="track_event" data-event-tracking="Footer - misc" ><li><a href="http://www.legacy.com/obituaries/nationalpost/">Remembering</a></li><li><a href="http://www.legacy.com/celebration/nationalpost/">Celebrating</a></li><li><a href="http://classifieds.nationalpost.com/">Classifieds Marketplace</a></li><li><a href="http://working.com/toronto">Careers</a></li><li><a href="http://www.flyercity.ca/?p=nationalpost&#038;locale=en&#038;utm_campaign=pm_nav-bar&#038;utm_source=nav-bar&#038;utm_medium=nav-bar&#038;utm_term=NationalPost">FlyerCity</a></li><li><a href="http://nationalpost.adperfect.com/">Post a Classifieds ad</a></li></ul></section><section><h2>Advertise with Us</h2><ul class="track_event" data-event-tracking="Footer - misc" ><li><a href="https://secure.nationalpost.com/partnerships/entry.html">Partnerships</a></li><li><a href="http://www.postmediasolutions.com">Solutions</a></li><li><a href="http://www.postmediasolutions.com/client-resources/">Resources</a></li><li><a href="http://www.postmediaadvertising.com/content-works/%20">Content Works</a></li></ul></section><section><h2>Sales Directory</h2><ul class="track_event" data-event-tracking="Footer - misc" ><li><a href="http://www.postmediasolutions.com/about-us/">About Us</a></li></ul></section><section><h2>My Account</h2><ul class="track_event" data-event-tracking="Footer - my-account" ><li><a href="http://nationalpost.com/post-points">Post points</a></li><li><a href="https://subscriptions.nationalpost.com/new_devel/index_sub1.html#:/new_devel/new-print.html">Subscriber Self-Serve</a></li><li><a href="http://epaper.nationalpost.com/epaper/viewer.aspx">ePaper</a></li><li><a href="http://www.nationalpost.com/newsletters/subscribe/index.html">eNewsletters</a></li></ul></section>						<section>
+							<h2>Stay Connected</h2>
+							<div class="social-media-widget track_event" data-event-tracking="Footer - Social">
+								<ul>
+																<li class="facebook"><a href="http://facebook.com/nationalpost" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-facebook"><g><path fill="#1B75BB" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M18.7 6.8v2.5h-1.5c-0.5 0-0.9 0.1-1.1 0.3 -0.2 0.2-0.3 0.6-0.3 1v1.8h2.8l-0.4 2.8h-2.4v7.2h-2.9v-7.2h-2.4v-2.8h2.4v-2.1c0-1.2 0.3-2.1 1-2.7 0.7-0.6 1.5-1 2.6-1C17.5 6.7 18.2 6.8 18.7 6.8z"/></g></svg></a></li>
+																<li class="twitter"><a href="http://twitter.com/nationalpost" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-twitter"><g><path fill="#4EC8F4" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M22.5 10.4c-0.4 0.6-0.9 1.1-1.5 1.6 0 0.1 0 0.2 0 0.4 0 0.8-0.1 1.6-0.4 2.5 -0.2 0.8-0.6 1.6-1.1 2.4 -0.5 0.8-1.1 1.4-1.7 2 -0.7 0.6-1.5 1-2.4 1.4 -1 0.3-2 0.5-3.1 0.5 -1.7 0-3.3-0.5-4.7-1.4 0.2 0 0.5 0 0.7 0 1.4 0 2.7-0.4 3.8-1.3 -0.7 0-1.3-0.2-1.8-0.6 -0.5-0.4-0.9-0.9-1.1-1.5 0.2 0 0.4 0 0.6 0 0.3 0 0.5 0 0.8-0.1 -0.7-0.1-1.3-0.5-1.8-1.1s-0.7-1.2-0.7-1.9v0c0.4 0.2 0.9 0.4 1.4 0.4 -0.4-0.3-0.7-0.6-1-1.1 -0.2-0.4-0.4-0.9-0.4-1.5 0-0.6 0.1-1.1 0.4-1.5 0.8 0.9 1.7 1.7 2.8 2.3 1.1 0.6 2.3 0.9 3.5 0.9 0-0.2-0.1-0.5-0.1-0.7 0-0.8 0.3-1.6 0.9-2.2 0.6-0.6 1.3-0.9 2.2-0.9 0.9 0 1.6 0.3 2.2 1 0.7-0.1 1.3-0.4 1.9-0.7 -0.2 0.7-0.7 1.3-1.3 1.7C21.3 10.8 21.9 10.6 22.5 10.4z"/></g></svg></a></li>
+																<li class="tumblr"><a href="http://nationalpost.tumblr.com" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-tumblr"><g><path fill="#28364A" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M19 21.1c-0.2 0.4-1.4 0.8-2.4 0.8 -3 0.1-4.2-2.2-4.2-3.7v-4.6H11v-1.8c2.1-0.8 2.6-2.7 2.7-3.8 0-0.1 0.1-0.1 0.1-0.1h2v3.5h2.8v2.1h-2.8v4.3c0 0.6 0.2 1.4 1.3 1.4 0.4 0 0.9-0.1 1.1-0.2L19 21.1z"/></g></svg></a></li>
+																<li class="pinterest"><a href="http://pinterest.com/nationalpost/" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-pinterest"><g><path fill="#D02E27" class="bg" d="M30 15C30 23.3 23.3 30 15 30 6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M9.3 12.5c0-0.6 0.1-1.2 0.3-1.8 0.2-0.6 0.5-1.1 0.9-1.5 0.4-0.4 0.8-0.8 1.4-1.1 0.5-0.3 1.1-0.5 1.7-0.7 0.6-0.2 1.2-0.2 1.8-0.2 0.9 0 1.8 0.2 2.6 0.6 0.8 0.4 1.5 1 2 1.7s0.8 1.6 0.8 2.6c0 0.6-0.1 1.1-0.2 1.7 -0.1 0.5-0.3 1.1-0.5 1.6s-0.5 1-0.9 1.3 -0.8 0.7-1.3 0.9c-0.5 0.2-1.1 0.3-1.7 0.3 -0.4 0-0.8-0.1-1.2-0.3s-0.7-0.5-0.9-0.8c-0.1 0.2-0.1 0.6-0.2 1s-0.2 0.7-0.2 0.8c0 0.1-0.1 0.3-0.2 0.6 -0.1 0.3-0.2 0.5-0.2 0.6 -0.1 0.1-0.2 0.3-0.3 0.6s-0.3 0.5-0.4 0.7c-0.1 0.2-0.3 0.5-0.6 0.8l-0.1 0 -0.1-0.1c-0.1-0.9-0.1-1.5-0.1-1.7 0-0.5 0.1-1.2 0.2-1.8 0.1-0.7 0.3-1.5 0.6-2.6 0.3-1 0.4-1.6 0.5-1.8 -0.2-0.4-0.3-0.9-0.3-1.5 0-0.5 0.2-1 0.5-1.4 0.3-0.4 0.7-0.7 1.2-0.7 0.4 0 0.6 0.1 0.9 0.4 0.2 0.2 0.3 0.5 0.3 0.9 0 0.4-0.1 1-0.4 1.7s-0.4 1.3-0.4 1.7c0 0.4 0.1 0.7 0.4 0.9 0.3 0.2 0.6 0.4 1 0.4 0.3 0 0.6-0.1 0.9-0.2 0.3-0.1 0.5-0.4 0.7-0.6s0.4-0.5 0.5-0.8 0.3-0.6 0.3-1c0.1-0.3 0.1-0.7 0.2-1s0.1-0.6 0.1-0.9c0-1-0.3-1.8-1-2.4s-1.5-0.9-2.5-0.9c-1.2 0-2.2 0.4-3 1.2 -0.8 0.8-1.2 1.7-1.2 2.9 0 0.3 0 0.5 0.1 0.8 0.1 0.2 0.2 0.4 0.2 0.6 0.1 0.1 0.2 0.3 0.2 0.4 0.1 0.1 0.1 0.2 0.1 0.3 0 0.2 0 0.4-0.1 0.7s-0.2 0.4-0.3 0.4c0 0-0.1 0-0.2 0 -0.3-0.1-0.6-0.3-0.8-0.5 -0.2-0.2-0.4-0.5-0.5-0.8 -0.1-0.3-0.2-0.6-0.3-1C9.3 13.1 9.3 12.8 9.3 12.5z"/></g></svg></a></li>
+																<li class="youtube"><a href="https://www.youtube.com/nationalpost" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-youtube"><g><path fill="#E32F27" class="bg" d="M30 15C30 23.3 23.3 30 15 30S0 23.3 0 15C0 6.7 6.7 0 15 0S30 6.7 30 15"/><path fill="#FFFFFF" d="M23 13.8c0 0.3 0 0.8 0 1.3 0 0.6 0 1 0 1.3 0 0.3 0 0.7-0.1 1.2 0 0.5-0.1 0.9-0.2 1.3 -0.1 0.4-0.3 0.8-0.6 1.1 -0.3 0.3-0.7 0.5-1.1 0.5 -1.3 0.1-3.3 0.2-6 0.2 -2.7 0-4.7-0.1-6-0.2 -0.4 0-0.8-0.2-1.1-0.5 -0.3-0.3-0.5-0.7-0.6-1.1 -0.1-0.4-0.1-0.8-0.2-1.3 0-0.5-0.1-0.9-0.1-1.2s0-0.8 0-1.3c0-0.6 0-1 0-1.3s0-0.7 0.1-1.2c0-0.5 0.1-0.9 0.2-1.3 0.1-0.4 0.3-0.8 0.6-1.1S8.6 9.7 9 9.7c1.3-0.1 3.3-0.2 6-0.2 2.7 0 4.7 0.1 6 0.2 0.4 0 0.8 0.2 1.1 0.5s0.5 0.7 0.6 1.1c0.1 0.4 0.1 0.8 0.2 1.3C23 13.1 23 13.5 23 13.8zM18.4 15.1c0-0.2-0.1-0.4-0.3-0.5l-4.6-2.9c-0.2-0.1-0.4-0.1-0.6 0 -0.2 0.1-0.3 0.3-0.3 0.5V18c0 0.2 0.1 0.4 0.3 0.5 0.1 0 0.2 0.1 0.3 0.1 0.1 0 0.2 0 0.3-0.1l4.6-2.9C18.3 15.5 18.4 15.4 18.4 15.1z"/></g></svg></a></li>
+																<li class="instagram"><a href="https://www.instagram.com/nationalpost/" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-instagram"><g><path fill="#2E5E86" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M21.9 10V20.2c0 0.5-0.2 0.9-0.5 1.2 -0.3 0.3-0.8 0.5-1.2 0.5H9.9c-0.5 0-0.9-0.2-1.2-0.5 -0.3-0.3-0.5-0.8-0.5-1.2V10c0-0.5 0.2-0.9 0.5-1.2C9 8.5 9.4 8.3 9.9 8.3h10.2c0.5 0 0.9 0.2 1.2 0.5C21.7 9.1 21.9 9.6 21.9 10zM20.3 19.9v-5.8h-1.2c0.1 0.4 0.2 0.8 0.2 1.2 0 0.8-0.2 1.4-0.6 2.1s-0.9 1.1-1.6 1.5c-0.7 0.4-1.4 0.6-2.1 0.6 -1.2 0-2.2-0.4-3-1.2s-1.2-1.8-1.2-2.9c0-0.4 0.1-0.8 0.2-1.2H9.7v5.8c0 0.2 0.1 0.3 0.2 0.4s0.2 0.2 0.4 0.2h9.5c0.1 0 0.3-0.1 0.4-0.2C20.2 20.2 20.3 20 20.3 19.9zM17 17c0.5-0.5 0.8-1.1 0.8-1.9s-0.3-1.4-0.8-1.9c-0.5-0.5-1.2-0.8-2-0.8 -0.8 0-1.4 0.3-1.9 0.8 -0.5 0.5-0.8 1.2-0.8 1.9s0.3 1.4 0.8 1.9 1.2 0.8 1.9 0.8C15.8 17.8 16.4 17.5 17 17zM20.3 11.9v-1.5c0-0.2-0.1-0.3-0.2-0.4s-0.3-0.2-0.4-0.2h-1.6c-0.2 0-0.3 0.1-0.4 0.2s-0.2 0.3-0.2 0.4v1.5c0 0.2 0.1 0.3 0.2 0.4s0.3 0.2 0.4 0.2h1.6c0.2 0 0.3-0.1 0.4-0.2S20.3 12.1 20.3 11.9z"/></g></svg></a></li>
+																<li class="rss"><a href="/rss" target="_blank"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-rss"><g><path fill="#F6B31C" class="bg" d="M30 15C30 23.3 23.3 30 15 30 6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M11.8 20.4c-1 0-1.8-0.8-1.8-1.8s0.8-1.8 1.8-1.8c1 0 1.8 0.8 1.8 1.8S12.8 20.4 11.8 20.4M18.1 20.2c-0.1 0.1-0.3 0.2-0.4 0.2h-1.2c-0.3 0-0.6-0.2-0.6-0.5 -0.3-2.8-2.5-5.1-5.3-5.3 -0.3 0-0.5-0.3-0.5-0.6V12.7c0-0.2 0.1-0.3 0.2-0.4 0.1-0.1 0.3-0.2 0.4-0.2h0c2 0.2 3.8 1 5.2 2.4 1.4 1.4 2.3 3.3 2.4 5.2C18.3 19.9 18.3 20 18.1 20.2M22.9 20.2c-0.1 0.1-0.3 0.2-0.4 0.2h-1.3c-0.3 0-0.6-0.2-0.6-0.6 -0.3-5.4-4.6-9.6-9.9-10 -0.3 0-0.6-0.3-0.6-0.6v-1.3c0-0.2 0.1-0.3 0.2-0.4 0.1-0.1 0.3-0.2 0.4-0.2h0c3.2 0.2 6.3 1.5 8.6 3.8 2.3 2.3 3.7 5.3 3.8 8.6C23 19.9 23 20 22.9 20.2"/></g></svg></a></li>
+																<li class="email"><a href="#managenewsletters"><?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30px" height="30px" viewBox="0 0 30 30" class="icon-email"><g><path fill="#6EA943" class="bg" d="M30 15c0 8.3-6.7 15-15 15C6.7 30 0 23.3 0 15 0 6.7 6.7 0 15 0 23.3 0 30 6.7 30 15"/><path fill="#FFFFFF" d="M22.1 19.3c0 0.7-0.6 1.3-1.3 1.3H9.2c-0.7 0-1.3-0.6-1.3-1.3v-6.3c0.2 0.3 0.5 0.5 0.8 0.7 1.3 0.9 2.6 1.8 3.9 2.7 0.7 0.5 1.5 1.1 2.3 1.1H15h0c0.9 0 1.7-0.6 2.3-1.1 1.3-0.9 2.6-1.8 3.9-2.7 0.3-0.2 0.6-0.4 0.8-0.7V19.3zM20.7 12.9c-1.2 0.9-2.5 1.7-3.7 2.6 -0.5 0.4-1.4 1.1-2 1.1H15h0c-0.6 0-1.5-0.7-2-1.1 -1.2-0.9-2.5-1.7-3.7-2.6C8.7 12.5 7.9 11.6 7.9 10.9c0-0.8 0.4-1.4 1.3-1.4h11.6c0.7 0 1.3 0.6 1.3 1.3C22.1 11.6 21.4 12.4 20.7 12.9"/></g></svg></a></li>
+																</ul>
+							</div>
+						</section>
+					</div>
+					
+
+					
+					<div id="footer-tier-4">
+													<div class="copyright-block track_event" data-event-tracking="Footer - Copyrights">
+								<div class="block-full">
+									<a href="http://www.postmedia.com/brands" class="postmedia" title="Postmedia Network Inc.">
+										<img src="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/images/logo-postmedia.png?m=1494273160h" alt="Postmedia Logo" />
+									</a>
+									<span>&copy; <span itemprop="copyrightYear">2017</span> <span itemprop="copyrightHolder">National Post</span>, a division of <span itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.postmedia.com"><span itemprop="name">Postmedia Network Inc.</span></span> All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited. Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=nationalpost.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+								</div>
+								<div class="block-left">
+									<a href="http://www.postmediaadvertising.com/privacy-statement/">Privacy</a>
+									<a href="http://www.canada.com/aboutus/termsofservice.html">Terms</a>
+									<a href="http://www.canada.com/aboutus/copyright.html">Copyright</a>
+								</div>
+								<div class="block-right">
+									<a href="/site-map">Site Map</a>
+									<a href="/contact">Contact Us</a>
+								</div>
+							</div>
+											</div><!--footer-tier-4 -->
+				</div> <!-- #l-constrained -->
+			</footer>
+
+		</div><!-- #page -->
+
+	<!-- wpcom_wp_footer -->
+<input type="hidden" id="dfp_weather_field_id" name="dfp_weather_field_id" value="bef103f676" /><input type="hidden" name="_wp_http_referer" value="/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" />			<script>
+				$ = jQuery.noConflict();
+
+				// dynamically load MG2 script to improve initial page load
+				function openNewsletterModal () {
+					var newsletterScript = document.getElementById('scriptMg2Widget');
+					if ( typeof newsletterScript.src == undefined || newsletterScript.src == '' ) {
+						newsletterScript.src = "http:\/\/d24ftjcfgttqm3.cloudfront.net\/dist\/1.0\/MG2Widget-newsletterwidget-nojquery.min.js";
+						newsletterScript.addEventListener( 'load', function () {
+				            mg2WidgetAPI.openNewsletter( { defaultCategoryId: "6" } );
+				        });
+					} else {
+						// script is already loaded
+						mg2WidgetAPI.openNewsletter( { defaultCategoryId: "6" } );
+					}
+			    }
+			</script>
+						<script id="scriptMg2Widget"></script>
+			<div id="mg2Widget-newsletter-container"></div>
+							<script>
+					jQuery(document).on('click', ".l-footer a[href='#managenewsletters'], .account a[href=\"#managenewsletters\"], #editProfile .capture_grid_block .capture_deactivate_section a[href='#managenewsletters'], .my-account-menu a[href=\"#managenewsletters\"]" , function() {
+						openNewsletterModal()
+					});
+				</script>
+					<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/nationalpostcom.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/nationalpostcom.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"http:\/\/nationalpost.com\/","postID":"590625070003865842","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<script type='text/javascript'>
+janrain.settings.borderColor = '#ffffff';
+janrain.settings.fontFamily = 'Helvetica, Lucida Grande, Verdana, sans-serif';
+janrain.settings.width = 300;
+janrain.settings.actionText = ' ';
+janrain.settings.capture.modalCloseHtml = ' ';
+janrain.settings.capture.noModalBorderInlineCss = true;
+
+janrain.settings.capture.flowName = 'standard';
+</script>
+<!--
+============================================================================
+    SIGNIN SCREENS:
+    The following screens are part of the sign in user workflow. For a
+    complete out-of-the-box sign in experience, these screens must be
+    included on the page where you are implementing sign in and registration.
+============================================================================
+-->
+
+<!-- signIn:
+This is the starting point for sign in and registration. This screen is
+rendered by default. In order to change this behavior, the Flow must be
+edited.
+-->
+<div style="display:none;" id="signIn">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign Up / Sign In</h1>
+		</div>
+		<div class="capture_signin">
+			<h2>With your existing account from:</h2>
+			{* loginWidget *} <br />
+		</div>
+		<div class="capture_backgroundColor">
+			<div class="capture_signin">
+				<h2>or with your <span id="capture_sitename"></span> account:</h2>
+				{* #signInForm *}
+					{* signInEmailAddress *}
+					{* currentPassword *}
+					<div class="capture_form_item">
+						<a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+					</div>
+					<div>
+						<button class="capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button>
+						<a href="#" id="capture_signIn_createAccountButton" data-capturescreen="traditionalRegistration" class="capture_btn_half capture_createAccountButton capture_btn capture_primary">Create Account</a>
+					</div>
+				{* /signInForm *}
+			</div>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- returnSocial:
+This is the screen the user sees in place of the signIn screen if they've
+already signed in with a social account on this site. Rendering of this
+screen is defined in the Flow only when the 'janrainLastAuthMethod' cookie
+is set to'socialSignin'.
+-->
+<div style="display:none;" id="returnSocial">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign in to your account</h1>
+		</div>
+		<div class="capture_signin">
+			<h2>Welcome back, {* welcomeName *}!</h2>
+			{* loginWidget *}
+			<div class="capture_centerText switchLink">Not {* welcomeName *}? <a href="#" data-cancelcapturereturnexperience="true">Switch Account</a></div>
+		</div>
+	 </div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- returnTraditional:
+This is the screen the user sees in place of the signIn screen if they've
+already signed in with a traditional account on this site. Rendering of this
+screen is defined in the Flow only when the 'janrainLastAuthMethod' cookie
+is set to'traditionalSignin'.
+-->
+<div style="display:none;" id="returnTraditional">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign in to your account</h1>
+		</div>
+		<h2 class="capture_centerText"><span id="traditionalWelcomeName">Welcome Back, {* welcomeName *}!</span></h2>
+		<div class="capture_backgroundColor">
+			{* #signInForm *}
+				{* signInEmailAddress *}
+				{* currentPassword *}
+				<div class="capture_form_item capture_rightText">
+					<button class="capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button>
+				</div>
+			{* /signInForm *}
+			<div class="capture_centerText switchLink">Not {* welcomeName *}? <a href="#" data-cancelcapturereturnexperience="true">Switch Account</a></div>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- accountDeactivated:
+    This screen is rendered if the user's account is deactivated. Screen
+    rendering is handled in janrain-init.js.
+-->
+<div style="display:none;" id="accountDeactivated">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Account Deactivated</h1>
+		</div>
+		<div class="content_wrapper">
+			<p class="message">Your account has been deactivated.</p>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<div style="display:none;" id="reactivateAccount"> 
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Account Reactivation Failed</h1>
+		</div>
+		<p class="message">Sorry, we could not verify that email address.</p>  
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>    
+<div style="display: none;" id="reactivateAccountSuccess">  
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Account Activated</h1>
+		</div>		
+		<p class="message">Your account has been reactivated.
+			<div class="capture_rightText">
+				<a href="/" class="capture_btn capture_primary">Sign in</a>
+			</div>
+		</p> 
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+
+<!-- emailVerificationRequired:
+    This screen is rendered if you have enabled the requirement for verified emails and the user's email has not yet been verified. This screen may appear immediately after registration and also on subsequent logins until the email is verified. Screen rendering is handled in the postLoginScreens Capture settings per API client. A value of "emailVerificationRequired" will enable the requirement of having a verified email. A value of "false" will disable the requirement of having a verified email.
+-->
+<div style="display:none;" id="emailVerificationRequired">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Email Verification Required</h1>
+		</div>
+		<p class="message">You must verify your email address before signing in. Check your email for your verification email, or enter your email address in the form below to resend the email.</p>
+
+		{* #resendVerificationForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				<input value="Submit" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /resendVerificationForm *}
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+
+<!--
+============================================================================
+    REGISTRATION SCREENS:
+    The following screens are part of the registration user workflow. For a
+    complete out-of-the-box registration experience, these screens must be
+    included on the page where you are implementing sign in and
+    registration.
+============================================================================
+-->
+
+<!-- socialRegistration:
+    When a user clicks an IDP and does not already have an account in your
+    capture application, this screen is rendered. This behavior is defined
+    in the Flow.
+-->
+<div style="display:none;" id="socialRegistration">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+			<div class="capture_header">
+				<h1>Almost Done!</h1>
+			</div>
+			<p class="message">Please confirm your details below.</p>
+			{* #socialRegistrationForm *}
+				<!-- The following fields are required by default and must be included in the socialRegistrationForm. In order to change any of these fields to optional, the Flow must be edited. -->
+				{* firstName *}
+				{* lastName *}
+				{* emailAddress *}
+				{* displayName *}
+                <div class="border-top-form">
+                    <p class="message">Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.</p>
+                    <div class="full-width-row"><span class="text_label">Birthdate</span>{* birthdate *}</div>
+                    <div class="full-width-row"><span class="text_label">Gender</span>{* gender *}</div>
+ 			    </div>
+				<div class="bordered-form">
+					<p class="message"><strong>Attention Print Newspaper Subscribers</strong><br />For verification of Print Subscriber offers (e.g. epaper, Digital Access, Subscriber Rewards), please input your Print Newspaper subscription phone number and postal code.</p>
+					{* phone *}
+					{* addressPostalCode *}
+				</div>
+				<!-- The following fields are optional and may be uncommented if you wish to collect any of these fields via the socialRegistrationForm. In order to change any of these fields to required, the Flow must be edited. 
+				{* middleName *}
+				{* gender *}
+				{* birthdate *}
+				{* phone *}
+				{* mobile *}
+				{* addressStreetAddress1 *}
+				{* addressStreetAddress2 *}
+				{* addressCity *}
+				{* addressPostalCode *}
+				{* addressState *}
+				{* addressCountry *}
+				{* optInRegistration *}
+				-->
+				<p class="terms_text">By clicking "Create Account", I hearby grant permission to Postmedia to use my account information to create my account.<p> 
+				<p class="terms_text">I also accept and agree to be bound by Postmedia's <a href="http://www.canada.com/aboutus/termsofservice.html" target="_blank">Terms and Conditions</a> with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's <a href="http://www.postmediaadvertising.com/privacy-statement/" target="_blank">Privacy Policy</a>.</p>
+				<div class="capture_rightText">
+					{* backButton *}
+					<input value="Create Account" type="submit" class="capture_btn capture_primary">
+				</div>
+			{* /socialRegistrationForm *}
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- traditionalRegistration:
+    When a user clicks the 'Create Account' button this screen is rendered.
+-->
+<div style="display:none;" id="traditionalRegistration">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Almost Done!</h1>
+		</div>
+		<p class="message">Please confirm your details below. <br /> Already have an account? <a id="capture_traditionalRegistration_navSignIn" href="#" data-capturescreen="signIn">Sign In.</a></p>
+		{* #registrationForm *}		
+			<!-- The following fields are required by default and must be included in the registrationForm. In order to change any of these fields to optional, the Flow must be edited. -->
+			{* firstName *}
+			{* lastName *}
+			{* emailAddress *}
+			{* displayName *}
+			{* newPassword *}
+			{* newPasswordConfirm *}
+            <div class="border-top-form">
+                <p class="message">Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.</p>
+                <div class="full-width-row"><span class="text_label">Birthdate</span>{* birthdate *}</div>
+                <div class="full-width-row"><span class="text_label">Gender</span>{* gender *}</div>
+            </div>
+			<div class="bordered-form">
+				<p class="message"><strong>Attention Print Newspaper Subscribers</strong><br />For verification of Print Subscriber offers (e.g. epaper, Digital Access, Subscriber Rewards), please input your Print Newspaper subscription phone number and postal code.</p>
+				{* phone *}
+				{* addressPostalCode *}
+			</div>
+			<!-- The following fields are optional and may be uncommented if you wish to collect any of these fields via the registrationForm. In order to change any of these fields to required, the Flow must be edited. 
+			{* middleName *}
+			{* gender *}
+			{* birthdate *}
+			{* phone *}
+			{* mobile *}
+			{* addressStreetAddress1 *}
+			{* addressStreetAddress2 *}
+			{* addressCity *}
+			{* addressPostalCode *}
+			{* addressState *}
+			{* addressCountry *}
+			{* optInRegistration *}
+			-->
+			<p class="terms_text">By clicking "Create Account", I hearby grant permission to Postmedia to use my account information to create my account.<p> 
+			<p class="terms_text">I also accept and agree to be bound by Postmedia's <a href="http://www.canada.com/aboutus/termsofservice.html" target="_blank">Terms and Conditions</a> with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's <a href="http://www.postmediaadvertising.com/privacy-statement/" target="_blank">Privacy Policy</a>.</p>
+			<div class="capture_rightText">
+				{* backButton *}
+				<input value="Create Account" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /registrationForm *}
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- emailVerificationNotification:
+    This screen is rendered after a user has registered. In the case of
+    traditional registration, this screen is always rendered after the user
+    completes registration on the traditionalRegistration screen. In the
+    case of social registration, this screen is only rendered if the data
+    returned from the IDP does not contain a verified email address.
+    Twitter is an example of an IDP that does not return a verified email.
+-->
+<div style="display:none;" id="emailVerificationNotification">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Verfiy your email</h1>
+		</div>
+		<p class="message">We have sent you a confirmation email to {* emailAddressData *}. Please check your inbox and follow the instructions to confirm your email address.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close();location.reload();" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!--
+============================================================================
+    FORGOT PASSWORD SCREENS:
+    The following screens are part of the forgot password user workflow. For
+    a complete out-of-the-box registration experience, these screens must be
+    included on the page where you are implementing forgot password
+    functionality.
+============================================================================
+-->
+
+<!-- forgotPassword:
+    Entry point into the forgot password user workflow. This screen is
+    rendered when the user clicks on the 'Forgot your password?' link on the
+    signIn screen.
+-->
+<div style="display:none;" id="forgotPassword">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create a new password</h1>
+		</div>
+		<h2>Follow these simple steps to create a new password:</h2>
+ 		<p>
+ 			1. Enter your email address below<br />
+ 			2. Wait for the instructions to arrive in your inbox<br />
+ 			3. Follow the instructions to update your password
+ 		</p>
+		{* #forgotPasswordForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+					{* backButton *}
+					<input value="Send" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /forgotPasswordForm *}
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- forgotPasswordSuccess:
+    When the user submits an email address on the forgotPassword screen,
+    this screen is rendered.
+-->
+<div style="display:none;" id="forgotPasswordSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create a new password</h1>
+		</div>
+		<p class="message">We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!--
+============================================================================
+    MERGE ACCOUNT SCREENS:
+    The following screens are part of the account merging user workflow. For
+    a complete out-of-the-box account merging experience, these screens must
+    be included on the page where you are implementing account merging
+    functionality.
+============================================================================
+-->
+
+<!-- mergeAccounts:
+    This screen is rendered if the user created their account through
+    traditional registration and then tries to sign in with an IDP that
+    shares the same email address that exists in their user record.
+
+    NOTE! You will notice special tags you see on this screen. These tags,
+    such as '{| current_displayName |}' are rendered by the Janrain Capture
+    Widget in a way similar to JTL tags, but are more limited. We currently
+    only support modifying the text in this screen through the Flow. You
+    can, however, add your own markup and text throughout this screen as you
+    see fit.
+-->
+<div style="display:none;" id="mergeAccounts">
+    {* mergeAccounts {"custom": true} *}
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div id="capture_mergeAccounts_mergeAccounts_mergeOptionsContainer" class="capture_mergeAccounts_mergeOptionsContainer">
+			<h1>Merge Your Accounts</h1>
+			<div class="capture_header">
+				<div class="capture_icon_col">
+					{| rendered_current_photo |}
+				</div>
+				<div class="capture_displayName_col">
+					{| current_displayName |}<br />
+					{| current_emailAddress |}
+				</div>
+				<span class="capture_mergeProvider janrain-provider-icon-24 janrain-provider-icon-{| current_provider_lowerCase |}"></span>
+			</div>
+			<span class="message">{| foundExistingAccountText |} <b>{| current_emailAddress |}</b>.
+				<div class="capture_hover">
+					<div class="capture_popup_container">
+						<span class="capture_popup-arrow"></span>{| moreInfoHoverText |}<br />
+						{| existing_displayName |} - {| existing_provider |} : {| existing_siteName |} {| existing_createdDate |}
+					</div>
+					{| moreInfoText |}
+				</div>
+			</span>
+			
+			<div class="capture_dashed">
+				<div class="capture_mergeCol capture_mergeExisting_col capture_right">
+					<div class="capture_backgroundColor capture_border">
+						<span class="capture_mergeProvider janrain-provider-icon-32 janrain-provider-icon-{| existing_provider_lowerCase |} "></span>
+						<div class="capture_displayName_col">
+							{| existing_displayName |}<br />
+							<b>{| existing_provider_emailAddress |}</b>
+						</div>
+						<div class="capture_smallText">Created {| existing_createdDate |} at {| existing_siteName |}</div>
+					</div>
+				</div>
+			</div>
+			<div id="capture_mergeAccounts_form_collection_mergeAccounts_mergeRadio" class="capture_form_collection_merge_radioButtonCollection capture_form_collection capture_elementCollection capture_form_collection_mergeAccounts_mergeRadio" data-capturefield="undefined">
+				<div id="capture_mergeAccounts_form_item_mergeAccounts_mergeRadio_1_0" class="capture_form_item capture_form_item_mergeAccounts_mergeRadio capture_form_item_mergeAccounts_mergeRadio_1_0 capture_toggled" data-capturefield="undefined">
+					<label for="capture_mergeAccounts_mergeAccounts_mergeRadio_1_0">
+						<input id="capture_mergeAccounts_mergeAccounts_mergeRadio_1_0" data-capturefield="undefined" data-capturecollection="true" value="1" type="radio" class="capture_mergeAccounts_mergeRadio_1_0 capture_input_radio" checked="checked" name="mergeAccounts_mergeRadio">
+							{| connectLegacyRadioText |}
+					</label>
+				</div>
+				<div id="capture_mergeAccounts_form_item_mergeAccounts_mergeRadio_2_1" class="capture_form_item capture_form_item_mergeAccounts_mergeRadio capture_form_item_mergeAccounts_mergeRadio_2_1" data-capturefield="undefined">
+					<label for="capture_mergeAccounts_mergeAccounts_mergeRadio_2_1">
+						<input id="capture_mergeAccounts_mergeAccounts_mergeRadio_2_1" data-capturefield="undefined" data-capturecollection="true" value="2" type="radio" class="capture_mergeAccounts_mergeRadio_2_1 capture_input_radio" name="mergeAccounts_mergeRadio">
+							{| createRadioText |} {| current_provider |}
+					</label>
+				</div>
+				<div class="capture_tip" style="display:none;">
+				</div>
+				<div class="capture_tip_validating" data-elementname="mergeAccounts_mergeRadio">Validating</div>
+				<div class="capture_tip_error" data-elementname="mergeAccounts_mergeRadio"></div>
+			</div>
+			<div class="capture_footer">
+				{| connect_button |}
+				{| create_button |}
+			</div>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- traditionalAuthenticateMerge:
+    When the user elects to merge their traditional and social account, the
+    user will see this screen. They will then enter their current sign in
+    credentials and, upon successful authorization, the accounts will be
+    merged.
+-->
+<div style="display:none;" id="traditionalAuthenticateMerge">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign in to complete account merge</h1>
+			<p></p>
+		</div>
+		<div class="capture_signin">
+			{* #signInForm *}
+				{* signInEmailAddress *}
+				{* currentPassword *}
+				<div class="capture_rightText">
+					{* backButton *}
+					<button class="capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button>
+				</div>
+			 {* /signInForm *}
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- =============================== verify.html =============================== -->
+<!--
+============================================================================
+    EMAIL VERIFICATION SCREENS:
+    The following screens are part of the email verification user workflow.
+    For a complete out-of-the-box email verification experience, these
+    screens must be included on page where you are implementing email
+    verification.
+============================================================================
+-->
+
+<!-- verifyEmail:
+    This is the landing screen after a user clicks on the link in the
+    verification email sent to the user when they've registered with a
+    non-verified email address.
+
+    HOW IT WORKS: The code that is generated by Capture and included in the
+    link sent in the verification email is sent to the server and, if valid,
+    the user's email will be marked as valid and the verifyEmailSuccess
+    screen will be rendered. If the code is not accepted for any reason,
+    the verifyEmail screen is shown and the user has another opportunity
+    to have the verification email sent to them.
+
+    NOTE: The links generated in the emails sent to users are based on
+    Capture settings found in Janrain's Capture Dashboard. In addition to
+    entering the URL of your email verification page, you will need to add
+    'screenToRender' as a parameter in the URL with a value of 'verifyEmail'
+    which is this screen.
+-->
+<div style="display:none;" id="verifyEmail">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Resend Verification Email</h1>
+		</div>
+		<p class="message">Sorry, we could not verify your email address. Please enter your email below, and we'll resend the instructions for email verification.</p>
+		{* #resendVerificationForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				<input value="Submit" type="submit" class="capture_btn capture_primary">
+			</div>
+		 {* /resendVerificationForm *}
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- resendVerificationSuccess:
+    This screen is rendered when a user enters an email address from the
+    verifyEmail screen.
+-->
+<div style="display:none;" id="resendVerificationSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Verification Email Sent</h1>
+		</div>
+		<div class="hr"></div>
+		<p class="message">Check your email for a link to verify your email address.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- verifyEmailSuccess:
+    This screen is rendered if the verification code provided in the link
+    sent to the user in the verification email is accepted and the user's
+    email address has been verified.
+-->
+<div style="display:none;" id="verifyEmailSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Email Verified</h1>
+		</div>
+		<p class="message">Thank you for verifiying your email address.
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- =============================== forgot.html =============================== -->
+<!--
+============================================================================
+    RESET PASSWORD SCREENS:
+    The following screens are part of the password reset user workflow.
+    For a complete out-of-the-box password reset experience, these screens
+    must be included on the page where you are implementing password reset
+    functionality.
+
+    NOTE: The order in which these screens are rendered is as follows:
+    resetPasswordRequestCode
+    resetPasswordRequestCodeSuccess
+    resetPassword
+    resetPasswordSuccess
+============================================================================
+-->
+
+<!-- resetPassword:
+    This screen is rendered when the user clicks the link in provided in the
+    password reset email and the code in the link is valid.
+-->
+<div style="display:none;" id="resetPassword">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Change Password</h1>
+			<p></p>
+		</div>
+		<div class="capture_signin">
+			{* #changePasswordFormNoAuth *}
+				{* newPassword *}
+				{* newPasswordConfirm *}
+				<div class="capture_rightText">
+					<input value="Submit" type="submit" class="capture_btn capture_primary">
+				</div>
+			{* /changePasswordFormNoAuth *}
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+<!-- resetPasswordSuccess:
+    This screen is rendered when the user successfully changes their
+    password from the resetPassword screen.
+-->
+<div style="display:none;" id="resetPasswordSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Password Changed</h1>
+		</div>
+		<p class="message">Your password has been successfully updated.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+<!-- resetPasswordRequestCode:
+    This is the landing screen for the password reset workflow. When the
+    user clicks the link provided in the reset password email, a code is
+    supplied and is passed to Capture for verification. If the code is valid
+    the resetPassword screen is rendered immediately and the content of
+    this screen is not presented. If the code is not accepted for any reason
+    this screen is then presented, allowing the user to re-enter their
+    email address.
+-->
+<div style="display:none;" id="resetPasswordRequestCode">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create New Password</h1>
+		</div>
+		<p class="message">We didn't recognize that password reset code. Please enter your email below, and we'll send you a new code to reset your password.</p>
+		{* #resetPasswordForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				<input value="Send" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /resetPasswordForm *}
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+<!-- resetPasswordRequestCodeSuccess:
+    This screen is rendered if the user submitted an email address on the
+    resetPasswordRequestCode screen.
+-->
+<div style="display:none;" id="resetPasswordRequestCodeSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create New Password</h1>
+		</div>
+		<p class="message">We've sent you an email with instructions to create a new password. Your existing password has not been changed.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+    <div class="modal_footer">
+ 		<div class="mice-type"><span id="capture_sitename"></span> is a division of Postmedia Inc.</div>
+        <div class="footer_menu">
+            <a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+            <a href="/subscribe/faq/" target="_blank">FAQ</a>
+        </div>
+    </div>
+</div>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="37979189" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="http://nationalpost.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="National Post" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="efeac732b2" /><input type="hidden" name="_wp_http_referer" value="/news/world/how-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-3' href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-3' href='http://s1.wp.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WL8ss0C/ILy7JTU3JTNQFC+rmFaQV6CfnJBYXAxUEwCT1w1OT9MMzU9JTS4ohsplpmakpQHYxCh+oXQ8opKNPNctCynwyi0sy89IhdpWUxedA+SCL7HNtDU0sTYzMjQ3NDLIAbIZUow==' type='text/css' media='all' />
+<link rel='stylesheet' id='tv_listings_widget_css_external-css'  href='http://www.tvpassport.com/tvmds/leader/css/tvmds-primetime.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4-3' href='http://s1.wp.com/_static/??-eJytjrEOwjAMRH+IYAoViAExIDaGbh2rkJoSSBMrTgv8PWlLYUYwWLLene4ObiSUswFtgHDGGhlaTUCOQ42llqKHwtKJQBnJHA3ZKEKOR8h1WWFg2EmjGiOD83zQ9sqgON4HFqaj00gn8LfS/V2ZhnWLmXeEPmgcenHkBb2Fr6sD1hS3Rwufpde26qNf/y9pVlIljUE/zu2IGNCjC97WmyRdp/PVIlnOLk/AGp/I' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var postmedia_piano = {"paywall_exempt_ie":"","endpoint":"\/\/experience.tinypass.com\/xbuilder\/experience\/load"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJx9j80KwkAMhF/INRUs6kF8AkFQ1Ou2G9u0+2ezW/Xt3QpKUfAWMpMvM3DzonQ2oA0QajTI0JMH7zgYVCSF17Eiy6ONpqKT3QNKLZmTf/dW4IQFHAYI7DEEshXD1qmoBxNJ645naBJpGEV/nzY8gdH7JCnsqUT/I5n4yaGpTbhrxIi1tEpj923+W0NdvJCKXzms0HJImS5dS5g4G7Oe5dlyscqz+ax5AuwMaXk='></script>
+<script type="text/javascript" src="https://static.freeskreen.com/publisher/27/freeskreen.min.js?ver=4.8.2" async="async"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PostmediaFB = {"appID":"114466555268868"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/nationalpost.com\/wp-admin\/admin-ajax.php","navigation_nonce":"ed79c25c05"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJydj0EKwkAMRS/kGBWkbsQrCCJdynSa1rQzmcGklt7eWhFEN+r2Jy/vB/pkXGRFVgidSb6riQUa1GRdCydiB9qTKl6MUkBPjPNGZvDC6RkDClwpQYqiAUuyZgoNpyqB81ZkXNg/h5BjATmVNarAUcmTDgdUJa5HtUD3iE79tPKue6m5MndpM7mNZesHJSe/9ht5Gbl2qMj7eSD+60C8DH9wlXVYxNgaYvr49As+2KnuLmyX60W2WWbZatHcAJm1r9E='></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;libraries=places&#038;key=AIzaSyAhxjSYKbEZDd5TSkpV6vIX13poV2F84-4&#038;ver=4.8.2'></script>
+<script type='text/javascript' src='http://www.canada.com/js/analytics/core.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/nationalpost.com\/wp-admin\/admin-ajax.php","nonce":"4061cb636f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/nationalpostcom.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fhow-chinese-scientists-used-a-supercomputer-to-solver-the-ancient-puzzle-called-the-three-body-problem","blog_id":"37979189","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=37979189&v=wpcom&tz=-4&user_id=0&subd=nationalpostcom","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJxtjdEOgjAMRX/IUY1g4oPxW+ZotJN2c90w/L0zAeWBpzanvffAOxoXJKNkyA9kVBgpQgyaGXuyJg7lTqJgxQ5TJqczAa8Q2QQWyiVh43UHqy4u/2TPJOZmE7DVjKluJoyYEvXV9mNLA4kbyvdSBRpJtrh/FUzTPJr114bf2RSK4gAec7TuaRZQM1e+HLr98dy27anzHxi0ZJ4='></script>
+<script type='text/javascript' src='http://api.flyertown.ca/10560/0096ecc478356d8b/flyertown_module.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/themes/vip/postmedia-theme-npfp/classes/Postmedia/Web/Widgets/classifieds/js/classifieds.js?m=1494273160h'></script>
+<script type='text/javascript' src='http://www.indochino.com/indo-ecapture-widget/indo-ecapture.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var postpoints_wp = {"ajax_url":"http:\/\/nationalpost.com\/wp-admin\/admin-ajax.php","nonce":"102c5a7d4a"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/themes/vip/postmedia-theme-npfp/js/postpoints.js?m=1494273160h'></script>
+<script type='text/javascript' src='https://static.freeskreen.com/publisher/1777/freeskreen.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/themes/vip/postmedia-theme-npfp/templates/snapgalleries/js/snapgalleries.js?m=1494273160h'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><!-- START Adobe Analytics --><script type="text/javascript">s.prop24 = "2017\/10\/18 17:14:10";s.prop47 = "1012 1013";s.prop48 = "jbrean";jQuery( document ).ready( function() { void( s.t() ) } );</script><!-- END Adobe Analytics --><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'37979189','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'37979189','v':'wpcom','tz':'-4','user_id':'0','post':'590625070003865842','subd':'nationalpostcom'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=37979189&v=wpcomvt&tz=-4&user_id=0&post=590625070003865842&subd=nationalpostcom&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/MUhXW11WSmguZHBnMVY9d1Q4eWZlRlhkdXdlbWFwRUp5ckdHRE1wcFRqcjlaMUErd1VSP1lmPWpFQlZYQ3F+STI0SHlsQTJwMTV4OUNZTE0xZVhVV0RtPVQlTUx6a1o1T0RkWktGeS5xQzVHK3M1cG4zfE1MNW9fOTVBSGVCOE9qdH5+QzlUZ2p5bkV0fFg2QT9KWFszK2F0NF14XT9zOEhSSk8uWTFaRS98QnphK3F3SGNkYw=='}]);
+_stq.push([ 'clickTrackerInit', '37979189', '590625070003865842' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+			<!-- Comscore Code Begins -->
+			<script>
+				var _comscore = _comscore || [];
+				_comscore.push({ c1: "2", c2: "10276888" });
+
+				(function() {
+					var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+					s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+					el.parentNode.insertBefore(s, el);
+				})();
+			</script>
+
+			<noscript>
+				<img src="http://b.scorecardresearch.com/p?c1=2&c2=10276888&cv=2.0&cj=1" />
+			</noscript>
+			<!-- Comscore Code Ends -->
+					<!-- Chartbeat Code Begins -->
+			<script type="text/javascript">
+
+				var _sf_async_config={};
+				_sf_async_config.uid = 34988;
+				_sf_async_config.domain = "postmedia.com";
+				_sf_async_config.useCanonical = true;
+				_sf_async_config.sections = "nationalpost.com";
+				_sf_async_config.videoPageGroups = true;
+
+				_sf_async_config.authors = "Joseph Brean";
+				( function(){
+					function loadChartbeat() {
+						window._sf_endpt=(new Date()).getTime();
+						var e = document.createElement('script');
+						e.setAttribute('language', 'javascript');
+						e.setAttribute('type', 'text/javascript');
+						e.setAttribute('src',
+							 (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+							 'js/chartbeat_video.js');
+						document.body.appendChild(e);
+					}
+					var oldonload = window.onload;
+					window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+				})();
+
+			</script>
+			<!-- Chartbeat Code Ends -->
+				<!-- Google Code for Remarketing Tag -->	
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 990309138;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+				<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990309138/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>		
+					<script>
+				document.write('<scr' + 'ipt async type="text/javascript" src="//c.jsrdn.com/s/cs.js?p=22507"><\/sc' + 'ript>');
+			</script>
+			<div id="ds_default_anchor"></div>
+			<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+	</body>
+</html>
+<!--
+	generated in 2.224 seconds
+	182765 bytes batcached for 300 seconds
+-->

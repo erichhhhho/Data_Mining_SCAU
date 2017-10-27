@@ -1,0 +1,1013 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.chinafile.com/sites/default/files/chinafile_favicon.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Almost 500 previously unpublished documents about Zhao Ziyang, the bold reformer who served as China’s premier (1980-1987) and Communist Party general secretary (1987-1989), were smuggled out of China and published in late July by the Chinese University Press in Hong Kong. The documents show how Zhao led a decade of transformational economic reform and sketched out plans for political reform. Zhao was purged in 1989 and died under house arrest in 2005. The documents have sparked a renewed interest in his time in power and offer an opportunity to imagine what might have been had the man and his ideas survived." />
+<meta name="news_keywords" content="China, media, journalism, Zhao Ziyang, the 1980s, Tiananmen Protests, Chinese Leadership, Chinese Communist Party" />
+<link rel="image_src" href="http://www.chinafile.com/sites/default/files/assets/images/article/featured/zhaoreagan.jpg" />
+<link rel="canonical" href="http://www.chinafile.com/conversation/what-would-china-look-today-had-zhao-ziyang-survived" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="fb:app_id" content="454460787921552" />
+<meta property="fb:admins" content="4403816" />
+<meta property="og:site_name" content="ChinaFile" />
+<meta property="og:title" content="What Would China Look Like Today Had Zhao Ziyang Survived?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.chinafile.com/conversation/what-would-china-look-today-had-zhao-ziyang-survived" />
+<meta property="og:description" content="Almost 500 previously unpublished documents about Zhao Ziyang, the bold reformer who served as China’s premier (1980-1987) and Communist Party general secretary (1987-1989), were smuggled out of China and published in late July by the Chinese University Press in Hong Kong. The documents show how Zhao led a decade of transformational economic reform and sketched out plans for political reform. Zhao was purged in 1989 and died under house arrest in 2005. The documents have sparked a renewed interest in his time in power and offer an opportunity to imagine what might have been had the man and his ideas survived." />
+<meta property="og:updated_time" content="2016-08-30T15:13:09-04:00" />
+<meta property="og:image" content="http://www.chinafile.com/sites/default/files/assets/images/article/featured/zhaoreagan.jpg" />
+<meta property="og:image" content="http://www.chinafile.com/sites/default/files/assets/images/article/system/zhaoreagan.jpg" />
+<meta property="og:image" content="http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/default/files/assets/images/article/featured/zhaoreagan.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/default/files/assets/images/article/system/zhaoreagan.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@ChinaFile" />
+<meta name="twitter:site:id" content="84786801" />
+<meta name="twitter:title" content="What Would China Look Like Today Had Zhao Ziyang Survived?" />
+<meta name="twitter:url" content="http://www.chinafile.com/conversation/what-would-china-look-today-had-zhao-ziyang-survived" />
+<meta name="twitter:description" content="Almost 500 previously unpublished documents about Zhao Ziyang, the bold reformer who served as China’s premier (1980-1987) and Communist Party general secretary (1987-1989), were smuggled out of China and published in late July by the Chinese University Press in Hong Kong. The documents show how Zhao led a decade of transformational economic reform and sketched out plans for political reform. Zhao was purged in 1989 and died under house arrest in 2005. The documents have sparked a renewed interest in his time in power and offer an opportunity to imagine what might have been had the man and his ideas survived." />
+<meta name="twitter:image" content="http://www.chinafile.com/sites/default/files/assets/images/article/featured/zhaoreagan.jpg" />
+<meta name="twitter:image:width" content=",," />
+<meta name="twitter:image:height" content=",," />
+<meta property="article:section" content="Conversation" />
+<meta property="article:tag" content="Chinese Leadership" />
+<meta property="article:tag" content="the 1980s" />
+<meta property="article:tag" content="Tiananmen Protests" />
+<meta property="article:tag" content="Zhao Ziyang" />
+<meta property="article:published_time" content="2016-08-18T16:35:28-04:00" />
+<meta property="article:modified_time" content="2016-08-30T15:13:09-04:00" />
+<meta property="video:tag" content="Zhao Ziyang" />
+<meta property="video:tag" content="the 1980s" />
+<meta property="video:tag" content="Tiananmen Protests" />
+<meta property="video:tag" content="Chinese Leadership" />
+<meta property="video:tag" content="Chinese Communist Party" />
+  <title>What Would China Look Like Today Had Zhao Ziyang Survived? | ChinaFile</title>
+  <link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_KiW2LiyrCcZVV0qrPH8lYFbMuucXuTFt2eJJDhvtmD4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css__Fjaj2hjxh6x766OC-DA-hWZhTo5bXYUFoyDO018cIU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_A0zIOFmK-BB77yanrUTsuuxeRbxv8RRIkeR1Tmyyph4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="print" />
+  <script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _prum=[['id', '54a5b733abe53df81ed455ec'], ['mark', 'firstbyte',
+      (new Date()).getTime()]]; (function() {
+      var s=document.getElementsByTagName('script')[0],
+      p=document.createElement('script');
+      p.async='async'; p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_0RgHi2By0YhYjet9xuUK1CAl1mLRHPf-4NAM5NYO9Wg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function ($) {
+  $(document).ready(function () {
+    $('h1, h2, .field').curlies();
+  });
+})(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_E_-TE5vgXTAJf4L9JyrVufuU4gAUFZ3X8_ShTQz_vBg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.chinafile.com/sites/default/files/googleanalytics/analytics.js?oyckrf","ga");ga("create", "UA-25322293-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_gC7yHRhKuERyssiHLm0RWhOcPh6RJwoq3nR-pYcdvl8.js"></script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_s4zA8BIp5abe7C4EiO_hzRhqYHyysqHfv01HPizly3U.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cftwo","theme_token":"doYt_kvRaZp6rGQvq1AXWi_U5MJrod8yF-Ua-PsKinM","js":{"0":1,"sites\/all\/modules\/custom\/cbox\/includes\/cbox.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"1":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/curlies\/curlies.js":1,"2":1,"sites\/all\/modules\/contrib\/external\/external.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"http:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"\/js\/before-after.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/mobile-classes.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/toggle.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/libraries\/fontello\/css\/fontello.css":1,"sites\/all\/modules\/custom\/chinafile_alter\/css\/admin.css":1,"sites\/all\/themes\/cftwo\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/cftwo\/assets\/stylesheets\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"1000px"},"externalpdf":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/search\/results":true}});
+//--><!]]>
+</script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">    <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" id="st_insights_js" src="https://ws.sharethis.com/button/buttons.js?publisher=457a290a-9652-4a5f-ac83-f1f0590148d8"></script>
+  <script type="text/javascript">stLight.options({
+    publisher: "457a290a-9652-4a5f-ac83-f1f0590148d8",
+    doNotHash: false,
+    doNotCopy: false,
+    hashAddressBar: false,
+    publisherGA:"UA-25322293-1"
+  });</script>
+</head>
+<body class="html not-logged-in page-node page-node-28686 node-type-article panel-layout-cf_twocol panel-region-middle panel-region-top panel-region-top_left panel-region-top_right header-small secondary-light" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+
+  <header id="header" class="header" role="header">
+    <div class="container">
+      <a href="/" title="Home" rel="home" class="logo">ChinaFile</a>
+
+      <nav class="navbar navbar-default" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div> <!-- /.navbar-header -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+                      <form class="search-form navbar-form navbar-right" action="/search/results" method="post" id="search-form" accept-charset="UTF-8" role="form"><div><div class="container-inline form-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys form-group">
+  <label class="element-invisible" for="edit-keys">Search </label>
+ <input placeholder="Search" class="form-control form-control form-text" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit btn btn-default btn-primary" /></div><input type="hidden" name="form_build_id" value="form-IbJdWMC7WNTNLY3ExQ0lWeLWsMlfhP7D3nUYOFy-J0s" />
+<input type="hidden" name="form_id" value="search_form" />
+</div></form>                                <ul id="main-menu" class="menu nav navbar-nav">
+              <li title="" class="menu-link-reporting--opinion"><a href="/reporting-opinion">Reporting &amp; Opinion</a></li>
+<li title="" class="menu-link-conversation"><a href="/conversation">Conversation</a></li>
+<li title="" class="menu-link-library"><a href="/library">Library</a></li>
+<li title="" class="menu-link-multimedia"><a href="/multimedia">Multimedia</a></li>
+<li title="" class="menu-link-topics"><a href="/topics">Topics</a></li>
+<li title="" class="menu-link-contributors"><a href="/contributors">Contributors</a></li>
+            </ul>
+                  </div><!-- /.navbar-collapse -->
+      </nav><!-- /.navbar -->
+    </div>
+
+    <div class="submenu">
+      <div class="chinafile-submenu chinafile-menu-reporting hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-1bc10cd5114d882f091c7047de4f6c25">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/culture">Culture</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/environment">Environment</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/features">Features</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/green-space">Green Space</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/media">Media</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/postcard">Postcard</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/viewpoint">Viewpoint</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-daabd0e8412f3d282f2ef2955187cde5">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/caixin-media">Caixin Media</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/earthbound-china">Earthbound China</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/my-first-trip">My First Trip</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/out-school">Out of School</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/two-way-street">Two Way Street</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-library hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-38ebe0a6518d034c278349a3125b7fa0">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/books">Books</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/excerpts">Excerpts</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/reports">Reports</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-b8af6be58bde44b125a93e1f9692a1ea">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/china-world-podcast">China in the World Podcast</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/sinica-podcast">Sinica Podcast</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/china-africa-project">The China Africa Project</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/nyrb-china-archive">The NYRB China Archive</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-multimedia hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-d31ebfff1432df45bff83283702f7669">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/depth-of-field">Depth of Field</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/infographics">Infographics</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/photo-gallery">Photo Gallery</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/video">Video</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/viral-videos">Viral Videos</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-b3bad4b5e5d207b1c7139d04e7dcda9c">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-topics hidden-xs">
+        <div class="container">
+          <div class="view view-topics view-id-topics view-display-id-panel_pane_2 view-dom-id-826a97387fdfddf041d113320192cef5">
+        
+  
+  
+      <div class="content view-content">
+      <div class="views-view-grid cols-5 container-fluid">
+      <div class="row-1 row-first row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/arts">Arts</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/energy">Energy</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/law">Law</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/religion">Religion</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/society">Society</a></span>  </div>        </div>
+          </div>
+      <div class="row-2 row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/business">Business</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/environment">Environment</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/media">Media</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/rural-life">Rural Life</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/technology">Technology</a></span>  </div>        </div>
+          </div>
+      <div class="row-3 row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/economy">Economy</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/health">Health</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/military">Military</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/science">Science</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/urban-life">Urban Life</a></span>  </div>        </div>
+          </div>
+      <div class="row-4 row-last row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/education">Education</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/history">History</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/politics">Politics</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+                  </div>
+              <div class="col-5 col-last col-sm-5ths">
+                  </div>
+          </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-contributors hidden-xs">
+        <div class="container">
+          <div class="chinafile-menu-contributors-inner row">
+            <div class="col-sm-9"><div class="view view-contributors-menu view-id-contributors_menu view-display-id-panel_pane_1 view-dom-id-ae594d6b214d3cda05fe768d9b6884b8">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1">
+      
+          <a href="/contributors/alvin-yh-cheung"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/alvin_cheung.jpg?itok=dk6gLiEY" width="82" height="93" alt="" /></a>    
+          <a href="/contributors/alvin-yh-cheung">Alvin Y.H. Cheung</a>    </div>
+  <div class="views-row views-row-2">
+      
+          <a href="/contributors/Tim-Franco"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/tim-franco-2.jpg?itok=RrVdasqX" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/Tim-Franco">Tim Franco</a>    </div>
+  <div class="views-row views-row-3">
+      
+          <a href="/contributors/sharron-lovell"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/wr_2011-01-_ccc_office_portraits_bnmx265_0.jpg?itok=StRLtkz9" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/sharron-lovell">Sharron Lovell</a>    </div>
+  <div class="views-row views-row-4">
+      
+          <a href="/contributors/leslie-t-chang"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/leslie-chang_0.jpg?itok=FvpPWM63" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/leslie-t-chang">Leslie T. Chang</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+            <div class="col-sm-3"><div class="view view-contributors-menu view-id-contributors_menu view-display-id-panel_pane_2 view-dom-id-e9183e4c2a22c0f284b562fb9de573c6">
+        
+  
+  
+      <div class="content view-content">
+          <ul>          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/james-palmer">James Palmer</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/amartya-sen">Amartya Sen</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/isabel-hilton">Isabel Hilton</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/zha-jianying">Zha Jianying</a></span>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/contributors" class="see-all">See All</a>    </div>
+  
+  
+</div></div>
+          </div>
+        </div> <!-- /.container -->
+      </div>
+
+    </div> <!-- /.container -->
+            <div id="breadcrumb" class="visible-desktop">
+          <h2 class="element-invisible">You are here</h2><ul class="breadcrumb node"><li class="first last"><a href="/conversation">Conversation</a></li></ul>        </div>
+        </header>
+
+  <div id="main" class="main">
+    <div class="main-container container container-fluid">
+
+      <div class="main-header">
+        
+        
+        
+              </div>
+
+      <div id="content" class="main-content">
+        <div class="l-cf-twocol l-panel" >
+  <div class="l-top l-twocol-wrapper container container-fluid">
+    <div class="panel-pane pane-views-panes pane-featured-photo-panel-pane-1" >
+  
+      
+  
+  <div class="view view-featured-photo view-id-featured_photo view-display-id-panel_pane_1 visual-box view-dom-id-316b7b4f430ee402f6ab8acd329b1e35">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1">
+      
+  <div class="views-field views-field-field-common-featured-photo">        <div class="field-content"><a href="http://www.chinafile.com/sites/default/files/assets/images/article/featured/zhaoreagan.jpg" title="What Would China Look Like Today Had Zhao Ziyang Survived?" class="colorbox" data-colorbox-gallery="gallery-node-28686-p-06RW_lNa0"><img src="http://www.chinafile.com/sites/default/files/styles/large/public/assets/images/article/featured/zhaoreagan.jpg?itok=DfWd5Hms" width="1169" height="720" alt="" title="" /></a></div>  </div>  
+  <div>        <div class="photo-credit">(AFP/Getty Images)</div>  </div>  
+  <div>        <div class="photo-caption"><p>Then Chinese Premier Zhao Ziyang (second from left), walks with then U.S. President Ronald Reagan (right) on October 1, 1984, after a meeting in the Cabinet Room in the White House, Washington, D.C. Zhao was stripped of his post days before the Tiananmen Square massacre in 1989 for sympathizing with the students who occupied the square for several weeks to demand democratic reforms.</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-node-title" >
+  
+        <h2 class="pane-title">Title</h2>
+    
+  
+  <h1>What Would China Look Like Today Had Zhao Ziyang Survived?</h1>
+
+  
+  </div>
+<div class="field-name-subtitle field field-name-field-common-subtitle field-type-text field-label-hidden">
+      <h2>A ChinaFile Conversation</h2>
+  </div>
+<div class="panel-pane pane-node-authors-date" >
+  
+      
+  
+  <ul class="author-date">  <li class="author">by Julian B. Gewirtz, David Shambaugh, Tom Brokaw, Kristin Shi-Kupfer, Jean-Pierre Cabestan, Jaime A. FlorCruz, Jeffrey Wasserstrom</li>  <li class="create-date">August 18, 2016</li></ul>
+  
+  </div>
+<div class="panel-pane pane-node-share" >
+  
+      
+  
+  <span class="st_facebook_large" st_title="What Would China Look Like Today Had Zhao Ziyang Survived?" displayText="Facebook"></span><span class="st_twitter_large" st_title="What Would China Look Like Today Had Zhao Ziyang Survived?" st_via="chinafile" displayText="Tweet"></span><span class="st_email_large" st_title="What Would China Look Like Today Had Zhao Ziyang Survived?" displayText="Email"></span>
+  
+  </div>
+  </div>
+
+  <div class="l-upper-wrapper l-twocol-wrapper container">
+    <div class="l-twocol-left">
+      <aside class="col-sm-4 col-md-4 l-twocol-right">
+        <div class="panel-pane pane-views-panes pane-publications-panel-pane-2" >
+  
+      
+  
+    <div class="view view-publications view-id-publications view-display-id-panel_pane_2 clearfix view-dom-id-6a061bf5f93a0f09ddc718e106c6dd71">
+                
+    
+    
+          <div class="view-content">
+          <div>
+      
+  <div class="views-field views-field-field-publication-article-header">        <div class="field-content"><a href="/publications/chinafile-conversation"><img src="http://www.chinafile.com/sites/default/files/styles/publication_header/public/assets/images/publication/article_block_header/chinafileconversation_sidebarheader_v3.png?itok=9mvtp5ql" width="300" height="45" alt="" /></a></div>  </div>  </div>
+      </div>
+    
+    
+    
+    
+          <div class="view-footer">
+          
+          <p>The ChinaFile Conversation is a weekly, real-time discussion of China news, from a group of the world’s leading China experts.</p>        </div>
+    
+    
+  </div>
+  
+  </div>
+<div class="panel-pane pane-views-panes pane-contributors-sidebar-panel-pane-1" >
+  
+      
+  
+  <div class="view view-contributors-sidebar view-id-contributors_sidebar view-display-id-panel_pane_1 view-dom-id-441c15f5b157257d04a980517be34868">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/julian-b-gewirtz">Julian B. Gewirtz</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/julian-b-gewirtz"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/julian_gewirtz.png?itok=xJEGKaEz" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Julian Gewirtz is a Fellow in History and Public Policy at the Harvard Kennedy School. He is the author of Unlikely Partners: Chinese Reformers, Western Economists, and the Making of Global China (...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/julian-b-gewirtz">More</a></span>  </div>  </div>
+  <div class="views-row views-row-2 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/david-shambaugh">David Shambaugh</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/david-shambaugh"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/shambaugh-photo_0.jpg?itok=KeoLKor5" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">David Shambaugh is Gaston Sigur Professor of Asian Studies, Political Science &amp; International Affairs and Director of the China Policy Program at the Elliott School of International Affairs at...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/david-shambaugh">More</a></span>  </div>  </div>
+  <div class="views-row views-row-3 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/tom-brokaw">Tom Brokaw</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/tom-brokaw"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/nbc_brokaw_tom.grid-6x2.jpg?itok=3Q9JkWdY" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Tom Brokaw, one of the most trusted and respected figures in broadcast journalism, is a special correspondent for NBC News. In this role, he reports and produces long-form documentaries and provides...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/tom-brokaw">More</a></span>  </div>  </div>
+  <div class="views-row views-row-4 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/kristin-shi-kupfer">Kristin Shi-Kupfer</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/kristin-shi-kupfer"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/kristinshikupfer.jpg?itok=e4ljwiw5" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Kristin Shi-Kupfer is the Director of the Research Area on Politics, Society, Media at the Mercator Institute for China Studies (MERICS), a China think tank in Berlin. She was a China correspondent...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/kristin-shi-kupfer">More</a></span>  </div>  </div>
+  <div class="views-row views-row-5 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/jean-pierre-cabestan">Jean-Pierre Cabestan</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/jean-pierre-cabestan"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/cabestan_sm.png?itok=RMWJiyjT" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Jean-Pierre Cabestan is Professor and Head of the Department of Government and International Studies at Hong Kong Baptist University. He is also Director General of the European Union Academic...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/jean-pierre-cabestan">More</a></span>  </div>  </div>
+  <div class="views-row views-row-6 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/jaime">Jaime A. FlorCruz</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/jaime"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/jamieflorcruz.jpg?itok=AU-oRnr3" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Jaime A. FlorCruz was CNN’s Beijing Bureau Chief and correspondent, responsible for strategic planning of the network’s news coverage of China, from 2001-2014.
+FlorCruz has studied, worked, and...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/jaime">More</a></span>  </div>  </div>
+  <div class="views-row views-row-7 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/jeffrey-wasserstrom">Jeffrey Wasserstrom</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/jeffrey-wasserstrom"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/wasserstrom.jpg?itok=ov0gsehX" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Jeffrey Wasserstrom is Chancellor’s Professor of History at the University of California, Irvine.  His most recent books, both published in 2016, are, as author, Eight Juxtapositions: China through...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/jeffrey-wasserstrom">More</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-common-side-block" >
+  
+      
+  
+  <div class="field-collection-container clearfix"><div class="field field-name-field-common-side-block field-type-field-collection field-label-hidden">
+  
+  
+                  <div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-common-side-block clearfix">
+  <div class="content">
+      <h2>Related Reading</h2>
+<div class="field field-name-field-common-block-content field-type-text-long field-label-hidden">
+  
+  
+                  <p>“<a href="http://www.nytimes.com/2016/07/29/world/asia/china-zhao-ziyang-memoir.html?smid=tw-share&amp;_r=0" target="_blank" rel="nofollow">Purged Chinese Leader’s Inside Look at Communist Leadership</a>,” <em>The New York Times</em>, July 28, 2016</p>
+<p>“<a href="http://qz.com/737295/at-hong-kongs-biggest-book-fair-sellers-are-flying-in-the-face-of-chinese-censorship/" target="_blank" rel="nofollow">The Banned Books Now on Sale at Hong Kong’s Biggest Book Fair</a>,” Quartz, July 20, 2016</p>
+<p>“<a href="http://www.scmp.com/news/china/policies-politics/article/1991837/documents-reformist-icon-zhao-ziyang-give-rare-insight" target="_blank" rel="nofollow">Documents from Reformist Icon Zhao Ziyang Give Rare Insight into China at Crossroads</a>,” <em>South China Morning Post</em>, July 19, 2016</p>
+<p>“<a href="http://www.reuters.com/article/us-china-zhao-documents-exclusive-idUSKCN0ZY2TP" target="_blank" rel="nofollow">Documents from Purged Chinese Leader Zhao Ziyang to be Published in Hong Kong</a>,” Reuters, July 19, 2016</p>
+<p>“<a href="http://www.wsj.com/articles/hong-kong-booksellers-disappearance-stokes-fears-over-freedoms-1452112200" target="_blank" rel="nofollow">Hong Kong Bookseller’s Disappearance Stokes Fears Over Freedoms</a>,” <em>Wall Street Journal</em>, January 6, 2016</p>
+<p>“<a href="http://sinosphere.blogs.nytimes.com/2014/05/11/party-chiefs-downfall-a-central-act-in-tiananmen-drama/" target="_blank" rel="nofollow">Party Chief’s Downfall a Central Act in Tiananmen Drama</a>,” <em>The New York Times</em>, May 11, 2014</p>
+<p>“<a href="http://www.chinafile.com/library/books/Zhao-Ziyang-and-Chinas-Political-Future" target="_blank" rel="nofollow">Zhao Ziyang and China’s Political Future</a>,” ChinaFile, February 12, 2013</p>
+          
+  </div>
+  </div>
+</div>
+</div>          
+  </div>
+</div>
+  
+  </div>
+      </aside>
+
+      <div class="panel-pane pane-node-content" >
+  
+      
+  
+  <article class="node node-article clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+      <p class="dropcap">In late July, the Chinese University Press in Hong Kong released a trove of previously unpublished documents about Zhao Ziyang, the bold reformer who served as China’s premier (1980-1987) and Communist Party general secretary (1987-1989). Containing almost 500 documents that were smuggled out of China, <em>The Collected Works of Zhao Ziyang, 1980-1989</em> (<a href="http://zzywj.weebly.com/" target="_blank" rel="nofollow">in Chinese</a>) shows how Zhao led a decade of transformational economic reform and sketched-out plans for political reform. It cuts off shortly before he was stripped of his power and placed under house arrest after opposing the use of force against the student protesters in the spring of 1989. The ruling Chinese Communist Party has subsequently effaced his contributions; when he died in 2005, his short official obituary referred to him only as a “comrade,” not mentioning that he had helped lead the country for nearly 10 years. These four volumes, which are selling briskly, have renewed interest in Zhao’s time in power—and they offer an opportunity to imagine what might have been, had he not been purged in 1989. How should we assess his legacy, and what might China be like today under a Zhao administration, or under a leader who governed like Zhao did? <em>—The Editors</em></p>
+  </div>  </div>
+
+  
+  <div id="comments" class="comment-wrapper">
+          <h2 class="title">Comments</h2>
+      
+  <a id="comment-3311"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-15T12:23:00-04:00">Monday, August 15, 2016 - 12:23pm</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/julian-b-gewirtz"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/julian_gewirtz.png?itok=xJEGKaEz" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/julian-b-gewirtz" title="Julian B. Gewirtz">Julian B. Gewirtz</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p class="dropcap">Zhao Ziyang was a genuine reformer working within the system. The publication of the four-volume <em>Collected Works of Zhao Ziyang</em> will help restore him to his rightful place at the center of the history of China’s reform era, despite the Communist Party’s systematic efforts to blot out his legacy. We have always known that he was a reformer—but now, in rich new detail, we can witness how this leader operated, pulling back the curtain that usually shields the Party’s inner workings from outsiders. We gain new insights as we watch him in action as never before: peppering his advisers with sharp questions about their policy proposals, tussling with conservative leaders, expanding his initiatives to encompass both economic and political reform, and charming foreign visitors—such as the economist Milton Friedman, who praised Zhao at their meeting in 1988 for having “the temperament of a professor.”</p>
+<p>Indeed, although Zhao cut a striking figure with his Western suits, swept-back hair, and oversize glasses, he prioritized substance over style. He was unremittingly curious and far more open-minded than one expects of a leader who came up through the ranks of the Party. “My earliest understanding of how to proceed with reform was shallow and vague,” he acknowledged in his posthumously published memoir. “I did not have any preconceived model or a systematic idea in mind.” This attitude drove him to empower reformist officials and experts, demanding that they bring him the best ideas they could find and protecting them when they ran into trouble. Amid a policy brawl in 1986, Zhao chastised a leading ideologue: “You should be cautious when criticizing the liberalization of economic theory.”</p>
+<p>Of course we cannot say with certainty what China might be like today under a Zhao administration, but his liberal open-mindedness and relentless commitment to advancing reforms even in the face of extraordinary difficulties are qualities that offer a striking contrast to China’s current leadership. Rather than blaming “hostile foreign forces” for a stock market plunge, Zhao likely would have tried to figure out how to fix the problem by reaching out to experts in China and around the world, as I describe in <em><a href="https://www.amazon.com/Unlikely-Partners-Chinese-Reformers-Economists/dp/0674971132/ref=sr_1_fkmr0_1" target="_blank" rel="nofollow">Unlikely Partners: Chinese Reformers, Western Economists, and the Making of Global China</a></em>. Rather than clamping down on liberal publications like <em>Yanhuang Chunqiu</em>, he would presumably have read them carefully, as he did with the <em>World Economic Herald</em>. China under a Zhao administration would not necessarily (or immediately) have become a democracy, and at least until 1989, Zhao continued to act to uphold the autocratic system through which he rose. But if he had been able to bring the same spirit of openness and rigor to political reform that he brought to economic reform, it’s not at all hard to imagine that Chinese society would be much more pluralistic, democratic, law-abiding, fair, and open to the outside world.</p>
+<p>Zhao was the kind of reformer who seems conspicuously absent from the top rungs of the Chinese leadership today. He may not be rehabilitated for many years, if ever—but China would benefit greatly if its rulers today would borrow from Zhao’s playbook as they face the tremendous challenges of the present moment.</p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+<a id="comment-3316"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-18T06:26:00-04:00">Thursday, August 18, 2016 - 6:26am</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/david-shambaugh"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/shambaugh-photo_0.jpg?itok=KeoLKor5" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/david-shambaugh" title="David Shambaugh">David Shambaugh</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p class="dropcap">It is difficult to say with any certainty how China would have evolved had Zhao Ziyang not been overthrown in 1989. The ostensible cause of his purge was his refusal to endorse martial law and authorize the use of force to suppress the Tiananmen demonstrations (thus “splitting the Party”)—but even before that fateful Politburo meeting and his final public appearance in the square during the early morning hours of May 19, 1989, Zhao was locked in intense factional struggle with Li Peng, Yang Shangkun, and arch-conservative elders Wang Zhen and Deng Liqun. His grip on ultimate power was never firm after he succeeded the deposed Hu Yaobang as Communist Party general secretary in 1987. Even Deng Xiaoping was wobbly in his support for Zhao and his proposed reforms during and after the Thirteenth Party Congress that year. Without Deng’s clear support—behind the scenes and publicly—Zhao’s political vulnerability was exposed. During this two-year period (1987-1989), the conservatives smelled blood and did all they could to block Zhao’s reforms and undermine his position.</p>
+<p>In this context, Zhao may not have survived politically even <em>if</em> the Tiananmen events had not transpired. Zhao and the conservatives disagreed about the nature of economic reforms at the time (recall the overheating of the economy in 1988), and they certainly disagreed over political reform. At a minimum, Zhao would have been locked in intense factional struggle and this quite likely would have compromised his ability to implement his bold economic and political reform package. As Julian Gewirtz correctly notes in his commentary, the comprehensive four-volume set of Zhao’s speeches and documents recently published by the Chinese University Press in Hong Kong delineates in considerable detail where Zhao was trying to take China (particularly when read in conjunction with <a href="https://www.amazon.com/dp/B002AJ7Y6C/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1" target="_blank" rel="nofollow"><em>Prisoner of the State: The Secret Journal of Premier Zhao Ziyang</em></a> and <a href="https://www.amazon.com/Tiananmen-Papers-Liang-Zhang-ebook/dp/B0028AE7X6/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1471513697&amp;sr=1-1&amp;keywords=The+Tiananmen+Papers" target="_blank" rel="nofollow"><em>The Tiananmen Papers</em></a>). In essence, Zhao’s vision for China was one of <em>simultaneous</em> economic and political reform.</p>
+<p>He explicitly rejected the view that economic reform had to precede political reform or that political reform was not necessary. In this regard, he held the same view as Mikhail Gorbachev, which was amply evident in their May 16, 1989 public meeting in the Great Hall of the People. Had Zhao remained in power and been able to pursue this twin-reform strategy, it is an open question whether he and China would have wound up with the same fate as Gorbachev and the former Soviet Union, or whether this strategy would have worked in China, where it did not in the U.S.S.R. The main reasons for such conjecture are that China’s economy was far more reformed and integrated into the international economy than the Soviet Union (and thus on much stronger footing), and the fact that Zhao’s model of political reform for China was one of “neo-authoritarianism” along the lines of Singapore plus de facto federalism (Zhao’s advisor Yan Jiaqi’s brainchild) that would fiscally empower provinces rather than maintaining the central government as the controlling organ and rent-seeker. Zhao’s political model would also likely have permitted much more open civil society and media; tolerated some dissent; enfranchised the eight so-called “democratic parties” and empowered the National People’s Congress and provincial people’s congresses; established a Hong Kong-style professional civil service (Zhao studied this carefully and was embarked on this reform when he was overthrown); separated Party from government (<em>dang-zheng fenkai</em>); made the military beholden to the state and constitution rather than a tool of the Communist Party; more strictly controlled opportunities for corruption and strengthened the <em>non</em>-Party control mechanisms; encouraged greater “inner Party” feedback mechanisms; and proceeded with gradual direct government elections up to and including central-level officials.</p>
+<p>This is my sense of where Zhao was headed. It <em>may</em> have worked—and if it had, China would have been far better off for it.</p>
+<p><em>Read David Shambaugh’s full response, “<a href="/node/28841" target="_blank" rel="nofollow">Zhao Ziyang’s Legacy</a>.”</em></p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+<a id="comment-3321"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-18T14:02:00-04:00">Thursday, August 18, 2016 - 2:02pm</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/tom-brokaw"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/nbc_brokaw_tom.grid-6x2.jpg?itok=3Q9JkWdY" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/tom-brokaw" title="Tom Brokaw">Tom Brokaw</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p><em>Following is an edited transcript of Tom Brokaw’s recollections of his 1987 </em>Meet The Press<em> interview with Zhao Ziyang, as told to ChinaFile. —The Editors</em></p>
+<p class="dropcap">We were doing a lifting-of-a-curtain <a href="http://asiasociety.org//video/countries/tom-brokaw-reflects-his-work-china?utm_source=asiasociety.org&amp;amp;utm_medium=jwplayer&amp;amp;utm_campaign=video" target="_blank" rel="nofollow">reporting</a> in China, a country not that long out of the Cultural Revolution, and there was an enormous curiosity in America.</p>
+<p>Everything was very ad hoc. We didn’t know what was going to happen from day to day, then, suddenly, we were told Zhao would sit for <em><a href="https://search.alexanderstreet.com/preview/work/2229800" target="_blank" rel="nofollow">Meet The Press</a></em>, which was almost unbelievable, looking back on it. He’s the only Chinese premier who’s ever done that. He was so at ease. He talked in Chinese, and we had simultaneous translation, but he kept a quart bottle of Tsingtao beer by his side. He drank two of them during the course of the interview. When he was off camera, he would reach down and take a big slug and continue on, and it didn’t affect his performance at all.</p>
+<p>I think what we all thought, looking back on it, is “this is the new China.” We were swept up in the idea that there was a “New China.” Zhao was the face of a changing China—we were finding people in backstreets, at the universities, wherever we went, who would come up to us and express how pleased and excited they were about what was happening.</p>
+<p>At the end of the interview, I thought, “This guy could run for the mayor of Chicago.” He was a very skilled politician, very at ease with himself. What he had in mind for China moving forward was very heartening.</p>
+<p>Zhao did not speak in rigid semantics. He was responsive to what I had to say. You couldn’t see it printed out in a Little Red Book, for example. The very idea that Zhao appeared on <em>Meet the Press</em> was remarkable, but I was not romanced by them. I was still skeptical because they still faced enormous problems. We tended to see things through the Beijing lens, but we didn’t know what was going on beyond the city limits.</p>
+<p>By the time I was back in Beijing in 1989, Zhao had been purged. I was there for the beginning, when Soviet leader Mikhail Gorbachev was there and the Beijing students were demanding their government make similar kinds of changes as Gorbachev made to change Russia. It was a pivotal moment in 20th century history. Here was the leader of the collapsing Soviet Union going to China and we didn’t know exactly what the conversations were all about.</p>
+<p>I left right after the Gorbachev meeting and then Tiananmen blew up and I flew back and walked into a changed city. There was a big clampdown and lot of confusion about exactly what had happened that night. Tiananmen Square had been filled with a lot of people who’d been trucked in from the provinces. There was a huge difference between these young armed men, who had a peasant appearance, and the very sophisticated students who, by that time, were hiding out.</p>
+<p>What I saw when I interviewed Zhao was that it looked like they were going to make a great leap forward, to borrow their language, based on his vision about what they ought to be doing. I do remember being a little skeptical because he was so urbane and so progressive and it didn’t seem to me that we were seeing much of that elsewhere, not just in the leadership, but in the rest of China altogether.</p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+<a id="comment-3326"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-23T11:00:00-04:00">Tuesday, August 23, 2016 - 11:00am</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/kristin-shi-kupfer"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/kristinshikupfer.jpg?itok=e4ljwiw5" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/kristin-shi-kupfer" title="Kristin Shi-Kupfer">Kristin Shi-Kupfer</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p class="dropcap">In my opinion, Zhao Ziyang’s most notable legacy is politics with a great sense of humanism, which sometimes was just politics with a human touch. In addition to this being nearly absent from current Chinese politics, it is also declining in democracies worldwide.</p>
+<p>As the previous contributors have rightly stated, Zhao neither advocated liberal democracy, nor was he always supportive of economic liberalism and a more open governance.</p>
+<p>But after his rehabilitation in the 1970s, he constantly worked towards a political system that would be more responsive and accountable to its people. Zhao was pursuing the quest for a more consultative and transparent form of neo-authoritarianism. He did so mainly by specifying and implementing political and economic concepts voiced by his biggest supporter, Deng Xiaoping. Zhao was probably not the greatest visionary or craftsman of genuinely new ideas, but he was willing to serve them, to put ideas to work—and with remarkable success, e.g. economic reforms in Sichuan province during the 1970s.</p>
+<p>Of course, Zhao didn’t have to struggle with such massive institutionalized corruption and vested interests as the current Chinese leadership. But he was confident enough to take risks—not to sacrifice the power of the Chinese Communist Party (C.C.P.), but for the sake of the Chinese people. After Zhao, probably the only comparable politician in this sense was former Premier Zhu Rongji.</p>
+<p>Zhao was open-minded in a way that he was willing to learn from some of his mistakes, willing to change, and willing to listen to dissenting opinions and talk to his critics.</p>
+<p>Above all, he was never willing to abandon a basic stance of humanism. In his now-famous speech to the students on Tiananmen Square on May 19, 1989, he called on them to give up their hunger strike to enable a potential face-saving and peaceful solution with the Party leadership. Regardless of his political motivations, Zhao conveyed the message that he deeply cared about the lives and the future of these students and saw them as compatriots to jointly work for a better Chinese nation-state. At Zhao’s side stood the young Wen Jiabao, at that time Zhao’s secretary. Later as premier, Wen was perceived as the last Chinese leader (up to this point in time) with a human touch. Belief in a softer form of authoritarianism, and even in a more liberal political system, has never completely died among the Chinese political elite, as protest against the recent <a href="http://www.nytimes.com/2016/08/18/world/asia/china-yanhuang-chunqiu.html?_r=0" target="_blank" rel="nofollow">forced remodeling</a> of the magazine <em>Yanhuang Chunqiu</em> has shown.</p>
+<p>The disappearance of politicians and politics with a human touch in China has been enforced by the successive C.C.P. leadership. Looking at the growing resurgence of authoritarian populism in both the United States and Europe, however, one cannot help but wonder why our societies seem to be losing their belief in and a quest for politics with humanism. Maybe it is because many of us are not willing to fight the good but painful fight for humanism in a crises-driven world of uncertainty; we are, perhaps, too quick to buy into and admire seemingly more efficient and effective simplistic black-and-white solutions offered by politicians who lack a moral compass.</p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+<a id="comment-3331"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-24T12:09:00-04:00">Wednesday, August 24, 2016 - 12:09pm</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/jean-pierre-cabestan"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/cabestan_sm.png?itok=RMWJiyjT" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/jean-pierre-cabestan" title="Jean-Pierre Cabestan">Jean-Pierre Cabestan</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p class="dropcap">It is hard to predict what Zhao Ziyang would have been able to achieve if not purged in 1989. At the very least, he might have prevented a massacre and helped the pro-democracy and anti-corruption movement to end peacefully, but I doubt that he could have prevented a showdown in the Chinese Communist Party leadership—a showdown that would have anyway, because of the fragility of his status, led to his dismissal or marginalization.</p>
+<p>There are many reasons for this likely failure. With the risk of over-simplifying, Zhao and the reformers were bumping into two major difficulties or contradictions:</p>
+<ol><li>
+<p>The first set of contradictions was inherent to the ambitious and unprecedented political structure reform program that they managed to convince the 13th Party Congress to endorse in 1987. The most sensitive part of this plan was separating the Party and the state (<em>dangzheng fenkai</em>), starting by reducing the scope of the Party’s competence to “political leadership” and getting rid of “Party groups” in every central and then local government department. Down the road, in spite of the deliberate ambiguities and vagueness of Zhao’s reform plan, was the idea of democratizing the local people’s congresses’ elections and making sure that, as indicated in the state constitution, they really choose and elect the local governors or mayors.</p>
+<p>The question would have become, then: Who is more legitimate, the coopted Party leader or the elected government official? Zhao wanted the Party to maintain a political leading role, rather than administrative and management leadership. But how long could such a political arrangement have lasted? As soon as democratic elections would have been organized, other political forces would have emerged. Said differently, separating the Party and the state while keeping the Party in the leading role would sooner or later have led to a showdown within the Party leadership.</p>
+<p>In such a case, a rupture similar to the end of the USSR would not have been unlikely. However, Zhao and the reformers were in too weak a position to have been able to impose such choices against the will of the majority of the Party leadership; under the pressure of elder leaders and others, Deng would have eventually abandoned them.</p>
+</li>
+<li>
+<p>I did fieldwork in 1986 and again in 1988 in various provinces, including Shandong, Hunan, and Guangxi. What Zhao and his advisers had in mind at that time was light-years away from what the city and county cadres I met understood from the 13th Party Congress. For most of them, a clearer division of labor between the Party and the government (<em>dangzheng fengong</em>) was conceivable, but an evolution that would have turned the people’s congresses into democratically elected bodies that would in turn choose the local governors and mayors was not. Even a redefined, narrower, and more political leading role was for them very hard to understand since leadership and management were then (and are still today) difficult to differentiate. In such circumstances, how could Zhao and the reformers have hoped to see their reform plan implemented?</p>
+</li>
+</ol><p><span>In any event, my conclusion is that Zhao and the reformers were either doomed or would have had to accept a much more timid political reform package in order to survive.</span></p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+<a id="comment-3361"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-30T13:07:00-04:00">Tuesday, August 30, 2016 - 1:07pm</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/jaime"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/jamieflorcruz.jpg?itok=AU-oRnr3" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/jaime" title="Jaime A. FlorCruz">Jaime A. FlorCruz</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p class="dropcap">Be sure to attend tomorrow’s cocktail reception,” my friend whispered. “You might miss something special.” It was the last day of the 13th Party Congress, a once-every-five-years meeting held in Beijing from October 25 to November 1, 1987. My friend worked for a government agency handling the media covering the Congress.</p>
+<p>Of course I had planned to attend. No journalist would miss a “scoop.” But what else could be so special? Already, the conclave in Beijing had produced some startling changes. For us, the Chinese and foreign media who were covering the Congress, the typically choreographed and boring event had turned out to be somewhat different, in both optics and substance. For the first time, we were invited to observe the opening and closing ceremonies from the gallery of the Great Hall of the People. We were invited to a series of press conferences featuring senior ministers. Remarkably, our notebooks and tapes were more full of information than usual.</p>
+<p>In the afternoon of November 1, I was ushered into one of the humongous halls inside the Great Hall of the People. Some 400 Chinese and foreign journalists had been invited there for a “cocktail reception” to cap the eight-day sessions. My friend was there, too, grinning widely. We all stood behind a long U-shaped table, sipping cocktail drinks and chatting.</p>
+<p>Then there was a commotion and Zhao Ziyang was introduced as the newly elected General Secretary of the Communist Party. Zhao, then 68, entered the hall like a victorious politician, smiling and clasping his hands before him. Behind him stood four other newly installed senior politburo members, including the conservative Li Peng, the premier-in-waiting who would later become Zhao’s arch rival. They were all wearing Western suits. Dapper in double-breasted suit and burgundy tie, Zhao joked and answered questions for an hour as he worked his way though a long line of reporters.</p>
+<p>Until this time, I had never seen a top Chinese official interact with the press up close and unrehearsed. This press event is a punctuation mark in my 30-year career as a foreign correspondent in China.</p>
+<p>Zhao displayed confidence and wit, giving off-the-cuff answers to our unfiltered questions. Perhaps naively, he denied the existence of conservative and reformist factions in the Chinese Communist Party. “Aren’t you offended by unanimity in public opinion?” he asked rhetorically. “So why is there so much ado when there are differences in our views? Different points of view will encourage democratization and ensure that we don’t make mistakes.”</p>
+<p>His optimism was understandable. Deng Xiaoping had forced the retirement of fellow Long March veterans who were unsympathetic to market reforms. The just-concluded congress had elected a fresh batch of younger and better-educated technocrats into the policy-making central committee. The reformists seemed to be going in strength, the old-school conservatives in disarray.</p>
+<p>Zhao spoke of the need to find “new modes” of running the Party, which then boasted of 46 million members. But he quickly added that on important matters he would consult with Deng Xiaoping, his mentor and benefactor who had retired from the front line of leadership, because “he has the wisdom and political experience unmatched by other Chinese leaders.”</p>
+<p>Alas, two years later, Zhao was toppled, the biggest scapegoat of the political maelstrom that followed the bloody suppression of the 1989 Tiananmen protests. Zhao’s political demise was followed by a conservative backlash.</p>
+<p>What if Zhao had survived the 1989 debacle? What would China be like?</p>
+<p>That is as hard to say as predicting China’s future five years from now. One can only give speculative answers, prefaced with other “what ifs.”</p>
+<p>If Zhao had remained in power and the Tiananmen crackdown did not happen, I could imagine the Zhao style of political reform would have continued and the Party would have loosened its grip of control—but only to a limited extent.</p>
+<p>After all, during his brief reign, Zhao had advocated <em>toumingdu</em>—transparency and press freedom. He called for political reform, including checks and balance: separation of the Party and government affairs, separation of the affairs of the government and the enterprises.</p>
+<p>Had Zhao remained, China probably would be more democratic, or at least less authoritarian than it is now, even though some of his advisers then encouraged him to embrace <em>xin quanweizhuyi</em> (new authoritarianism). Zhao would have pursued reformist policies to improve governance and keep the Party in power, not to undermine its rule.</p>
+<p>Had he remained, the Chinese media would probably be even more robust and relatively free-wheeling, enjoying more leeway to deliver the news and offer editorial opinion. The press conferences with top Chinese leaders would not be tightly choreographed and reporters’ questions would not be vetted beforehand to give leaders time to prepare and rehearse their answers.</p>
+<p>But in hindsight, Zhao’s defeat was not a matter of “what if.” His conflict with Deng Xiaoping and the Old Guards seemed inevitable, a disaster waiting to happen. His reform ideas departed so radically from the status quo that they made him appear like a bomb-thrower—and a sitting-duck target for the Old Guards. His seemingly gentle personality, lack of ambition, political savvy, and tenacity and his narrow political base contributed to his ultimate failure.</p>
+<p>Zhao was not a Gorbachev. His views may have changed in the years after his downfall, but he was a loyal communist, at least when he was in power.</p>
+<p>China would have been considerably freer and less authoritarian now had he survived the 1989 debacle. Still, China ruled by Zhao would have remained a bird in cage, but in a much bigger cage.</p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+<a id="comment-3366"></a>
+<article class="comment">
+  <footer>
+    <time datetime="2016-08-30T15:10:25-04:00">Tuesday, August 30, 2016 - 3:10pm</time>
+  </footer>
+
+        <div class="node node-profile cboxes contributor grid-2 img-no logo-no">
+  <div class="inner-content">
+    <div class="field field-name-field-profile-photo field-type-image field-label-hidden">
+  
+  
+                  <a href="/contributors/jeffrey-wasserstrom"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/wasserstrom.jpg?itok=ov0gsehX" width="220" height="220" alt="" /></a>          
+  </div>
+  </div>
+  <h3><a href="/contributors/jeffrey-wasserstrom" title="Jeffrey Wasserstrom">Jeffrey Wasserstrom</a></h3>
+</div>
+  <div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+  
+                  <p class="dropcap">I am always interested in counterfactual exercises like the one posed in this ChinaFile Conversation, and I find intriguing the various reflections of others on an imagined PRC of the 1990s and beyond in which Zhao or someone like him was in charge.  For my part, though, I’ve spent less time wondering about what would have happened if Zhao hadn’t fallen than about what could have happened that would have allowed to him to retain his powerful position in the hierarchy.  One thing in particular I’ve pondered, especially each time the anniversary of 1989’s June 4th Massacre arrives, is what difference it might have made if there had been one death of a protester weeks before there were so many killings of activists and bystanders on the streets of central Beijing.</p>
+<p>What if, I’ve wondered, if a stray bullet fired by a police officer or soldier had killed a student in late April or early May.  Then, the protest surge was at its peak, whereas by early June it was petering out.  Martyrdom of various sorts had fueled the movement as it grew.  The earliest protests of 1989 had been related to the death of Hu Yaobang, who was demoted in 1987 from the top post to a lowly one due to taking too soft a line on an earlier wave of campus unrest, in a precursor to what would happened two years later to Zhao, the man who succeeded him.  Hu succumbed to a heart attack, but protesters looking for a way to express their disgust with Deng Xiaoping and other elder leaders treated his as a martyr’s demise.  Knowing they could not easily be banned from expressing grief over Hu, since he remained at death a Communist Party official, albeit not a high ranking one, some used mourning rituals as cover for pointing out that good people seemed to be dying too young while bad ones lived on and on.</p>
+<p>As the movement went on, there were no more deaths, but when some students staged a high profile hunger strike, this turned them in the eyes of many into an equivalent of sorts to martyrs.  Corrupt officials dined lavishly, yet these youths, the logic went, were willing to risk starvation to show their patriotism.  This set up a stark moral contrast between the students on the streets and their elders who hid behind closed doors.</p>
+<p>If actual martyred student to rally around had been added to this combustible mix, it could have been, though there is no way to be sure, just enough to alter alignments within the Party leadership.  There were leaders who felt that the students were in the right, or at least not fully in the wrong, Zhao among them, and more might have been moved into this camp by an early death.</p>
+<p>I ponder all this in part because I have worked on Republican era (1912-1949) protest movements as well as that of 1986-87, which I witnessed firsthand, and that of 1989, which I followed intently from afar.  At various points in the Republican era, as well as in periods of Chinese history and in other parts of the world, martyrdom has made an enormous difference in the evolution of a protest.  A single death or set of them can galvanize a movement, transforming a small struggle into a bigger one or a big movement into giant one.</p>
+<p>Consider what happened in Shanghai in 1925 when the May 30th Massacre occurred. After members of the International Settlement’s foreign-run police force killed a relatively small number students and members of other social groups, the city erupted.  The resulting protest wave was important for many reasons.  One was that it helped push a fringe political group along the path toward becoming a major force in Chinese politics.  That group was, of course, the Chinese Communist Party.</p>
+<p>It is not only in the Chinese past, though, that actual martyrdom as well as symbolic equivalents of it, such as the students on hunger strike, has mattered.  Consider the chain of events in Hong Kong in 2014.  The use of tear gas, while not causing any deaths, had a shock value that September that generated enormous sympathy for those subjected to it.  Having greater than expected force used against unarmed youths ratcheted up tensions in the city dramatically, making many people who had previously stayed on the sidelines feel that something so big was at stake that they should join the crowds on the streets.</p>
+<p>There were, in the end, no deaths during the Umbrella Movement, either while it was at its height or as it began to wind down, due to some of the same factors that led the 1989 protests to lose momentum.  Would it have made any difference in Hong Kong if there had been an early death?  This is even harder to say than in the case of the Tiananmen protests, as there was no obvious scenario for a different outcome there like the Zhao riding out the split between liberalizing and hard line factions possibility in 1989.   Once again, though, it is something to ponder, along with wondering if, had the Hong Kong police decided not to use tear gas, the movement would have ended sooner.</p>
+<p>I’m not sure if others have spent time since 1989 wondering about how things might have unfolded differently had there been a late April or early May martyr.  I do know, though, that I am not alone in thinking about violence-related what ifs and the power of contingencies vis-à-vis the Umbrella Movement.  In a particularly poignant segment of the film “Ten Years, ” which has been banned on the mainland and won a major award in Hong Kong, viewers are asked to ponder a very uncomfortable kind of question about the city circa 2025: whether the lack of martyrs somehow contributed to the slide of this imagined counterpart to the real city helped propel it into a dystopian state.</p>
+          
+  </div>
+
+      <nav class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></nav>
+  </article>
+
+  </div>
+
+</article>
+
+  
+  </div>
+    </div>
+  </div>
+
+  <div class="l-middle l-twocol-wrapper container container-fluid">
+    <div class="panel-pane pane-entity-field pane-node-field-common-topic" >
+  
+      
+  
+  <div class="field field-name-field-common-topic field-type-taxonomy-term-reference field-label-inline">
+    <div class="field-label">Topics:&nbsp;</div>
+  
+  
+                  <a href="/topic/history">History</a>, <a href="/topic/politics">Politics</a>          
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-common-tags" >
+  
+      
+  
+  <div class="field field-name-field-common-tags field-type-taxonomy-term-reference field-label-inline">
+    <div class="field-label">Keywords:&nbsp;</div>
+  
+  
+                  <a href="/keyword/zhao-ziyang">Zhao Ziyang</a>, <a href="/keyword/1980s-0">the 1980s</a>, <a href="/keyword/tiananmen-protests">Tiananmen Protests</a>, <a href="/keyword/chinese-leadership">Chinese Leadership</a>, <a href="/keyword/chinese-communist-party">Chinese Communist Party</a>          
+  </div>
+
+  
+  </div>
+  </div>
+
+  <div class="l-lower-wrapper l-twocol-wrapper container">
+    <div class="col-md-8 l-twocol-left">
+          </div>
+    <aside class="col-md-4 l-twocol-right">
+          </aside>
+  </div>
+</div>
+      </div>
+
+    </div> <!-- /.main-inner -->
+  </div> <!-- /#main -->
+
+  <footer id="footer" class="footer" role="footer">
+    <div class="container">
+      <div class="row clearfix">
+        <div class="col-sm-4 col-md-3">
+          <ul class="links"><li class="menu-511 first"><a href="/reporting-opinion" title="">Reporting &amp; Opinion</a></li>
+<li class="menu-1729"><a href="/conversation" title="">Conversation</a></li>
+<li class="menu-513"><a href="/library" title="">Library</a></li>
+<li class="menu-514 last"><a href="/multimedia" title="">Multimedia</a></li>
+</ul>        </div>
+        <div class="col-sm-4 col-md-3 col-sm-push-4 col-md-push-6">
+          <ul class="social-nav">
+            <li><a href="/about"><span class="footer-link">About</a></li>
+            <li><a href="/contact"><span class="footer-link">Contact</a></li>
+            <li><a href="/donate"><span class="footer-link">Donate</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-4 col-md-6 col-sm-pull-4 col-md-pull-3">
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="//chinafile.us2.list-manage.com/subscribe/post?u=dd858a5b6e74ef23767d565ae&amp;id=de2675ff34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <label for="mce-EMAIL">Sign up for our newsletter.</label>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_dd858a5b6e74ef23767d565ae_de2675ff34" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
+
+      <div class="row footer-bar clearfix">
+        <div class="col-md-4 col-md-push-4">
+          <p class="footer-links">
+            <a href="https://www.facebook.com/chinafile" title="Facebook" target="_blank"><span class="icon-facebook-rect"></span></a>&nbsp;|&nbsp;
+            <a href="https://www.twitter.com/chinafile" title="Twitter" target="_blank"><span class="icon-twitter-bird"></span></a>&nbsp;|&nbsp;
+            <a href="https://www.instagram.com/chinafile" title="Instagram" target="_blank"><span class="icon-instagram-filled"></span></a>&nbsp;|&nbsp;
+            <a href="https://e.weibo.com/chinafile" title="Weibo" target="_blank"><span class="icon-weibo"></span></a>&nbsp;|&nbsp;
+            <a href="http://feeds.feedburner.com/chinafile/All" title="RSS" target="_blank"><span class="icon-rss"></span></a>
+          </p>
+        </div>
+        <div class="col-sm-5 col-md-4 col-md-pull-4">
+          <p class="footer-logo"><a href="http://chinafile.com" class="logo-sub">ChinaFile</a></p>
+        </div>
+        <div class="col-sm-7 col-md-4">
+          <p class="footer-text">ChinaFile is a project of the <a title="The Center on U.S.-China Relations homepage" href="http://asiasociety.org/policy/center-us-china-relations" target="_blank">Center on U.S.-China Relations</a> at <a title="The Asia Society homepage" href="http://www.asiasociety.org" target="_blank">Asia Society</a>. Center on U.S.-China Relations, &copy; 2011-2016. All Rights Reserved.</p>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <small><a href="#">Back to Top</a></small>
+</div> <!-- /#page-wrapper -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0014/0039.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_vmE6dCgdTxCRGv9YAEm9ZI2gzt136DfG39RFasESmH8.js"></script>
+</body>
+</html>

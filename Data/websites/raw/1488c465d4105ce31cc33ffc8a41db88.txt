@@ -1,0 +1,1037 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>LTE Series 3 Apple Watch cut off from networks in China, government concerns likely to blame</title>
+		<meta name="robots" content="index,follow"/>
+		<meta name="keywords" content="Apple, Apple Inc, iPhone, iPad, iPod touch, iPod nano, Apple TV, Apple, iPod shuffle, iphone 6, iphone 6s, ios 9, ios9, iTunes, i mac, mac os x, mac osx, Apple Computer, Apple Computer Inc., Mac OS X, iMac, iBook, Mac Pro, MacBook Pro, Magic Pad, Magic Mouse, iPod classic, App Store, iTunes Store, iBook Store, mac book, Microsoft, Adobe, Research in Motion, RIM, Nokia, Samsung, Google, Nvidia, Intel" />
+		<meta name="description" content="Purchasers of the Series 3 Apple Watch with LTE in China at present have no wireless network connectivity options, with the lone carrier possibly forced by the government to cease service." />
+		<meta http-equiv="content-language" content="en" />
+		<meta property="fb:pages" content="135590163123753" />
+		<link rel="canonical" href="//appleinsider.com/articles/17/10/19/lte-series-3-apple-watch-cut-off-from-networks-in-china-government-concerns-likely-to-blame" />
+		<link rel="amphtml" href="//appleinsider.com/articles/17/10/19/lte-series-3-apple-watch-cut-off-from-networks-in-china-government-concerns-likely-to-blame/amp/" />
+		<link rel="alternate" media="only screen and (max-width:640px)" href="//iphone.appleinsider.com/articles/17/10/19/lte-series-3-apple-watch-cut-off-from-networks-in-china-government-concerns-likely-to-blame" />
+		<meta property="og:url" content="//appleinsider.com/articles/17/10/19/lte-series-3-apple-watch-cut-off-from-networks-in-china-government-concerns-likely-to-blame"/>
+		<meta property="og:image" content="https://apple.insidercdn.com/gallery/23315-29283-watch-top-xl.jpg"/>
+		<meta property="og:title" content="LTE Series 3 Apple Watch cut off from networks in China, government concerns likely to blame"/>
+		<meta property="og:locale" content="en_US" /> 
+		<meta property="og:site_name" content="AppleInsider" /> 
+		<meta name="twitter:card" content="summary_large_image" /> 
+		<meta name="twitter:site" content="@appleinsider" /> 
+		<meta name="twitter:creator" content="@appleinsider" /> 
+		<meta name="twitter:domain" content="appleinsider.com" /> 
+		<meta name="twitter:title" content="LTE Series 3 Apple Watch cut off from networks in China, government co" /> 
+		<meta name="twitter:description" content="Purchasers of the Series 3 Apple Watch with LTE in China at present have no wireless network connectivity options, with the lone carrier possibly forced by the government to cease service." /> 
+		<meta name="twitter:image" content="https://apple.insidercdn.com/gallery/23315-29283-watch-top-xl.jpg" /> 
+		<meta name="twitter:url" content="//appleinsider.com/articles/17/10/19/lte-series-3-apple-watch-cut-off-from-networks-in-china-government-concerns-likely-to-blame" /> 
+		<link rel="stylesheet" type="text/css" media="screen" href="//photos2.insidercdn.com/v9/css/pg-tables.css?1.10q" />
+		<link rel="stylesheet" type="text/css" media="screen" href="https://apple.insidercdn.com/v9/css/styles_screen.css?1.10q" />
+		<link rel="stylesheet" type="text/css" media="screen" href="//photos2.insidercdn.com/v9/css/font-awesome/css/font-awesome.min.css?1.10q" />
+		<script type="text/javascript" src="//apple.insidercdn.com/v9/js/header-scripts-concat.js"></script>
+		<script type="text/javascript" src="//partner.googleadservices.com/gampad/google_service.js"></script>
+		<script type="text/javascript" src="//apple.insidercdn.com/v9/js/globals.js"></script>
+		<link rel="apple-touch-icon" sizes="57x57" href="//apple.insidercdn.com/v9/images/apple-touch-icon-57.png" />
+		<link rel="apple-touch-icon" sizes="72x72" href="//apple.insidercdn.com/v9/images/apple-touch-icon-72.png" />
+		<link rel="apple-touch-icon" sizes="114x114" href="//apple.insidercdn.com/v9/images/apple-touch-icon-114.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="//apple.insidercdn.com/v9/images/apple-touch-icon-144.png" />
+		<link rel="apple-touch-icon" href="//apple.insidercdn.com/v9/images/apple-touch-icon-144.png" />
+	
+			<!-- Google analytics -->
+			<script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-280331-5', 'auto');
+			  ga('send', 'pageview');
+			</script>
+
+			<!-- Google Ads -->
+			<script type='text/javascript'>
+				GS_googleAddAdSenseService("ca-pub-6634485840334783");
+				GS_googleEnableAllServices();
+			</script>
+
+			<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+			</script>
+
+			<script type='text/javascript'>
+			googletag.cmd.push(function() {
+
+
+			// Updated 11.10.16
+			googletag.defineSlot('/3714934/AI_LDR', [728, 90], 'div-gpt-ad-1396537490945-0').addService(googletag.pubads());
+			googletag.defineSlot('/3714934/AI_MREC', [300, 250], 'div-gpt-ad-1396537490945-1').addService(googletag.pubads());
+			googletag.defineSlot('/3714934/AI_WSKY', [160, 600], 'div-gpt-ad-1478732591260-4').addService(googletag.pubads());
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+			</script>
+
+
+			<script type='text/javascript'>
+				GA_googleAddSlot("ca-pub-6634485840334783", "AI_WSKY");
+				GA_googleAddSlot("ca-pub-6634485840334783", "AI_MREC");
+				GA_googleAddSlot("ca-pub-6634485840334783", "AI_LDR");
+
+				/*
+				GA_googleAddSlot("ca-pub-6634485840334783", "AI_MREC2_Home");
+				GA_googleAddSlot("ca-pub-6634485840334783", "AI_MREC3_Home");*/
+			</script>
+
+			<script type='text/javascript'>
+				GA_googleFetchAds();
+			</script>
+
+			<script>
+			/*
+			var _prum = [['id', '56bead1cabe53da67a13dce3'],
+				     ['mark', 'firstbyte', (new Date()).getTime()]];
+			(function() {
+			    var s = document.getElementsByTagName('script')[0]
+			      , p = document.createElement('script');
+			    p.async = 'async';
+			    p.src = '//rum-static.pingdom.net/prum.min.js';
+			    s.parentNode.insertBefore(p, s);
+			})();*/
+			</script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"\/\/appleinsider.com\/articles\/17\/10\/19\/lte-series-3-apple-watch-cut-off-from-networks-in-china-government-concerns-likely-to-blame"},"headline":"LTE Series 3 Apple Watch cut off from networks in China, government concerns likely to blame","image":{"@type":"ImageObject","url":"https:\/\/apple.insidercdn.com\/gallery\/23315-29283-watch-top-xl.jpg","height":416,"width":696},"datePublished":"2017-10-19T09:05:00-04:00","dateModified":"2017-10-19T09:05:00-04:00","author":{"@type":"Person","name":"AppleInsider"},"publisher":{"@type":"Organization","name":"AppleInsider","logo":{"@type":"ImageObject","url":"http:\/\/apple.insidercdn.com\/mobile\/img\/wordmark-large.png","width":420,"height":72}},"description":"Purchasers of the Series 3 Apple Watch with LTE in China at present have no wireless network connectivity options, with the lone carrier possibly forced by the government to cease service.","articleBody":"Purchasers of the Series 3 Apple Watch with LTE in China at present have no wireless network connectivity options, with the lone carrier possibly forced by the government to cease service.\r\n\r\n&lt;div align=\"center\"&gt;&lt;img src=\"https:\/\/apple.insidercdn.com\/gallery\/23315-29283-watch-top-l.jpg\" alt=\"\"  \/&gt;\r\n&lt;span class=\"minor2 small gray\"&gt;&lt;\/span&gt;&lt;\/div&gt;\r\n\r\nA report &lt;a href=\"https:\/\/www.wsj.com\/articles\/apple-watch-hits-cellular-snag-in-china-1508409817\"&gt;on Thursday&lt;\/a&gt; from the Wall Street Journal notes that LTE connectivity was cut off on Sept. 28 after brief availability from China Unicom. While not yet confirmed, unnamed industry analysts cited by the report claim that the suspension is probably from governmental concerns about not being able to track and confirm users of the device.\r\n\r\nApple issued a brief statement confirming the situation, and referring customers to China Unicom. Neither China Unicom, nor Chinese regulators have made any statement on the matter.\r\n\r\nThe issue may stem from the eSIM in the Apple Watch. Devices like the iPhone have state-owned telecom company-issued SIM cards --  and the eSIM is embedded in the device by Apple.\r\n\r\n\"The eSIM (system) isn't mature enough yet in China,\" one analyst said. \"The government still needs to figure out how they can control the eSIM.\"\r\n\r\nThe LTE version of the Apple Watch had only a trial certificate to operate on the Chinese LTE network. An analyst who asked not to be identified expects that Ministry of Industry and Information Technology may take months to figure out how the government will deal with the eSIM, and issue a formal certificate for operation.\r\n\r\n&lt;a href=\"http:\/\/appleinsider.com\/articles\/15\/07\/16\/apple-samsung-carriers-working-together-on-e-sim-standard-for-mobile-data-plans\"&gt;In 2015&lt;\/a&gt;, Apple and Samsung were working with some of the largest carriers in the world on eSIM technology --  including China Unicom. The technology is related to, but not identical to the &lt;a href=\"http:\/\/appleinsider.com\/articles\/15\/06\/30\/apple-sim-goes-international-gigsky-brings-ipad-data-plans-to-more-than-90-countries-territories\"&gt;Apple SIM technology&lt;\/a&gt; in the iPad used by companies like GigSky, to allow users to easily buy temporary, contract-free data plans while traveling internationally."}</script>
+	</head>
+	<body>
+			<a name="top"></a>
+	<!-- promo container, BEGIN -->
+	<div id="top-promo" class="small">
+		<span style="color:#4ef06d">
+			<a href="http://prices.appleinsider.com">
+			<span style="color:#82c9d6">Get the Lowest Prices anywhere on Macs, iPads and Apple Watches: </span></a>
+		</span>
+		<a href="http://prices.appleinsider.com/">
+		Apple Price Guides updated October 27th</a>
+	</div>
+	<!-- promo container, END -->
+
+        <div class="cfix">&nbsp;</div>	
+	<!-- page container, BEGIN -->
+	<div id="pg-body" class="container">
+		<!-- header, BEGIN -->
+		<div id="header">
+			<!-- branding, BEGIN -->
+			<div id="wordmark">
+				<a href="//appleinsider.com" title="return to the home page"><img src="//photos2.insidercdn.com/v9/images/wordmark.png" border="0" alt="AppleInsider" /></a>
+			</div>
+			<!-- branding, END -->
+
+			<!-- leaderboard, BEGIN -->
+			<div id="leaderboard">
+				
+						<!-- AI_LDR -->
+						<div id="div-gpt-ad-1396537490945-0" style="width:728px; height:90px;">
+						<script type="text/javascript">
+						googletag.cmd.push(function() { googletag.display("div-gpt-ad-1396537490945-0"); });
+						</script>
+						</div>			</div>
+			<!-- leaderboard, END -->
+
+			<div class="cfix"></div>
+			<!-- primary nav background, BEGIN -->
+			<div id="pn-bg">
+				<!-- primary navigation, BEGIN -->
+				<ul id="pn">
+					<!-- left-floating list items, BEGIN -->
+					<li id="pn-left-first"><a href="//appleinsider.com">Home</a></li>
+					<li class="pn-left"><a href="//appleinsider.com/reviews/">Reviews</a></li>
+					<li class="pn-left"><a href="//deals.appleinsider.com">Deals</a></li>
+					<li class="pn-left-dd"><a href="//prices.appleinsider.com" class="dd-head">Price Guides</a>
+						<ul class="dd-menu">
+							<li><a href="//prices.appleinsider.com/current_gen" class="dd-link">New Macs</a></li>
+							<li><a href="//prices.appleinsider.com/applecare" class="dd-link">New Macs with AppleCare</a></li>
+							<li><a href="//prices.appleinsider.com/ipad" class="dd-link">iPads</a></li>
+							<li><a href="//prices.appleinsider.com/refurbished" class="dd-link">Closeouts & Refurbs</a></li>
+							<li><a href="//prices.appleinsider.com/iphones" class="dd-link">Certified Used iPhones</a></li>
+							<li><a href="//prices.appleinsider.com/accessories" class="dd-link">Apple Wireless Devices</a></li>
+							<!-- <li><a href="//appleinsider.com/auctions/" class="dd-link">Bid on New &amp; Used Apple Products</a></li> -->
+							<li><a href="//prices.appleinsider.com/trade-in" class="dd-link">iPhone & iPad Trade-in Prices</a></li>
+						</ul>
+					</li>
+					<li class="pn-left-dd"><a href="//www.facebook.com/pages/AppleInsider/135590163123753" class="dd-head">Follow Us</a>
+						<ul class="dd-menu">
+							<li><a href="//www.twitter.com/appleinsider/" class="dd-link">Twitter</a></li>
+							<li><a href="//www.facebook.com/pages/AppleInsider/135590163123753" class="dd-link">Facebook</a></li>
+							<li><a href="//www.instagram.com/appleinsider_official/" class="dd-link">Instagram</a></li>
+							<li><a href="//www.youtube.com/user/appleinsiderdotcom" class="dd-link">Youtube</a></li>
+							<!--<li><a href="http://plus.google.com/u/0/105631121714924037011/posts" class="dd-link">Google+</a></li>-->
+							<li><a href="//appleinsider.com/rss/news" class="dd-link">RSS</a></li>
+							<li><a href="//itunes.apple.com/us/app/appleinsider/id578462575" class="dd-link">iOS App</a></li>
+						</ul>
+					</li>
+					<li class="pn-left-dd"><a href="//appleinsider.com/submit_story/" class="dd-head">Tip Us</a>
+						<ul class="dd-menu">
+							<li><a href="//appleinsider.com/submit_story/" class="dd-link">Send us a tip</a></li>
+							<li><a href="//appleinsider.com/anonymous_mailer/" class="dd-link">Tip us anonymously</a></li>
+							<li><a href="//appleinsider.com/contact/" class="dd-link">Contact us by e-mail</a></li>
+						</ul>		
+					</li>
+					<li class="pn-left-dd"><a href="//forums.appleinsider.com" class="dd-head">Forums</a>
+						<ul class="dd-menu">
+							<li><a href="//forums.appleinsider.com/discussions" class="dd-link">Recent Posts</a></li>
+							<li><a href="//forums.appleinsider.com/categories/general-discussion" class="dd-link">General Discussion</a></li>
+							<li><a href="//forums.appleinsider.com/categories/feedback" class="dd-link">Feedback</a></li>
+							<li><a href="//forums.appleinsider.com/entry/register" class="dd-link">Register</a></li>
+						</ul>		
+					</li>
+
+					<li class="pn-left"></li>
+					<li class="pn-left"><a href="//appleinsider.com/topic/podcast/">Podcast</a></li>
+
+					<li id="pn-left-last"></li>
+					<!-- left-floating list items, END -->
+					<!-- right-floating list items IN REVERSE ORDER, BEGIN -->
+					<li class="pn-right" id="pn-right-search">
+						<form action="//appleinsider.com/search/" id="searchform">
+							<input type="text" name="search" tabindex="1" id="search" placeholder="Search AppleInsider"><input type="submit" value="" id="search-submit">
+						</form>
+					</li>
+					<li class="pn-right" id="sq">AAPL: 157.41
+ ( <span class="stock-up">+1.00</span> )</li>
+					<li id="pn-right-first"></li>
+					<!-- right-floating list items IN REVERSE ORDER, END -->
+				</ul>
+				<!-- primary navigation, END -->
+			</div>
+			<!-- primary nav background, END -->
+		</div>
+		<div style="margin: 0 12px;">
+			<div id="sn-bg" class="sub-nav">
+				<ul id="sn">
+					<li class="sn-li-first">&nbsp;</li>
+					<li class="sn-li"><a href="//appleinsider.com/futures/iphone-x">iPhone X</a></li>
+					<li class="sn-li"><a href="//appleinsider.com/futures/iphone-8">iPhone 8</a></li>
+					<li class="sn-li"><a href="//appleinsider.com/futures/apple-watch-series-3 ">Watch Series 3</a></li>
+					<li class="sn-li"><a href="//appleinsider.com/futures/apple-tv-4k ">4K Apple TV</a></li>
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/2018-mac-pro">2018 Mac Pro</a></li> -->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/2017-imac">2017 iMac</a></li> -->
+					<li class="sn-li"><a href="//appleinsider.com/futures/2017-ipad-pro">2017 iPad Pro</a></li>
+					<li class="sn-li"><a href="//appleinsider.com/futures/homepod">HomePod</a></li>
+					<li class="sn-li"><a href="//appleinsider.com/futures/apple-vrar">ARKit &amp VR</a>
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/homekit">HomeKit</a> -->
+
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/iphone-7">iPhone 7</a></li> -->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/2016-macbook-pros-with-intel-skylake">2016 Skylake MacBook Pros</a></li>-->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/2016-macbook-pros-with-touch-bar">2016 MacBook Pros w/ Touch Bar</a></li> -->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/siri-home-speaker">Siri Home Speaker</a></li> -->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/2016-entry-level-macbook-pro">2016 MacBook Pro</a></li>-->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/early-2016-12-inch-macbook">2016 Skylake MacBooks</a></li> -->
+					<!-- <li class="sn-li"><a href="//appleinsider.com/futures/apple-watch-2">Apple Watch 2</a></li> -->
+					<!--<li class="sn-li"><a href="//appleinsider.com/futures/apple-car">Apple Car</a></li>-->
+					<li class="sn-li-last">&nbsp;</li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="content" class="cfix">
+		<br />
+		<div id="ttdUniversalPixelTage8c2abda76224d53b077829936d1dd29" style="display:none">
+		<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		    (function(global) {
+		       if (typeof TTDUniversalPixelApi === 'function') {
+			    var universalPixelApi = new TTDUniversalPixelApi();
+			    universalPixelApi.init("ax523nj", ["8i0zrrx"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTage8c2abda76224d53b077829936d1dd29");
+			}
+		    })(this);
+		</script>
+	</div>
+
+	<!--
+<div style="text-align: center; padding-bottom: 18px;">
+	<a href="http://appleinsider.com/l/?link=https://itunes.apple.com/us/app/appleinsider/id578462575?mt=8">
+		<img src="http://photos.appleinsider.com/v9/images/ai_app_1012x120.jpg" alt="The New AppleInsider App" />
+	</a>
+</div> -->
+
+ 
+
+	<div id="content-left" class="article-view">
+		<!-- headline module, BEGIN -->
+<div id="headline-module">
+	<div class="carousel" id="carousel-1">
+		<div id="hlm-slider" >
+			<div class="inline-overflow">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- headline module, END -->		
+		<div id="content-article">
+			        <style>
+                /* Quick patchwork for tradeins embeds. */
+                .pg-tradeins-wrapper .vendor-col img { width: auto !important; }
+                .pg-tradeins-wrapper tr.item-row td.item-price:last-child { border-right: none !important; }
+        </style>
+
+	<div id="article-social-head">
+		<div class="cfix">
+			<h3 class="follow-entice">Never miss an update <em><a href="http://twitter.com/appleinsider" class="orange">Follow AppleInsider</em></a></h3>
+			<div class="right" style="inline-block; padding-top: 3px;">
+				<div class="fb-like" data-href="http://www.facebook.com/pages/AppleInsider/135590163123753" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+				<a href="http://twitter.com/appleinsider" class="twitter-follow-button" data-show-count="true" data-lang="en" data-show-screen-name="false">Follow @AppleInsider</a>
+				<a href="http://www.youtube.com/appleinsider" title="Follow Us on YouTube" target="_blank">
+					<img src="//photos2.insidercdn.com/v9/images/youtube-share.png" width="20" height="20" style="vertical-align: text-bottom;" />
+				</a>
+				<a href="//appleinsider.com/appleinsider.rss"><img src="//photos2.insidercdn.com/v9/images/rss-btn.png" alt="RSS" id="rss-share"/></a>
+			</div>
+		</div>
+	</div>
+
+	<!-- article, BEGIN -->
+	<div class="article">
+		<!-- font size selector, BEGIN -->
+		<span class="cfix">&nbsp;</span>
+		<div class="font-sz right">
+			<div class="font-rgt right"><a href="#" title="decrease font size">&ndash;</a></div>
+			<div class="font-ctr right"><a href="#" title="reset font size">A</a></div>
+			<div class="font-lft right"><a href="#" title="increase font size">+</a></div>
+		</div>
+
+		<div style="padding-top: 4px;"></div>
+		<h1 class="art-head">LTE Series 3 Apple Watch cut off from networks in China, government concerns likely to blame</h1>
+
+		<p class="gray small byline">
+			By <a href="mailto:news@appleinsider.com">Mike Wuerthele</a>			<br />
+			<span class="gray">Thursday, October 19, 2017, 06:05 am PT (09:05 am ET)</span>
+		</p>
+
+		<span><span class="article-leader">Purchasers of the Series 3 Apple Watch with LTE in China at present have no wireless network connectivity options, with the lone carrier possibly forced by the government to cease service.<br></span><br><div align="center"><div class="article-img"><img src="//photos2.insidercdn.com/v9/images/1x1-white.jpg" alt="" class="lazy" data-original="https://apple.insidercdn.com/gallery/23315-29283-watch-top-l.jpg"><noscript><img src="https://apple.insidercdn.com/gallery/23315-29283-watch-top-l.jpg"></noscript></div><br><span class="minor2 small gray"></span></div><br><br>
+A report <a href="https://www.wsj.com/articles/apple-watch-hits-cellular-snag-in-china-1508409817">on Thursday</a> from the Wall Street Journal notes that LTE connectivity was cut off on Sept. 28 after brief availability from China Unicom. While not yet confirmed, unnamed industry analysts cited by the report claim that the suspension is probably from governmental concerns about not being able to track and confirm users of the device.<br><br>
+Apple issued a brief statement confirming the situation, and referring customers to China Unicom. Neither China Unicom, nor Chinese regulators have made any statement on the matter.<br><br>
+The issue may stem from the eSIM in the Apple Watch. Devices like the iPhone have state-owned telecom company-issued SIM cards &mdash; and the eSIM is embedded in the device by Apple.<br><br>
+"The eSIM (system) isn't mature enough yet in China," one analyst said. "The government still needs to figure out how they can control the eSIM."<br><br>
+The LTE version of the Apple Watch had only a trial certificate to operate on the Chinese LTE network. An analyst who asked not to be identified expects that Ministry of Industry and Information Technology may take months to figure out how the government will deal with the eSIM, and issue a formal certificate for operation.<br><br><a href="http://appleinsider.com/articles/15/07/16/apple-samsung-carriers-working-together-on-e-sim-standard-for-mobile-data-plans">In 2015</a>, Apple and Samsung were working with some of the largest carriers in the world on eSIM technology &mdash; including China Unicom. The technology is related to, but not identical to the <a href="http://appleinsider.com/articles/15/06/30/apple-sim-goes-international-gigsky-brings-ipad-data-plans-to-more-than-90-countries-territories">Apple SIM technology</a> in the iPad used by companies like GigSky, to allow users to easily buy temporary, contract-free data plans while traveling internationally.</span>
+		
+			</div>
+	<!-- article, END -->
+				<!-- article meta, BEGIN -->
+	<div class="article-meta small">
+		<!-- article-meta ROW 1, BEGIN -->
+		<div class="cfix meta-row">
+			<!-- article tags, BEGIN -->
+			<div class="left">
+				<div class="ct-label">Topics:</div>
+				<ul class="cattag left">
+					<li><a href="//appleinsider.com/topic/apple+watch">Apple Watch,</a></li><li><a href="//appleinsider.com/topic/china">China,</a></li><li><a href="//appleinsider.com/topic/lte">lte,</a></li><li><a href="//appleinsider.com/topic/apple+watch+series+3">Apple Watch Series 3</a></li>				</ul>
+			</div>
+			<!-- article tags, END -->
+			<!-- jump to comments, BEGIN -->
+			<div class="right cmt-jump">
+									<a href="//forums.appleinsider.com/discussion/202377">(37) Comments</a>
+							</div>
+			<!-- jump to comments, END -->
+			<div class="cfix"></div>
+		</div>
+		<!-- article-meta ROW 1, END -->
+
+		<!-- article-meta ROW 2, BEGIN -->
+		<div class="cfix meta-row">
+			<!-- social links a la Twitter & Facebook, BEGIN -->
+			<div class="left">
+				<div id="article-share-container">
+					<!-- Facebook -->
+					<div id="article-share-facebook" class="article-share-footer">
+						<div id="fb-root"></div>
+						<script>(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));</script>
+						<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+					</div>
+
+					<!-- Twitter -->
+					<div id="article-share-twitter" class="article-share-footer">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-via="AppleInsider">Tweet</a>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+
+					<!-- Google +1 -->
+					<div id="article-share-gplus" class="article-share-footer">
+						<g:plusone size="medium"></g:plusone>
+						<script type="text/javascript">
+						  (function() {
+							var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+							po.src = 'https://apis.google.com/js/plusone.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						  })();
+						</script>
+					</div>
+
+					<!-- Reddit -->
+					<div id="article-share-reddit" class="article-share-footer">
+						<script type="text/javascript" src="//www.redditstatic.com/button/button1.js"></script>
+					</div>
+				</div>
+			</div>
+			<div class="cfix"></div>
+		</div>
+
+		<div class="cfix">&nbsp;</div>
+		<div class="article-nav">
+	<ul>
+		<li id="prev-article">
+			<a href="//appleinsider.com/articles/17/10/19/apple-investigating-advanced-3d-touch-technology-with-integrated-feedback">
+				<h1>&#8592; <strong>Previous</strong> Story</h1>
+				<p>Apple investigating advanced 3D Touch technology with integrated feedback</p>
+			</a>
+		</li>
+					<li id="next-article">
+				<a href="//appleinsider.com/articles/17/10/19/rumor-claims-apple-cutting-iphone-8-production-orders-in-half">
+					<h1><strong>Newer</strong> Story &#8594;</h1>
+					<p>Rumor claims Apple cutting iPhone 8 production orders in half</p>
+				</a>
+			</li>
+			</ul>
+</div>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Post Article Test -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:700px;height:160px"
+     data-ad-client="ca-pub-2892341250670811"
+     data-ad-slot="4663193548"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		<style>
+	#article-footer-deals { 
+		width: 100%; margin: 0; padding: 0; 
+		border-top: 1px solid #dddddd;
+		margin-top: 10px; 
+		background: url(https://apple.insidercdn.com/v9/images/sb_icon_priceguide.gif) left top no-repeat; 
+		overflow: hidden; 
+	}
+	#article-footer-deals h1 { margin-left: 45px; }
+	.article-footer-deals-post { display: inline-block; width: 48%; margin: 0; padding: 0; margin-top: 1em; overflow: hidden; }
+	.article-footer-deals-post img { max-height: 60px; max-width: 60px; padding-right: .5em;  }
+	.deals-img { display: table-cell; }
+	.deals-desc { display: table-cell; vertical-align: middle; }
+	.pg-link { 
+		display: block; clear: both; border: 1px solid #ddd; 
+		border-right: 0; border-left: 0; margin-top: 1em; padding: 1em 0; text-align: center; 
+		font-weight: bold;
+	}
+	.pg-link ul { margin: 0; padding: 0; }
+	.pg-link li { display: inline-block; width: 25%; margin: 0; padding: 0; }
+</style>
+
+<div id="article-footer-deals">
+	<h1>Unbeatable Deals from AppleInsider & Apple's Top Authorized Resellers</h1>
+	<div class="article-footer-deals-post">
+	<div class="deals-img">
+		<a href="https://www.bhphotovideo.com/c/product/1306767-REG/apple_mlh42ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/"><img src="https://pricecropper.insidercdn.com/gallery/898-526-15-inch-macbook-pro-2099-s.jpg" alt="Apple's high-end 2016 15" MacBook Pro for $2,099 with free expedited shipping & no tax in 48 states" /></a>
+	</div>
+	<p class="deals-desc">
+		<span class="pg-savings">SAVE $700.00</span>
+		<a href="https://www.bhphotovideo.com/c/product/1306767-REG/apple_mlh42ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/"> - Apple's high-end 2016 15" MacBook Pro for $2,099 with free expedited shipping & no tax in 48 states</a>
+	</p>
+</div>
+<div class="article-footer-deals-post">
+	<div class="deals-img">
+		<a href="//deals.appleinsider.com/deal/17/10/12/20-off-all-mid-2017-15-macbook-pros-with-free-shipping-no-tax-outside-ny-nj"><img src="https://pricecropper.insidercdn.com/gallery/877-521-15-inch-macbook-pro-touchbar-space-gray-s.jpg" alt="$50-$320 off Mid 2017 15" MacBook Pros with free shipping & no tax outside NY & NJ" /></a>
+	</div>
+	<p class="deals-desc">
+		<span class="pg-savings">SAVE $320.00</span>
+		<a href="//deals.appleinsider.com/deal/17/10/12/20-off-all-mid-2017-15-macbook-pros-with-free-shipping-no-tax-outside-ny-nj"> - $50-$320 off Mid 2017 15" MacBook Pros with free shipping & no tax outside NY & NJ</a>
+	</p>
+</div>
+<div class="article-footer-deals-post">
+	<div class="deals-img">
+		<a href="https://www.bhphotovideo.com/c/product/1293726-REG/apple_mlh32ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/"><img src="https://apple.insidercdn.com/gallery/22381-26988-macbook-pro-lowest-price-ever-s.jpg" alt="Apple's Late 2016 15" MacBook Pro for $1,899 with free shipping & no tax in 48 states" /></a>
+	</div>
+	<p class="deals-desc">
+		<span class="pg-savings">SAVE $500.00</span>
+		<a href="https://www.bhphotovideo.com/c/product/1293726-REG/apple_mlh32ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/"> - Apple's Late 2016 15" MacBook Pro for $1,899 with free shipping & no tax in 48 states</a>
+	</p>
+</div>
+<div class="article-footer-deals-post">
+	<div class="deals-img">
+		<a href="//deals.appleinsider.com/deal/17/10/04/20-off-all-mid-2017-13-macbook-pros-with-free-shipping-no-tax-outside-ny-nj"><img src="https://pricecropper.insidercdn.com/gallery/878-522-13-inch-macbook-pro-touchbar-s.jpg" alt="$75-$170 off Mid 2017 13" MacBook Pros with Touch Bar + free shipping & no tax outside NY & NJ" /></a>
+	</div>
+	<p class="deals-desc">
+		<span class="pg-savings">SAVE $170.00</span>
+		<a href="//deals.appleinsider.com/deal/17/10/04/20-off-all-mid-2017-13-macbook-pros-with-free-shipping-no-tax-outside-ny-nj"> - $75-$170 off Mid 2017 13" MacBook Pros with Touch Bar + free shipping & no tax outside NY & NJ</a>
+	</p>
+</div>
+<div class="article-footer-deals-post">
+	<div class="deals-img">
+		<a href="https://www.bhphotovideo.com/c/product/1327830-REG/apple_mp2j2ll_a_ipad_wi_fi_128gb_9_7.html/BI/1717/KBID/2301/"><img src="https://apple.insidercdn.com/gallery/23268-29180-ipad-deal-october-s.jpg" alt="128GB 9.7" iPad for $399 with free expedited shipping + no tax outside NY & NJ" /></a>
+	</div>
+	<p class="deals-desc">
+		<span class="pg-savings">SAVE $30.00</span>
+		<a href="https://www.bhphotovideo.com/c/product/1327830-REG/apple_mp2j2ll_a_ipad_wi_fi_128gb_9_7.html/BI/1717/KBID/2301/"> - 128GB 9.7" iPad for $399 with free expedited shipping + no tax outside NY & NJ</a>
+	</p>
+</div>
+<div class="article-footer-deals-post">
+	<div class="deals-img">
+		<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5574938621&toolid=10001&campid=5338171030&customid=&icep_item=162631839729&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="https://apple.insidercdn.com/gallery/22461-27175-27-inch-imac-5k-cpo-s.jpg" alt="27" iMac 5K (3.5GHz, 8GB, 1TB FUS, M290X, Apple refurb) for $1,149 with free shipping & no tax outside NY" /></a>
+	</div>
+	<p class="deals-desc">
+		<span class="pg-savings">SAVE $1350.00</span>
+		<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5574938621&toolid=10001&campid=5338171030&customid=&icep_item=162631839729&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"> - 27" iMac 5K (3.5GHz, 8GB, 1TB FUS, M290X, Apple refurb) for $1,149 with free shipping & no tax outside NY</a>
+	</p>
+</div>
+	<div class="pg-link">
+		<ul>
+			<li><a href="//deals.appleinsider.com">Apple Deal Tracker</a></li>
+			<li><a href="//prices.appleinsider.com">Mac Price Guide</a></li>
+			<li><a href="//prices.appleinsider.com/ipad">iPad Price Guide</a></li>
+			<!-- <li><a href="//prices.appleinsider.com/#iphones">Certified Used iPhone Price Guide</a></li> -->
+		</ul>
+	</div>
+</div>
+
+		<!-- Adorama Promop-->
+		
+		<div class="cfix">&nbsp;</div>
+				<div class="cfix">&nbsp;</div>
+	</div>
+			<div class="rel-half-l-cnt">
+				<style>#todays-headlines { border-bottom: 0; border-top: 0; }</style>
+				<div id="todays-headlines" class="related cfix">
+	<!-- date header, BEGIN -->
+	<h1><strong>Today's</strong> Headlines</h1>
+	<!-- date header, END -->
+	<!-- list related items width 100%, BEGIN -->
+	<ul class="rel-full">
+		<li class=""><a href="//appleinsider.com/articles/17/10/27/apple-sells-out-of-launch-day-iphone-x-supply-in-matter-of-minutes">Apple sells out of launch day iPhone X supply in matter of minutes</a></li><li class=""><a href="//appleinsider.com/articles/17/10/27/apple-debuts-149-leather-12-inch-macbook-sleeve">Apple debuts $149 leather 12-inch MacBook sleeve</a></li><li class=""><a href="//appleinsider.com/articles/17/10/27/apples-iphone-x-goes-up-for-preorder-online">Apple's iPhone X goes up for preorder online [update: launch units sold out]</a></li>	</ul>
+</div>			</div>
+			<div class="rel-half-r-cnt-ad ad" data-lazyad>
+	<script language="Javascript1.1" type="text/javascript">
+		var ftClick = "";
+		var ftExpTrack_2214372 = "";
+		var ftX = "";
+		var ftY = "";
+		var ftZ = "";
+		var ftOBA = 1;
+		var ftContent = "";
+		var ftCustom = "";
+		var ft300x250_OOBclickTrack = "";
+		var ftRandom = Math.random()*1000000;
+		var ftBuildTag1 = "<scr";
+		var ftBuildTag2 = "</";
+		var ftClick_2214372 = ftClick;
+		if(typeof(ft_referrer)=="undefined"){var ft_referrer=(function(){var r="";if(window==top){r=window.location.href;}else{try{r=window.parent.location.href;}catch(e){}r=(r)?r:document.referrer;}while(encodeURIComponent(r).length>1000){r=r.substring(0,r.length-1);}return r;}());}
+		var ftDomain = (window==top)?"":(function(){var d=document.referrer,h=(d)?d.match("(?::q/q/)+([qw-]+(q.[qw-]+)+)(q/)?".replace(/q/g,decodeURIComponent("%"+"5C")))[1]:"";return (h&&h!=location.host)?"&ft_ifb=1&ft_domain="+encodeURIComponent(h):"";}());
+		var ftTag = ftBuildTag1 + 'ipt language="javascript1.1" type="text/javascript" ';
+		ftTag += 'src="https://servedby.flashtalking.com/imp/8/55973;2214372;201;js;AppleInsidercom;300x250Ben/?ftx='+ftX+'&fty='+ftY+'&ftadz='+ftZ+'&ftscw='+ftContent+'&ft_custom='+ftCustom+'&ftOBA='+ftOBA+ftDomain+'&ft_agentEnv='+(window.mraid||window.ormma?'1':'0')+'&ft_referrer='+encodeURIComponent(ft_referrer)+'&cachebuster='+ftRandom+'" id="ftscript_300x250" name="ftscript_300x250"';
+		ftTag += '>' + ftBuildTag2 + 'script>';
+		document.write(ftTag);
+	</script>
+</div>
+			
+			<div id="cmt-existing" class="related cfix">
+			<div id="vanilla-comments"></div>
+			<script type="text/javascript">
+				var vanilla_forum_url = 'https://forums.appleinsider.com/';
+				var vanilla_identifier = 'vanilla-comments';
+				var vanilla_discussion_id = '202377';
+
+				/*** DON'T EDIT BELOW THIS LINE ***/
+				(function() {
+					var vanilla = document.createElement('script');
+					vanilla.type = 'text/javascript';
+					var timestamp = new Date().getTime();
+					vanilla.src = vanilla_forum_url + '/js/embed.js';
+					(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(vanilla); 
+				})();
+			</script>
+			<noscript>Please enable JavaScript to view comments</noscript>
+		</div>
+			</div>
+	</div>
+
+	<div id="sidebar-right">
+	<div class="sidebar-r-mod cfix ad-mrec">
+	<div id='div-gpt-ad-1396537490945-1' style='width:300px; height:250px;' data-lazyad>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1396537490945-1'); });
+		</script>
+	</div>
+</div>	<div class="sidebar-r-mod cfix" id="sbr-latesthl">
+	<h1>Latest Apple Headlines</h1>
+	<ul class="small">
+		<li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40702.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/27/apple-sells-out-of-launch-day-iphone-x-supply-in-matter-of-minutes">Apple sells out of launch day iPhone X supply in matter of minutes</a>
+
+		<span class="small gray">~16 minutes ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40701.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/27/apple-debuts-149-leather-12-inch-macbook-sleeve">Apple debuts $149 leather 12-inch MacBook sleeve</a>
+
+		<span class="small gray">~1 hour ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40700.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/27/apples-iphone-x-goes-up-for-preorder-online">Apple's iPhone X goes up for preorder online [update: launch units sold out]</a>
+
+		<span class="small gray">~2 hours ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40699.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/26/apple-seeks-permission-from-sec-to-exclude-proposal-tying-executive-diversity-metrics-to-ceo-performance">Apple seeks permission from SEC to exclude proposal tying executive diversity metrics to C</a>
+
+		<span class="small gray">~6 hours ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40698.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/26/steel-frames-rise-at-next-gen-apple-store-in-seattles-university-village-mall">Steel frames rise at next-gen Apple store in Seattle's University Village mall</a>
+
+		<span class="small gray">~7 hours ago</span>	</p>
+</li>		<li style="text-align: center; padding: 0; list-style-image: none;"><a href="//appleinsider.com">more...</a></li>
+	</ul>
+</div>	<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2892341250670811";
+/* 300x250, created 3/31/11 */
+google_ad_slot = "3749009951";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<div class="sidebar-r-mod cfix" id="sbr-priceguide">
+      <a href="http://prices.appleinsider.com/"><img src="https://apple.insidercdn.com/price_guide/macbookpro-with-touchbar-sidebar-hd.jpg" alt="Price guide" border="0" /></a>
+  <table class="small full">
+    <tr>
+      <th height="20" class="mpg-theader">2016 13&quot; MacBook Pros</th>
+      <th class="mpg-theader">Price</th>
+      <th class="mpg-theader mpg-save"> Save</th>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.0GHz/8GB/256GB (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1354800-REG/apple_mluq2ll_a_13_3_macbook_pro_notebook.html/BI/1717/KBID/2301/">$1,299.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$200</td>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.0GHz/8/256GB (Silver)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1306765-REG/apple_mll42ll_a_13_3_macbook_pro_with.html/BI/1717/KBID/2301/">$1,289.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$210</td>
+    </tr>
+    <tr>
+      <th height="20" class="mpg-theader">2016 15&quot; MacBook Pros</th>
+      <th class="mpg-theader">Price</th>
+      <th class="mpg-theader mpg-save"> Save</th>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.6/16/256GB/450 (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1293726-REG/apple_mlh32ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/">$1,899.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$500</td>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.6/16/256GB/450 (Silver)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1293731-REG/apple_mlw72ll_a_mb_pro_15_w_tb_2_6g_qi.html/BI/1717/KBID/2301/">$1,899.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$500</td>
+    </tr>
+      <td height="20" class="pg-model">2.7/16/512GB/455 (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1293727-REG/apple_mlh42ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/">$2,099.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$700</td>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.7/16/512GB/455 (Silver)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1293732-REG/apple_mlw82ll_a_mb_pro_15_w_tb_2_7g_qi.html/BI/1717/KBID/2301/">$2,099.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$700</td>
+    </tr>
+           <tr>
+      <th height="20" class="mpg-theader">2017 15&quot; MacBook Pros</th>
+      <th class="mpg-theader">Price</th>
+      <th class="mpg-theader mpg-save"> Save</th>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.8/16/256GB/555 (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1342531-REG/apple_mptr2ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/DFF/d10-v21-t1-x825928/KWID/EZ">$2,249.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$150</td>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">2.8/16/512GB/555 (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1343153-REG/apple_z0ub_mptr24_bh_macbook_pro_i7_2_8ghz.html/BI/1717/KBID/2301/DFF/d10-v21-t1-x827260/KWID/EZ">$2,499.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$100</td>
+    </tr>
+    <tr class="model">
+     <tr class="model">
+      <td height="20" class="pg-model">2.9/16/512GB/560 (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1342532-REG/apple_mptt2ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/DFF/d10-v21-t1-x825929/KWID/EZ">$2,599.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$200</td>
+    </tr>
+        <td height="20" class="pg-model">2.9/16/512GB/560 (Silver)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1342535-REG/apple_mptv2ll_a_15_4_macbook_pro_with.html/BI/1717/KBID/2301/DFF/d10-v21-t1-x825932/KWID/EZ">$2,649.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$150</td>
+    </tr>
+    <tr class="model">
+      <td height="20" class="pg-model">3.1/16/1TB/555 (Gray)</td>
+      <td class="pg-price"><strong><a href="https://www.bhphotovideo.com/c/product/1343172-REG/apple_z0ub_mptr29_bh_macbook_pro_i7_3_1ghz.html/BI/1717/KBID/2301/DFF/d10-v21-t1-x827279/KWID/EZ">$3,279.00+</a></strong></td>
+      <td class="pg-price pg-savings pg-price-sb pg-savings">$20</td>
+    </tr>
+            <tr class="model">
+              <td height="20" colspan="3" class="pg-price-sb"><strong><a href="http://prices.appleinsider.com" class="mpg-more left" id="pg-sbr-more-configs">Click here for dozens more  configurations</a></strong></td>
+        </tr>
+            <tr class="model">
+              <td height="20" colspan="3" class="pg-price-sb">+ No sales tax collected on orders outside NY & NJ</td>
+        </tr>
+  </table>
+    </div> 
+	
+	<div class="sidebar-r-mod cfix" id="sbr-latesthl">
+	<h1>Latest Features</h1>
+	<ul class="small">
+		<li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40695.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/26/sap-capital-one-detail-work-with-jamf-in-enterprise-mac-deployments">SAP, Capital One detail work with Jamf in enterprise Mac deployments</a>
+
+		<span class="small gray">~12 hours ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40674.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/25/microsoft-kills-kinect-just-as-apple-dives-into-facial-recognition-with-iphone-x-face-id">Microsoft kills Kinect just as Apple dives into facial recognition with iPhone X Face ID</a>
+
+		<span class="small gray">~2 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40607.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/20/appleinsider-podcast-discusses-iphone-8-production-fm-radios-and-apple-acquiring-a-health-company">AppleInsider podcast discusses iPhone 8 production, FM radios, and Apple acquiring a health company</a>
+
+		<span class="small gray">~7 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40566.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/17/top-ipad-apps-adding-drag-and-drop-support-within-the-first-month-of-ios-11">Top iPad apps adding Drag and Drop support within the first month of iOS 11</a>
+
+		<span class="small gray">~10 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40539.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/14/why-you-want-a-macos-home-server-and-how-to-get-one-going">Why you want a macOS home server, and how to get one going</a>
+
+		<span class="small gray">~13 days ago</span>	</p>
+</li>	</ul>
+</div>
+
+	<div class="sidebar-r-mod cfix" id="sbr-priceguide">
+<h1>Lowest Prices Anywhere!</h1>
+<a href="http://prices.appleinsider.com"><img src="http://apple.insidercdn.com/price_guide/price_guide_sidebar_header_2017_mbp.jpg" alt="Price guide" border="0" /></a>
+<table class="small full">
+  <tr>
+    <th class="mpg-theader">13&quot; MacBook Pros</th>
+    <th class="mpg-theader">Price</th>
+    <th class="mpg-theader mpg-save">You Save</th>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">3.1GHz/8GB/256GB Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmpxv2lla.html"><strong>$1,679.00</strong></a></td>
+    <td class="pg-price pg-savings">$120.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">3.1GHz/8GB/256GB Silver</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmpxx2lla.html"><strong>$1,704.00*</strong></a></td>
+    <td class="pg-price pg-savings">$95.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">3.1GHz/8GB/512GB Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmpxw2lla.html"><strong>$1,849.00*</strong></a></td>
+    <td class="pg-price pg-savings">$150.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">3.1GHz/16/512GB Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmpxw2la1.html"><strong>$2,099.00</strong></a></td>
+    <td class="pg-price pg-savings">$100.00</td>
+  </tr>
+  <tr>
+    <th width="199" class="mpg-theader">15&quot; MacBook Pro</th>
+    <th width="79" class="mpg-theader">Price</th>
+    <th width="79" class="mpg-theader mpg-save">You Save</th>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">2.8GHz/16/256/555 Silver</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmptu2lla.html"><strong>$2,199.00*</strong></a></td>
+    <td class="pg-price pg-savings">$200.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">2.8GHz/16/256/560 Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmptr2la4.html"><strong>$2,299.00</strong></a></td>
+    <td class="pg-price pg-savings">$200.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">2.9GHz/16/512/560 Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmptt2lla.html"><strong>$2,599.00</strong></a></td>
+    <td class="pg-price pg-savings">$200.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">2.9GHz/16/1TB/560 Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmptt2la1.html?emailprice=t"><strong>$2,999.00</strong></a></td>
+    <td class="pg-price pg-savings">$200.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">3.1GHz/16/512/560 Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmptr2la13.html"><strong>$2,799.00</strong></a></td>
+    <td class="pg-price pg-savings">$200.00</td>
+  </tr>
+  <tr class="model">
+    <td class="pg-model">3.1GHz/16/2TB/560 Gray</td>
+    <td class="pg-price"><a href="http://adorama.evyy.net/c/81003/78387/1036?u=https://www.adorama.com/acmptr2la15.html"><strong>$3,899.00</strong></a></td>
+    <td class="pg-price pg-savings">$300.00</td>
+  </tr>
+  <tr class="model">
+    <td height="20" colspan="3" class="pg-price-sb"><div id="pg-sbr-coupon"> <strong>* </strong>price with Promo Code:
+      <div id="pg-sbr-clip">APINSIDER</div>
+      </div></td>
+  </tr>
+  <tr class="model">
+    <td height="20" colspan="3"><a href="http://prices.appleinsider.com" class="mpg-more left" id="pg-sbr-more-configs">prices.appleinsider.com for more configurations</a></td>
+  </tr>
+</table>
+</div> 
+	<script type="text/javascript">
+	e9 = new Object();
+	e9.size = "300x250";
+</script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/AppleInsider/ROS/tags.js"></script>					<div class="sidebar-r-mod cfix" id="sbr-forumtopics">
+					<h1>Active Forum Topics</h1>
+					<ul class="small">
+						
+<li class="img-left-li">
+	<div class="thread-bubble"><p>118</p></div>
+	<a href="//forums.appleinsider.com/discussion/202385">Tim Cook email claims Mac mini 'important part' of Apple's product matrix</a>
+</li>
+<li class="img-left-li">
+	<div class="thread-bubble-two-digit"><p>95</p></div>
+	<a href="//forums.appleinsider.com/discussion/202378">Rumor claims Apple cutting iPhone 8 production orders in half</a>
+</li>
+<li class="img-left-li">
+	<div class="thread-bubble-two-digit"><p>90</p></div>
+	<a href="//forums.appleinsider.com/discussion/202333">Tip: Convert physical Blu-ray and DVD discs to iTunes with Vudu and Movies Anywhere</a>
+</li>
+<li class="img-left-li">
+	<div class="thread-bubble-two-digit"><p>87</p></div>
+	<a href="//forums.appleinsider.com/discussion/202489">Google engineer proves any iPhone app with permission to access the camera is capable of s...</a>
+</li>
+<li class="img-left-li">
+	<div class="thread-bubble-two-digit"><p>83</p></div>
+	<a href="//forums.appleinsider.com/discussion/201852">With iPhone 8, Apple's Silicon Gap widens as the new A11 Bionic obliterates top chips from...</a>
+</li>						<li style="text-align: center; padding: 0; list-style-image: none;"><a href="//forums.appleinsider.com">more...</a></li>
+					</ul>
+				</div>
+	<div class="sidebar-r-mod cfix sbr-sky">
+		<div class="sidebar-l-mod-first" style="overflow: auto;">
+			<div id='div-gpt-ad-1478732591260-4' style='width:160px; height:600px; float: left;' class="ad da-wsky">
+	<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478732591260-4'); });
+	</script>
+</div>			<div class="right" style="height: 600px;">	
+				<!-- container for addtl. content BOTTOM, BEGIN -->
+<div class="sbr-sky-ct cfix">
+	<h1>Hot Topics</h1>
+	<div class="sbr-sky-ht cfix">
+		<ul class="small">
+			<li class=""><a class="buttons" href="//appleinsider.com/topics/iphone">iPhone</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/general">General</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/iphone+x">iPhone X</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/ios">iOS</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/mac+os+x">Mac OS X</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/face+id">Face ID</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/iphone+8+plus">iPhone 8 Plus</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/apple+music">Apple Music</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/apple+pay">Apple Pay</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/homekit">HomeKit</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/itunes">iTunes</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/apple+retail">Apple Retail</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/iphone+8">iPhone 8</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/tips">Tips</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/ipad">iPad</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/lawsuits">lawsuits</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/google">Google</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/truedepth">TrueDepth</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/high+sierra">High Sierra</a></li><li class=""><a class="buttons" href="//appleinsider.com/topics/apple+watch">Apple Watch</a></li>		</ul>
+	</div>
+</div>
+<!-- container for addtl. content BOTTOM, END -->			</div>
+		</div>
+	</div>
+
+	<div class="sidebar-r-mod cfix" id="priceguide">
+<br />
+  <table width="315" class="small full">
+		<tr>
+		  <th colspan="3" class="mpg-theader"><a href="http://shrsl.com/?dqhr"><img src="https://apple.insidercdn.com/gazellesidebarmodule2016.jpg" alt="Trade in your iPhone 5s or iPhone 6 or iPhone 6 plus for cash at Buy Back World" border="0" /></a></th>
+    </tr>
+		<tr>
+		  <th colspan="3" align="center" class="mpg-theader"><span class="red">Sell your old iPhone to Gazelle for Cash</span></th>
+    </tr>
+    <tr>
+		  <th align="left" class="mpg-theader">iPhone 7</th>
+		  <th align="left" class="mpg-theader">iPhone 7</th>
+		  <th align="left" class="mpg-theader">iPhone 7 Plus</th>
+    </tr>
+		
+		<tr class="model">
+		  <td width="117" class="pg-price-sb">256GB 7</td>
+		  <td width="84" class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$315.00</strong></a></td>
+		  <td width="98" class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$350.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">128GB 7</td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$290.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$325.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">32GB 7</td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$260.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$290.00</strong></a></td>
+    </tr>
+	
+		<tr>
+		  <th align="left" class="mpg-theader">iPhone 6s</th>
+		  <th align="left" class="mpg-theader">iPhone 6s</th>
+		  <th align="left" class="mpg-theader">iPhone 6s Plus</th>
+    </tr>
+		
+		<tr class="model">
+		  <td width="117" class="pg-price-sb">128GB 6s</td>
+		  <td width="84" class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$195.00</strong></a></td>
+		  <td width="98" class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$215.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">64GB 6s</td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$180.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$205.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">16GB 6s</td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$150.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$210.00</strong></a></td>
+    </tr>
+		<tr>
+		  <th align="left" class="mpg-theader">iPhone 6</th>
+		  <th align="left" class="mpg-theader">iPhone 6</th>
+		  <th align="left" class="mpg-theader">iPhone 6 Plus</th>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">128GB iPhone 6		  </td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$140.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$180.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">64GB iPhone 6 </td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$130.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$155.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">16GB iPhone 6 </td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$110.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$140.00</strong></a></td>
+    </tr>
+		<tr>
+		  <th align="left" class="mpg-theader">iPhone SE</th>
+		  <th align="left" class="mpg-theader">Good</th>
+		  <th align="left" class="mpg-theader">Flawless</th>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">64GB iPhone SE		  </td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$130.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$145.00</strong></a></td>
+    </tr>
+		<tr class="model">
+		  <td class="pg-price-sb">16GB iPhone SE </td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$115.00</strong></a></td>
+		  <td class="pg-price"><a href="http://shrsl.com/?dqhr"><strong>$130.00</strong></a></td>
+    </tr>	
+		<tr class="model">
+		  <td height="20" colspan="3" class="pg-price-sb"><strong><a href="http://appleinsider.com/articles/16/09/06/last-call-sell-your-iphone-trade-in-for-cash-and-snap-up-a-38-day-extended-lock-at-gazelle" class="mpg-more left" id="pg-sbr-more-configs">Click to see payouts on other iPhone models</a></strong></td>
+    </tr>
+  </table>
+</div>
+		<div class="sidebar-r-mod cfix" id="sbr-latesthl">
+	<h1>Latest Exclusives</h1>
+	<ul class="small">
+		<li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40505.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/12/apple-seeks-new-patent-for-folding-displays-as-rumors-of-a-foldable-oled-iphone-heat-up">Apple seeks new patent for folding displays as rumors of a foldable OLED iPhone heat up</a>
+
+		<span class="small gray">~15 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40439.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/06/jony-ive-recalls-how-steve-jobs-taught-him-to-say-no-especially-when-it-hurts-to-do-it">Jony Ive recalls how Steve Jobs taught him to say no, especially when it hurts to do it</a>
+
+		<span class="small gray">~21 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40438.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/06/jony-ive-on-iphone-x-and-apples-future-products-design-and-ideas-must-wait-for-technology-to-catch-up">Jony Ive on iPhone X and Apple's future products: Design and ideas must wait for technology to catch up</a>
+
+		<span class="small gray">~21 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40437.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/10/06/a-reflective-jony-ive-recalls-the-joy-of-joining-apple-the-magic-of-making-products-that-change-peoples-lives">A reflective Jony Ive recalls the joy of joining Apple, the magic of making products that change people's lives</a>
+
+		<span class="small gray">~21 days ago</span>	</p>
+</li><li class="img-left-li">
+	<div class="sidebar-img-li-img">
+					<img src="//apple.insidercdn.com/article_thumbs/40337.jpg" alt="article_thumb" />
+			</div>
+	<p class="sidebar-img-li-desc">
+		<a href="//appleinsider.com/articles/17/09/29/hands-on-gopro-hero-6-black">Hands-on: GoPro Hero 6 Black</a>
+
+		<span class="small gray">~27 days ago</span>	</p>
+</li>	</ul>
+</div>
+</div>	</div>
+
+	</div> <!-- Close content div -->
+
+<div id="footer">
+	<div id="footer-container">
+		<ul class="small">
+			<li class="ft-link1"><a href="#top">Top of page</a></li>
+			<li class="ft-link2">Copyright © 2017, Quiller Media, Inc., <a href="//appleinsider.com/contact/">Contact Us</a></li>
+			<li class="ft-link3"><a href="//appleinsider.com/privacy/">Privacy Policy</a></li>
+			<li class="ft-link4"><a href="//appleinsider.com/advertising/">Advertise on AppleInsider</a></li>
+			<li class="right">Design: <a href="http://www.gesamtbild.com">gesamtbild</a></li>
+		</ul>
+	</div>
+</div>		<script async type="text/javascript" src="//apple.insidercdn.com/v9/js/libs/zc-mod-min.js"></script>
+	<script async type="text/javascript" src="//apple.insidercdn.com/v9/js/browser_selector.js"></script>
+	<script async type="text/javascript" src="//apple.insidercdn.com/v9/js/carousel.js"></script>
+	<script async type="text/javascript" src="//apple.insidercdn.com/v9/js/article.js"></script>
+	<script async type="text/javascript" src="//apple.insidercdn.com/v9/js/pg_new.js"></script>
+	<script async type="text/javascript" src="//ads.pro-market.net/ads/scripts/site-133097.js"></script>
+	<script async type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script async type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+	<script async type="text/javascript" src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+</body>
+</html>

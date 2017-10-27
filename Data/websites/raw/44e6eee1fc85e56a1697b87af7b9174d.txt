@@ -1,0 +1,763 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.chinafile.com/sites/default/files/chinafile_favicon.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="In the coming weeks, every major Western newspaper and many top China analysts will be making strong claims about Chinese leader Xi Jinping’s political position in the wake of the 19th Party Congress. These reports will build off years of tea-leaf reading and Pekingology that collectively underpin a now familiar story of élite political strife met by Xi’s personal consolidation of power. Their accounts will end either with Xi “solidifying his dominance” or “succumbing to the countervailing forces of his rivals”—and they will project an air of certainty." />
+<meta name="news_keywords" content="China, media, journalism, Xi Jinping, Chinese Leadership, Chinese Communist Party, 19th Party Congress, National Party Congress" />
+<link rel="image_src" href="http://www.chinafile.com/sites/default/files/assets/images/article/featured/curtain_great_hall-sm.jpg" />
+<link rel="canonical" href="http://www.chinafile.com/reporting-opinion/viewpoint/why-do-we-keep-writing-about-chinese-politics-if-we-know-more-we-do" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="fb:app_id" content="454460787921552" />
+<meta property="fb:admins" content="4403816" />
+<meta property="og:site_name" content="ChinaFile" />
+<meta property="og:title" content="Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.chinafile.com/reporting-opinion/viewpoint/why-do-we-keep-writing-about-chinese-politics-if-we-know-more-we-do" />
+<meta property="og:description" content="In the coming weeks, every major Western newspaper and many top China analysts will be making strong claims about Chinese leader Xi Jinping’s political position in the wake of the 19th Party Congress. These reports will build off years of tea-leaf reading and Pekingology that collectively underpin a now familiar story of élite political strife met by Xi’s personal consolidation of power. Their accounts will end either with Xi “solidifying his dominance” or “succumbing to the countervailing forces of his rivals”—and they will project an air of certainty." />
+<meta property="og:updated_time" content="2017-10-20T12:00:43-04:00" />
+<meta property="og:image" content="http://www.chinafile.com/sites/default/files/assets/images/article/featured/curtain_great_hall-sm.jpg" />
+<meta property="og:image" content="http://www.chinafile.com/sites/default/files/assets/images/article/system/curtain_great_hall-sm.jpg" />
+<meta property="og:image" content="http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/default/files/assets/images/article/featured/curtain_great_hall-sm.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/default/files/assets/images/article/system/curtain_great_hall-sm.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@ChinaFile" />
+<meta name="twitter:site:id" content="84786801" />
+<meta name="twitter:title" content="Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?" />
+<meta name="twitter:url" content="http://www.chinafile.com/reporting-opinion/viewpoint/why-do-we-keep-writing-about-chinese-politics-if-we-know-more-we-do" />
+<meta name="twitter:description" content="In the coming weeks, every major Western newspaper and many top China analysts will be making strong claims about Chinese leader Xi Jinping’s political position in the wake of the 19th Party Congress. These reports will build off years of tea-leaf reading and Pekingology that collectively underpin a now familiar story of élite political strife met by Xi’s personal consolidation of power. Their accounts will end either with Xi “solidifying his dominance” or “succumbing to the countervailing forces of his rivals”—and they will project an air of certainty." />
+<meta name="twitter:image" content="http://www.chinafile.com/sites/default/files/assets/images/article/featured/curtain_great_hall-sm.jpg" />
+<meta name="twitter:image:width" content=",," />
+<meta name="twitter:image:height" content=",," />
+<meta property="article:section" content="Viewpoint" />
+<meta property="article:tag" content="19th Party Congress" />
+<meta property="article:tag" content="Chinese Leadership" />
+<meta property="article:tag" content="National Party Congress" />
+<meta property="article:tag" content="Xi Jinping" />
+<meta property="article:published_time" content="2017-10-16T17:51:18-04:00" />
+<meta property="article:modified_time" content="2017-10-20T12:00:43-04:00" />
+<meta property="video:tag" content="Xi Jinping" />
+<meta property="video:tag" content="Chinese Leadership" />
+<meta property="video:tag" content="Chinese Communist Party" />
+<meta property="video:tag" content="19th Party Congress" />
+<meta property="video:tag" content="National Party Congress" />
+  <title>Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do? | ChinaFile</title>
+  <link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_KiW2LiyrCcZVV0qrPH8lYFbMuucXuTFt2eJJDhvtmD4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css__Fjaj2hjxh6x766OC-DA-hWZhTo5bXYUFoyDO018cIU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_A0zIOFmK-BB77yanrUTsuuxeRbxv8RRIkeR1Tmyyph4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="print" />
+  <script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _prum=[['id', '54a5b733abe53df81ed455ec'], ['mark', 'firstbyte',
+      (new Date()).getTime()]]; (function() {
+      var s=document.getElementsByTagName('script')[0],
+      p=document.createElement('script');
+      p.async='async'; p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_0RgHi2By0YhYjet9xuUK1CAl1mLRHPf-4NAM5NYO9Wg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function ($) {
+  $(document).ready(function () {
+    $('h1, h2, .field').curlies();
+  });
+})(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_E_-TE5vgXTAJf4L9JyrVufuU4gAUFZ3X8_ShTQz_vBg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.chinafile.com/sites/default/files/googleanalytics/analytics.js?oyckrf","ga");ga("create", "UA-25322293-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_gC7yHRhKuERyssiHLm0RWhOcPh6RJwoq3nR-pYcdvl8.js"></script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_s4zA8BIp5abe7C4EiO_hzRhqYHyysqHfv01HPizly3U.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cftwo","theme_token":"V69TDaICTbPKoe7vxNc9b-cV1_cHoMUk9mvUbcdjMzA","js":{"0":1,"sites\/all\/modules\/custom\/cbox\/includes\/cbox.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"1":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/curlies\/curlies.js":1,"2":1,"sites\/all\/modules\/contrib\/external\/external.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"http:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"\/js\/before-after.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/mobile-classes.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/toggle.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/libraries\/fontello\/css\/fontello.css":1,"sites\/all\/modules\/custom\/chinafile_alter\/css\/admin.css":1,"sites\/all\/themes\/cftwo\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/cftwo\/assets\/stylesheets\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"1000px"},"externalpdf":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/search\/results":true}});
+//--><!]]>
+</script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">    <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" id="st_insights_js" src="https://ws.sharethis.com/button/buttons.js?publisher=457a290a-9652-4a5f-ac83-f1f0590148d8"></script>
+  <script type="text/javascript">stLight.options({
+    publisher: "457a290a-9652-4a5f-ac83-f1f0590148d8",
+    doNotHash: false,
+    doNotCopy: false,
+    hashAddressBar: false,
+    publisherGA:"UA-25322293-1"
+  });</script>
+</head>
+<body class="html not-logged-in page-node page-node-42076 node-type-article panel-layout-cf_twocol panel-region-middle panel-region-top panel-region-top_left panel-region-top_right header-small secondary-light" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+
+  <header id="header" class="header" role="header">
+    <div class="container">
+      <a href="/" title="Home" rel="home" class="logo">ChinaFile</a>
+
+      <nav class="navbar navbar-default" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div> <!-- /.navbar-header -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+                      <form class="search-form navbar-form navbar-right" action="/search/results" method="post" id="search-form" accept-charset="UTF-8" role="form"><div><div class="container-inline form-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys form-group">
+  <label class="element-invisible" for="edit-keys">Search </label>
+ <input placeholder="Search" class="form-control form-control form-text" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit btn btn-default btn-primary" /></div><input type="hidden" name="form_build_id" value="form-688SQmbt-pEXr01PJm_UmiOqQ0KXJ4H8t-BCKiXMcm8" />
+<input type="hidden" name="form_id" value="search_form" />
+</div></form>                                <ul id="main-menu" class="menu nav navbar-nav">
+              <li title="" class="menu-link-reporting--opinion"><a href="/reporting-opinion">Reporting &amp; Opinion</a></li>
+<li title="" class="menu-link-conversation"><a href="/conversation">Conversation</a></li>
+<li title="" class="menu-link-library"><a href="/library">Library</a></li>
+<li title="" class="menu-link-multimedia"><a href="/multimedia">Multimedia</a></li>
+<li title="" class="menu-link-topics"><a href="/topics">Topics</a></li>
+<li title="" class="menu-link-contributors"><a href="/contributors">Contributors</a></li>
+            </ul>
+                  </div><!-- /.navbar-collapse -->
+      </nav><!-- /.navbar -->
+    </div>
+
+    <div class="submenu">
+      <div class="chinafile-submenu chinafile-menu-reporting hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-e189889acbff48396ae167cc9ec25861">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/culture">Culture</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/environment">Environment</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/features">Features</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/green-space">Green Space</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/media">Media</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/postcard">Postcard</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/viewpoint">Viewpoint</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-3081e36553d8a1ea5129cb43a940ab08">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/caixin-media">Caixin Media</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/earthbound-china">Earthbound China</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/my-first-trip">My First Trip</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/out-school">Out of School</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/two-way-street">Two Way Street</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-library hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-282c4269efb126e84952702debadc110">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/books">Books</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/excerpts">Excerpts</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/reports">Reports</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-98597cd7885601b3fb4091f3904149d4">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/china-world-podcast">China in the World Podcast</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/sinica-podcast">Sinica Podcast</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/china-africa-project">The China Africa Project</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/nyrb-china-archive">The NYRB China Archive</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-multimedia hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-a9a6f5a30a3bc77e8036540f6168269a">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/depth-of-field">Depth of Field</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/infographics">Infographics</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/photo-gallery">Photo Gallery</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/video">Video</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/viral-videos">Viral Videos</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-0a48dbb61c8c777928186cf5d4d78bef">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-topics hidden-xs">
+        <div class="container">
+          <div class="view view-topics view-id-topics view-display-id-panel_pane_2 view-dom-id-90edf61876b492ba3961ee2c6c55b2c6">
+        
+  
+  
+      <div class="content view-content">
+      <div class="views-view-grid cols-5 container-fluid">
+      <div class="row-1 row-first row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/arts">Arts</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/energy">Energy</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/law">Law</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/religion">Religion</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/society">Society</a></span>  </div>        </div>
+          </div>
+      <div class="row-2 row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/business">Business</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/environment">Environment</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/media">Media</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/rural-life">Rural Life</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/technology">Technology</a></span>  </div>        </div>
+          </div>
+      <div class="row-3 row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/economy">Economy</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/health">Health</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/military">Military</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/science">Science</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/urban-life">Urban Life</a></span>  </div>        </div>
+          </div>
+      <div class="row-4 row-last row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/education">Education</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/history">History</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/politics">Politics</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+                  </div>
+              <div class="col-5 col-last col-sm-5ths">
+                  </div>
+          </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-contributors hidden-xs">
+        <div class="container">
+          <div class="chinafile-menu-contributors-inner row">
+            <div class="col-sm-9"><div class="view view-contributors-menu view-id-contributors_menu view-display-id-panel_pane_1 view-dom-id-88c9fb88c25df7b59da91827296bfe27">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1">
+      
+          <a href="/contributors/alvin-yh-cheung"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/alvin_cheung.jpg?itok=dk6gLiEY" width="82" height="93" alt="" /></a>    
+          <a href="/contributors/alvin-yh-cheung">Alvin Y.H. Cheung</a>    </div>
+  <div class="views-row views-row-2">
+      
+          <a href="/contributors/Tim-Franco"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/tim-franco-2.jpg?itok=RrVdasqX" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/Tim-Franco">Tim Franco</a>    </div>
+  <div class="views-row views-row-3">
+      
+          <a href="/contributors/sharron-lovell"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/wr_2011-01-_ccc_office_portraits_bnmx265_0.jpg?itok=StRLtkz9" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/sharron-lovell">Sharron Lovell</a>    </div>
+  <div class="views-row views-row-4">
+      
+          <a href="/contributors/leslie-t-chang"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/leslie-chang_0.jpg?itok=FvpPWM63" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/leslie-t-chang">Leslie T. Chang</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+            <div class="col-sm-3"><div class="view view-contributors-menu view-id-contributors_menu view-display-id-panel_pane_2 view-dom-id-e797c50b9b18517425bf7c8eef35dea2">
+        
+  
+  
+      <div class="content view-content">
+          <ul>          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/james-palmer">James Palmer</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/amartya-sen">Amartya Sen</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/isabel-hilton">Isabel Hilton</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/zha-jianying">Zha Jianying</a></span>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/contributors" class="see-all">See All</a>    </div>
+  
+  
+</div></div>
+          </div>
+        </div> <!-- /.container -->
+      </div>
+
+    </div> <!-- /.container -->
+            <div id="breadcrumb" class="visible-desktop">
+          <h2 class="element-invisible">You are here</h2><ul class="breadcrumb node"><li class="first last"><a href="/reporting-opinion/viewpoint">Viewpoint</a></li></ul>        </div>
+        </header>
+
+  <div id="main" class="main">
+    <div class="main-container container container-fluid">
+
+      <div class="main-header">
+        
+        
+        
+              </div>
+
+      <div id="content" class="main-content">
+        <div class="l-cf-twocol l-panel" >
+  <div class="l-top l-twocol-wrapper container container-fluid">
+    <div class="panel-pane pane-views-panes pane-featured-photo-panel-pane-1" >
+  
+      
+  
+  <div class="view view-featured-photo view-id-featured_photo view-display-id-panel_pane_1 visual-box view-dom-id-3e60ea38f0c45aa42b0b8a242d4f5620">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1">
+      
+  <div class="views-field views-field-field-common-featured-photo">        <div class="field-content"><a href="http://www.chinafile.com/sites/default/files/assets/images/article/featured/curtain_great_hall-sm.jpg" title="Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?" class="colorbox" data-colorbox-gallery="gallery-node-42076-pLapAkjA2no"><img src="http://www.chinafile.com/sites/default/files/styles/large/public/assets/images/article/featured/curtain_great_hall-sm.jpg?itok=KK1DfLz8" width="1500" height="1001" alt="" title="" /></a></div>  </div>  
+  <div>        <div class="photo-credit">Feng Li—Getty Images</div>  </div>  
+  <div>        <div class="photo-caption"><p>A security guard stands near the door during a press conference of the Chinese People’s Political Consultative Congress, at the Great Hall of the People in Beijing, March 2, 2011.</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-node-title" >
+  
+        <h2 class="pane-title">Title</h2>
+    
+  
+  <h1>Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?</h1>
+
+  
+  </div>
+<div class="panel-pane pane-node-authors-date" >
+  
+      
+  
+  <ul class="author-date">  <li class="author">by Jessica Batke, Oliver Melton</li>  <li class="create-date">October 16, 2017</li></ul>
+  
+  </div>
+<div class="panel-pane pane-node-share" >
+  
+      
+  
+  <span class="st_facebook_large" st_title="Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?" displayText="Facebook"></span><span class="st_twitter_large" st_title="Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?" st_via="chinafile" displayText="Tweet"></span><span class="st_email_large" st_title="Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?" displayText="Email"></span>
+  
+  </div>
+  </div>
+
+  <div class="l-upper-wrapper l-twocol-wrapper container">
+    <div class="l-twocol-left">
+      <aside class="col-sm-4 col-md-4 l-twocol-right">
+        <div class="panel-pane pane-views-panes pane-contributors-sidebar-panel-pane-1" >
+  
+      
+  
+  <div class="view view-contributors-sidebar view-id-contributors_sidebar view-display-id-panel_pane_1 view-dom-id-5b57b01423ba8143cd31ea8e21c870e4">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/jessica-batke">Jessica Batke</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/jessica-batke"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/jessica_batke.jpg?itok=hBJ33x9z" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Jessica Batke is a ChinaFile Senior Editor. She is an expert on China’s domestic political and social affairs, having served as the State Department’s Bureau of Intelligence and Research Analyst for...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/jessica-batke">More</a></span>  </div>  </div>
+  <div class="views-row views-row-2 clearfix">
+      
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/contributors/oliver-melton">Oliver Melton</a></h3>  </div>  
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/contributors/oliver-melton"><img src="http://www.chinafile.com/sites/default/files/styles/epsacrop_220x220/public/assets/images/profile/melton_sm.png?itok=b-7pElDx" width="220" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-profile-about">        <span class="field-content">Oliver Melton is an analyst with the Bureau of Intelligence and Research at the U.S. Department of State, where he focuses on Chinese economic issues. Over the past decade, he has covered Chinese...</span>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/contributors/oliver-melton">More</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-common-side-block" >
+  
+      
+  
+  <div class="field-collection-container clearfix"><div class="field field-name-field-common-side-block field-type-field-collection field-label-hidden">
+  
+    <div class="field-items">
+  
+                <div class="field-item even">
+              <div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-common-side-block clearfix">
+  <div class="content">
+    <div class="field field-name-field-common-block-content field-type-text-long field-label-hidden">
+  
+  
+                  <p><em>The characterizations and opinions in this piece, including the discussion of information gaps and analytical challenges, are those of the authors and do not necessarily represent those of the U.S. government.</em></p>
+          
+  </div>
+  </div>
+</div>
+</div>            </div>
+                      <div class="field-item odd">
+              <div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-common-side-block clearfix">
+  <div class="content">
+    <div class="field field-name-field-common-block-content field-type-text-long field-label-hidden">
+  
+  
+                  <p><strong>More ChinaFile Coverage of the 19th Party Congress</strong></p>
+<p>“<a href="http://www.chinafile.com/reporting-opinion/viewpoint/mao-wished-he-could-upend-world-order-does-xi" target="_blank" rel="nofollow">Mao Wished He Could Upend the World Order. Does Xi?</a>,” by Sergey Radchenko</p>
+<p>“<a href="http://www.chinafile.com/reporting-opinion/viewpoint/could-xi-jinping-stay-power-after-he-retires-heres-how-deng-xiaoping-did" target="_blank" rel="nofollow">Could Xi Jinping Stay in Power After He Retires? Here’s How Deng Xiaoping Did It</a>,” by Julian B. Gewirtz</p>
+<p>“<a href="http://www.chinafile.com/conversation/what-watch-chinas-party-congress" target="_blank" rel="nofollow">What to Watch at China’s Party Congress: A ChinaFile Conversation</a>,” by Ho-fung Hung, Taisu Zhang, Tristan Kenderdine, Elizabeth M. Lynch, Ryan Mitchell, Sophie Richardson, Nicholas Bequelin, and Kristin Shi-Kupfer</p>
+<p>“<a href="http://www.chinafile.com/reporting-opinion/viewpoint/stein-ringen-truth-about-china" target="_blank" rel="nofollow">Stein Ringen: ‘The Truth About China’</a>,” by Stein Ringen</p>
+          
+  </div>
+  </div>
+</div>
+</div>            </div>
+          
+    </div>
+  </div>
+</div>
+  
+  </div>
+      </aside>
+
+      <div class="panel-pane pane-node-content" >
+  
+      
+  
+  <article class="node node-article clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+      <p class="dropcap">In the coming weeks, every major Western newspaper and many top China analysts will be making strong claims about Chinese leader Xi Jinping’s political position in the wake of the 19th Party Congress. These reports will build off years of tea-leaf reading and Pekingology that collectively underpin a now familiar story of élite political strife met by Xi’s personal consolidation of power. Their accounts will end either with Xi “solidifying his dominance” or “succumbing to the countervailing forces of his rivals”—and they will project an air of certainty. Yet their conclusions, in most cases, will rest precariously on assumptions and guesses about underlying Party mechanics and motivations that can neither be proved nor disproved. Even the best-sourced experts can’t discern how policy preferences and objectives shape political coalitions or élite Party divisions, and we lack critical diagnostic information that would be necessary to confirm or refute competing hypotheses about major political questions.</p>
+<p>China’s Party-state is extremely successful at controlling information. Even the most basic insights into policy deliberations and processes, leaders’ intentions and views, and élite power dynamics are filtered through a sophisticated propaganda and censorship regime. A researcher who wants to know, for example, a particular leader’s personal view on state-owned enterprise reform can’t simply interview that leader or read transcripts from committee meetings. She instead has to rely on oracular statements from the <em>People’s Daily</em> or highly scripted speeches at public events. Facing such constraints, analysts have developed alternative models to squeeze insight from the information either that the Chinese Communist Party (C.C.P.) releases through its Orwellian filter or that it cannot control. Such efforts can yield valuable insights. For example, close analysis of personnel movements can give indications of a leader’s expertise and connections, and close readings of Party documents can reveal a shift in policy concepts (like the <a href="http://theory.people.com.cn/n/2012/1022/c245417-19341622.html" target="_blank" rel="nofollow">change from</a> “social management” to “social governance” in 2012). But in most cases, they depend heavily upon assumptions that paper over information gaps, or are structured in ways that exclude policy considerations and important variables.</p>
+<p>China’s increasing importance in the world is self-evident, and yet we know shockingly little about the men (and they are almost all men) making decisions in Beijing. One might expect that we would be more familiar with the leadership personalities and processes in a country with China’s global footprint. Even more disconcertingly, we all too often use what little we do know to make assumptions that form the bedrock of larger, more sweeping judgments. Simply unearthing and clearly stating our assumptions, and asking what other conclusions the same set of facts might support, would help us enormously in knowing what we—journalists, think tankers, scholars—do know and knowing what we don’t.</p>
+<p align="center">* * *</p>
+<p class="dropcap">There is an extraordinary amount of information available in China today about policy priorities and experiments, and even the Party’s intentions. Researchers can stagger through reams of five-year plans or even the <a href="http://www.chinafile.com/ngo/analysis/visually-understanding-data-foreign-ngo-representative-offices-and-temporary-activities" target="_blank" rel="nofollow">government’s own datasets</a> to understand the general contours of the Party’s governance program. But the C.C.P.’s propaganda apparatus has grown steadily more sophisticated and comprehensive in the last decade, and the Party <a href="https://www.ft.com/content/1a3850ac-7166-11dc-98fc-0000779fd2ac" target="_blank" rel="nofollow">subjects</a> top leaders to ever more intensive image control to shape perceptions of their roles, individual intentions, and personalities. Whereas Jiang Zemin once <a href="https://www.youtube.com/watch?v=5GIj2BVJS2A" target="_blank" rel="nofollow">flew off the handle</a> when foreign reporters asked unwanted questions, and Premier Zhu Rongji <a href="https://www.youtube.com/watch?v=Ntk4bHepdYw&amp;feature=youtu.be" target="_blank" rel="nofollow">admitted</a> that he would rather not have visited the United States during a period of bilateral tension, leaders almost never speak <a href="https://www.merics.org/merics-analysen/archiv/dossierweb-spezial/branding-xi/" rel="nofollow">off the cuff</a> anymore to reveal their private thoughts. Gone are the Mao- and Deng-era days when intra-Party conflicts played out in the <em>People’s Daily</em> with enough transparency that observers <a href="https://books.google.com/books/about/Dilemmas_of_reform_in_China.html?id=B5WzAAAAIAAJ" target="_blank" rel="nofollow">could</a> clearly draw connections between public policy debates and the associated alliances within the leadership. Official media outlets do still provide rich insight into the evolving Party line and associated policy considerations. We can, for example, use them to determine <a href="https://www.hoover.org/sites/default/files/research/docs/clm50am.pdf#overlay-context=research/two-trains-running-supply-side-reform-soe-reform-and-authoritative-personage" target="_blank" rel="nofollow">changes over time</a> to the C.C.P.’s overall policy plans and focus. Yet the pages of Party papers no longer serve as a battleground on which leaders thrash out ideological or policy disagreements. This means the official media can rarely serve as a tool for tracking the relationships between the substance of policy discussions and the high-level political coalitions fighting behind the scenes.</p>
+<p class="dropcap">  </p><div class="node node-article cboxes article align-left grid-4 img-yes logo-no">  <div class="cboxes-inner">        <div class="cb-head">            <h3>  <a href="/conversation">Conversation</a></h3>                  <span class="date">10.16.17</span>            <span class="type-icon"></span>    </div>    <div class="cb-link"><a href="/conversation/what-watch-chinas-party-congress"></a></div>              <div class="cb-img"><img src="http://www.chinafile.com/sites/default/files/styles/system/public/assets/images/article/system/standing_committee-sm.jpg?itok=0v_VAs7l" width="620" height="450" alt="" /></div>            <div class="cb-cont">      <h2><a href="/conversation/what-watch-chinas-party-congress" title="What to Watch at China’s Party Congress">What to Watch at China’s Party Congress</a></h2>            <span class="authors">          <span>Ho-fung Hung, Taisu Zhang &amp; more</span>  </span>                  <div class="inner-content">        <div class="field field-name-body field-type-text-with-summary field-label-hidden">      The Chinese Communist Party’s 19th Party Congress, a hugely important political meeting usually held once every five years, will begin on October 18 in Beijing. Like many events involving China’s ruling party, the most important decisions and...  </div>      </div>    </div>  </div></div>
+<p>Almost everything we know about top leaders’ personal policy and ideological proclivities now depends on information that has passed through opaque political deliberations and has been released for purposes that we do not fully understand. And observers—including Western media—too often echo these portrayals uncritically. Xi has been regularly <a href="http://www.nytimes.com/2013/11/13/world/asia/chinese-leader-gets-more-sway-on-the-economy-and-security.html" target="_blank" rel="nofollow">characterized</a> as a strong advocate for market-oriented economic reforms, largely on the basis of his early speeches and the ambitious reform program ratified at the 2013 Third Plenum. Yet he has subsequently overseen a <a href="http://www.ecfr.eu/publications/summary/china_state_owned_enterprise_mergers_under_xi_jinping7196" target="_blank" rel="nofollow">rather conservative SOE reform program</a> and repeatedly advocated <a href="https://www.ft.com/content/1d815944-f1da-11e6-8758-6876151821a6?mhq5j=e6" target="_blank" rel="nofollow">state-centric industrial policies</a> that seem deeply contrary to—and indeed imperil—his initial reform goals. So, was Xi sincere but too weak to follow through? Or did the early statements reflect a liberal consensus, while his later statements reflect his own, stronger voice? Or do his own views contain the internal contradictions evident but often overlooked in the Plenum Decision? We don’t know because we can’t say with confidence whether major Party decisions and statements reflect individual leaders’ views, a political consensus, or other pragmatic considerations. And as a result, we are not only unable to identify individual views and priorities, but we are fundamentally unable to discern élite political coalitions based on policy preferences, ideological positions, or individual objectives.</p>
+<p>Official Chinese media coverage of individual leaders is important and can reveal indications of policy shifts and political tension. But their public personas are also increasingly carefully crafted and controlled—from the caricature of the <a href="http://www.economist.com/node/11541327" target="_blank" rel="nofollow">avuncular</a> former Premier Wen Jiabao to the <a href="http://www.latimes.com/world/asia/la-fg-glimpse-president-xi-china-20141027-story.html" target="_blank" rel="nofollow">decisive, man-of-action</a> Xi Jinping—and we have no way of knowing whether these public portrayals reflect reality, a calculated propaganda strategy, or both, because we have virtually no insight into the motivation behind directives the government issues to control that coverage. Different observers interpret the same change in state media reporting in fundamentally <a href="http://www.nytimes.com/2008/05/21/world/asia/21wen.html" target="_blank" rel="nofollow">different</a> <a href="http://abcnews.go.com/International/book-wen-jiabao-calls-chinas-best-actor/story?id=11407650" target="_blank" rel="nofollow">ways</a> because their conclusions depend largely on the assumptions they make about the Party’s motivation.</p>
+<p></p><div class="view view-photo-embed view-id-photo_embed view-display-id-panel_pane_2 visual-box view-dom-id-573d49a3ae30b681c89252fa022b1491 grid-8 photo-object">                  <div class="views-field views-field-field-common-system-photo">        <div class="field-content"><a href="http://www.chinafile.com/sites/default/files/assets/images/photo/system/jessica_china_news.jpg" title="The Straits Times" class="colorbox" data-colorbox-gallery="gallery-node-42086-pLapAkjA2no"><img src="http://www.chinafile.com/sites/default/files/assets/images/photo/system/jessica_china_news.jpg" width="1500" height="1100" alt="" title="" /></a></div>  </div>    <div class="views-field views-field-field-common-system-credit">        <div class="field-content photo-credit img-credit">(The Straits Times)</div>  </div>    <div>        <div class="photo-caption img-caption"><p>Two articles with different predictions about Wang Qishan published on ‘The Straits Times’ website, on October 13, 2017 and August 24, 2017.</p></div>  </div>            </div>
+<p>Such concerns are especially relevant now, as official media <a href="http://www.chinafile.com/conversation/chinese-communist-party-xi-jinping-core" target="_blank" rel="nofollow">tout</a> Xi as the “core of the Party center” and highlight his slogans ahead of the 19th Party Congress. This laudatory coverage—and in particular, the description of Xi as the “core” leader, an appellation <a href="https://blog.merics.org/en/blog-post/2016/03/03/empowered-or-embattled-we-dont-know-what-hexin-means-for-xi-jinping/" target="_blank" rel="nofollow">generally not used</a> to refer to Hu Jintao—has led most observers to conclude that Xi has <a href="https://www.nytimes.com/2016/10/28/world/asia/xi-jinping-china.html?_r=0" target="_blank" rel="nofollow">scored</a> a major political victory. But to understand what the designation is meant to signify requires critical contextual information. Was the “core” designation the result of Xi’s flexing his political muscles? Was it a calculated effort to advance discipline within the lower ranks of the Party? Was it contested or supported by his colleagues within the leadership? How and where was the decision made? The range of possible interpretations for élite politics ranges from the mundane (e.g. a <a href="http://www.scmp.com/comment/insight-opinion/article/2047173/why-china-needs-xi-jinping-its-core-leader" target="_blank" rel="nofollow">concerted effort</a> to portray a strong leader in a time of great challenges) to the extreme (e.g. a signal that Xi is <a href="http://www.latimes.com/world/asia/la-fg-party-congress-preview-2017-htmlstory.html" target="_blank" rel="nofollow">as powerful</a> as Mao or Deng), again depending entirely on one's underlying assumptions about Party motivations and decision-making processes.</p>
+<p>The existence of ambiguity is not inherently problematic; we can and should continue to monitor official media portrayals of leaders and watch for changes in propaganda. But we must account for—and be explicit about—how our assumptions influence our conclusions. For example, if you assume that <a href="https://www.merics.org/merics-analysen/archiv/dossierweb-spezial/branding-xi/" target="_blank" rel="nofollow">enhanced media coverage</a> of Xi is primarily a function of behind-the-scenes power struggles, then you will see a one-to-one reflection of his personal power in the associated propaganda. In contrast, if you assume that changes in media coverage are based on propaganda imperatives and political strategies, then the shift in coverage could have multiple potential meanings. The data itself—Xi’s media portrayal—doesn’t definitively prove one conclusion over the other without additional information about the Party’s internal calculus, which we know we do not have. This means we must allow for a range of possible behind-the-scenes explanations that are consistent with the evidence we have, and only exclude alternative conclusions if a rigorous—and transparent—analytic process can validate the full chain of assumptions and interpretations we are making. In other words, we need to ask, what are all possible (personal, political, collective, strategic) motivations behind enhancing the General Secretary’s media image? We may like certain explanations more than others, but unless we have evidence directly refuting a possible motivation (e.g. leaked memos showing other Politburo Standing Committee members’ opposition to Xi’s flattering coverage), we cannot rule them out.</p>
+<p align="center">* * *</p>
+<p class="dropcap">This opacity has eroded our ability to address the role of high-level policy or ideological coalitions in élite politics. Instead, we do our best to squeeze information out of the few data sources the C.C.P. cannot easily control—namely, concrete policy actions and personnel movements—and use them as a proxies or instruments to estimate the leadership dynamics we cannot observe, such as the power of a given leader. While these tools can make important contributions under certain circumstances, they have enormous limitations and are unable to fill the gaps in our understanding of Chinese leadership dynamics.</p>
+<p>Xi is almost universally seen as powerful because he appears to have accomplished things his predecessors’ administrations did not. He has overseen an aggressive anti-corruption campaign, dramatically increased Party discipline, overhauled military structures, and outlined a bold economic reform plan, to name a few. By contrast, his predecessor, Hu Jintao, is widely viewed as relatively weak because his administration <em>appeared</em> to have a far less ambitious <a href="http://media.hoover.org/sites/default/files/documents/clm9_jf.pdf" rel="nofollow">program</a> (though one could argue the political challenges were simply less titillating, e.g. the arduous fiscal and bureaucratic issues associated with the rural development program), and seems to have failed when it did outline <a href="http://www.nytimes.com/2012/11/09/world/asia/hu-jintao-exiting-communist-leader-cautions-china.html" target="_blank" rel="nofollow">ambitious goals</a>.</p>
+<p>There is certainly a plausible case for this analytic approach. Failure to deliver promised policies could very well indicate a lack of personal political capital. But the model is based on a simple framework: Chinese leaders advocate their personal preferences in the face of resistance (e.g. from other leaders, local governments, and often-unspecified interest groups). The resulting policy outcomes—vigorous or tepid—are therefore directly proportionate to the leader’s political strength. But this framework implicitly assumes that policy initiatives reflect the unadulterated priorities of the leaders themselves, not a consensus position that optimizes existing political support. Nor does it control for pragmatic considerations, competing priorities, or shifting pressures that factor into the policymaking environment.</p>
+<p></p><div class="pullquote">Without insight into high-level deliberations and leaders’ priorities, it is almost impossible to differentiate between a strong Chinese leader who forces his compatriots to adopt his preferences and one who has a supportive environment and institutional capacity to enact such policies—or indeed, one whose statements and actions only ever reflected a consensus position in the first place.  <div class="pullquote-share"><span class="st_facebook_large" st_title="Without insight into high-level deliberations and leaders’ priorities, it is almost impossible to differentiate between a strong Chinese leader who forces his compatriots to adopt his preferences and one who has a supportive environment and institutional capacity to enact such policies—or indeed, one whose statements and actions only ever reflected a consensus position in the first place." displaytext="Facebook"></span><span class="st_twitter_large" st_title="Without insight into high-level deliberations and leaders’ priorities, it is almost impossible to differentiate between a strong Chinese leader who forces his compatriots to adopt his preferences and one who has a supportive environment and institutional capacity to enact such policies—or indeed, one whose statements and actions only ever reflected a consensus position in the first place." st_via="chinafile" displaytext="Tweet"></span><span class="st_email_large" st_title="Without insight into high-level deliberations and leaders’ priorities, it is almost impossible to differentiate between a strong Chinese leader who forces his compatriots to adopt his preferences and one who has a supportive environment and institutional capacity to enact such policies—or indeed, one whose statements and actions only ever reflected a consensus position in the first place." displaytext="Email"></span></div></div>
+<p>Was Hu too weak to enact the political and economic reforms that he appeared to advocate (and at times experimented with), finding himself stymied in the face of powerful opposition? Or did he back away due to practical considerations, like the urgency of the global financial crisis or failure to find viable policy options that could satisfy diverse priorities? Likewise, did Xi launch the crackdown on corruption to solidify his political position? Or was the political environment <a href="http://www.eastasiaforum.org/2015/09/15/the-politics-of-chinas-anti-corruption-campaign/" target="_blank" rel="nofollow">supportive</a> of such moves as the Party élite faced the existential threat posed by the Zhou Yongkang and Bo Xilai scandals? Without insight into high-level deliberations and leaders’ priorities, it is almost impossible to differentiate between a strong Chinese leader who forces his compatriots to adopt his preferences and one who has a supportive environment and institutional capacity to enact such policies—or indeed, one whose statements and actions <em>only</em> ever reflected a consensus position in the first place.</p>
+<p>Let us consider this problem with an analogy. We see three men each standing behind a plain, unmarked box. The first and third men pick up their boxes and move them. The second reaches out and grabs his box but does not lift or move it. Why are the three men behaving differently? Are the first and third boxes dramatically lighter? Is the second man considerably weaker? Does the second box contain a ticking bomb that can’t be disturbed without going off? Were all three of them even intending to pick up their boxes in the first place? Without additional information, we simply don’t know. We therefore can only draw confident conclusions about leaders’ relative power if we are confident that we understand their true preferences and have a way to measure the <a href="https://blog.merics.org/en/blog-post/2016/06/23/gossip-guanxi-and-guesswork-time-to-demystify-the-chinese-leadership/" rel="nofollow">shifts</a> in relative pressures for and against underlying policy moves (or in this case, for lifting up the box). Most of the time, assessing a given leader’s performance on, say, achieving certain reform goals requires making an assumption that his public statements reflect his personal views (and even then we must be careful to confirm we know what leaders mean when they talk about reform goals).</p>
+<p>A related issue is the conflation of Xi Jinping’s personal ambitions and political power over the Party élite with the C.C.P.’s dramatic reassertion of political control throughout China. It is now almost holy writ that the Party’s efforts to fight corruption and otherwise reform governing institutions reflect, and are evidence of, Xi’s personal <a href="http://www.npr.org/sections/parallels/2016/10/25/499206804/behind-chinas-anti-graft-campaign-a-drive-to-crush-rivals" target="_blank" rel="nofollow">domination</a> of the political process. Reporting on Chinese politics regularly conflates the Party’s sweeping efforts to reassert its power with Xi’s own autonomy relative to his peers: “<a href="https://www.nbcnews.com/storyline/2014-year-in-review/analysis-chinas-xi-jinping-amasses-power-huge-corruption-crackdown-n270001" target="_blank" rel="nofollow">Analysis: China’s Xi Jinping Amasses Power in Huge Corruption Crackdown</a>,” “<a href="https://www.bloomberg.com/news/articles/2015-08-31/china-said-to-plan-overhaul-of-military-as-xi-solidifies-power-ie043vht" target="_blank" rel="nofollow">China’s President Xi Solidifies Power with Overhaul of Military</a>,” “<a href="https://www.cnbc.com/2017/02/24/latest-shuffle-in-beijing-puts-more-economic-power-into-hands-of-xi-jinping.html" target="_blank" rel="nofollow">Latest Shuffle in Beijing Puts More Economic Power into Hands of Xi Jinping</a>.” Imprecise writing often compounds this problem, when “centralization” and “power consolidation” are <a href="http://www.reuters.com/article/us-china-politics/as-china-plenum-opens-party-paper-says-core-leadership-needed-idUSKCN12O0ZW" target="_blank" rel="nofollow">used</a> interchangeably to <a href="http://nationalinterest.org/blog/the-buzz/asias-next-china-worry-xi-jinpings-growing-power-10939" target="_blank" rel="nofollow">describe</a> fundamentally different phenomena.</p>
+<p>There is no doubt that Xi is more influential in his position as Party Secretary. This is due to institutional changes meant to strengthen the center of the Party, and that increase in individual power may well be his personal motivation for pursuing them. But one must differentiate between actions that make the Party stronger or more effective, and those that allow Xi to steamroll his colleagues at the apex of the political system. Additionally, there are multiple <a href="https://cpianalysis.org/2016/02/25/xi-jinping-and-the-true-nature-of-his-power/" target="_blank" rel="nofollow">possible</a> motivations for what Xi (or the leadership collectively) is doing: wresting Party control back from individual cadres who controlled their own political fiefdoms, and whose pursuit of power threatened the Party’s continued existence (e.g. Bo and Zhou); ridding the Party of endemic corruption that threatened popular support and the ability of the center to control its policy agenda; countering the corrosive effect of social media and other new technologies that were undermining Party ideological controls; eliminating bottlenecks and reasserting coherent Party oversight of a fractured and disjointed policymaking process; or presenting a clear and appealing image of the Chinese leadership for public consumption. All of these have clear antecedents prior to Xi’s ascendance, and none deviate from the C.C.P.’s political strategy since the early 1990s, except in intensity. So the bar is high for evidence that can prove or disprove that Xi’s personal political power was the key explanatory variable.</p>
+<p>An oft-cited example of Xi’s personal power grab is his position as <a href="https://qz.com/892208/chinas-president-xi-jinping-now-has-a-dozen-titles-and-counting/" target="_blank" rel="nofollow">head of a large number of Leading Small Groups</a>, making him “<a href="https://sinosphere.blogs.nytimes.com/2015/11/08/china-xi-jinping-geremie-barme-maoing-xi-jinping/?_r=0" target="_blank" rel="nofollow">Chairman of Everything</a>.” Leading Small Groups are Party- or government-affiliated advisory bodies <a href="https://www.hoover.org/sites/default/files/research/docs/clm44am.pdf" target="_blank" rel="nofollow">organized around</a> a policy topic or specific task (for example, the Leading Small Group on Finance and Economy, or the Beijing Olympics Preparation Leading Small Group). This interpretation commonly leads to the conclusion that Xi is using his authority in these groups to usurp political authority from other government institutions generally, and Premier <a href="https://thediplomat.com/2014/01/is-li-keqiang-being-marginalized/" target="_blank" rel="nofollow">Li Keqiang</a> and the <a href="https://www.economist.com/news/china/21674793-li-keqiang-weakest-chinese-prime-minister-decades-very-chinese-coup" target="_blank" rel="nofollow">State</a> Council <a href="https://www.nytimes.com/2015/09/26/world/asia/xi-jinping-china-president-inner-circle-western-officials.html" target="_blank" rel="nofollow">specifically</a>. Yet, again this interpretation often rests on assumptions to compensate for the lack of detailed information about how the Leading Small Groups interact with the larger People’s Republic of China policy-making apparatus, and how the role of key leadership positions in this system have or haven’t changed under Xi. We know very little about what happens at Leading Small Group meetings or exactly how group recommendations feed into the Party and state decision-making and implementation processes. In some cases, we don’t even know the full membership of a Leading Small Group.</p>
+<p>It is certainly possible that Xi used the Leading Small Group system to make a power grab. But there are also plausible alternative explanations for Xi’s Small Group leadership that might represent a far less dramatic shift in political power. Changes to the leadership system could be an attempt to improve policy coordination and enforcement; by merging processes that were previously disjointed and ineffectual, with distinct decision points divided into separate meetings of the Politburo Standing Committee, Politburo, and State Council, the Party might have been preparing to tackle complex, cross-cutting policy problems. This explanation helps make sense of the fact that Leading Small Groups <a href="https://www.merics.org/en/merics-analysis/china-mapping/the-whos-who-of-chinas-leading-small-groups/" target="_blank" rel="nofollow">generally include</a> all relevant policy stakeholders from the Politburo Standing Committee down to relevant ministers, including Li and the State Council.</p>
+<p>To assess the ultimate implications of Leading Small Group changes for élite politics and Xi’s personal power, we would need to be able to differentiate between steps that the C.C.P. leadership has collectively taken to sustain its longevity or improve the efficacy of its institutions, and steps that Xi has individually made to advance his personal authority within the leadership system. Yet we are again fettered by how little direct insight we have into the internal dialogues that precipitate such moves, and cannot rule out opposing hypotheses for why Xi (or the Party leadership) made certain institutional reforms. Nor do we fully understand the Leading Small Group decision-making processes as they functioned before and after Xi’s administration, so we do cannot make strong conclusions about what the changes mean for élite power dynamics irrespective of their motives.</p>
+<p>Personnel movements are one of the few data sources in Chinese politics that cannot be easily scrubbed from view and thus constitute an excellent starting point to track political machinations. But too often we interpret these tidbits of information using a factional model that is no longer comprehensive enough to support the results we derive—and overlook that we rely on the associated conclusions precisely because we lack more comprehensive insights into the increasingly complex Chinese political system.</p>
+<p>During the Mao era, Western observers described “factions” as deeply rooted <a href="http://www.dtic.mil/docs/citations/ADA089301" target="_blank" rel="nofollow">protective networks</a> of patron-client relationships that transcended policy issues, except insofar as they protected specific economic and political power bases. In the 1980s, factions could still be more or less discerned, and <a href="https://www.hoover.org/sites/default/files/research/docs/clm46am-2.pdf" target="_blank" rel="nofollow">could</a> have their basis in shared ideology, bureaucratic interests, or pure power seeking. While networks of leaders with shared interests undoubtedly still exist, the term “faction” is all too often used in a loose and overly capacious fashion and is dependent on the very limited information we have about individual leaders; thus the apparently neat division of leaders into factions based on their former <a href="http://www.reuters.com/article/us-china-factions/analysis-chinas-next-inner-circle-idUSBRE9220GJ20130304" target="_blank" rel="nofollow">membership</a> in the Communist Youth League or their status as children of former top leaders (“princelings”). Yet, the criteria often used to assign membership to various factions can be shaky. Politburo Standing Committee Member Liu Yunshan, for example, was often <a href="https://asia.nikkei.com/static/vdata/china2017/newsgraphics/chinese-communist-party-leaders/index.html" target="_blank" rel="nofollow">described</a> as part of Jiang Zemin’s faction, but a review of his CV would seem to <a href="https://www.hoover.org/sites/default/files/research/docs/clm46am-2.pdf" target="_blank" rel="nofollow">place him</a> more in line with the Youth League camp.</p>
+<p>Using factors such as a common work history or similar background to assume a deep, career-long patron-client tie to a single leadership network overlooks the fact that we have little information about the depth or strength of these relationships or how a leader’s particular work history played into his promotions. It presupposes a degree of coherence and organization to networks that might be better viewed as interest groups or even merely people with common backgrounds, with none of the attendant political influence. (It also ignores the fact that working with someone can create bitter feelings as well as strong bonds.) In some cases, the peculiarities of the Chinese promotion system may actually <a href="http://www.journals.uchicago.edu/doi/abs/10.1086/674558" target="_blank" rel="nofollow">help create</a> the appearance of strong patronage networks where they might not exist. (For example, according to one paper, the Communist Youth League offers faster-than-average promotions for cadres, providing a critical leg up by avoiding age caps as they reach higher levels of government. The outcome of higher long-term promotion potential has the appearance of a high-level patron-client network, when its real contribution might be an early-career push that lacks any of the cohesion and political force of a true faction.)</p>
+<p>Even more fundamentally, the logic of the factional model is flawed because it does not allow for the possibility that leaders might sometimes prioritize policy objectives over the protection of their networks. We should not simply assume that Chinese leaders differ from their counterparts in other countries in promoting people they know to be competent or effective. Media did not describe Arne Duncan as being a member of President Obama’s “faction” when he brought him from Chicago to Washington to act as his Secretary of Education. Certainly Chinese leaders have similar motivations to bring with them people they know and trust, without necessarily forming a “faction.”</p>
+<p>This is not to say that personal ties are irrelevant to power dynamics, and certainly does not mean such models cannot yield valuable insights. According to research by Franziska Keller, a Chinese government official’s past and current coworkers are more likely to <a href="https://www.researchgate.net/publication/275954486_Moving_Beyond_Factions_using_Social_Network_Analysis_to_Uncover_Patronage_Networks_Among_Chinese_Elites" target="_blank" rel="nofollow">determine</a> his future promotion opportunities than, say, whether or not he shares an alma mater with another leader. Working relationships might then be more predictive of alliances between leaders, as well as indirect influence over key nodes of power, such as the Organization Department or Discipline and Inspection Commissions. And as the Bo Xilai and Zhou Yongkang affair <a href="http://www.scmp.com/news/china/article/1679889/disgraced-officials-zhou-and-bo-formed-clique-challenge-leaders-says" target="_blank" rel="nofollow">amply demonstrated</a>, there are still political networks in China that should be characterized as “factions” in the older patron-client sense (and they were indeed described as factions in <a href="http://news.xinhuanet.com/politics/2016-11/02/c_1119838057.htm" target="_blank" rel="nofollow">official Chinese media</a>).</p>
+<p>However, especially given our limited knowledge of the individuals involved, describing all Chinese politics primarily in terms of factions <a href="http://thediplomat.com/2015/02/how-factionalism-in-chinese-politics-is-misunderstood/" target="_blank" rel="nofollow">unnecessarily flattens out</a> a complex and evolving political landscape, and it overstates our confidence in the associated conclusions drawn from promotions. As in any country, sometimes “where you stand is where you sit,” and officials must advocate on behalf of interests derived primarily from their institutional affiliations rather than personal factional affiliations. This undermines our ability to predict leaders’ allegiances after they move to new positions, and raises serious questions about reliability of the factional models. Thus, it is probably more accurate to think of competing coalitions or strategic alliances that can shift as political or ideological circumstances dictate, which means that personnel movements can be important—but they can also be fairly mundane. So we should not discount personnel-watching as a tool for understanding the Chinese leadership, but if we interpret all personnel shifts as the result of zero-sum factional rivalries, leaving no room for policy considerations or shared objectives, we will vastly overstate our actual knowledge and inadvertently exclude more powerful explanations of Party political dynamics.</p>
+<p align="center">* * *</p>
+<p class="dropcap">Any of the analytical shortcomings described above would be problematic in and of themselves, and we suspect that most analysts would agree that key information gaps should temper our confidence in specific conclusions. But in the face of deeply limited information, we have been forced to make assumptions about the C.C.P.’s motivations that are self-reinforcing, and the danger is that they are building off of each other to form a conventional wisdom about Chinese leadership politics that may be more fragile than many observers appreciate. In doing so, we have become vulnerable to the kinds of <a href="http://www.washingtonpost.com/wp-dyn/articles/A38650-2004Jul9.html" target="_blank" rel="nofollow">analytical “layering”</a> that have led to dramatic intelligence failures.</p>
+<p>Given the strong consensus in the China-watching ether regarding Xi’s personal power, there is a risk that new information either strengthens this argument or falls afield because it doesn’t fit into a clear narrative. But we must be careful not to paper over reasons to be skeptical given that nearly all of our conclusions rest upon important assumptions. So we should ensure that we are mindful of and constantly reevaluating our assumptions as contradictory information becomes available.</p>
+<p>So how does one make sense of the reporting and analysis on the Chinese leadership, especially in advance of a major conclave like the 19th Party Congress? How does one know whether to believe news reports that will inevitably characterize Xi as either the new Deng (or Mao) or as an overly-ambitious leader checked by his rivals?</p>
+<p>We recommend a high degree of skepticism, and suggest asking the following questions to clarify how much we know and what assumptions we’re making to reach our conclusions:</p>
+<ul><li>In terms of personnel promotions and the make-up of the Politburo, how reliably do we know that a given person is uniquely loyal to Xi (or to someone else)? How well do we understand the make-up and cohesion of the purported rival factions? Can we assess the strength of their connections beyond overlapping work assignments? What do we know about the procedures and considerations (e.g. competence, priorities, and alliances) that led to the promotion in question?</li>
+<li>If no evident successors are named, what assumptions are being made about the reasons behind this? Why exactly was the leadership unable to come to a consensus at this time? Does it clearly indicate that Xi intends to stay on beyond a second term? Did he achieve this by force or in concert with his colleagues? If a successor is named, is this a blow to Xi? Do we know whether Xi ever intended to stay on beyond his two terms?</li>
+<li>In terms of Xi's personal power “consolidation,” how has his standing changed relative to his colleagues in the Politburo or its Standing Committee? Can we differentiate between changes in strength of the institutions that he and his colleagues control or his own influence? What was the impetus for these changes?</li>
+<li>In terms of changes to the Party constitution and other major policy initiatives, do we fully understand their significance and the motivations behind them? Was Xi pushing his own personal ideological priorities or trying to demonstrate his strength? Was there clear opposition or support from the political élite—if so, how much?</li>
+</ul><p>If we cannot answer these questions, we must interrogate our own thought processes: What assumptions are we making about the evidence we have? What additional information would we need to confirm or refute those assumptions? And what other conclusions are compatible with the evidence that we do have?</p>
+<p>If forced to make prognostications, the two of us would predict a Party Congress that does not break any major taboos (e.g. scrapping tacit age or term limits for Politburo Standing Committee members), but one that also portrays Xi as powerful and thoroughly in command of the Party (e.g. following previous leaders in having his wisdom included in the Party’s constitution). But we have very little confidence in any such judgments, because we believe that most of the associated evidence is ambiguous or unreliable. The one thing we do predict with high confidence is that media coverage of the events of the19th Party Congress will box Chinese politics into overly clean and confident-sounding narratives about Xi’s power, with little mention of the crippling information gaps that should temper our conclusions.<span class="cube"></span></p>
+  </div>  </div>
+
+  
+  
+</article>
+
+  
+  </div>
+    </div>
+  </div>
+
+  <div class="l-middle l-twocol-wrapper container container-fluid">
+    <div class="panel-pane pane-entity-field pane-node-field-common-topic" >
+  
+      
+  
+  <div class="field field-name-field-common-topic field-type-taxonomy-term-reference field-label-inline">
+    <div class="field-label">Topics:&nbsp;</div>
+  
+  
+                  <a href="/topic/media">Media</a>, <a href="/topic/politics">Politics</a>          
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-common-tags" >
+  
+      
+  
+  <div class="field field-name-field-common-tags field-type-taxonomy-term-reference field-label-inline">
+    <div class="field-label">Keywords:&nbsp;</div>
+  
+  
+                  <a href="/keyword/xi-jinping">Xi Jinping</a>, <a href="/keyword/chinese-leadership">Chinese Leadership</a>, <a href="/keyword/chinese-communist-party">Chinese Communist Party</a>, <a href="/keyword/19th-party-congress">19th Party Congress</a>, <a href="/keyword/national-party-congress">National Party Congress</a>          
+  </div>
+
+  
+  </div>
+  </div>
+
+  <div class="l-lower-wrapper l-twocol-wrapper container">
+    <div class="col-md-8 l-twocol-left">
+          </div>
+    <aside class="col-md-4 l-twocol-right">
+          </aside>
+  </div>
+</div>
+      </div>
+
+    </div> <!-- /.main-inner -->
+  </div> <!-- /#main -->
+
+  <footer id="footer" class="footer" role="footer">
+    <div class="container">
+      <div class="row clearfix">
+        <div class="col-sm-4 col-md-3">
+          <ul class="links"><li class="menu-511 first"><a href="/reporting-opinion" title="">Reporting &amp; Opinion</a></li>
+<li class="menu-1729"><a href="/conversation" title="">Conversation</a></li>
+<li class="menu-513"><a href="/library" title="">Library</a></li>
+<li class="menu-514 last"><a href="/multimedia" title="">Multimedia</a></li>
+</ul>        </div>
+        <div class="col-sm-4 col-md-3 col-sm-push-4 col-md-push-6">
+          <ul class="social-nav">
+            <li><a href="/about"><span class="footer-link">About</a></li>
+            <li><a href="/contact"><span class="footer-link">Contact</a></li>
+            <li><a href="/donate"><span class="footer-link">Donate</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-4 col-md-6 col-sm-pull-4 col-md-pull-3">
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="//chinafile.us2.list-manage.com/subscribe/post?u=dd858a5b6e74ef23767d565ae&amp;id=de2675ff34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <label for="mce-EMAIL">Sign up for our newsletter.</label>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_dd858a5b6e74ef23767d565ae_de2675ff34" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
+
+      <div class="row footer-bar clearfix">
+        <div class="col-md-4 col-md-push-4">
+          <p class="footer-links">
+            <a href="https://www.facebook.com/chinafile" title="Facebook" target="_blank"><span class="icon-facebook-rect"></span></a>&nbsp;|&nbsp;
+            <a href="https://www.twitter.com/chinafile" title="Twitter" target="_blank"><span class="icon-twitter-bird"></span></a>&nbsp;|&nbsp;
+            <a href="https://www.instagram.com/chinafile" title="Instagram" target="_blank"><span class="icon-instagram-filled"></span></a>&nbsp;|&nbsp;
+            <a href="https://e.weibo.com/chinafile" title="Weibo" target="_blank"><span class="icon-weibo"></span></a>&nbsp;|&nbsp;
+            <a href="http://feeds.feedburner.com/chinafile/All" title="RSS" target="_blank"><span class="icon-rss"></span></a>
+          </p>
+        </div>
+        <div class="col-sm-5 col-md-4 col-md-pull-4">
+          <p class="footer-logo"><a href="http://chinafile.com" class="logo-sub">ChinaFile</a></p>
+        </div>
+        <div class="col-sm-7 col-md-4">
+          <p class="footer-text">ChinaFile is a project of the <a title="The Center on U.S.-China Relations homepage" href="http://asiasociety.org/policy/center-us-china-relations" target="_blank">Center on U.S.-China Relations</a> at <a title="The Asia Society homepage" href="http://www.asiasociety.org" target="_blank">Asia Society</a>. Center on U.S.-China Relations, &copy; 2011-2016. All Rights Reserved.</p>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <small><a href="#">Back to Top</a></small>
+</div> <!-- /#page-wrapper -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0014/0039.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_vmE6dCgdTxCRGv9YAEm9ZI2gzt136DfG39RFasESmH8.js"></script>
+</body>
+</html>

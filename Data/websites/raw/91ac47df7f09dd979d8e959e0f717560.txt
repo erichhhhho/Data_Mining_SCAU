@@ -1,0 +1,1747 @@
+<!DOCTYPE html><!--[if lt IE 7 ]><html class="ie ie6" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <![endif]--><!--[if IE 7 ]><html class="ie ie7" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <![endif]--><!--[if IE 8 ]><html class="ie ie8" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><meta charset="UTF-8">
+<script data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(n,e){null!==e&&(n=n+"_"+e);for(var t=n+"=",r=decodeURIComponent(document.cookie),o=r.split(";"),i=0;i<o.length;i++){for(var u=o[i];" "===u.charAt(0);)u=u.substring(1);if(0===u.indexOf(t))return u.substring(t.length,u.length)}return""};__ez.queue=function(){function g(a,b,g,h,j,k,l,m){var n=new f.file(a,b,g,h,j,k,l);!0===m?d[a]=n:e[a]=n,c[a]=n,i(n)}function h(a,g,h,j,k,l,m,n,o){!0===l&&(a=a+"_"+b++);var p=new f.func(a,g,h,j,k,m,n);!0===o?d[a]=p:e[a]=p,c[a]=p,i(p)}function i(a){!0!==j(a)&&a.process()}function j(a){if(a.blockedBy instanceof Array)for(var b=0;b<a.blockedBy.length;b++){var d=a.blockedBy[b];if(!1===c.hasOwnProperty(d))return k(a.name+" blocked = "+d),!0;if(!0===a.proceedIfError&&!0===c[d].isError)return!1;if(!1===c[d].isComplete)return k(a.name+" blocked = "+d),!0}return!1}function k(a){var b=window.location.href,c=new RegExp("[?&]ezq=([^&#]*)","i"),d=c.exec(b);"1"===(d?d[1]:null)&&console.debug(a)}function l(){++a>20||(k("let's go"),m(d),m(e))}function m(a){for(var b in a)if(!1!==a.hasOwnProperty(b)){var c=a[b];!0===c.isComplete||j(c)||!0===c.isInitialized||!0===c.isError?!0===c.isError?k(c.name+": error"):!0===c.isComplete?k(c.name+": complete already"):!0===c.isInitialized&&k(c.name+": initialized already"):c.process()}}var a=0,b=0,c=[],d=[],e=[],f={func:function(a,b,d,e,f,g,h){var i=this;this.name=a,this.funcName=b,this.parameters=null===d?null:d instanceof Array?d:[d],this.isBlock=e,this.blockedBy=f,this.deleteWhenComplete=g,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=h,this.process=function(){k("... func = "+a),i.isInitialized=!0,i.isComplete=!0;var b=i.funcName.split(".");b.length>3||(3===b.length?window[b[0]][b[1]][b[2]].apply(null,this.parameters):2===b.length?window[b[0]][b[1]].apply(null,this.parameters):window[i.funcName].apply(null,this.parameters)),!0===i.deleteWhenComplete&&delete c[a],!0===i.isBlock&&(k("----- F'D: "+i.name),l())}},file:function(a,b,c,d,e,f,g){var h=this;this.name=a,this.path=b,this.async=e,this.defer=f,this.isBlock=c,this.blockedBy=d,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=g,this.process=function(){h.isInitialized=!0,k("... file = "+a);var c=document.createElement("script");c.src=b,!0===e?c.async=!0:!0===f&&(c.defer=!0),c.onerror=function(){k("----- ERR'D: "+h.name),h.isError=!0,!0===h.isBlock&&l()},c.onreadystatechange=c.onload=function(){var a=c.readyState;k("----- F'D: "+h.name),a&&!/loaded|complete/.test(a)||(h.isComplete=!0,!0===h.isBlock&&l())},document.getElementsByTagName("head")[0].appendChild(c)}}};return{addFile:g,addFunc:h,items:c}}();var __ezDotData=function(a,b){this.name=a,this.val=b};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(a){var c,d,e,f,g,h,i,b="",j=0;for(a=Base64._utf8_encode(a);j<a.length;)c=a.charCodeAt(j++),d=a.charCodeAt(j++),e=a.charCodeAt(j++),f=c>>2,g=(3&c)<<4|d>>4,h=(15&d)<<2|e>>6,i=63&e,isNaN(d)?h=i=64:isNaN(e)&&(i=64),b=b+this._keyStr.charAt(f)+this._keyStr.charAt(g)+this._keyStr.charAt(h)+this._keyStr.charAt(i);return b},decode:function(a){var c,d,e,f,g,h,i,b="",j=0;for(a=a.replace(/[^A-Za-z0-9+\/=]/g,"");j<a.length;)f=this._keyStr.indexOf(a.charAt(j++)),g=this._keyStr.indexOf(a.charAt(j++)),h=this._keyStr.indexOf(a.charAt(j++)),i=this._keyStr.indexOf(a.charAt(j++)),c=f<<2|g>>4,d=(15&g)<<4|h>>2,e=(3&h)<<6|i,b+=String.fromCharCode(c),64!=h&&(b+=String.fromCharCode(d)),64!=i&&(b+=String.fromCharCode(e));return b=Base64._utf8_decode(b)},_utf8_encode:function(a){a=a.replace(/rn/g,"n");for(var b="",c=0;c<a.length;c++){var d=a.charCodeAt(c);d<128?b+=String.fromCharCode(d):d>127&&d<2048?(b+=String.fromCharCode(d>>6|192),b+=String.fromCharCode(63&d|128)):(b+=String.fromCharCode(d>>12|224),b+=String.fromCharCode(d>>6&63|128),b+=String.fromCharCode(63&d|128))}return b},_utf8_decode:function(a){for(var b="",c=0,d=c1=c2=0;c<a.length;)d=a.charCodeAt(c),d<128?(b+=String.fromCharCode(d),c++):d>191&&d<224?(c2=a.charCodeAt(c+1),b+=String.fromCharCode((31&d)<<6|63&c2),c+=2):(c2=a.charCodeAt(c+1),c3=a.charCodeAt(c+2),b+=String.fromCharCode((15&d)<<12|(63&c2)<<6|63&c3),c+=3);return b}},__ez.dot.dataToStr=function(a){if(void 0===a)return[];try{for(var b in a)a[b].val=a[b].val+""}catch(a){}return a},__ez.dot.getCC=function(){var a="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(a=_ezaq.country),a},__ez.dot.getDID=function(){var a="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(a=_ezaq.domain_id.toString()),a},__ez.dot.getEpoch=function(a){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(a=_ezaq.t_epoch),a},__ez.dot.getURL=function(a){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp)&&(a="//g.ezoic.net"+a),a},__ez.dot.isValid=function(a){for(var b=0;b<a.length;b++)if(a[b]instanceof __ezDotData==!1)return console.error("Invalid data. ",a[b]),!1;return!0},__ez.dot.isDefined=function(){for(var a=0;a<arguments.length;a++)if(void 0===arguments[a]||null===arguments[a])return console.error("Argument not defined. ",arguments),!1;return!0};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-cfasync='false' data-pagespeed-no-defer>__ez.pel=function(){function c(a,b){d(a,b,0,0,0,0,0),f()}function d(b,c,d,e,f,h,i){if(__ez.dot.isDefined(b,b.getSlotElementId)){var j=parseInt(b.getTargeting("ap")[0]),k=b.getSizes()[0],l=k.l.toString()+"x"+k.j.toString(),m=g(b),n=b.getSlotElementId();__ez.dot.isDefined(m,n)&&__ez.dot.isValid(c)&&a.push({type:"impression",impression_id:m,domain_id:__ez.dot.getDID(),unit:n,t_epoch:__ez.dot.getEpoch(0),revenue:d,est_revenue:e,ad_position:j,ad_size:l,bid_floor_filled:f,bid_floor_prev:h,stat_source_id:i,country_code:__ez.dot.getCC(),data:__ez.dot.dataToStr(c)})}}function e(b,c){var d=b.split("/");if(__ez.dot.isDefined(b)&&3===d.length&&__ez.dot.isValid(c)){var e=d[0],f=d[2];a.push({type:"impression",impression_id:f,domain_id:__ez.dot.getDID(),unit:e,t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}}function f(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(a))),a=[])}function g(a){var b=0;try{var c=a.getTargetingMap();if(-1===a.getSlotElementId().indexOf("div-gpt-ad"))return b;if(void 0!==c)for(var e in c)if(-1!==e.indexOf("iid")&&void 0!==c[e][0]){b=c[e][0];break}}catch(a){}return b}var a=[],b="/porpoiseant/army.gif";return{Add:d,AddAndFire:c,AddById:e,Fire:f}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&ezJsu===!0||"undefined"!=typeof _ez_sa&&_ez_sa===!0||"undefined"!=typeof window.isAmp&&isAmp===!0)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(a,b){this.name=a,this.val=b};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(a,b){this.AddImpPixel(a,b,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(a,b){this.AddPVPixel(a,b),this.FirePixels()},AddImpPixel:function(a,b,c,d,e,f,g){if(this.isDefined(a,a.getSlotElementId)){var h=parseInt(a.getTargeting("ap")[0]),i=a.getSizes()[0],j=i.l.toString()+"x"+i.j.toString(),k="0",l="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(k=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(l=_ezaq.country);var m=this.getSlotIID(a),n=a.getSlotElementId();this.isDefined(m,n)&&this.validateData(b)&&(b=this.convertDataToStr(b),this.pixels.push({type:"impression",impression_id:m,domain_id:k,unit:n,t_epoch:this.tEpoch,revenue:c,est_revenue:d,ad_position:h,ad_size:j,bid_floor_filled:e,bid_floor_prev:f,stat_source_id:g,country_code:l,data:b}))}},AddImpPixelById:function(a,b){var c="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(c=_ezaq.domain_id.toString());var d=a.split("/");if(this.isDefined(a)&&3===d.length&&this.validateData(b)){var e=d[0],f=d[2];b=this.convertDataToStr(b),this.pixels.push({type:"impression",impression_id:f,domain_id:c,unit:e,t_epoch:this.tEpoch,data:b})}},AddPVPixel:function(a,b){var c="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(c=_ezaq.domain_id.toString()),this.isDefined(a)&&this.validateData(b)&&(b=this.convertDataToStr(b),this.pixels.push({type:"pageview",pageview_id:a,domain_id:c,t_epoch:this.tEpoch,data:b}))},FirePixels:function(){"undefined"!=typeof document.visibilityState&&"prerender"===document.visibilityState||(this.isDefined(this.pixels)&&this.pixels.length>0&&((new Image).src=this.pixelUrl+"?orig="+(__ez.template.isOrig===!0?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(a,b){return new EzoicPixelData(a,b)},convertDataToStr:function(a){if("undefined"==typeof a)return[];try{for(var b in a)a[b].val=a[b].val+""}catch(a){}return a},getSlotIID:function(a){var b=0;try{var c=a.getTargetingMap(),d=a.getSlotElementId();if(d.indexOf("div-gpt-ad")===-1)return b;if("undefined"!=typeof c)for(var e in c)if(e.indexOf("iid")!==-1&&"undefined"!=typeof c[e][0]){b=c[e][0];break}}catch(a){}return b},isDefined:function(){for(var a=0;a<arguments.length;a++)if("undefined"==typeof arguments[a]||null===arguments[a])return console.error("Argument not defined. ",arguments),!1;return!0},validateData:function(a){for(var b=0;b<a.length;b++)if(a[b]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",a[b]),!1;return!0}};</script>
+<script type="text/javascript">
+	var __banger_pmp_deals=[{"SlotName":"/1254144/bjjee_com-medrectangle-3","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800}]},{"SlotName":"/1254144/bjjee_com-box-1","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":21,"Floor":2000},{"DealId":22,"Floor":2500},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000},{"DealId":16,"Floor":1500}]},{"SlotName":"/1254144/bjjee_com-box-3","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000}]},{"SlotName":"/1254144/bjjee_com-box-2","Deals":[{"DealId":18,"Floor":25}]}];
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>
+function ez_isclean( data ) {
+    if (typeof data === 'undefined') { data = document.URL; }
+    var re = /(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))(@|%2540|%40)((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))/;
+    var isClean = !re.test(data);
+    return isClean;
+}
+
+var ez_queue = new Array();
+function sort_queue(a, b)
+{
+  if( a.priority < b.priority ) return -1;
+  else if( a.priority == b.priority ) return 0;
+  else return 1;
+}
+function execute_ez_queue()
+{
+  ez_queue.sort( sort_queue );
+
+  for( var i in ez_queue )
+  {
+        if(typeof ez_queue[i].method != "undefined")
+        {
+            try{
+                ez_queue[i].method.call( null );
+            }
+            catch (err) {
+
+            }
+        }
+  }
+}
+
+window.ez_ad_units = new Array();
+window.ezslots = new Array();
+function ez_write_tag(d) {
+    if(ez_isclean() && d instanceof Array) {
+
+		ez_ad_units[ez_ad_units.length] = d;
+        var ezcmd = "googletag.cmd.push(function() {var divid = 'div-gpt-ad-"+d[1]+"-0';if(typeof ezlrarn == 'function'){ezlrarn(divid);}googletag.display(divid);var to = 0;if("+d[2]+".getTargeting('ga')[0] == '0'){to = 500;console.log('"+d[2]+" - no google');}if(window.ezDisableInitialLoad==true){setTimeout(function(){googletag.pubads().refresh(["+d[2]+"])},to);}});";
+		return ezcmd;
+    }
+    else {
+        return "1+1";
+    }
+}
+function in_array(needle, haystack) {
+    var length = haystack.length;
+    for(var i = 0; i < length; i++) {
+        if(haystack[i] == needle) return true;
+    }
+    return false;
+}
+</script><script data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>var ezrpos = new Array();var ez_current_interval;var ez_current_load = 0;</script>
+<script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer src="//go.ezoic.net/porpoiseant/dall2.js" async></script>
+<script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer>
+function epbjsRefreshSlot(e){epbjs.que.push(function(){epbjs.requestBids({adUnitCodes:[e.getSlotElementId()],bidsBackHandler:function(){epbjs.setTargetingForGPTAsync([e.getSlotElementId()])}})})}var epbjs=epbjs||{};epbjs.bidderTimeout=2500,epbjs.useAdj=true,epbjs.que=epbjs.que||[],epbjs.ezdss=epbjs.ezdss||[],epbjs.ezobid=epbjs.ezobid||[],epbjs.que.push(function(){var e=[{code: 'div-gpt-ad-bjjee_com-medrectangle-3-0', sizes: [[300,250]], bids: [{bidder: 'defymedia', params: { placementId: '9929744' }},{bidder: 'sovrn', params: { tagid: '349980'}},{bidder: 'aol',params: { placement: '4308143', network: '10765.1' }},{bidder: 'criteo', params: { zoneId: '739917' }}] },{code: 'div-gpt-ad-bjjee_com-box-1-0', sizes: [[300,250]], bids: [{bidder: 'defymedia', params: { placementId: '9929744' }},{bidder: 'sovrn', params: { tagid: '349980'}},{bidder: 'aol',params: { placement: '4308143', network: '10765.1' }},{bidder: 'criteo', params: { zoneId: '739917' }}] },{code: 'div-gpt-ad-bjjee_com-box-3-0', sizes: [[728,90]], bids: [{bidder: 'defymedia', params: { placementId: '9929737' }},{bidder: 'sovrn', params: { tagid: '349982'}},{bidder: 'aol',params: { placement: '4308144', network: '10765.1' }},{bidder: 'criteo', params: { zoneId: '739924' }}] },{code: 'div-gpt-ad-bjjee_com-box-2-0', sizes: [[468,60]], bids: [{bidder: 'defymedia', params: { placementId: '9929739' }},{bidder: 'sovrn', params: { tagid: '349990'}},{bidder: 'criteo', params: { zoneId: '739923' }}] }];epbjs.addAdUnits(e);epbjs.aliasBidder('appnexus', 'defymedia');epbjs.SS={"aol":10028,"criteo":10050,"defymedia":10024,"sovrn":10017},epbjs.bidderSettings={defymedia: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.750000; var adj2 = adj1 * 1.400000; return adj2; }},sovrn: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.850000; var adj2 = adj1 * 1.400000; return adj2; }},aol: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.910000; var adj2 = adj1 * 1.400000; return adj2; }},criteo: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.720000; var adj2 = adj1 * 1.400000; return adj2; }},standard:{adserverTargeting:[{key:"hb_bidder",val:function(e){return e.bidderCode}},{key:"hb_adid",val:function(e){return e.adId}},{key:"hb_pb",val:function(e){var s=e.cpm;return 5>s?(Math.floor(100*s)/100).toFixed(2):(Math.floor(10*s)/10).toFixed(2)}},{key:"hb_ssid",val:function(e){return"ehb"==e.bidder?0:"undefined"!=typeof epbjs.SS[e.bidder]?epbjs.SS[e.bidder]:(console.error("epbjs: NO MATCH"),0)}}]}},epbjs.onEvent("bidWon",function(e){"ehb"==e.bidder?epbjs.ezdss[e.adUnitCode]=e.ss:"undefined"!=typeof epbjs.SS[e.bidder]?(epbjs.ezdss[e.adUnitCode]=epbjs.SS[e.bidder],1==epbjs.useAdj&&["sovrn","openx","pulsepoint","defymedia","aol","conversant","districtm","admedia","brealtime","sonobi","criteo"].indexOf(e.bidder)>-1&&(epbjs.ezobid[e.adUnitCode]=e.cpm/1.400000)):console.error("epbjs: NO MATCH")}),epbjs.requestBids({bidsBackHandler:function(e){epbjs.fastLoadAuctionEnd = true; epbjs.setTargetingForGPTAsync()}})});
+</script><script data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>window.isEZABL=false;window.ezmadspc=300;window.ezoViewCheck = false;</script><script data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>window.ezDisableInitialLoad=false;</script><script data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+
+
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer type='text/javascript'>
+googletag.cmd.push(function() {googletag.destroySlots();if(typeof window.isEZABL == 'undefined' || window.isEZABL != true) {ezslot_0 = googletag.defineSlot('/1254144/bjjee_com-medrectangle-3',[300,250],'div-gpt-ad-bjjee_com-medrectangle-3-0').addService(googletag.pubads()).setTargeting('iid4','393183').setTargeting('t','134').setTargeting('d','27044').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1159').setTargeting('sap','1159').setTargeting('a','|3|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod8').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('reft','n').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('rid','99998').setTargeting('pt','8').setTargeting('al','1021').setTargeting('compid','0').setTargeting('tap','bjjee_com-medrectangle-3-393183').setTargeting('bv','15').setCollapseEmptyDiv(false).setTargeting('br1','950').setTargeting('br2','450').setTargeting('ezoic','1').setTargeting('stl','2').setTargeting('deal1',[21,22,23,24,25,26,15,16]);ezslot_0.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','0000FF').set('adsense_text_color','000000').set('adsense_url_color','828282');ezrpos[0]="0";ezslot_1 = googletag.defineSlot('/1254144/bjjee_com-box-1',[300,250],'div-gpt-ad-bjjee_com-box-1-0').addService(googletag.pubads()).setTargeting('iid4','348333').setTargeting('t','134').setTargeting('d','27044').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1131').setTargeting('sap','1131').setTargeting('a','|124|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod8').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('reft','tf').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('rid','99998').setTargeting('pt','1').setTargeting('al','1000').setTargeting('compid','0').setTargeting('tap','bjjee_com-box-1-348333').setTargeting('bv','12').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','2500').setTargeting('br2','1300').setTargeting('ezoic','1').setTargeting('stl','34').setTargeting('deal1',[23,24,25,26]);ezslot_1.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','FF0000').set('adsense_text_color','000000').set('adsense_url_color','FF0000');ezrpos[1]="1";ezslot_2 = googletag.defineSlot('/1254144/bjjee_com-box-3',[728,90],'div-gpt-ad-bjjee_com-box-3-0').addService(googletag.pubads()).setTargeting('iid4','366033').setTargeting('t','134').setTargeting('d','27044').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1157').setTargeting('sap','1157').setTargeting('a','|6|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod8').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('reft','n').setTargeting('refs','120').setTargeting('ga','2497208').setTargeting('rid','99998').setTargeting('pt','2').setTargeting('al','1002').setTargeting('compid','0').setTargeting('tap','bjjee_com-box-3-366033').setTargeting('bv','15').setCollapseEmptyDiv(false).setTargeting('br1','1000').setTargeting('br2','500').setTargeting('ezoic','1').setTargeting('stl','25').setTargeting('deal1',[21,22,23,24,25,26,16]);ezslot_2.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','858585').set('adsense_text_color','000000').set('adsense_url_color','F0F0F0');ezrpos[2]="2";ezslot_3 = googletag.defineSlot('/1254144/bjjee_com-box-2',[468,60],'div-gpt-ad-bjjee_com-box-2-0').addService(googletag.pubads()).setTargeting('iid4','364083').setTargeting('t','134').setTargeting('d','27044').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1160').setTargeting('sap','1160').setTargeting('a','|2|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod8').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('reft','tf').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('rid','99998').setTargeting('pt','7').setTargeting('al','1001').setTargeting('compid','0').setTargeting('tap','bjjee_com-box-2-364083').setTargeting('bv','16').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','70').setTargeting('br2','30').setTargeting('ezoic','1').setTargeting('stl','26').setTargeting('deal1',[17,19,20,21,22,23,24,25,26,7,8,9,10,11,12,13,14,15,16]);ezslot_3.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','37a5d7').set('adsense_text_color','000000').set('adsense_url_color','F0F0F0');ezrpos[3]="3";}else{window.ezHideLocations=[];window.ezHideLocations.push('div-gpt-ad-bjjee_com-medrectangle-3-0');ezslot_1 = googletag.defineSlot('/1254144/bjjee_com-box-1',[300,250],'div-gpt-ad-bjjee_com-box-1-0').addService(googletag.pubads()).setTargeting('iid4','348333').setTargeting('t','134').setTargeting('d','27044').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1131').setTargeting('sap','1131').setTargeting('a','|124|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod8').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('reft','tf').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('rid','99998').setTargeting('pt','1').setTargeting('al','1000').setTargeting('compid','0').setTargeting('tap','bjjee_com-box-1-348333').setTargeting('bv','12').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','2500').setTargeting('br2','1300').setTargeting('ezoic','1').setTargeting('stl','34').setTargeting('deal1',[23,24,25,26]);ezslot_1.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','FF0000').set('adsense_text_color','000000').set('adsense_url_color','FF0000');ezrpos[1]="1";window.ezHideLocations.push('div-gpt-ad-bjjee_com-box-3-0');ezslot_3 = googletag.defineSlot('/1254144/bjjee_com-box-2',[468,60],'div-gpt-ad-bjjee_com-box-2-0').addService(googletag.pubads()).setTargeting('iid4','364083').setTargeting('t','134').setTargeting('d','27044').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1160').setTargeting('sap','1160').setTargeting('a','|2|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod8').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('reft','tf').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('rid','99998').setTargeting('pt','7').setTargeting('al','1001').setTargeting('compid','0').setTargeting('tap','bjjee_com-box-2-364083').setTargeting('bv','16').setTargeting('acptad','1').setCollapseEmptyDiv(false).setTargeting('br1','70').setTargeting('br2','30').setTargeting('ezoic','1').setTargeting('stl','26').setTargeting('deal1',[17,19,20,21,22,23,24,25,26,7,8,9,10,11,12,13,14,15,16]);ezslot_3.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_link_color','37a5d7').set('adsense_text_color','000000').set('adsense_url_color','F0F0F0');ezrpos[3]="3";}googletag.pubads().addEventListener('slotRenderEnded', function(event) { __ez.queue.addFunc("ezbanger", "ezbanger", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('impressionViewable', function(event) { __ez.queue.addFunc("ezvb", "ezvb", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('slotVisibilityChanged', function(event) { __ez.queue.addFunc("ezvbc", "ezvbc", event, false, ['banger.js'], true, true, false, true); });googletag.enableServices();});if(typeof window.isEZABL == 'undefined' || window.isEZABL != true) {ezslots.push("ezslot_0");ezslots.push("ezslot_1");ezslots.push("ezslot_2");ezslots.push("ezslot_3");}else{ezslots.push("ezslot_1");ezslots.push("ezslot_3");}</script>
+<script>(function(){function a(g,h,i){var j=new Date;j.setTime(j.getTime()+1e3*(60*(60*(24*i))));var k="expires="+j.toUTCString(),l=g+"="+h+";"+k+";path=/;";"undefined"!=typeof ezdomain&&(l+="domain="+ezdomain),document.cookie=l}var b=window.addEventListener?"addEventListener":"attachEvent",c=window[b],f="attachEvent"==b?"onmessage":"message";c(f,function(g){"undefined"!=typeof g.data.ezstatus&&(__ez.bit.AddAndFire(_ezaq.page_view_id,[new __ezDotData("dg",g.data.ezstatus)]),a("ezdg",g.data.ezstatus,730))})})();</script>
+<script type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":1,"ad_location_ids":"21,0,2,1","adx_ad_count":4,"bidder_version":3,"city":"","country":"US","days_since_last_visit":-1,"display_ad_count":4,"domain_id":27044,"ds_adsize_opt_id":-1,"engaged_time_visit":0,"ezcache_level":0,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"has_bad_words":0,"iab_category":"","is_bot":0,"is_return_visitor":false,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"max_ads":9,"metro_code":0,"page_ad_positions":"1131,1157,1159,1160","page_view_count":0,"page_view_id":"728cf3e7-b2d0-449f-6aa5-65c5fbf6daf9","pv_event_count":0,"response_time_orig":677,"serverid":"54.169.253.186:13099","sub_page_ad_positions":"1131,1157,1159,1160","t_epoch":1509094904,"template_id":134,"time_on_site_visit":0,"url":"https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/","user_id":297985989,"weather_precipitation":0,"weather_summary":"","weather_temperature":0,"word_count":1128};var _ezim_d = {"bjjee_com-box-1":{"adx_ad_count":4,"full_id":"bjjee_com-box-1/2017-10-27/348333","height":"250","position_id":1131,"sub_position_id":1131,"width":"300"},"bjjee_com-box-2":{"adx_ad_count":4,"full_id":"bjjee_com-box-2/2017-10-27/364083","height":"60","position_id":1160,"sub_position_id":1160,"width":"468"},"bjjee_com-box-3":{"adx_ad_count":4,"full_id":"bjjee_com-box-3/2017-10-27/366033","height":"90","position_id":1157,"sub_position_id":1157,"width":"728"},"bjjee_com-medrectangle-3":{"adx_ad_count":4,"full_id":"bjjee_com-medrectangle-3/2017-10-27/393183","height":"250","position_id":1159,"sub_position_id":1159,"width":"300"}};var _ezat = {"domain_id":27044,"form_factor_id":1,"framework_id":1,"pageview_date":"2017-10-27","pageview_id":"728cf3e7-b2d0-449f-6aa5-65c5fbf6daf9","template_id":134,"url":"https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/","visit_uuid":"2bc658ca-b60b-467e-7610-080568a87dcc"};</script><script data-cfasync='false' type="text/javascript" src="/detroitchicago/rochester.js?cb=171-0&v=8" async></script><script data-pagespeed-no-defer data-cfasync='false' type="text/javascript">__ez.queue.addFile('banger.js', '/porpoiseant/banger.js?cb=171-0&bv=2&v=21&PageSpeed=off', true, [], true, false, false, true);</script><script data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = "ezux_lpl_27044=" + new Date().getTime() + "|728cf3e7-b2d0-449f-6aa5-65c5fbf6daf9; " + expires;
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script>
+      <!-- Basic Page Needs
+  	  ================================================== -->
+	
+    
+             <!-- Mobile Specific Metas
+  		================================================== -->
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        
+        <!-- Favicons
+        ================================================== -->
+                
+                    <link rel="shortcut icon" href="https://www.bjjee.com/wp-content/uploads/2014/02/favicon.png">
+                
+    
+
+<meta property="og:image" content="https://www.bjjee.com/wp-content/uploads/2017/10/wing.jpg">
+<!-- This site is optimized with the Yoast SEO plugin v5.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge</title>
+<link rel="canonical" href="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge">
+<meta property="og:description" content="&nbsp; &nbsp; The clash of styles has been an intriguing phenomenon throughout the times. The latest to surface is a wing chun kung fu vs brazilian jiu jitsu as performed by a local blue belt. Wing Chun&nbsp;is a style of&nbsp;Kung Fu&nbsp;that originates from China, the martial art was later refined in Hong Kong by the …">
+<meta property="og:url" content="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/">
+<meta property="og:site_name" content="Bjj Eastern Europe">
+<meta property="article:section" content="Articles">
+<meta property="article:published_time" content="2017-10-21T07:26:26+00:00">
+<meta property="article:modified_time" content="2017-10-21T22:02:35+00:00">
+<meta property="og:updated_time" content="2017-10-21T22:02:35+00:00">
+<meta property="og:image" content="https://www.bjjee.com/wp-content/uploads/2017/10/wing.jpg">
+<meta property="og:image:secure_url" content="https://www.bjjee.com/wp-content/uploads/2017/10/wing.jpg">
+<meta property="og:image:width" content="720">
+<meta property="og:image:height" content="452">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="&nbsp; &nbsp; The clash of styles has been an intriguing phenomenon throughout the times. The latest to surface is a wing chun kung fu vs brazilian jiu jitsu as performed by a local blue belt. Wing Chun&nbsp;is a style of&nbsp;Kung Fu&nbsp;that originates from China, the martial art was later refined in Hong Kong by the […]">
+<meta name="twitter:title" content="Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge">
+<meta name="twitter:image" content="https://www.bjjee.com/wp-content/uploads/2017/10/wing.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.bjjee.com\/","name":"Bjj Eastern Europe","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.bjjee.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Bjj Eastern Europe » Feed" href="https://www.bjjee.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bjj Eastern Europe » Comments Feed" href="https://www.bjjee.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bjjee.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="aqpb-view-css-css" href="https://www.bjjee.com/wp-content/themes/megnet/inc/functions/aqua-page-builder-master/assets/css/aqpb-view.css?ver=1509094904" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.bjjee.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="usp_style-css" href="https://www.bjjee.com/wp-content/plugins/user-submitted-posts/resources/usp.css" type="text/css" media="all">
+<link rel="stylesheet" id="base-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/base.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="grid-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/amazium.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://www.bjjee.com/wp-content/themes/megnet/style.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="shortcode-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/shortcode.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="nivoslider-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/nivo-slider.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="flex-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/flexslider.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="awesome-font-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/font-awesome.min.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/mediaelementplayer.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="carousel-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/skin.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="layout-css" href="https://www.bjjee.com/wp-content/themes/megnet/css/layout.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="https://www.bjjee.com/wp-content/themes/megnet/custom.php?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="advanced-responsive-video-embedder-css" href="https://www.bjjee.com/wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.css?ver=8.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="background-manager-pub-css" href="https://www.bjjee.com/wp-content/plugins/background-manager/resources/css/pub.css?ver=1.2.5.2" type="text/css" media="all">
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type="text/javascript">/* <![CDATA[ */window.background_manager_ajax={"url":"https:\/\/www.bjjee.com\/wp-admin\/admin-ajax.php","action":"background-manager"};/* ]]> */</script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/user-submitted-posts/resources/jquery.cookie.js'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/user-submitted-posts/resources/jquery.parsley.min.js'></script>
+<script type='text/javascript'>
+window.ParsleyConfig = { excluded: ".exclude" }; var usp_case_sensitivity = "false"; var usp_challenge_response = "2";
+</script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/user-submitted-posts/resources/jquery.usp.core.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myatu_bgm = {"current_background":{"id":40727,"url":"https:\/\/www.bjjee.com\/wp-content\/uploads\/2016\/12\/iva2.png","alt":"http:\/\/doordie.com\/","desc":"<p>http:\/\/doordie.com\/<\/p>\n","caption":"iva2","link":"https:\/\/goo.gl\/jbN9um","thumb":"https:\/\/www.bjjee.com\/wp-content\/uploads\/2016\/12\/iva2-150x150.png","bg_link":"https:\/\/goo.gl\/jbN9um","transition":"crossfade","transition_speed":0},"change_freq":"0","active_gallery":"20832","is_fullsize":"false","is_preview":"false","initial_ease_in":"true","info_tab_thumb":"true","bg_click_new_window":"true","bg_track_clicks":"true","bg_track_clicks_category":"Background","display_on_mobile":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/background-manager/resources/js/functions.js?ver=1.2.5.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/background-manager/resources/js/flux.js?ver=1.2.5.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/background-manager/resources/js/pub.js?ver=1.2.5.2'></script>
+<link rel="https://api.w.org/" href="https://www.bjjee.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bjjee.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bjjee.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.bjjee.com/?p=48055">
+<link rel="alternate" type="application/json+oembed" href="https://www.bjjee.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bjjee.com%2Farticles%2Fwing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.bjjee.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bjjee.com%2Farticles%2Fwing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge%2F&amp;format=xml">
+<!--[if IE 7]><link rel="stylesheet" href="https://www.bjjee.com/wp-content/themes/megnet/css/font-awesome-ie7.min.css" media="screen"><![endif]-->
+    <!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <style type="text/css" media="screen">body.myatu_bgm_body { background-image: url('https://www.bjjee.com/wp-content/uploads/2016/12/iva2.png') !important;background-position: top center !important;background-repeat: no-repeat !important;background-attachment: fixed !important;background-color: transparent !important; } </style>
+  
+
+
+<meta name="description" content="Bjj Eastern Europe is a News Site focusing on grappling news from around the world and eastern europe. We strive to bring you daily updated content both original and from trusted sources.">
+<link href="https://fonts.googleapis.com/css?family=Roboto:900,700,400" rel="stylesheet" type="text/css">
+<style>.ezoic-ad.medrectangle-3 { display:inline-block;float:right !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;min-width:300px; }
+.ezoic-ad.box-1 { display:block !important;float:none !important;margin-bottom:15px !important;margin-left:10px !important;margin-right:0px !important;margin-top:15px !important;min-height:270px;min-width:300px;text-align:center !important; }
+.ezoic-ad.box-3 { display:inline-block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px; }
+.ezoic-ad.box-2 { display:block !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:80px;min-width:468px;text-align:center !important; }
+.ezoic-ad{display:inline-block;}
+.ezoic-floating-bottom { display: none!important; }</style>
+<script data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-72876500-45";</script>
+<script data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-72876500-45']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'bjjee.com']);
+_gaq.push(['f._setDomainName', 'bjjee.com']);
+_gaq.push(['e._setCustomVar',1,'template','pub_site',3]);
+_gaq.push(['e._setCustomVar',2,'t','134',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod8',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','pub_site',3]);
+_gaq.push(['f._setCustomVar',2,'domain','bjjee.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "297985989";</script><base href="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/"><script type='text/javascript'>
+var ezoTemplate = 'pub_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script>
+
+<!-- START EZHEAD -->
+<script type='text/javascript'>
+var soc_app_id = '0';
+var did = 27044;
+var ezdomain = 'bjjee.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+
+<script data-pagespeed-no-defer data-cfasync='false' type='text/javascript' style='display:none'>
+__ez.queue.addFile('__ezf_ezosuigeneris', '//g.ezoic.net/ezosuigeneris.js', true, [], true, false, false, false);
+var __ez_ezosuigenerisEvt = function() { __ez.bit.AddAndFire(_ezaq['page_view_id'], [(new __ezDotData('universal_user_id', ezosuigeneris))]); };
+__ez.queue.addFunc('__ez_ezosuigenerisEvt', '__ez_ezosuigenerisEvt', null, false, ['__ezf_ezosuigeneris'], false, false, false, false);</script><script data-pagespeed-no-defer data-cfasync='false' type='text/javascript' style='display:none'>__ez.queue.addFile('__ezf_ezosuigenerisc', '//g.ezoic.net/ezosuigenerisc.js?nogen=1', true, [], true, false, false, false);</script></head>    	
+
+<!-- end head -->
+
+<body data-rsssl="1" class="post-template-default single single-post postid-48055 single-format-standard myatu_bgm_body" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div class="body_wraper_box">      
+<!-- Start header -->
+<header class="header-wraper">
+
+<div class="header-top-wraper">
+<div class="row">
+<div class="grid_6 header-top-left-bar">
+<span class="blank_space">.</span>
+  </div>
+
+<div class="grid_6 header-top-right-bar">
+	                              <div class="search-button-menu"><span id="tickersearch"><i class="icon-search"></i></span>
+                                    <form id="tickersearchform" action="https://www.bjjee.com" method="GET" role="search">
+                                        <div><label for="s" class="screen-reader-text">Search for:</label>
+                                            <input type="text" id="s" name="s" value="" placeholder="Search here">
+                                        </div>
+                                    </form>
+
+                              </div>                              
+							      
+    <ul class="icon-wrapper">
+          <li class="icon-lists"><a href="https://www.facebook.com/Brazilian.Jiu.jitsu.Eastern.Europe"><span class="icons-facebook"></span></a></li>
+               <li class="icon-lists"><a href="https://twitter.com/BJJEasternEurop"><span class="icons-twitter"></span></a></li>
+                                   <li class="icon-lists"><a href="http://www.youtube.com/user/Gile23"><span class="icons-youtube"></span></a></li>
+                 
+                               
+      
+      
+      
+      
+       
+                            
+                      
+            
+            
+            
+            
+            
+            
+            
+            
+                                     
+            
+            
+            
+            
+            
+            
+            
+            
+                  
+     </ul>
+     <span class="blank_space">.</span>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+        <div class="row">
+	<div class="grid_3 header-top-left">
+    
+      <!-- begin logo -->
+                            
+                            <h4>
+                                <a href="https://www.bjjee.com" alt="Bjj Grappling Community of central and Eastern Europe">
+                                                                           
+                                        <img src="https://www.bjjee.com/wp-content/uploads/2014/02/bjjeasterneuropelogo.png" alt="Bjj Grappling Community of central and Eastern Europe">
+                                                                    </a>
+                            </h4>
+                                                        <!-- end logo -->
+  <span class="blank_space">.</span>
+    </div>
+    	<div class="grid_9 header-top-right">  
+  		<div class="widget">
+			<div class="ads728x90-thumb">
+				<a href="http://doordie.com/" target="_blank">
+					<img src="https://www.bjjee.com/wp-content/uploads/2016/12/hyperfly.png" alt="">
+				</a>
+			</div> 	
+		</div> 
+		    </div>
+        
+</div>
+                
+<!-- end header, logo, top ads -->
+
+              
+<!-- Start Main menu -->
+<div id="menu_wrapper" class="menu_wrapper menu_wrapper_sticky">
+<div class="row">
+	<div class="main_menu grid_12"> 
+
+                            <!-- main menu -->
+                            <div class="mainmenu">
+                            
+                                
+
+                                                                    <ul class="sf-menu" id="mainmenu"><li id="home"><a href="https://www.bjjee.com" alt="Bjj Grappling Community of central and Eastern Europe"><span id="homeicon">Home</span><i class="icon-home"></i></a></li><li id="menu-item-528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-528"><a href="https://www.bjjee.com/category/regional-bjj-news/"><span>News</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-807"><a href="https://www.bjjee.com/category/bjj-news/"><span>BJJ News</span></a></li>
+	<li id="menu-item-523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-523"><a href="https://www.bjjee.com/category/regional-bjj-news/"><span>Regional BJJ News</span></a></li>
+	<li id="menu-item-527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-527"><a href="https://www.bjjee.com/category/competition-preview/"><span>Competition Preview</span></a></li>
+	<li id="menu-item-522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-522"><a href="https://www.bjjee.com/category/competitions-tournaments/"><span>Competitions/Tournaments</span></a></li>
+	<li id="menu-item-524" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-524"><a href="https://www.bjjee.com/category/seminar/"><span>Seminar</span></a></li>
+</ul>
+</li>
+<li id="menu-item-529" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-529"><a href="https://www.bjjee.com/category/articles/"><span>Bjj Articles</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-519" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-519"><a href="https://www.bjjee.com/category/articles/"><span>Articles</span></a></li>
+	<li id="menu-item-518" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-518"><a href="https://www.bjjee.com/category/interview/"><span>Interview</span></a></li>
+	<li id="menu-item-525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-525"><a href="https://www.bjjee.com/category/gear-review/"><span>Gear review</span></a></li>
+	<li id="menu-item-526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-526"><a href="https://www.bjjee.com/category/nutrition/"><span>Nutrition</span></a></li>
+	<li id="menu-item-804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-804"><a href="https://www.bjjee.com/category/health/"><span>Health</span></a></li>
+	<li id="menu-item-3313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3313"><a href="https://www.bjjee.com/category/strength-conditioning/"><span>Strength &amp; Conditioning</span></a></li>
+	<li id="menu-item-530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-530"><a href="https://www.bjjee.com/category/training-report/"><span>Training report</span></a></li>
+</ul>
+</li>
+<li id="menu-item-23256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23256"><a target="_blank" href="http://watchbjj.com/"><span>VIDEOS</span></a></li>
+<li id="menu-item-517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-517"><a href="https://www.bjjee.com/belt-rankings/"><span>Belt Rankings</span></a></li>
+<li id="menu-item-12142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12142"><a href="https://www.bjjee.com/contact/"><span>Contact</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-14161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14161"><a href="https://www.bjjee.com/contact/"><span>Contact us</span></a></li>
+	<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://www.bjjee.com/about/"><span>About</span></a></li>
+</ul>
+</li>
+<li id="menu-item-40177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40177"><a href="https://www.bjjee.com/contact/contribute-an-article/"><span>Contribute An Article</span></a></li>
+</ul>                                                                <!-- end menu -->
+                            </div>
+                            <!-- end main menu -->
+                             <!-- marcus search was here -->                              
+                            
+                        </div>
+                                           
+                    </div>   
+                    </div>
+					<div class="ads_clear">
+			</div>
+
+  	<div style="margin-top: 10px;margin-left: 20px;">  
+      </div>
+    
+<div class="secondbanner-right">
+  </div>
+
+<div class="secondbanner-left">
+  	<div>  
+  		<div class="widget">
+			<div class="ads728x90-thumb">
+				<a href="https://www.gallerr.com/academy?utm_campaign=banner_bjjee&amp;utm_source=bjjee&amp;utm_medium=banner_ads" target="_blank">
+					<img src="https://www.bjjee.com/wp-content/uploads/2017/06/667X90_Renzo2.jpg" alt="">
+				</a>
+			</div> 	
+		</div> 
+		    </div>
+    </div>
+
+<!-- Marcus<div class="menue-ads">
+</div>-->
+
+
+<!-- Ezoic Ad Testing Code-->
+
+<!-- Ezoic Ad Testing Code-->
+            </header>
+<!-- begin content -->            
+<section id="contents" class="clearfix">
+<div class="row main_content">
+
+<div class="container content_wraper">
+<ul class="breadcrumbs"><li><a href="https://www.bjjee.com">Home</a> <i class="icon-caret-right"></i></li><li><a href="https://www.bjjee.com/category/articles/" rel="category tag">Articles</a> <i class="icon-caret-right"></i></li><li>Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge</li></ul><span id='ezoic-pub-ad-placeholder-'null" class="ezoic-adpicker-ad"></span><!-- placeholder  blocked.  Reason : inactive -->        <span id='ezoic-pub-ad-placeholder-148' class="ezoic-adpicker-ad"></span><!-- placeholder 148 blocked.  Reason : no sizes --><div class="grid_8">
+         <div class="widget_container content_page"> 
+         
+                                            <!-- start post -->
+                    <div class="post-48055 post type-post status-publish format-standard has-post-thumbnail hentry category-articles" id="post-48055" itemscope="" itemtype="http://schema.org/Review">
+                                    
+                        <div class="code-block code-block-3" style="margin: 8px 0; clear: both;">
+<!-- Ezoic - top_of_page 140 - top_of_page -->
+<span id='ezoic-pub-ad-placeholder-160' class="ezoic-adpicker-ad"></span><span style='display:none !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:80px;min-width:468px;text-align:center !important;' class='ezoic-ad box-2 adtester-container adtester-container-160' data-ez-name='bjjee_com-box-2'><span id='div-gpt-ad-bjjee_com-box-2-0' ezaw='468' ezah='60' style='position:relative;z-index:0;display:none;' class='ezoic-ad'><!--script-placeholder--></span></span><script>var ezzns1 = {10.50:512978,5.00:505293,0.50:504909,1.60:505280,0.35:504906,1.30:505277,9.50:512973,0.20:504903,1.00:505274,12.00:512984,14.00:512993,2.00:505284,7.00:512964,2.20:505285,0.30:504905,8.00:512967,6.00:512960,8.50:512970,1.20:505276,2.60:505287,3.00:505289,12.50:512987,15.00:512996,7.50:512965,0.15:504902,0.40:504907,0.70:504911,0.60:504910,2.80:505288,6.50:512962,11.00:512980,0.05:504900,14.50:512995,0.25:504904,0.80:504912,1.70:505281,5.50:512958,11.50:512981,2.40:505286,0.10:504901,1.40:505278,10.00:512975,1.50:505279,1.80:505282,13.50:512991,4.00:505291,0.90:504913,1.10:505275,4.50:505292,1.90:505283,9.00:512971,3.50:505290,0.45:504908,13.00:512989,};</script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" ></script>
+<div class="ezflad-47" style="display:inline-block" adunitname="bjjee_com-box-2" id="crt-1">
+<script type="text/javascript">
+var ezoflbf_2_1 = function() { __ez.queue.addFunc('ReloadFromP_1160', 'IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.ReloadFromP', 1160, false, ['banger.js'], false, false, false, true); };
+var ezoflbf_1 = function() { eval(ez_write_tag([[468,60],'bjjee_com-box-2','ezslot_3']));
+		};</script><script type="text/javascript">Criteo.DisplayAd({
+    zoneid: 504909, containerid: 'crt-1', passbackcode: ezoflbf_1
+});
+</script></div>
+<script type='text/javascript'>
+	var __ezfl_sss_1160 = function() {
+		setTimeout(function(){
+			var ezflaun = IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.GetNameFromPositionId(1160);
+			if (typeof ezflaun != 'undefined' && ezflaun.length > 0) {
+				if (typeof ez_ad_units != undefined) {
+					for (i = 0; i < ez_ad_units.length; i++) {
+						if (ezflaun.indexOf(ez_ad_units[i][1]) >= 0) {
+							return false;
+						}
+					}
+				}
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.StoreStatSource(ezflaun, 47, 0.50);
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.RemoveSlotById(ezflaun);
+			}
+		}, 4000);
+	};
+	__ez.queue.addFunc('__ezfl_sss_1160', '__ezfl_sss_1160', null, false, ['banger.js'], false, false, false, true);
+</script><!--ezoicfl--><span id='ezoic-pub-ad-placeholder-140'></span><!-- placeholder 140 blocked.  Reason : no sizes -->
+<!-- End Ezoic - top_of_page 140 - top_of_page --></div>
+<div class="code-block code-block-13" style="margin: 8px 0; clear: both;">
+<!-- Ezoic - top_of_page 158 - top_of_page -->
+<span id='ezoic-pub-ad-placeholder-158'></span><!-- placeholder 158 blocked.  Reason : inactive -->
+<!-- End Ezoic - top_of_page 158 - top_of_page --></div>
+                                
+                                   <h2 itemprop="name" class="entry-title post-title">Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge</h2>
+                                [post-views]<p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 21, 2017</span><span class="vcard author meta-user"><span class="fn"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span></span><span class="meta-cat"><i class="icon-book"></i><a href="https://www.bjjee.com/category/articles/" rel="category tag">Articles</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge</span></span></span></p>                               <hr class="none">
+                               
+                                                             
+                                                            <img src="https://www.bjjee.com/wp-content/uploads/2017/10/wing.jpg" alt="Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge">
+                                                             
+                                <div class="post_content"><div class="code-block code-block-12" style="margin: 8px 0; clear: both;">
+<!-- Ezoic - under_page_title 157 - under_page_title -->
+<span id='ezoic-pub-ad-placeholder-157'></span><style type="text/css" >
+#sda_1496 {
+width : 728px;
+clear : both;
+display : block;
+text-align : left;
+margin-top : 10px;
+margin-bottom : 10px;
+position : relative;
+font-family : Arial, Helvetica, sans-serif;
+text-align : left;
+line-height : 1em;
+}
+#sda_1496  .sda_container {
+width : 150px;
+display : inline-block;
+vertical-align : top;
+margin-right : 1%;
+}
+#sda_1496 .sda_title_wrapper .sda_title {
+font-size : 13px;
+margin : 0;
+border : none;
+text-align : left;
+vertical-align : middle;
+overflow-wrap : break-word;
+width : auto;
+font-weight : bold;
+padding : 0;
+font-size : 13px;
+line-height : 1.35em;
+color : #000;
+}
+#sda_1496 .sda_container:hover .sda_title_wrapper .sda_title {
+text-decoration : underline;
+}
+#sda_1496 .sda_container a {
+display : block;
+text-decoration : none;
+}
+#sda_1496 .sda_referrer {
+font-size : 0.714em;
+font-weight : normal;
+font-style : italic;
+color : #888;
+overflow-wrap : break-word;
+line-height : 150%;
+}
+#sda_1496 .sda_image_link img {
+width:150px;
+height:150px;
+}
+</style>
+<div id="sda_1496" style="display:none"></div>
+<script>
+	function _jsonp_1496(obj) {
+		        var obj_sda = obj.articles;
+		        var sda_html = "";
+		        for(i=0; i < obj_sda.length; i++) {
+		            sda_html = sda_html +
+		            "<div class='sda_container'>" +
+		            "<a class='sda_image_link' rel='nofollow' href='" + obj_sda[i].url + "'>" +
+		            "<im" + "g src='" + obj_sda[i].image + "' class='sda_image'>" +
+		            "</a>" +
+		            "<div class='sda_title_wrapper'>" +
+		            "<a class='sda_title' rel='nofollow' href='" + obj_sda[i].url + "'>" +
+		            obj_sda[i].title +
+		            "</a>" +
+		            "<div class='sda_referrer'>" + obj_sda[i].sponsored_by + "</div>" +
+		            "</div>" +
+		            "</div>";
+		        }
+				document.getElementById("sda_1496").style.display = "block";
+		        document.getElementById("sda_1496").innerHTML = sda_html;
+		    }
+			function _load_1496() {
+				var xhrq_1496 = new XMLHttpRequest();
+			    xhrq_1496.open("GET", "/ez_aba_load/?aba_id=1496&aba_wid=F48F9B0E-342B-42E2-B92E-9833C33FA188&aba_did=YmpqZWUuZXpvaWMuY29t", true);
+			    xhrq_1496.onload = function (e) {
+				  if (xhrq_1496.readyState === 4) {
+				    if (xhrq_1496.status === 200) {
+				       eval(xhrq_1496.responseText);
+				    }
+				  }
+				};
+			    xhrq_1496.send(null);
+			}
+
+			if (typeof ez_cra_check === 'undefined') {
+
+				if (typeof loadbvjhghf === 'undefined') {
+					var xhr_1496 = new XMLHttpRequest();
+				    xhr_1496.open("GET", "/ezoic/prebid-ad-728x90.js", true);
+					xhr_1496.onload = function (e) {
+						if(xhr_1496.responseText == ""){
+		                    var loadbvjhghf = true;
+		                    _load_1496();
+		                } else {
+		                    eval(xhr_1496.responseText);
+		                }
+					};
+					xhr_1496.onerror = function (e) {
+					  var loadbvjhghf = true;
+					  _load_1496();
+					};
+					xhr_1496.send(null);
+				}
+				else {
+					_load_1496();
+				}
+			}
+		</script><span style='display:none;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px;' class='ezoic-ad box-3 adtester-container adtester-container-157' data-ez-name='bjjee_com-box-3'><span id='div-gpt-ad-bjjee_com-box-3-0' ezaw='728' ezah='90' style='position:relative;z-index:0;display:none;' class='ezoic-ad'><!--script-placeholder--></span></span><script>var ezzns2 = {0.05:504692,0.30:504697,1.40:504710,1.70:504713,4.00:504725,4.50:504726,0.90:504705,1.30:504709,1.80:504714,5.00:504727,0.10:504693,0.45:504700,1.50:504711,2.60:504720,0.35:504698,1.00:504706,1.20:504708,2.20:504718,0.40:504699,0.50:504701,0.70:504703,1.90:504715,2.40:504719,3.00:504722,0.15:504694,0.60:504702,2.00:504716,2.80:504721,1.60:504712,0.20:504695,0.25:504696,0.80:504704,1.10:504707,3.50:504724,};</script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" ></script>
+<div class="ezflad-47" style="display:inline-block" adunitname="bjjee_com-box-3" id="crt-2">
+<script type="text/javascript">
+var ezoflbf_2_2 = function() { __ez.queue.addFunc('ReloadFromP_1157', 'IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.ReloadFromP', 1157, false, ['banger.js'], false, false, false, true); };
+var ezoflbf_2 = function() { eval(ez_write_tag([[728,90],'bjjee_com-box-3','ezslot_2']));
+		};</script><script type="text/javascript">ezoflbf_2();
+</script></div>
+<script type='text/javascript'>
+	var __ezfl_sss_1157 = function() {
+		setTimeout(function(){
+			var ezflaun = IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.GetNameFromPositionId(1157);
+			if (typeof ezflaun != 'undefined' && ezflaun.length > 0) {
+				if (typeof ez_ad_units != undefined) {
+					for (i = 0; i < ez_ad_units.length; i++) {
+						if (ezflaun.indexOf(ez_ad_units[i][1]) >= 0) {
+							return false;
+						}
+					}
+				}
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.StoreStatSource(ezflaun, 47, 7.00);
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.RemoveSlotById(ezflaun);
+			}
+		}, 4000);
+	};
+	__ez.queue.addFunc('__ezfl_sss_1157', '__ezfl_sss_1157', null, false, ['banger.js'], false, false, false, true);
+</script><!--ezoicfl-->
+<!-- End Ezoic - under_page_title 157 - under_page_title --></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The clash of styles has been an intriguing phenomenon throughout the times. The latest to surface is a wing chun kung fu vs brazilian jiu jitsu as performed by a local blue belt.</p>
+<p><b>Wing Chun</b>&nbsp;is a style of&nbsp;<b>Kung Fu</b>&nbsp;that originates from China, the martial art was later refined in Hong Kong by the late Ip Man. … Due to its effectiveness this martial art makes for an effective form of self defense.</p><div class="code-block code-block-6" style="margin: 8px 0; clear: both;">
+<!-- Ezoic - under_first_paragraph 159 - under_first_paragraph -->
+<span id='ezoic-pub-ad-placeholder-159'></span><style type="text/css" >
+#sda_1493 {
+width : 310px;
+clear : both;
+display : block;
+text-align : left;
+margin-top : 10px;
+margin-bottom : 10px;
+position : relative;
+font-family : Arial, Helvetica, sans-serif;
+text-align : left;
+line-height : 1em;
+}
+#sda_1493  .sda_container {
+width : 150px;
+display : inline-block;
+vertical-align : top;
+margin-right : 1%;
+}
+#sda_1493 .sda_title_wrapper .sda_title {
+font-size : 13px;
+margin : 0;
+border : none;
+text-align : left;
+vertical-align : middle;
+overflow-wrap : break-word;
+width : auto;
+font-weight : bold;
+padding : 0;
+font-size : 13px;
+line-height : 1.35em;
+color : #000;
+}
+#sda_1493 .sda_container:hover .sda_title_wrapper .sda_title {
+text-decoration : underline;
+}
+#sda_1493 .sda_container a {
+display : block;
+text-decoration : none;
+}
+#sda_1493 .sda_referrer {
+font-size : 0.714em;
+font-weight : normal;
+font-style : italic;
+color : #888;
+overflow-wrap : break-word;
+line-height : 150%;
+}
+#sda_1493 .sda_image_link img {
+width:150px;
+height:150px;
+}
+</style>
+<div id="sda_1493" style="display:none"></div>
+<script>
+	function _jsonp_1493(obj) {
+		        var obj_sda = obj.articles;
+		        var sda_html = "";
+		        for(i=0; i < obj_sda.length; i++) {
+		            sda_html = sda_html +
+		            "<div class='sda_container'>" +
+		            "<a class='sda_image_link' rel='nofollow' href='" + obj_sda[i].url + "'>" +
+		            "<im" + "g src='" + obj_sda[i].image + "' class='sda_image'>" +
+		            "</a>" +
+		            "<div class='sda_title_wrapper'>" +
+		            "<a class='sda_title' rel='nofollow' href='" + obj_sda[i].url + "'>" +
+		            obj_sda[i].title +
+		            "</a>" +
+		            "<div class='sda_referrer'>" + obj_sda[i].sponsored_by + "</div>" +
+		            "</div>" +
+		            "</div>";
+		        }
+				document.getElementById("sda_1493").style.display = "block";
+		        document.getElementById("sda_1493").innerHTML = sda_html;
+		    }
+			function _load_1493() {
+				var xhrq_1493 = new XMLHttpRequest();
+			    xhrq_1493.open("GET", "/ez_aba_load/?aba_id=1493&aba_wid=B7AF442B-4F6F-4BB8-A3F5-F016DC0011A2&aba_did=YmpqZWUuZXpvaWMuY29t", true);
+			    xhrq_1493.onload = function (e) {
+				  if (xhrq_1493.readyState === 4) {
+				    if (xhrq_1493.status === 200) {
+				       eval(xhrq_1493.responseText);
+				    }
+				  }
+				};
+			    xhrq_1493.send(null);
+			}
+
+			if (typeof ez_cra_check === 'undefined') {
+
+				if (typeof loadbvjhghf === 'undefined') {
+					var xhr_1493 = new XMLHttpRequest();
+				    xhr_1493.open("GET", "/ezoic/prebid-ad-728x90.js", true);
+					xhr_1493.onload = function (e) {
+						if(xhr_1493.responseText == ""){
+		                    var loadbvjhghf = true;
+		                    _load_1493();
+		                } else {
+		                    eval(xhr_1493.responseText);
+		                }
+					};
+					xhr_1493.onerror = function (e) {
+					  var loadbvjhghf = true;
+					  _load_1493();
+					};
+					xhr_1493.send(null);
+				}
+				else {
+					_load_1493();
+				}
+			}
+		</script><span style='display:none;float:right !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;min-width:300px;' class='ezoic-ad medrectangle-3 adtester-container adtester-container-159' data-ez-name='bjjee_com-medrectangle-3'><span id='div-gpt-ad-bjjee_com-medrectangle-3-0' ezaw='300' ezah='250' style='position:relative;z-index:0;display:none;' class='ezoic-ad'><!--script-placeholder--></span></span><script>var ezzns21 = {0.40:504554,0.60:504557,1.20:504649,2.00:504657,1.60:504653,2.40:504659,3.50:504665,1.30:504650,2.20:504658,0.05:504099,0.10:504141,0.20:504145,0.25:504548,0.90:504560,1.00:504647,5.00:504669,0.15:504144,0.30:504551,0.50:504556,2.80:504661,3.00:504664,0.45:504555,0.80:504559,1.10:504648,1.40:504651,4.50:504667,1.70:504654,2.60:504660,4.00:504666,0.35:504552,0.70:504558,1.50:504652,1.80:504655,1.90:504656,};</script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" ></script>
+<div class="ezflad-47" style="display:inline-block" adunitname="bjjee_com-medrectangle-3" id="crt-21">
+<script type="text/javascript">
+var ezoflbf_2_21 = function() { __ez.queue.addFunc('ReloadFromP_1159', 'IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.ReloadFromP', 1159, false, ['banger.js'], false, false, false, true); };
+var ezoflbf_21 = function() { eval(ez_write_tag([[300,250],'bjjee_com-medrectangle-3','ezslot_0']));
+		};</script><script type="text/javascript">ezoflbf_21();
+</script></div>
+<script type='text/javascript'>
+	var __ezfl_sss_1159 = function() {
+		setTimeout(function(){
+			var ezflaun = IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.GetNameFromPositionId(1159);
+			if (typeof ezflaun != 'undefined' && ezflaun.length > 0) {
+				if (typeof ez_ad_units != undefined) {
+					for (i = 0; i < ez_ad_units.length; i++) {
+						if (ezflaun.indexOf(ez_ad_units[i][1]) >= 0) {
+							return false;
+						}
+					}
+				}
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.StoreStatSource(ezflaun, 47, 7.00);
+				IL11ILILIIlLLLILILLLLIILLLIIL11111LLILiiLIliLlILlLiiLLIiILL.RemoveSlotById(ezflaun);
+			}
+		}, 4000);
+	};
+	__ez.queue.addFunc('__ezfl_sss_1159', '__ezfl_sss_1159', null, false, ['banger.js'], false, false, false, true);
+</script><!--ezoicfl-->
+<!-- End Ezoic - under_first_paragraph 159 - under_first_paragraph --></div>
+
+<div style="width: 440px" class="wp-caption alignnone"><img class="" src="https://qph.ec.quoracdn.net/main-qimg-24659c9cd5d430b6dbc02c5c252a8d58-c" width="430" height="426"><p class="wp-caption-text">Dan Inosanto with Bruce Lee</p></div>
+<p>However in spite of cult status of Wing Chun founder and his pupil Bruce Lee –&nbsp;&nbsp;The fight was less than a minute. Take a look:</p>
+<div class="arve-wrapper" data-mode="normal" data-provider="youtube" id="arve-video-3" itemscope="" itemtype="http://schema.org/VideoObject">
+<div class="arve-embed-container" style="padding-bottom:56.250000%"><iframe allowfullscreen class="arve-iframe fitvidsignore" frameborder="0" scrolling="no" src="https://www.youtube.com/embed/w4n3G3rEbhI?iv_load_policy=3&#038;modestbranding=1&#038;rel=0&#038;autohide=1&#038;playsinline=1&#038;autoplay=0" sandbox="allow-scripts allow-same-origin allow-presentation allow-popups" width="480" height="270"></iframe></div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- Ezoic - post native - native_bottom -->
+<span id='ezoic-pub-ad-placeholder-156'></span>
+<!-- End Ezoic - post native - native_bottom -->
+<a href="https://bjjfanatics.com/products/ripped-in-12-weeks-intermittent-fasting-easy-bodyweight-fitness-dvd-hard-copy-book-by-tom-deblass?rfsn=575665.4967e" title="Hidden JJ" target="_blank"><img src="https://www.bjjee.com/wp-content/uploads/2017/10/DEBLASS1-BIG.jpg"></a>
+
+
+
+</div> 
+                                                               
+							                            
+                                                      
+                        
+                         
+                                
+                                                               
+                                
+                                <hr class="none">
+                                                            
+                                <ul class="tag-cat">                                                               
+                                    <li>                                                          
+                                </li></ul>
+                                                                
+                                
+                                         
+                                 
+              <div class="clear"></div>
+                                
+                                                       <div class="share-post">
+                                 <ul>                                                
+<li>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+</li>                                   
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/" data-text="Wing Chun Kungfu Met Brazilian Jiu-jitsu In a China Set Challenge" data-via="" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li> 
+<li>
+<div class="g-plusone" data-size="medium" data-href="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/"></div>
+			<script type='text/javascript'>
+			  (function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/plusone.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+</li>
+                               <li><script src="https://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-url="https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/" data-counter="right"></script></li>     
+
+                              <li style="width:80px;"><script type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script><a href="http://pinterest.com/pin/create/button/?url=https://www.bjjee.com/articles/wing-chun-kungfu-met-brazilian-jiu-jitsu-china-set-challenge/&amp;media=48056" class="pin-it-button" count-layout="horizontal"><img border="0" src="https://assets.pinterest.com/images/PinExt.png" title="Pin It"></a></li>                 
+              </ul>
+             <div class="clear"></div>
+             
+              </div>
+                                                        
+                           
+                           
+               
+                          
+                        
+                                                    <hr class="none">
+                        
+                        
+                            
+                                                        
+                                            
+
+                                      
+                                       <div class="relativepost clearfix">
+                        <h5>Related articles</h5>
+
+                        <ul class="ulpost picture">
+                            <li class="feature-item">
+                                <a class="entry-thumb feature-link" href="https://www.bjjee.com/articles/demian-maia-im-addicted-learning-mma-jiu-jitsu/" title="Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu"> <img src="https://www.bjjee.com/wp-content/uploads/2017/10/maia2-335x300.jpg">
+
+ </a>
+                                <div class="ulpost_title">
+                                    <a class="title related-title" href="https://www.bjjee.com/articles/demian-maia-im-addicted-learning-mma-jiu-jitsu/" rel="bookmark" title="Permanent link to Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu">
+									Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu                                    
+                                    </a>
+                                 
+                                </div>
+                              
+                            </li>
+                                                        <li class="feature-item">
+                                <a class="entry-thumb feature-link" href="https://www.bjjee.com/articles/renzo-gracie-breaks-record-community-service-ny/" title="Renzo Gracie Breaks Record Doing Community Service In NY"> <img src="https://www.bjjee.com/wp-content/uploads/2017/10/renzo4-335x300.jpg">
+
+ </a>
+                                <div class="ulpost_title">
+                                    <a class="title related-title" href="https://www.bjjee.com/articles/renzo-gracie-breaks-record-community-service-ny/" rel="bookmark" title="Permanent link to Renzo Gracie Breaks Record Doing Community Service In NY">
+									Renzo Gracie Breaks Record Doing Community Service In NY                                    
+                                    </a>
+                                 
+                                </div>
+                              
+                            </li>
+                                                        <li class="feature-item">
+                                <a class="entry-thumb feature-link" href="https://www.bjjee.com/articles/stand-up-mistakes-5-reasons-why-your-opponent-takes-you-down/" title="Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down"> <img src="https://www.bjjee.com/wp-content/uploads/2014/10/shaolin1-335x300.jpg">
+
+ </a>
+                                <div class="ulpost_title">
+                                    <a class="title related-title" href="https://www.bjjee.com/articles/stand-up-mistakes-5-reasons-why-your-opponent-takes-you-down/" rel="bookmark" title="Permanent link to Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down">
+									Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down                                    
+                                    </a>
+                                 
+                                </div>
+                              
+                            </li>
+                                                        <li class="feature-item">
+                                <a class="entry-thumb feature-link" href="https://www.bjjee.com/articles/5-biggest-mistakes-you-are-doing-in-training/" title="5 Biggest Mistakes You Are Doing in Training"> <img src="https://www.bjjee.com/wp-content/uploads/2016/04/phuket1-335x300.jpg">
+
+ </a>
+                                <div class="ulpost_title">
+                                    <a class="title related-title" href="https://www.bjjee.com/articles/5-biggest-mistakes-you-are-doing-in-training/" rel="bookmark" title="Permanent link to 5 Biggest Mistakes You Are Doing in Training">
+									5 Biggest Mistakes You Are Doing in Training                                    
+                                    </a>
+                                 
+                                </div>
+                              
+                            </li>
+                            </ul>
+
+                    </div>                  
+                            
+                  
+					<hr class="none">
+
+                    <!-- comment -->
+                    
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->                    
+                    </div>
+                  <!-- end post --> 
+
+
+              
+        <div class="brack_space"></div>
+        </div>
+        </div>
+        
+                    <div class="grid_4" id="sidebar">  
+<div id="themeloy_fblikebox_widget-2" class="widget fblikebox_widget">			
+<div class="widget_container">   
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+			
+
+					<div class="fb-like-box" data-href="https://www.facebook.com/Brazilian.Jiu.jitsu.Eastern.Europe" data-show-faces="true" data-stream="false" data-header="false"></div>
+	
+     <div class="clear"></div>
+    </div>
+    				
+
+			</div><div id="rec-recent-posts-2" class="widget post_list_widget"><h3 class="widget-title"><span>Recent Posts</span></h3><div class="widget_container"><ul class="post_list">           <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/demian-maia-im-addicted-learning-mma-jiu-jitsu/" title="Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/maia2-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/demian-maia-im-addicted-learning-mma-jiu-jitsu/" rel="bookmark" title="Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu">
+					Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/renzo-gracie-breaks-record-community-service-ny/" title="Renzo Gracie Breaks Record Doing Community Service In NY">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/renzo4-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/renzo-gracie-breaks-record-community-service-ny/" rel="bookmark" title="Renzo Gracie Breaks Record Doing Community Service In NY">
+					Renzo Gracie Breaks Record Doing Community Service In NY					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Renzo Gracie Breaks Record Doing Community Service In NY</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/stand-up-mistakes-5-reasons-why-your-opponent-takes-you-down/" title="Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down">        <img src="https://www.bjjee.com/wp-content/uploads/2014/10/shaolin1-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/stand-up-mistakes-5-reasons-why-your-opponent-takes-you-down/" rel="bookmark" title="Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down">
+					Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/5-biggest-mistakes-you-are-doing-in-training/" title="5 Biggest Mistakes You Are Doing in Training">        <img src="https://www.bjjee.com/wp-content/uploads/2016/04/phuket1-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/5-biggest-mistakes-you-are-doing-in-training/" rel="bookmark" title="5 Biggest Mistakes You Are Doing in Training">
+					5 Biggest Mistakes You Are Doing in Training					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on 5 Biggest Mistakes You Are Doing in Training</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/bjj-news/galvao-no-gi-grappling-instead-jiu-jitsu-olympics/" title="Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/galvao-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/bjj-news/galvao-no-gi-grappling-instead-jiu-jitsu-olympics/" rel="bookmark" title="Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’">
+					Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 26, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/bjj-news/jiu-jitsu-submitted-accreditation-2024-paris-olympics/" title="Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/jo2-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/bjj-news/jiu-jitsu-submitted-accreditation-2024-paris-olympics/" rel="bookmark" title="Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics">
+					Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 26, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+            </ul>
+</div>
+</div>
+		<div class="widget">
+
+				
+		
+			<div class="ads300x250-thumb">
+				<a href="https://bjj-mma-camps.com/" target="_blank">
+					<img src="https://www.bjjee.com/wp-content/uploads/2017/01/camp.jpg" alt="">
+				</a>
+			</div>
+		<span id='ezoic-pub-ad-placeholder-131' class="ezoic-adpicker-ad"></span><style type="text/css" >
+#sda_1494 {
+width : 310px;
+clear : both;
+display : block;
+text-align : left;
+margin-top : 10px;
+margin-bottom : 10px;
+position : relative;
+font-family : Arial, Helvetica, sans-serif;
+text-align : left;
+line-height : 1em;
+}
+#sda_1494  .sda_container {
+width : 150px;
+display : inline-block;
+vertical-align : top;
+margin-right : 1%;
+}
+#sda_1494 .sda_title_wrapper .sda_title {
+font-size : 13px;
+margin : 0;
+border : none;
+text-align : left;
+vertical-align : middle;
+overflow-wrap : break-word;
+width : auto;
+font-weight : bold;
+padding : 0;
+font-size : 13px;
+line-height : 1.35em;
+color : #000;
+}
+#sda_1494 .sda_container:hover .sda_title_wrapper .sda_title {
+text-decoration : underline;
+}
+#sda_1494 .sda_container a {
+display : block;
+text-decoration : none;
+}
+#sda_1494 .sda_referrer {
+font-size : 0.714em;
+font-weight : normal;
+font-style : italic;
+color : #888;
+overflow-wrap : break-word;
+line-height : 150%;
+}
+#sda_1494 .sda_image_link img {
+width:150px;
+height:150px;
+}
+</style>
+<div id="sda_1494" style="display:none"></div>
+<script>
+	function _jsonp_1494(obj) {
+		        var obj_sda = obj.articles;
+		        var sda_html = "";
+		        for(i=0; i < obj_sda.length; i++) {
+		            sda_html = sda_html +
+		            "<div class='sda_container'>" +
+		            "<a class='sda_image_link' rel='nofollow' href='" + obj_sda[i].url + "'>" +
+		            "<im" + "g src='" + obj_sda[i].image + "' class='sda_image'>" +
+		            "</a>" +
+		            "<div class='sda_title_wrapper'>" +
+		            "<a class='sda_title' rel='nofollow' href='" + obj_sda[i].url + "'>" +
+		            obj_sda[i].title +
+		            "</a>" +
+		            "<div class='sda_referrer'>" + obj_sda[i].sponsored_by + "</div>" +
+		            "</div>" +
+		            "</div>";
+		        }
+				document.getElementById("sda_1494").style.display = "block";
+		        document.getElementById("sda_1494").innerHTML = sda_html;
+		    }
+			function _load_1494() {
+				var xhrq_1494 = new XMLHttpRequest();
+			    xhrq_1494.open("GET", "/ez_aba_load/?aba_id=1494&aba_wid=90D1CB49-9421-40CE-A9E6-A6CC40778315&aba_did=YmpqZWUuZXpvaWMuY29t", true);
+			    xhrq_1494.onload = function (e) {
+				  if (xhrq_1494.readyState === 4) {
+				    if (xhrq_1494.status === 200) {
+				       eval(xhrq_1494.responseText);
+				    }
+				  }
+				};
+			    xhrq_1494.send(null);
+			}
+
+			if (typeof ez_cra_check === 'undefined') {
+
+				if (typeof loadbvjhghf === 'undefined') {
+					var xhr_1494 = new XMLHttpRequest();
+				    xhr_1494.open("GET", "/ezoic/prebid-ad-728x90.js", true);
+					xhr_1494.onload = function (e) {
+						if(xhr_1494.responseText == ""){
+		                    var loadbvjhghf = true;
+		                    _load_1494();
+		                } else {
+		                    eval(xhr_1494.responseText);
+		                }
+					};
+					xhr_1494.onerror = function (e) {
+					  var loadbvjhghf = true;
+					  _load_1494();
+					};
+					xhr_1494.send(null);
+				}
+				else {
+					_load_1494();
+				}
+			}
+		</script><span style='display:block !important;float:none !important;margin-bottom:15px !important;margin-left:10px !important;margin-right:0px !important;margin-top:15px !important;min-height:270px;min-width:300px;text-align:center !important;' class='ezoic-ad box-1 adtester-container adtester-container-131' data-ez-name='bjjee_com-box-1'><span id='div-gpt-ad-bjjee_com-box-1-0' ezaw='300' ezah='250' style='position:relative;z-index:0;display:inline-block;' class='ezoic-ad'><script data-cfasync='false' type='text/javascript' style='display:none;'>eval(ez_write_tag([[300,250],'bjjee_com-box-1','ezslot_1']));</script></span></span></div>
+		
+		<div class="widget">
+
+				
+		
+			<div class="ads300x250-thumb">
+				<a href="http://www.bjjglobetrotters.com/product/super-light-travel-gi-v2/" target="_blank">
+					<img src="https://www.bjjee.com/wp-content/uploads/2017/06/19047943_10154401331161876_1666697264_n.jpg" alt="">
+				</a>
+			</div>
+		</div>
+		
+		<div class="widget">
+
+				
+		
+			<div class="ads300x250-thumb">
+				<a href="http://grapplerz.com/" target="_blank">
+					<img src="https://www.bjjee.com/wp-content/uploads/2017/10/grapplerz-big.jpg" alt="">
+				</a>
+			</div>
+		</div>
+		<div id="rec-recent-posts-3" class="widget post_list_widget"><h3 class="widget-title"><span>Recent Posts</span></h3><div class="widget_container"><ul class="post_list">           <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/demian-maia-im-addicted-learning-mma-jiu-jitsu/" title="Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/maia2-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/demian-maia-im-addicted-learning-mma-jiu-jitsu/" rel="bookmark" title="Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu">
+					Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Demian Maia: I’m Addicted To Learning MMA and Jiu-Jitsu</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/renzo-gracie-breaks-record-community-service-ny/" title="Renzo Gracie Breaks Record Doing Community Service In NY">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/renzo4-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/renzo-gracie-breaks-record-community-service-ny/" rel="bookmark" title="Renzo Gracie Breaks Record Doing Community Service In NY">
+					Renzo Gracie Breaks Record Doing Community Service In NY					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Renzo Gracie Breaks Record Doing Community Service In NY</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/stand-up-mistakes-5-reasons-why-your-opponent-takes-you-down/" title="Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down">        <img src="https://www.bjjee.com/wp-content/uploads/2014/10/shaolin1-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/stand-up-mistakes-5-reasons-why-your-opponent-takes-you-down/" rel="bookmark" title="Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down">
+					Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Stand Up Mistakes: 5 Reasons Why Your Opponent Takes You Down</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/5-biggest-mistakes-you-are-doing-in-training/" title="5 Biggest Mistakes You Are Doing in Training">        <img src="https://www.bjjee.com/wp-content/uploads/2016/04/phuket1-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/5-biggest-mistakes-you-are-doing-in-training/" rel="bookmark" title="5 Biggest Mistakes You Are Doing in Training">
+					5 Biggest Mistakes You Are Doing in Training					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 27, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on 5 Biggest Mistakes You Are Doing in Training</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/bjj-news/galvao-no-gi-grappling-instead-jiu-jitsu-olympics/" title="Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/galvao-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/bjj-news/galvao-no-gi-grappling-instead-jiu-jitsu-olympics/" rel="bookmark" title="Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’">
+					Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 26, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Galvao: ‘No Gi Grappling Instead of Jiu-Jitsu Should Be In the Olympics’</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/bjj-news/jiu-jitsu-submitted-accreditation-2024-paris-olympics/" title="Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/jo2-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/bjj-news/jiu-jitsu-submitted-accreditation-2024-paris-olympics/" rel="bookmark" title="Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics">
+					Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 26, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Jiu-Jitsu Submitted For Accreditation For 2024 Paris Olympics</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/the-5-different-types-of-brazilian-jiu-jitsu-black-belts-you-will-encounter/" title="The 5 Different Types of Brazilian Jiu Jitsu Black Belts You Will Encounter">        <img src="https://www.bjjee.com/wp-content/uploads/2015/12/renato1-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/the-5-different-types-of-brazilian-jiu-jitsu-black-belts-you-will-encounter/" rel="bookmark" title="The 5 Different Types of Brazilian Jiu Jitsu Black Belts You Will Encounter">
+					The 5 Different Types of Brazilian Jiu Jitsu Black Belts You Will Encounter					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 26, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on The 5 Different Types of Brazilian Jiu Jitsu Black Belts You Will Encounter</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/rolles-gracie-signs-mansher-khera-garry-tonon-inaugural-kasai-grappling-tournament/" title="Rolles Gracie Signs Up Mansher Khera &amp; Garry Tonon for Inaugural Kasai Grappling Tournament">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/kasai-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/rolles-gracie-signs-mansher-khera-garry-tonon-inaugural-kasai-grappling-tournament/" rel="bookmark" title="Rolles Gracie Signs Up Mansher Khera &amp; Garry Tonon for Inaugural Kasai Grappling Tournament">
+					Rolles Gracie Signs Up Mansher Khera &amp; Garry Tonon for Inaugural Kasai Grappling Tournament					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 25, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Rolles Gracie Signs Up Mansher Khera &amp; Garry Tonon for Inaugural Kasai Grappling Tournament</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/competitions-tournaments/future-champions-3rd-edition-juniors-kids-competition-serbia/" title="Future Champions – 3rd edition of Juniors and kids competition in Serbia">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/buduci-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/competitions-tournaments/future-champions-3rd-edition-juniors-kids-competition-serbia/" rel="bookmark" title="Future Champions – 3rd edition of Juniors and kids competition in Serbia">
+					Future Champions – 3rd edition of Juniors and kids competition in Serbia					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 25, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Future Champions – 3rd edition of Juniors and kids competition in Serbia</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/simple-tips-make-guillotine-work/" title="Simple Tips To Make Your Guillotine Work For You">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/chop-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/simple-tips-make-guillotine-work/" rel="bookmark" title="Simple Tips To Make Your Guillotine Work For You">
+					Simple Tips To Make Your Guillotine Work For You					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 25, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Simple Tips To Make Your Guillotine Work For You</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/garry-tonon-wont-slapsgiving-drops-combat-jiu-jitsu-wolrds/" title="Garry Tonon Won’t Be At Slapsgiving – Drops Out of Combat Jiu Jitsu Worlds">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/garry-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/garry-tonon-wont-slapsgiving-drops-combat-jiu-jitsu-wolrds/" rel="bookmark" title="Garry Tonon Won’t Be At Slapsgiving – Drops Out of Combat Jiu Jitsu Worlds">
+					Garry Tonon Won’t Be At Slapsgiving – Drops Out of Combat Jiu Jitsu Worlds					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 25, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Garry Tonon Won’t Be At Slapsgiving – Drops Out of Combat Jiu Jitsu Worlds</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/renzo-gracies-cross-choke-armbar-trap-closed-guard/" title="Renzo Gracie’s Cross Choke-Armbar Trap from Closed Guard">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/renzo-2-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/renzo-gracies-cross-choke-armbar-trap-closed-guard/" rel="bookmark" title="Renzo Gracie’s Cross Choke-Armbar Trap from Closed Guard">
+					Renzo Gracie’s Cross Choke-Armbar Trap from Closed Guard					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 25, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Renzo Gracie’s Cross Choke-Armbar Trap from Closed Guard</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/renzo-gracie-unveils-secrets-infamous-arm-guillotine/" title="Renzo Gracie Unveils Secrets to His Infamous Arm-in Guillotine">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/renzo-1-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/renzo-gracie-unveils-secrets-infamous-arm-guillotine/" rel="bookmark" title="Renzo Gracie Unveils Secrets to His Infamous Arm-in Guillotine">
+					Renzo Gracie Unveils Secrets to His Infamous Arm-in Guillotine					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Renzo Gracie Unveils Secrets to His Infamous Arm-in Guillotine</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/gordon-ryan-fielding-mma-offers-considering-whether-split-focus-gi-jiu-jitsu/" title="Gordon Ryan Fielding MMA Offers, Considering Whether To Split Focus With Gi Jiu-Jitsu">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/gr-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/gordon-ryan-fielding-mma-offers-considering-whether-split-focus-gi-jiu-jitsu/" rel="bookmark" title="Gordon Ryan Fielding MMA Offers, Considering Whether To Split Focus With Gi Jiu-Jitsu">
+					Gordon Ryan Fielding MMA Offers, Considering Whether To Split Focus With Gi Jiu-Jitsu					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Gordon Ryan Fielding MMA Offers, Considering Whether To Split Focus With Gi Jiu-Jitsu</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/tips-pass-impassable-guard/" title="Tips On How To Pass An Impassable Guard">        <img src="https://www.bjjee.com/wp-content/uploads/2017/04/flexible-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/tips-pass-impassable-guard/" rel="bookmark" title="Tips On How To Pass An Impassable Guard">
+					Tips On How To Pass An Impassable Guard					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Tips On How To Pass An Impassable Guard</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/colby-covington-maia-one-trick-pony-im-going-sleep-demian-maia/" title="Colby Covington: Maia Is A One Trick Pony! I’m going to sleep Demian Maia">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/maia-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/colby-covington-maia-one-trick-pony-im-going-sleep-demian-maia/" rel="bookmark" title="Colby Covington: Maia Is A One Trick Pony! I’m going to sleep Demian Maia">
+					Colby Covington: Maia Is A One Trick Pony! I’m going to sleep Demian Maia					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Colby Covington: Maia Is A One Trick Pony! I’m going to sleep Demian Maia</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/bjj-competitor-threw-tantrum-responds-no-reason-tap-frustrated/" title="BJJ Competitor Who Threw A Tantrum Responds: I Had No Reason To Tap – Was Frustrated With Myself">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/dont-tap-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/bjj-competitor-threw-tantrum-responds-no-reason-tap-frustrated/" rel="bookmark" title="BJJ Competitor Who Threw A Tantrum Responds: I Had No Reason To Tap – Was Frustrated With Myself">
+					BJJ Competitor Who Threw A Tantrum Responds: I Had No Reason To Tap – Was Frustrated With Myself					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on BJJ Competitor Who Threw A Tantrum Responds: I Had No Reason To Tap – Was Frustrated With Myself</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/breakdown-chokes-bjj-videos/" title="A Breakdown Of The Chokes In BJJ (Videos)">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/BJJ-Choke-1024x586-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/breakdown-chokes-bjj-videos/" rel="bookmark" title="A Breakdown Of The Chokes In BJJ (Videos)">
+					A Breakdown Of The Chokes In BJJ (Videos)					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on A Breakdown Of The Chokes In BJJ (Videos)</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/brazilian-complains-polish-bjj-nationals-biased-foreigners/" title="Brazilian Complains Polish BJJ Nationals Are ‘Biased Against Foreigners’">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/polish-nationals-bjj-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/brazilian-complains-polish-bjj-nationals-biased-foreigners/" rel="bookmark" title="Brazilian Complains Polish BJJ Nationals Are ‘Biased Against Foreigners’">
+					Brazilian Complains Polish BJJ Nationals Are ‘Biased Against Foreigners’					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Brazilian Complains Polish BJJ Nationals Are ‘Biased Against Foreigners’</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/bjj-news/loud-pop-heard-heel-hook-grappling-match/" title="Loud Pop Heard From Heel Hook in Grappling Match">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/heel-hook-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/bjj-news/loud-pop-heard-heel-hook-grappling-match/" rel="bookmark" title="Loud Pop Heard From Heel Hook in Grappling Match">
+					Loud Pop Heard From Heel Hook in Grappling Match					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 24, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Loud Pop Heard From Heel Hook in Grappling Match</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/sage-northcutt-grapples-bodybuilder-unique-challenge/" title="Sage Northcutt Grapples Bodybuilder In Unique Challenge">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/sage-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/sage-northcutt-grapples-bodybuilder-unique-challenge/" rel="bookmark" title="Sage Northcutt Grapples Bodybuilder In Unique Challenge">
+					Sage Northcutt Grapples Bodybuilder In Unique Challenge					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 23, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Sage Northcutt Grapples Bodybuilder In Unique Challenge</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/weird-armless-reverse-triangle-caught-marcelo-garcia-surprise/" title="Weird Armless Reverse Triangle That Caught Marcelo Garcia by Surprise">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/marcelo-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/weird-armless-reverse-triangle-caught-marcelo-garcia-surprise/" rel="bookmark" title="Weird Armless Reverse Triangle That Caught Marcelo Garcia by Surprise">
+					Weird Armless Reverse Triangle That Caught Marcelo Garcia by Surprise					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 23, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/gile/" title="Posts by BJJEE" rel="author">BJJEE</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Weird Armless Reverse Triangle That Caught Marcelo Garcia by Surprise</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/jeff-monson-sings-propaganda-video/" title="Jeff Monson Sings In Propaganda Video">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/monsoon-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/jeff-monson-sings-propaganda-video/" rel="bookmark" title="Jeff Monson Sings In Propaganda Video">
+					Jeff Monson Sings In Propaganda Video					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 23, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on Jeff Monson Sings In Propaganda Video</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+                       <li class="clearfix">	
+                <div class="img_thumbnail feature-item">
+				<a class="img_thumbnail" href="https://www.bjjee.com/articles/ebi-13-crowns-victors-combat-jiu-jitsu-lightweight-division/" title="EBI 13 Crowns Victors in Combat Jiu Jitsu And Lightweight Division">        <img src="https://www.bjjee.com/wp-content/uploads/2017/10/ebi13-100x80.jpg">
+	
+				
+              </a>
+                       </div>
+                <div class="list_desc">
+                     <h4 class="list_title"><a class="post-title" href="https://www.bjjee.com/articles/ebi-13-crowns-victors-combat-jiu-jitsu-lightweight-division/" rel="bookmark" title="EBI 13 Crowns Victors in Combat Jiu Jitsu And Lightweight Division">
+					EBI 13 Crowns Victors in Combat Jiu Jitsu And Lightweight Division					</a></h4>
+                   <p class="post-meta"><span class="date updated"><i class="icon-time"></i>Oct 23, 2017</span><span class="meta-user"><i class="icon-user"></i><a href="https://www.bjjee.com/author/bjj-admin-2/" title="Posts by Iva Djokovic" rel="author">Iva Djokovic</a></span><span class="meta-comment last-meta"><span>Comments Off<span class="screen-reader-text"> on EBI 13 Crowns Victors in Combat Jiu Jitsu And Lightweight Division</span></span></span></p>							 
+                
+                </div>
+
+
+            </li>
+            </ul>
+</div>
+</div><div class="brack_space"></div>
+          
+       </div>
+              
+       
+        
+    </div>
+</div>
+ </section>
+<!-- end content --> <!-- Start footer -->
+<footer id="footer-container">
+
+    <div class="footer-columns">
+        <div class="row">
+                        <div class="grid_6"></div>
+            <div class="grid_6"><div id="categories-2" class="widget widget_categories"><h3 class="widget-title"><span>Categories</span></h3>		<ul>
+	<li class="cat-item cat-item-15"><a href="https://www.bjjee.com/category/articles/">Articles</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://www.bjjee.com/category/bjj-belt-ranking/">BJJ Belt ranking</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://www.bjjee.com/category/bjj-news/">BJJ News</a>
+</li>
+	<li class="cat-item cat-item-687"><a href="https://www.bjjee.com/category/bjjee-podcast/">BJJEE Podcast</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://www.bjjee.com/category/competition-preview/">Competition Preview</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.bjjee.com/category/competitions-tournaments/">Competitions/Tournaments</a>
+</li>
+	<li class="cat-item cat-item-209"><a href="https://www.bjjee.com/category/contests/">Contests</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://www.bjjee.com/category/featured/">Featured</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://www.bjjee.com/category/gear-review/">Gear review</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://www.bjjee.com/category/health/">Health</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://www.bjjee.com/category/interview/">Interview</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://www.bjjee.com/category/nutrition/">Nutrition</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://www.bjjee.com/category/regional-bjj-news/">Regional BJJ News</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://www.bjjee.com/category/seminar/">Seminar</a>
+</li>
+	<li class="cat-item cat-item-336"><a href="https://www.bjjee.com/category/strength-conditioning/">Strength &amp; Conditioning</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://www.bjjee.com/category/training-report/">Training report</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.bjjee.com/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://www.bjjee.com/category/videos/">Videos</a>
+</li>
+		</ul>
+</div></div>
+                                </div>
+    </div>
+    
+    <div class="footer-bottom">
+        <div class="row">
+            <div class="grid_6 footer-left"> <a href="https://www.facebook.com/Brazilian.Jiu.jitsu.Eastern.Europe" target="_blank"><img src="https://www.bjjee.com/wp-content/uploads/2012/07/BjjEE-FB.png" alt="Bjj Eastern Europe Facebook page"></a><a href="https://www.bjjee.com/"><img src="https://www.bjjee.com/wp-content/uploads/2012/07/bjjeasterneuropblog.png" style="margin-bottom: 2px;margin-left: 4px" alt="Bjj Eastern Europe Blog"></a><div id="bjjeelogin" style="margin: -40px 0px 0px 118px"><a href="https://www.bjjee.com/wp-login.php" style="color:#0065BA">Login</a></div>
+<br>
+© Bjj Eastern Europe 2012. All rights reserved. Website setup <a href="https://www.facebook.com/marcus.buur" target="_blank" style="color: #0065BA">Cosbus.dk</a></div>
+            <div class="grid_6 footer-right">  
+                &nbsp;</div>
+        </div>  
+    </div>  
+
+
+</footer>
+<!-- End footer -->
+
+
+
+<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33594372-1', 'www.bjjee.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- Background Manager Start -->
+<a id="myatu_bgm_bg_link" class="myatu_bgm_fs" href="https://goo.gl/jbN9um"></a>
+<!-- Background Manager End -->
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/inc/functions/aqua-page-builder-master/assets/js/aqpb-view.js?ver=1509094904'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.bjjee.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/www.bjjee.com\/wp-admin\/admin-ajax.php","nonce":"442f9a5186"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/post_rating.js?ver=1'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.nivo.slider.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.flexslider.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery-ui-1.8.20.custom.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.ui.totop.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/selectnav.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.jcarousel.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.simplyscroll.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.nicescroll.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/superfish.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/jquery.sticky.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/mediaelement-and-player.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/themes/megnet/js/custom.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.js?ver=8.7.2'></script>
+<script type='text/javascript' src='https://www.bjjee.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script>
+(function(){var t=function(e,t){t.length>0?window.open(e,t):window.location.href=e};if(document.getElementsByTagName){var n=document.getElementsByTagName("a"),r=document.domain.split(".").reverse()[1]+"."+document.domain.split(".").reverse()[0];for(var i=0;i<n.length;i++){var s=typeof n[i].getAttribute("href")=="string"?n[i].getAttribute("href"):"",o=s.match(r);(s.match(/^https?\:/i)&&!o||s.match(/^mailto\:/i))&&n[i].addEventListener("click",function(e){var n=this.getAttribute("href"),r=typeof (this.getAttribute("target")=="string")?this.getAttribute("target"):"";ga("send","event","outbound","click",n,{hitCallback:t(n,r)},{nonInteraction:1});e.preventDefault()})}}})();</script>
+
+
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 5169/5374 objects using apc
+Page Caching using disk: enhanced (SSL caching disabled)
+Database Caching 38/77 queries in 0.057 seconds using apc
+
+ Served from: www.bjjee.com @ 2017-10-27 10:01:44 by W3 Total Cache --></div><script type="text/javascript" style='display:none;'>
+var __ez_dims = (function() {
+	var setCookie = function( name, content, expiry ) {
+		return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'');
+	};
+	var ffid = 1;
+	var oh = window.screen.height;
+	var ow = window.screen.width;
+	var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+	var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+	var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+	var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+	setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+	setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+})();
+</script><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '//www.bjjee.com/detroitchicago/edmonton.webp?a=a&cb=171-0&shcb=28', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '//www.bjjee.com/porpoiseant/jellyfish.webp?a=a&cb=171-0&shcb=28', false, [], true, false, false, false);
+</script>
+
+
+<div id='dmo1' style='display:none'>
+	<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-6396844742497208";
+		/* dmo */
+		google_ad_slot = "dmo";
+		google_ad_width = 88;
+		google_ad_height = 31;
+		//-->
+	</script>
+	<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+<!--Begin comScore Tag--><script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"20015427"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript><!--End comScore Tag-->
+<!--Quantcast Tag--><script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt)})();_qevents.push({qacct:"p-31iz6hfFutd16",labels:"Domain.bjjee_com,DomainId.27044"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.bjjee_com,DomainId.27044"border="0"height="1"width="1"alt="Quantcast"/></div></noscript><!--End Quantcast tag--></body></html><!--[selectron:done]-->

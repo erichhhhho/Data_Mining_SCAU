@@ -1,0 +1,701 @@
+
+        <!doctype html>
+        <html xmlns:og="http://ogp.me/ns#">
+            <head>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+                <link href="/manifest.json" rel="manifest">
+                <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"NewsArticle","author":[{"@type":"Person","name":"Lulu Yilun Chen"}],"dateCreated":"2017-10-19T03:06:02.155Z","dateModified":"2017-10-19T06:08:36.044Z","datePublished":"2017-10-19T03:06:02.155Z","description":"You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China’s president.","headline":"Tencent Comes Up With a Novel Way to Applaud China's President","image":{"@type":"ImageObject","url":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0LrcZNMaaY/v0/-1x-1.jpg","width":2000,"height":1333},"mainEntityOfPage":"https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president","publisher":{"@type":"Organization","name":"Bloomberg","logo":{"@type":"ImageObject","url":"https://assets.bwbx.io/s3/javelin/public/javelin/images/bloomberg-logo-amp-e995e81f26.png","width":262,"height":60}}}
+    </script>
+                
+        <link href="https://assets.bwbx.io" rel="preconnect" crossorigin>
+        <link href="https://www.bbthat.com" rel="preconnect" crossorigin>
+        <link href="https://nav.bloomberg.com" rel="preconnect" crossorigin>
+    
+                
+        <link rel="stylesheet" type="text/css" href="https://assets.bwbx.io/font-service/css/BWHaasText-55Roman,BWHaasHead-55Roman,BWHaasHead-56Italic,BWHaasHead-75Bold,BWHaasHead-95Black,TiemposTextWeb-Regular,TiemposTextWeb-RegularItalic,TiemposHeadlineWeb-Bold,AvenirNext-Demi,supriasans-regular-web,supriasans-black-web,PublicoText-Roman-Web,PublicoText-Italic-Web,PublicoText-Bold-Web/font-face.css">
+    
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/application/application-08d1bf1521.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg,BWHaasText-55Roman,BWHaasHead-75Bold,BWHaasHead-95Black,AvenirNext-Demi/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-nav-b580ffc9b8.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://www.bbthat.com/assets/v1.4.0/that.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/abstract/abstract-762d163070.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/author_tout/author_tout-c6e448ba2b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/author_tout/author_tout-e273b6df99.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/author_details/author_details-f6d8baf35e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-d998ba8eeb.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/newsletter_tout-7104a5317e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/outstream_ad-c21b3ed6be.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-75cdc2b544.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-238ed3378a.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-e74c024d6f.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-e886f59cb3.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/mobile_ads-10915d4c59.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-b820c41d19.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-302586dffe.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-b789d79511.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-6689773bd7.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-a8500fe5ea.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/mobile_ads-95f94f08a6.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/newsletter_tout-12eaa8fd13.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/small_image/small_image-d045408edb.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/small_image/small_image-22ec7f2aad.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/small_image/small_image-3c1ad74a1a.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-9bf4006248.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-bb5da368ce.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-6a33ad34f5.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-b17a45ed53.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-7472f45bf8.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-b95e829bc6.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/recirc/recirc-753ad6df8e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/terminal_tout/terminal_tout-f96d849049.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/terminal_tout/terminal_tout-b55b132f21.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/secure_tip_tout/secure_tip_tout-0250568d0e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/themes/technology/tech-ad181633f2.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/recirc/recirc-753ad6df8e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/nav/bb/nav-28e2d17016.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-d6c4cb4d6d.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-44ae116396.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-90a9b24409.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-0e5ec91ea4.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/breaking_news_placeholder/breaking_news-181cec3985.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-19331a57e5.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-e57e2909c7.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-feab898b86.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-a69847c3fa.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-3728b26bcb.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-80068e7b37.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/leaderboard/leaderboard-f7160e7776.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+                
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/lazy_images/lazy_image-7dc0452705.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-6f53efc220.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-323c682892.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-5679a9f67c.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-932ba91b49.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-53c717658f.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-footer-af4496cb6b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/print/print-ffa68fd905.css" media="print" property="stylesheet" rel="stylesheet" type="text/css">
+                
+        <title>Tencent Comes Up With a Novel Way to Applaud China's President - Bloomberg</title>
+        <link rel="canonical" href="https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president">
+        <meta name="description" content="You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China’s president.">
+        <meta name="checksum" content="a5f7a2c0ff4f9a152b90601fa6553c8c">
+        <meta name="validatedAt" content="2017-10-27T09:02:37.855Z">
+        <meta name="referrer" content="unsafe-url">
+        <meta name="referrer" content="always">
+        <meta property="al:android:url" content="bloomberg://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president?utm_medium=applink&utm_source=facebook">
+        <meta property="al:android:package" content="com.bloomberg.android.plus">
+        <meta property="al:android:app_name" content="Bloomberg">
+        <meta property="og:description" content="You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China’s president.">
+        <meta property="og:image" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0LrcZNMaaY/v0/1200x800.jpg">
+        <meta property="og:site_name" content="Bloomberg.com">
+        <meta property="og:title" content="Tencent Comes Up With a Novel Way to Applaud China's President">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president">
+        <meta name="fb:status" content="You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China’s president.">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China’s president.">
+        <meta name="twitter:image" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0LrcZNMaaY/v0/1200x800.jpg">
+        <meta name="twitter:site" content="@technology">
+        <meta name="twitter:title" content="Tencent Comes Up With a Novel Way to Applaud China's President">
+        <meta name="parsely-title" content="Tencent Comes Up With a Novel Way to Applaud China's President">
+        <meta name="parsely-link" content="https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president">
+        <meta name="parsely-type" content="post">
+        <meta name="parsely-image-url" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0LrcZNMaaY/v0/1200x800.jpg">
+        <meta name="parsely-pub-date" content="2017-10-19T03:06:02.155Z">
+        <meta name="parsely-section" content="technology">
+        <meta name="parsely-tags" content="TENCENT HOLDINGS LTD,China,Congress,Jinping Xi,ALIBABA GROUP HOLDING-SP ADR,Cloud Computing,Social Media,Jane Yip,Asia,Culture,Secondary Brand: technology,Region: Global,Page: article">
+        <meta name="parsely-post-id" content="OY1RWQ6TTDS101">
+        <meta name="parsely-author" content="Lulu Yilun Chen">
+        
+        <script type="text/javascript">
+            (function(w) {
+                w.dataLayer = w.dataLayer || [];
+                w.dataLayer.push({"adcode":"business/news/technology","author":"Lulu Yilun Chen","publishedAt":"2017-10-19T03:06:02.155Z","storyId":"OY1RWQ6TTDS101","contentType":"content-article","pageType":"content","template":"javelin-article-html","topic":"Congress","attributor":"bn","brand":"technology","secondaryBrands":"technology","franchise":null,"categories":"technology","transporter":"false","refresh":"false","headline":"Tencent Comes Up With a Novel Way to Applaud China's President","slug":"2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president"});
+            })(window);
+        </script>
+    
+        
+    <link rel="icon"
+        type="image/png"
+        href="https://assets.bwbx.io/s3/javelin/public/javelin/images/favicon-technology-c079867d2c.png">
+    
+    
+                
+                
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="apple-mobile-web-app-capable" content="no">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-itunes-app" content="app-id=281941097, affiliate-data=ct=smartbanner_mobileweb&pt=8949&utm_source=smart_banner">
+    
+                
+        <meta name="sailthru.title" content="Tencent Comes Up With a Novel Way to Applaud China's President">
+        <meta name="sailthru.author" content="Lulu Yilun Chen">
+        <meta name="sailthru.tags" content="TENCENT HOLDINGS LTD,China,Congress,Jinping Xi,ALIBABA GROUP HOLDING-SP ADR,Cloud Computing,Social Media,Jane Yip,Asia,Culture,technology">
+        <meta name="keywords" content="TENCENT HOLDINGS LTD,China,Congress,Jinping Xi,ALIBABA GROUP HOLDING-SP ADR,Cloud Computing,Social Media,Jane Yip,Asia,Culture,technology">
+        <meta name="sailthru.description" content="You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China’s president.">
+        <meta name="sailthru.date" content="2017-10-19T03:06:02.155Z">
+    
+            
+<script>!function(){function e(e){d.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}function n(e,n){var a="undefined"!=typeof window.aFeoApplied?"1":"0";BOOMR.addVar("ak.feo",a)}function a(e,n){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.r"];BOOMR.removeVar(a)}function t(){var e="",t="true"==e;BOOMR.subscribe("before_beacon",n,null,null),BOOMR.addVar({"ak.v":1,"ak.cp":"89315","ak.ai":"204646","ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"","ak.rid":"350722c","ak.r":19865,"ak.a2":t?1:0,"ak.m":"g","ak.n":"","ak.bpcip":"155.69.160.32","ak.cport":24489,"ak.gh":"23.5.165.171","ak.quicv":"","ak.csrc":"-"}),BOOMR.subscribe("onbeacon",a,null,null)}if(!window.BOOMR||!window.BOOMR.version){var o,r,i,c=document.createElement("iframe"),d=window;d.addEventListener?d.addEventListener("load",e,!1):d.attachEvent&&d.attachEvent("onload",e),c.src="javascript:void(0)",c.title="",c.role="presentation",(c.frameElement||c).style.cssText="width:0;height:0;border:0;display:none;",i=document.getElementsByTagName("script")[0],i.parentNode.insertBefore(c,i);try{r=c.contentWindow.document}catch(e){o=document.domain,c.src="javascript:var d=document.open();d.domain='"+o+"';void(0);",r=c.contentWindow.document}r.open()._l=function(){var e=this.createElement("script");o&&(this.domain=o),e.id="boomr-if-as",e.src="https://s.go-mpulse.net/boomerang/T6PPY-X9KZV-8VZ6F-7N5GB-F8ELN",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},r.write('<body onload="document._l();">'),r.close();var _="";_.length>0&&d&&"performance"in d&&d.performance&&d.performance.setResourceTimingBufferSize&&d.performance.setResourceTimingBufferSize(),document.addEventListener?document.addEventListener("onBoomerangLoaded",t):document.attachEvent&&document.attachEvent("onpropertychange",function(e){e||(e=window.event),e&&"onBoomerangLoaded"===e.propertyName&&t()})}}();</script></head>
+            <body data-theme="technology" data-type="article">
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/pwa/pwa-fa16a7fd08.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">window.__bloomberg__=window.__bloomberg__||{};window.__bloomberg__.environment={"videoPlayerUrl":"https://cdn.gotraffic.net/projector/latest/bplayer.js","playlistPlayerEnabled":true,"psznTrackingUrl":"https://tracking.bloomberg.com/images/tracking-pixel.gif","psznRecommendationUrl":"https://personalization.bloomberg.com"};</script>
+                
+        <script type="text/javascript">
+            (function () {
+                if(typeof window.CustomEvent === "function") return false;
+                function CustomEvent(event, p) {
+                    p = p || {bubbles: false, cancelable: false, detail: undefined};
+                    var e = document.createEvent("CustomEvent");
+                    e.initCustomEvent(event, p.bubbles, p.cancelable, p.detail);
+                    return e;
+                }
+                CustomEvent.prototype = window.Event.prototype;
+                window.CustomEvent = CustomEvent;
+            })();
+        </script>
+    
+                
+        <script type="text/javascript">
+            window.__bloomberg__.ads = {};
+            window.__bloomberg__.ads.queue = [];
+
+            window.__bloomberg__.ads.enqueue = function(id) {
+                if (window.__bloomberg__.ads.render) {
+                    return window.__bloomberg__.ads.render(id);
+                }
+                window.__bloomberg__.ads.queue.push(id);
+            };
+        </script>
+    
+                
+    <div class="leaderboard-container">
+        <div id="leaderboard-st7nfC5" class="leaderboard" data-position="leaderboard">
+            <script type="text/javascript">
+                window.__bloomberg__.ads.enqueue("leaderboard-st7nfC5");
+            </script>
+            <script class="params" type="application/json">{"contentId":"OY1RWQ6TTDS101","position":"leaderboard","dimensions":{"large_desktop":[[728,90],[970,250],[5,16],[1,1]],"small_desktop":[[728,90],[970,250],[5,16],[1,1]],"tablet":[[728,90],[5,16],[1,1]],"mobile":[[5,16],[1,1]]},"strategy":"always","type":"Top Leaderboard Ad","positionIncrement":1,"targeting":{"position":"leaderboard","positionIncrement":1,"url":"/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president"},"containerId":"leaderboard-st7nfC5"}</script>
+            <div class="leaderboard-ad-dummy"></div>
+        </div>
+    </div>
+    
+                
+        <div class="truste">
+            <div id="consent_blackbar"></div>
+        </div>
+    
+                <style>
+@font-face {
+    font-family: 'AvenirNextPForBBG-Regular';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Regular-09359fef74.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Regular-91967b382a.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AvenirNextPForBBG-Demi';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Demi-62597c630e.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Demi-d7e488b711.woff') format('woff');
+}
+#bb-that a{text-decoration:none}#bb-that .bb-that__sitemap{overflow:hidden;position:relative}#bb-that .bb-that__sitemap{max-height:0;-webkit-transition:max-height 0.6s ease-in-out;-o-transition:max-height 0.6s ease-in-out;transition:max-height 0.6s ease-in-out}#bb-that{background:#000;position:relative}@media (max-width: 759px){#bb-that{display:none}}#bb-that .bb-that--container{margin:0 auto;padding:0 30px;box-sizing:content-box}@media (min-width: 1020px){#bb-that .bb-that--container{padding:0}}#bb-that .bb-that--container:before,#bb-that .bb-that--container:after{content:" ";display:table}#bb-that .bb-that--container:after{clear:both}@media (min-width: 760px){#bb-that .bb-that--container{width:680px}}@media (min-width: 1020px){#bb-that .bb-that--container{width:980px}}@media (min-width: 1280px){#bb-that .bb-that--container{width:1160px}}#bb-that .bb-that-header{font-family:"AvenirNextPForBBG-Demi","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:15px;line-height:30px;padding:15px}@media (min-width: 760px){#bb-that .bb-that-header{font-family:"AvenirNextPForBBG-Demi","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;height:30px;padding:0}}#bb-that .bb-that-header__link{position:relative;display:block}@media (min-width: 760px){#bb-that .bb-that-header__link{display:inline-block;padding:0 12px}}#bb-that .bb-that-header__link,#bb-that .bb-that-header__link>span{color:#f3f4ef;font-family:inherit;font-size:inherit;line-height:inherit}@media (min-width: 760px){#bb-that .bb-that-header__link,#bb-that .bb-that-header__link>span{line-height:1;-webkit-font-smoothing:subpixel-antialiased;-moz-osx-font-smoothing:auto}}#bb-that .bb-that-header__link:first-child{padding-left:0}#bb-that .bb-that-header__link:after{font-size:9px;position:absolute}@media (min-width: 760px){#bb-that .bb-that-header__link+.bb-that-header__link{border-left:1px solid #b3b3b3}#bb-that .bb-that-header__link+.bb-that-header__link:after{top:-3px}}#bb-that .bb-that-header__link>span:first-of-type{display:inline}#bb-that .bb-that-header__link>span:first-of-type+span{display:none}@media (max-width: 1019px){#bb-that .bb-that-header__link>span:first-of-type{display:none}#bb-that .bb-that-header__link>span:first-of-type+span{display:inline}}#bb-that .bb-that-header--sitemap-trigger{padding:0 27px 0 12px}#bb-that .bb-that-header--sitemap-trigger:after{display:inline-block;content:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2015%2015%27%3E%3Cpath%20d%3D%27M0,2.5l7.5,10l7.5-10H0z%27%20fill%3D%27%23fff%27%2F%3E%3C%2Fsvg%3E");height:9px;width:9px;line-height:initial;opacity:0.7;-webkit-transition:opacity 0.1s ease-out;-o-transition:opacity 0.1s ease-out;transition:opacity 0.1s ease-out}#bb-that .bb-that-header--sitemap-trigger:hover:after{opacity:1}#bb-that .bb-that-header--sitemap-trigger:after{height:9px;width:9px;-webkit-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0);-webkit-transition:transform 0.35s ease;-o-transition:transform 0.35s ease;transition:transform 0.35s ease}@media (min-width: 760px){#bb-that .bb-that-header--sitemap-trigger:after{right:12px;top:2px;line-height:1}}@media (min-width: 1020px){#bb-that .bb-that--open{border-bottom:1px solid #474747}}#bb-that .bb-that--open .bb-that-header--sitemap-trigger:after{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}
+</style>
+<div id="bb-that">
+    <nav class="bb-that">
+        <header class="bb-that-header bb-that--container">
+        <a class="bb-that-header__link bb-that-header--sitemap-trigger" href="http://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg the Company &amp; Its Products</a><a class="bb-that-header__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom"><span>Bloomberg Anywhere Remote Login</span><span>Bloomberg Anywhere Login</span></a><a class="bb-that-header__link" href="http://www.bloomberg.com/professional/request-demo/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-DEMO-bbgmenu">Bloomberg Terminal Demo Request</a>    </header>
+        <div class="bb-that__sitemap bb-that--container">
+    <div class="bb-that__close"></div>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-md bb-that--visible-lg">
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">For Customers</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Software Updates</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Manage Products and Account Information</a></li></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text"><span>Americas</span>+1 212 318 2000</p><p class="bb-that-category__text"><span>EMEA</span>+44 20 7330 7500</p><p class="bb-that-category__text"><span>Asia Pacific</span>+65 6212 1000</p></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">About</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity and Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy and Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Tech</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/solution/bloomberg-terminal/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TERMINAL-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/execution-order-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-EXORDMGMT-bbgmenu">Execution and Order Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/data-and-content/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-DATACONT-bbgmenu">Data and Content</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/financial-data-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-FINDATA-bbgmenu">Financial Data Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/integration-and-distribution/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-INTEGDIST-bbgmenu">Integration and Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/tradebook/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TBOOK-bbgmenu">Bloomberg Tradebook</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/markets/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Markets</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/technology/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/pursuits/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Pursuits</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/view/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Opinion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/businessweek/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Businessweek</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+            </ul>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-sm">
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">About</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity and Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy and Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Tech</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/solution/bloomberg-terminal/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TERMINAL-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/execution-order-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-EXORDMGMT-bbgmenu">Execution and<br /> Order Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/data-and-content/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-DATACONT-bbgmenu">Data and Content</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/financial-data-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-FINDATA-bbgmenu">Financial Data<br /> Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/integration-and-distribution/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-INTEGDIST-bbgmenu">Integration and<br /> Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/tradebook/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TBOOK-bbgmenu">Bloomberg<br /> Tradebook</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/markets/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Markets</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/technology/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg<br /> Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/pursuits/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Pursuits</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/view/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Opinion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/businessweek/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg<br /> Businessweek</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">For Customers</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Software Updates</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Manage Contracts and Orders</a></li></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text"><span>Americas</span>+1 212 318 2000</p><p class="bb-that-category__text"><span>EMEA</span>+44 20 7330 7500</p><p class="bb-that-category__text"><span>Asia Pacific</span>+65 6212 1000</p></div></section>    </li>
+            </ul>
+</div>    </nav>
+</div>
+
+                
+        <script id="nav-data" type="application/json">{"headline":"Tencent Comes Up With a Novel Way to Applaud China's President","url":"https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president","twitterText":"Tencent has come up with a novel way to applaud China's president","twitterHandle":"technology"}</script>
+        <div class="bb-nav-placeholder">
+            <div class="bb-nav-root"> <nav is="bb-nav" class="bb-nav" id="bb-nav" data-theme="technology" data-persist-for="content" data-mode="index" data-reg-env="production" data-progress="0" data-headline="" data-base="https://nav.bloomberg.com" data-tracker-category="nav" data-tracker-events="click" data-tracker-label="header" data-site="global" data-persist-for="none" > <div class="bb-nav__container"> <div class="bb-nav__content"> <h1 class="bb-nav-logo" is="bb-nav-logo"> <div class="bb-nav-logo__rubix" data-tracker-label="bomb.open.rubix_button" data-tracker-action="click"></div> <div class="bb-nav-logo__menu" data-tracker-label="bomb.open.menu_button" data-tracker-action="click"> <div class="bb-nav-logo__menu-link">MENU</div> </div> <a href="http://www.bloomberg.com" class="bb-nav-logo__link" data-tracker-label="logo" data-tracker-action="click"></a> <div class="bb-nav-logo__arrow"></div> </h1><div class="bb-nav-content-logo" is="bb-nav-content-logo"> <h1 class="bb-nav-content-logo__headline" data-tracker-label="content"> <a href="http://www.bloomberg.com" class="bb-nav-content-logo__site" data-tracker-label="logo" data-tracker-action="click"></a> </h1> <div class="bb-nav-content-logo__down-arrow" data-tracker-label="expand" data-tracker-action="click"></div> </div><h2 class="bb-nav-headline"></h2><bb-experience-select class="bb-nav-experience-select"></bb-experience-select><div class="bb-nav-categories"> <ul class="bb-nav-categories__container"> <li class="bb-nav-categories__category bb-nav-categories__about has-submenu"> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/" data-tracker-label="about_the_company" data-tracker-action="click"> About The Company </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/london" data-tracker-label="bloomberg_london" data-tracker-action="click"> Bloomberg London </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__home"> <a href="http://www.bloomberg.com" class="bb-nav-categories__home-link"> Homepage </a> </li> <li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="markets" data-vertical="markets" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/markets" class="bb-nav-categories__link" data-category-path="/markets" data-category-vertical="markets" target="_self" data-tracker-action="click">Markets</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_stocks" href="https://www.bloomberg.com/markets/stocks" data-tracker-label="stocks" data-tracker-action="click"> Stocks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_currencies" href="https://www.bloomberg.com/markets/currencies" data-tracker-label="currencies" data-tracker-action="click"> Currencies </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_fixed_income" href="https://www.bloomberg.com/markets/fixed-income" data-tracker-label="fixed_income" data-tracker-action="click"> Fixed Income </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_commodities" href="https://www.bloomberg.com/markets/commodities" data-tracker-label="commodities" data-tracker-action="click"> Commodities </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_rates_bonds" href="https://www.bloomberg.com/markets/rates-bonds" data-tracker-label="rates_plus_bonds" data-tracker-action="click"> Rates + Bonds </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economics" href="https://www.bloomberg.com/markets/economics" data-tracker-label="economics" data-tracker-action="click"> Economics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_magazine" href="https://www.bloomberg.com/markets/markets-magazine" data-tracker-label="magazine" data-tracker-action="click"> Magazine </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_benchmark" href="https://www.bloomberg.com/markets/benchmark" data-tracker-label="benchmark" data-tracker-action="click"> Benchmark </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_watchlist" href="https://www.bloomberg.com/markets/watchlist" data-tracker-label="watchlist" data-tracker-action="click"> Watchlist </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economic_calendar" href="https://www.bloomberg.com/markets/economic-calendar" data-tracker-label="economic_calendar" data-tracker-action="click"> Economic Calendar </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="technology" data-vertical="technology" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/technology" class="bb-nav-categories__link" data-category-path="/technology" data-category-vertical="technology" target="_self" data-tracker-action="click">Tech</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_us" href="https://www.bloomberg.com/topics/silicon-valley" data-tracker-label="us" data-tracker-action="click"> U.S. </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_global" href="https://www.bloomberg.com/topics/global-tech" data-tracker-label="global" data-tracker-action="click"> Global </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_start_ups" href="https://www.bloomberg.com/topics/startups" data-tracker-label="startups" data-tracker-action="click"> Startups </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_bloomberg_tv" href="https://www.bloomberg.com/shows/bloomberg-technology" data-tracker-label="bloomberg_technology_tv" data-tracker-action="click"> Bloomberg Technology TV </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_gadgets-with-gurman" href="https://www.bloomberg.com/news/special-reports/gadgets-with-gurman" data-tracker-label="gadgets_with_gurman" data-tracker-action="click"> Gadgets With Gurman </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_digital-defense" href="https://www.bloomberg.com/news/special-reports/digital-defense" data-tracker-label="digital_defense" data-tracker-action="click"> Digital Defense </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_studio_1" href="https://www.bloomberg.com/shows/studio-1" data-tracker-label="studio_10" data-tracker-action="click"> Studio 1.0 </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_focus-on-infrastructure" href="https://www.bloomberg.com/news/special-reports/focus-on-infrastructure" data-tracker-label="focus_on__infrastructure" data-tracker-action="click"> Focus On: Infrastructure </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="pursuits" data-vertical="pursuits" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/pursuits" class="bb-nav-categories__link" data-category-path="/pursuits" data-category-vertical="pursuits" target="_self" data-tracker-action="click">Pursuits</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_autos" href="https://www.bloomberg.com/pursuits/cars-bikes" data-tracker-label="cars_and_bikes" data-tracker-action="click"> Cars & Bikes </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_style" href="https://www.bloomberg.com/pursuits/style-grooming" data-tracker-label="style_and_grooming" data-tracker-action="click"> Style & Grooming </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_scene" href="https://www.bloomberg.com/pursuits/spend" data-tracker-label="spend" data-tracker-action="click"> Spend </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_timepieces" href="https://www.bloomberg.com/pursuits/watches-gadgets" data-tracker-label="watches_and_gadgets" data-tracker-action="click"> Watches & Gadgets </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_food" href="https://www.bloomberg.com/pursuits/food-drinks" data-tracker-label="food_and_drinks" data-tracker-action="click"> Food & Drinks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_travel" href="https://www.bloomberg.com/pursuits/travel" data-tracker-label="travel" data-tracker-action="click"> Travel </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_property" href="https://www.bloomberg.com/pursuits/real-estate" data-tracker-label="real_estate" data-tracker-action="click"> Real Estate </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_art" href="https://www.bloomberg.com/pursuits/art-design" data-tracker-label="art_and_design" data-tracker-action="click"> Art & Design </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/shows/brilliant-ideas" data-tracker-label="brilliant_ideas" data-tracker-action="click"> Brilliant Ideas </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="politics" data-vertical="politics" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/politics" class="bb-nav-categories__link" data-category-path="/politics" data-category-vertical="politics" target="_self" data-tracker-action="click">Politics</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/global-risk-briefing/" data-tracker-label="global_risk_briefing" data-tracker-action="click"> Global Risk Briefing </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-how-well-know-if-trump-is-making-america-great-again/" data-tracker-label="road_to_brexit__the_heartlands_where_a_good_deal_matters_most" data-tracker-action="click"> Road to Brexit: The Heartlands Where a Good Deal Matters Most </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/tracking-trumps-web-of-conflicts/" data-tracker-label="tracking_trump’s_web_of_conflicts" data-tracker-action="click"> Tracking Trump’s Web of Conflicts </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-healthcare-bill-changes/" data-tracker-label="failing_or_doing_fine?_how_obamacare’s_marketplaces_are_shaping_up_for_2018" data-tracker-action="click"> Failing or Doing Fine? How Obamacare’s Marketplaces Are Shaping Up for 2018 </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-nkorea-missiles/" data-tracker-label="kim_jong_un’s_big_nuclear_push_is_closing_in_on_america" data-tracker-action="click"> Kim Jong Un’s Big Nuclear Push Is Closing In on America </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="opinion" data-vertical="opinion" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/opinion" data-category-vertical="opinion" target="_self" data-tracker-action="click">Opinion</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_view" href="https://www.bloomberg.com/view/" data-tracker-label="view" data-tracker-action="click"> View </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_gadfly" href="https://www.bloomberg.com/gadfly/" data-tracker-label="gadfly" data-tracker-action="click"> Gadfly </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="businessweek" data-vertical="businessweek" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/businessweek" class="bb-nav-categories__link" data-category-path="/businessweek" data-category-vertical="businessweek" target="_self" data-tracker-action="click">Businessweek</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/magazine/businessweek/17_44" data-tracker-label="latest_issue" data-tracker-action="click"> Latest Issue </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/podcasts/debrief" data-tracker-label="debrief_podcast" data-tracker-action="click"> Debrief Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_subscribe" href="https://subscribe.businessweek.com/pubs/BW/BWK/BWKRelaunch_US_two_hpsubtout_June2017.jsp?cds_page_id=216824&cds_mag_code=BWK&id=1497488101219&lsid=71651932310037847&vid=3#theseErrors" data-tracker-label="subscribe" data-tracker-action="click"> Subscribe </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="footer" data-vertical="footer" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/footer" data-category-vertical="footer" target="_self" data-tracker-action="click">More</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/climate-changed" data-tracker-label="climate_changed" data-tracker-action="click"> Climate Changed </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics" data-tracker-label="graphics" data-tracker-action="click"> Graphics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/billionaires/" data-tracker-label="billionaires" data-tracker-action="click"> Billionaires </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/game-plan" data-tracker-label="game_plan" data-tracker-action="click"> Game Plan </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/small-business" data-tracker-label="small_business" data-tracker-action="click"> Small Business </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/personal-finance" data-tracker-label="personal_finance" data-tracker-action="click"> Personal Finance </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/segments/inspire-go" data-tracker-label="inspire_go" data-tracker-action="click"> Inspire GO </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/features/2016-peer-to-peer/" data-tracker-label="the_david_rubenstein_show" data-tracker-action="click"> The David Rubenstein Show </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/sponsor/partnerships/" data-tracker-label="sponsored_content" data-tracker-action="click"> Sponsored Content </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/tips/" data-tracker-label="send_tips" data-tracker-action="click"> Send Tips </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__category bb-nav-categories__sign-in"> <a id="bb-nav-dropdown-sign-in" class="bb-nav-categories__sign-in-link" href="https://login.bloomberg.com/?in_source=login_direct" data-tracker-label="sign_in" data-tracker-action="click"> Sign In </a> </li> <li class="bb-nav-categories__category bb-nav-categories__experience"> <bb-experience-select class="bb-nav-mobile-experience-select"></bb-experience-select> </li> </ul> </div><div class="bb-nav-touts" is="bb-nav-touts" data-tracker-label="tout"> <a target="_self" id="bb-nav-sign-in" class="bb-nav-touts__link" href="https://login.bloomberg.com/?in_source=login_direct" data-tracker-label="sign_in" data-tracker-action="click">Sign In</a> <a target="_blank" class="bb-nav-touts__subscribe-link" href="http://businessweekmag.com/navbartextlink" data-vertical-target="businessweek" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a> </div><div class="bb-nav-social-container"> <bb-social class="bb-nav-social"></bb-social> </div><div class="bb-nav-search" is="bb-nav-search" data-tracker-label="search"> <form class="bb-nav-search__form" action="/search" method="get" autocomplete="false"> <input type="text" class="bb-nav-search__input" placeholder="What are you searching for?" name="query" autocomplete="off"/> </form> <div class="bb-search-drawer" tabindex="0"> <div class="bb-search-drawer__content"> <bb-quick-links></bb-quick-links> <bb-search-suggestions></bb-search-suggestions> </div> </div> </div> <span class="bb-nav-search__icon" data-tracker-label="search.icon" data-tracker-action="click"></span> </div> </div> <div class="bb-progress"> <div class="bb-progress__status"></div> </div> </nav> </div>
+        </div>
+    
+                <div class='breaking-news-placeholder'></div>
+                <main class="transporter-container">
+                    <div class="transporter-item current">
+                        
+            <article data-story-id="OY1RWQ6TTDS101" data-theme="technology" data-type="article" itemscope itemtype="http://schema.org/Article">
+                <script id="piano-OY1RWQ6TTDS101" type="application/json">{"excludeFromWall":false,"contentType":"article","publishedAt":"2017-10-19T03:06:02.155Z","theme":"technology"}</script>
+                <script id="article-info-OY1RWQ6TTDS101" type="application/json">{"id":"OY1RWQ6TTDS101","contentType":"article","contentTags":[{"id":"19810633","type":"Person","directScore":0.19699431356620634,"derivedScore":0.19699431356620634},{"id":"4648789","type":"Person","directScore":0.9224207961007311,"derivedScore":0.9224207961007311},{"id":"social-media","type":"Topic","directScore":0.59463850528026,"derivedScore":0.59463850528026},{"id":"cloud-computing","type":"Topic","directScore":0.6076360682372055,"derivedScore":0.6076360682372055},{"id":"congress","type":"Topic","directScore":1.4638505280259952,"derivedScore":1.4638505280259952},{"id":"BABA:US","type":"Company","directScore":0.6218521527213647,"derivedScore":0.6218521527213647},{"id":"700:HK","type":"Company","directScore":10.081544562089524,"derivedScore":10.081544562089524},{"id":"CN","type":"Country","directScore":6.201600022918065,"derivedScore":6.201600022918065},{"id":"software-company","type":"Topic","directScore":0,"derivedScore":10.100723175915144},{"id":"culture","type":"Topic","directScore":0,"derivedScore":3.8729974343093287},{"id":"china-congress","type":"Event","directScore":0,"derivedScore":0.9224207961007311},{"id":"technology","type":"Classification","directScore":0,"derivedScore":10.100723175915144},{"id":"US","type":"Country","directScore":0,"derivedScore":0.6218521527213647},{"id":"HK","type":"Country","directScore":0,"derivedScore":10.081544562089524},{"id":"US","type":"Region","directScore":0,"derivedScore":0.6218521527213647},{"id":"Asia","type":"Region","directScore":0,"derivedScore":11.988982584477538}]}</script>
+                <script id="page-level-ad-config-OY1RWQ6TTDS101" type="application/json">{"url":"2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president","adCode":"business/news/technology","targeting":{"suid":"OY1RWQ6TTDS101","page":"articlejav","currentResource":"Story|OY1RWQ6TTDS101","ni":["AGRKEY","ALLTOP","ALLWWCUR","AMFEAT","ASFEAT","ASIA","ASIAX","ATTACHMENT","BGOVBILLGO","BGOVCODES","BIZNEWS","BONDWIRES","BRIC","BUSINESS","BZNEWS","CHGOV","CHINA","CHPRES","CMDGLOMAC","CMDKEY","COS","EM","ENT","EQUITYKEY","EUFEAT","EXCLUSIVE","FINNEWS","FIRST","FOLLOW","GAMES","GEN","GLOBFEAT","GOV","HAR","HK","HKTOP","HKTOPZ2","INDUSTRIES","INTERNET","ITSVC","MAJOR","MED","METALKEY","MISC","MOSTREAD","MSCIDVAS","MSCIEMAS","MSCIWORLD","NASIA","NRGKEY","OILKEY","ONWEB","PHOTO","POL","POLIRISK","READ","READ1000","READ1500","SOCIAL","SOCIALNET","SPREGIONS","SRCRANK1","TEC","TECHTOP","TECHTOPZ2","TECHTOPZ3","TECSVC","TIMECO","TIMENI","TMT","TOP","TOPBIZMKT","UPDATE","WORLD","WWTOP","WWTOPAM","WWTOPAS","WWTOPBIZ","WWTOPEU","WWTOPFEAT","WWTOPGLOB","WWTOPZ3"],"tagr":[],"kwl":["biz_bankofamerica_exclusion","biz_xojet","biz_testing123","biz_exxonmobil","biz_ubsbannedlist","biz_orlando","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_synchrony","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe","biz_zurichsmartmatch","biz_nomurakeywords","biz_etrade","biz_bp1","biz_bp2","biz_bp3","biz_bp4","biz_fidelity","biz_ibm3","biz_dit_terrorism","biz_kornferry","biz_fti","biz_lexus1","biz_brandusa","biz_lexus2","biz_Lincoln2017","biz_singlecountry","biz_dun_bradstreet","biz_BMW","biz_citi1","biz_att1","biz_mobkoimandslist","biz_tdameritrade","biz_ADGMNegativeList","biz_att3","biz_att6","biz_facebook1","biz_facebook2"],"tickers":[{"id":"700:HK","score":10.081544562089524}]},"disableAds":false}</script>
+                
+    <div class="lede-text-only lede">
+        <div class="lede-text-only__background">
+            <div class="background-image"></div>
+            <div class="background-dots"></div>
+            <div class="background-fade"></div>
+        </div>
+        <div class="lede-text-only__container">
+            <div class="lede-text-only__content">
+                
+                <h1 class="lede-text-only__hed"><span class="lede-text-only__highlight">Tencent Comes Up With a Novel Way to Applaud China's President</span></h1>
+                
+                <address class="lede-text-only__byline">By <div class="author">Lulu Yilun Chen
+        <div class="author__modal">
+            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/luluyilun" target="_blank">@luluyilun</a>
+            
+            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/AREqIqgAsYg/lulu-y-chen" rel="author">More stories by Lulu Yilun Chen</a>
+        </div>
+    </div></address>
+                
+                <div class="lede-text-only__times">
+                    
+        <time class="article-timestamp" itemprop="datePublished" datetime="2017-10-19T03:06:02.155Z" data-type="updated">
+            
+        <script class="article-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>October 18, 2017, 11:06 PM EDT</noscript>
+    
+        </time>
+    
+                    
+        <time class="article-timestamp" itemprop="dateModified" datetime="2017-10-19T06:08:36.044Z" data-type="updated">
+            
+        <script class="article-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>October 19, 2017, 2:08 AM EDT</noscript>
+    
+        </time>
+    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+                <div class="content-well">
+                    <section class="main-column">
+                        
+    <ul class="abstract">
+        
+        <li class="abstract__item">
+            <div class="abstract__item-text">
+                Game invites users to applaud Xi Jinping’s congress speech
+            </div>
+        </li>
+        <li class="abstract__item">
+            <div class="abstract__item-text">
+                Chinese internet companies race to pledge loyalty to the Party
+            </div>
+        </li>
+    </ul>
+                        
+    <figure class="lede-media-image lede figure-expandable">
+        <div class="image">
+            
+        <div id="lazy-img-319350394" class="lazy-img " >
+            <style>#lazy-img-319350394:before{padding-top:66.64999999999999%;}</style>
+            <img class="lazy-img__image"
+                 src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0LrcZNMaaY/v0/150x-1.jpg"
+                 data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0LrcZNMaaY/v0/-1x-1.jpg">
+        </div>
+        </div>
+        
+        <figcaption>
+            
+            <span class="lede-media-image__caption caption"><p>Game invites users to applaud Xi Jinping’s congress speech.</p>
+</span>
+            
+            <span class="lede-media-image__credit credit">Photographer: Qilai Shen/Bloomberg</span>
+        </figcaption>
+    </figure>
+                        
+        <div class="body-copy">
+            <p>You can always count on Tencent to entertain the masses, especially if it means stroking the ego of China&#x2019;s president.</p><div class="regwall" data-position="1"></div><aside class="inline-newsletter" data-state="ready"></aside><p>A day after the 19th Party Congress kicked off with a marathon <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/politics/articles/2017-10-18/xi-s-grand-vision-for-china-prioritizes-party-power-over-reform" title="Xi&#x2019;s Grandiose Vision for China Puts Party Power Over Reform (1)" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OY1MZJ6TTDS6">speech</a> by Xi Jinping, <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/quote/700:HK" title="Company Overview"><meta itemprop="active" content="true"><meta itemprop="type" content="SecurityLink"><meta itemprop="url" content="bbg://securities/700%20HK%20Equity"><meta itemprop="security" content="700 HK Equity">Tencent Holdings Ltd.</a> rolled out a game to enlist its 1 billion users&#xA0;on WeChat in a clapping competition.&#xA0;After watching highlights of his three-and-a-half hour monologue, users have 19 seconds to repeatedly mash an &#x201C;applaud&#x201D; button superimposed on an iconic image of the Great Hall of the People.&#xA0;The game had garnered more than 800 million claps by Thursday morning -- a tribute to a seminal address that transfixed markets and was broadcast live on virtually every Chinese TV station Wednesday.</p><div class="regwall" data-position="2"></div><p>China&#x2019;s biggest internet companies -- by far the largest corporate sector to have thrived outside of government control --&#xA0;have scrambled in recent months to demonstrate fealty to the ruling apparatus. Their endeavors ranged from <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/quote/BABA:US" title="Company Overview"><meta itemprop="active" content="true"><meta itemprop="type" content="SecurityLink"><meta itemprop="url" content="bbg://securities/BABA%20US%20Equity"><meta itemprop="security" content="BABA US Equity">Alibaba Group Holding Ltd.</a> touting cloud computing collaborations with local government to&#xA0;bike-rental giant Ofo setting up internal Party units.</p><div class="regwall" data-position="3"></div>
+        <div id="box-6IPPkYK" class="page-ad" data-position="mobile-box">
+            <script class="params" type="application/json">{"contentId":"OY1RWQ6TTDS101","position":"box","dimensions":{"mobile":[[300,250],[1,1]]},"type":"Mobile Body Box Ad","positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president"},"containerId":"box-6IPPkYK"}</script>
+            <div class="mobile-box-ad-dummy"></div>
+        </div>
+        <p>The race to pledge allegiance isn&#x2019;t surprising given the importance attached to the twice-a-decade congress, which is expected to&#xA0;set policy across every industry sector and help Xi consolidate his position as China&#x2019;s most-powerful leader in a generation. But Tencent, as the dominant powerhouse in social media and content, is in the spotlight.</p><div class="regwall" data-position="4"></div><figure data-type="image" data-id="319309088" data-thumbnail="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPSfV9LQrShg/v0/460x260.jpg" align="center" data-align="center" style="max-width: 2000px;" class="figure-expandable"><div class="image"><div id="lazy-img-319309088" class="lazy-img"><style>#lazy-img-319309088:before{padding-top:66.7%;}</style><img class="aligncenter lazy-img__image" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPSfV9LQrShg/v0/60x-1.jpg" alt="An attendee takes a photograph of Xi Jinping, China&apos;s president, as he pauses while giving a speech during the opening of the 19th National Congress of the Communist Party of China at the Great Hall of the People in Beijing, China, on Wednesday, Oct. 18, 2017. Xi warned of severe challenges, as he kicked off a twice-a-decade party meeting that may signal if he will appoint a successor to rule after 2022. Photographer: Qilai Shen/Bloomberg" data-wp-imgselect="1" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPSfV9LQrShg/v0/-1x-1.jpg"></div></div><figcaption><div class="news-figure-caption-text caption">
+<p>An attendee takes a photograph of Xi Jinping, as he speaks during the opening of the 19th National Congress of the Communist Party of China on Oct. 18.</p>
+</div><div class="news-figure-credit credit">Photographer: Qilai Shen/Bloomberg</div>
+
+</figcaption></figure><p data-tout-type="story"><a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2017-10-08/the-meeting-that-could-seal-xi-s-grip-on-china-quicktake-q-a" title="Click for full story" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXEMVQ6JIJUO">The Meeting That Could Seal Xi&#x2019;s Grip on China: QuickTake Q&amp;A</a></p><p>The company was dealt the &#x201C;<a itemscope="itemscope" itemprop="StoryLink" href="/news/terminal/OWTWW36S9728" title="China Fines Tencent, Baidu, Weibo for Content Violations" class="terminal-news-story" target="_blank" rel="nofollow noopener"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OWTWW36S9728">highest fines&#x201D;</a> by authorities in September for failing to supervise content on WeChat. Regulators declared creators of all online groups <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2017-09-12/china-s-latest-crackdown-on-message-groups-chills-wechat-users" title="China&#x2019;s Latest Crackdown on Message Groups Chills WeChat Users" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OW5J9S6TTDS0">responsible</a> for managing information -- even in private forums -- and began making arrests, sending chills through the country&#x2019;s web users. The government has long been <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2016-05-03/china-said-to-explore-taking-stakes-in-some-news-websites-apps" title="China Said to Explore Taking Stakes in Some News Websites (1)" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="O6LBAN6TTDS8">said</a> to be exploring ways to strengthen their oversight by taking stakes in operators of video streaming sites and online portals, with Tencent being one of them.</p><p>Jane Yip, a spokeswoman for the company, didn&#x2019;t respond to an email and text message seeking comment.</p><p>As the social media giant&#x2019;s market value soars pass <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/quote/700:HK" title="Company Overview"><meta itemprop="active" content="true"><meta itemprop="type" content="SecurityLink"><meta itemprop="url" content="bbg://securities/700%20HK%20Equity"><meta itemprop="security" content="700 HK Equity">$430 billion</a>, investors are betting on Tencent&#x2019;s ability to hew to national policies while still creating products that people like and rely on. In the meantime, some at least are having a blast at its latest game: one person was able to depress the &#x201C;applause&#x201D; button 60 times a second, a velocity just shy of a hummingbird&#x2019;s wings.</p><figure data-type="video" data-id="318849192" data-align="center" data-thumbnail="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioXucsWBviKw/v1/220x126.jpg"> 
+        <div class="video-player">
+            <div id="player-WTAUWx2" class="video-player__container" data-bmmrid="PcvN6emxQyCPUccLldvQ3g" data-url="https://www.bloomberg.com/politics/videos/2017-10-06/how-xi-went-from-feeding-pigs-to-ruling-china-video" data-autoplay="false" data-poster="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioXucsWBviKw/v5/-1x-1.jpg"></div>
+            <div class="video-player__curtain">
+                <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioXucsWBviKw/v5/640x-1.jpg" srcset="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioXucsWBviKw/v5/640x-1.jpg 640w, https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioXucsWBviKw/v5/680x-1.jpg 680w, https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioXucsWBviKw/v5/740x-1.jpg 740w" sizes="(min-width:761px) and (max-width:1020px) 680px, (min-width:1021px) and (max-width:1280px) 640px, (min-width:1281px) 740px, 100vw">
+                <div class="video-player__overlay" data-playerid="player-WTAUWx2">
+                    <img class="video-player__play-icon" src="https://assets.bwbx.io/s3/javelin/public/javelin/images/play-076012604d.svg">
+                </div>
+            </div>
+        </div>
+    
+<figcaption><div class="news-figure-caption-text">How Xi Jinping Went From Feeding Pigs to Ruling China</div>
+</figcaption></figure><ol class="noscript-footnotes"></ol>
+        </div>
+    
+                        
+                        
+                        <div class="touts">
+                            
+    <div class="terminal-tout-container">
+        <div class="terminal-tout">
+            <span class="terminal-tout__text">Before it's here, it's on the Bloomberg Terminal.</span>
+            <div class="terminal-tout__icon"></div>
+            <a href="https://bloom.bg/dg-ws-core-bcom-a1" class="terminal-tout__link">LEARN MORE</a>
+        </div>
+    </div>
+                            
+        <div class="secure-tip-tout">
+            <a class="secure-tip-tout__link" href="https://www.bloomberg.com/tips/">Have a confidential news tip?<br>Get in touch with our reporters.</a>
+        </div>
+                        </div>
+                        
+                        
+                        
+                        
+        <script id="page-level-taboola-config-OY1RWQ6TTDS101" type="application/json">{"url":"https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president"}</script>
+        <div id="taboola-below-article-thumbnails-a5f7a2c0ff4f9a152b90601fa6553c8c" class="taboola"></div>
+    
+                    </section>
+                    <aside class="right-rail">
+                        
+                        
+                        <div class="dry-container">
+                        </div>
+                        <div class="sticky-container">
+                            
+                            
+    <div id="box-GcolvBg" class="box rotation-item page-ad" data-position="box">
+        <script class="params" type="application/json">{"contentId":"OY1RWQ6TTDS101","position":"box","dimensions":{"small_desktop":[[300,600],[300,250],[1,1]],"large_desktop":[[300,600],[300,250],[1,1]]},"positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president"},"containerId":"box-GcolvBg"}</script>
+    </div>
+    
+                            
+                            
+        <div class="recirc rotation-item">
+            <div class="recirc__title">Most Read</div>
+            <ol class="recirc__list">
+                
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/hamptons-mansions-pile-up-while-buyers-battle-over-smaller-homes">Hamptons Buyers Battle Over Cheaper Homes &#x2014; That Is, Under $3.3 Million</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/rising-rents-are-pushing-more-tenants-past-the-breaking-point">Rising Rents Are Pushing More Tenants Past the Breaking Point</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/drug-wholesalers-slump-after-amazon-com-obtains-state-licenses">Amazon Threat Causes Shakeout in the Health-Care Industry</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/billionaires-fortunes-rise-to-6-trillion-with-asia-leading-way">Asia Now Has More Billionaires Than the U.S.</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-25/inside-apple-s-struggle-to-get-the-iphone-x-to-market-on-time">Inside Apple&#x2019;s Struggle to Get the iPhone X to Market on Time</a>
+        </li>
+            
+    <li id="trendingnow-zpbFlWy" class="recirc__list-item recirc__list-item-ad" data-position="trendingnow">
+        <script class="params" type="application/json">{"contentId":"OY1RWQ6TTDS101","position":"trendingnow","dimensions":{"small_desktop":[[5,18],[1,1]],"large_desktop":[[5,18],[1,1]]},"positionIncrement":1,"targeting":{"position":"trendingnow1","positionIncrement":1,"url":"/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president"},"containerId":"trendingnow-zpbFlWy"}</script>
+    </li></ol>
+        </div>
+                        </div>
+                    </aside>
+                </div>
+            </article>
+        
+                        
+                    </div>
+                </main>
+                <footer class="bb-global-footer"> <div class="bb-global-footer__content"> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/tos">Terms of Service</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/trademarks">Trademarks</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/privacy">Privacy Policy</a> <small class="bb-global-footer__copyright">©2017 Bloomberg L.P. All Rights Reserved</small> </div> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer">Careers</a> <a class="bb-global-footer__link" href="http://nytm.org/made-in-nyc">Made in NYC</a> <a class="bb-global-footer__link" href="http://bloombergmedia.com/">Advertise</a> <a class="bb-global-footer__link bb-global-footer__ad-choices" href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/feedback">Website Feedback</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/help">Help</a> </div> </div> </footer>
+                
+        <script>
+            window["jvln-asset-prefix"] = "https://assets.bwbx.io/s3/javelin";
+        </script>
+        <script class="dependencies" type="application/json">
+            {"css":["/public/javelin/css/application/application-08d1bf1521.css","/public/javelin/css/layout/basic/basic-19331a57e5.css","/public/javelin/css/layout/basic/basic-e57e2909c7.desktop.css","/public/javelin/css/layout/basic/basic-feab898b86.small_desktop.css","/public/javelin/css/layout/basic/basic-a69847c3fa.large_desktop.css","/public/javelin/css/layout/basic/basic-3728b26bcb.tablet.css","/public/javelin/css/layout/basic/basic-80068e7b37.mobile.css","/public/javelin/css/nav/bb/nav-28e2d17016.css","/public/javelin/css/components/breaking_news_placeholder/breaking_news-181cec3985.desktop.css","/public/javelin/css/components/image_viewer/image_viewer-d6c4cb4d6d.css","/public/javelin/css/components/image_viewer/image_viewer-44ae116396.desktop.css","/public/javelin/css/components/image_viewer/image_viewer-90a9b24409.mobile-tablet.css","/public/javelin/css/components/image_viewer/image_viewer-0e5ec91ea4.mobile.css","/public/javelin/css/print/print-ffa68fd905.css","/public/javelin/css/components/truste/truste-6f53efc220.css","/public/javelin/css/components/truste/truste-323c682892.small_desktop.css","/public/javelin/css/components/truste/truste-5679a9f67c.large_desktop.css","/public/javelin/css/components/truste/truste-932ba91b49.tablet.css","/public/javelin/css/components/truste/truste-53c717658f.mobile.css","/public/javelin/css/ads/leaderboard/leaderboard-f7160e7776.css","/public/javelin/css/ads/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css","/public/javelin/css/components/lazy_images/lazy_image-7dc0452705.css","/public/javelin/css/components/abstract/abstract-762d163070.css","/public/javelin/css/components/author_tout/author_tout-c6e448ba2b.css","/public/javelin/css/components/author_tout/author_tout-e273b6df99.mobile.css","/public/javelin/css/body/basic/body-d998ba8eeb.css","/public/javelin/css/body/basic/newsletter_tout-7104a5317e.css","/public/javelin/css/body/basic/outstream_ad-c21b3ed6be.css","/public/javelin/css/body/basic/body-75cdc2b544.desktop.css","/public/javelin/css/body/basic/in_article_ad-238ed3378a.desktop.css","/public/javelin/css/body/basic/body-e74c024d6f.large_desktop.css","/public/javelin/css/body/basic/body-e886f59cb3.tablet-desktop.css","/public/javelin/css/body/basic/mobile_ads-10915d4c59.tablet-desktop.css","/public/javelin/css/body/basic/body-b820c41d19.tablet.css","/public/javelin/css/body/basic/in_article_ad-302586dffe.tablet.css","/public/javelin/css/body/basic/in_article_ad-b789d79511.mobile-tablet.css","/public/javelin/css/body/basic/body-6689773bd7.mobile.css","/public/javelin/css/body/basic/in_article_ad-a8500fe5ea.mobile.css","/public/javelin/css/body/basic/mobile_ads-95f94f08a6.mobile.css","/public/javelin/css/body/basic/newsletter_tout-12eaa8fd13.mobile.css","/public/javelin/css/ledes/basic/small_image/small_image-d045408edb.css","/public/javelin/css/ledes/basic/small_image/small_image-22ec7f2aad.large_desktop.css","/public/javelin/css/ledes/basic/small_image/small_image-3c1ad74a1a.mobile.css","/public/javelin/css/ledes/basic/text_only/text_only-9bf4006248.css","/public/javelin/css/ledes/basic/text_only/text_only-bb5da368ce.desktop.css","/public/javelin/css/ledes/basic/text_only/text_only-6a33ad34f5.small_desktop.css","/public/javelin/css/ledes/basic/text_only/text_only-b17a45ed53.large_desktop.css","/public/javelin/css/ledes/basic/text_only/text_only-7472f45bf8.tablet.css","/public/javelin/css/ledes/basic/text_only/text_only-b95e829bc6.mobile.css","/public/javelin/css/components/author_details/author_details-f6d8baf35e.css","/public/javelin/css/components/recirc/recirc-753ad6df8e.css","/public/javelin/css/ads/terminal_tout/terminal_tout-f96d849049.css","/public/javelin/css/ads/terminal_tout/terminal_tout-b55b132f21.mobile.css","/public/javelin/css/ads/secure_tip_tout/secure_tip_tout-0250568d0e.css","/public/javelin/css/themes/technology/tech-ad181633f2.css"],"js":["/public/javelin/js/pwa/pwa-fa16a7fd08.js","/public/javelin/js/layout/basic/right_rail-7dc495bd15.desktop.js","/public/javelin/js/nav/bb/nav-f87ced8470.js","/public/javelin/js/components/breaking_news_placeholder/breaking_news_placeholder-e16f4bf9e4.js","/public/javelin/js/components/image_viewer/image_viewer-1286fdbee3.js","/public/javelin/js/ads/initialize/initialize_ads-9aedc7a132.js","/public/javelin/js/transporter/transporter-73919e3472.js","/public/javelin/js/components/truste/truste-6ac723d3b5.js","/public/javelin/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js","/public/javelin/js/components/lazy_images/lazy_images-e6cb415eb4.js","/public/javelin/js/components/third_party_embeds/third_party_embeds-ce53bf94e8.js","/public/javelin/js/components/timestamp/timestamp-9befc43f88.js","/public/javelin/js/components/video_player/video_player-d5716c6cb8.js","/public/javelin/js/polyfills/polyfills-8f68b333dc.js","/public/javelin/js/unsupportedBrowserMessage/unsupportedBrowserMessage-a2da9f94e7.async.js","/public/javelin/js/pianola/pianola-5cdb098e86.js","/public/javelin/js/components/author_details/author_details-06d9d1cb95.js","/public/javelin/js/ads/taboola/taboola-cd833d2439.js","/public/javelin/js/components/miniplayer/miniplayer-bae2db47a8.desktop.js","/public/javelin/js/dependencies/dependencies-36374e54c2.js"]}
+        </script>
+                <script class="content-data" type="application/json">{"adCode":"business/news/technology","attributor":"bn","brand":"technology","secondaryBrands":["technology"],"byline":"Lulu Yilun Chen","franchise":null,"id":"OY1RWQ6TTDS101","primaryCategory":"technology","categories":["technology"],"primarySite":"technology","publishedAt":"2017-10-19T03:06:02.155Z","seoHeadline":"Tencent Comes Up With a Novel Way to Applaud China's President","slug":"2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president","textHeadline":"Tencent Comes Up With a Novel Way to Applaud China's President","theme":"technology","topic":"Congress","twitterHandle":"technology","twitterText":"Tencent has come up with a novel way to applaud China's president","type":"article","url":"https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president","webOriginal":false}</script>
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/polyfills/polyfills-8f68b333dc.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/ads/initialize/initialize_ads-9aedc7a132.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/pianola/pianola-5cdb098e86.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:761px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/breaking_news_placeholder/breaking_news_placeholder-e16f4bf9e4.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/video_player/video_player-d5716c6cb8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:1021px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/miniplayer/miniplayer-bae2db47a8.desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:1021px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/layout/basic/right_rail-7dc495bd15.desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/author_details/author_details-06d9d1cb95.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/ads/taboola/taboola-cd833d2439.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/transporter/transporter-73919e3472.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://www.bbthat.com/assets/v1.4.0/that.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/nav/bb/nav-f87ced8470.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://nav.bloomberg.com/public/javascripts/global/bb-global-nav-ff73223b17.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/image_viewer/image_viewer-1286fdbee3.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/dependencies/dependencies-36374e54c2.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/lazy_images/lazy_images-e6cb415eb4.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/third_party_embeds/third_party_embeds-ce53bf94e8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/timestamp/timestamp-9befc43f88.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script src="https://assets.bwbx.io/s3/javelin/public/javelin/js/unsupportedBrowserMessage/unsupportedBrowserMessage-a2da9f94e7.async.js" type="text/javascript" async></script>
+                <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MNTH5N');</script><!-- End Google Tag Manager -->
+                <!-- Google Tag Manager (noscript) --><noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-MNTH5N' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+                
+        <div id="parsely-root" style="display: none">
+             <div id="parsely-cfg" data-parsely-site="bloomberg.com"></div>
+        </div>
+        <script>
+            (function(s, p, d) {
+            var h=d.location.protocol, i=p+"-"+s,
+               e=d.getElementById(i), r=d.getElementById(p+"-root"),
+               u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+               :"static."+p+".com";
+            if (e) return;
+            e = d.createElement(s); e.id = i; e.async = true;
+            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+            })("script", "parsely", document);
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/truste/truste-6ac723d3b5.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+            </body>
+        </html>
+    

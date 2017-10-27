@@ -1,0 +1,689 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://www.chinafile.com/sites/default/files/chinafile_favicon.png" type="image/png" />
+<meta name="description" content="Last year, in response to mounting criticism for its key role in the steep decline in the world’s elephant population, China announced that it would ban ivory trading and shutter all of the country’s 177 licensed ivory processing companies and retail shops by the end of 2017." />
+<meta name="news_keywords" content="China, media, journalism, Ivory, Ivory Trade, Elephants, Animal, Animal Protection, Animal Welfare, Illegal Trade, Smuggling" />
+<meta name="abstract" content="An online magazine of original and selectively syndicated reporting and commentary on China." />
+<meta name="keywords" content="China, Journalism, Current Affairs" />
+<link rel="image_src" href="http://www.chinafile.com/sites/default/files/assets/images/video/system/shuidong.jpg,http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<link rel="canonical" href="http://www.chinafile.com/multimedia/video/town-heart-of-chinas-black-market-ivory" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="http://www.chinafile.com/node/41956" />
+<meta property="fb:admins" content="4403816" />
+<meta property="fb:app_id" content="367747193390636" />
+<meta property="og:title" content="The Town at the Heart of China’s Black Market in Ivory" />
+<meta property="og:site_name" content="ChinaFile" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Last year, in response to mounting criticism for its key role in the steep decline in the world’s elephant population, China announced that it would ban ivory trading and shutter all of the country’s 177 licensed ivory processing companies and retail shops by the end of 2017." />
+<meta property="og:url" content="http://www.chinafile.com/multimedia/video/town-heart-of-chinas-black-market-ivory" />
+<meta property="og:updated_time" content="2017-10-12T12:40:16-04:00" />
+<meta property="og:image" content="http://www.chinafile.com/sites/default/files/assets/images/video/system/shuidong.jpg" />
+<meta property="og:image" content="http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/default/files/assets/images/video/system/shuidong.jpg" />
+<meta property="og:image:url" content="http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@ChinaFile" />
+<meta name="twitter:site:id" content="84786801" />
+<meta name="twitter:title" content="The Town at the Heart of China’s Black Market in Ivory" />
+<meta name="twitter:url" content="http://www.chinafile.com/multimedia/video/town-heart-of-chinas-black-market-ivory" />
+<meta name="twitter:description" content="Last year, in response to mounting criticism for its key role in the steep decline in the world’s elephant population, China announced that it would ban ivory trading and shutter all of the country’s 177 licensed ivory processing companies and retail shops by the end of 2017." />
+<meta name="twitter:image" content="http://www.chinafile.com/sites/default/files/assets/images/video/system/shuidong.jpg,http://www.chinafile.com/sites/all/themes/chinafile/logos/logo-facebook-shared_image-light.jpg" />
+<meta name="twitter:image:width" content=",," />
+<meta name="twitter:image:height" content=",," />
+<meta property="article:section" content="Video" />
+<meta property="article:tag" content="Ivory" />
+<meta property="article:tag" content="Ivory Trade" />
+<meta property="article:tag" content="Elephants" />
+<meta property="article:tag" content="Animal" />
+<meta property="article:tag" content="Animal Protection" />
+<meta property="article:tag" content="Animal Welfare" />
+<meta property="article:tag" content="Illegal Trade" />
+<meta property="article:tag" content="Smuggling" />
+<meta property="article:published_time" content="2017-10-11T16:16:13-04:00" />
+<meta property="article:modified_time" content="2017-10-12T12:40:16-04:00" />
+<meta property="og:video:url" content="https://vimeo.com/237802377" />
+<meta property="og:video:secure_url" content="https://vimeo.com/237802377" />
+<meta property="video:tag" content="Ivory" />
+<meta property="video:tag" content="Ivory Trade" />
+<meta property="video:tag" content="Elephants" />
+<meta property="video:tag" content="Animal" />
+<meta property="video:tag" content="Animal Protection" />
+<meta property="video:tag" content="Animal Welfare" />
+<meta property="video:tag" content="Illegal Trade" />
+<meta property="video:tag" content="Smuggling" />
+  <title>The Town at the Heart of China’s Black Market in Ivory | ChinaFile</title>
+  <link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_KiW2LiyrCcZVV0qrPH8lYFbMuucXuTFt2eJJDhvtmD4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css__Fjaj2hjxh6x766OC-DA-hWZhTo5bXYUFoyDO018cIU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_A0zIOFmK-BB77yanrUTsuuxeRbxv8RRIkeR1Tmyyph4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chinafile.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="print" />
+  <script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _prum=[['id', '54a5b733abe53df81ed455ec'], ['mark', 'firstbyte',
+      (new Date()).getTime()]]; (function() {
+      var s=document.getElementsByTagName('script')[0],
+      p=document.createElement('script');
+      p.async='async'; p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_0RgHi2By0YhYjet9xuUK1CAl1mLRHPf-4NAM5NYO9Wg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+(function ($) {
+  $(document).ready(function () {
+    $('h1, h2, .field').curlies();
+  });
+})(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_E_-TE5vgXTAJf4L9JyrVufuU4gAUFZ3X8_ShTQz_vBg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.chinafile.com/sites/default/files/googleanalytics/analytics.js?oyckrf","ga");ga("create", "UA-25322293-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_gC7yHRhKuERyssiHLm0RWhOcPh6RJwoq3nR-pYcdvl8.js"></script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_s4zA8BIp5abe7C4EiO_hzRhqYHyysqHfv01HPizly3U.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cftwo","theme_token":"x63EREGVsB__JcZprre4XNOj0awd7_6rbep2czB_oIE","js":{"0":1,"sites\/all\/modules\/custom\/cbox\/includes\/cbox.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"1":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/curlies\/curlies.js":1,"2":1,"sites\/all\/modules\/contrib\/external\/external.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"http:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"\/js\/before-after.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/mobile-classes.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/toggle.js":1,"sites\/all\/themes\/cftwo\/assets\/javascripts\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/libraries\/fontello\/css\/fontello.css":1,"sites\/all\/modules\/custom\/chinafile_alter\/css\/admin.css":1,"sites\/all\/themes\/cftwo\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/cftwo\/assets\/stylesheets\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"1000px"},"externalpdf":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/search\/results":true}});
+//--><!]]>
+</script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">    <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" id="st_insights_js" src="https://ws.sharethis.com/button/buttons.js?publisher=457a290a-9652-4a5f-ac83-f1f0590148d8"></script>
+  <script type="text/javascript">stLight.options({
+    publisher: "457a290a-9652-4a5f-ac83-f1f0590148d8",
+    doNotHash: false,
+    doNotCopy: false,
+    hashAddressBar: false,
+    publisherGA:"UA-25322293-1"
+  });</script>
+</head>
+<body class="html not-logged-in page-node page-node-41956 node-type-video panel-layout-cf_twocol panel-region-middle panel-region-top panel-region-top_left panel-region-top_right header-small dark" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+
+  <header id="header" class="header" role="header">
+    <div class="container">
+      <a href="/" title="Home" rel="home" class="logo">ChinaFile</a>
+
+      <nav class="navbar navbar-default" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div> <!-- /.navbar-header -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+                      <form class="search-form navbar-form navbar-right" action="/search/results" method="post" id="search-form" accept-charset="UTF-8" role="form"><div><div class="container-inline form-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys form-group">
+  <label class="element-invisible" for="edit-keys">Search </label>
+ <input placeholder="Search" class="form-control form-control form-text" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit btn btn-default btn-primary" /></div><input type="hidden" name="form_build_id" value="form-2_fB2_rJQJ1CtpSQkPOVHpRGJQV6iDf12JzdBAoaBdg" />
+<input type="hidden" name="form_id" value="search_form" />
+</div></form>                                <ul id="main-menu" class="menu nav navbar-nav">
+              <li title="" class="menu-link-reporting--opinion"><a href="/reporting-opinion">Reporting &amp; Opinion</a></li>
+<li title="" class="menu-link-conversation"><a href="/conversation">Conversation</a></li>
+<li title="" class="menu-link-library"><a href="/library">Library</a></li>
+<li title="" class="menu-link-multimedia"><a href="/multimedia">Multimedia</a></li>
+<li title="" class="menu-link-topics"><a href="/topics">Topics</a></li>
+<li title="" class="menu-link-contributors"><a href="/contributors">Contributors</a></li>
+            </ul>
+                  </div><!-- /.navbar-collapse -->
+      </nav><!-- /.navbar -->
+    </div>
+
+    <div class="submenu">
+      <div class="chinafile-submenu chinafile-menu-reporting hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-3c46633770d5ce20d17dd6f16f8859af">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/culture">Culture</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/environment">Environment</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/features">Features</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/green-space">Green Space</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/media">Media</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/postcard">Postcard</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/viewpoint">Viewpoint</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-9e43cbefd8babfb1d312853b8eed2a6c">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/caixin-media">Caixin Media</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/earthbound-china">Earthbound China</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/my-first-trip">My First Trip</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/out-school">Out of School</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/reporting-opinion/two-way-street">Two Way Street</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-library hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-96864554edd207ed79f33d79c371946d">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/books">Books</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/excerpts">Excerpts</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/reports">Reports</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-f447c4c2c32a9acca285077c6043ceb2">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/china-world-podcast">China in the World Podcast</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/sinica-podcast">Sinica Podcast</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/china-africa-project">The China Africa Project</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/library/nyrb-china-archive">The NYRB China Archive</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-multimedia hidden-xs">
+        <div class="container">
+          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_1 view-dom-id-0dbd727800379eb341b8e023d9a8765a">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/depth-of-field">Depth of Field</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/infographics">Infographics</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/photo-gallery">Photo Gallery</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/video">Video</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/multimedia/viral-videos">Viral Videos</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          <div class="view view-chinafile-sections-menu view-id-chinafile_sections_menu view-display-id-panel_pane_2 view-dom-id-b3c8672011be7318362e1c53259b1dd7">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-topics hidden-xs">
+        <div class="container">
+          <div class="view view-topics view-id-topics view-display-id-panel_pane_2 view-dom-id-6ee83bd6ec13796b9ceb78a84200dc01">
+        
+  
+  
+      <div class="content view-content">
+      <div class="views-view-grid cols-5 container-fluid">
+      <div class="row-1 row-first row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/arts">Arts</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/energy">Energy</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/law">Law</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/religion">Religion</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/society">Society</a></span>  </div>        </div>
+          </div>
+      <div class="row-2 row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/business">Business</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/environment">Environment</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/media">Media</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/rural-life">Rural Life</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/technology">Technology</a></span>  </div>        </div>
+          </div>
+      <div class="row-3 row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/economy">Economy</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/health">Health</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/military">Military</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/science">Science</a></span>  </div>        </div>
+              <div class="col-5 col-last col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/urban-life">Urban Life</a></span>  </div>        </div>
+          </div>
+      <div class="row-4 row-last row row-fluid">
+              <div class="col-1 col-first col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/education">Education</a></span>  </div>        </div>
+              <div class="col-2 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/history">History</a></span>  </div>        </div>
+              <div class="col-3 col-sm-5ths">
+            
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topic/politics">Politics</a></span>  </div>        </div>
+              <div class="col-4 col-sm-5ths">
+                  </div>
+              <div class="col-5 col-last col-sm-5ths">
+                  </div>
+          </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>        </div> <!-- /.container -->
+      </div>
+      <div class="chinafile-submenu chinafile-menu-contributors hidden-xs">
+        <div class="container">
+          <div class="chinafile-menu-contributors-inner row">
+            <div class="col-sm-9"><div class="view view-contributors-menu view-id-contributors_menu view-display-id-panel_pane_1 view-dom-id-f4bb623ee3eaa36175a8951d0c207122">
+        
+  
+  
+      <div class="content view-content">
+        <div class="views-row views-row-1">
+      
+          <a href="/contributors/alvin-yh-cheung"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/alvin_cheung.jpg?itok=dk6gLiEY" width="82" height="93" alt="" /></a>    
+          <a href="/contributors/alvin-yh-cheung">Alvin Y.H. Cheung</a>    </div>
+  <div class="views-row views-row-2">
+      
+          <a href="/contributors/Tim-Franco"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/tim-franco-2.jpg?itok=RrVdasqX" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/Tim-Franco">Tim Franco</a>    </div>
+  <div class="views-row views-row-3">
+      
+          <a href="/contributors/sharron-lovell"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/wr_2011-01-_ccc_office_portraits_bnmx265_0.jpg?itok=StRLtkz9" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/sharron-lovell">Sharron Lovell</a>    </div>
+  <div class="views-row views-row-4">
+      
+          <a href="/contributors/leslie-t-chang"><img src="http://www.chinafile.com/sites/default/files/styles/thumbnail/public/assets/images/profile/leslie-chang_0.jpg?itok=FvpPWM63" width="93" height="93" alt="" /></a>    
+          <a href="/contributors/leslie-t-chang">Leslie T. Chang</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+            <div class="col-sm-3"><div class="view view-contributors-menu view-id-contributors_menu view-display-id-panel_pane_2 view-dom-id-552e2b2c84a34c455c788209f30e327c">
+        
+  
+  
+      <div class="content view-content">
+          <ul>          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/james-palmer">James Palmer</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/amartya-sen">Amartya Sen</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/isabel-hilton">Isabel Hilton</a></span>  </div></li>
+          <li class="name">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contributors/zha-jianying">Zha Jianying</a></span>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/contributors" class="see-all">See All</a>    </div>
+  
+  
+</div></div>
+          </div>
+        </div> <!-- /.container -->
+      </div>
+
+    </div> <!-- /.container -->
+            <div id="breadcrumb" class="visible-desktop">
+          <h2 class="element-invisible">You are here</h2><ul class="breadcrumb node"><li class="first last"><a href="/multimedia/video">Video</a></li></ul>        </div>
+        </header>
+
+  <div id="main" class="main">
+    <div class="main-container container container-fluid">
+
+      <div class="main-header">
+        
+        
+        
+              </div>
+
+      <div id="content" class="main-content">
+        <div class="l-cf-twocol l-panel" >
+  <div class="l-top l-twocol-wrapper container container-fluid">
+    <div class="panel-pane pane-node-title" >
+  
+        <h2 class="pane-title">Title</h2>
+    
+  
+  <h1>The Town at the Heart of China’s Black Market in Ivory</h1>
+
+  
+  </div>
+<div class="panel-pane pane-node-authors-date" >
+  
+      
+  
+  <ul class="author-date">  <li class="create-date">October 11, 2017</li></ul>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-video-embed" >
+  
+      
+  
+  <div class="field field-name-field-video-embed field-type-video-embed-field field-label-hidden">
+  
+  
+                  
+<div class="embedded-video large-dark-theme">
+  <div class="player">
+    <iframe class="" id="vimeo-237802377" width="940" height="529" src="//player.vimeo.com/video/237802377?width=940&amp;height=529&amp;color=ffffff&amp;portrait=0&amp;title=0&amp;byline=0&amp;autoplay=0&amp;loop=0&amp;player_id=vimeo-237802377" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>  </div>
+</div>
+          
+  </div>
+
+  
+  </div>
+  </div>
+
+  <div class="l-upper-wrapper l-twocol-wrapper container">
+    <div class="l-twocol-left">
+      <aside class="col-sm-4 col-md-4 l-twocol-right">
+        <div class="panel-pane pane-views-panes pane-publications-panel-pane-2" >
+  
+      
+  
+    <div class="view view-publications view-id-publications view-display-id-panel_pane_2 clearfix view-dom-id-45fae51c3feedbafbc0c24fbeb3b50af">
+                
+    
+    
+          <div class="view-content">
+          <div>
+      
+  <div class="views-field views-field-field-publication-article-header">        <div class="field-content"><a href="/publications/environmental-investigation-agency"><img src="http://www.chinafile.com/sites/default/files/styles/publication_header/public/assets/images/publication/article_block_header/for_muyi.jpg?itok=5Bu7nGcd" width="640" height="128" alt="" /></a></div>  </div>  </div>
+      </div>
+    
+    
+    
+    
+    
+    
+  </div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-common-side-block" >
+  
+      
+  
+  <div class="field-collection-container clearfix"><div class="field field-name-field-common-side-block field-type-field-collection field-label-hidden">
+  
+  
+                  <div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-common-side-block clearfix">
+  <div class="content">
+    <div class="field field-name-field-common-block-content field-type-text-long field-label-hidden">
+  
+  
+                  <p>“<a href="http://www.chinafile.com/library/reports/shuidong-connection" target="_blank" rel="nofollow">The Shuidong Connection: Exposing the Global Hub of the Illegal Ivory Trade</a>,” Environmental Investigation Agency, July 2017</p>
+          
+  </div>
+  </div>
+</div>
+</div>          
+  </div>
+</div>
+  
+  </div>
+<div class="panel-pane pane-node-share" >
+  
+      
+  
+  <span class="st_facebook_large" st_title="The Town at the Heart of China’s Black Market in Ivory" displayText="Facebook"></span><span class="st_twitter_large" st_title="The Town at the Heart of China’s Black Market in Ivory" st_via="chinafile" displayText="Tweet"></span><span class="st_email_large" st_title="The Town at the Heart of China’s Black Market in Ivory" displayText="Email"></span>
+  
+  </div>
+      </aside>
+
+      <div class="panel-pane pane-node-body" >
+  
+      
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+      <p class="dropcap">Last year, in response to mounting criticism for its key role in the steep decline in the world’s elephant population, China <a href="http://www.gov.cn/zhengce/content/2016-12/30/content_5155017.htm?from=timeline&amp;isappinstalled=0" target="_blank" rel="nofollow">announced</a> that it would ban ivory trading and <a href="http://paper.people.com.cn/rmrbhwb/html/2017-01/02/content_1740207.htm" target="_blank" rel="nofollow">shutter</a> all of the country’s 177 licensed ivory processing companies and retail shops by the end of 2017. China’s legal ivory market, <a href="https://www.bloomberg.com/view/articles/2017-01-05/should-china-burn-its-ivory" target="_blank" rel="nofollow">worth</a> about U.S.$600 million, <a href="https://www.nature.com/news/will-china-s-new-ivory-controls-make-a-difference-1.17692" target="_blank" rel="nofollow">cloaks</a> the sale of illegal ivory, as illegal materials mix in with legal and the two are sold together without distinction. Authorities <a href="http://www.forestry.gov.cn/main/1042/content-960610.html" target="_blank" rel="nofollow">ordered</a> 67 formerly legal ivory businesses to cease activity in March, and the remaining businesses will no longer be allowed to operate after December.</p>
+<p>In July, however, the London-based <a href="http://eia-international.org/about-eia" target="_blank" rel="nofollow">Environmental Investigation Agency</a> (EIA)—an organization with a long-standing reputation for exposing environmental crimes through undercover investigations—warned that these efforts could be in vain if they didn’t include a crackdown on the small Chinese coastal town of Shuidong. Shuidong, located 208 miles from Hong Kong, in Guangdong, is best known for its seafood markets. But according to the EIA, it is also a major global center for ivory smuggling. Multiple smugglers who spoke to EIA investigators <a href="https://eia-international.org/wp-content/uploads/EIA-The-Shuidong-Connection-FINAL.pdf" target="_blank" rel="nofollow">estimated</a> that 80 percent of all ivory from poached elephants in Africa passes through Shuidong, making the town, EIA experts believe, the world’s top destination for illicit ivory.</p>
+<p>EIA uncovered Shuidong’s critical role in the ivory trade gradually. In 2014, EIA investigators met Wei Ronglu, a Shuidong native living in Zanzibar. He explained how people from his hometown smuggled ivory. Acting on rumors that ivory-smuggling syndicates were shifting their activity from Tanzania to Mozambique, EIA investigators traveled to Pemba in 2016 and approached a Shuidong trafficking group, masquerading as potential buyers. After winning the smugglers’ trust, investigators started to gather evidence, some of which is shown in this video as undercover footage.</p>
+<p>Shuidong smugglers only work with close family members and friends, and one estimates that there are more than 10 lineage-based trafficking networks that originate in the town. The three smugglers identified in the report are “second-generation”; their families have been in business for more than 20 years without having their goods confiscated even once. These smugglers told EIA that despite China’s new rules, they have no intention of stopping—rather, they plan on expanding their business to include the more highly valued ivory of forest elephants in West and Central Africa, whose tusks are worth U.S.$900 per kilogram, compared with U.S.$750 per kilogram for the tusks of savanna elephants. Forest elephants are headed toward extinction, with fewer than 100,000 <a href="https://www.biologicaldiversity.org/news/press_releases/2016/african-elephants-03-15-2016.html" target="_blank" rel="nofollow">left</a> in the wild.</p>
+<p>EIA also discloses a key smuggling route that runs from Pemba, Mozambique, to Busan, South Korea, then Hong Kong, Shanghai, and finally Shuidong. This intentionally circuitous route, paired with the underground business’ inherent secrecy, will require a multi-national and multi-institutional effort to shut down. Now, the question is whether China will participate in those efforts in a way that will give its ban real teeth.</p>
+<p align="right">—<a href="http://www.chinafile.com/contributors/muyi-xiao" target="_blanl" rel="nofollow"><em>Muyi Xiao</em></a></p>
+  </div>
+  
+  </div>
+    </div>
+  </div>
+
+  <div class="l-middle l-twocol-wrapper container container-fluid">
+    <div class="panel-pane pane-entity-field pane-node-field-common-topic" >
+  
+      
+  
+  <div class="field field-name-field-common-topic field-type-taxonomy-term-reference field-label-inline">
+    <div class="field-label">Topics:&nbsp;</div>
+  
+  
+                  <a href="/topic/business">Business</a>, <a href="/topic/environment">Environment</a>          
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-common-tags" >
+  
+      
+  
+  <div class="field field-name-field-common-tags field-type-taxonomy-term-reference field-label-inline">
+    <div class="field-label">Keywords:&nbsp;</div>
+  
+  
+                  <a href="/keyword/ivory">Ivory</a>, <a href="/keyword/ivory-trade">Ivory Trade</a>, <a href="/keyword/elephants">Elephants</a>, <a href="/keyword/animal">Animal</a>, <a href="/keyword/animal-protection">Animal Protection</a>, <a href="/keyword/animal-welfare">Animal Welfare</a>, <a href="/keyword/illegal-trade">Illegal Trade</a>, <a href="/keyword/smuggling">Smuggling</a>          
+  </div>
+
+  
+  </div>
+  </div>
+
+  <div class="l-lower-wrapper l-twocol-wrapper container">
+    <div class="col-md-8 l-twocol-left">
+          </div>
+    <aside class="col-md-4 l-twocol-right">
+          </aside>
+  </div>
+</div>
+      </div>
+
+    </div> <!-- /.main-inner -->
+  </div> <!-- /#main -->
+
+  <footer id="footer" class="footer" role="footer">
+    <div class="container">
+      <div class="row clearfix">
+        <div class="col-sm-4 col-md-3">
+          <ul class="links"><li class="menu-511 first"><a href="/reporting-opinion" title="">Reporting &amp; Opinion</a></li>
+<li class="menu-1729"><a href="/conversation" title="">Conversation</a></li>
+<li class="menu-513"><a href="/library" title="">Library</a></li>
+<li class="menu-514 last"><a href="/multimedia" title="">Multimedia</a></li>
+</ul>        </div>
+        <div class="col-sm-4 col-md-3 col-sm-push-4 col-md-push-6">
+          <ul class="social-nav">
+            <li><a href="/about"><span class="footer-link">About</a></li>
+            <li><a href="/contact"><span class="footer-link">Contact</a></li>
+            <li><a href="/donate"><span class="footer-link">Donate</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-4 col-md-6 col-sm-pull-4 col-md-pull-3">
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="//chinafile.us2.list-manage.com/subscribe/post?u=dd858a5b6e74ef23767d565ae&amp;id=de2675ff34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <label for="mce-EMAIL">Sign up for our newsletter.</label>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_dd858a5b6e74ef23767d565ae_de2675ff34" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
+
+      <div class="row footer-bar clearfix">
+        <div class="col-md-4 col-md-push-4">
+          <p class="footer-links">
+            <a href="https://www.facebook.com/chinafile" title="Facebook" target="_blank"><span class="icon-facebook-rect"></span></a>&nbsp;|&nbsp;
+            <a href="https://www.twitter.com/chinafile" title="Twitter" target="_blank"><span class="icon-twitter-bird"></span></a>&nbsp;|&nbsp;
+            <a href="https://www.instagram.com/chinafile" title="Instagram" target="_blank"><span class="icon-instagram-filled"></span></a>&nbsp;|&nbsp;
+            <a href="https://e.weibo.com/chinafile" title="Weibo" target="_blank"><span class="icon-weibo"></span></a>&nbsp;|&nbsp;
+            <a href="http://feeds.feedburner.com/chinafile/All" title="RSS" target="_blank"><span class="icon-rss"></span></a>
+          </p>
+        </div>
+        <div class="col-sm-5 col-md-4 col-md-pull-4">
+          <p class="footer-logo"><a href="http://chinafile.com" class="logo-sub">ChinaFile</a></p>
+        </div>
+        <div class="col-sm-7 col-md-4">
+          <p class="footer-text">ChinaFile is a project of the <a title="The Center on U.S.-China Relations homepage" href="http://asiasociety.org/policy/center-us-china-relations" target="_blank">Center on U.S.-China Relations</a> at <a title="The Asia Society homepage" href="http://www.asiasociety.org" target="_blank">Asia Society</a>. Center on U.S.-China Relations, &copy; 2011-2016. All Rights Reserved.</p>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <small><a href="#">Back to Top</a></small>
+</div> <!-- /#page-wrapper -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0014/0039.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.chinafile.com/sites/default/files/js/js_vmE6dCgdTxCRGv9YAEm9ZI2gzt136DfG39RFasESmH8.js"></script>
+</body>
+</html>

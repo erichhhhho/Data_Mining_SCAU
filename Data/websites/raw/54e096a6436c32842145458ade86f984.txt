@@ -1,0 +1,1851 @@
+<!DOCTYPE html>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+	<head>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" >
+				
+				 
+		<title>Chongqing Blogs and Information Guide - Paths Unwritten</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="p:domain_verify" content="fd3bc70223eeab22346e547dee65c8e2" />
+
+<!-- This site is optimized with the Yoast SEO plugin v5.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Chongqing, China - A list of blogs, information, resources, and firsthand accounts for any newcomers who need an introduction to the city."/>
+<link rel="canonical" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Chongqing Blogs and Information Guide - Paths Unwritten" />
+<meta property="og:description" content="Chongqing, China - A list of blogs, information, resources, and firsthand accounts for any newcomers who need an introduction to the city." />
+<meta property="og:url" content="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/" />
+<meta property="og:site_name" content="Paths Unwritten" />
+<meta property="article:author" content="https://www.facebook.com/PathsUnwritten/" />
+<meta property="article:tag" content="blogs" />
+<meta property="article:tag" content="China" />
+<meta property="article:tag" content="Chongqing" />
+<meta property="article:tag" content="information" />
+<meta property="article:tag" content="travel blog" />
+<meta property="article:tag" content="中国" />
+<meta property="article:tag" content="重庆" />
+<meta property="article:section" content="China" />
+<meta property="article:published_time" content="2016-09-26T22:10:23+08:00" />
+<meta property="article:modified_time" content="2017-02-24T14:28:18+08:00" />
+<meta property="og:updated_time" content="2017-02-24T14:28:18+08:00" />
+<meta property="og:image" content="http://pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg" />
+<meta property="og:image:width" content="1278" />
+<meta property="og:image:height" content="719" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Chongqing, China - A list of blogs, information, resources, and firsthand accounts for any newcomers who need an introduction to the city." />
+<meta name="twitter:title" content="Chongqing Blogs and Information Guide - Paths Unwritten" />
+<meta name="twitter:image" content="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?fit=1278%2C719" />
+<meta name="twitter:creator" content="@PathsUnwritten" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/pathsunwritten.com\/","name":"Paths Unwritten","potentialAction":{"@type":"SearchAction","target":"http:\/\/pathsunwritten.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Paths Unwritten &raquo; Feed" href="http://pathsunwritten.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Paths Unwritten &raquo; Comments Feed" href="http://pathsunwritten.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Paths Unwritten &raquo; Chongqing Blogs and Information Guide Comments Feed" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/pathsunwritten.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='otw-shortcode-general_foundicons-css'  href='http://pathsunwritten.com/wp-content/plugins/info-boxes-shortcode-and-widget/include/otw_components/otw_shortcode/css/general_foundicons.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-social_foundicons-css'  href='http://pathsunwritten.com/wp-content/plugins/info-boxes-shortcode-and-widget/include/otw_components/otw_shortcode/css/social_foundicons.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-css'  href='http://pathsunwritten.com/wp-content/plugins/info-boxes-shortcode-and-widget/include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://pathsunwritten.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://pathsunwritten.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='baskerville_googleFonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C700%7CRoboto%3A400%2C400italic%2C700%2C700italic%2C300%7CPacifico%3A400&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='baskerville_style-css'  href='http://pathsunwritten.com/wp-content/themes/baskerville/style.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://pathsunwritten.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/wp-seo-images/assets/js/admin.js?ver=4.8.2'></script>
+<link rel='https://api.w.org/' href='http://pathsunwritten.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pathsunwritten.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pathsunwritten.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel='shortlink' href='http://wp.me/p32afr-1Jd' />
+<link rel="alternate" type="application/json+oembed" href="http://pathsunwritten.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpathsunwritten.com%2F2016%2F09%2Fchongqing-blogs-info-directory%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://pathsunwritten.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpathsunwritten.com%2F2016%2F09%2Fchongqing-blogs-info-directory%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<!-- All in one Favicon 4.5 --><link rel="icon" href="http://pathsunwritten.com/wp-content/uploads/2013/01/Duskarc6.png" type="image/png"/>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://pathsunwritten.com/wp-content/uploads/2014/09/namtok-background1.jpg"); background-position: center top; background-size: auto; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+			<style type="text/css" id="wp-custom-css">
+				/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/			</style>
+			
+	</head>
+	
+	<body class="post-template-default single single-post postid-6647 single-format-standard custom-background has-featured-image">
+	
+		<div class="header section small-padding bg-dark bg-image" style="background-image: url(http://pathsunwritten.com/wp-content/uploads/2015/07/cropped-PU-header.jpg);">
+		
+			<div class="cover"></div>
+			
+			<div class="header-search-block bg-graphite hidden">
+			
+				<form method="get" class="searchform" action="http://pathsunwritten.com/">
+	<input type="search" value="" placeholder="Search form" name="s" class="s" /> 
+	<input type="submit" class="searchsubmit" value="Search">
+</form>			
+			</div> <!-- /header-search-block -->
+					
+			<div class="header-inner section-inner">
+			
+								
+					<div class="blog-logo">
+					
+				        <a class="logo" href='http://pathsunwritten.com/' title='Paths Unwritten &mdash; Lost Cities. Forgotten Spaces. Curious Places.' rel='home'>
+				        	<img src='http://pathsunwritten.com/wp-content/uploads/2015/08/Logo-big.png' alt='Paths Unwritten'>
+				        </a>
+			        
+					</div>
+			
+											
+			</div> <!-- /header-inner -->
+						
+		</div> <!-- /header -->
+		
+		<div class="navigation section no-padding bg-dark">
+		
+			<div class="navigation-inner section-inner">
+			
+				<div class="nav-toggle fleft hidden">
+					
+					<div class="bar"></div>
+					<div class="bar"></div>
+					<div class="bar"></div>
+					
+					<div class="clear"></div>
+					
+				</div>
+						
+				<ul class="main-menu">
+				
+					<li id="menu-item-3227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3227"><a href="http://pathsunwritten.com">Home</a></li>
+<li id="menu-item-3241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-3241"><a href="http://pathsunwritten.com/so-far/">So Far</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5278"><a href="http://pathsunwritten.com/so-far/2011-year-one/">2011 &#8211; Restarting Life in the Atlantic &#038; Asia</a></li>
+	<li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="http://pathsunwritten.com/so-far/2012-year-two/">2012 &#8211; Living Abroad &#038; Exploring</a></li>
+	<li id="menu-item-5276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="http://pathsunwritten.com/so-far/2013-year-three/">2013 &#8211; Finishing the Job &#038; Moving On</a></li>
+	<li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="http://pathsunwritten.com/so-far/2014-year-four/">2014 &#8211; On the Road in Asia</a></li>
+	<li id="menu-item-5891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5891"><a href="http://pathsunwritten.com/so-far/2015-settling-into-china/">2015 &#8211; Settling Into China</a></li>
+</ul>
+</li>
+<li id="menu-item-5288" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children has-children menu-item-5288"><a href="http://pathsunwritten.com/category/everywhere/">Countries</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5300" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children has-children menu-item-5300"><a href="http://pathsunwritten.com/category/everywhere/asia/">Asia</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-6007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6007"><a href="http://pathsunwritten.com/category/everywhere/asia/brunei/">Brunei</a></li>
+		<li id="menu-item-5289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5289"><a href="http://pathsunwritten.com/category/everywhere/asia/cambodia/">Cambodia</a></li>
+		<li id="menu-item-5713" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5713"><a href="http://pathsunwritten.com/category/everywhere/asia/china/">China</a></li>
+		<li id="menu-item-6009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6009"><a href="http://pathsunwritten.com/category/everywhere/asia/indonesia/">Indonesia</a></li>
+		<li id="menu-item-5292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5292"><a href="http://pathsunwritten.com/category/everywhere/asia/japan/">Japan</a></li>
+		<li id="menu-item-5293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5293"><a href="http://pathsunwritten.com/category/everywhere/asia/laos/">Laos</a></li>
+		<li id="menu-item-5294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5294"><a href="http://pathsunwritten.com/category/everywhere/asia/malaysia/">Malaysia</a></li>
+		<li id="menu-item-5295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5295"><a href="http://pathsunwritten.com/category/everywhere/asia/myanmar/">Myanmar</a></li>
+		<li id="menu-item-5297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5297"><a href="http://pathsunwritten.com/category/everywhere/asia/singapore/">Singapore</a></li>
+		<li id="menu-item-5298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5298"><a href="http://pathsunwritten.com/category/everywhere/asia/thailand/">Thailand</a></li>
+		<li id="menu-item-5582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5582"><a href="http://pathsunwritten.com/category/everywhere/asia/vietnam/">Vietnam</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5301"><a href="http://pathsunwritten.com/category/everywhere/europe/">Europe</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5291"><a href="http://pathsunwritten.com/category/everywhere/europe/greece/">Greece</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5302"><a href="http://pathsunwritten.com/category/everywhere/north-america/">North America</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5290"><a href="http://pathsunwritten.com/category/everywhere/north-america/canada/">Canada</a></li>
+		<li id="menu-item-5296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5296"><a href="http://pathsunwritten.com/category/everywhere/north-america/puerto-rico/">Puerto Rico</a></li>
+		<li id="menu-item-5299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5299"><a href="http://pathsunwritten.com/category/everywhere/north-america/united-states/">United States</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5089"><a href="http://pathsunwritten.com/category/travel/lost-cities/">Lost Cities</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4257"><a href="http://pathsunwritten.com/lost-cities/lost-cities-of-malaysia/">Lost Cities of Malaysia</a></li>
+	<li id="menu-item-5983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5983"><a href="http://pathsunwritten.com/lost-cities-of-myanmar/">Lost Cities of Myanmar</a></li>
+	<li id="menu-item-4255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4255"><a href="http://pathsunwritten.com/lost-cities/lost-cities-of-thailand/">Lost Cities of Thailand</a></li>
+	<li id="menu-item-4256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4256"><a href="http://pathsunwritten.com/lost-cities/lost-cities-of-the-united-states/">Lost Cities of the United States</a></li>
+</ul>
+</li>
+<li id="menu-item-5313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5313"><a href="http://pathsunwritten.com/category/long-term/">Long Term Travel</a>
+<ul  class="sub-menu">
+	<li id="menu-item-3239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3239"><a href="http://pathsunwritten.com/home-in-nowhere/my-backpack-setup/">My Backpack Setup</a></li>
+	<li id="menu-item-4355" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4355"><a href="http://pathsunwritten.com/2011/08/an-introduction-to-hostels/">An Introduction to Hostels</a></li>
+	<li id="menu-item-4266" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4266"><a href="http://pathsunwritten.com/2013/08/applying-for-a-new-passport-abroad/">Applying for a New Passport Abroad</a></li>
+	<li id="menu-item-4920" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4920"><a href="http://pathsunwritten.com/2014/02/hospitals-abroad/">Hospitals Abroad</a></li>
+	<li id="menu-item-6092" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6092"><a href="http://pathsunwritten.com/2015/06/paying-american-taxes-abroad/">Paying American Taxes Abroad</a></li>
+</ul>
+</li>
+<li id="menu-item-5882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5882"><a href="http://pathsunwritten.com/days-away/">Days Away</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5884" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5884"><a href="http://pathsunwritten.com/category/everywhere/asia/china/chongqing-days/">The Chongqing Days</a></li>
+	<li id="menu-item-4282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4282"><a href="http://pathsunwritten.com/category/everywhere/asia/thailand/central-plains/bangkok-days/">The Bangkok Days</a></li>
+</ul>
+</li>
+<li id="menu-item-4803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4803"><a href="http://bensbeds.wordpress.com">Ben&#8217;s Bed Blog</a></li>
+<li id="menu-item-3234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-3234"><a href="http://pathsunwritten.com/out-of-place/">Out of Place</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4867"><a href="http://pathsunwritten.com/category/travel-quote/">Travel Quote</a></li>
+	<li id="menu-item-5013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5013"><a href="http://pathsunwritten.com/category/photo-challenges/">Photo Challenges</a></li>
+	<li id="menu-item-3236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3236"><a href="http://pathsunwritten.com/out-of-place/reviews/">Reviews</a></li>
+	<li id="menu-item-4869" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4869"><a href="http://pathsunwritten.com/category/weekly-reblog/">Reblogs</a></li>
+</ul>
+</li>
+<li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-3245"><a href="http://pathsunwritten.com/about/">About Me</a>
+<ul  class="sub-menu">
+	<li id="menu-item-3246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3246"><a href="http://pathsunwritten.com/about/reveries-astray/">Reveries Astray</a></li>
+	<li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3247"><a href="http://pathsunwritten.com/about/to-the-unbound/">to the Unbound</a></li>
+	<li id="menu-item-3248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3248"><a href="http://pathsunwritten.com/about/bucket-list/">A Bucket List of Sorts</a></li>
+</ul>
+</li>
+											
+				 </ul> <!-- /main-menu -->
+				 
+				 <a class="search-toggle fright" href="#"></a>
+				 
+				 <div class="clear"></div>
+				 
+			</div> <!-- /navigation-inner -->
+			
+		</div> <!-- /navigation -->
+		
+		<div class="mobile-navigation section bg-graphite no-padding hidden">
+					
+			<ul class="mobile-menu">
+			
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3227"><a href="http://pathsunwritten.com">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-3241"><a href="http://pathsunwritten.com/so-far/">So Far</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5278"><a href="http://pathsunwritten.com/so-far/2011-year-one/">2011 &#8211; Restarting Life in the Atlantic &#038; Asia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="http://pathsunwritten.com/so-far/2012-year-two/">2012 &#8211; Living Abroad &#038; Exploring</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="http://pathsunwritten.com/so-far/2013-year-three/">2013 &#8211; Finishing the Job &#038; Moving On</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="http://pathsunwritten.com/so-far/2014-year-four/">2014 &#8211; On the Road in Asia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5891"><a href="http://pathsunwritten.com/so-far/2015-settling-into-china/">2015 &#8211; Settling Into China</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children has-children menu-item-5288"><a href="http://pathsunwritten.com/category/everywhere/">Countries</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children has-children menu-item-5300"><a href="http://pathsunwritten.com/category/everywhere/asia/">Asia</a>
+	<ul  class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6007"><a href="http://pathsunwritten.com/category/everywhere/asia/brunei/">Brunei</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5289"><a href="http://pathsunwritten.com/category/everywhere/asia/cambodia/">Cambodia</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5713"><a href="http://pathsunwritten.com/category/everywhere/asia/china/">China</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6009"><a href="http://pathsunwritten.com/category/everywhere/asia/indonesia/">Indonesia</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5292"><a href="http://pathsunwritten.com/category/everywhere/asia/japan/">Japan</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5293"><a href="http://pathsunwritten.com/category/everywhere/asia/laos/">Laos</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5294"><a href="http://pathsunwritten.com/category/everywhere/asia/malaysia/">Malaysia</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5295"><a href="http://pathsunwritten.com/category/everywhere/asia/myanmar/">Myanmar</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5297"><a href="http://pathsunwritten.com/category/everywhere/asia/singapore/">Singapore</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5298"><a href="http://pathsunwritten.com/category/everywhere/asia/thailand/">Thailand</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5582"><a href="http://pathsunwritten.com/category/everywhere/asia/vietnam/">Vietnam</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5301"><a href="http://pathsunwritten.com/category/everywhere/europe/">Europe</a>
+	<ul  class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5291"><a href="http://pathsunwritten.com/category/everywhere/europe/greece/">Greece</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5302"><a href="http://pathsunwritten.com/category/everywhere/north-america/">North America</a>
+	<ul  class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5290"><a href="http://pathsunwritten.com/category/everywhere/north-america/canada/">Canada</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5296"><a href="http://pathsunwritten.com/category/everywhere/north-america/puerto-rico/">Puerto Rico</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5299"><a href="http://pathsunwritten.com/category/everywhere/north-america/united-states/">United States</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5089"><a href="http://pathsunwritten.com/category/travel/lost-cities/">Lost Cities</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4257"><a href="http://pathsunwritten.com/lost-cities/lost-cities-of-malaysia/">Lost Cities of Malaysia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5983"><a href="http://pathsunwritten.com/lost-cities-of-myanmar/">Lost Cities of Myanmar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4255"><a href="http://pathsunwritten.com/lost-cities/lost-cities-of-thailand/">Lost Cities of Thailand</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4256"><a href="http://pathsunwritten.com/lost-cities/lost-cities-of-the-united-states/">Lost Cities of the United States</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-children menu-item-5313"><a href="http://pathsunwritten.com/category/long-term/">Long Term Travel</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3239"><a href="http://pathsunwritten.com/home-in-nowhere/my-backpack-setup/">My Backpack Setup</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4355"><a href="http://pathsunwritten.com/2011/08/an-introduction-to-hostels/">An Introduction to Hostels</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4266"><a href="http://pathsunwritten.com/2013/08/applying-for-a-new-passport-abroad/">Applying for a New Passport Abroad</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4920"><a href="http://pathsunwritten.com/2014/02/hospitals-abroad/">Hospitals Abroad</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6092"><a href="http://pathsunwritten.com/2015/06/paying-american-taxes-abroad/">Paying American Taxes Abroad</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5882"><a href="http://pathsunwritten.com/days-away/">Days Away</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5884"><a href="http://pathsunwritten.com/category/everywhere/asia/china/chongqing-days/">The Chongqing Days</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4282"><a href="http://pathsunwritten.com/category/everywhere/asia/thailand/central-plains/bangkok-days/">The Bangkok Days</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4803"><a href="http://bensbeds.wordpress.com">Ben&#8217;s Bed Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-3234"><a href="http://pathsunwritten.com/out-of-place/">Out of Place</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4867"><a href="http://pathsunwritten.com/category/travel-quote/">Travel Quote</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5013"><a href="http://pathsunwritten.com/category/photo-challenges/">Photo Challenges</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3236"><a href="http://pathsunwritten.com/out-of-place/reviews/">Reviews</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4869"><a href="http://pathsunwritten.com/category/weekly-reblog/">Reblogs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-3245"><a href="http://pathsunwritten.com/about/">About Me</a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3246"><a href="http://pathsunwritten.com/about/reveries-astray/">Reveries Astray</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3247"><a href="http://pathsunwritten.com/about/to-the-unbound/">to the Unbound</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3248"><a href="http://pathsunwritten.com/about/bucket-list/">A Bucket List of Sorts</a></li>
+</ul>
+</li>
+										
+			 </ul> <!-- /main-menu -->
+		
+		</div> <!-- /mobile-navigation -->
+<div class="wrapper section medium-padding">
+										
+	<div class="section-inner">
+	
+		<div class="content fleft">
+												        
+									
+				<div id="post-6647" class="post-6647 post type-post status-publish format-standard has-post-thumbnail hentry category-china category-everywhere category-chongqing-days tag-blogs tag-china tag-chongqing tag-information tag-travel-blog tag-134738983 tag-134738951">
+				
+									
+					<div class="post-header">
+						
+					    <h1 class="post-title"><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/" rel="bookmark" title="Chongqing Blogs and Information Guide">Chongqing Blogs and Information Guide</a></h1>
+					    
+					</div> <!-- /post-header -->
+					
+										
+						<div class="featured-media">
+						
+							<img width="945" height="532" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?fit=945%2C532" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?w=1278 1278w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?resize=300%2C169 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?resize=768%2C432 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?resize=1024%2C576 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?resize=945%2C532 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?resize=600%2C338 600w" sizes="(max-width: 945px) 100vw, 945px" data-attachment-id="6716" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blogs-info-title/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?fit=1278%2C719" data-orig-size="1278,719" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1454854197&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="chongqing-blogs-info-title" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?fit=300%2C169" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/Chongqing-blogs-info-title.jpg?fit=676%2C380" />							
+																
+						</div> <!-- /featured-media -->
+					
+																			                                    	    
+					<div class="post-content">
+						
+						<p style="text-align: left;">When I first accepted a job in the southwestern Chinese city of Chongqing in 2014, there were very few resources about it written by people who had lived there. Unlike <a href="http://pathsunwritten.com/category/everywhere/asia/thailand/central-plains/bangkok-days/">Bangkok</a> or more famous Chinese cities like Shanghai and Beijing, where there are hundreds of bloggers in many languages, there were very few for Chongqing. Collecting the few firsthand accounts I&#8217;ve found over the past few years, I hope this can serve as a resource for any newcomers or people considering moving to Chongqing.</p>
+<p style="text-align: left;">Blogs are listed in order of the most recent update as of this writing.</p>
+<h1 style="text-align: center;"><span style="text-decoration: underline;">Chongqing Bloggers</span></h1>
+<p style="text-align: center;"><img data-attachment-id="5868" data-permalink="http://pathsunwritten.com/days-away/chongqing-days-title/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?fit=4896%2C2142" data-orig-size="4896,2142" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.3&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;DSC-WX220&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1420562012&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.45&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-days-title" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?fit=300%2C131" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?fit=676%2C296" class="size-large wp-image-5868 alignnone aligncenter" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?resize=676%2C296" alt="chongqing-days-title" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?resize=1024%2C448 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?resize=300%2C131 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/chongqing-days-title.jpg?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="http://pathsunwritten.com/category/everywhere/asia/china/chongqing-days/">The Chongqing Days | Paths Unwritten</a></h3>
+<p style="text-align: center;">After living 3 years throughout Southeast Asia, I accepted a job in Chongqing as it was an enormous city I had never heard of. Through two jobs and two years living in this central Chinese metropolis, these are my stories documenting locales and curiosities.</p>
+<hr>
+<p style="text-align: center;"><img data-attachment-id="6671" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-bonitas-adventures/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?fit=2482%2C1220" data-orig-size="2482,1220" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-bonitas-adventures" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?fit=300%2C147" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?fit=676%2C332" class="aligncenter wp-image-6671 size-large" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?resize=676%2C332" alt="chongqing-blog-bonitas-adventures" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?resize=1024%2C503 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?resize=300%2C147 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?resize=768%2C378 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?resize=945%2C465 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?resize=600%2C295 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-bonitas-adventures.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="https://bonitasadventures.wordpress.com/">Bonita&#8217;s Adventures</a></h3>
+<p style="text-align: center;">A relative newcomer to the Chongqing scene &#8211; this blog covers the adventures of Bonita, an English teacher based in Fuling, another medium-sized city within Chongqing Municipality.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6673" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-alexis-adventures/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?fit=2122%2C1104" data-orig-size="2122,1104" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-alexis-adventures" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?fit=300%2C156" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?fit=676%2C352" class="aligncenter size-large wp-image-6673" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?resize=676%2C352" alt="chongqing-blog-alexis-adventures" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?resize=1024%2C533 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?resize=300%2C156 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?resize=768%2C400 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?resize=945%2C492 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?resize=600%2C312 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-alexis-adventures.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://thealexisadventures.wordpress.com/">The Alexis Adventures</a></h3>
+<p style="text-align: center;">Written by an American student at Chongqing University studying International Business, Alexis details daily life abroad as well as many of her personal travel experiences.</p>
+<hr>
+<p style="text-align: center;"><img data-attachment-id="6664" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-vacay-with-michelle/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?fit=2106%2C1170" data-orig-size="2106,1170" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-vacay-with-michelle" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?fit=300%2C167" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?fit=676%2C376" class="aligncenter wp-image-6664 size-large" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?resize=676%2C376" alt="chongqing-blog-vacay-with-michelle" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?resize=1024%2C569 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?resize=300%2C167 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?resize=768%2C427 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?resize=945%2C525 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?resize=600%2C333 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/08/chongqing-blog-vacay-with-michelle.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="https://mjmakeurday.wordpress.com/">Vacay with Michel’le</a></h3>
+<p style="text-align: center;">Short snippets of life in China with Michel&#8217;le, an America English teacher with a background in journalism. A good number of her posts involve insights gained from being in a Chinese classroom.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6672" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-long-blog/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?fit=2098%2C1322" data-orig-size="2098,1322" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-long-blog" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?fit=300%2C189" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?fit=676%2C426" class="aligncenter size-large wp-image-6672" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?resize=676%2C426" alt="chongqing-blog-long-blog" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?resize=1024%2C645 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?resize=300%2C189 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?resize=768%2C484 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?resize=945%2C595 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?resize=600%2C378 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-long-blog.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://muchado.altervista.org/">The Long Blog</a></h3>
+<p style="text-align: center;">Although officially discontinued by the author, Laura, this is the blog of an English teacher mainly focusing on sights and locations. Or as Laura puts it, the adventures of &#8220;A European in China&#8221;.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6674" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-yes-i-went-there/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?fit=2124%2C1120" data-orig-size="2124,1120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-yes-i-went-there" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?fit=300%2C158" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?fit=676%2C356" class="aligncenter size-large wp-image-6674" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?resize=676%2C356" alt="chongqing-blog-yes-i-went-there" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?resize=1024%2C540 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?resize=300%2C158 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?resize=768%2C405 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?resize=945%2C498 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?resize=600%2C316 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-yes-i-went-there.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://yesiwenttheretravel.wordpress.com/">Yes, I Went There | A Woman Living the World</a></h3>
+<p class="site-description" style="text-align: center;">Written by a blogger going by <em>hellmouthreview</em>, this is the blog of a member of the U.S. Peace Corps, the Fulbright Program, &amp; Aminef who touches on many of the more offbeat places and some social issues in Chongqing, as well as a few other locales.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6675" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-laoshi/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?fit=2116%2C1164" data-orig-size="2116,1164" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-laoshi" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?fit=300%2C165" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?fit=676%2C372" class="aligncenter size-large wp-image-6675" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?resize=676%2C372" alt="chongqing-blog-laoshi" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?resize=1024%2C563 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?resize=300%2C165 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?resize=768%2C422 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?resize=945%2C520 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?resize=600%2C330 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-laoshi.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://stutzmanm.wordpress.com/">laoshi | life in China</a></h3>
+<p style="text-align: center;">A journal-style blog written by Mikhala, a university English teacher in Chongqing. Her blog touches on many of her personal thoughts and experiences in the city.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6677" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-irishes-travel-2/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?fit=2114%2C1170" data-orig-size="2114,1170" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-irishes-travel" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?fit=300%2C166" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?fit=676%2C374" class="aligncenter size-large wp-image-6677" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?resize=676%2C374" alt="chongqing-blog-irishes-travel" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?resize=1024%2C567 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?resize=300%2C166 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?resize=768%2C425 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?resize=945%2C523 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?resize=600%2C332 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-irishes-travel-1.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://irishestravel.wordpress.com/">The Irishes Travel</a></h3>
+<p style="text-align: center;">Written by Ysel and Skyler, a married American couple who moved to China together to teach English. Their blog follows their travels and experiences through Chongqing, greater China, as well as a few other Asian countries.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6678" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-moon-shines-over-shanghai/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?fit=2102%2C1162" data-orig-size="2102,1162" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-moon-shines-over-shanghai" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?fit=300%2C166" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?fit=676%2C374" class="aligncenter size-large wp-image-6678" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?resize=676%2C374" alt="chongqing-blog-moon-shines-over-shanghai" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?resize=1024%2C566 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?resize=300%2C166 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?resize=768%2C425 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?resize=945%2C522 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?resize=600%2C332 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-moon-shines-over-shanghai.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://themoonshinesovershanghai.wordpress.com/">The Moon Shines Over Shanghai</a></h3>
+<p style="text-align: center;">This blog details the travels of Maria, a U.S. Peace Corps. volunteer who is attempting to immerse herself in Chinese language and culture. Although based in Chengdu, a few of her posts touch on Chongqing as well.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6679" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-far-east-expo/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?fit=2108%2C1138" data-orig-size="2108,1138" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-far-east-expo" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?fit=300%2C162" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?fit=676%2C365" class="aligncenter size-large wp-image-6679" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo-1024x553.png?resize=676%2C365" alt="chongqing-blog-far-east-expo" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?resize=1024%2C553 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?resize=300%2C162 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?resize=768%2C415 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?resize=945%2C510 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?resize=600%2C324 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-far-east-expo.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://fareastexpo.wordpress.com/">Far East Expo</a></h3>
+<p style="text-align: center;">A journal-style blog written by Samantha, a temporary university teacher from America. Although mostly dealing with her personal travels and experiences in Chongqing, she also writes about further destinations.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6680" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-mu-heng-jia-you/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?fit=2108%2C1174" data-orig-size="2108,1174" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-mu-heng-jia-you" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?fit=300%2C167" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?fit=676%2C376" class="aligncenter size-large wp-image-6680" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?resize=676%2C376" alt="chongqing-blog-mu-heng-jia-you" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?resize=1024%2C570 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?resize=300%2C167 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?resize=768%2C428 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?resize=945%2C526 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?resize=600%2C334 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-mu-heng-jia-you.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://muhengjiayou.wordpress.com/">Mu Heng, Jia You!</a></h3>
+<p style="text-align: center;">In this blog, a former American exchange student who attended university in Chongqing details her experiences in China. Since graduating, she has begun working for English First (EF) in Chongqing.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6681" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-squareinchanthro/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?fit=2124%2C1170" data-orig-size="2124,1170" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-squareinchanthro" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?fit=300%2C165" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?fit=676%2C372" class="aligncenter size-large wp-image-6681" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?resize=676%2C372" alt="chongqing-blog-squareinchanthro" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?resize=1024%2C564 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?resize=300%2C165 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?resize=768%2C423 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?resize=945%2C521 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?resize=600%2C331 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-squareinchanthro.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://squareinchanthro.com/tag/Chongqing">Square Inch Anthropology</a></h3>
+<p style="text-align: center;">A blog covering obscure photographic topics from architecture to daily life, Zach documents China and other nearby places through the eyes of a researcher, designer and author who loves &#8220;studying&nbsp;daily&nbsp;life and behaviors across cultures and contexts.&#8221;</p>
+<hr>
+<p><img data-attachment-id="6713" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-nihao-chongqing/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?fit=2062%2C1206" data-orig-size="2062,1206" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-nihao-chongqing" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?fit=300%2C175" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?fit=676%2C395" class="aligncenter size-large wp-image-6713" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?resize=676%2C395" alt="chongqing-blog-nihao-chongqing" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?resize=1024%2C599 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?resize=300%2C175 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?resize=768%2C449 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?resize=945%2C553 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?resize=600%2C351 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-nihao-chongqing.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="http://nihaochongqing.blogspot.com/">What&#8217;s in Chongqing for you as an expat</a></h3>
+<p style="text-align: center;">A since-discontinued blog written by Asia Pacific Access (APA), a company based in China. Although some of the posts have a slight advert-vibe, the majority provide useful and still-relevant information about Chongqing. Topics include introductions to local culture, food, and general daily life.</p>
+<hr>
+<p><img data-attachment-id="6683" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-andy-and-sarah/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?fit=2480%2C1216" data-orig-size="2480,1216" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-andy-and-sarah" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?fit=300%2C147" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?fit=676%2C331" class="aligncenter size-large wp-image-6683" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?resize=676%2C331" alt="chongqing-blog-andy-and-sarah" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?resize=1024%2C502 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?resize=300%2C147 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?resize=768%2C377 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?resize=945%2C463 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?resize=600%2C294 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-andy-and-sarah.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="https://nowwearechinese.wordpress.com/?s=chongqing">Andy &amp; Sara Go To China</a></h3>
+<p style="text-align: center;">Andy and Sara were coworkers of mine at English First (EF) who documented their time in China &#8211; and a few further travels &#8211; in this journal-style blog.</p>
+<hr>
+<p><img data-attachment-id="6684" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-chongqing-sydney/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?fit=2496%2C1214" data-orig-size="2496,1214" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-chongqing-sydney" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?fit=300%2C146" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?fit=676%2C329" class="aligncenter size-large wp-image-6684" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?resize=676%2C329" alt="chongqing-blog-chongqing-sydney" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?resize=1024%2C498 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?resize=300%2C146 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?resize=768%2C374 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?resize=945%2C460 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?resize=600%2C292 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqing-sydney.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="https://chongqingsydney.wordpress.com/">Chongqing | Sydney</a></h3>
+<p style="text-align: center;">A short-lived blog detailing an art show from 2015. However, it includes pictures from some interesting and generally unseen parts of Chongqing.</p>
+<hr>
+<h3 style="text-align: center;">&nbsp;<img data-attachment-id="6701" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-adventures-in-china-2/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?fit=2488%2C1228" data-orig-size="2488,1228" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-adventures-in-china" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?fit=300%2C148" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?fit=676%2C333" class="aligncenter size-large wp-image-6701" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?resize=676%2C333" alt="chongqing-blog-adventures-in-china" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?resize=1024%2C505 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?resize=300%2C148 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?resize=768%2C379 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?resize=945%2C466 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?resize=600%2C296 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-adventures-in-china-1.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://alexisadventuresinchina.wordpress.com/">My Adventures in China</a></h3>
+<p style="text-align: center;">Alexis (from The Alexis Adventures) originally wrote this blog about her time in China. Read here for or older stories or <a href="https://thealexisadventures.wordpress.com/">read here</a> for her newer stories.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6686" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-china-nomads/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?fit=2486%2C1266" data-orig-size="2486,1266" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-china-nomads" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?fit=300%2C153" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?fit=676%2C344" class="aligncenter size-large wp-image-6686" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?resize=676%2C344" alt="chongqing-blog-china-nomads" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?resize=1024%2C521 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?resize=300%2C153 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?resize=768%2C391 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?resize=945%2C481 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?resize=600%2C306 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-china-nomads.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://www.chinanomads.com">China Nomads</a></h3>
+<p style="text-align: center;">Although the authors were based in Chongqing, this blog features stories of travel all throughout China. It also features some of the best photography of any Chongqing bloggers I&#8217;ve seen.</p>
+<hr>
+<p><img data-attachment-id="6687" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-chongqingcity-tumblr/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?fit=2460%2C1290" data-orig-size="2460,1290" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-chongqingcity-tumblr" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?fit=300%2C157" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?fit=676%2C355" class="aligncenter size-large wp-image-6687" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?resize=676%2C355" alt="chongqing-blog-chongqingcity-tumblr" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?resize=1024%2C537 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?resize=300%2C157 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?resize=768%2C403 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?resize=945%2C496 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?resize=600%2C315 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chongqingcity-tumblr.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="http://china-holistr.blogspot.com/">Chongqing city &#8211; China</a></h3>
+<p style="text-align: center;">Oddly-written, very random topics, and not entirely in English, I considered leaving this one out. However, it still still contains some interesting stories, such as local food and <a href="http://china-holistr.blogspot.com/2013/05/swimming-in-yangtze-river-in-chongqing.html">swimming through Chongqing&#8217;s Yangtze River</a>.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6688" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-chasing-pavement-in-chongqing/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?fit=2086%2C1244" data-orig-size="2086,1244" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-chasing-pavement-in-chongqing" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?fit=300%2C179" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?fit=676%2C403" class="aligncenter size-large wp-image-6688" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?resize=676%2C403" alt="chongqing-blog-chasing-pavement-in-chongqing" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?resize=1024%2C611 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?resize=300%2C179 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?resize=768%2C458 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?resize=945%2C564 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?resize=600%2C358 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-chasing-pavement-in-chongqing.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://aspiringchongqinger.tumblr.com/">Chasing Pavement in Chongqing</a></h3>
+<p style="text-align: center;">A short-lived Tumblr (cringe) blog, this one details a lot of general knowledge that is helpful for newcomers to Chongqing, and China in general. And despite its lack of content or updates, still holds high rankings for Google searches.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6689" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-our-adventures-in-chongqing/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?fit=2482%2C1210" data-orig-size="2482,1210" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-our-adventures-in-chongqing" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?fit=300%2C146" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?fit=676%2C329" class="aligncenter size-large wp-image-6689" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?resize=676%2C329" alt="chongqing-blog-our-adventures-in-chongqing" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?resize=1024%2C499 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?resize=300%2C146 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?resize=768%2C374 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?resize=945%2C461 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?resize=600%2C293 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-our-adventures-in-chongqing.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://chongqingadventures.blogspot.com/">Our Adventures in Chongqing, China</a></h3>
+<p style="text-align: center;">This is the earliest blog about Chongqing I have come across. Its short duration follows the experiences of a family living in Chongqing during 2012-13.</p>
+<hr>
+<h1 style="text-align: center;"><span style="text-decoration: underline;">Chongqing Photographers</span></h1>
+<h3 style="text-align: center;"><img data-attachment-id="6712" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-douglas-hook/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?fit=2416%2C1162" data-orig-size="2416,1162" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-douglas-hook" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?fit=300%2C144" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?fit=676%2C325" class="aligncenter size-large wp-image-6712" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?resize=676%2C325" alt="chongqing-blog-douglas-hook" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?resize=1024%2C493 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?resize=300%2C144 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?resize=768%2C369 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?resize=945%2C455 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?resize=600%2C289 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-douglas-hook.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://www.douglashook.com/">Douglas Hook</a></h3>
+<p style="text-align: center;">Douglas Hook is an English-born photographer based in Chongqing. Since arriving in 2014, he has embarked on a number of themed photography projects throughout the region, although his photos of Chongqing Rivers remain my favorite. Be sure to also check out <a href="http://dughook.tumblr.com/">Douglas&#8217; Tumblr Page</a> for more regular photography updates.</p>
+<hr>
+<h1 style="text-align: center;"><img data-attachment-id="6714" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-tim-franco-metamorpolis/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?fit=2438%2C1206" data-orig-size="2438,1206" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-tim-franco-metamorpolis" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?fit=300%2C148" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?fit=676%2C335" class="aligncenter size-large wp-image-6714" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?resize=676%2C335" alt="chongqing-blog-tim-franco-metamorpolis" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?resize=1024%2C507 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?resize=300%2C148 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?resize=768%2C380 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?resize=945%2C467 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?resize=600%2C297 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-tim-franco-metamorpolis.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h1>
+<h3 style="text-align: center;"><a href="http://www.timfranco.com/china/photographer/professional/shanghai/blog/?tag=chongqing#show-archive">Tim Franco | Asia Photographer</a></h3>
+<p style="text-align: center;">Tim Franco is a photographer based in Shanghai who has been documenting the drastic changes taking place throughout the Chongqing landscape over the past few years. This has culminated in his recently-released book, <a href="http://www.timfranco.com/photographer/photojournalism/documentary/chongqing/china/vertical-communism/">Metamorpolis</a>.</p>
+<hr>
+<h1><img data-attachment-id="6715" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-everyday-life-in-maoist-china/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?fit=2434%2C1132" data-orig-size="2434,1132" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-everyday-life-in-maoist-china" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?fit=300%2C140" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?fit=676%2C314" class="aligncenter size-large wp-image-6715" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?resize=676%2C314" alt="chongqing-blog-everyday-life-in-maoist-china" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?resize=1024%2C476 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?resize=300%2C140 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?resize=768%2C357 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?resize=945%2C439 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?resize=600%2C279 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-everyday-life-in-maoist-china.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h1>
+<h3 style="text-align: center;"><a href="https://everydaylifeinmaoistchina.org/">Everyday Life in Maoist China</a></h3>
+<p style="text-align: center;">A blog specializing in rare, old photos of the beginnings of China&#8217;s communist era. Although not dedicated specifically to Chongqing, this blog features some spectacular photos that show how radically different the city was a half century ago.</p>
+<hr>
+<p style="text-align: center;"><img data-attachment-id="6718" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blogs-lao-t-photos/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?fit=2438%2C1232" data-orig-size="2438,1232" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blogs-lao-t-photos" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?fit=300%2C152" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?fit=676%2C341" class="aligncenter size-large wp-image-6718" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?resize=676%2C341" alt="chongqing-blogs-lao-t-photos" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?resize=1024%2C517 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?resize=300%2C152 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?resize=768%2C388 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?resize=945%2C478 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?resize=600%2C303 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-lao-t-photos.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="https://500px.com/laot">T 老 | Lao T Photos</a></h3>
+<p style="text-align: center;">Although not much is written about the scenes shown, Lao T&#8217;s 500px page contains one of the most prolific and charismatic photo feeds about Chongqing I have yet seen.</p>
+<hr>
+<h1 style="text-align: center;"><span style="text-decoration: underline;">Chongqing YouTube Channels</span></h1>
+<h3 style="text-align: center;"><img data-attachment-id="6690" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-youtube-nihao-kellar/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?fit=2028%2C1144" data-orig-size="2028,1144" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-youtube-nihao-kellar" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?fit=300%2C169" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?fit=676%2C382" class="aligncenter size-large wp-image-6690" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?resize=676%2C382" alt="chongqing-blog-youtube-nihao-kellar" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?resize=1024%2C578 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?resize=300%2C169 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?resize=768%2C433 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?resize=945%2C533 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?resize=600%2C338 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-youtube-nihao-kellar.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://www.youtube.com/channel/UCudsHpEXwxZAXCebeJt-h0g">Nihao Kellar</a></h3>
+<p style="text-align: center;">Kellar is a Chinese-speaking American sharing Chongqing sights and information in his videos. His thoughts and interpretations on local culture provide a welcome buffer for newcomers.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6694" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-hello-altine-2/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?fit=2326%2C1002" data-orig-size="2326,1002" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-hello-altine" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?fit=300%2C129" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?fit=676%2C291" class="aligncenter size-large wp-image-6694" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?resize=676%2C291" alt="chongqing-blog-hello-altine" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?resize=1024%2C441 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?resize=300%2C129 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?resize=768%2C331 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?resize=945%2C407 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?resize=600%2C258 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?w=1352 1352w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-hello-altine-1.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="https://www.youtube.com/channel/UC4tvtCOeBrvO6jqerrmCo-w">Hello Altine</a></h3>
+<p style="text-align: center;">Sabrina is an American university student in Chongqing. Her videos provide an intimate view of her daily life and thoughts during her time in a Chinese university.</p>
+<hr>
+<h1 style="text-align: center;"><span style="text-decoration: underline;">Chongqing Resources</span></h1>
+<p><img data-attachment-id="6695" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blogs-chongqing-expats-forum-2/" data-orig-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?fit=2424%2C1260" data-orig-size="2424,1260" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blogs-chongqing-expats-forum" data-image-description="" data-medium-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?fit=300%2C156" data-large-file="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?fit=676%2C351" class="aligncenter size-large wp-image-6695" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?resize=676%2C351" alt="chongqing-blogs-chongqing-expats-forum" srcset="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?resize=1024%2C532 1024w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?resize=300%2C156 300w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?resize=768%2C399 768w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?resize=945%2C491 945w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?resize=600%2C312 600w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?w=1352 1352w, https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-expats-forum-1.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="http://cqexpat.com">CQExpat Forum</a></h3>
+<p style="text-align: center;">This is easily the best resource for people seeking information about Chongqing. Although it&#8217;s not incredibly active, be assured that any question will be answered by a friendly and willing expat and local community on the website.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6697" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqingblogs-cq-scene/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?fit=2490%2C1260" data-orig-size="2490,1260" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqingblogs-cq-scene" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?fit=300%2C152" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?fit=676%2C342" class="aligncenter size-large wp-image-6697" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?resize=676%2C342" alt="chongqingblogs-cq-scene" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?resize=1024%2C518 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?resize=300%2C152 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?resize=768%2C389 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?resize=945%2C478 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?resize=600%2C304 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqingblogs-CQ-scene.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://cqscene.com" class="broken_link">CQ Scene</a></h3>
+<p style="text-align: center;">An online entertainment magazine, CQ Scene is rarely ever posted to anymore. Its website still provides a lot of helpful information on sites and locales throughout the city.</p>
+<hr>
+<p style="text-align: center;"><img data-attachment-id="6726" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blogs-chongqing-guide/" data-orig-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?fit=2486%2C1278" data-orig-size="2486,1278" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blogs-chongqing-guide" data-image-description="" data-medium-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?fit=300%2C154" data-large-file="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?fit=676%2C347" class="aligncenter size-large wp-image-6726" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?resize=676%2C347" alt="chongqing-blogs-chongqing-guide" srcset="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?resize=1024%2C526 1024w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?resize=300%2C154 300w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?resize=768%2C395 768w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?resize=945%2C486 945w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?resize=600%2C308 600w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?w=1352 1352w, https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blogs-chongqing-guide.png?w=2028 2028w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></p>
+<h3 style="text-align: center;"><a href="http://www.chongqing-guide.com/">Chongqing Guide</a></h3>
+<p style="text-align: center;">Offering a wealth of local and up-to-date information and publishing a new booklet each year with new tips on food and entertainment, Chongqing Guide is one site not to be missed.</p>
+<hr>
+<h3 style="text-align: center;"><img data-attachment-id="6698" data-permalink="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/chongqing-blog-maxelli-chongqing-guide/" data-orig-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?fit=1980%2C1206" data-orig-size="1980,1206" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chongqing-blog-maxelli-chongqing-guide" data-image-description="" data-medium-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?fit=300%2C183" data-large-file="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?fit=676%2C412" class="aligncenter size-large wp-image-6698" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?resize=676%2C412" alt="chongqing-blog-maxelli-chongqing-guide" srcset="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?resize=1024%2C624 1024w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?resize=300%2C183 300w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?resize=768%2C468 768w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?resize=945%2C576 945w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?resize=600%2C365 600w, https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/09/chongqing-blog-maxelli-chongqing-guide.png?w=1352 1352w" sizes="(max-width: 676px) 100vw, 676px" data-recalc-dims="1" /></h3>
+<h3 style="text-align: center;"><a href="http://maxxelli-blog.com/wp-content/uploads/2014/07/Chongqing-City-Guide.pdf">Maxxelli City Guide</a></h3>
+<p style="text-align: center;">Ahis is a must-read guide for any newcomer to Chongqing.</p>
+<p><em><strong>Did I miss any blogs about Chongqing? Have you written about your time in this Chinese megacity? Let me know and I&#8217;ll add it to the list!</strong></em></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-6647" class="share-facebook sd-button share-icon" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-6647" class="share-twitter sd-button share-icon" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-6647" class="share-pinterest sd-button share-icon" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-6647" class="share-google-plus-1 sd-button share-icon" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-44845061-6647-59f2f6668fe14' data-src='https://widgets.wp.com/likes/#blog_id=44845061&amp;post_id=6647&amp;origin=pathsunwritten.com&amp;obj_id=44845061-6647-59f2f6668fe14' data-name='like-post-frame-44845061-6647-59f2f6668fe14'><h3 class="sd-title">Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>						
+						<div class="clear"></div>
+									        
+					</div> <!-- /post-content -->
+					            					
+					<div class="post-meta-container">
+						
+						<div class="post-author">
+						
+							<div class="post-author-content">
+							
+								<h4>Ben</h4>
+								
+								<p>Nothing that notable to say yet.  I’m a native Michigander with a passion for human culture and new places, and more than that, new experiences.  I have degrees in writing and anthropology and have no idea what I want to do with them.  For now, I’m content with an unbound lifestyle; going where I want and doing what I can, and hopefully gaining some interesting stories along the way.</p>
+								
+																
+								<div class="author-links">
+									
+									<a class="author-link-posts" title="Author archive" href="http://pathsunwritten.com/author/archaeis/">Author archive</a>
+									
+																		
+										<a class="author-link-website" title="Author website" href="http://PathsUnwritten.com">Author website</a>
+										
+																		
+										<a class="author-link-twitter" title="@PathsUnwritten on Twitter" href="http://www.twitter.com/PathsUnwritten">@PathsUnwritten on Twitter</a>
+										
+																		
+								</div> <!-- /author-links -->
+							
+							</div> <!-- /post-author-content -->
+						
+						</div> <!-- /post-author -->
+						
+						<div class="post-meta">
+						
+							<p class="post-date">26 September 2016</p>
+							
+														
+							<p class="post-categories"><a href="http://pathsunwritten.com/category/everywhere/asia/china/" rel="category tag">China</a>, <a href="http://pathsunwritten.com/category/everywhere/" rel="category tag">Everywhere</a>, <a href="http://pathsunwritten.com/category/everywhere/asia/china/chongqing-days/" rel="category tag">The Chongqing Days</a></p>
+							
+														
+								<p class="post-tags"><a href="http://pathsunwritten.com/tag/blogs/" rel="tag">blogs</a>, <a href="http://pathsunwritten.com/tag/china/" rel="tag">China</a>, <a href="http://pathsunwritten.com/tag/chongqing/" rel="tag">Chongqing</a>, <a href="http://pathsunwritten.com/tag/information/" rel="tag">information</a>, <a href="http://pathsunwritten.com/tag/travel-blog/" rel="tag">travel blog</a>, <a href="http://pathsunwritten.com/tag/%e4%b8%ad%e5%9b%bd/" rel="tag">中国</a>, <a href="http://pathsunwritten.com/tag/%e9%87%8d%e5%ba%86/" rel="tag">重庆</a></p>
+							
+														
+							<div class="clear"></div>
+							
+							<div class="post-nav">
+							
+																
+									<a class="post-nav-prev" title="Previous post: I Should Have Stayed Home" href="http://pathsunwritten.com/2016/07/stayed-home-chongqing/">Previous post</a>
+							
+																
+																	
+									<a class="post-nav-next" title="Next post: The Chongqing Days: Shibati and the 18 Stairs Gentrification" href="http://pathsunwritten.com/2016/12/chongqing-days-shibati-18-stairs-gentrification/">Next post</a>
+							
+																
+																	
+								<div class="clear"></div>
+							
+							</div>
+						
+						</div> <!-- /post-meta -->
+						
+						<div class="clear"></div>
+							
+					</div> <!-- /post-meta-container -->
+																		
+					
+		
+		<div class="comments">
+		
+			<a name="comments"></a>
+			
+			<div class="comments-title-container">
+				
+				<h2 class="comments-title fleft">
+				
+					9 Comments					
+				</h2>
+				
+								
+					<h2 class="add-comment-title fright"><a href="#respond">Add yours</a></h2>
+				
+								
+				<div class="clear"></div>
+			
+			</div> <!-- /comments-title-container -->
+	
+			<ol class="commentlist">
+			    	<li class="comment even thread-even depth-1" id="li-comment-3683">
+	
+		<div id="comment-3683" class="comment">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/05ddebee1a2e3b0bfafcb695b56b44b6?s=80&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/05ddebee1a2e3b0bfafcb695b56b44b6?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://fiandjonny.wordpress.com' rel='external nofollow' class='url'>fiandjonny</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3683">18 December 2016 at 1:40 pm</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3683#respond' onclick='return addComment.moveForm( "comment-3683", "3683", "respond", "6647" )' aria-label='Reply to fiandjonny'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Super useful links to other Chongqing bloggers &#8211; thank you for compiling it 🙂<br />
+We recently moved to Chongqing and written a little about our exploration of the city so far, with more to follow!</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3683#respond' onclick='return addComment.moveForm( "comment-3683", "3683", "respond", "6647" )' aria-label='Reply to fiandjonny'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	<ul class="children">
+	<li class="comment byuser comment-author-archaeis bypostauthor odd alt depth-2" id="li-comment-3685">
+	
+		<div id="comment-3685" class="comment">
+		
+			<img alt='' src='http://2.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=80&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://PathsUnwritten.com' rel='external nofollow' class='url'>Ben</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3685">19 December 2016 at 12:11 am</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3685#respond' onclick='return addComment.moveForm( "comment-3685", "3685", "respond", "6647" )' aria-label='Reply to Ben'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>I&#8217;m taking a closer look at your blog now and will add it to the list. I hope you enjoy CQ!</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3685#respond' onclick='return addComment.moveForm( "comment-3685", "3685", "respond", "6647" )' aria-label='Reply to Ben'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	<ul class="children">
+	<li class="comment even depth-3" id="li-comment-3687">
+	
+		<div id="comment-3687" class="comment">
+		
+			<img alt='' src='http://0.gravatar.com/avatar/05ddebee1a2e3b0bfafcb695b56b44b6?s=80&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/05ddebee1a2e3b0bfafcb695b56b44b6?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://fiandjonny.wordpress.com' rel='external nofollow' class='url'>fiandjonny</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3687">19 December 2016 at 7:39 am</a></p>
+					
+					<div class="comment-actions">
+					
+												
+												
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Thanks 🙂 </p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+										
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-3694">
+	
+		<div id="comment-3694" class="comment">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/aa7cc6b6c1c6835add5d160b71af720b?s=80&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/aa7cc6b6c1c6835add5d160b71af720b?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://beautifuldiaspora.wordpress.com' rel='external nofollow' class='url'>beautifuldiaspora</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3694">14 January 2017 at 6:27 am</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3694#respond' onclick='return addComment.moveForm( "comment-3694", "3694", "respond", "6647" )' aria-label='Reply to beautifuldiaspora'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Wow thanks for all this work! I was in Chongqing last February, really fascinating city, your article is making me want to go back 🙂</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3694#respond' onclick='return addComment.moveForm( "comment-3694", "3694", "respond", "6647" )' aria-label='Reply to beautifuldiaspora'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	<ul class="children">
+	<li class="comment byuser comment-author-archaeis bypostauthor even depth-2" id="li-comment-3696">
+	
+		<div id="comment-3696" class="comment">
+		
+			<img alt='' src='http://2.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=80&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://PathsUnwritten.com' rel='external nofollow' class='url'>Ben</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3696">03 February 2017 at 12:46 am</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3696#respond' onclick='return addComment.moveForm( "comment-3696", "3696", "respond", "6647" )' aria-label='Reply to Ben'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Thanks for looking. Were you visiting Chongqing or living here for a while?</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3696#respond' onclick='return addComment.moveForm( "comment-3696", "3696", "respond", "6647" )' aria-label='Reply to Ben'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	<ul class="children">
+	<li class="comment odd alt depth-3" id="li-comment-3698">
+	
+		<div id="comment-3698" class="comment">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/aa7cc6b6c1c6835add5d160b71af720b?s=80&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/aa7cc6b6c1c6835add5d160b71af720b?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://beautifuldiaspora.wordpress.com' rel='external nofollow' class='url'>beautifuldiaspora</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3698">03 February 2017 at 8:40 am</a></p>
+					
+					<div class="comment-actions">
+					
+												
+												
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Just visiting, I went to visit a language exchange friend. I loved the hilly aspect to Chongqing, a big contrast to Foshan where I&#8217;d just come from. And the smell of chilli peppers in the air&#8230;.ahhh 🙂 What a great city!</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+										
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-3699">
+	
+		<div id="comment-3699" class="comment">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/14c7e79032b3270f0bb8f9bc9bf114aa?s=80&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/14c7e79032b3270f0bb8f9bc9bf114aa?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://dumplingsanddragons.wordpress.com' rel='external nofollow' class='url'>dumplingsanddragons</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3699">20 February 2017 at 8:22 pm</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3699#respond' onclick='return addComment.moveForm( "comment-3699", "3699", "respond", "6647" )' aria-label='Reply to dumplingsanddragons'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>This is awesome! How did I not find your site before moving to Chongqing? I had no idea that there were many people blogging about this wonderful city Chongqing. I would be honered if you would add mine (even though I just started this week). Glad to see more people who love it here!</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3699#respond' onclick='return addComment.moveForm( "comment-3699", "3699", "respond", "6647" )' aria-label='Reply to dumplingsanddragons'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	<ul class="children">
+	<li class="comment byuser comment-author-archaeis bypostauthor odd alt depth-2" id="li-comment-3700">
+	
+		<div id="comment-3700" class="comment">
+		
+			<img alt='' src='http://2.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=80&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn"><a href='http://PathsUnwritten.com' rel='external nofollow' class='url'>Ben</a></cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3700">24 February 2017 at 2:25 pm</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3700#respond' onclick='return addComment.moveForm( "comment-3700", "3700", "respond", "6647" )' aria-label='Reply to Ben'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Thanks for writing. I&#8217;ll gladly add you to the list. I&#8217;m travelling the moment but will be updating a lot of things when I return to chongqing in a couple weeks. I hope you&#8217;re enjoying the city so far!</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3700#respond' onclick='return addComment.moveForm( "comment-3700", "3700", "respond", "6647" )' aria-label='Reply to Ben'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-3706">
+	
+		<div id="comment-3706" class="comment">
+		
+			<img alt='' src='http://1.gravatar.com/avatar/4f428a53e715366644311cc7dc06b6d5?s=80&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/4f428a53e715366644311cc7dc06b6d5?s=160&amp;d=identicon&amp;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />		
+			<div class="comment-inner">
+
+				<div class="comment-header">
+											
+					<cite class="fn">zlhyman</cite>					
+					<p><a href="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/#comment-3706">17 July 2017 at 9:27 am</a></p>
+					
+					<div class="comment-actions">
+					
+												
+						<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3706#respond' onclick='return addComment.moveForm( "comment-3706", "3706", "respond", "6647" )' aria-label='Reply to zlhyman'>Reply</a>						
+						<div class="clear"></div>
+					
+					</div> <!-- /comment-actions -->
+					
+				</div> <!-- /comment-header -->
+
+				<div class="comment-content">
+				
+									
+					<p>Hey Ben &#8211; Zach of Square Inch Anthropology here. I really appreciate the kind mention in this post, and thanks for sharing the love!</p>
+					
+				</div><!-- /comment-content -->
+				
+				<div class="comment-actions-below hidden">
+					
+										
+					<a rel='nofollow' class='comment-reply-link' href='http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/?replytocom=3706#respond' onclick='return addComment.moveForm( "comment-3706", "3706", "respond", "6647" )' aria-label='Reply to zlhyman'>Reply</a>					
+					<div class="clear"></div>
+				
+				</div> <!-- /comment-actions -->
+				
+			</div> <!-- /comment-inner -->
+
+		</div><!-- /comment-## -->
+	</li><!-- #comment-## -->
+			</ol>
+			
+							
+						
+		</div><!-- /comments -->
+		
+		
+		
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Write Here <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/09/chongqing-blogs-info-directory/#respond" style="display:none;">Cancel reply</a></small></h3>
+						<form id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=44845061&#038;postid=6647&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=identicon&#038;greeting=Write+Here&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_US&#038;jetpack_version=5.3&#038;sig=e2aee9194254af602df73fa8dadd85b060b4b75c#parent=http%3A%2F%2Fpathsunwritten.com%2F2016%2F09%2Fchongqing-blogs-info-directory%2F" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+				<!--[if !IE]><!-->
+				<script>
+					document.addEventListener( 'DOMContentLoaded', function () {
+						var commentForms = document.getElementsByClassName( 'jetpack_remote_comment' );
+						for ( var i = 0; i < commentForms.length; i++ ) {
+							commentForms[i].allowTransparency = false;
+							commentForms[i].scrolling = 'no';
+						}
+					} );
+				</script>
+				<!--<![endif]-->
+			</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+														                        
+			   	    
+		
+			</div> <!-- /post -->
+		
+		</div> <!-- /content -->
+		
+		
+	<div class="sidebar fright" role="complementary">
+	
+		<div class="widget widget_search"><div class="widget-content"><h3 class="widget-title">Looking for something?</h3><form method="get" class="searchform" action="http://pathsunwritten.com/">
+	<input type="search" value="" placeholder="Search form" name="s" class="s" /> 
+	<input type="submit" class="searchsubmit" value="Search">
+</form></div><div class="clear"></div></div><div class="widget jetpack_subscription_widget"><div class="widget-content"><h3 class="widget-title">Get an email when something new pops up</h3>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				<div id="subscribe-text"></div>					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-3">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-3" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://pathsunwritten.com/2016/09/chongqing-blogs-info-directory/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+												<input type="submit" value="Submit" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-3]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-3'),
+					input = d.getElementById('subscribe-field-blog_subscription-3'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</div><div class="clear"></div></div><div class="widget widget_top-posts"><div class="widget-content"><h3 class="widget-title">Today&#8217;s Most Viewed</h3><div class='widgets-grid-layout no-grav'>
+					<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2017/07/gunung-padang-oldest-civilization/" title="Is Gunung Padang Evidence of the World&#039;s Oldest Civilization?" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2017/07/gunung-padang-oldest-civiization-title.jpg?fit=1200%2C675&#038;resize=200%2C200" alt="Is Gunung Padang Evidence of the World&#039;s Oldest Civilization?" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2012/05/american-tesol-institute-at-review-in-course-experience/" title="American TESOL Institute (ATI) Review - In-Course Experience" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2012/05/dscf5385.jpg?resize=200%2C200" alt="American TESOL Institute (ATI) Review - In-Course Experience" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/lost-cities/lost-cities-of-the-united-states/" title="Lost Cities of the United States" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2013/06/copper-culture-lost-cities-2.jpg?resize=200%2C200" alt="Lost Cities of the United States" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2016/07/chongqing-pedestrian-bridge/" title="The Chongqing Days: A 13-Storey Pedestrian Bridge?" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/07/chongqing-pedestrian-bridge-title.jpg?fit=1200%2C674&#038;resize=200%2C200" alt="The Chongqing Days: A 13-Storey Pedestrian Bridge?" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2011/03/northern-micropolis-marquette-mi/" title="Life in the Northern Micropolis: Marquette, MI" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2011/03/38935_432317141784_596441784_4856349_2448924_n.jpg?resize=200%2C200" alt="Life in the Northern Micropolis: Marquette, MI" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2012/07/annoying-things-in-thailand/" title="Annoying Things in Thailand" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2012/07/annoying-things-thailand-title.jpg?fit=1200%2C900&#038;resize=200%2C200" alt="Annoying Things in Thailand" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2012/05/american-tesol-institute-at-review-overall/" title="American TESOL Institute (ATI) Review – Overall" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2012/05/dscf6337.jpg?resize=200%2C200" alt="American TESOL Institute (ATI) Review – Overall" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2015/03/vesali-mrauk-u/" title="Vesali: Second City of the Rakhine" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/vesali-mrauk-u-title-e1450786298301.jpg?fit=1200%2C679&#038;resize=200%2C200" alt="Vesali: Second City of the Rakhine" data-pin-nopin="true" />
+						</a>
+											</div>
+				</div>
+</div><div class="clear"></div></div><div class="widget widget-grofile grofile"><div class="widget-content">			<img src="https://secure.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=320" class="grofile-thumbnail no-grav" alt="Ben" />
+			<div class="grofile-meta">
+				<h4><a href="http://gravatar.com/archaeis">Ben</a></h4>
+				<p>Nothing that notable to say yet.  I’m a native Michigander with a passion for human culture and new places, and more than that, new experiences.  I have degrees in writing and anthropology and have no idea what I want to do with them.  For now, I’m content with an unbound lifestyle; going where I want and doing what I can, and hopefully gaining some interesting stories along the way.</p>
+			</div>
+
+			
+			<h4>Personal Links</h4>
+			<ul class="grofile-urls grofile-links">
+
+							<li>
+					<a href="http://pathsunwritten.com">
+						Paths Unwritten					</a>
+				</li>
+							<li>
+					<a href="http://www.facebook.com/PathsUnwritten">
+						Paths Unwritten | Facebook					</a>
+				</li>
+							<li>
+					<a href="http://bensbeds.wordpress.com">
+						Ben&#039;s Bed Blog					</a>
+				</li>
+							<li>
+					<a href="http://twitter.com/PathsUnwritten">
+						@PathsUnwritten | Twitter					</a>
+				</li>
+							<li>
+					<a href="http://instagram.com/pathsunwritten/">
+						Paths Unwritten | Instagram					</a>
+				</li>
+						</ul>
+
+		
+			<p><a href="http://gravatar.com/archaeis" class="grofile-full-link">
+				View Full Profile &rarr;			</a></p>
+
+			</div><div class="clear"></div></div><div class="widget widget_tag_cloud"><div class="widget-content"><h3 class="widget-title">Stuff I Write About</h3><div class="tagcloud"><a href="http://pathsunwritten.com/tag/american-tesol-institute/" class="tag-cloud-link tag-link-31031822 tag-link-position-1" style="font-size: 10.63768115942pt;" aria-label="American TESOL Institute (10 items)">American TESOL Institute</a>
+<a href="http://pathsunwritten.com/tag/archaeology/" class="tag-cloud-link tag-link-24914 tag-link-position-2" style="font-size: 13.68115942029pt;" aria-label="archaeology (21 items)">archaeology</a>
+<a href="http://pathsunwritten.com/tag/ati/" class="tag-cloud-link tag-link-69647 tag-link-position-3" style="font-size: 9.7246376811594pt;" aria-label="ATI (8 items)">ATI</a>
+<a href="http://pathsunwritten.com/tag/ati-american-tesol-institute/" class="tag-cloud-link tag-link-68517173 tag-link-position-4" style="font-size: 8.7101449275362pt;" aria-label="ATI American TESOL Institute (6 items)">ATI American TESOL Institute</a>
+<a href="http://pathsunwritten.com/tag/backpacking/" class="tag-cloud-link tag-link-11921 tag-link-position-5" style="font-size: 8pt;" aria-label="backpacking (5 items)">backpacking</a>
+<a href="http://pathsunwritten.com/tag/bangkok/" class="tag-cloud-link tag-link-79515 tag-link-position-6" style="font-size: 17.130434782609pt;" aria-label="Bangkok (47 items)">Bangkok</a>
+<a href="http://pathsunwritten.com/tag/boston/" class="tag-cloud-link tag-link-8225 tag-link-position-7" style="font-size: 11.04347826087pt;" aria-label="Boston (11 items)">Boston</a>
+<a href="http://pathsunwritten.com/tag/buddhism/" class="tag-cloud-link tag-link-158 tag-link-position-8" style="font-size: 10.63768115942pt;" aria-label="buddhism (10 items)">buddhism</a>
+<a href="http://pathsunwritten.com/tag/chiang-mai/" class="tag-cloud-link tag-link-102572 tag-link-position-9" style="font-size: 9.2173913043478pt;" aria-label="Chiang Mai (7 items)">Chiang Mai</a>
+<a href="http://pathsunwritten.com/tag/china/" class="tag-cloud-link tag-link-134738942 tag-link-position-10" style="font-size: 14.391304347826pt;" aria-label="China (25 items)">China</a>
+<a href="http://pathsunwritten.com/tag/chongqing/" class="tag-cloud-link tag-link-134738873 tag-link-position-11" style="font-size: 13.68115942029pt;" aria-label="Chongqing (21 items)">Chongqing</a>
+<a href="http://pathsunwritten.com/tag/death-railway/" class="tag-cloud-link tag-link-3968246 tag-link-position-12" style="font-size: 8.7101449275362pt;" aria-label="Death Railway (6 items)">Death Railway</a>
+<a href="http://pathsunwritten.com/tag/grand-rapids/" class="tag-cloud-link tag-link-48655 tag-link-position-13" style="font-size: 9.2173913043478pt;" aria-label="Grand Rapids (7 items)">Grand Rapids</a>
+<a href="http://pathsunwritten.com/tag/innovative-solutions/" class="tag-cloud-link tag-link-1460092 tag-link-position-14" style="font-size: 8.7101449275362pt;" aria-label="Innovative Solutions (6 items)">Innovative Solutions</a>
+<a href="http://pathsunwritten.com/tag/isan/" class="tag-cloud-link tag-link-134738939 tag-link-position-15" style="font-size: 9.2173913043478pt;" aria-label="Isan (7 items)">Isan</a>
+<a href="http://pathsunwritten.com/tag/kanchanaburi/" class="tag-cloud-link tag-link-568246 tag-link-position-16" style="font-size: 11.347826086957pt;" aria-label="Kanchanaburi (12 items)">Kanchanaburi</a>
+<a href="http://pathsunwritten.com/tag/khao-san-road/" class="tag-cloud-link tag-link-1016229 tag-link-position-17" style="font-size: 8.7101449275362pt;" aria-label="Khao San Road (6 items)">Khao San Road</a>
+<a href="http://pathsunwritten.com/tag/laos/" class="tag-cloud-link tag-link-134738930 tag-link-position-18" style="font-size: 11.753623188406pt;" aria-label="Laos (13 items)">Laos</a>
+<a href="http://pathsunwritten.com/tag/life/" class="tag-cloud-link tag-link-124 tag-link-position-19" style="font-size: 8pt;" aria-label="Life (5 items)">Life</a>
+<a href="http://pathsunwritten.com/tag/living-abroad/" class="tag-cloud-link tag-link-352904 tag-link-position-20" style="font-size: 9.7246376811594pt;" aria-label="living abroad (8 items)">living abroad</a>
+<a href="http://pathsunwritten.com/tag/mackinac-island/" class="tag-cloud-link tag-link-1089389 tag-link-position-21" style="font-size: 8.7101449275362pt;" aria-label="Mackinac Island (6 items)">Mackinac Island</a>
+<a href="http://pathsunwritten.com/tag/massachusetts/" class="tag-cloud-link tag-link-134738934 tag-link-position-22" style="font-size: 9.7246376811594pt;" aria-label="Massachusetts (8 items)">Massachusetts</a>
+<a href="http://pathsunwritten.com/tag/michigan/" class="tag-cloud-link tag-link-134738929 tag-link-position-23" style="font-size: 13.275362318841pt;" aria-label="Michigan (19 items)">Michigan</a>
+<a href="http://pathsunwritten.com/tag/muang-sing/" class="tag-cloud-link tag-link-7517391 tag-link-position-24" style="font-size: 8pt;" aria-label="Muang Sing (5 items)">Muang Sing</a>
+<a href="http://pathsunwritten.com/tag/myanmar/" class="tag-cloud-link tag-link-134738931 tag-link-position-25" style="font-size: 10.63768115942pt;" aria-label="Myanmar (10 items)">Myanmar</a>
+<a href="http://pathsunwritten.com/tag/new-york/" class="tag-cloud-link tag-link-134738925 tag-link-position-26" style="font-size: 8pt;" aria-label="New York (5 items)">New York</a>
+<a href="http://pathsunwritten.com/tag/nightlife/" class="tag-cloud-link tag-link-21466 tag-link-position-27" style="font-size: 8.7101449275362pt;" aria-label="nightlife (6 items)">nightlife</a>
+<a href="http://pathsunwritten.com/tag/pinklao/" class="tag-cloud-link tag-link-7182277 tag-link-position-28" style="font-size: 8.7101449275362pt;" aria-label="Pinklao (6 items)">Pinklao</a>
+<a href="http://pathsunwritten.com/tag/postaday/" class="tag-cloud-link tag-link-9625683 tag-link-position-29" style="font-size: 12.565217391304pt;" aria-label="postaday (16 items)">postaday</a>
+<a href="http://pathsunwritten.com/tag/puerto-rico/" class="tag-cloud-link tag-link-134738935 tag-link-position-30" style="font-size: 9.7246376811594pt;" aria-label="Puerto Rico (8 items)">Puerto Rico</a>
+<a href="http://pathsunwritten.com/tag/ruins/" class="tag-cloud-link tag-link-216055 tag-link-position-31" style="font-size: 12.565217391304pt;" aria-label="ruins (16 items)">ruins</a>
+<a href="http://pathsunwritten.com/tag/san-juan/" class="tag-cloud-link tag-link-67720 tag-link-position-32" style="font-size: 9.2173913043478pt;" aria-label="San Juan (7 items)">San Juan</a>
+<a href="http://pathsunwritten.com/tag/teaching-abroad/" class="tag-cloud-link tag-link-2552103 tag-link-position-33" style="font-size: 8pt;" aria-label="teaching abroad (5 items)">teaching abroad</a>
+<a href="http://pathsunwritten.com/tag/tefl/" class="tag-cloud-link tag-link-75169 tag-link-position-34" style="font-size: 8.7101449275362pt;" aria-label="TEFL (6 items)">TEFL</a>
+<a href="http://pathsunwritten.com/tag/tesol/" class="tag-cloud-link tag-link-44498 tag-link-position-35" style="font-size: 8.7101449275362pt;" aria-label="TESOL (6 items)">TESOL</a>
+<a href="http://pathsunwritten.com/tag/thailand/" class="tag-cloud-link tag-link-134738927 tag-link-position-36" style="font-size: 19.159420289855pt;" aria-label="Thailand (75 items)">Thailand</a>
+<a href="http://pathsunwritten.com/tag/travel/" class="tag-cloud-link tag-link-134738921 tag-link-position-37" style="font-size: 22pt;" aria-label="Travel (142 items)">Travel</a>
+<a href="http://pathsunwritten.com/tag/travel-theme/" class="tag-cloud-link tag-link-11124588 tag-link-position-38" style="font-size: 12.260869565217pt;" aria-label="Travel Theme (15 items)">Travel Theme</a>
+<a href="http://pathsunwritten.com/tag/udon-thani/" class="tag-cloud-link tag-link-2410010 tag-link-position-39" style="font-size: 8pt;" aria-label="Udon Thani (5 items)">Udon Thani</a>
+<a href="http://pathsunwritten.com/tag/united-states/" class="tag-cloud-link tag-link-134738926 tag-link-position-40" style="font-size: 10.63768115942pt;" aria-label="United States (10 items)">United States</a>
+<a href="http://pathsunwritten.com/tag/upper-peninsula/" class="tag-cloud-link tag-link-134738938 tag-link-position-41" style="font-size: 10.63768115942pt;" aria-label="Upper Peninsula (10 items)">Upper Peninsula</a>
+<a href="http://pathsunwritten.com/tag/urban-exploration/" class="tag-cloud-link tag-link-31202 tag-link-position-42" style="font-size: 9.7246376811594pt;" aria-label="Urban Exploration (8 items)">Urban Exploration</a>
+<a href="http://pathsunwritten.com/tag/wanderbird-cruises/" class="tag-cloud-link tag-link-46180757 tag-link-position-43" style="font-size: 8.7101449275362pt;" aria-label="Wanderbird Cruises (6 items)">Wanderbird Cruises</a>
+<a href="http://pathsunwritten.com/tag/working-abroad/" class="tag-cloud-link tag-link-487065 tag-link-position-44" style="font-size: 8pt;" aria-label="working abroad (5 items)">working abroad</a>
+<a href="http://pathsunwritten.com/tag/%e9%87%8d%e5%ba%86/" class="tag-cloud-link tag-link-134738951 tag-link-position-45" style="font-size: 11.753623188406pt;" aria-label="重庆 (13 items)">重庆</a></div>
+</div><div class="clear"></div></div>		
+	</div><!-- /sidebar -->
+
+		
+		<div class="clear"></div>
+		
+	</div> <!-- /section-inner -->
+
+</div> <!-- /wrapper -->
+		
+<div class="footer section medium-padding bg-graphite">
+	
+	<div class="section-inner row">
+	
+				
+			<div class="column column-1 one-third">
+			
+				<div class="widgets">
+		
+					<div class="widget widget_top-posts"><div class="widget-content"><h3 class="widget-title">Today&#8217;s Most Viewed</h3><div class='widgets-grid-layout no-grav'>
+					<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2017/07/gunung-padang-oldest-civilization/" title="Is Gunung Padang Evidence of the World&#039;s Oldest Civilization?" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2017/07/gunung-padang-oldest-civiization-title.jpg?fit=1200%2C675&#038;resize=200%2C200" alt="Is Gunung Padang Evidence of the World&#039;s Oldest Civilization?" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2012/05/american-tesol-institute-at-review-in-course-experience/" title="American TESOL Institute (ATI) Review - In-Course Experience" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2012/05/dscf5385.jpg?resize=200%2C200" alt="American TESOL Institute (ATI) Review - In-Course Experience" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/lost-cities/lost-cities-of-the-united-states/" title="Lost Cities of the United States" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i1.wp.com/pathsunwritten.com/wp-content/uploads/2013/06/copper-culture-lost-cities-2.jpg?resize=200%2C200" alt="Lost Cities of the United States" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2016/07/chongqing-pedestrian-bridge/" title="The Chongqing Days: A 13-Storey Pedestrian Bridge?" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2016/07/chongqing-pedestrian-bridge-title.jpg?fit=1200%2C674&#038;resize=200%2C200" alt="The Chongqing Days: A 13-Storey Pedestrian Bridge?" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2011/03/northern-micropolis-marquette-mi/" title="Life in the Northern Micropolis: Marquette, MI" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2011/03/38935_432317141784_596441784_4856349_2448924_n.jpg?resize=200%2C200" alt="Life in the Northern Micropolis: Marquette, MI" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2012/07/annoying-things-in-thailand/" title="Annoying Things in Thailand" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2012/07/annoying-things-thailand-title.jpg?fit=1200%2C900&#038;resize=200%2C200" alt="Annoying Things in Thailand" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2012/05/american-tesol-institute-at-review-overall/" title="American TESOL Institute (ATI) Review – Overall" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i2.wp.com/pathsunwritten.com/wp-content/uploads/2012/05/dscf6337.jpg?resize=200%2C200" alt="American TESOL Institute (ATI) Review – Overall" data-pin-nopin="true" />
+						</a>
+											</div>
+									<div class="widget-grid-view-image">
+												<a href="http://pathsunwritten.com/2015/03/vesali-mrauk-u/" title="Vesali: Second City of the Rakhine" class="bump-view" data-bump-view="tp">
+							<img width="200" height="200" src="https://i0.wp.com/pathsunwritten.com/wp-content/uploads/2015/03/vesali-mrauk-u-title-e1450786298301.jpg?fit=1200%2C679&#038;resize=200%2C200" alt="Vesali: Second City of the Rakhine" data-pin-nopin="true" />
+						</a>
+											</div>
+				</div>
+</div><div class="clear"></div></div>										
+				</div>
+				
+			</div>
+			
+		 <!-- /footer-a -->
+			
+				
+			<div class="column column-2 one-third">
+			
+				<div class="widgets">
+		
+					<div class="widget widget_tag_cloud"><div class="widget-content"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href="http://pathsunwritten.com/tag/american-tesol-institute/" class="tag-cloud-link tag-link-31031822 tag-link-position-1" style="font-size: 10.63768115942pt;" aria-label="American TESOL Institute (10 items)">American TESOL Institute</a>
+<a href="http://pathsunwritten.com/tag/archaeology/" class="tag-cloud-link tag-link-24914 tag-link-position-2" style="font-size: 13.68115942029pt;" aria-label="archaeology (21 items)">archaeology</a>
+<a href="http://pathsunwritten.com/tag/ati/" class="tag-cloud-link tag-link-69647 tag-link-position-3" style="font-size: 9.7246376811594pt;" aria-label="ATI (8 items)">ATI</a>
+<a href="http://pathsunwritten.com/tag/ati-american-tesol-institute/" class="tag-cloud-link tag-link-68517173 tag-link-position-4" style="font-size: 8.7101449275362pt;" aria-label="ATI American TESOL Institute (6 items)">ATI American TESOL Institute</a>
+<a href="http://pathsunwritten.com/tag/backpacking/" class="tag-cloud-link tag-link-11921 tag-link-position-5" style="font-size: 8pt;" aria-label="backpacking (5 items)">backpacking</a>
+<a href="http://pathsunwritten.com/tag/bangkok/" class="tag-cloud-link tag-link-79515 tag-link-position-6" style="font-size: 17.130434782609pt;" aria-label="Bangkok (47 items)">Bangkok</a>
+<a href="http://pathsunwritten.com/tag/boston/" class="tag-cloud-link tag-link-8225 tag-link-position-7" style="font-size: 11.04347826087pt;" aria-label="Boston (11 items)">Boston</a>
+<a href="http://pathsunwritten.com/tag/buddhism/" class="tag-cloud-link tag-link-158 tag-link-position-8" style="font-size: 10.63768115942pt;" aria-label="buddhism (10 items)">buddhism</a>
+<a href="http://pathsunwritten.com/tag/chiang-mai/" class="tag-cloud-link tag-link-102572 tag-link-position-9" style="font-size: 9.2173913043478pt;" aria-label="Chiang Mai (7 items)">Chiang Mai</a>
+<a href="http://pathsunwritten.com/tag/china/" class="tag-cloud-link tag-link-134738942 tag-link-position-10" style="font-size: 14.391304347826pt;" aria-label="China (25 items)">China</a>
+<a href="http://pathsunwritten.com/tag/chongqing/" class="tag-cloud-link tag-link-134738873 tag-link-position-11" style="font-size: 13.68115942029pt;" aria-label="Chongqing (21 items)">Chongqing</a>
+<a href="http://pathsunwritten.com/tag/death-railway/" class="tag-cloud-link tag-link-3968246 tag-link-position-12" style="font-size: 8.7101449275362pt;" aria-label="Death Railway (6 items)">Death Railway</a>
+<a href="http://pathsunwritten.com/tag/grand-rapids/" class="tag-cloud-link tag-link-48655 tag-link-position-13" style="font-size: 9.2173913043478pt;" aria-label="Grand Rapids (7 items)">Grand Rapids</a>
+<a href="http://pathsunwritten.com/tag/innovative-solutions/" class="tag-cloud-link tag-link-1460092 tag-link-position-14" style="font-size: 8.7101449275362pt;" aria-label="Innovative Solutions (6 items)">Innovative Solutions</a>
+<a href="http://pathsunwritten.com/tag/isan/" class="tag-cloud-link tag-link-134738939 tag-link-position-15" style="font-size: 9.2173913043478pt;" aria-label="Isan (7 items)">Isan</a>
+<a href="http://pathsunwritten.com/tag/kanchanaburi/" class="tag-cloud-link tag-link-568246 tag-link-position-16" style="font-size: 11.347826086957pt;" aria-label="Kanchanaburi (12 items)">Kanchanaburi</a>
+<a href="http://pathsunwritten.com/tag/khao-san-road/" class="tag-cloud-link tag-link-1016229 tag-link-position-17" style="font-size: 8.7101449275362pt;" aria-label="Khao San Road (6 items)">Khao San Road</a>
+<a href="http://pathsunwritten.com/tag/laos/" class="tag-cloud-link tag-link-134738930 tag-link-position-18" style="font-size: 11.753623188406pt;" aria-label="Laos (13 items)">Laos</a>
+<a href="http://pathsunwritten.com/tag/life/" class="tag-cloud-link tag-link-124 tag-link-position-19" style="font-size: 8pt;" aria-label="Life (5 items)">Life</a>
+<a href="http://pathsunwritten.com/tag/living-abroad/" class="tag-cloud-link tag-link-352904 tag-link-position-20" style="font-size: 9.7246376811594pt;" aria-label="living abroad (8 items)">living abroad</a>
+<a href="http://pathsunwritten.com/tag/mackinac-island/" class="tag-cloud-link tag-link-1089389 tag-link-position-21" style="font-size: 8.7101449275362pt;" aria-label="Mackinac Island (6 items)">Mackinac Island</a>
+<a href="http://pathsunwritten.com/tag/massachusetts/" class="tag-cloud-link tag-link-134738934 tag-link-position-22" style="font-size: 9.7246376811594pt;" aria-label="Massachusetts (8 items)">Massachusetts</a>
+<a href="http://pathsunwritten.com/tag/michigan/" class="tag-cloud-link tag-link-134738929 tag-link-position-23" style="font-size: 13.275362318841pt;" aria-label="Michigan (19 items)">Michigan</a>
+<a href="http://pathsunwritten.com/tag/muang-sing/" class="tag-cloud-link tag-link-7517391 tag-link-position-24" style="font-size: 8pt;" aria-label="Muang Sing (5 items)">Muang Sing</a>
+<a href="http://pathsunwritten.com/tag/myanmar/" class="tag-cloud-link tag-link-134738931 tag-link-position-25" style="font-size: 10.63768115942pt;" aria-label="Myanmar (10 items)">Myanmar</a>
+<a href="http://pathsunwritten.com/tag/new-york/" class="tag-cloud-link tag-link-134738925 tag-link-position-26" style="font-size: 8pt;" aria-label="New York (5 items)">New York</a>
+<a href="http://pathsunwritten.com/tag/nightlife/" class="tag-cloud-link tag-link-21466 tag-link-position-27" style="font-size: 8.7101449275362pt;" aria-label="nightlife (6 items)">nightlife</a>
+<a href="http://pathsunwritten.com/tag/pinklao/" class="tag-cloud-link tag-link-7182277 tag-link-position-28" style="font-size: 8.7101449275362pt;" aria-label="Pinklao (6 items)">Pinklao</a>
+<a href="http://pathsunwritten.com/tag/postaday/" class="tag-cloud-link tag-link-9625683 tag-link-position-29" style="font-size: 12.565217391304pt;" aria-label="postaday (16 items)">postaday</a>
+<a href="http://pathsunwritten.com/tag/puerto-rico/" class="tag-cloud-link tag-link-134738935 tag-link-position-30" style="font-size: 9.7246376811594pt;" aria-label="Puerto Rico (8 items)">Puerto Rico</a>
+<a href="http://pathsunwritten.com/tag/ruins/" class="tag-cloud-link tag-link-216055 tag-link-position-31" style="font-size: 12.565217391304pt;" aria-label="ruins (16 items)">ruins</a>
+<a href="http://pathsunwritten.com/tag/san-juan/" class="tag-cloud-link tag-link-67720 tag-link-position-32" style="font-size: 9.2173913043478pt;" aria-label="San Juan (7 items)">San Juan</a>
+<a href="http://pathsunwritten.com/tag/teaching-abroad/" class="tag-cloud-link tag-link-2552103 tag-link-position-33" style="font-size: 8pt;" aria-label="teaching abroad (5 items)">teaching abroad</a>
+<a href="http://pathsunwritten.com/tag/tefl/" class="tag-cloud-link tag-link-75169 tag-link-position-34" style="font-size: 8.7101449275362pt;" aria-label="TEFL (6 items)">TEFL</a>
+<a href="http://pathsunwritten.com/tag/tesol/" class="tag-cloud-link tag-link-44498 tag-link-position-35" style="font-size: 8.7101449275362pt;" aria-label="TESOL (6 items)">TESOL</a>
+<a href="http://pathsunwritten.com/tag/thailand/" class="tag-cloud-link tag-link-134738927 tag-link-position-36" style="font-size: 19.159420289855pt;" aria-label="Thailand (75 items)">Thailand</a>
+<a href="http://pathsunwritten.com/tag/travel/" class="tag-cloud-link tag-link-134738921 tag-link-position-37" style="font-size: 22pt;" aria-label="Travel (142 items)">Travel</a>
+<a href="http://pathsunwritten.com/tag/travel-theme/" class="tag-cloud-link tag-link-11124588 tag-link-position-38" style="font-size: 12.260869565217pt;" aria-label="Travel Theme (15 items)">Travel Theme</a>
+<a href="http://pathsunwritten.com/tag/udon-thani/" class="tag-cloud-link tag-link-2410010 tag-link-position-39" style="font-size: 8pt;" aria-label="Udon Thani (5 items)">Udon Thani</a>
+<a href="http://pathsunwritten.com/tag/united-states/" class="tag-cloud-link tag-link-134738926 tag-link-position-40" style="font-size: 10.63768115942pt;" aria-label="United States (10 items)">United States</a>
+<a href="http://pathsunwritten.com/tag/upper-peninsula/" class="tag-cloud-link tag-link-134738938 tag-link-position-41" style="font-size: 10.63768115942pt;" aria-label="Upper Peninsula (10 items)">Upper Peninsula</a>
+<a href="http://pathsunwritten.com/tag/urban-exploration/" class="tag-cloud-link tag-link-31202 tag-link-position-42" style="font-size: 9.7246376811594pt;" aria-label="Urban Exploration (8 items)">Urban Exploration</a>
+<a href="http://pathsunwritten.com/tag/wanderbird-cruises/" class="tag-cloud-link tag-link-46180757 tag-link-position-43" style="font-size: 8.7101449275362pt;" aria-label="Wanderbird Cruises (6 items)">Wanderbird Cruises</a>
+<a href="http://pathsunwritten.com/tag/working-abroad/" class="tag-cloud-link tag-link-487065 tag-link-position-44" style="font-size: 8pt;" aria-label="working abroad (5 items)">working abroad</a>
+<a href="http://pathsunwritten.com/tag/%e9%87%8d%e5%ba%86/" class="tag-cloud-link tag-link-134738951 tag-link-position-45" style="font-size: 11.753623188406pt;" aria-label="重庆 (13 items)">重庆</a></div>
+</div><div class="clear"></div></div>										
+				</div> <!-- /widgets -->
+				
+			</div>
+			
+		 <!-- /footer-b -->
+							
+				
+			<div class="column column-3 one-third">
+		
+				<div class="widgets">
+		
+					<div class="widget widget-grofile grofile"><div class="widget-content">			<img src="https://secure.gravatar.com/avatar/b0e698b08931935d3fc287e9af679cc8?s=320" class="grofile-thumbnail no-grav" alt="Ben" />
+			<div class="grofile-meta">
+				<h4><a href="http://gravatar.com/archaeis">Ben</a></h4>
+				<p>Nothing that notable to say yet.  I’m a native Michigander with a passion for human culture and new places, and more than that, new experiences.  I have degrees in writing and anthropology and have no idea what I want to do with them.  For now, I’m content with an unbound lifestyle; going where I want and doing what I can, and hopefully gaining some interesting stories along the way.</p>
+			</div>
+
+			
+			<h4>Personal Links</h4>
+			<ul class="grofile-urls grofile-links">
+
+							<li>
+					<a href="http://pathsunwritten.com">
+						Paths Unwritten					</a>
+				</li>
+							<li>
+					<a href="http://www.facebook.com/PathsUnwritten">
+						Paths Unwritten | Facebook					</a>
+				</li>
+							<li>
+					<a href="http://bensbeds.wordpress.com">
+						Ben&#039;s Bed Blog					</a>
+				</li>
+							<li>
+					<a href="http://twitter.com/PathsUnwritten">
+						@PathsUnwritten | Twitter					</a>
+				</li>
+							<li>
+					<a href="http://instagram.com/pathsunwritten/">
+						Paths Unwritten | Instagram					</a>
+				</li>
+						</ul>
+
+		
+			<p><a href="http://gravatar.com/archaeis" class="grofile-full-link">
+				View Full Profile &rarr;			</a></p>
+
+			</div><div class="clear"></div></div>										
+				</div> <!-- /widgets -->
+				
+			</div>
+			
+		 <!-- /footer-c -->
+		
+		<div class="clear"></div>
+	
+	</div> <!-- /footer-inner -->
+
+</div> <!-- /footer -->
+
+<div class="credits section bg-dark small-padding">
+
+	<div class="credits-inner section-inner">
+
+		<p class="credits-left fleft">
+		
+			&copy; 2017 <a href="http://pathsunwritten.com" title="Paths Unwritten">Paths Unwritten</a><span> &mdash; Powered by <a href="http://www.wordpress.org">WordPress</a></span>
+		
+		</p>
+		
+		<p class="credits-right fright">
+			
+			<span>Theme by <a href="http://www.andersnoren.se">Anders Noren</a> &mdash; </span><a class="tothetop" title="To the top" href="#">Up &uarr;</a>
+			
+		</p>
+		
+		<div class="clear"></div>
+	
+	</div> <!-- /credits-inner -->
+	
+</div> <!-- /credits -->
+
+<style type="text/css" media="screen">
+  #bit, #bit * {}
+  #bit {
+      bottom: -300px;
+      font: 13px "Helvetica Neue",sans-serif;
+      position: fixed;
+      right: 10px;
+      z-index: 999999;
+      width: 230px;
+  }
+  
+  .loggedout-follow-typekit {
+      margin-right: 4.5em;
+  }
+  
+  #bit a.bsub {
+      background-color: #464646;
+      background-image: -moz-linear-gradient(center bottom , #3F3F3F, #464646 5px);
+      background: -webkit-gradient(linear, left top, left bottom, from(#3F3F3F), to(#464646));
+      filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#3F3F3F', endColorstr='#464646');    
+
+      border: 0 none;
+      box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
+      color: #CCCCCC;
+      display: block;
+      float: right;
+      font: 13px/28px "Helvetica Neue",sans-serif;
+      letter-spacing: normal;
+      outline-style: none;
+      outline-width: 0;
+      overflow: hidden;
+      padding: 0 10px 0 8px;
+      text-decoration: none !important;
+      text-shadow: 0 -1px 0 #444444;
+  }
+  
+  #bit a.bsub {
+      border-radius: 2px 2px 0 0;
+  }
+  
+  #bit a.bsub span {
+      background-attachment: scroll;
+      background-clip: border-box;
+      background-color: transparent;
+      background-image: url(http://pathsunwritten.com/wp-content/plugins/follow-button-for-jetpack/plus.png);
+      background-origin: padding-box;
+      background-position: 2px 3px;
+      background-repeat: no-repeat;
+      background-size: 20% auto;
+      padding-left: 18px;
+  }
+  
+  #bit a:hover span, #bit a.bsub.open span {
+      /*background-position: 0 -117px;*/
+      color: #FFFFFF !important;
+  }
+  
+  #bit a.bsub.open {
+      background: none repeat scroll 0 0 #333333;
+  }
+  
+  #bitsubscribe {
+      background: none repeat scroll 0 0 #464646;
+      border-radius: 2px 0 0 0;
+      color: #FFFFFF;
+      margin-top: 27px;
+      padding: 15px;
+      width: 200px;
+      float: right;
+      margin-top: 0;
+  }
+  
+  div#bitsubscribe.open {
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  #bitsubscribe div {
+      overflow: hidden;
+  }
+  
+  #bit h3, #bit #bitsubscribe h3 {
+      color: #FFFFFF;
+      font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+      font-size: 20px;
+      font-weight: 300;
+      margin: 0 0 0.5em !important;
+      text-align: left;
+      text-shadow: 0 1px 0 #333333;
+  }
+  
+  #bit #bitsubscribe p {
+      color: #FFFFFF;
+      font: 300 15px/1.3em "Helvetica Neue",Helvetica,Arial,sans-serif;
+      margin: 0 0 1em;
+      text-shadow: 0 1px 0 #333333;
+  }
+  
+  #bitsubscribe p a {
+      margin: 20px 0 0;
+  }
+  
+  #bit #bitsubscribe p.bit-follow-count {
+      font-size: 13px;
+  }
+  
+  #bitsubscribe input[type="submit"] {
+      -moz-transition: all 0.25s ease-in-out 0s;
+      -webkit-transition: all 0.25s ease-in-out 0s;
+      -o-transition: all 0.25s ease-in-out 0s;
+      -ms-transition: all 0.25s ease-in-out 0s;
+      transition: all 0.25s ease-in-out 0s;   
+      background: -moz-linear-gradient(center top , #333333 0%, #111111 100%) repeat scroll 0 0 transparent;
+      background: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#111111));
+      filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#111111');    
+
+      border: 1px solid #282828;
+      border-radius: 11px 11px 11px 11px;
+      box-shadow: 0 1px 0 #444444 inset;
+      color: #CCCCCC;
+      padding: 2px 20px;
+      text-decoration: none;
+      text-shadow: 0 1px 0 #000000;
+  }
+  
+  #bitsubscribe input[type="submit"]:hover {
+      background: -moz-linear-gradient(center top , #333333 0%, #222222 100%) repeat scroll 0 0 transparent;
+      box-shadow: 0 1px 0 #4F4F4F inset;
+      color: #FFFFFF;
+      text-decoration: none;
+  }
+  
+  #bitsubscribe input[type="submit"]:active {
+      background: -moz-linear-gradient(center top , #111111 0%, #222222 100%) repeat scroll 0 0 transparent;
+      box-shadow: 0 -1px 0 #333333 inset;
+      color: #AAAAAA;
+      text-decoration: none;
+  }
+  
+  #bitsubscribe input[type="text"] {
+      border-radius: 3px 3px 3px 3px;
+      font: 300 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  
+  #bitsubscribe input[type="text"]:focus {
+      border: 1px solid #000000;
+  }
+  
+  #bitsubscribe.open {
+      display: block;
+  }
+  
+  #bsub-subscribe-button {
+      margin: 0 auto;
+      text-align: center;
+  }
+  
+  #bitsubscribe #bsub-credit {
+      border-top: 1px solid #3C3C3C;
+      font: 11px "Helvetica Neue",sans-serif;
+      margin: 0 0 -15px;
+      padding: 7px 0;
+      text-align: center;
+  }
+  
+  #bitsubscribe #bsub-credit a {
+      background: none repeat scroll 0 0 transparent;
+      color: #AAAAAA;
+      text-decoration: none;
+      text-shadow: 0 1px 0 #262626;
+  }
+  
+  #bitsubscribe #bsub-credit a:hover {
+      background: none repeat scroll 0 0 transparent;
+      color: #FFFFFF;
+  }
+</style>    
+
+<script type="text/javascript" charset="utf-8">
+  jQuery.extend(jQuery.easing, {
+      easeOutCubic: function (x, t, b, c, d) {
+          return c * ((t = t / d - 1) * t * t + 1) + b;
+      }
+  });
+  jQuery(document).ready(function () {
+      var isopen = false,
+          bitHeight = jQuery('#bitsubscribe').height();
+      setTimeout(function () {
+          jQuery('#bit').animate({
+              bottom: '-' + bitHeight - 30 + 'px'
+          }, 200);
+      }, 300);
+      jQuery('#bit a.bsub').click(function () {
+          if (!isopen) {
+              isopen = true;
+              jQuery('#bit a.bsub').addClass('open');
+              jQuery('#bit #bitsubscribe').addClass('open')
+              jQuery('#bit').stop();
+              jQuery('#bit').animate({
+                  bottom: '0px'
+              }, {
+                  duration: 400,
+                  easing: "easeOutCubic"
+              });
+          } else {
+              isopen = false;
+              jQuery('#bit').stop();
+              jQuery('#bit').animate({
+                  bottom: '-' + bitHeight - 30 + 'px'
+              }, 200, function () {
+                  jQuery('#bit a.bsub').removeClass('open');
+                  jQuery('#bit #bitsubscribe').removeClass('open');
+              });
+          }
+      });
+  });
+</script>
+
+<div id="bit" class="">
+  <a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+  
+  <div id="bitsubscribe">
+    <h3><label for="loggedout-follow-field">Follow Paths Unwritten</label></h3>
+<a name="subscribe-blog"></a>
+		<form action="" method="post" accept-charset="utf-8" id="subscribe-blog">
+			<p>Get every new post delivered to your Inbox</p>
+              <p>Join other followers:</p>
+			<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" value="Email Address" id="subscribe-field" onclick="if ( this.value == 'Email Address' ) { this.value = ''; }" onblur="if ( this.value == '' ) { this.value = 'Email Address'; }" /></p>
+			<p>
+				<input type="hidden" name="action" value="subscribe" />
+				<input type="hidden" name="source" value="" />
+				<input type="hidden" name="sub-type" value="" />
+				<input type="hidden" name="redirect_fragment" value="" />
+				<input type="hidden" id="_wpnonce" name="_wpnonce" value="a52ea754f8" />				<input type="submit" value="Write Here" name="jetpack_subscriptions_widget" />
+                       </p>
+		</form>
+        </div>
+</div>
+	<div style="display:none">
+	<div class="grofile-hash-map-05ddebee1a2e3b0bfafcb695b56b44b6">
+	</div>
+	<div class="grofile-hash-map-b0e698b08931935d3fc287e9af679cc8">
+	</div>
+	<div class="grofile-hash-map-aa7cc6b6c1c6835add5d160b71af720b">
+	</div>
+	<div class="grofile-hash-map-14c7e79032b3270f0bb8f9bc9bf114aa">
+	</div>
+	<div class="grofile-hash-map-56a6c15e65a3f63767fca5d1186c127c">
+	</div>
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/pathsunwritten.com\/2016\/09\/chongqing-blogs-info-directory\/":6647};
+	</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2016/09/chongqing-blogs-info-directory/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			<script>jQuery( document ).ready( function(){ document.getElementById('jetpack-source_f_name').value = '' });</script>
+			
+			<img style="float: right; display: none" class="loading" src="http://pathsunwritten.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='gravatar-card-services-css'  href='https://secure.gravatar.com/css/services.css?ver=2017Octaa' type='text/css' media='all' />
+<script type='text/javascript' src='http://pathsunwritten.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201743'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Octaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/themes/baskerville/js/imagesloaded.pkgd.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/themes/baskerville/js/flexslider.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/themes/baskerville/js/global.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/_inc/jquery.spin.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/pathsunwritten.com\/wp-admin\/admin-ajax.php","nonce":"5b952f93a5","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/pathsunwritten.com\/wp-login.php?redirect_to=http%3A%2F%2Fpathsunwritten.com%2F2016%2F09%2Fchongqing-blogs-info-directory%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.js?ver=20170209'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/_inc/postmessage.js?ver=5.3'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/_inc/jquery.jetpack-resize.js?ver=5.3'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/likes/queuehandler.js?ver=5.3'></script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pathsunwritten.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=5.3'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-tumblr', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20170629#ver=20170629' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=44845061&postid=6647&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=identicon&greeting=Write+Here&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=5.3&sig=e2aee9194254af602df73fa8dadd85b060b4b75c#parent=http%3A%2F%2Fpathsunwritten.com%2F2016%2F09%2Fchongqing-blogs-info-directory%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=44845061&postid=6647&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=identicon&greeting=Write+Here&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=5.3&sig=e2aee9194254af602df73fa8dadd85b060b4b75c#parent=http%3A%2F%2Fpathsunwritten.com%2F2016%2F09%2Fchongqing-blogs-info-directory%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='https://stats.wp.com/e-201743.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.3',blog:'44845061',post:'6647',tz:'8',srv:'pathsunwritten.com'} ]);
+	_stq.push([ 'clickTrackerInit', '44845061', '6647' ]);
+</script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 2.620 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-10-27 17:03:35 -->
+
+<!-- super cache -->

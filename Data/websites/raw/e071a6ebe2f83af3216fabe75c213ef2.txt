@@ -1,0 +1,635 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if lt IE 7]> <html class="no-js ie6 lte7 lte8 lte9" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 lte7 lte8 lte9" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 lte8 lte9" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9 lte9" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js gtie9" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<script>
+  (function() {
+    var cx = '013295459838491602416:aozenvoakfu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<script>
+WebFontConfig = {
+        google: { families: [ 'Open+Sans:400,600,700:latin', 'Open+Sans+Condensed:300:latin', 'PT+Sans+Narrow:700:latin', 'Lato:400,400italic,700,700italic:latin', 'Puritan:400,700:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+
+(function() {
+  var hm = document.createElement('script'); hm.type ='text/javascript'; hm.async = true;
+  hm.src = ('++u-heatmap-it+log-js').replace(/[+]/g,'/').replace(/-/g,'.');
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="https://freedomhouse.org/sites/all/themes/freedom_house/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="//fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css" />
+<meta name="description" content="In this issue: New innovations in censorship, Hong Kong campus tensions, and how Communist Party influence is undermining freedom in key democracies and the United Nations" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="https://freedomhouse.org/sites/default/files/field/image/girls-with-guns.jpg" />
+<link rel="canonical" href="https://freedomhouse.org/china-media/china-media-bulletin-beijings-foreign-meddling-censorship-innovation-hk-campus-tensions-issue-no-122" />
+<link rel="shortlink" href="https://freedomhouse.org/node/49763" />
+<meta property="og:title" content="China Media Bulletin: Beijing&#039;s foreign meddling, censorship innovation, HK campus tensions (Issue No. 122)" />
+<meta property="og:description" content="In this issue: New innovations in censorship, Hong Kong campus tensions, and how Communist Party influence is undermining freedom in key democracies and the United Nations" />
+<meta property="og:updated_time" content="2017-10-12T10:34:38-04:00" />
+<meta property="og:image:url" content="https://freedomhouse.org/sites/default/files/field/image/girls-with-guns.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@FreedomHouseDC" />
+<meta name="twitter:site:id" content="18270066" />
+<meta name="twitter:creator" content="@FreedomHouseDC" />
+<meta name="twitter:creator:id" content="18270066" />
+<meta name="twitter:url" content="https://freedomhouse.org/china-media/china-media-bulletin-beijings-foreign-meddling-censorship-innovation-hk-campus-tensions-issue-no-122" />
+<meta name="twitter:title" content="China Media Bulletin: Beijing&#039;s foreign meddling, censorship innovation, HK campus tensions (Issue No. 122)" />
+<meta name="twitter:description" content="In this issue: New innovations in censorship, Hong Kong campus tensions, and how Communist Party influence is undermining freedom in key democracies and the United Nations" />
+<meta name="twitter:image" content="https://freedomhouse.org/sites/default/files/field/image/girls-with-guns.jpg" />
+<meta property="article:published_time" content="2017-10-06T17:18:07-04:00" />
+<meta property="article:modified_time" content="2017-10-12T10:34:38-04:00" />
+  <title>China Media Bulletin: Beijing&#039;s foreign meddling, censorship innovation, HK campus tensions (Issue No. 122) | Freedom House</title>  
+  <link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/freedom_house/images/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" href="/sites/all/themes/freedom_house/images/apple-touch-icon.png">
+  <link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_6qC9M6jJrPFc0Df0iC-gb9HksU7uEA4ewbjiUdqTdm8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_kWXgTXCteLjXkt5yfbyWyKZxWwuXq0PDBVd_X2uwxfk.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+div.addthis_toolbox.addthis_default_style.addthis_16x16_style{margin-top:-10px;padding-bottom:10px}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_kMWvuZorsrZ6dIJMDqU5Uet1XUCO0jFgPpRwAgHdZtw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_GaH_xNNTbOw1mi2uLehKCWpoKLF_CJQhDNQqTMNrXaQ.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_gRT0WVyDJbCi1Tf6vpkNuiay7dVmmeRNm-xScoJRe9s.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://freedomhouse.org/sites/default/files/css/css_NEGUK5PEw2nrtvfZjSqnaqewV-mwI86azNbVTTjtA8s.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_pcwAR8kobzSOGDstTR3DUj-neU4jikD9R7N4PWj0De4.js"></script>
+<script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_KCd8rbJYUruV1tRJnh4um34UYvyhlrSVCPR1jNko2h8.js"></script>
+<script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_abxF9lJW3X3s6zVIHNbc82kxsIbbza_9s7-ql79LHRY.js"></script>
+<script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_ZPnz-SvpDjqdo4JMIaOp_C4-769LlyQIhq5j42Vxoh0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-28392583-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_t5oAekg3qc5QMK7wyBVpNOtPXaN5m_Ok5l7FgvzKMbo.js"></script>
+<script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_cmS-9i9l2vvepMCFDezZYHcslwRt_6j57iy5XHl8-v4.js"></script>
+<script type="text/javascript" src="https://freedomhouse.org/sites/default/files/js/js_zswhn_wPrt6e3BS3d6Bxl_8ECgfk1MEZXBM-WL0tAfM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"freedom_house","theme_token":"_kncuxRyPZyTzAT0Pc5At9dWZocVnK85J5hhBKlCAwM","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/scroll_to_destination_anchors\/scroll_to_destination_anchors.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/collapse.js":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/all\/themes\/freedom_house\/js\/modernizr.js":1,"sites\/all\/themes\/freedom_house\/js\/columnizer\/autocolumn.min.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/freedom_house\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/28f30a013793e50a45416ba91f4fb415.css":1,"0":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/all\/modules\/custom\/fh_spanish_menus\/css\/spanish.css":1,"sites\/all\/themes\/freedom_house\/css\/print.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/freedom_house\/css\/global.css":1,"ie::normal::sites\/all\/themes\/freedom_house\/css\/freedom-house-f1ux980-default.css":1,"ie::normal::sites\/all\/themes\/freedom_house\/css\/freedom-house-f1ux980-default-normal.css":1,"ie::normal::sites\/all\/themes\/freedom_house\/css\/grid\/f1ux980_default\/normal\/f1ux980-default-normal-20.css":1,"narrow::sites\/all\/themes\/freedom_house\/css\/freedom-house-f1ux980-default.css":1,"narrow::sites\/all\/themes\/freedom_house\/css\/freedom-house-f1ux980-default-narrow.css":1,"sites\/all\/themes\/freedom_house\/css\/grid\/f1ux980_default\/narrow\/f1ux980-default-narrow-20.css":1,"normal::sites\/all\/themes\/freedom_house\/css\/freedom-house-f1ux980-default.css":1,"normal::sites\/all\/themes\/freedom_house\/css\/freedom-house-f1ux980-default-normal.css":1,"sites\/all\/themes\/freedom_house\/css\/grid\/f1ux980_default\/normal\/f1ux980-default-normal-20.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/search\/search-page\/0\/0\/":true},"responsive_dropdown_menus":{"menu-about-us-menu":"About Us ","menu-annual-awards-dinner":"Annual Awards Dinner","menu-annual-dinner-2013":"Annual Dinner 2013","menu-noticias":"Comunicados","devel":"Development","menu-events":"Events","features":"Features","menu-footer-utility":"Footer utility","menu-donate":"Get Involved","menu-header-utility":"Header utility","main-menu":"Main menu","management":"Management","navigation":"Navigation","menu-news-subnav":"News Subnav","menu-nosotros":"Nosotros","menu-related-websites":"Related websites","user-menu":"User menu","menu-blogroll":"What We\u2019re Reading"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px)"}}}});
+//--><!]]>
+</script>
+  <meta name="google-site-verification" content="cLMy4cYU_1SQYGW-QWNPPAL1M_EtfAAAilpSRKzlV_Y" />
+ 
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-49763 node-type-article context-china-media">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+  <div id="zone-user" class="zone zone-user clearfix container-20">
+    <div class="grid-20 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+    <div class="block block-responsive-dropdown-menus mobile-responsive-menu block-main-menu block-responsive-dropdown-menus-main-menu odd block-without-title" id="block-responsive-dropdown-menus-main-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="main-menu" class="main-menu responsive-menu links"><li id="menu-item-8270" class="menu-item menu-parent menu-item-primary first"><a href="/our-work">Our Work</a><ul class="sub-menu tier-two"><li id="menu-item-1228" class="menu-item menu-item-secondary first"><a href="/programs">Programs</a></li>
+<li id="menu-item-8271" class="menu-item menu-item-secondary"><a href="/our-work/success-stories" title="">Success Stories</a></li>
+<li id="menu-item-8272" class="menu-item menu-item-secondary last"><a href="/our-work/what-theyre-saying" title="">What They&#039;re Saying</a></li>
+</ul></li>
+<li id="menu-item-5294" class="menu-item menu-parent menu-item-primary"><a href="/reports" title="Publications report landing page">Reports</a><ul class="sub-menu tier-two"><li id="menu-item-8273" class="menu-item menu-item-secondary first"><a href="/report/freedom-world/freedom-world-2017" title="">Freedom in the World</a></li>
+<li id="menu-item-8274" class="menu-item menu-item-secondary"><a href="/report/freedom-press/freedom-press-2017" title="">Freedom of the Press</a></li>
+<li id="menu-item-8275" class="menu-item menu-item-secondary"><a href="/report/freedom-net/freedom-net-2016" title="">Freedom on the Net</a></li>
+<li id="menu-item-8276" class="menu-item menu-item-secondary"><a href="/report/nations-transit/nations-transit-2017" title="">Nations in Transit</a></li>
+<li id="menu-item-8277" class="menu-item menu-item-secondary last"><a href="/report-types/special-reports" title="">Special Reports</a></li>
+</ul></li>
+<li id="menu-item-1312" class="menu-item menu-parent menu-item-primary"><a href="/regions">Regions</a><ul class="sub-menu tier-two"><li id="menu-item-1758" class="menu-item menu-item-secondary first"><a href="/regions/sub-saharan-africa" title="Sub-Saharan Africa">Sub-Saharan Africa</a></li>
+<li id="menu-item-1321" class="menu-item menu-item-secondary"><a href="/regions/asia-pacific" title="Asia-Pacific">Asia-Pacific</a></li>
+<li id="menu-item-1322" class="menu-item menu-item-secondary"><a href="/regions/eurasia" title="Eurasia">Eurasia</a></li>
+<li id="menu-item-1326" class="menu-item menu-item-secondary"><a href="/regions/europe" title="Europe">Europe</a></li>
+<li id="menu-item-1754" class="menu-item menu-item-secondary"><a href="/regions/middle-east-and-north-africa" title="Middle East and North Africa">Middle East and North Africa</a></li>
+<li id="menu-item-1320" class="menu-item menu-item-secondary last"><a href="/regions/americas" title="Americas">Americas</a></li>
+</ul></li>
+<li id="menu-item-1327" class="menu-item menu-parent menu-item-primary"><a href="/news">News</a><ul class="sub-menu tier-two"><li id="menu-item-6475" class="menu-item menu-item-secondary first"><a href="/blog" title="">Blog</a></li>
+<li id="menu-item-1230" class="menu-item menu-item-secondary"><a href="/initiatives">Initiatives</a></li>
+<li id="menu-item-5293" class="menu-item menu-item-secondary"><a href="/china-media-past" title="China Media Bulletin">China Media Bulletin</a></li>
+<li id="menu-item-1329" class="menu-item menu-item-secondary"><a href="/news/in-the-news" title="In the News">In the News</a></li>
+<li id="menu-item-1331" class="menu-item menu-item-secondary last"><a href="/news/press-releases" title="Press Releases">Press Releases</a></li>
+</ul></li>
+<li id="menu-item-521" class="menu-item menu-parent menu-item-primary"><a href="/events">Events</a><ul class="sub-menu tier-two"><li id="menu-item-6821" class="menu-item menu-item-secondary first"><a href="http://org2.salsalabs.com/o/6580/p/salsa/web/common/public/signup?signup_page_KEY=2061" title="">Subscribe</a></li>
+<li id="menu-item-1340" class="menu-item menu-item-secondary"><a href="/events/all">All Events</a></li>
+<li id="menu-item-8301" class="menu-item menu-item-secondary"><a href="/event-types/75th-anniversary" title="75th Anniversary">75th Anniversary</a></li>
+<li id="menu-item-7939" class="menu-item menu-item-secondary last"><a href="/event-types/mark-palmer-forum" title="Mark Palmer Forum">Mark Palmer Forum</a></li>
+</ul></li>
+<li id="menu-item-5267" class="menu-item menu-parent menu-item-primary"><a href="/about-us" title="">About Us</a><ul class="sub-menu tier-two"><li id="menu-item-1332" class="menu-item menu-item-secondary first"><a href="/experts">Experts</a></li>
+<li id="menu-item-8284" class="menu-item menu-item-secondary"><a href="/content/our-board-and-staff">Board &amp; Staff</a></li>
+<li id="menu-item-8278" class="menu-item menu-item-secondary"><a href="/content/our-history">Our History</a></li>
+<li id="menu-item-8281" class="menu-item menu-item-secondary"><a href="/content/career-opportunities">Careers</a></li>
+<li id="menu-item-8280" class="menu-item menu-item-secondary"><a href="/content/freedom-house-annual-reports">Financials</a></li>
+<li id="menu-item-8283" class="menu-item menu-item-secondary last"><a href="/content/contact-us">Contact Us</a></li>
+</ul></li>
+<li id="menu-item-5274" class="menu-item menu-parent menu-item-primary last"><a href="https://freedomhouse.salsalabs.org/donate" title="">Donate</a><ul class="sub-menu tier-two"><li id="menu-item-8286" class="menu-item menu-item-secondary first"><a href="/donate/ways-to-give" title="">Ways to Give</a></li>
+<li id="menu-item-8287" class="menu-item menu-item-secondary last"><a href="https://org2.salsalabs.com/o/6580/p/salsa/web/common/public/signup?signup_page_KEY=2061" title="">Get our Updates</a></li>
+</ul></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-20">
+    <div class="grid-20 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+                        <hgroup class="site-name-slogan">        
+                                <h2 class="site-name"><a href="/" rel="home" title="Home">Freedom House</a></h2>
+                              </hgroup>
+          </div>
+        <div class="block block-block block-2 block-block-2 odd block-without-title" id="block-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="social-icons"><a class="facebook" href="https://www.facebook.com/FreedomHouseDC">Facebook</a><a class="twitter" href="https://twitter.com/freedomhousedc">Twitter</a><a class="youtube" href="http://www.youtube.com/freedomhousedc">YouTube</a><a class="feed" href="/news/feed">RSS Feed</a></div>    </div>
+  </div>
+</div><div class="block block-menu block-menu-header-utility block-menu-menu-header-utility even block-without-title" id="block-menu-menu-header-utility">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first last leaf title-en-espanol"><a href="//www.freedomhouse.org/nosotros" title="">En Espanol</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-fh-elasticsearch block-header-search block-fh-elasticsearch-header-search odd block-without-title" id="block-fh-elasticsearch-header-search">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/search/search-page/0/0/" method="post" id="header-search-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keyword-header">
+ <input type="text" id="edit-keyword-header" name="keyword_header" value="" size="20" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-eUj2TEmI3HG-XKpG_zYk46C3UGyS5Is2A2z2K9TT-sY" />
+<input type="hidden" name="form_id" value="header_search_form" />
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-20">
+    <div class="grid-20 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-menu-block block-1 block-menu-block-1 odd block-without-title" id="block-menu-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-8270 title-our-work"><a href="/our-work">Our Work</a></li>
+<li class="leaf has-children menu-mlid-5294 title-reports"><a href="/reports" title="Publications report landing page">Reports</a></li>
+<li class="leaf has-children menu-mlid-1312 title-regions"><a href="/regions">Regions</a></li>
+<li class="leaf has-children active-trail menu-mlid-1327 title-news"><a href="/news" class="active-trail">News</a></li>
+<li class="leaf has-children menu-mlid-521 title-events"><a href="/events">Events</a></li>
+<li class="leaf has-children menu-mlid-5267 title-about-us"><a href="/about-us" title="">About Us</a></li>
+<li class="last leaf has-children menu-mlid-5274 title-donate"><a href="https://freedomhouse.salsalabs.org/donate" title="">Donate</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu-block subnav block-10 block-menu-block-10 even block-without-title" id="block-menu-block-10">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-10 menu-name-menu-news-subnav parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-9147 title-blog"><a href="/blog" title="">Blog</a></li>
+<li class="leaf menu-mlid-9148 title-press-releases"><a href="/news/press-releases" title="">Press Releases</a></li>
+<li class="leaf menu-mlid-9149 title-initiatives"><a href="/initiatives" title="">Initiatives</a></li>
+<li class="leaf menu-mlid-9150 title-china-media-bulletin"><a href="/china-media" title="">China Media Bulletin</a></li>
+<li class="leaf menu-mlid-9362 title-------------------"><a href="/cmb-simplified-chinese" title="">中国媒体快报</a></li>
+<li class="last leaf menu-mlid-9363 title-------------------"><a href="/cmb-traditional-chinese" title="">中國媒體快報</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu-block subnav worldregions block-11 block-menu-block-11 odd block-without-title" id="block-menu-block-11">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-11 menu-name-main-menu parent-mlid-1312 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1758 title-sub-saharan-africa"><a href="/regions/sub-saharan-africa" title="Sub-Saharan Africa">Sub-Saharan Africa</a></li>
+<li class="leaf menu-mlid-1321 title-asia-pacific"><a href="/regions/asia-pacific" title="Asia-Pacific">Asia-Pacific</a></li>
+<li class="leaf menu-mlid-1322 title-eurasia"><a href="/regions/eurasia" title="Eurasia">Eurasia</a></li>
+<li class="leaf menu-mlid-1326 title-europe"><a href="/regions/europe" title="Europe">Europe</a></li>
+<li class="leaf menu-mlid-1754 title-middle-east-and-north-africa"><a href="/regions/middle-east-and-north-africa" title="Middle East and North Africa">Middle East and North Africa</a></li>
+<li class="last leaf menu-mlid-1320 title-americas"><a href="/regions/americas" title="Americas">Americas</a></li>
+</ul></div>
+    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div></header>        <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-20">    
+        
+        <div class="grid-20 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">China Media Bulletin: Beijing&#039;s foreign meddling, censorship innovation, HK campus tensions (Issue No. 122)</h1>
+    
+			<!-- AddThis Button BEGIN -->
+			<div class="addthis_toolbox addthis_default_style addthis_16x16_style icons-under-title top-page">
+			<a class="addthis_button_facebook"></a>
+			<a class="addthis_button_twitter"></a>
+			<a class="addthis_button_email"></a>
+			</div>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-526970f657520910"></script>
+			            <div class="tabs clearfix"></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-flexible panels-flexible-66 clearfix" >
+<div class="panel-flexible-inside panels-flexible-66-inside">
+<div class="panels-flexible-row panels-flexible-row-66-2 panels-flexible-row-first clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-66-2-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-66-sub_header panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-66-sub_header-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1"   class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <h2><em>A monthly update of press freedom news and analysis related to China</em></h2>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-china-media-bulletin-pdf-l"   class="panel-pane pane-entity-field pane-node-field-china-media-bulletin-pdf-l">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-china-media-bulletin-pdf-l field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><ul class="fh-buttons">
+<li>
+    <h5><a href="https://freedomhouse.org/sites/default/files/FH_CMB_2017_En_Oct_122.pdf" onClick="ga('send', 'event', { eventCategory: 'Downloads', eventAction: 'CMB', eventLabel: 'CMB_English122’});” target="_blank">English PDF</a></h5>
+    </li>
+  <li><h5><a href="http://org2.salsalabs.com/o/6580/l/eng/p/salsa/web/common/public/signup?signup_page_KEY=9523" target="_blank">Subscribe</a></h5></li>
+</ul></div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-66-1 clearfix photo-month-container">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-66-1-inside clearfix">
+<div class="panels-flexible-region panels-flexible-region-66-photo_of_the_month panels-flexible-region-first photo-month-img">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-66-photo_of_the_month-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-entity-field pane-node-field-image"   class="panel-pane pane-entity-field pane-node-field-image">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://freedomhouse.org/sites/default/files/styles/detail/public/field/image/girls-with-guns.jpg?itok=w4XGH2L7"><img typeof="foaf:Image" src="https://freedomhouse.org/sites/default/files/styles/detail/public/field/image/girls-with-guns.jpg?itok=w4XGH2L7" width="350" height="350" alt="" /></div>
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-66-photo_of_the_month_text panels-flexible-region-last photo-month-text-right">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-66-photo_of_the_month_text-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-field-photo-of-the-month"   class="panel-pane pane-entity-field pane-node-field-photo-of-the-month">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-photo-of-the-month field-type-text-with-summary field-label-above"><div class="field-label">Photo of the Month:&nbsp;</div><div class="field-items"><div class="field-item even"><p><strong>Dancing 'Youth' Deleted: </strong><br />
+Regulators announced on <a href="http://www.hollywoodreporter.com/news/chinas-censors-pull-revered-directors-film-days-before-release-outraging-industry-1042592">September 24</a> that prominent director Fang Xiaogang’s new film <em>Youth</em> was being pulled from theaters days before its planned release. No explanation was given, but <a href="https://www.nytimes.com/2017/09/25/world/asia/china-movie-youth.html">observers cited</a> the film’s focus on a People’s Liberation Army dance troupe during the Cultural Revolution and the proximity of its release date to the 19th Party Congress. This image, taken from the film, was posted by user @guosongmin, who had 327,043 followers, and it was shared 253 times within five hours on September 25 before being deleted, along with a comment praising the film. <em>Credit: <a href="http://weiboscope.jmsc.hku.hk/wsr/list.py?id=4155942339202640">Weiboscope.</a></em></p>
+</div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-66-main-row panels-flexible-row-last clearfix">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-66-main-row-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-66-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-66-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-body"   class="panel-pane pane-entity-field pane-node-body">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>HEADLINES</strong></p>
+
+<ul>
+	<li><a href="#a1"><em>Analysis: </em>Political Struggles at Home Shape Beijing&rsquo;s Meddling Abroad</a></li>
+	<li>In the News:&nbsp;
+	<ul>
+		<li><a href="#a2">Content restrictions, security measures herald 19th Party Congress</a></li>
+		<li><a href="#a3">State pressure on private firms fuels censorship innovation</a></li>
+		<li><a href="#a4">Censorship updates: WhatsApp blocked, rights websites targeted, scholars pressured</a></li>
+		<li><a href="#a5">Hong Kong: Free speech battle on campuses, anticommunist magazines close</a></li>
+		<li><a href="#a6">Beyond China: Beijing&rsquo;s influence felt in key democracies, international institutions</a></li>
+	</ul>
+	</li>
+	<li><a href="#a7"><em>Featured Prisoner:</em><strong> </strong>Atikem Rozi</a></li>
+	<li><a href="#a8">What to Watch For</a></li>
+	<li><a href="#a9">Take Action</a></li>
+</ul>
+
+<hr />
+<h2><a id="a1" name="a1"></a>ANALYSIS:&nbsp;Political Struggles at Home Shape Beijing&rsquo;s Meddling Abroad</h2>
+
+<p><em><strong>Authoritarian rule in China poses a growing threat to democracy elsewhere.</strong></em></p>
+
+<p><em>By Sarah Cook</em></p>
+
+<figure style="float:right; margin:10px; width:400px" class="clearfix"><img alt="" src="/sites/default/files/inline_images/uyghur-egypt-1000.jpg" style="height:auto; width:400px" /><figcaption><em>Photo caption: Political cartoon depicting the detention of Uighur students in Egypt, and in some cases their deportation, at the apparent behest of the Chinese government. Credit: </em><a href="http://www.rfa.org/english/cartoons/Uyghur-Egypt-cartoon-09252017155045.html"><em>Rebel Pepper/Radio Free Asia</em></a></figcaption></figure>
+
+<p>As the Chinese Communist Party (CCP) prepares for its 19th Congress on October 18, restrictions on day-to-day freedoms in the country are becoming more intrusive. But such interference by the one-party state has also been expanding outside China, and the two phenomena are not unrelated. A series of recent incidents and analysis highlight both the depth of CCP influence operations overseas and the degree to which they are ultimately driven by domestic insecurities.</p>
+
+<p>Using a variety tactics, Beijing has over the past three months apparently managed to affect immigration policies in Egypt, a vote in the California legislature, electoral choices in New Zealand, and media accreditation at the United Nations. It also attempted to dictate government invitations in <a href="https://www.voanews.com/a/botswana-dalai-lama/3969303.html">Botswana</a> and the choice of commencement speaker at a U.S. university. These cases may seem scattered, but there are reasons to suspect that something more systematic is taking place.</p>
+
+<p>First, the topics and individuals that drew Beijing&rsquo;s interest are each associated with an oppressed community within China.</p>
+
+<p>In Egypt, for example, the authorities unexpectedly detained <a href="http://www.rfa.org/english/news/uyghur/egyptian-authorities-forcibly-disappear-16-uyghur-students-from-notorious-prison-09252017124938.html">over 100 Uighur Muslims</a>, mostly university students who had valid residency permits. Several have since been deported back to China, while others fled to <a href="https://www.nytimes.com/2017/07/06/world/asia/egypt-muslims-uighurs-deportations-xinjiang-china.html?_r=0">Turkey</a>. In California, pressure from the Chinese consulate seems to have led state lawmakers to <a href="https://freedomhouse.org/china-media/china-media-bulletin-party-congress-censorship-vpn-crackdown-surveillance-upgrades-no-121#Beyond-China">block a resolution</a> expressing concern about human rights and the persecution of the Falun Gong spiritual group in China. And Chinese diplomats have lobbied both Botswana&rsquo;s government and the University of California in San Diego (UCSD) to cancel appearances by Tibetan spiritual leader the Dalai Lama.</p>
+
+<p>A former Chinese diplomat once referred to the Uighurs, Falun Gong, and Tibetans&mdash;along with Chinese democracy advocates and supporters of Taiwanese independence&mdash;as the &ldquo;<a href="http://www.cima.ned.org/wp-content/uploads/2015/02/CIMA-China_Sarah%20Cook.pdf">five poisonous groups</a>.&rdquo; While these are all perennial targets, Beijing&rsquo;s efforts to control news and information outside China have spread to other topics deemed detrimental to the CCP&rsquo;s domestic legitimacy and unity, such as investigations into the wealth of party leaders&rsquo; relatives or allegations of wrongdoing aired by self-exiled billionaire Guo Wengui.</p>
+
+<p>Second, the economic leverage that China has developed through years of engagement in areas such as academic exchange, financial investment, and tourism is now being deployed to suppress democratic rights and undermine autonomous decision making in other countries.</p>
+
+<p>Implied threats of economic repercussions were at the center of <a href="https://www.theepochtimes.com/california-senators-receive-threats-from-chinese-consulate-over-human-rights-resolution_2290749.html">letters sent by the Chinese consulate</a> in San Francisco to dissuade California state legislators from passing the human rights resolution. The crackdown on Uighurs in Egypt has coincided with increased Sino-Egyptian security cooperation, a visit to China in early September by President Abdel Fattah al-Sisi, and the signing of a memorandum of understanding for Beijing to finance a <a href="http://www.rfa.org/english/news/uyghur/egyptian-authorities-forcibly-disappear-16-uyghur-students-from-notorious-prison-09252017124938.html">$739 million infrastructure project in Egypt</a>. And after UCSD stuck to its invitation to the Dalai Lama to deliver a commencement speech in June, the <a href="https://www.insidehighered.com/news/2017/09/20/china-punishing-american-university-hosting-dalai-lama">China Scholarship Council</a> announced in September that it would not process any new applications to study at the California school.</p>
+
+<p>Third, the CCP&rsquo;s individual acts of interference abroad often have effects that reach far beyond the immediate targets.</p>
+
+<p>The China Scholarship Council&rsquo;s decision on UCSD sends a signal to other universities that speaking engagements by high-profile critics of the Chinese government can have profound costs, both for the university itself and for prospective Chinese students and scholars. And when the United Nations&rsquo; media accreditation unit, under suspected Chinese government influence, denied access for the New York&ndash;based New Tang Dynasty Television (NTD) to cover <a href="https://www.newswire.com/news/popular-us-based-chinese-tv-station-denied-accreditation-to-cover-the-19961693">the UN General Assembly</a> last month, millions of Chinese-speaking viewers in the United States, China, and elsewhere were deprived of an independent perspective on the gathering, including debates about North Korea and other issues of global importance. (<a href="https://www.uscc.gov/sites/default/files/Sarah%20Cook%20May%204th%202017%20USCC%20testimony.pdf">Online rankings</a> suggest that NTD is more popular in the United States than China&rsquo;s state broadcaster, and Beijing has taken <a href="http://www.cima.ned.org/wp-content/uploads/2015/02/CIMA-China_Sarah%20Cook.pdf">other measures</a> to curb its influence.)</p>
+
+<p>The NTD case is also part of a larger pattern of Chinese government efforts to silence its critics at the United Nations. A September 5 <a href="https://www.hrw.org/report/2017/09/05/costs-international-advocacy/chinas-interference-united-nations-human-rights">Human Rights Watch</a> report on the subject notes: &ldquo;Taken individually, many of China&rsquo;s actions against NGOs might be viewed as an annoyance or an irritant. But taken together, they amount to what appears to be a systematic attempt to subvert the ability of the UN human rights system to confront abuses in China and beyond.&rdquo;</p>
+
+<p>A <a href="https://www.wilsoncenter.org/sites/default/files/for_website_magicweaponsanne-mariesbradyseptember2017.pdf">scholarly study</a> published on September 18 finds that the CCP&rsquo;s foreign influence activities are widespread, part of a global strategy, and have accelerated under the leadership of President Xi Jinping. The report&rsquo;s author, Anne-Marie Brady, details how the party&rsquo;s United Front Work Department strives to &ldquo;guide, buy, or coerce political influence&rdquo; among both overseas Chinese communities and foreigners. These efforts date back decades, but China&rsquo;s growing economic and geopolitical clout, as well as a deliberate policy of expansion under Xi, have translated into a far more powerful impact on other countries and their democratic institutions. According to Brady, the CCP&rsquo;s influence operations &ldquo;have the potential to undermine the sovereignty and integrity of the political system of targeted states.&rdquo;</p>
+
+<p>This danger is palpable even in well-established democracies. In New Zealand, for instance, a long-term effort by the CCP to influence Chinese-language media coverage and local politics in the ethnic Chinese community has reached the point that, according to <a href="https://jichanglulu.wordpress.com/2017/09/21/new-zealand-united-frontlings-always-win/">one Chinese scholar</a> commenting on the country&rsquo;s September elections, &ldquo;the Chinese community can only realistically aspire to political representation by its own members through individuals approved by Beijing.&rdquo;</p>
+
+<p>Beijing&rsquo;s various initiatives to exercise influence abroad are often referred to in media and policy circles as examples of the country&rsquo;s growing &ldquo;soft power.&rdquo; This characterization is misleading. The CCP is not just protecting or burnishing China&rsquo;s international image or even its own. Rather, Chinese diplomats, party officials, and their proxies are aggressively meddling in democratic societies, damaging democratic and international institutions, and undermining human rights protection in foreign lands, even if a primary motivation is to combat what are ultimately domestic challenges to CCP legitimacy.</p>
+
+<p>It is critical that democratic governments and international organizations recognize the danger these trends pose, understand the complex factors involved, and learn how to identify the CCP&rsquo;s footprint, especially when its actions undercut democratic norms such as media freedom, academic freedom, and transparency.</p>
+
+<p>Absent a vigorous and coordinated response, the many Chinese citizens fighting for their rights at home will lose vital international support, and the rest of the world will be more thoroughly introduced to the fear, intimidation, and censorship so common in China under the CCP&rsquo;s authoritarian rule.</p>
+
+<p><em>Sarah Cook is a senior research analyst for East Asia at Freedom House and director of its </em><a href="https://freedomhouse.org/china-media"><em>China Media </em><em>Bulletin</em>.</a></p>
+<p>&nbsp;</p>
+
+<p>This article was also published by the <a href="https://thediplomat.com/2017/10/political-struggles-at-home-shape-beijings-meddling-abroad/">Diplomat&nbsp;</a>on October 10, 2017.</p>
+
+<p>&nbsp;</p>
+
+<p></p>
+
+<hr />
+<h2><a id="a2" name="a2"></a>Content restrictions, security measures herald 19th Party Congress</h2>
+
+<p>As the 19th Chinese Communist Party (CCP) Congress approaches on October 18, its shadow over the internet and news media has grown darker, and security in Beijing and <a href="https://www.washingtonpost.com/news/democracy-post/wp/2017/09/14/chinas-thought-police-are-giving-a-master-class-in-censorship/?utm_term=.a8b477e8d19a">across the country is ramping up</a>. Held every five years, the gathering is typically preceded by heightened and <a href="http://chinadigitaltimes.net/2012/11/toys-birds-harmonized-amid-beijing-security-crackdown/">unusual</a> security measures. This congress is especially sensitive: In addition to changes to the CCP constitution, its decisions may signal Xi Jinping&rsquo;s intent to stay on as general secretary beyond the customary 10-year stint.</p>
+
+<p>Recent congress-related restrictions include the following:</p>
+
+<ul>
+	<li>Thousands of <a href="http://www.apple.com">police officers</a> have arrived in Beijing to reinforce security, with many of them dispatched to patrol government buildings and check IDs in the subway in order to deal swiftly with petitioners.</li>
+	<li>Foreigners are barred from entering <a href="http://www.nydailynews.com/newswires/news/world/tibet-suspend-foreign-visits-party-congress-article-1.3519470">Tibet</a> until October 29.</li>
+	<li>Tibetan monks and nuns in Qinghai Province have been warned not to read or share &ldquo;<a href="http://www.rfa.org/english/news/tibet/warned-09252017160538.html">illegal content</a>&rdquo; on social media.</li>
+	<li>Reposts of a Xinhua news brief stating that the CCP constitution will be amended at the 19th Party Congress were <a href="http://chinamediaproject.org/2017/09/18/xinhua-report-axed-in-weibo-oversensitivity/">scrubbed</a> from social media in an apparent attempt to limit online commentary and speculation about potential changes to the document.</li>
+	<li>The popular talk show <em>Behind the Headlines&nbsp;</em>(<em>Qiang Qiang San&nbsp;Ren Xing</em> 锵锵三人行) was taken <a href="http://thediplomat.com/2017/09/china-shuts-down-multiple-tv-programs-before-19th-party-congress/">off the air</a> on September 12 after 19 years of continuous broadcast. Produced by Hong Kong&ndash;based Phoenix TV, the show&rsquo;s relatively <a href="http://www.whatsonweibo.com/one-chinas-longest-running-popular-talkshows-suddenly-cancelled/">open debate</a> between each weekday&rsquo;s two guests was a draw for mainlanders. Despite Phoenix&rsquo;s efforts to <a href="http://www.ejinsight.com/20170927-behind-the-downfall-of-phoenix-tv/">appease censors</a> and more closely toe the party line, the show appears to be a casualty of a <a href="https://freedomhouse.org/china-media/china-media-bulletin-sensitive-anniversaries-xi-in-hong-kong-australia-meddling-no-120">crackdown on streaming content</a> announced in June by the State Administration of Press, Publication, Radio, Film, and Television (SAPPRFT), as well as CCP factional infighting.</li>
+</ul>
+
+<p>Since assuming the office of general secretary at the 18th Party Congress in 2012, Xi has worked steadily to consolidate his power through an anticorruption campaign, which appears to be as focused on defanging political opponents as on rooting out graft. Former Chongqing party secretary <a href="http://www.theaustralian.com.au/news/world/expulsion-of-young-gun-party-mandarin-draws-a-gathering-crowd/news-story/16b29897d70c796e425f1c6e64d59cf6">Sun Zhengcai</a>, who has been under investigation for corruption since July, was expelled from the party on September 30. That same day, five other Chongqing officials were <a href="http://www.caixinglobal.com/2017-09-30/101152828.html">disinvited</a> from the party congress. Indeed, a major motivation for the security measures and censorship leading up to this year&rsquo;s congress may be the need to hide backstage factional struggles, as opposed to ordinary &ldquo;stability maintenance.&rdquo; The censorship apparatus is hard at work suppressing leaks and &ldquo;<a href="http://chinadigitaltimes.net/2017/09/minitrue-rules-19th-congress-media-coverage/">rumors</a>&rdquo; about the party leadership, including a torrent of claims being posted online by <a href="http://chinadigitaltimes.net/2017/09/translation-guo-wenguis/">Guo Wengui</a>, the Chinese tycoon who has sought asylum in the United States.</p>
+
+<hr />
+<h2><a id="a3" name="a3"></a>State pressure on private firms fuels censorship innovation</h2>
+
+<p>Implementation of a new Cybersecurity Law, which came into effect on June 1, is putting increasing pressure on technology firms, fueling &ldquo;innovations&rdquo; in censorship at China&rsquo;s major internet companies. In-house censorship has long consisted of human staffers and automated systems, and both are in greater demand, but online platforms are now turning to individual users to police one another as well. David Bandurski of the China Media Project characterizes this trend as the construction of a &ldquo;<a href="http://chinamediaproject.org/2017/09/16/the-great-hive-of-propaganda/">Great Hive</a> of firewalls around the individual,&rdquo; with the user called upon to help put up those walls.</p>
+
+<p>Acting on the new law, on September 25 the Cyberspace Administration of China announced that it had concluded an <a href="http://www.jurist.org/paperchase/2017/09/china-cyber-watchdog-group-imposes-fines-over-censorship.php">investigation</a> of Tencent, Baidu, and Sina Weibo and found that the three failed to adequately manage violence, pornography, and other banned content on their sites. They will each be charged the &ldquo;<a href="https://www.cnbc.com/2017/09/25/china-fines-tech-giants-over-censorship-blocks-whatsapp.html">maximum fine</a>&rdquo; of RMB 500,000 ($76,000)&mdash;a drop in the bucket for these leading companies, but symbolic nonetheless. The move signals that the authorities are intent on enforcing content restrictions, including politically motivated ones, and demonstrates to smaller firms that lax censorship could yield a potentially debilitating fine.</p>
+
+<p>Days after the CAC&rsquo;s decision, Sina Weibo posted a call for 1,000 volunteer &ldquo;<a href="https://qz.com/1089304/sina-weibo-nasdaq-wb-a-gigantic-chinese-social-media-platform-is-offering-iphones-for-citizen-censors/">supervisors</a>&rdquo; to report fellow users who post &ldquo;sexual, illegal, or harmful&rdquo;&nbsp;content. Supervisors who report at least 200 posts per month will receive a stipend of RMB 200 ($30), while the most active supervisors will be eligible to win laptops, domestic-brand smartphones, and iPhones.</p>
+
+<p>Full-time censors are also finding plenty of employment. An in-depth <a href="https://www.reuters.com/article/china-congress-censorship/tea-and-tiananmen-inside-chinas-new-censorship-machine-idUSL4N1LW25C">Reuters</a> article on September 29 profiled the censorship operation at the news app Toutiao. Over the past year, the number of censors at its &ldquo;auditing&rdquo; office in Tianjin has jumped from 30 or 40 to nearly 1,000. The company, which has been trying to raise $2 billion in new investment, said in a statement that it is developing &ldquo;sophisticated AI [artificial intelligence] tools and stringent content management process&rdquo; to weed out undesirable content. The firm recruits recent university graduates who follow the news and are &ldquo;politically savvy&rdquo; and attuned to the requirements of &ldquo;internet regulation.&rdquo; Censors reported rooting out political criticism, nicknames for state leaders, mentions of banned religious groups, and references to the 1989 crackdown on Tiananmen Square protesters, as well as content related to violence, drug addiction, and extramarital affairs.</p>
+
+<hr />
+<h2><a id="a4" name="a4"></a>Censorship updates: WhatsApp blocked, rights websites targeted, scholars pressured</h2>
+
+<ul>
+	<li><strong>WhatsApp blocked again: </strong>Access to the popular encrypted messaging app was <a href="http://www.scmp.com/news/china/policies-politics/article/2112832/whatsapp-services-disrupted-ahead-china-communist-party">cut off</a> in China on September 26. The <em>South China Morning Post</em> found that text service was back up the next day, but that users still could not send images or make voice calls. Neither WhatsApp nor its parent company, Facebook, responded to the paper&rsquo;s requests for comment. WhatsApp was also <a href="https://freedomhouse.org/china-media/china-media-bulletin-party-congress-censorship-vpn-crackdown-surveillance-upgrades-no-121">blocked on July 18</a><strong>,</strong> but the latest incident suggests a <a href="https://www.inverse.com/article/36814-china-advances-wechat-blocking">new level of&nbsp;sophistication in censorship</a>, with technology that can disrupt services offering end-to-end encryption. Telegram and Signal are already blocked, leaving Chinese users who want to protect their communications with no option other than virtual private networks (VPNs), access to which is also becoming increasingly difficult. Some suspect that the WhatsApp disruption is part of the central government&rsquo;s&nbsp;heightened internet policing ahead of the 19th Party Congress on October 18, as well as an attempt to push users onto the Chinese firm Tencent&rsquo;s ubiquitous&mdash;and closely monitored&mdash;messaging service WeChat.</li>
+	<li><strong>Rights websites and reporters targeted:</strong> Several activists involved with reporting human rights abuses have been detained in the run-up to the 19th Party Congress. <a href="https://www.amnesty.org/en/documents/asa17/7178/2017/en/">Zhen Jianghua</a>, executive director of the advocacy platform Human Rights Campaign in China, was taken by police from his home on September 1 for allegedly &ldquo;inciting subversion of state power.&rdquo; He remains detained <a href="https://www.nchrd.org/2017/09/free-activist-zhen-jianghua-stop-criminalizing-human-rights-advocacy/">incommunicado</a>. Civil Rights and People&#39;s Livelihood Watch editor <a href="http://www.rfa.org/english/news/china/websites-shutdown-09282017124219.html%20?utm_source=HRIC+Updates&amp;utm_campaign=425b8c17ae-EMAIL_CAMPAIGN_2017_09_29&amp;utm_medium=email&amp;utm_term=0_b537d30fde-425b8c17ae-250136665">Ding Lingjie</a> went missing toward the end of the month and is believed to be under arrest. Ding&rsquo;s colleague Shi Yulin was placed under surveillance. In Yunnan Province, a Dali court upheld blogger <a href="https://www.hongkongfp.com/2017/09/28/chinese-court-upholds-4-year-jail-term-press-freedom-prize-winner-lu-yuyu/">Lu Yuyu</a>&rsquo;s four-year prison sentence for &ldquo;picking quarrels and provoking troubles&rdquo; after hearing Lu&rsquo;s appeal. Meanwhile, reporters for the shuttered website 64 Tianwang have been targeted since the summer. Journalist <a href="https://cpj.org/2017/07/chinese-journalist-arrested-on-charges-of-revealin.php">Yang Xiuqiong</a> was detained in June on suspicion of &ldquo;revealing state secrets,&rdquo; while <a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql1-09182017103021.html">Li Zhaoxiu</a>, a volunteer for Tianwang, was seized on September 17 from the hospital where she was awaiting surgery. <a href="https://www.nchrd.org/2016/12/huang-qi/">Huang Qi</a>, the website&rsquo;s founder, has been in detention since last November, and his health has seriously declined in custody. Fearing that her son could soon die, Huang&rsquo;s elderly mother posted a <a href="https://rsf.org/en/news/journalists-mother-fears-he-could-die-prison-nobel-laureate">video</a>, and later an <a href="http://www.hrichina.org/en/citizens-square/open-letter-huang-qis-mother-calls-medical-parole-son">open letter</a>, calling on the government to release him. Huang&rsquo;s <a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql1-09062017102954.html">lawyer was denied a visit</a> with his client on September 5. In recent years, these activists&rsquo; websites and blogs emerged as important clearinghouses of difficult-to-obtain information on daily abuses and protests, offering updates to lawyers, human rights defenders, foreign journalists, diplomats, and other observers. The detentions leave notable gaps in available knowledge on tensions in Chinese society.</li>
+	<li><strong>Academics under pressure: </strong>In response to a June inspection that found 14 universities across China &ldquo;<a href="http://www.scmp.com/news/china/policies-politics/article/2112269/chinese-universities-encourage-professors-students-post">too weak in their political work</a>,&rdquo; several on the list of poor performers are now encouraging faculty and students to produce content in line with &ldquo;core socialist values&rdquo; for publication on news sites. According to a notice from Zhejiang University, articles, animations, or videos promoting &ldquo;correct thinking&rdquo; that are published by national- or provincial-level newspapers and widely shared will be given <a href="http://www.universityworldnews.com/article.php?story=2017092619370021">credit as academic publications</a>. Under this policy, the politics of a faculty member will be &ldquo;central&rdquo; in&nbsp;performance evaluation. Professors who fail to fall in line are increasingly forced out of Chinese academia. Among the intellectual refugees is Qiao Mu, formerly at Beijing Foreign Studies University, who recently left with his daughter for the United States after years of determination to remain in China despite the difficult political environment. Responding to a <a href="https://www.theguardian.com/world/2017/sep/14/qiao-mu-dissenting-academic-leaves-china-for-us"><em>Guardian</em></a> piece on his departure, Qiao defended his change of heart, saying he had to leave to support his family. &ldquo;<a href="https://mp.weixin.qq.com/s/3VXRmK0nnePmaz-nFqWUnA">To be forced out of your beloved homeland, your familiar culture, your cherished university, and to arrive at the age of 47 in a strange place&mdash;this is an anguish I can&#39;t begin to describe.</a>&rdquo;</li>
+</ul>
+
+<hr />
+<h2><a id="a5" name="a5"></a>HONG KONG: Free speech battle on campuses, anticommunist magazines close</h2>
+
+<p>The academic year in Hong Kong began with a battle over free speech on university campuses, as pro- and anti-independence students faced off over posters declaring their stances. At the Chinese University of Hong Kong (CUHK), banners with the slogan &ldquo;<a href="https://www.hongkongfp.com/2017/09/06/student-asks-urges-chinese-university-explain-hong-kong-independence-banners-illegal/">HK INDEPENDENCE</a>&rdquo; appeared in several campus locations. The university removed them, claiming they &ldquo;violated Hong Kong&rsquo;s laws.&rdquo; (There is no such law in Hong Kong.) In response, signs in support of independence and the CUHK Student Union sprang up across CUHK and other city universities.</p>
+
+<p>A <a href="https://www.youtube.com/watch?v=WrHQfSJ3PQI">video</a> that soon went viral showed a mainland Chinese student at CUHK tearing down pro-independence posters from the university&rsquo;s <a href="https://newbloommag.net/2017/09/08/pro-anti-independence-posters-hk/">Democracy Wall</a>, a type of bulletin board present at several other Hong Kong universities. In other cases, pro-independence signs disappeared shortly after they were posted, or were covered by anti-independence signs written in mainland-style simplified characters. At CUHK, the student union set up a <a href="http://www.thestandard.com.hk/section-news.php?id=187412&amp;sid=4">guard booth</a> under one of the banners.</p>
+
+<p>Some of the <a href="http://www.scmp.com/news/hong-kong/politics/article/2110566/hong-kong-college-head-condemns-vile-student-over">confrontations</a> got ugly and spread beyond campus boundaries. On September 17, at a rally calling for the dismissal of lecturer Benny Tai, who cofounded the prodemocracy Occupy Central movement, a district councilor warned on stage that anyone who advocates Hong Kong independence &ldquo;<a href="http://www.scmp.com/news/hong-kong/politics/article/2111718/pan-democrats-blast-junius-ho-saying-independence-activists">must be killed</a>,&rdquo; to which a group of pro-Beijing activists that included Legislative Council member Junius Ho responded &ldquo;without mercy.&rdquo; After a public and political backlash against the violent language, Ho <a href="http://www.scmp.com/news/hong-kong/politics/article/2112784/hong-kong-lawmaker-killed-mercilessly-row-walks-back-his">apologized</a> for &ldquo;any misunderstanding&rdquo; in a television interview.</p>
+
+<p>Separately, the Hong Kong media landscape lost another voice that was critical of Beijing. In its October 1 issue, the anticommunist magazine <em>Cheng Ming</em> (爭鳴) announced that both it and its sister publication <em>Trend</em> (動向) will <a href="http://www.rfa.org/english/news/china/journals-10032017130031.html">cease publication</a>. <em>Cheng Ming</em> was founded in 1977 by Wen Hui, who came to Hong Kong in the 1940s and worked for Chinese news agencies until the Cultural Revolution. Wen started <em>Trend </em>in 1978. It is unclear why the magazines are shutting down now, but there are <a href="http://www.apple.com">unconfirmed reports</a> that Wen, who moved to the United States in 1997, has passed away at the age of 96, and that his family does not want to continue running the financially struggling journals.</p>
+
+<hr />
+<h2><a id="a6" name="a6"></a>BEYOND CHINA:&nbsp;Beijing&rsquo;s influence felt in key democracies, international institutions</h2>
+
+<ul>
+	<li><strong>New Zealand: </strong>China&rsquo;s political influence in New Zealand emerged as a topic of public debate ahead of general elections held on September 23. A joint investigation by the <em>Financial Times</em> and New Zealand&rsquo;s<em> Newsroom</em> revealed that member of Parliament <a href="http://www.bbc.com/news/world-asia-41256914">Yang Jian</a> had spent over a decade in China teaching at a military academy and receiving training at &ldquo;spy schools.&rdquo; Yang, who was elected in 2011, has denied the allegations, while Prime Minister Bill English has not confirmed whether New Zealand intelligence agencies have investigated Yang. The news broke just before Wilson Center Fellow Anne-Marie Brady released a <a href="https://www.wilsoncenter.org/sites/default/files/for_website_magicweaponsanne-mariesbradyseptember2017.pdf">report</a> on China&rsquo;s push to influence New Zealand media and politics, including through partnerships and mergers with local media, especially <a href="http://www.abc.net.au/radio/programs/worldtoday/chinese-soft-power-influence-in-new-zealand/8967852">Chinese-language outlets</a>. Providing free content to partner media outlets and hiring foreigners to toe the party line are all part of a strategy to &ldquo;make the CCP&rsquo;s message the loudest of our times,&rdquo; the report finds. Brady notes that China considers its relationship with New Zealand to be &ldquo;a model to other Western countries.&rdquo;</li>
+	<li><strong>Australia: </strong>Following a series of high-profile media investigations on Chinese meddling in Australian politics and society, the country is considering introducing <a href="http://www.smh.com.au/federal-politics/political-news/george-brandis-considers-new-laws-cracking-down-on-chinese-spying-in-australia-20170921-gymazc">foreign agent laws</a> similar to those in the United States to counteract interference in political parties on behalf of foreign governments. The CCP appears to be engaged in various activities related to elections and political engagement, including covert lobbying, organizing protesters to cheer a <a href="http://www.smh.com.au/nsw/huang-xiangmos-prochina-group-denies-organising-premier-li-rentacrowd-20170324-gv5z4h.html">visiting Chinese official</a>, and authorizing the party-aligned Australian Council for the Promotion of the Peaceful Reunification of China to <a href="http://www.smh.com.au/federal-politics/political-news/george-brandis-considers-new-laws-cracking-down-on-chinese-spying-in-australia-20170921-gymazc">contest</a> local council elections in New South Wales. Australian universities are also grappling with concerns over Chinese government influence, including recent incidents in which Chinese students have argued with faculty and other students over perceived slights to China&rsquo;s sovereignty. At the think tank China Matters, Bates Gill and Linda Jackobson recommend a coordinated effort among major universities to develop policies that better <a href="http://chinamatters.org.au/public-outreach/policy-brief/">integrate</a> Chinese students into Australian society and resist Chinese official demands to change lecture content, while also alleviating universities&rsquo; financial reliance on overseas students&rsquo; tuition.</li>
+	<li><strong>Canada: </strong>The Chinese-language Canadian paper <em>Global</em> <em>Chinese Press</em> <a href="https://beta.theglobeandmail.com/news/british-columbia/dismissed-chinese-newspaper-editor-files-human-rights-complaint-in-bc/article36224584/">fired</a> editor in chief Lei Jin after he tried to publish an obituary for Liu Xiaobo, the Nobel Peace Prize laureate who died in state custody in China on July 13. Lei has now filed a complaint with British Columbia&rsquo;s Human Rights Tribunal, claiming that pressure from Beijing led to his dismissal. Many other Chinese-Canadian journalists and media professionals also report feeling the weight of <a href="https://www.nytimes.com/2016/08/28/world/americas/chinese-canadians-china-speech.html?_r=0">Chinese influence</a>, as they find it increasingly difficult to publish opinions that are critical of the CCP.</li>
+	<li><strong>United Nations:</strong> China is actively eroding UN human rights mechanisms, and the United Nations is increasingly capitulating to China&rsquo;s demands, according to a <a href="https://www.hrw.org/report/2017/09/05/costs-international-advocacy/chinas-interference-united-nations-human-rights">report</a> by Human Rights Watch released on September 5. China has blocked several prominent nongovernmental organizations and individual human rights activists from receiving UN accreditation. The Committee to Protect Journalists was only accredited in 2016, after four years of deferrals on its application due to the objection of China. Media outlets are targets as well. On September 21, the United Nations informed a reporter for U.S.-based <a href="https://www.newswire.com/news/popular-us-based-chinese-tv-station-denied-accreditation-to-cover-the-19961693">New Tang Dynasty TV</a> that his application to cover the General Assembly in New York had been denied. There is reason to believe that the rejection was rooted in China&rsquo;s objections to the station, which was founded by Falun Gong practitioners and often reports on human rights abuses in China and other politically sensitive topics.</li>
+	<li><strong>World Trade Organization: </strong>In a document published on September 26, the United States asked China to <a href="https://webcache.googleusercontent.com/search?q=cache:2berdXIQGqYJ:https://www.usnews.com/news/top-news/articles/2017-09-26/us-tells-wto-concerned-about-chinese-cyber-security-laws+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">postpone</a> full implementation of the Cybersecurity Law and warned World Trade Organization (WTO) member states that the law&rsquo;s new requirements for data storage and transfer will hobble trade. Provisions of the law set to take effect by the end of 2018 require foreign companies to submit data for security checks and to store Chinese users&rsquo; data on domestic Chinese servers. Washington argues that this &ldquo;<a href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S009-DP.aspx?language=E&amp;CatalogueIdList=239041,239040,239013,239016,239050,239002,238968,238967,238925,238913&amp;CurrentCatalogueIdIndex=7&amp;FullTextHash=371857150&amp;HasEnglishRecord=True&amp;HasFrenchRecord=True&amp;HasS">would restrict even routine transfers of information, fundamental to any modern business</a>.&rdquo; The WTO communication asks China to refrain from implementing these aspects of the law until it has addressed the potential negative effects on trade. China may argue that its law pertains to <a href="https://www.cfr.org/blog/cyber-week-review-september-29-2017">national security</a>, not trade. In an October 4 hearing, U.S. <a href="https://www.reuters.com/article/us-usa-china-trade/u-s-business-groups-say-wto-unable-to-curb-many-chinese-trade-practices-idUSKBN1C92UL">business groups</a> told the Office of the U.S. Trade Representative that WTO regulations are not doing enough to rein in Beijing&rsquo;s abuses.</li>
+</ul>
+
+<hr />
+<h2><a id="a7" name="a7"></a>FEATURED PRISONER:&nbsp;Atikem Rozi</h2>
+
+<p><img alt="" src="/sites/default/files/inline_images/Atikem.png" style="float:left; height:auto; margin:10px; width:300px" /></p>
+
+<p>Rozi, now 25, was a student at Central Nationalities University of China in Beijing when she was taken into custody in January 2014. An ethnic Uighur, she was one of <a href="https://www.nchrd.org/2014/12/submission-to-un-on-seven-students-of-ilham-tohti-december-5-2014/">seven students</a> of Uighur scholar Ilham Tohti who were jailed for their alleged work on the Uighur-language website Uighur Online after Tohti himself was sentenced to life imprisonment. Rozi was tried on &ldquo;separatism&rdquo; charges in November 2014 and sentenced to prison the following month. The precise length of her sentence remains unclear, but it is believed to be between three and eight years. No information about her treatment or situation since then has reached the international community.</p>
+
+<p>Prior to her detention, Rozi was an active social media user, posting messages in English, Chinese, and Uighur, including occasional links to articles on Uighur Online and expressions of admiration for Ilham Tohti as &ldquo;the conscience of the Uighur people.&rdquo; A profile in <a href="http://foreignpolicy.com/2014/12/18/after-sentencing-for-separatism-finding-the-humans-behind-the-bars-tohti-students-social-media/"><em>Foreign Policy</em></a> notes that &ldquo;online, Rozi comes across as both sweet and tough, posting photos of herself with a flower by her face but also complaining bitterly about being denied a passport.&rdquo; The passport complaints gained national attention at the time as an example of the discrimination faced by China&rsquo;s ethnic minorities, but they also prompted the police to interrogate Rozi and her mother in <a href="http://uhrp.org/political-prisoners-2015/atikem-rozi">February 2013</a>.</p>
+
+<p>Another notable set of posts were related to the disappearance into detention of her boyfriend, <a href="http://uhrp.org/political-prisoners-2015/mutellip-imin">Mutellip Imin</a>, in 2013. Although he was later released, Imin was detained again in January 2014 and sentenced along with Rozi and the other five Tohti students in late 2014. Either Rozi or Imin could be among those who received three-year sentences, meaning their possible release date is approaching, or has already passed if they are credited with time served in pretrial detention. Reprisals against young Uighurs for nonviolent online activities continue, but renewed international requests for information about <a href="http://ppdcecc.gov/QueryResultsDetail.aspx?PrisonerNum=10229">Rozi</a>&rsquo;s fate could help ensure her safety and freedom.&nbsp;</p>
+
+<hr />
+<h2><a id="a8" name="a8"></a>WHAT TO WATCH FOR</h2>
+
+<p><strong>Eased controls after 19th Party Congress:</strong> Several of the restrictive measures implemented in recent months are likely to have long-lasting effects, but some loosening is often evident after the conclusion of major political events. Watch for which recent curbs on free expression are temporary and which&mdash;such as the block on WhatsApp, increased deletions on social media platforms, and greater risk of arrest for ordinary netizens&mdash;remain in place.</p>
+
+<p><strong>Press accreditation for online media in Hong Kong: </strong>On <a href="https://www.hongkongfp.com/2017/09/19/breaking-press-freedom-victory-hong-kong-govt-lifts-digital-media-ban-following-years-long-campaign/">September 19</a>, Hong Kong chief executive Carrie Lam told reporters that journalists with online outlets will be allowed to attend government press conferences, changing a long-standing policy after a sustained advocacy campaign. While the news was welcomed by <a href="https://rsf.org/en/news/hong-kong-government-finally-recognizes-online-media">press freedom groups</a>, the qualifications needed to obtain credentials have yet to be specified. As several online media outlets are known for their critical coverage of both the Chinese and Hong Kong governments, watch for whether websites like Hong Kong Free Press, InMedia HK, and others are indeed able to obtain accreditation.</p>
+
+<p><strong>Verdict in Taiwanese activist case:</strong> On September 11, <a href="http://www.scmp.com/comment/insight-opinion/article/2113665/how-chinas-trial-lee-ming-che-warning-taiwanese-activists">Lee Ming-che</a> was put on trial in Hunan Province on charges of &ldquo;inciting others to subvert state power and overthrow the socialist system&rdquo; for criticizing China&rsquo;s authoritarian regime and <a href="http://www.bbc.com/news/world-asia-china-41222940">expressing support for multiparty democracy</a> in his postings on social media platforms, particularly while he was in Taiwan. Lee was taken into custody in March and held incommunicado for months. His prosecution&mdash;and televised court confession&mdash;is the first of its kind involving a Taiwanese citizen. Watch for the announcement of his verdict and sentence in the coming weeks, as well as any <a href="https://international.thenewslens.com/article/79701">chilling effect</a> his prosecution may have on Taiwanese civil society. A harsh punishment will bode ill for cross-strait relations, while a more lenient one would signal that international pressure and advocacy on his behalf had an impact.</p>
+
+<hr />
+<h2><a id="a9" name="a9"></a>TAKE ACTION</h2>
+
+<ul>
+	<li><strong>Subscribe to the <em>China Media Bulletin</em>: </strong>Have the bulletin&rsquo;s updates and insights delivered directly to your inbox each month, free of charge. Visit <a href="http://org2.salsalabs.com/o/6580/l/eng/p/salsa/web/common/public/signup?signup_page_KEY=9523">here</a> or e-mail <a href="/cdn-cgi/l/email-protection#accfc1ceeccadec9c9c8c3c1c4c3d9dfc982c3decb"><span class="__cf_email__" data-cfemail="741719163412061111101b191c1b0107115a1b0613">[email&#160;protected]</span></a>.</li>
+	<li><strong>Share the bulletin:&nbsp;</strong>Help friends and colleagues better understand China&rsquo;s changing media and censorship landscape.</li>
+	<li><strong>Access uncensored content:&nbsp;</strong>Find an overview&nbsp;comparing popular circumvention tools and information on how to access them via GreatFire.org,&nbsp;<a href="https://cc.greatfire.org/en">here</a>&nbsp;or&nbsp;<a href="https://github.com/greatfire/wiki">here</a>.</li>
+	<li><strong>Support a prisoner: </strong>A Chinese website founder, a human rights lawyer, and a Uighur woman who studied abroad are being held in China for exercising basic rights, and are the subject of international letter-writing campaigns. Visit the relevant link to add your voice on behalf of <a href="https://www.amnesty.org/en/documents/asa17/7178/2017/en/">Zhen Jianghua</a>, <a href="https://www.amnesty.org/en/documents/asa17/7091/2017/en/">Gao Zhisheng</a>, and <a href="https://www.amnesty.org/en/documents/asa17/7168/2017/en/">Buzainafu Abudourexiti</a>.</li>
+</ul>
+
+<p>&nbsp;</p></div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div>      </div>
+</div>
+  </div>
+</div></section>    
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-20">
+    <div class="grid-12 suffix-4 prefix-4 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-menu block-menu-footer-utility block-menu-menu-footer-utility odd block-without-title" id="block-menu-menu-footer-utility">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf title-subscribe"><a href="https://org2.salsalabs.com/o/6580/p/salsa/web/common/public/signup?signup_page_KEY=2061" title="">Subscribe</a></li>
+<li class="leaf title-donate"><a href="https://freedomhouse.salsalabs.org/donate" title="">Donate</a></li>
+<li class="leaf title-events"><a href="/events" title="">Events</a></li>
+<li class="leaf title-contact-us"><a href="/content/contact-us">Contact Us</a></li>
+<li class="leaf title-careers"><a href="/content/career-opportunities">Careers</a></li>
+<li class="last leaf title-privacy-policy"><a href="/content/privacy-policy">Privacy Policy</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-block block-footer-social-icons block-3 block-block-3 even block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="social-icons"><a class="facebook" href="https://www.facebook.com/FreedomHouseDC">Facebook</a><a class="twitter" href="https://twitter.com/freedomhousedc">Twitter</a><a class="youtube" href="http://www.youtube.com/freedomhousedc">YouTube</a><a class="feed" href="/news/feed">RSS Feed</a></div>
+    </div>
+  </div>
+</div><div class="block block-block footer-block-copyright block-29 block-block-29 odd block-without-title" id="block-block-29">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>&copy;&nbsp;2017 Freedom House</p>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div>
+
+  
+
+
+<script src="/cdn-cgi/scripts/78d64697/cloudflare-static/email-decode.min.js"></script></body>
+</html>
+
+
+

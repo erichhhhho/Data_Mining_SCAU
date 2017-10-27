@@ -1,0 +1,680 @@
+
+        <!doctype html>
+        <html xmlns:og="http://ogp.me/ns#">
+            <head>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+                <link href="/manifest.json" rel="manifest">
+                <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"NewsArticle","author":[{"@type":"Person","name":"Nikki Ekstein"}],"dateCreated":"2017-10-12T23:52:58.532Z","dateModified":"2017-10-12T23:52:58.534Z","datePublished":"2017-10-12T23:52:58.532Z","description":"In China, a culture of environmental awareness is breaking through the smog. And leading the charge is He Qiaonv, one of the country’s wealthiest women and most ardent conservationists.","headline":"Beijing Philanthropist Commits $1.5 Billion to Conservation","image":{"@type":"ImageObject","url":"https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg","width":1200,"height":630},"mainEntityOfPage":"https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation","publisher":{"@type":"Organization","name":"Bloomberg","logo":{"@type":"ImageObject","url":"https://assets.bwbx.io/s3/javelin/public/javelin/images/bloomberg-logo-amp-e995e81f26.png","width":262,"height":60}}}
+    </script>
+                
+        <link href="https://assets.bwbx.io" rel="preconnect" crossorigin>
+        <link href="https://www.bbthat.com" rel="preconnect" crossorigin>
+        <link href="https://nav.bloomberg.com" rel="preconnect" crossorigin>
+    
+                
+        <link rel="stylesheet" type="text/css" href="https://assets.bwbx.io/font-service/css/BWHaasText-55Roman,BWHaasHead-55Roman,BWHaasHead-56Italic,BWHaasHead-75Bold,BWHaasHead-95Black,TiemposTextWeb-Regular,TiemposTextWeb-RegularItalic,TiemposHeadlineWeb-Bold,AvenirNext-Demi,supriasans-regular-web,supriasans-black-web,PublicoText-Roman-Web,PublicoText-Italic-Web,PublicoText-Bold-Web/font-face.css">
+    
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/application/application-08d1bf1521.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg,BWHaasText-55Roman,BWHaasHead-75Bold,BWHaasHead-95Black,AvenirNext-Demi/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-nav-b580ffc9b8.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://www.bbthat.com/assets/v1.4.0/that.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/abstract/abstract-762d163070.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/author_tout/author_tout-c6e448ba2b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/author_tout/author_tout-e273b6df99.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/author_details/author_details-f6d8baf35e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-d998ba8eeb.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/newsletter_tout-7104a5317e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/outstream_ad-c21b3ed6be.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-75cdc2b544.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-238ed3378a.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-e74c024d6f.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-e886f59cb3.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/mobile_ads-10915d4c59.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-b820c41d19.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-302586dffe.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-b789d79511.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/body-6689773bd7.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/in_article_ad-a8500fe5ea.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/mobile_ads-95f94f08a6.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/body/basic/newsletter_tout-12eaa8fd13.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-9bf4006248.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-bb5da368ce.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-6a33ad34f5.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-b17a45ed53.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-7472f45bf8.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ledes/basic/text_only/text_only-b95e829bc6.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/recirc/recirc-753ad6df8e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/terminal_tout/terminal_tout-f96d849049.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/terminal_tout/terminal_tout-b55b132f21.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/secure_tip_tout/secure_tip_tout-0250568d0e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/themes/pursuits/pursuits-c8a98811b2.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/recirc/recirc-753ad6df8e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/nav/bb/nav-28e2d17016.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-d6c4cb4d6d.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-44ae116396.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-90a9b24409.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/image_viewer/image_viewer-0e5ec91ea4.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/breaking_news_placeholder/breaking_news-181cec3985.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-19331a57e5.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-e57e2909c7.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-feab898b86.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-a69847c3fa.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-3728b26bcb.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/layout/basic/basic-80068e7b37.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/leaderboard/leaderboard-f7160e7776.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/ads/native/native-15685ecbee.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/lazy_images/lazy_image-7dc0452705.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-6f53efc220.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-323c682892.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-5679a9f67c.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-932ba91b49.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/components/truste/truste-53c717658f.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-footer-af4496cb6b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/javelin/css/print/print-ffa68fd905.css" media="print" property="stylesheet" rel="stylesheet" type="text/css">
+                
+        <title>Beijing Philanthropist He Qiaonv Commits $1.5 Billion to Conservation - Bloomberg</title>
+        <link rel="canonical" href="https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation">
+        <meta name="description" content="In China, a culture of environmental awareness is breaking through the smog. And leading the charge is He Qiaonv, one of the country’s wealthiest women and most ardent conservationists.">
+        <meta name="checksum" content="60153ffc2cb0be70028ddd8c92e65ad2">
+        <meta name="validatedAt" content="2017-10-27T09:07:54.683Z">
+        <meta name="referrer" content="unsafe-url">
+        <meta name="referrer" content="always">
+        <meta property="al:android:url" content="bloomberg://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation?utm_medium=applink&utm_source=facebook">
+        <meta property="al:android:package" content="com.bloomberg.android.plus">
+        <meta property="al:android:app_name" content="Bloomberg">
+        <meta property="og:description" content="In China, a culture of environmental awareness is breaking through the smog. And leading the charge is He Qiaonv, one of the country’s wealthiest women and most ardent conservationists.">
+        <meta property="og:image" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU5VGOk3afiU/v1/1200x800.jpg">
+        <meta property="og:site_name" content="Bloomberg.com">
+        <meta property="og:title" content="Beijing Philanthropist Commits $1.5 Billion to Conservation">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation">
+        <meta name="fb:status" content="It may be the biggest donation of its kind, ever.">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="In China, a culture of environmental awareness is breaking through the smog. And leading the charge is He Qiaonv, one of the country’s wealthiest women and most ardent conservationists.">
+        <meta name="twitter:image" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU5VGOk3afiU/v1/1200x800.jpg">
+        <meta name="twitter:site" content="@luxury">
+        <meta name="twitter:title" content="Beijing Philanthropist Commits $1.5 Billion to Conservation">
+        <meta name="parsely-title" content="Beijing Philanthropist He Qiaonv Commits $1.5 Billion to Conservation">
+        <meta name="parsely-link" content="https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation">
+        <meta name="parsely-type" content="post">
+        <meta name="parsely-image-url" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU5VGOk3afiU/v1/1200x800.jpg">
+        <meta name="parsely-pub-date" content="2017-10-12T23:52:58.532Z">
+        <meta name="parsely-section" content="pursuits">
+        <meta name="parsely-tags" content="China,Qiaonv He,Beijing,Culture,Jinping Xi,Monaco,Billionaires,Africa,Wealth,Law,Secondary Brand: pursuits,Region: Global,Page: article">
+        <meta name="parsely-post-id" content="OXQICA6S972A01">
+        <meta name="parsely-author" content="Nikki Ekstein">
+        
+        <script type="text/javascript">
+            (function(w) {
+                w.dataLayer = w.dataLayer || [];
+                w.dataLayer.push({"adcode":"business/news/pursuits","author":"Nikki Ekstein","publishedAt":"2017-10-12T23:52:58.532Z","storyId":"OXQICA6S972A01","contentType":"content-article","pageType":"content","template":"javelin-article-html","topic":"Culture","attributor":"web-original","brand":"pursuits","secondaryBrands":"pursuits","franchise":null,"categories":"pursuits","transporter":"false","refresh":"false","headline":"Beijing Philanthropist He Qiaonv Commits $1.5 Billion to Conservation","slug":"2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"});
+            })(window);
+        </script>
+    
+        
+    <link rel="icon"
+        type="image/png"
+        href="https://assets.bwbx.io/s3/javelin/public/javelin/images/favicon-pursuits-1d6d588597.png">
+    
+    
+                <link rel="amphtml" href="https://www.bloomberg.com/amp/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation" />
+                
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="apple-mobile-web-app-capable" content="no">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-itunes-app" content="app-id=281941097, affiliate-data=ct=smartbanner_mobileweb&pt=8949&utm_source=smart_banner">
+    
+                
+        <meta name="sailthru.title" content="Beijing Philanthropist Commits $1.5 Billion to Conservation">
+        <meta name="sailthru.author" content="Nikki Ekstein">
+        <meta name="sailthru.tags" content="China,Qiaonv He,Beijing,Culture,Jinping Xi,Monaco,Billionaires,Africa,Wealth,Law,pursuits">
+        <meta name="keywords" content="China,Qiaonv He,Beijing,Culture,Jinping Xi,Monaco,Billionaires,Africa,Wealth,Law,pursuits">
+        <meta name="sailthru.description" content="In China, a culture of environmental awareness is breaking through the smog. And leading the charge is He Qiaonv, one of the country’s wealthiest women and most ardent conservationists.">
+        <meta name="sailthru.date" content="2017-10-12T23:52:58.532Z">
+    
+            
+<script>!function(){function e(e){d.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}function n(e,n){var a="undefined"!=typeof window.aFeoApplied?"1":"0";BOOMR.addVar("ak.feo",a)}function a(e,n){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.r"];BOOMR.removeVar(a)}function t(){var e="",t="true"==e;BOOMR.subscribe("before_beacon",n,null,null),BOOMR.addVar({"ak.v":1,"ak.cp":"89315","ak.ai":"204646","ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"","ak.rid":"3558a72","ak.r":19865,"ak.a2":t?1:0,"ak.m":"g","ak.n":"","ak.bpcip":"155.69.160.32","ak.cport":55183,"ak.gh":"23.5.165.171","ak.quicv":"","ak.csrc":"-"}),BOOMR.subscribe("onbeacon",a,null,null)}if(!window.BOOMR||!window.BOOMR.version){var o,r,i,c=document.createElement("iframe"),d=window;d.addEventListener?d.addEventListener("load",e,!1):d.attachEvent&&d.attachEvent("onload",e),c.src="javascript:void(0)",c.title="",c.role="presentation",(c.frameElement||c).style.cssText="width:0;height:0;border:0;display:none;",i=document.getElementsByTagName("script")[0],i.parentNode.insertBefore(c,i);try{r=c.contentWindow.document}catch(e){o=document.domain,c.src="javascript:var d=document.open();d.domain='"+o+"';void(0);",r=c.contentWindow.document}r.open()._l=function(){var e=this.createElement("script");o&&(this.domain=o),e.id="boomr-if-as",e.src="https://s.go-mpulse.net/boomerang/T6PPY-X9KZV-8VZ6F-7N5GB-F8ELN",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},r.write('<body onload="document._l();">'),r.close();var _="";_.length>0&&d&&"performance"in d&&d.performance&&d.performance.setResourceTimingBufferSize&&d.performance.setResourceTimingBufferSize(),document.addEventListener?document.addEventListener("onBoomerangLoaded",t):document.attachEvent&&document.attachEvent("onpropertychange",function(e){e||(e=window.event),e&&"onBoomerangLoaded"===e.propertyName&&t()})}}();</script></head>
+            <body data-theme="pursuits" data-type="article">
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/pwa/pwa-fa16a7fd08.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">window.__bloomberg__=window.__bloomberg__||{};window.__bloomberg__.environment={"videoPlayerUrl":"https://cdn.gotraffic.net/projector/latest/bplayer.js","playlistPlayerEnabled":true,"psznTrackingUrl":"https://tracking.bloomberg.com/images/tracking-pixel.gif","psznRecommendationUrl":"https://personalization.bloomberg.com"};</script>
+                
+        <script type="text/javascript">
+            (function () {
+                if(typeof window.CustomEvent === "function") return false;
+                function CustomEvent(event, p) {
+                    p = p || {bubbles: false, cancelable: false, detail: undefined};
+                    var e = document.createEvent("CustomEvent");
+                    e.initCustomEvent(event, p.bubbles, p.cancelable, p.detail);
+                    return e;
+                }
+                CustomEvent.prototype = window.Event.prototype;
+                window.CustomEvent = CustomEvent;
+            })();
+        </script>
+    
+                
+        <script type="text/javascript">
+            window.__bloomberg__.ads = {};
+            window.__bloomberg__.ads.queue = [];
+
+            window.__bloomberg__.ads.enqueue = function(id) {
+                if (window.__bloomberg__.ads.render) {
+                    return window.__bloomberg__.ads.render(id);
+                }
+                window.__bloomberg__.ads.queue.push(id);
+            };
+        </script>
+    
+                
+    <div class="leaderboard-container">
+        <div id="leaderboard-tOqHJWw" class="leaderboard" data-position="leaderboard">
+            <script type="text/javascript">
+                window.__bloomberg__.ads.enqueue("leaderboard-tOqHJWw");
+            </script>
+            <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"leaderboard","dimensions":{"large_desktop":[[728,90],[970,250],[5,16],[1,1]],"small_desktop":[[728,90],[970,250],[5,16],[1,1]],"tablet":[[728,90],[5,16],[1,1]],"mobile":[[5,16],[1,1]]},"strategy":"always","type":"Top Leaderboard Ad","positionIncrement":1,"targeting":{"position":"leaderboard","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"leaderboard-tOqHJWw"}</script>
+            <div class="leaderboard-ad-dummy"></div>
+        </div>
+    </div>
+    
+                
+        <div class="truste">
+            <div id="consent_blackbar"></div>
+        </div>
+    
+                <style>
+@font-face {
+    font-family: 'AvenirNextPForBBG-Regular';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Regular-09359fef74.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Regular-91967b382a.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AvenirNextPForBBG-Demi';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Demi-62597c630e.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Demi-d7e488b711.woff') format('woff');
+}
+#bb-that a{text-decoration:none}#bb-that .bb-that__sitemap{overflow:hidden;position:relative}#bb-that .bb-that__sitemap{max-height:0;-webkit-transition:max-height 0.6s ease-in-out;-o-transition:max-height 0.6s ease-in-out;transition:max-height 0.6s ease-in-out}#bb-that{background:#000;position:relative}@media (max-width: 759px){#bb-that{display:none}}#bb-that .bb-that--container{margin:0 auto;padding:0 30px;box-sizing:content-box}@media (min-width: 1020px){#bb-that .bb-that--container{padding:0}}#bb-that .bb-that--container:before,#bb-that .bb-that--container:after{content:" ";display:table}#bb-that .bb-that--container:after{clear:both}@media (min-width: 760px){#bb-that .bb-that--container{width:680px}}@media (min-width: 1020px){#bb-that .bb-that--container{width:980px}}@media (min-width: 1280px){#bb-that .bb-that--container{width:1160px}}#bb-that .bb-that-header{font-family:"AvenirNextPForBBG-Demi","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:15px;line-height:30px;padding:15px}@media (min-width: 760px){#bb-that .bb-that-header{font-family:"AvenirNextPForBBG-Demi","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;height:30px;padding:0}}#bb-that .bb-that-header__link{position:relative;display:block}@media (min-width: 760px){#bb-that .bb-that-header__link{display:inline-block;padding:0 12px}}#bb-that .bb-that-header__link,#bb-that .bb-that-header__link>span{color:#f3f4ef;font-family:inherit;font-size:inherit;line-height:inherit}@media (min-width: 760px){#bb-that .bb-that-header__link,#bb-that .bb-that-header__link>span{line-height:1;-webkit-font-smoothing:subpixel-antialiased;-moz-osx-font-smoothing:auto}}#bb-that .bb-that-header__link:first-child{padding-left:0}#bb-that .bb-that-header__link:after{font-size:9px;position:absolute}@media (min-width: 760px){#bb-that .bb-that-header__link+.bb-that-header__link{border-left:1px solid #b3b3b3}#bb-that .bb-that-header__link+.bb-that-header__link:after{top:-3px}}#bb-that .bb-that-header__link>span:first-of-type{display:inline}#bb-that .bb-that-header__link>span:first-of-type+span{display:none}@media (max-width: 1019px){#bb-that .bb-that-header__link>span:first-of-type{display:none}#bb-that .bb-that-header__link>span:first-of-type+span{display:inline}}#bb-that .bb-that-header--sitemap-trigger{padding:0 27px 0 12px}#bb-that .bb-that-header--sitemap-trigger:after{display:inline-block;content:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2015%2015%27%3E%3Cpath%20d%3D%27M0,2.5l7.5,10l7.5-10H0z%27%20fill%3D%27%23fff%27%2F%3E%3C%2Fsvg%3E");height:9px;width:9px;line-height:initial;opacity:0.7;-webkit-transition:opacity 0.1s ease-out;-o-transition:opacity 0.1s ease-out;transition:opacity 0.1s ease-out}#bb-that .bb-that-header--sitemap-trigger:hover:after{opacity:1}#bb-that .bb-that-header--sitemap-trigger:after{height:9px;width:9px;-webkit-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0);-webkit-transition:transform 0.35s ease;-o-transition:transform 0.35s ease;transition:transform 0.35s ease}@media (min-width: 760px){#bb-that .bb-that-header--sitemap-trigger:after{right:12px;top:2px;line-height:1}}@media (min-width: 1020px){#bb-that .bb-that--open{border-bottom:1px solid #474747}}#bb-that .bb-that--open .bb-that-header--sitemap-trigger:after{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}
+</style>
+<div id="bb-that">
+    <nav class="bb-that">
+        <header class="bb-that-header bb-that--container">
+        <a class="bb-that-header__link bb-that-header--sitemap-trigger" href="http://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg the Company &amp; Its Products</a><a class="bb-that-header__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom"><span>Bloomberg Anywhere Remote Login</span><span>Bloomberg Anywhere Login</span></a><a class="bb-that-header__link" href="http://www.bloomberg.com/professional/request-demo/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-DEMO-bbgmenu">Bloomberg Terminal Demo Request</a>    </header>
+        <div class="bb-that__sitemap bb-that--container">
+    <div class="bb-that__close"></div>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-md bb-that--visible-lg">
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">For Customers</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Software Updates</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Manage Products and Account Information</a></li></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text"><span>Americas</span>+1 212 318 2000</p><p class="bb-that-category__text"><span>EMEA</span>+44 20 7330 7500</p><p class="bb-that-category__text"><span>Asia Pacific</span>+65 6212 1000</p></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">About</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity and Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy and Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Tech</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/solution/bloomberg-terminal/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TERMINAL-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/execution-order-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-EXORDMGMT-bbgmenu">Execution and Order Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/data-and-content/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-DATACONT-bbgmenu">Data and Content</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/financial-data-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-FINDATA-bbgmenu">Financial Data Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/integration-and-distribution/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-INTEGDIST-bbgmenu">Integration and Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/tradebook/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TBOOK-bbgmenu">Bloomberg Tradebook</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/markets/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Markets</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/technology/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/pursuits/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Pursuits</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/view/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Opinion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/businessweek/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Businessweek</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+            </ul>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-sm">
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">About</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity and Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy and Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Tech</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/solution/bloomberg-terminal/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TERMINAL-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/execution-order-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-EXORDMGMT-bbgmenu">Execution and<br /> Order Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/data-and-content/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-DATACONT-bbgmenu">Data and Content</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/financial-data-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-FINDATA-bbgmenu">Financial Data<br /> Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/integration-and-distribution/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-INTEGDIST-bbgmenu">Integration and<br /> Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/tradebook/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TBOOK-bbgmenu">Bloomberg<br /> Tradebook</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/markets/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Markets</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/technology/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg<br /> Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/pursuits/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Pursuits</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/view/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Opinion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/businessweek/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg<br /> Businessweek</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">For Customers</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Software Updates</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Manage Contracts and Orders</a></li></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text"><span>Americas</span>+1 212 318 2000</p><p class="bb-that-category__text"><span>EMEA</span>+44 20 7330 7500</p><p class="bb-that-category__text"><span>Asia Pacific</span>+65 6212 1000</p></div></section>    </li>
+            </ul>
+</div>    </nav>
+</div>
+
+                
+        <script id="nav-data" type="application/json">{"headline":"Beijing Philanthropist Commits $1.5 Billion to Conservation","url":"https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation","twitterText":"Beijing philanthropist commits $1.5 billion to conservation","twitterHandle":"luxury"}</script>
+        <div class="bb-nav-placeholder">
+            <div class="bb-nav-root"> <nav is="bb-nav" class="bb-nav" id="bb-nav" data-theme="pursuits" data-persist-for="content" data-mode="index" data-reg-env="production" data-progress="0" data-headline="" data-base="https://nav.bloomberg.com" data-tracker-category="nav" data-tracker-events="click" data-tracker-label="header" data-site="global" data-persist-for="none" > <div class="bb-nav__container"> <div class="bb-nav__content"> <h1 class="bb-nav-logo" is="bb-nav-logo"> <div class="bb-nav-logo__rubix" data-tracker-label="bomb.open.rubix_button" data-tracker-action="click"></div> <div class="bb-nav-logo__menu" data-tracker-label="bomb.open.menu_button" data-tracker-action="click"> <div class="bb-nav-logo__menu-link">MENU</div> </div> <a href="http://www.bloomberg.com" class="bb-nav-logo__link" data-tracker-label="logo" data-tracker-action="click"></a> <div class="bb-nav-logo__arrow"></div> </h1><div class="bb-nav-content-logo" is="bb-nav-content-logo"> <h1 class="bb-nav-content-logo__headline" data-tracker-label="content"> <a href="http://www.bloomberg.com" class="bb-nav-content-logo__site" data-tracker-label="logo" data-tracker-action="click"></a> </h1> <div class="bb-nav-content-logo__down-arrow" data-tracker-label="expand" data-tracker-action="click"></div> </div><h2 class="bb-nav-headline"></h2><bb-experience-select class="bb-nav-experience-select"></bb-experience-select><div class="bb-nav-categories"> <ul class="bb-nav-categories__container"> <li class="bb-nav-categories__category bb-nav-categories__about has-submenu"> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/" data-tracker-label="about_the_company" data-tracker-action="click"> About The Company </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/london" data-tracker-label="bloomberg_london" data-tracker-action="click"> Bloomberg London </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__home"> <a href="http://www.bloomberg.com" class="bb-nav-categories__home-link"> Homepage </a> </li> <li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="markets" data-vertical="markets" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/markets" class="bb-nav-categories__link" data-category-path="/markets" data-category-vertical="markets" target="_self" data-tracker-action="click">Markets</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_stocks" href="https://www.bloomberg.com/markets/stocks" data-tracker-label="stocks" data-tracker-action="click"> Stocks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_currencies" href="https://www.bloomberg.com/markets/currencies" data-tracker-label="currencies" data-tracker-action="click"> Currencies </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_fixed_income" href="https://www.bloomberg.com/markets/fixed-income" data-tracker-label="fixed_income" data-tracker-action="click"> Fixed Income </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_commodities" href="https://www.bloomberg.com/markets/commodities" data-tracker-label="commodities" data-tracker-action="click"> Commodities </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_rates_bonds" href="https://www.bloomberg.com/markets/rates-bonds" data-tracker-label="rates_plus_bonds" data-tracker-action="click"> Rates + Bonds </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economics" href="https://www.bloomberg.com/markets/economics" data-tracker-label="economics" data-tracker-action="click"> Economics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_magazine" href="https://www.bloomberg.com/markets/markets-magazine" data-tracker-label="magazine" data-tracker-action="click"> Magazine </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_benchmark" href="https://www.bloomberg.com/markets/benchmark" data-tracker-label="benchmark" data-tracker-action="click"> Benchmark </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_watchlist" href="https://www.bloomberg.com/markets/watchlist" data-tracker-label="watchlist" data-tracker-action="click"> Watchlist </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economic_calendar" href="https://www.bloomberg.com/markets/economic-calendar" data-tracker-label="economic_calendar" data-tracker-action="click"> Economic Calendar </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="technology" data-vertical="technology" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/technology" class="bb-nav-categories__link" data-category-path="/technology" data-category-vertical="technology" target="_self" data-tracker-action="click">Tech</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_us" href="https://www.bloomberg.com/topics/silicon-valley" data-tracker-label="us" data-tracker-action="click"> U.S. </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_global" href="https://www.bloomberg.com/topics/global-tech" data-tracker-label="global" data-tracker-action="click"> Global </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_start_ups" href="https://www.bloomberg.com/topics/startups" data-tracker-label="startups" data-tracker-action="click"> Startups </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_bloomberg_tv" href="https://www.bloomberg.com/shows/bloomberg-technology" data-tracker-label="bloomberg_technology_tv" data-tracker-action="click"> Bloomberg Technology TV </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_gadgets-with-gurman" href="https://www.bloomberg.com/news/special-reports/gadgets-with-gurman" data-tracker-label="gadgets_with_gurman" data-tracker-action="click"> Gadgets With Gurman </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_digital-defense" href="https://www.bloomberg.com/news/special-reports/digital-defense" data-tracker-label="digital_defense" data-tracker-action="click"> Digital Defense </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_studio_1" href="https://www.bloomberg.com/shows/studio-1" data-tracker-label="studio_10" data-tracker-action="click"> Studio 1.0 </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_focus-on-infrastructure" href="https://www.bloomberg.com/news/special-reports/focus-on-infrastructure" data-tracker-label="focus_on__infrastructure" data-tracker-action="click"> Focus On: Infrastructure </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="pursuits" data-vertical="pursuits" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/pursuits" class="bb-nav-categories__link" data-category-path="/pursuits" data-category-vertical="pursuits" target="_self" data-tracker-action="click">Pursuits</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_autos" href="https://www.bloomberg.com/pursuits/cars-bikes" data-tracker-label="cars_and_bikes" data-tracker-action="click"> Cars & Bikes </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_style" href="https://www.bloomberg.com/pursuits/style-grooming" data-tracker-label="style_and_grooming" data-tracker-action="click"> Style & Grooming </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_scene" href="https://www.bloomberg.com/pursuits/spend" data-tracker-label="spend" data-tracker-action="click"> Spend </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_timepieces" href="https://www.bloomberg.com/pursuits/watches-gadgets" data-tracker-label="watches_and_gadgets" data-tracker-action="click"> Watches & Gadgets </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_food" href="https://www.bloomberg.com/pursuits/food-drinks" data-tracker-label="food_and_drinks" data-tracker-action="click"> Food & Drinks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_travel" href="https://www.bloomberg.com/pursuits/travel" data-tracker-label="travel" data-tracker-action="click"> Travel </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_property" href="https://www.bloomberg.com/pursuits/real-estate" data-tracker-label="real_estate" data-tracker-action="click"> Real Estate </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_art" href="https://www.bloomberg.com/pursuits/art-design" data-tracker-label="art_and_design" data-tracker-action="click"> Art & Design </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/shows/brilliant-ideas" data-tracker-label="brilliant_ideas" data-tracker-action="click"> Brilliant Ideas </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="politics" data-vertical="politics" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/politics" class="bb-nav-categories__link" data-category-path="/politics" data-category-vertical="politics" target="_self" data-tracker-action="click">Politics</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/global-risk-briefing/" data-tracker-label="global_risk_briefing" data-tracker-action="click"> Global Risk Briefing </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-how-well-know-if-trump-is-making-america-great-again/" data-tracker-label="road_to_brexit__the_heartlands_where_a_good_deal_matters_most" data-tracker-action="click"> Road to Brexit: The Heartlands Where a Good Deal Matters Most </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/tracking-trumps-web-of-conflicts/" data-tracker-label="tracking_trump’s_web_of_conflicts" data-tracker-action="click"> Tracking Trump’s Web of Conflicts </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-healthcare-bill-changes/" data-tracker-label="failing_or_doing_fine?_how_obamacare’s_marketplaces_are_shaping_up_for_2018" data-tracker-action="click"> Failing or Doing Fine? How Obamacare’s Marketplaces Are Shaping Up for 2018 </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-nkorea-missiles/" data-tracker-label="kim_jong_un’s_big_nuclear_push_is_closing_in_on_america" data-tracker-action="click"> Kim Jong Un’s Big Nuclear Push Is Closing In on America </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="opinion" data-vertical="opinion" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/opinion" data-category-vertical="opinion" target="_self" data-tracker-action="click">Opinion</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_view" href="https://www.bloomberg.com/view/" data-tracker-label="view" data-tracker-action="click"> View </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_gadfly" href="https://www.bloomberg.com/gadfly/" data-tracker-label="gadfly" data-tracker-action="click"> Gadfly </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="businessweek" data-vertical="businessweek" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/businessweek" class="bb-nav-categories__link" data-category-path="/businessweek" data-category-vertical="businessweek" target="_self" data-tracker-action="click">Businessweek</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/magazine/businessweek/17_44" data-tracker-label="latest_issue" data-tracker-action="click"> Latest Issue </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/podcasts/debrief" data-tracker-label="debrief_podcast" data-tracker-action="click"> Debrief Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_subscribe" href="https://subscribe.businessweek.com/pubs/BW/BWK/BWKRelaunch_US_two_hpsubtout_June2017.jsp?cds_page_id=216824&cds_mag_code=BWK&id=1497488101219&lsid=71651932310037847&vid=3#theseErrors" data-tracker-label="subscribe" data-tracker-action="click"> Subscribe </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="footer" data-vertical="footer" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/footer" data-category-vertical="footer" target="_self" data-tracker-action="click">More</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/climate-changed" data-tracker-label="climate_changed" data-tracker-action="click"> Climate Changed </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics" data-tracker-label="graphics" data-tracker-action="click"> Graphics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/billionaires/" data-tracker-label="billionaires" data-tracker-action="click"> Billionaires </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/game-plan" data-tracker-label="game_plan" data-tracker-action="click"> Game Plan </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/small-business" data-tracker-label="small_business" data-tracker-action="click"> Small Business </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/personal-finance" data-tracker-label="personal_finance" data-tracker-action="click"> Personal Finance </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/segments/inspire-go" data-tracker-label="inspire_go" data-tracker-action="click"> Inspire GO </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/features/2016-peer-to-peer/" data-tracker-label="the_david_rubenstein_show" data-tracker-action="click"> The David Rubenstein Show </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/sponsor/partnerships/" data-tracker-label="sponsored_content" data-tracker-action="click"> Sponsored Content </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/tips/" data-tracker-label="send_tips" data-tracker-action="click"> Send Tips </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__category bb-nav-categories__sign-in"> <a id="bb-nav-dropdown-sign-in" class="bb-nav-categories__sign-in-link" href="https://login.bloomberg.com/?in_source=login_direct" data-tracker-label="sign_in" data-tracker-action="click"> Sign In </a> </li> <li class="bb-nav-categories__category bb-nav-categories__experience"> <bb-experience-select class="bb-nav-mobile-experience-select"></bb-experience-select> </li> </ul> </div><div class="bb-nav-touts" is="bb-nav-touts" data-tracker-label="tout"> <a target="_self" id="bb-nav-sign-in" class="bb-nav-touts__link" href="https://login.bloomberg.com/?in_source=login_direct" data-tracker-label="sign_in" data-tracker-action="click">Sign In</a> <a target="_blank" class="bb-nav-touts__subscribe-link" href="http://businessweekmag.com/navbartextlink" data-vertical-target="businessweek" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a> </div><div class="bb-nav-social-container"> <bb-social class="bb-nav-social"></bb-social> </div><div class="bb-nav-search" is="bb-nav-search" data-tracker-label="search"> <form class="bb-nav-search__form" action="/search" method="get" autocomplete="false"> <input type="text" class="bb-nav-search__input" placeholder="What are you searching for?" name="query" autocomplete="off"/> </form> <div class="bb-search-drawer" tabindex="0"> <div class="bb-search-drawer__content"> <bb-quick-links></bb-quick-links> <bb-search-suggestions></bb-search-suggestions> </div> </div> </div> <span class="bb-nav-search__icon" data-tracker-label="search.icon" data-tracker-action="click"></span> </div> </div> <div class="bb-progress"> <div class="bb-progress__status"></div> </div> </nav> </div>
+        </div>
+    
+                <div class='breaking-news-placeholder'></div>
+                <main class="transporter-container">
+                    <div class="transporter-item current">
+                        
+            <article data-story-id="OXQICA6S972A01" data-theme="pursuits" data-type="article" itemscope itemtype="http://schema.org/Article">
+                <script id="piano-OXQICA6S972A01" type="application/json">{"excludeFromWall":false,"contentType":"article","publishedAt":"2017-10-12T23:52:58.532Z","theme":"pursuits"}</script>
+                <script id="article-info-OXQICA6S972A01" type="application/json">{"id":"OXQICA6S972A01","contentType":"article","contentTags":[{"id":"1417661","type":"Person","directScore":0.34830441193149597,"derivedScore":0.34830441193149597},{"id":"1390479","type":"Person","directScore":0.38924804355222864,"derivedScore":0.38924804355222864},{"id":"4648789","type":"Person","directScore":1.5544969944425542,"derivedScore":1.5544969944425542},{"id":"16551487","type":"Person","directScore":9.651551210959173,"derivedScore":9.651551210959173},{"id":"philanthropy","type":"Topic","directScore":0.2918226154020641,"derivedScore":0.2918226154020641},{"id":"cities","type":"Topic","directScore":0.5035726437563797,"derivedScore":0.5035726437563797},{"id":"environment","type":"Topic","directScore":0.5372575706022457,"derivedScore":0.5372575706022457},{"id":"economic-growth","type":"Topic","directScore":0.6147215606215266,"derivedScore":0.6147215606215266},{"id":"energy","type":"Topic","directScore":0.6659861630940229,"derivedScore":0.6659861630940229},{"id":"law","type":"Topic","directScore":0.7638652602926166,"derivedScore":0.7638652602926166},{"id":"wealth","type":"Topic","directScore":0.8070772371554951,"derivedScore":0.8070772371554951},{"id":"billionaires","type":"Topic","directScore":0.9108540319836679,"derivedScore":0.9108540319836679},{"id":"culture","type":"Topic","directScore":2.8054054054054056,"derivedScore":2.8054054054054056},{"id":"abu-dhabi","type":"City","directScore":0.12861517522966995,"derivedScore":0.12861517522966995},{"id":"honolulu","type":"City","directScore":0.31393898151298627,"derivedScore":0.31393898151298627},{"id":"paris","type":"City","directScore":0.7433367358511965,"derivedScore":0.7433367358511965},{"id":"beijing","type":"City","directScore":7.287966428490417,"derivedScore":7.287966428490417},{"id":"MC","type":"Country","directScore":0.9931949642735625,"derivedScore":0.9931949642735625},{"id":"CN","type":"Country","directScore":11.492011439816814,"derivedScore":11.492011439816814},{"id":"Europe","type":"Region","directScore":0.6375184303050925,"derivedScore":1.1978021983003369},{"id":"Asia","type":"Region","directScore":0.6856073494385846,"derivedScore":11.512462926489354},{"id":"Africa","type":"Region","directScore":0.8298741068390609,"derivedScore":0.8298741068390609},{"id":"XW1:COM","type":"Commodity","directScore":0.6698423500056708,"derivedScore":0.6698423500056708},{"id":"science","type":"Topic","directScore":0,"derivedScore":6},{"id":"luxury","type":"Classification","directScore":0,"derivedScore":6},{"id":"china-congress","type":"Event","directScore":0,"derivedScore":1.5544969944425542},{"id":"technology","type":"Classification","directScore":0,"derivedScore":0.38924804355222864},{"id":"commodity-futures","type":"Topic","directScore":0,"derivedScore":0.6698423500056708},{"id":"energy","type":"Classification","directScore":0,"derivedScore":0.6698423500056708},{"id":"futures-markets","type":"Topic","directScore":0,"derivedScore":0.6698423500056708},{"id":"markets","type":"Classification","directScore":0,"derivedScore":0.6698423500056708}]}</script>
+                <script id="page-level-ad-config-OXQICA6S972A01" type="application/json">{"url":"2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation","adCode":"business/news/pursuits","targeting":{"suid":"OXQICA6S972A01","page":"articlejav","currentResource":"Story|OXQICA6S972A01","ni":["ABUDHABI","AGRKEY","ALLFEA","ALLTOP","ALLWWCUR","AME","AMFEAT","ANIMAL","ANIMALTEST","ASFEAT","ASIA","ASIATOP","ASIAX","ATTACHMENT","BBIZ","BESTTOP","BGOVBILLGO","BGOVCODES","BIODIVERSE","BIZNEWS","BONDWIRES","BRIC","BRICECO","BUSINESS","CECO","CHECO","CHGOV","CHINA","CHPRES","CMDGLOMAC","CMDKEY","CNTOP","CNTOPZ3","CONS","CONSD","COS","ECO","EM","EMEAREGION","ENV","ENVTOP","EQUITYKEY","ESG","ESGCONTROV","ESGCOUNT","ESGENV","ESGLIFE","ESGRES","ESGSOC","EXCLUSIVE","FAMOFFNEWS","FEAS","FINNEWS","GCCMEMB","GEN","GOV","GULF","INDUSTRIES","LEI","LIFESTYLE","LOBBY","MAJOR","MENA","METALKEY","MIDEAST","MISC","MSCIEMAS","MSCIEMEUR","MSCIWORLD","NASIA","NGOS","NRGKEY","OILKEY","ONWEB","ORIGINAL","PHILANTHRO","PHOTO","POL","POLIRISK","PURSUITS","READ","READ100","READ25","READ50","RECFAC","REGIONFILT","RESNEWS","REVIEWS","RUNEWS","SPEND","SPREGIONS","SRCRANK1","SUSTAIN","TIMECO","TIMENI","TOP","TOPBIZMKT","TRAVEL","TRVLREV","UAE","WEALTH","WORLD","WWTOP","WWTOPAM","WWTOPAS","WWTOPBIZ","WWTOPFEAT","WWTOPZ3"],"tagr":["travel_culture"],"kwl":["biz_goldman_q2","biz_xojet","biz_testing123","biz_exxonmobil","biz_wemicrosoft","biz_ubsbannedlist","biz_lincoln","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_googlelisthree","biz_synchrony","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe","biz_zurichsmartmatch","biz_nomurakeywords","biz_etrade","biz_bp1","biz_bp2","biz_bp3","biz_bp4","biz_schwab","biz_fidelity","biz_ibm3","biz_dit_terrorism","biz_kornferry","biz_generic","biz_fti","biz_lexus1","biz_brandusa","biz_lexus2","biz_singlecountry","biz_BMW","biz_att1","biz_mobkoimandslist","biz_tdameritrade","biz_ADGMNegativeList","biz_att3","biz_att4","biz_att5","biz_att6","biz_att7","biz_facebook1","biz_facebook2"],"tickers":[]},"disableAds":false}</script>
+                
+    <div class="lede-text-only lede">
+        <div class="lede-text-only__background">
+            <div class="background-image"></div>
+            <div class="background-dots"></div>
+            <div class="background-fade"></div>
+        </div>
+        <div class="lede-text-only__container">
+            <div class="lede-text-only__content">
+                <div class="eyebrow" data-label="Philanthropy">Philanthropy</div>
+                <h1 class="lede-text-only__hed"><span class="lede-text-only__highlight">Beijing Philanthropist Commits $1.5 Billion to Conservation</span></h1>
+                <div class="lede-text-only__dek">
+                <span class="lede-text-only__highlight">
+                    In China, a culture of environmental awareness is breaking through the smog. And leading the charge is He Qiaonv, one of the country’s wealthiest women and most ardent conservationists.
+                </span>
+            </div>
+        
+                <address class="lede-text-only__byline">By <div class="author">Nikki Ekstein
+        <div class="author__modal">
+            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/nikkiekstein" target="_blank">@nikkiekstein</a>
+            
+            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/AS16Emm_2_s/nikki-ekstein" rel="author">More stories by Nikki Ekstein</a>
+        </div>
+    </div></address>
+                
+                <div class="lede-text-only__times">
+                    
+        <time class="article-timestamp" itemprop="datePublished" datetime="2017-10-12T23:52:58.532Z" data-type="updated">
+            
+        <script class="article-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>October 12, 2017, 7:52 PM EDT</noscript>
+    
+        </time>
+    
+                    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+                <div class="content-well">
+                    <section class="main-column">
+                        
+                        
+                        
+        <div class="body-copy">
+            <figure align="center" data-align="center" data-id="319138946" data-image-size="column" data-type="image" style="max-width: 2200px;" class="figure-expandable"><div class="image"><div id="lazy-img-319138946" class="lazy-img"><style>#lazy-img-319138946:before{padding-top:66.68181818181817%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWas2XDNf6ao/v1/60x-1.jpg" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWas2XDNf6ao/v1/-1x-1.jpg" class="lazy-img__image"></div></div><figcaption><div class="news-figure-caption-text caption">Madame He Qiaonv.</div><div class="news-figure-credit credit">Source: Panthera</div></figcaption></figure><p>This Saturday, Oct. 14, in Monaco, He Qiaonv will announce the first step in a $1.5 billion plan that may represent the largest-ever personal philanthropic commitment to wildlife conservation.&#xA0;</p><div class="regwall" data-position="1"></div><p>The number isn&#x2019;t the only thing that&#x2019;s surprising about the announcement. The source might equally raise eyebrows: The donation isn&#x2019;t coming from a known&#xA0;Western conservationist like&#xA0;<a href="https://www.bloomberg.com/news/features/2017-05-09/paul-allen-is-using-technology-to-save-the-african-elephant" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="StoryLink" itemprop="type">Paul Allen</a>, but from a landscape planner-turned-environmental steward who&#x2019;s based in Beijing.</p><div class="regwall" data-position="2"></div><figure align="left" data-align="left" data-id="319128930" data-image-size="column" data-type="image" class="figure-expandable"><div class="image"><div id="lazy-img-319128930" class="lazy-img"><style>#lazy-img-319128930:before{padding-top:150.27322404371586%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivGlHhUlT9vY/v2/60x-1.jpg" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivGlHhUlT9vY/v2/-1x-1.jpg" class="lazy-img__image"></div></div><figcaption><div class="news-figure-caption-text caption">Tom Kaplan,&#xA0;founder and chairman of Panthera.</div><div class="news-figure-credit credit">Photographer: Steve Winter/Panthera</div></figcaption></figure><p>Madame He represents a new wave of self-made Chinese philanthropists unafraid to spend; her seven-year pledge stands at more than a third of her current $3.6 billion net worth, according to the Bloomberg Billionaires Index.</p><div class="regwall" data-position="3"></div>
+        <div id="box-RXz25Mf" class="page-ad" data-position="mobile-box">
+            <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"box","dimensions":{"mobile":[[300,250],[1,1]]},"type":"Mobile Body Box Ad","positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"box-RXz25Mf"}</script>
+            <div class="mobile-box-ad-dummy"></div>
+        </div>
+        <p>&#x201C;[China is] pivoting to a new narrative in record speed,&#x201D; said Tom Kaplan, founder and chairman of <a href="https://www.panthera.org/" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener"><meta content="WebLink" itemprop="type">Panthera</a>, the leading wild cat conservation organization and He&#x2019;s first international partner. &#x201C;Their [global] reputation has suffered by being viewed as the scourge of the elephant and tiger&#x2014;and they want to reverse this.&#x201D;</p><div class="regwall" data-position="4"></div><p>As part of their partnership, He&#x2019;s namesake <a href="http://en.cgpi.org.cn/content/details16_524.html" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener"><meta content="WebLink" itemprop="type">Beijing Qiaonv Foundation</a> (BQF) is pledging $20 million toward&#xA0;Chinese snow leopard and other projects at Panthera&#x2014;significant for an organization whose annual operating budget hovers around $14 million. And doubly significant given that threatened cats in China had yet to be put under such a bright&#xA0;spotlight as, say, <a href="https://www.bloomberg.com/news/articles/2016-08-16/see-and-help-save-namibia-s-desert-lions-before-it-s-too-late" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="StoryLink" itemprop="type">lions in Africa</a>.</p><p>With the emergence of Chinese leadership in this area, Kaplan says Qiaonv&#x2019;s pledge stands to change the face of cat conservation forever. &#x201C;One day this event may be seen as a watershed.&#x201D;</p><h2>Private Wealth, Public Commitments</h2><figure align="center" data-align="center" data-id="319128668" data-image-size="column" data-type="image" style="max-width: 2200px;" class="figure-expandable"><div class="image"><div id="lazy-img-319128668" class="lazy-img"><style>#lazy-img-319128668:before{padding-top:66.68181818181817%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQi6Q6jJlkb8/v2/60x-1.jpg" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQi6Q6jJlkb8/v2/-1x-1.jpg" class="lazy-img__image"></div></div><figcaption><div class="news-figure-caption-text caption">Madame He&#x2019;s work is possible thanks to public-private partnerships under China&#x2019;s progressive president, Xi Jinping.</div><div class="news-figure-credit credit">Photographer: Krisztian Bocsi/Bloomberg</div></figcaption></figure><p>In China, domestic private conservation work still requires the collaboration of the government, as private landownership&#x2014;and therefore, privately managed nature reserves&#x2014;are not allowed under Chinese law. But under Xi Jinping&#x2019;s leadership, these private-public partnerships are becoming possible.</p><p>Xi has emerged as an unlikely environmental leader after the U.S. dropped out of the Paris climate accord. Skeptics may think of this as rhetoric aimed at filling a political gap, but he has already made moves by <a href="https://www.nytimes.com/2016/12/30/world/asia/china-ivory-ban-elephants.html?_r=0" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener"><meta content="WebLink" itemprop="type">banning the illegal ivory trade</a> by the end of 2017, putting forth a long-term proposal t<meta content="WebLink" itemprop="type">o <a href="http://money.cnn.com/2017/09/11/news/china-gas-electric-car-ban/index.html" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener">eliminate&#xA0;gasoline-powered cars</a>, and creating the country&#x2019;s first tiger and Amur leopard reserve near the Russian border. It&#x2019;s one of 30 to 50 new conservation zones the government has promised by 2020.&#xA0;</p>
+        <div id="in-article-owkbVJm" class="page-ad" data-position="in-article">
+            <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"in-article","dimensions":{"mobile":[[5,19],[300,250],[1,1]],"tablet":[[5,19],[728,90],[1,1]]},"type":"In Article Flex Native Ad","positionIncrement":1,"targeting":{"position":"in-article","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"in-article-owkbVJm"}</script>
+            <div class="in-article-ad-dummy"></div>
+        </div>
+        <p>All this stands in sharp contrast with other realities in China: Combating air pollution, the most visible sign of China&#x2019;s environmental issues, <a href="/news/terminal/OV5VBY3H0JK0" itemprop="StoryLink" itemscope="itemscope" target="_blank" class="terminal-news-story" rel="nofollow noopener"><meta content="StoryLink" itemprop="type">continues to be a work in progress</a>. And the country is still <a href="https://www.bloomberg.com/view/articles/2017-04-04/how-china-can-become-a-true-climate-leader" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="StoryLink" itemprop="type">a major proponent of coal</a>, despite cuts to its <a href="https://www.bloomberg.com/news/articles/2016-03-05/china-sets-energy-consumption-cap-that-researcher-deems-loose" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="StoryLink" itemprop="type">overall energy consumption</a>.</p><p>But change is underway. &#x201C;When the Chinese government decides to do something, they do it,&#x201D; Kathryn Sheridan, CEO of a Brussels-based sustainability communications consultancy, <a href="https://www.reuters.com/article/us-environment-china/in-china-64-percent-say-they-are-environmentalists-report-idUSKBN0DN01H20140507" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener">told Reuters</a>. &#x201C;It&#x2019;s not the talking shop that we see in Europe.&#x201D;</p><p>Kaplan likens this moment in Chinese history to 19th century America, when the U.S. was making the move from rural to industrial society. &#x201C;The water and air were being polluted in the rush for economic growth, and wildlife was obliterated&#x2014;we nearly destroyed our own national symbol, the bald eagle,&#x201D; he explained. &#x201C;No nation has a monopoly on virtue, but it is also true that we can learn from history. The Chinese are experts at precisely that.&#x201D;</p><p>Madame He agrees that the collaboration of China&#x2019;s ultra-rich with their government marks a turning point for the country. &#x201C;The public awareness of environmental protection is gradually increasing in China,&#x201D; she told Bloomberg.&#xA0;</p><h2>From Landscaper to Global Conservationist</h2><figure align="center" data-align="center" data-id="319128803" data-image-size="column" data-type="image" style="max-width: 2200px;" class="figure-expandable"><div class="image"><div id="lazy-img-319128803" class="lazy-img"><style>#lazy-img-319128803:before{padding-top:63.54545454545455%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6G1BFrGE3QI/v2/60x-1.jpg" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6G1BFrGE3QI/v2/-1x-1.jpg" class="lazy-img__image"></div></div><figcaption><div class="news-figure-caption-text caption">A Siberian tiger at the Hengdaohezi Breeding Center in&#xA0;Heilongjiang province, China.</div><div class="news-figure-credit credit">Photographer: China Photos/Getty Images AsiaPac</div></figcaption></figure><p>Madame He&#x2019;s affinity for the environment is what drove her into landscaping and resource management in the first place. But her vision for how she could contribute toward&#xA0;the greater good of the planet has evolved over time.</p><p>&#x201C;At the very beginning, the dream of our business was to build 100 of the most beautiful parks in 100 cities of China,&#x201D; said He of <a href="https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=51181490" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="WebLink" itemprop="type">Beijing Orient Landscape Co.</a>, the company she built from scratch and continues to oversee as chairman. What she found along the way were polluted water systems and depleted urban ecology.</p><p>In 2012&#xA0;she founded Beijing Qiaonv Foundation with the goal of resolving some of the world&#x2019;s most pressing environmental issues. Among her priorities were establishing key conservation areas within her home country; identifying native species in the greatest need of protection; and lobbying the government, partnering with international organizations, and supporting domestic NGOs to create meaningful change that could impact global biodiversity and carbon dioxide levels.</p><p>As He put it, &#x201C;We believe that protecting China is to protect the whole Earth.&#x201D;</p><p>Private investments like hers matter. As we see <a href="https://www.bloomberg.com/news/articles/2017-10-06/trump-quietly-stalls-safeguards-for-dozens-of-endangered-species" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="StoryLink" itemprop="type">happening now in the U.S.</a>, official Chinese priorities could easily shift, unraveling or putting a halt to progress that was quickly made. Partnerships with global players such as Kaplan and Bill Gates, who has worked with He through the <a href="http://en.cgpi.org.cn/index.html" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener"><meta content="WebLink" itemprop="type">China Global Philanthropy Institute</a> (CGPI), mean that He&#x2019;s fundraising commitments are being given extra measures of accountability. Just as important, they&#x2019;re also being given a proven toolkit with which to succeed.</p><h2>A Training Kit Imported From the West</h2><figure align="center" data-align="center" data-id="319128872" data-image-size="column" data-type="image" style="max-width: 2200px;" class="figure-expandable"><div class="image"><div id="lazy-img-319128872" class="lazy-img"><style>#lazy-img-319128872:before{padding-top:66.63636363636364%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifySofg.acg8/v1/60x-1.jpg" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifySofg.acg8/v1/-1x-1.jpg" class="lazy-img__image"></div></div><figcaption><div class="news-figure-caption-text caption">A snow leopard, whose habitat is Central Asia.&#xA0;</div><div class="news-figure-credit credit">Photographer: Thomas Kitchin Victoria Hurst/First Light</div></figcaption></figure><p>With 79 projects already underway in 26 provinces&#x2014;including everything from Asian elephant conservation to wetland protection&#x2014;BQF didn&#x2019;t need international validation or support to start making a difference. But at last year&#x2019;s East-West Sustainability Summit in Honolulu, which was convened in partnership with&#xA0;CGPI, He shared a table with some of the world&#x2019;s biggest players in conservation, including Nicole Mollo, the executive director of environmental philanthropy at the Recanati-Kaplan Foundation, the Panthera&#xA0;founder&#x2019;s private organization.</p><p>&#x201C;Things [in China] are changing under the global radar,&#x201D; said Mollo, who went on to broker the partnership between Panthera and BQF, helping to establish both the financial scope and environmental goals that the partnership would support. &#x201C;They have the will and frankly they have the resources&#x2014;what they are missing is a middle tier of expertise. They don&#x2019;t know what it means to manage a protected area, to train a ranger, or to work with communities and livestock.&#x201D;</p><p>That&#x2019;s why the partnership with Panthera marks a meaningful shift in He&#x2019;s work: With the organization&#x2019;s help, BQF will create and staff two protected snow leopard reserves that will serve as pilot areas and can be scaled over time, while simultaneously underwriting a wildlife management training program for Chinese conservationists. Then she&#x2019;ll turn her attention to building hundreds of urban classrooms where &#x201C;hundreds of millions of people can visit and learn&#x201D; about conservation.</p><h2>Big Goals, Big Impact</h2><figure align="center" data-align="center" data-id="319128901" data-image-size="column" data-type="image" style="max-width: 2200px;" class="figure-expandable"><div class="image"><div id="lazy-img-319128901" class="lazy-img"><style>#lazy-img-319128901:before{padding-top:66.68181818181817%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOB3esT6Md.o/v1/60x-1.jpg" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOB3esT6Md.o/v1/-1x-1.jpg" class="lazy-img__image"></div></div><figcaption><div class="news-figure-caption-text caption">Snow leopard in winter.</div><div class="news-figure-credit credit">Photographer: through-my-lens/iStockphoto</div></figcaption></figure><p>Even if He only accomplishes a quarter of what she sets out to do with her $1.5 billion pledge, she stands to make a massive impact.</p><p>In some ways, she already has. While the $20 million contribution to Panthera&#xA0;matches the commitments made by several global figureheads&#x2014;Mohammed bin Zayed, the crown prince of Abu Dhabi&#x2014;a 10-figure pledge is&#xA0;&#x201C;unheard of.&#x201D; That&#x2019;s according to&#xA0;Mollo, who has facilitated some of the largest recorded contributions to conservation organizations over her years at the African Parks Foundation and the Wildlife Conservation Society.</p><aside class="inline-newsletter" data-state="ready"></aside><p>She said the largest donation she&#x2019;s seen on record was <a href="http://www.wyssfoundation.org/news/the-wyss-foundation-commits-65m-to-african-parks-to-secure-protected-areas-in-africa" itemprop="StoryLink" itemscope="itemscope" target="_blank" rel="nofollow noopener"><meta content="WebLink" itemprop="type">a $65 million commitment over 10 years</a>; pledges in the hundreds of millions, like Gates&#x2019;s&#xA0;<a href="https://www.bloomberg.com/news/articles/2017-08-14/gates-makes-largest-donation-since-2000-with-4-6-billion-pledge" itemprop="StoryLink" itemscope="itemscope" target="_blank"><meta content="StoryLink" itemprop="type">recent $5 billion pledge</a> to his health care- and education-focused foundation, are generally made to universities, hospitals, or cultural institutions with naming opportunities attached to them. In the conservation world? It&#x2019;s not something she&#x2019;d ever seen before. To wit, a spokesperson for the National Audubon Society confirmed that the organization&#x2019;s recent &#x201C;large donations&#x201D; have rarely reached the seven-figure level&#x2014;and its largest contributions have come from groups like the MacArthur Foundation rather than individuals.</p><p>Added Mollo, &#x201C;I would be the first one to bash China for what they&#x2019;ve done wrong, but that strategy will not get us anywhere. And when they put their money where their mouth is, it is our job to support them.&#x201D;</p><ol class="noscript-footnotes"></ol>
+        </div>
+    
+                        
+                        
+                        <div class="touts">
+                            
+    <div class="terminal-tout-container">
+        <div class="terminal-tout">
+            <span class="terminal-tout__text">Before it's here, it's on the Bloomberg Terminal.</span>
+            <div class="terminal-tout__icon"></div>
+            <a href="https://bloom.bg/dg-ws-core-bcom-a1" class="terminal-tout__link">LEARN MORE</a>
+        </div>
+    </div>
+                            
+        <div class="secure-tip-tout">
+            <a class="secure-tip-tout__link" href="https://www.bloomberg.com/tips/">Have a confidential news tip?<br>Get in touch with our reporters.</a>
+        </div>
+                        </div>
+                        
+                        
+                        
+                        
+        <script id="page-level-taboola-config-OXQICA6S972A01" type="application/json">{"url":"https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"}</script>
+        <div id="taboola-below-article-thumbnails-60153ffc2cb0be70028ddd8c92e65ad2" class="taboola"></div>
+    
+                    </section>
+                    <aside class="right-rail">
+                        
+                        
+                        <div class="dry-container">
+                        </div>
+                        <div class="sticky-container">
+                            
+                            
+    <div id="box-fke9BbC" class="box rotation-item page-ad" data-position="box">
+        <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"box","dimensions":{"small_desktop":[[300,600],[300,250],[1,1]],"large_desktop":[[300,600],[300,250],[1,1]]},"positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"box-fke9BbC"}</script>
+    </div>
+    
+                            
+        <div class="recirc rotation-item">
+            <div class="recirc__title">Read This Next</div>
+            <ol class="recirc__list">
+                
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-06/whistler-north-america-s-best-ski-resort-is-about-to-get-even-better">North America&#x2019;s Best Ski Resort Is About to Get Even Better</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-05/how-you-can-help-the-caribbean-by-planning-a-vacation-right-now">How You Can Help the Caribbean by Planning a Vacation Right Now</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/features/2017-07-27/ethical-elephant-riding-in-thailand-at-anantara-golden-triangle">Saving Elephants, One Unforgettable Vacation at a Time</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-07-20/seabourn-encore-alaska-cruises-get-you-intimate-with-adventure">This New Alaskan Cruise Is the One for Your Bucket List</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-05-25/my-best-trip-ever-richard-branson-on-his-italian-cycling-odyssey">My Best Trip Ever: Richard Branson on an Italian Cycling Odyssey</a>
+        </li>
+            
+    <li id="readthisnext-prDGwxC" class="recirc__list-item recirc__list-item-ad" data-position="readthisnext">
+        <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"readthisnext","dimensions":{"small_desktop":[[5,18],[1,1]],"large_desktop":[[5,18],[1,1]]},"positionIncrement":1,"targeting":{"position":"readthisnext1","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"readthisnext-prDGwxC"}</script>
+    </li></ol>
+        </div>
+                            
+        <div class="recirc rotation-item">
+            <div class="recirc__title">Most Read</div>
+            <ol class="recirc__list">
+                
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/hamptons-mansions-pile-up-while-buyers-battle-over-smaller-homes">Hamptons Buyers Battle Over Cheaper Homes &#x2014; That Is, Under $3.3 Million</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/rising-rents-are-pushing-more-tenants-past-the-breaking-point">Rising Rents Are Pushing More Tenants Past the Breaking Point</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/drug-wholesalers-slump-after-amazon-com-obtains-state-licenses">Amazon Threat Causes Shakeout in the Health-Care Industry</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/billionaires-fortunes-rise-to-6-trillion-with-asia-leading-way">Asia Now Has More Billionaires Than the U.S.</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-25/inside-apple-s-struggle-to-get-the-iphone-x-to-market-on-time">Inside Apple&#x2019;s Struggle to Get the iPhone X to Market on Time</a>
+        </li>
+            
+    <li id="trendingnow-bSyBD07" class="recirc__list-item recirc__list-item-ad" data-position="trendingnow">
+        <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"trendingnow","dimensions":{"small_desktop":[[5,18],[1,1]],"large_desktop":[[5,18],[1,1]]},"positionIncrement":1,"targeting":{"position":"trendingnow1","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"trendingnow-bSyBD07"}</script>
+    </li></ol>
+        </div>
+                        </div>
+                    </aside>
+                </div>
+            </article>
+        
+                        
+    <div id="native-yQuCVBm" class="native page-ad" data-position="native">
+        <script class="params" type="application/json">{"contentId":"OXQICA6S972A01","position":"native","dimensions":{"all":[[5,16],[5,5],[5,2],[1,1]],"mobile":[[300,250]]},"type":"Native Transporter Ad","positionIncrement":1,"targeting":{"position":"native1","positionIncrement":1,"url":"/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation"},"containerId":"native-yQuCVBm"}</script>
+    </div>
+    
+                    </div>
+                </main>
+                <footer class="bb-global-footer"> <div class="bb-global-footer__content"> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/tos">Terms of Service</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/trademarks">Trademarks</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/privacy">Privacy Policy</a> <small class="bb-global-footer__copyright">©2017 Bloomberg L.P. All Rights Reserved</small> </div> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer">Careers</a> <a class="bb-global-footer__link" href="http://nytm.org/made-in-nyc">Made in NYC</a> <a class="bb-global-footer__link" href="http://bloombergmedia.com/">Advertise</a> <a class="bb-global-footer__link bb-global-footer__ad-choices" href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/feedback">Website Feedback</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/help">Help</a> </div> </div> </footer>
+                
+        <script>
+            window["jvln-asset-prefix"] = "https://assets.bwbx.io/s3/javelin";
+        </script>
+        <script class="dependencies" type="application/json">
+            {"css":["/public/javelin/css/application/application-08d1bf1521.css","/public/javelin/css/layout/basic/basic-19331a57e5.css","/public/javelin/css/layout/basic/basic-e57e2909c7.desktop.css","/public/javelin/css/layout/basic/basic-feab898b86.small_desktop.css","/public/javelin/css/layout/basic/basic-a69847c3fa.large_desktop.css","/public/javelin/css/layout/basic/basic-3728b26bcb.tablet.css","/public/javelin/css/layout/basic/basic-80068e7b37.mobile.css","/public/javelin/css/nav/bb/nav-28e2d17016.css","/public/javelin/css/components/breaking_news_placeholder/breaking_news-181cec3985.desktop.css","/public/javelin/css/components/image_viewer/image_viewer-d6c4cb4d6d.css","/public/javelin/css/components/image_viewer/image_viewer-44ae116396.desktop.css","/public/javelin/css/components/image_viewer/image_viewer-90a9b24409.mobile-tablet.css","/public/javelin/css/components/image_viewer/image_viewer-0e5ec91ea4.mobile.css","/public/javelin/css/print/print-ffa68fd905.css","/public/javelin/css/components/truste/truste-6f53efc220.css","/public/javelin/css/components/truste/truste-323c682892.small_desktop.css","/public/javelin/css/components/truste/truste-5679a9f67c.large_desktop.css","/public/javelin/css/components/truste/truste-932ba91b49.tablet.css","/public/javelin/css/components/truste/truste-53c717658f.mobile.css","/public/javelin/css/ads/leaderboard/leaderboard-f7160e7776.css","/public/javelin/css/ads/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css","/public/javelin/css/ads/native/native-15685ecbee.css","/public/javelin/css/components/lazy_images/lazy_image-7dc0452705.css","/public/javelin/css/components/abstract/abstract-762d163070.css","/public/javelin/css/components/author_tout/author_tout-c6e448ba2b.css","/public/javelin/css/components/author_tout/author_tout-e273b6df99.mobile.css","/public/javelin/css/body/basic/body-d998ba8eeb.css","/public/javelin/css/body/basic/newsletter_tout-7104a5317e.css","/public/javelin/css/body/basic/outstream_ad-c21b3ed6be.css","/public/javelin/css/body/basic/body-75cdc2b544.desktop.css","/public/javelin/css/body/basic/in_article_ad-238ed3378a.desktop.css","/public/javelin/css/body/basic/body-e74c024d6f.large_desktop.css","/public/javelin/css/body/basic/body-e886f59cb3.tablet-desktop.css","/public/javelin/css/body/basic/mobile_ads-10915d4c59.tablet-desktop.css","/public/javelin/css/body/basic/body-b820c41d19.tablet.css","/public/javelin/css/body/basic/in_article_ad-302586dffe.tablet.css","/public/javelin/css/body/basic/in_article_ad-b789d79511.mobile-tablet.css","/public/javelin/css/body/basic/body-6689773bd7.mobile.css","/public/javelin/css/body/basic/in_article_ad-a8500fe5ea.mobile.css","/public/javelin/css/body/basic/mobile_ads-95f94f08a6.mobile.css","/public/javelin/css/body/basic/newsletter_tout-12eaa8fd13.mobile.css","/public/javelin/css/ledes/basic/text_only/text_only-9bf4006248.css","/public/javelin/css/ledes/basic/text_only/text_only-bb5da368ce.desktop.css","/public/javelin/css/ledes/basic/text_only/text_only-6a33ad34f5.small_desktop.css","/public/javelin/css/ledes/basic/text_only/text_only-b17a45ed53.large_desktop.css","/public/javelin/css/ledes/basic/text_only/text_only-7472f45bf8.tablet.css","/public/javelin/css/ledes/basic/text_only/text_only-b95e829bc6.mobile.css","/public/javelin/css/components/author_details/author_details-f6d8baf35e.css","/public/javelin/css/components/recirc/recirc-753ad6df8e.css","/public/javelin/css/ads/terminal_tout/terminal_tout-f96d849049.css","/public/javelin/css/ads/terminal_tout/terminal_tout-b55b132f21.mobile.css","/public/javelin/css/ads/secure_tip_tout/secure_tip_tout-0250568d0e.css","/public/javelin/css/themes/pursuits/pursuits-c8a98811b2.css"],"js":["/public/javelin/js/pwa/pwa-fa16a7fd08.js","/public/javelin/js/layout/basic/right_rail-7dc495bd15.desktop.js","/public/javelin/js/nav/bb/nav-f87ced8470.js","/public/javelin/js/components/breaking_news_placeholder/breaking_news_placeholder-e16f4bf9e4.js","/public/javelin/js/components/image_viewer/image_viewer-1286fdbee3.js","/public/javelin/js/ads/initialize/initialize_ads-9aedc7a132.js","/public/javelin/js/transporter/transporter-73919e3472.js","/public/javelin/js/components/truste/truste-6ac723d3b5.js","/public/javelin/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js","/public/javelin/js/components/lazy_images/lazy_images-e6cb415eb4.js","/public/javelin/js/components/third_party_embeds/third_party_embeds-ce53bf94e8.js","/public/javelin/js/components/timestamp/timestamp-9befc43f88.js","/public/javelin/js/components/video_player/video_player-d5716c6cb8.js","/public/javelin/js/polyfills/polyfills-8f68b333dc.js","/public/javelin/js/unsupportedBrowserMessage/unsupportedBrowserMessage-a2da9f94e7.async.js","/public/javelin/js/pianola/pianola-5cdb098e86.js","/public/javelin/js/components/author_details/author_details-06d9d1cb95.js","/public/javelin/js/ads/taboola/taboola-cd833d2439.js","/public/javelin/js/components/miniplayer/miniplayer-bae2db47a8.desktop.js","/public/javelin/js/dependencies/dependencies-36374e54c2.js"]}
+        </script>
+                <script class="content-data" type="application/json">{"adCode":"business/news/pursuits","attributor":"web-original","brand":"pursuits","secondaryBrands":["pursuits"],"byline":"Nikki Ekstein","franchise":null,"id":"OXQICA6S972A01","primaryCategory":"pursuits","categories":["pursuits"],"primarySite":"pursuits","publishedAt":"2017-10-12T23:52:58.532Z","seoHeadline":"Beijing Philanthropist He Qiaonv Commits $1.5 Billion to Conservation","slug":"2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation","textHeadline":"Beijing Philanthropist He Qiaonv Commits $1.5 Billion to Conservation","theme":"pursuits","topic":"Culture","twitterHandle":"luxury","twitterText":"Beijing philanthropist commits $1.5 billion to conservation","type":"article","url":"https://www.bloomberg.com/news/articles/2017-10-12/beijing-philanthropist-he-qiaonv-commits-1-5-billion-to-conservation","webOriginal":true}</script>
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/polyfills/polyfills-8f68b333dc.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/ads/initialize/initialize_ads-9aedc7a132.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/pianola/pianola-5cdb098e86.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:761px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/breaking_news_placeholder/breaking_news_placeholder-e16f4bf9e4.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/video_player/video_player-d5716c6cb8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:1021px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/miniplayer/miniplayer-bae2db47a8.desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:1021px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/layout/basic/right_rail-7dc495bd15.desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/author_details/author_details-06d9d1cb95.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/ads/taboola/taboola-cd833d2439.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/transporter/transporter-73919e3472.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://www.bbthat.com/assets/v1.4.0/that.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/nav/bb/nav-f87ced8470.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://nav.bloomberg.com/public/javascripts/global/bb-global-nav-ff73223b17.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/image_viewer/image_viewer-1286fdbee3.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/dependencies/dependencies-36374e54c2.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/lazy_images/lazy_images-e6cb415eb4.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/third_party_embeds/third_party_embeds-ce53bf94e8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/timestamp/timestamp-9befc43f88.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script src="https://assets.bwbx.io/s3/javelin/public/javelin/js/unsupportedBrowserMessage/unsupportedBrowserMessage-a2da9f94e7.async.js" type="text/javascript" async></script>
+                <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MNTH5N');</script><!-- End Google Tag Manager -->
+                <!-- Google Tag Manager (noscript) --><noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-MNTH5N' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+                
+        <div id="parsely-root" style="display: none">
+             <div id="parsely-cfg" data-parsely-site="bloomberg.com"></div>
+        </div>
+        <script>
+            (function(s, p, d) {
+            var h=d.location.protocol, i=p+"-"+s,
+               e=d.getElementById(i), r=d.getElementById(p+"-root"),
+               u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+               :"static."+p+".com";
+            if (e) return;
+            e = d.createElement(s); e.id = i; e.async = true;
+            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+            })("script", "parsely", document);
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/javelin/js/components/truste/truste-6ac723d3b5.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+            </body>
+        </html>
+    

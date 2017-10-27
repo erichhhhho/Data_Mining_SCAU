@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.manufacturing.net/mnet_favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+<meta name="google-site-verification" content="TH1uH0gx_PIg04pXCeNJ51ii3DWReybgdihGDnKkNck" />
+<meta property="idio:alchemy_entities" content="Apple, Zhang, U.S.-based Jabil, iPhone" />
+<meta property="idio:alchemy_concepts" content="Security guard, Security, Guard, IPhone" />
+<meta name="description" content="Hundreds of workers streamed through dark streets, blocking an entrance to an Apple iPhone supplier&#039;s factory in eastern China to protest unpaid bonuses and factory reassignments, two witnesses and a U.S. nonprofit group said Thursday." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.manufacturing.net/news/2017/10/workers-iphone-supplier-china-protest-unpaid-bonuses-0" />
+<link rel="shortlink" href="https://www.manufacturing.net/node/129694" />
+<meta property="og:site_name" content="Manufacturing.net" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.manufacturing.net/news/2017/10/workers-iphone-supplier-china-protest-unpaid-bonuses-0" />
+<meta property="og:title" content="Workers At iPhone Supplier In China Protest Unpaid Bonuses" />
+<meta property="og:description" content="Hundreds of workers streamed through dark streets, blocking an entrance to an Apple iPhone supplier&#039;s factory in eastern China to protest unpaid bonuses and factory reassignments, two witnesses and a U.S. nonprofit group said Thursday." />
+<meta property="og:updated_time" content="2017-10-23T09:31:39-04:00" />
+<meta property="article:published_time" content="2017-10-20T12:39:03-04:00" />
+<meta property="article:modified_time" content="2017-10-23T09:31:39-04:00" />
+    <title>Workers At iPhone Supplier In China Protest Unpaid Bonuses</title>
+    <link type="text/css" rel="stylesheet" href="https://abm-website-assets.s3.amazonaws.com/manufacturing.net/s3fs-public/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://abm-website-assets.s3.amazonaws.com/manufacturing.net/s3fs-public/css/css_Hp9ylHpa0LR6SCcXbHzn5rQAEeFTx-wXX9zNiNy-zs4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://abm-website-assets.s3.amazonaws.com/manufacturing.net/s3fs-public/css/css_6jTZZVzQY7O6ke6y-NAvhwufcIME0JnvFU-gtJCBCZw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://abm-website-assets.s3.amazonaws.com/manufacturing.net/s3fs-public/css/css_sZTHq3ChCcV2YsyS-G51fQTD4ixpq5njv4KaD7Pa4aQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://abm-website-assets.s3.amazonaws.com/manufacturing.net/s3fs-public/css/css_htD9irHzPJe2pSnn9uca4m40mlFWz-OPOuSalO1qEDk.css" media="print" />
+    <!--[if lte IE 8]><link rel="stylesheet" type="text/css" media="all" href="/sites/all/themes/abm_portal_parent/css/ie8.css"><![endif]-->
+    <script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];function getDomVariable() {    return s.eVar22; }  function getsid() {   var v = getDomVariable();   if (v == undefined || v == "") {     return s.c_r("ev22");   }  } 
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/misc/drupal.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["billboard"] = googletag.defineSlot("8866/MNET_Billboard", [[970, 250], [970, 30]], "dfp-ad-billboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["boombox_tower_hybrid"] = googletag.defineSlot("8866/MNET_Boombox_Tower_Hybrid", [[300, 600], [300, 250], [400, 500]], "dfp-ad-boombox_tower_hybrid")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["leaderboard_small_banner_hybrid"] = googletag.defineSlot("8866/MNET_Leaderboard_Small_Banner_Portal", [[728, 90], [468, 60]], "dfp-ad-leaderboard_small_banner_hybrid")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/beautytips/js/jquery.bt.min.js?v=0.9.5-rc1"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/beautytips/js/beautytips.min.js?v=7.x-2.x"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["clone_of_peelback"] = googletag.defineSlot("8866/MNET_Peelback_Portal", [1, 1], "dfp-ad-clone_of_peelback")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["clone_of_roadblock"] = googletag.defineOutOfPageSlot("8866/MNET_Roadblock_Portal", "dfp-ad-clone_of_roadblock")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["roadblock_modal"] = googletag.defineSlot("8866/MNET_Roadblock_Modal", [640, 480], "dfp-ad-roadblock_modal")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/custom/abm_recommended_content/abm_recommended_content.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/apachesolr_sort/apachesolr_sort.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/image_caption/image_caption.js?oy5n0a"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs(true);
+  googletag.pubads().disableInitialLoad();
+  googletag.pubads().setTargeting("MAN_Topics", "Labor");
+  googletag.pubads().setTargeting("url", "https://www.manufacturing.net/news/2017/10/workers-iphone-supplier-china-protest-unpaid-bonuses-0");
+});
+
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/custom/abm_sponsored_products/abm_sponsored_products.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/libraries/colorbox/jquery.colorbox-min.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/colorbox/js/colorbox.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/colorbox/js/colorbox_load.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/custom/abm_omniture/disqus.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/contrib/google_analytics/googleanalytics.js?oy5n0a"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-875251-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/custom/abm_roadblock/abm_roadblock.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_core/js/better-simple-slideshow.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_core/js/hammer.min.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_core/js/slideshow-init.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_core/js/core.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_core/js/featherlight.min.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_portal_parent/js/ads.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/themes/abm_portal_parent/js/search_modal.js?oy5n0a"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"abm_portal_mnet","theme_token":"gsDchA6nVk-2r8kUfcm1NXlQsFF9khxjb9cwVBM7aFQ","js":{"\/\/assets.adobedtm.com\/ebecacf1fa891aa00e33426aa2ec19b22802e3e8\/satelliteLib-d2f0e57e75346eafba7710d2befa506db87d9250-staging.js":1,"sites\/all\/modules\/custom\/abm_cookies\/s.js":1,"\/sites\/all\/modules\/custom\/abm_dfp_endpoint\/dfp_endpoint.js":1,"sites\/all\/modules\/custom\/abm_youtube\/abm_youtube.js":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"2":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"3":1,"4":1,"5":1,"sites\/all\/modules\/contrib\/beautytips\/js\/jquery.bt.min.js":1,"sites\/all\/modules\/contrib\/beautytips\/js\/beautytips.min.js":1,"6":1,"7":1,"8":1,"sites\/all\/modules\/custom\/abm_recommended_content\/abm_recommended_content.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/contrib\/image_caption\/image_caption.js":1,"9":1,"sites\/all\/modules\/custom\/abm_sponsored_products\/abm_sponsored_products.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/custom\/abm_omniture\/disqus.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"10":1,"sites\/all\/modules\/custom\/abm_roadblock\/abm_roadblock.js":1,"sites\/all\/themes\/abm_core\/js\/better-simple-slideshow.js":1,"sites\/all\/themes\/abm_core\/js\/hammer.min.js":1,"sites\/all\/themes\/abm_core\/js\/slideshow-init.js":1,"sites\/all\/themes\/abm_core\/js\/core.js":1,"sites\/all\/themes\/abm_core\/js\/featherlight.min.js":1,"sites\/all\/themes\/abm_portal_parent\/js\/ads.js":1,"sites\/all\/themes\/abm_portal_parent\/js\/search_modal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/calendar_tooltips\/calendar_tooltips.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/abm_productreleaseform3\/abm_productreleaseform3.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/content_type_extras\/css\/content_type_extras.css":1,"public:\/\/ctools\/css\/2613386cf54399ec32f5b24c91e92960.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/753d0607f5fbff6381a30ecc3355469b.css":1,"sites\/all\/modules\/custom\/abm_roadblock\/abm_roadblock.css":1,"sites\/all\/themes\/abm_portal_parent\/layout.css":1,"sites\/all\/themes\/abm_core\/css\/style.css":1,"sites\/all\/themes\/abm_core\/css\/featherlight.min.css":1,"sites\/all\/themes\/abm_portal_parent\/css\/styles.css":1,"sites\/all\/themes\/abm_portal_mnet\/css\/sites.css":1,"sites\/all\/themes\/abm_core\/css\/print.css":1}},"abm_cookies":{"ep":"http:\/\/api.manufacturing.net:8006\/subapi\/ul"},"site_uri":"manufacturing.net","abm_recommended_content":{"result":false},"abm_sitescout":{"abm_sitescout_beaconcode_0":"\u003Cscript type=\u0027text\/javascript\u0027\u003E\r\nvar ssa = \u0027f2d1cc85bdf40a40\u0027;\r\nvar ssaUrl = (\u0027https:\u0027 == document.location.protocol ? \u0027https:\/\/\u0027 : \u0027http:\/\/\u0027) + \u0027pixel.sitescout.com\/iap\/\u0027 + ssa;\r\nnew Image().src=ssaUrl;\r\n\u003C\/script\u003E","abm_sitescout_criteria_0":"2","abm_sitescout_beaconcode_1":"\u003Cscript type=\u0027text\/javascript\u0027\u003E\r\nvar ssa = \u002705bbd1b01eab912b\u0027;\r\nvar ssaUrl = (\u0027https:\u0027 == document.location.protocol ? \u0027https:\/\/\u0027 : \u0027http:\/\/\u0027) + \u0027pixel.sitescout.com\/iap\/\u0027 + ssa;\r\nnew Image().src=ssaUrl;\r\n\u003C\/script\u003E","abm_sitescout_criteria_1":"2","abm_sitescout_beaconcode_2":"\u003Cscript type=\u0027text\/javascript\u0027\u003E\r\nvar ssa = \u00274464b42c7618e5aa\u0027;\r\nvar ssaUrl = (\u0027https:\u0027 == document.location.protocol ? \u0027https:\/\/\u0027 : \u0027http:\/\/\u0027) + \u0027pixel.sitescout.com\/iap\/\u0027 + ssa;\r\nnew Image().src=ssaUrl;\r\n\u003C\/script\u003E","abm_sitescout_criteria_2":"0","abm_sitescout_beaconcode_3":"","abm_sitescout_criteria_3":"0","abm_sitescout_beaconcode_4":"\u003Cscript type=\u0027text\/javascript\u0027\u003E\r\nvar ssa = \u002728047a33d18baa55\u0027;\r\nvar ssaUrl = (\u0027https:\u0027 == document.location.protocol ? \u0027https:\/\/\u0027 : \u0027http:\/\/\u0027) + \u0027pixel.sitescout.com\/iap\/\u0027 + ssa;\r\nnew Image().src=ssaUrl;\r\n\u003C\/script\u003E","abm_sitescout_criteria_4":"0"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"modulepath":"sites\/all\/modules\/contrib\/video_filter"},"disqus":{"domain":"manufacturingnet","url":"https:\/\/www.manufacturing.net\/news\/2017\/10\/workers-iphone-supplier-china-protest-unpaid-bonuses-0","title":"Workers At iPhone Supplier In China Protest Unpaid Bonuses","identifier":"uuid\/729189a2-7706-4ad2-b162-51a37cd5684c","language":"en"},"disqusComments":"manufacturingnet","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"beautytips":{"calendar-tooltips":{"cssStyles":[],"cssSelect":".calendar-calendar .mini-day-on a, .calendar-calendar .day a, .calendar-calendar .mini-day-on span, .calendar-calendar .day span","contentSelector":"$(this).next().html()","trigger":["mouseover","mouseout"],"list":["cssStyles","contentSelector","trigger"]}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-129694 node-type-content-item" >
+<div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+
+<div id="page-wrapper">
+    <div id="page">
+
+        <div id="header">
+            <div class="section clearfix">
+                <div class="container">
+                    
+                      <div class="region region-header">
+    <div id="block-dfp-clone-of-peelback" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-clone_of_peelback-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-clone_of_peelback" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-clone_of_peelback");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+<div id="block-dfp-clone-of-roadblock" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-clone_of_roadblock-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-clone_of_roadblock" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-clone_of_roadblock");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+<div id="block-system-main-menu" class="block block-system nav-left block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" id="menu-home">Home</a></li>
+<li class="expanded"><span id="menu-channels" class="nolink">Channels</span><ul class="menu"><li class="first leaf"><a href="http://www.chem.info" id="menu-chem" class="expanded-logo">CHEM</a></li>
+<li class="leaf"><a href="http://www.foodmanufacturing.com" id="menu-fm" class="expanded-logo">FM</a></li>
+<li class="leaf"><a href="http://www.inddist.com" id="menu-id" class="expanded-logo">ID</a></li>
+<li class="leaf"><a href="http://www.impomag.com" id="menu-impo" class="expanded-logo">IMPO</a></li>
+<li class="leaf"><a href="http://www.mbtmag.com" id="menu-mbt" class="expanded-logo">MBT</a></li>
+<li class="last leaf"><a href="http://www.pharmpro.com" id="menu-pp" class="expanded-logo">PP</a></li>
+</ul></li>
+<li class="leaf"><a href="/topics/industry-40" id="menu-industry">Industry 4.0</a></li>
+<li class="expanded"><span id="menu-topics" class="nolink">Topics</span><ul class="menu"><li class="first leaf"><a href="/topics/aerospace">Aerospace</a></li>
+<li class="leaf"><a href="/topics/automotive">Automotive</a></li>
+<li class="leaf"><a href="/topics/e-commerce">E-Commerce</a></li>
+<li class="leaf"><a href="/topics/economics">Economics</a></li>
+<li class="leaf"><a href="/topics/energy">Energy</a></li>
+<li class="leaf"><a href="/topics/global">Global</a></li>
+<li class="leaf"><a href="/topics/iot">IoT</a></li>
+<li class="leaf"><a href="/topics/labor">Labor</a></li>
+<li class="leaf"><a href="/topics/operations">Operations</a></li>
+<li class="leaf"><a href="/topics/product-development">Product Development</a></li>
+<li class="leaf"><a href="/topics/recalls">Recalls</a></li>
+<li class="leaf"><a href="/topics/regulatory">Regulatory</a></li>
+<li class="leaf"><a href="/topics/software">Software</a></li>
+<li class="leaf"><a href="/topics/supply-chain">Supply Chain</a></li>
+<li class="last leaf"><a href="/topics/tech">Tech</a></li>
+</ul></li>
+<li class="expanded"><span id="menu-watch" class="nolink">Watch</span><ul class="menu"><li class="first leaf"><a href="http://manufacturingminute.manufacturing.net" id="menu-minute" class="expanded-logo">Manufacturing Minute</a></li>
+<li class="last leaf"><a href="http://quickhits.inddist.com" id="menu-qhits" class="expanded-logo">Quick Hits</a></li>
+</ul></li>
+<li class="leaf"><a href="/search/site" id="menu-search">Search</a></li>
+<li class="expanded"><span id="menu-social" class="nolink">Social</span><ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/pages/Manufacturingnet/382208778857" id="menu-facebook" class="expanded-logo" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="http://www.twitter.com/mnetnews" id="menu-twitter" class="expanded-logo" target="_blank">Twitter</a></li>
+<li class="last leaf"><a href="http://www.youtube.com/Manufacturingdotnet" id="menu-youtube" class="expanded-logo" target="_blank">YouTube</a></li>
+</ul></li>
+<li class="expanded"><span id="menu-guides" class="nolink">Guides</span><ul class="menu"><li class="first leaf"><a href="/company-directory" id="menu-directory" class="expanded-logo">Companies</a></li>
+<li class="last leaf"><a href="/products" id="menu-products" class="expanded-logo">Products</a></li>
+</ul></li>
+<li class="last leaf"><a href="/learn" id="menu-learn">Learn</a></li>
+</ul>  </div>
+</div>
+<div id="block-system-user-menu" class="block block-system nav-left block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://subscriptions.manufacturing.net?cmpid=navlink" id="menu-subscribe" target="_blank">Subscribe</a></li>
+<li class="leaf"><a href="/user/login">Login</a></li>
+<li class="last leaf"><a href="/user/register">Register</a></li>
+</ul>  </div>
+</div>
+  </div>
+
+                </div>
+
+            </div>
+        </div>
+        <!-- /.section, /#header -->
+
+        
+        
+        <div id="main-wrapper">
+            <div id="main" class="clearfix">
+                <div class="container">
+                        <div id="content">
+                            <div class="section">
+                                                                <a id="main-content"></a>
+                                                                                                <!--                                --><!--                                    <div-->
+<!--                                      class="tabs">--><!--</div>-->                                                                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="panel-flexible panels-flexible-one_two_one_grid clearfix" >
+<div class="panel-flexible-inside panels-flexible-one_two_one_grid-inside">
+<div class="panels-flexible-row panels-flexible-row-one_two_one_grid-2 panels-flexible-row-first clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-one_two_one_grid-2-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-one_two_one_grid-top panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-one_two_one_grid-top-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-dfp-leaderboard-small-banner-hybrid pane-dfp"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-leaderboard_small_banner_hybrid-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-leaderboard_small_banner_hybrid" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-leaderboard_small_banner_hybrid");
+    });
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-one_two_one_grid-main-row clearfix">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-one_two_one_grid-main-row-inside clearfix">
+<div class="panels-flexible-region panels-flexible-region-one_two_one_grid-center panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-one_two_one_grid-center-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-block pane-abm-social-add-this-share-toolbox-widget pane-abm-social"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="addthis_sharing_toolbox"></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-taxonomy"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-taxonomy field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/topics/labor" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Labor</a></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-non-featured-content-title-widget"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-non-featured-content-title-widget view-id-non_featured_content_title_widget view-display-id-block view-dom-id-8386c26dcb32ae9e19868276ffe0d859">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <h1 class="field-content">Workers At iPhone Supplier In China Protest Unpaid Bonuses</h1>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">Fri, 10/20/2017 - 12:39pm</span>  </span>  
+  <span class="views-field views-field-disqus-comment-count">        <span class="field-content"><a href="/news/2017/10/workers-iphone-supplier-china-protest-unpaid-bonuses-0#disqus_thread" data-disqus-identifier="uuid/729189a2-7706-4ad2-b162-51a37cd5684c">Comments</a></span>  </span>  
+  <div class="views-field views-field-views-conditional">        <span class="field-content">by Erika Kinetz, The Associated Press</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-body-paragraphs"  >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="paragraphs-items paragraphs-items-field-body-paragraphs paragraphs-items-field-body-paragraphs-full paragraphs-items-full">
+  <div class="field field-name-field-body-paragraphs field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-embedded-text" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-embedded-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hundreds of workers streamed through dark streets, blocking an entrance to an Apple iPhone supplier's factory in eastern China to protest unpaid bonuses and factory reassignments, two witnesses and a U.S. nonprofit group said Thursday.</p>
+<p>Jabil Inc., which runs the Green Point factory in Wuxi city, maintains that only 20 to 40 employees were actually protesting and the rest were night-shift workers trying to enter the factory, but vowed to take corrective action over the wage dispute.</p>
+<p>"As long as they can present evidence of promises by brokers we will help them to get paid," said a spokeswoman for U.S.-based Jabil, Lydia Huang.</p>
+<p>Jabil, in a statement late Thursday, said it was "committed to ensuring every employee is paid fairly and on time."</p>
+<p>Apple told the New York-based China Labor Watch that it was investigating and pledged to ensure that workers got fair compensation. "We are requiring Jabil to send a comprehensive employee survey to ascertain where gaps exist in payment and they must create an action plan that ensures all employees are paid for the promised bonus immediately," Apple said in the email to the nonprofit.</p>
+<p>The protest highlights the complexity of overseeing global supply chains that can involve hundreds of manufacturers and subcontractors, as well as third-party labor brokers — and their subcontractors — that are tasked with recruiting workers for those factories. Companies differ in the amount of responsibility they are willing to take on. Apple stepped up oversight and disclosure following a spate of negative reports about worker suicides and injuries at suppliers.</p>
+<p>After Tim Cook took over as chief executive, in 2011, Apple began publicly identifying top suppliers. It also publishes annual audits detailing labor and human rights performance throughout its global web of suppliers. Apple said it did comprehensive audits of 705 sites last year and documented significant improvements in compliance with its supplier code of conduct.</p>
+<p>"About 600 workers went protesting for failing to get their bonus," a worker who asked that only his family name, Zhang, be published for fear of retribution, said Thursday. He said that like many of his colleagues, he was promised a bonus of up to 7,000 yuan ($1,056) if he stayed for 45 days when he signed up for the job through a labor broker. "It has already been over three months but I still haven't got the money," he said.</p>
+<p>Tu Changli, a security guard at Jabil's Green Point factory, said a labor broker promised him 2,000 yuan ($302) if he stayed for two months. "I didn't get it at all," he said. He also said he saw hundreds of workers protesting. The company he said he works for, Wu Tai Security Co., declined comment.</p>
+<p>Tensions had been running high at Jabil's Green Point factory. Tu, the security guard, said he saw a worker talked down from the edge of a rooftop in late September. And Zhang said that on Sept. 30, he saw a security guard hit a worker with a wooden stick so hard the stick broke.</p>
+<p>Apple in its email to China Labor Watch said both incidents had to do with disputes with security guards, not underpayment, and added that it was working with Jabil "to make sure their security guards are properly trained to avoid and de-escalate situations."</p>
+<p>The current iPhone 8 and iPhone 8 plus had a 2 percent share of the iOS device market nearly a month after their launch, significantly lagging the 5 percent share grabbed by the iPhone 7 and iPhone 7 plus at a similar point last year, according to Localytics, a mobile engagement platform that analyzes iPhone adoption rates. Analysts attribute iPhone 8 sluggishness to the pending release of the iPhone X.</p>
+</div></div></div>  </div>
+</div>
+</div></div></div></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-apachesolr-search-mlt-001 pane-apachesolr-search"  >
+  
+        <h2 class="pane-title">
+      Related Reads    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="related-content">
+        <div class="related-item">
+                  <div class="image">
+              <a href="https://www.mbtmag.com/news/2016/11/china-rebuffs-trump-threat-take-steps-win-trade-edge?cmpid=verticalcontent"><img src="https://abm-website-assets.s3.amazonaws.com/mbtmag.com/s3fs-public/styles/related_thumb/public/featured_image/2016/11/USChinaTradeAP.jpg?itok=JY8ke7H1"></a>
+          </div>
+                <div class="links">
+            <h3><a href="https://www.mbtmag.com/news/2016/11/china-rebuffs-trump-threat-take-steps-win-trade-edge?cmpid=verticalcontent">China Rebuffs Trump Threat To Take Steps To Win Trade Edge</a></h3>
+                            <div class="search-logo">
+                    <img src="https://www.mbtmag.com/sites/all/themes/abm_channel_mbt/img/search-logo.png">
+                </div>
+                    </div>
+            </div>
+        <div class="related-item">
+                  <div class="image">
+              <a href="https://www.chem.info/news/2016/09/oil-pipeline-protest-turns-violent-southern-north-dakota?cmpid=verticalcontent"><img src="https://abm-website-assets.s3.amazonaws.com/chem.info/s3fs-public/styles/related_thumb/public/featured_image/2016/09/Pipeline%20Protest_Parr-1.jpg?itok=Nzzk-EVR"></a>
+          </div>
+                <div class="links">
+            <h3><a href="https://www.chem.info/news/2016/09/oil-pipeline-protest-turns-violent-southern-north-dakota?cmpid=verticalcontent">Oil Pipeline Protest Turns Violent in Southern North Dakota </a></h3>
+                            <div class="search-logo">
+                    <img src="https://www.chem.info/sites/all/themes/abm_channel_chem/img/search-logo.png">
+                </div>
+                    </div>
+            </div>
+        <div class="related-item">
+                  <div class="image">
+              <a href="https://www.chem.info/news/2016/06/chemists-find-new-way-recycle-plastic-waste-fuel?cmpid=verticalcontent"><img src="https://abm-website-assets.s3.amazonaws.com/chem.info/s3fs-public/styles/related_thumb/public/featured_image/2016/06/Plastics.jpg?itok=me9YY9fB"></a>
+          </div>
+                <div class="links">
+            <h3><a href="https://www.chem.info/news/2016/06/chemists-find-new-way-recycle-plastic-waste-fuel?cmpid=verticalcontent">Chemists Find New Way To Recycle Plastic Waste Into Fuel</a></h3>
+                            <div class="search-logo">
+                    <img src="https://www.chem.info/sites/all/themes/abm_channel_chem/img/search-logo.png">
+                </div>
+                    </div>
+            </div>
+        <div class="related-item">
+                  <div class="image">
+              <a href="https://www.mbtmag.com/news/2016/10/chinese-firm-says-it-did-all-it-could-ahead-cyberattack?cmpid=verticalcontent"><img src="https://abm-website-assets.s3.amazonaws.com/mbtmag.com/s3fs-public/styles/related_thumb/public/featured_image/2016/10/Disruptive-Cyberattac_Minn.jpg?itok=6XwI3DeZ"></a>
+          </div>
+                <div class="links">
+            <h3><a href="https://www.mbtmag.com/news/2016/10/chinese-firm-says-it-did-all-it-could-ahead-cyberattack?cmpid=verticalcontent">Chinese Firm Says It Did All It Could Ahead Of Cyberattack </a></h3>
+                            <div class="search-logo">
+                    <img src="https://www.mbtmag.com/sites/all/themes/abm_channel_mbt/img/search-logo.png">
+                </div>
+                    </div>
+            </div>
+    </div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-one_two_one_grid-sidebar panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-one_two_one_grid-sidebar-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-dfp-boombox-tower-hybrid pane-dfp"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-boombox_tower_hybrid-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-boombox_tower_hybrid" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-boombox_tower_hybrid");
+    });
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-one_two_one_grid-1 panels-flexible-row-last clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-one_two_one_grid-1-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-one_two_one_grid-bottom panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-one_two_one_grid-bottom-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-dfp-billboard pane-dfp"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-billboard-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-billboard" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-billboard");
+    });
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-disqus-disqus-comments pane-disqus"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="disqus_thread"><noscript><p><a href="http://manufacturingnet.disqus.com/?url=https%3A%2F%2Fwww.manufacturing.net%2Fnews%2F2017%2F10%2Fworkers-iphone-supplier-china-protest-unpaid-bonuses-0">View the discussion thread.</a></p></noscript></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+  </div>
+</div>
+  </div>
+                                                            </div>
+                        </div>
+
+                        
+                        
+                </div>
+
+                <!-- /.section, /#content -->
+            </div>
+        </div>
+        <!-- /#main, /#main-wrapper -->
+
+        <div id="footer">
+            <div class="section">
+                  <div class="region region-footer">
+    <div id="block-abm-static-blocks-fb-remarketing-script" class="block block-abm-static-blocks">
+
+    
+  <div class="content">
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '745881082149515');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=745881082149515&ev=PageView&noscript=1"
+        /></noscript>
+<!-- End Facebook Pixel Code -->  </div>
+</div>
+<div id="block-abm-recommended-content-deep-dive-body" class="block block-abm-recommended-content">
+
+    
+  <div class="content">
+        <script type="text/template" class="lead-gen-template">
+	    <div class="generated related-content">
+            <h2>Deeper Insights</h2>
+		    <div class="related-item">	
+		    	<% if ( rc.ss_related_image_url != null ){ %>
+		            <div class="image">
+		                <a href="<%- rc.url %>?cmpid=regwallcontent&utm_source=Deeper%20Insights"><img src="<%- rc.ss_related_image_url %>"></a>
+		            </div>
+	            <% } %>
+		        <div class="links">
+		            <h3><a href="<%- rc.url %>?cmpid=regwallcontent&utm_source=Deeper%20Insights" +
+    ""><%- rc.label %></a></h3>
+		            <% if ( rc.ss_search_logo != null ){ %>
+		                <div class="search-logo">
+		                    <img src="<%- rc.ss_search_logo %>">
+		                </div>
+		            <% } %>	                
+		        </div>
+	            <!--<small>Score: <%- rc.score %></small>-->
+		    </div>
+	    </div>
+    </script>
+  </div>
+</div>
+<div id="block-abm-static-blocks-hubspot-script" class="block block-abm-static-blocks">
+
+    
+  <div class="content">
+    <script type="text/javascript">
+    (function(d,s,i,r) {
+        if (d.getElementById(i)){return;}
+        var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+        n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/1743435.js';
+        e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+</script>  </div>
+</div>
+<div id="block-panels-mini-site-footer" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-flexible panels-flexible-grid_60_40 clearfix" id="mini-panel-site_footer">
+<div class="panel-flexible-inside panels-flexible-grid_60_40-inside">
+<div class="panels-flexible-region panels-flexible-region-grid_60_40-center panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-grid_60_40-center-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-block pane-menu-menu-social-footer-menu pane-menu"  >
+  
+        <h2 class="pane-title">
+      Connect with Manufacturing.net    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/pages/Manufacturingnet/382208778857" id="social-footer-facebook" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="http://www.twitter.com/mnetnews" id="social-footer-twitter" target="_blank">Twitter</a></li>
+<li class="last leaf"><a href="http://www.youtube.com/Manufacturingdotnet" id="social-footer-youtube" target="_blank">YouTube</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-standard-footer-menu pane-menu"  >
+  
+        <h2 class="pane-title">
+      Resources    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="https://www.advantagemedia.com/brands/manufacturingnet" target="_blank">About Us</a></li>
+<li class="leaf"><a href="http://register.manufacturing.net/media-kit-registration/" target="_blank">Advertising Info</a></li>
+<li class="leaf"><a href="/content/contact-us">Contact Us</a></li>
+<li class="leaf"><a href="https://www.advantagemedia.com/brands/manufacturingnet#editorial_guidelines_summa" target="_blank">Contributor Guidelines</a></li>
+<li class="leaf"><a href="/directory/faqs">Directory FAQs</a></li>
+<li class="leaf"><a href="https://www.advantagemedia.com/privacy-policy" target="_blank">Privacy Policy</a></li>
+<li class="leaf"><a href="http://www.manufacturing.net/product-releases/add">Product Announcement Form</a></li>
+<li class="leaf"><a href="http://subscriptions.manufacturing.net?cmpid=footerlink" target="_blank">Subscriptions</a></li>
+<li class="last leaf"><a href="/content/terms-conditions">Terms &amp; Conditions</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-topics-footer-menu pane-menu"  >
+  
+        <h2 class="pane-title">
+      Topics    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/topics/aerospace">Aerospace</a></li>
+<li class="leaf"><a href="/topics/automotive">Automotive</a></li>
+<li class="leaf"><a href="/topics/e-commerce">E-Commerce</a></li>
+<li class="leaf"><a href="/topics/economics">Economics</a></li>
+<li class="leaf"><a href="/topics/energy">Energy</a></li>
+<li class="leaf"><a href="/topics/global">Global</a></li>
+<li class="leaf"><a href="/topics/industry-40">Industry 4.0</a></li>
+<li class="leaf"><a href="/topics/iot">IoT</a></li>
+<li class="leaf"><a href="/topics/labor">Labor</a></li>
+<li class="leaf"><a href="/topics/operations">Operations</a></li>
+<li class="leaf"><a href="/topics/product-development">Product Development</a></li>
+<li class="leaf"><a href="/topics/recalls">Recalls</a></li>
+<li class="leaf"><a href="/topics/regulatory">Regulatory</a></li>
+<li class="leaf"><a href="/topics/software">Software</a></li>
+<li class="leaf"><a href="/topics/supply-chain">Supply Chain</a></li>
+<li class="last leaf"><a href="/topics/tech">Tech</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-abm-static-blocks-abm-copyright pane-abm-static-blocks"  >
+  
+      
+  
+  <div class="pane-content">
+    <p class="quiet">&copy; Copyright 2017 Advantage Business Media</p>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-grid_60_40-sidebar panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-grid_60_40-sidebar-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-abm-static-blocks-footer-subscription-form pane-abm-static-blocks"  >
+  
+      
+  
+  <div class="pane-content">
+    <iframe width="100%" height="100%" id="subscription-footer" src="//subscriptions.manufacturing.net/footer-form" frameborder="0" scrolling="no"></iframe>  </div>
+
+  
+  </div>  </div>
+</div>
+</div>
+</div>
+  </div>
+</div>
+<div id="block-abm-static-blocks-quantcast-script" class="block block-abm-static-blocks">
+
+    
+  <div class="content">
+    <!-- Quantcast Tag -->
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+    (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+    _qevents.push({
+        qacct:"p-jsEPJWTckjCbE"
+    });
+</script>
+<noscript>
+    <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-jsEPJWTckjCbE.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+</noscript>
+<!-- End Quantcast tag -->  </div>
+</div>
+<div id="block-abm-roadblock-abm-roadblock" class="block block-abm-roadblock">
+
+    
+  <div class="content">
+    <div id="shade">
+  <div id="roadblock">
+    <div id="btnClose">
+      <a href="" class="close">
+        <img src="/sites/all/modules/custom/abm_roadblock/close.svg" />
+      </a>
+    </div>
+
+    <div id="dfp-ad-roadblock_modal-wrapper" class="dfp-tag-wrapper">
+      <div id="dfp-ad-roadblock_modal" class="dfp-tag-wrapper" style="display: none;">
+<!--          <div class="slug">&nbsp;</div>-->
+        <script type="text/javascript">
+          googletag.cmd.push(function () {
+            googletag.display("dfp-ad-roadblock_modal");
+          });
+        </script>
+        <div id="google_ads_iframe_8866/MNET_Roadblock_Modal_0__container__" style="border: 0pt none;">
+          <iframe id="google_ads_iframe_8866/MNET_Roadblock_Modal_0" title="3rd party ad content" name="google_ads_iframe_8866/MNET_Roadblock_Modal_0" width="640" height="480" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  </div>
+</div>
+<div id="block-dfp-roadblock-modal" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-roadblock_modal-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-roadblock_modal" class="dfp-tag-wrapper">
+  <div class="slug"> </div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-roadblock_modal");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+  </div>
+            </div>
+        </div>
+        <!-- /.section, /#footer -->
+
+    </div>
+</div> <!-- /#page, /#page-wrapper -->  <div class="region region-page-bottom">
+    <!-- SiteCatalyst code version: H.24.4
+Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript" language="Javascript">s_account="abmmanufacturingnetdev,abmdev";</script>
+<script type="text/javascript" language="JavaScript" src="/sites/all/libraries/omniture/s_code.js"></script>
+<script type="text/javascript" language="JavaScript"><!--
+s.eVar44 = jQuery.cookie('__au') || '';
+
+s.linkInternalFilters="javascript:,google.com/cse,omeda.com,subscribe.advantagemedia.com,unsubscribe.advantagemedia.com,advantagemedia.com,manufacturing.net,subscriptions.manufacturing.net";
+s.prop18=s.eVar18="not logged in";
+s.prop20=s.eVar20="mnet";
+s.pageName=s.eVar11="mnet:news:2017:10:workers-iphone-supplier-china-protest-unpaid-bonuses-0";
+s.prop1=s.eVar1="mnet:news:2017:10:workers-iphone-supplier-china-protest-unpaid-bonuses-0";
+s.list3=s.prop45="Security guard|Security|Guard|IPhone|Apple|Zhang|U.S.-based Jabil|iPhone|China Labor Watch|Tu Changli|Green Point|Jabil Inc.|Jabil|Wu Tai Security Co.|Wuxi|SHANGHAI|Lydia Huang|China|Tim Cook|nonprofit group|U.S.|AP|iOS|human rights|chief executive|Localytics";
+s.prop5=s.eVar5="news item";
+s.eVar8=s.prop8="Erika Kinetz, The Associated Press";
+s.eVar7=s.prop7="129694";
+s.eVar6=s.prop6="Workers At iPhone Supplier In China Protest Unpaid Bonuses";
+s.list1=s.prop23="labor";
+s.prop37=s.eVar33="adean";
+s.prop35=s.eVar35="2017-10-20";
+s.prop36=s.eVar36="2017-10-23";
+</script>  </div>
+<script type="text/javascript" src="//assets.adobedtm.com/ebecacf1fa891aa00e33426aa2ec19b22802e3e8/satelliteLib-d2f0e57e75346eafba7710d2befa506db87d9250-staging.js"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/custom/abm_cookies/s.js?oy5n0a"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/abm_dfp_endpoint/dfp_endpoint.js?oy5n0a"></script>
+<script type="text/javascript" src="https://www.manufacturing.net/sites/all/modules/custom/abm_youtube/abm_youtube.js?oy5n0a"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(window).bind("load", function ()
+    {
+      var beaconcodeArray = [];
+      var criteriaArray = [];
+        
+      beaconcodeArray[0] = Drupal.settings.abm_sitescout.abm_sitescout_beaconcode_0;
+      criteriaArray[0] = Drupal.settings.abm_sitescout.abm_sitescout_criteria_0;
+    
+      beaconcodeArray[1] = Drupal.settings.abm_sitescout.abm_sitescout_beaconcode_1;
+      criteriaArray[1] = Drupal.settings.abm_sitescout.abm_sitescout_criteria_1;
+
+      beaconcodeArray[2] = Drupal.settings.abm_sitescout.abm_sitescout_beaconcode_2;
+      criteriaArray[2] = Drupal.settings.abm_sitescout.abm_sitescout_criteria_2;
+        
+      beaconcodeArray[3] = Drupal.settings.abm_sitescout.abm_sitescout_beaconcode_3;
+      criteriaArray[3] = Drupal.settings.abm_sitescout.abm_sitescout_criteria_3;
+
+      beaconcodeArray[4] = Drupal.settings.abm_sitescout.abm_sitescout_beaconcode_4;
+      criteriaArray[4] = Drupal.settings.abm_sitescout.abm_sitescout_criteria_4;
+           
+      for (i=0; i < 5; i++) { 
+         if (beaconcodeArray[i] != "") {
+           if (criteriaArray[i] == 0 && typeof s !== "undefined") {
+             // Only render beacon code for return visitors
+             if ("Repeat" == s.getNewRepeat()) {
+               jQuery("head").append(beaconcodeArray[i]);                 
+             }     
+           }
+           else if (criteriaArray[i] == 1 && typeof s !== "undefined") {
+             // Only render beacon code for product viewers
+             if ("product-releases item" == s.prop5 || "products item" == s.prop5) {
+               jQuery("head").append(beaconcodeArray[i]);
+             }   
+           }
+           else if (criteriaArray[i] == 2) {
+             // Render beacon code for all visitors
+             jQuery("head").append(beaconcodeArray[i]);
+           } 
+         } 
+      }
+    }
+  );
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_satellite.pageBottom();
+//--><!]]>
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51b1e463357c37d4" async="async"></script>
+
+</body>
+</html>

@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=Edge"> -->
+<!--[if IEMobile 7]><html class="iem7" ><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" ><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" ><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" ><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html 
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.thebeijinger.com/sites/all/themes/beijinger2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="When doing business in China, overseas companies are best to leave the satire to the locals.Furniture retailer Ikea has apologized and retracted a television advertisement that has sparked public outrage for the way it has depicted single Chinese women and their families.After just one day of broadcast on Chinese television stations, Ikea has pulled the commercial, saying in a statement that they &quot;apologize for giving the wrong impression.&quot;" />
+<meta name="keywords" content="outrage, Chinese internet, Foreigners, Love and Sex, Relationships, leftover women, Chinese Culture, Charles Liu" />
+<meta name="news_keywords" content="outrage, Chinese internet, Foreigners, Love and Sex, Relationships, leftover women, Chinese Culture, Charles Liu, China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial" />
+<meta name="rights" content="the beijinger" />
+<link rel="image_src" href="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/307891/ikea_no_boyfriend_commercial_07.jpg" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.thebeijinger.com/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women" />
+<link rel="shortlink" href="http://www.thebeijinger.com/node/1206706" />
+<meta http-equiv="content-language" content="EN" />
+<meta property="og:url" content="http://www.thebeijinger.com/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women" />
+<meta property="og:title" content="China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial" />
+<meta property="og:description" content="When doing business in China, overseas companies are best to leave the satire to the locals.Furniture retailer Ikea has apologized and retracted a television advertisement that has sparked public outrage for the way it has depicted single Chinese women and their families.After just one day of broadcast on Chinese television stations, Ikea has pulled the commercial, saying in a statement that they &quot;apologize for giving the wrong impression.&quot;" />
+<meta property="og:updated_time" content="2017-10-26T15:15:06+08:00" />
+<meta property="og:image" content="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/307891/ikea_no_boyfriend_commercial_07.jpg" />
+<meta property="og:image:url" content="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/307891/ikea_no_boyfriend_commercial_07.jpg" />
+<meta property="og:image:secure_url" content="https://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/307891/ikea_no_boyfriend_commercial_07.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="http://www.thebeijinger.com/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women" />
+<meta name="twitter:title" content="China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial" />
+<meta name="twitter:image" content="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/307891/ikea_no_boyfriend_commercial_07.jpg" />
+<meta name="twitter:description" content="When doing business in China, overseas companies are best to leave the satire to the locals.Furniture retailer Ikea has apologized and retracted a television advertisement that has sparked public outrage for the way it has depicted single Chinese women and their families.After just one day of broadcast on Chinese television stations, Ikea has pulled the commercial, saying in a statement that they &quot;apologize for giving the wrong impression.&quot;" />
+<meta property="article:published_time" content="2017-10-26T08:30:00+08:00" />
+<meta property="article:modified_time" content="2017-10-26T15:15:06+08:00" />
+<meta name="dcterms.title" content="China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial" />
+<meta name="dcterms.creator" content="charlesliu" />
+<meta name="dcterms.publisher" content="the beijinger" />
+<meta name="dcterms.description" content="When doing business in China, overseas companies are best to leave the satire to the locals.Furniture retailer Ikea has apologized and retracted a television advertisement that has sparked public outrage for the way it has depicted single Chinese women and their families.After just one day of broadcast on Chinese television stations, Ikea has pulled the commercial, saying in a statement that they &quot;apologize for giving the wrong impression.&quot;" />
+<meta name="dcterms.date" content="2017-10-26T08:30+08:00" />
+	<title>China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial | the Beijinger</title>
+
+			<meta name="MobileOptimized" content="width">
+		<meta name="HandheldFriendly" content="true">
+		<meta name="viewport" content="width=device-width">
+		<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon.png" rel="apple-touch-icon" />
+	<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+	<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+	<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+
+	<link type="text/css" rel="stylesheet" href="http://www.thebeijinger.com/sites/default/files/css/css__dpghWh8_g6bKJeFFQW1XSAR1PNynBCaouDhywIZVyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeijinger.com/sites/default/files/css/css_4RxJXsrQ04x2ANFg8uxtP7CamgZF_uVe_tRqmwWDwwc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeijinger.com/sites/default/files/css/css_ocUtn_qBWN3lpiUVMidq_GMQk6zzFNewS2my13fTLRw.css" media="all" />
+	<style>header#header{ background: #720000 url('https://thebeijinger.com/sites/all/themes/beijinger2014/images/bgmodern.png') }</style>	<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_XB-LMVFTw3U8kLqbdExrgfAdJKT1eodVfOyKj7MGRJY.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_jn46QPYMocuo27EkaBgMYKmAdnRfBkc4HsUgbqjV3X0.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_3MMiS_mIpF7qc8mgGBDiwd_ieIycbJxc0rS0nUPbTCo.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_Cy1faIuDxAdNHO7O0LJxuTt1I2RzN53UKW392he435w.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"beijinger2014","theme_token":"1wE6LGDrkJb0So45kdSeBo7w6ilPc6HljADIMN2Ot2k","jquery_version":"1.10","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/bootstrap.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/them\/classifieds_filters\/classifieds_filter.js":1,"sites\/all\/modules\/them\/events_filters\/events_filters.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/jcaption\/jcaption.js":1,"sites\/all\/modules\/quote\/quote.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/beijinger2014\/js\/jquery.migrate.js":1,"sites\/all\/themes\/beijinger2014\/js\/masonry.pkgd.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/imagesloaded.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/ajax.js":1,"sites\/all\/themes\/beijinger2014\/js\/autocomplete.js":1,"sites\/all\/themes\/beijinger2014\/js\/bootstrap-theme.js":1,"sites\/all\/themes\/beijinger2014\/js\/jasny-bootstrap.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/html5-respond.js":1,"sites\/all\/themes\/beijinger2014\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/beijinger2014\/js\/capitalization.js":1,"sites\/all\/themes\/beijinger2014\/js\/app.js":1},"css":{"modules\/system\/system.messages.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ed_classified\/theme\/classified.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/quote\/quote.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/fivestar\/widgets\/small\/small.css":1,"sites\/all\/themes\/beijinger2014\/css\/system.menus.css":1,"sites\/all\/themes\/beijinger2014\/css\/system.messages.css":1,"sites\/all\/themes\/beijinger2014\/css\/system.theme.css":1,"sites\/all\/themes\/beijinger2014\/css\/styles.css":1,"sites\/all\/themes\/beijinger2014\/css\/font-awesome.min.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":[".view-display-id-blog_similar_block .views-field.views-field-body img",".view-display-id-blog_home_page .views-field.views-field-body img",".node-blog .field-name-body img"],"jcaption_alt_title":"alt","jcaption_requireText":1,"jcaption_copyStyle":1,"jcaption_removeStyle":1,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":0,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"quote_nest":"2","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b98427de991b367c6e612a2435ccae3b":{"view_name":"directory_reviews","view_display_id":"latest_review","view_args":"","view_path":"node\/1206706","view_base_path":"directory\/reviews","view_dom_id":"b98427de991b367c6e612a2435ccae3b","pager_element":0},"views_dom_id:703d48d064830dfcb2c949626f0fdfb0":{"view_name":"classifieds","view_display_id":"work_with_us_block","view_args":"","view_path":"node\/59523","view_base_path":"classifieds","view_dom_id":"703d48d064830dfcb2c949626f0fdfb0","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/blog\/2017\/10\/26\/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women":true}});
+//--><!]]>
+</script>
+	    <!--[if lt IE 9]>
+    <script src="/sites/all/themes/beijinger2014/js/html5-respond.js"></script>
+    <![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1206706 node-type-blog section-blog" >
+
+			
+  <div class="welcome-nav">
+  	<nav class="navbar navbar-default navbar-inverse navbar-static-top" role="navigation">
+  		<div class="container">
+  			<div class="row">
+  				<div class="col-xs-10">
+
+  					<div class="navbar-header">
+  						<span class="username">Welcome Guest</span>  					</div>
+
+  					<div class="visible-sm visible-md visible-lg">
+  						
+
+  							<ul class="nav navbar-nav"><li><a href="/user/login?destination=node/1206706">Login to the Beijinger</a></li><li><a href="/user/register?destination=node/1206706">No account? Register Here</a></li></ul>  						</div>
+  					</div>
+
+  					<div class="col-xs-2">
+
+  						<div class="social-icons hidden-ms hidden-xs">
+  							<a href="http://www.thebeijinger.com/wechat"><i class="fa fa-wechat"></i></a>
+  							<a href="http://weibo.com/tbjmagazine"><i class="fa fa-weibo"></i></a>
+  							<a href="http://www.facebook.com/pages/The-Beijinger/59989818460"><i class="fa fa-facebook"></i></a>
+  							<a href="http://twitter.com/#!/thebeijinger"><i class="fa fa-twitter"></i></a>
+  							<a href="https://www.instagram.com/the_beijinger/"><i class="fa fa-instagram"></i></a>
+  						</div>
+
+  						<button type="button" class="navbar-toggle" data-toggle="offcanvas" data-target="#mobile-menu" data-canvas="body">
+  							<span class="sr-only">Toggle navigation</span>
+  							<span class="icon-bar"></span>
+  							<span class="icon-bar"></span>
+  							<span class="icon-bar"></span>
+  						</button>
+
+  						
+  					</div>
+  				</div>
+  			</div>
+  		</nav>
+  	</div>
+
+  	<header id="header" class="clearfix" role="banner">
+  		<div class="container">
+  			<div class="row">
+  				<div class="col-ms-12 col-sm-12">
+  					<div class="row">
+                      <div class="col-xs-9 col-ms-3 col-sm-3 col-lg-3">
+  						<a href="/" title="Home" rel="home" id="logo">
+                <img src="http://www.thebeijinger.com/sites/default/files/logotbjwhite.png" alt="Home" class="logo" />
+              </a>
+						</div>
+                        <div class="col-xs-3 col-ms-1 col-sm-2 col-lg-1">
+                              <div class="region region-marketing">
+    <div id="block-block-12" class="block block-block first last odd">
+
+      	<div class="badge-icon"></div>
+  <script type="text/javascript" charset="utf-8">
+  (function(w,d,t,f){ w[f]=w[f]||function(c,k,n){s=w[f],k=s['k']=(s['k']||(k?('&k='+k):''));s['c']=
+  c=(c instanceof Array)?c:[c];s['n']=n=n||0;L=d.createElement(t),e=d.getElementsByTagName(t)[0];
+  L.async=1;L.src='//feed.aqicn.org/feed/'+(c[n].city)+'/'+(c[n].lang||'')+'/feed.v1.js?n='+n+k;
+  e.parentNode.insertBefore(L,e); }; })( window,document,'script','_aqiFeed' ); 
+</script>
+
+<span id="city-aqi-container" style="
+padding: 5px;
+color: white;
+float: left;"></span>
+
+<script type="text/javascript" charset="utf-8">
+  _aqiFeed({
+   display:"<strong>AQI: %aqi</strong><br /><div style=\"font-size: x-small;width: 80px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis\">(%impact)</div><strong>Temp: %temp°C<br />%temptoday</strong>",
+   container:"city-aqi-container",
+   city:"beijing" });
+</script>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+                        </div>
+						<div class="col-xs-12 col-ms-8 col-sm-7 col-lg-8">
+							  <div class="region region-header-banner">
+    <div id="block-block-26" class="block block-block first last odd">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="43" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+						</div>
+					</div>
+				</div>
+			</div><!-- row -->
+
+			<div class="row">
+				<div class="col-sm-12 visible-sm visible-md visible-lg">
+					<nav class="navbar navbar-inverse" role="navigation">
+						<div class="container-fluid">
+							<ul class="nav nav-pills navbar-nav"><li class="menu-6474 first"><a href="/visitor-guide">Visitor&#039;s Guide</a></li>
+<li class="menu-659"><a href="/classifieds" title="Check out our free classifieds">Classifieds</a></li>
+<li class="menu-527 active-trail"><a href="/blog" title="Blogs from the staff and friends of the Beijinger" class="active-trail">Blog</a></li>
+<li class="menu-1377"><a href="/events">Events</a></li>
+<li class="menu-1245"><a href="/directory">Directory</a></li>
+<li class="menu-528"><a href="/forum" title="Join and learn from our online community">Forum</a></li>
+<li class="menu-1602"><a href="/gallery" title="">Gallery</a></li>
+<li class="menu-2890"><a href="/contact" title="">Contact us</a></li>
+<li class="menu-6200 last"><a href="/2017pizzacup" title="">2017 Pizza Cup</a></li>
+</ul>									</div>
+								</nav>
+															</div>
+						</div><!-- row -->
+					</div> <!-- container -->
+				</header>
+
+				<div class="navmenu navmenu-default navmenu-inverse navmenu-fixed-right offcanvas offcanvas-xs" id="mobile-menu">
+
+					<a href="/" title="Home" rel="home" id="logo-mobile">
+						<img src="http://www.thebeijinger.com/sites/default/files/logotbjwhite.png" alt="Home" class="logo" />
+					</a>
+
+					<div class="social-icons">
+						<a href="http://weibo.com/tbjmagazine"><i class="fa fa-weibo "></i></a>
+						<a href="http://www.facebook.com/pages/The-Beijinger/59989818460"><i class="fa fa-facebook "></i></a>
+						<a href="http://twitter.com/#!/thebeijinger"><i class="fa fa-twitter "></i></a>
+					</div>
+
+					<div class="user-menu">
+													<ul class="nav navbar-nav"><li><a href="/user/login?destination=node/1206706">Login to the Beijinger</a></li><li><a href="/user/register?destination=node/1206706">No account? Register Here</a></li></ul>						</div>
+
+						<!-- <a class="navmenu-brand" href="#">Site menu</a> -->
+
+						<div class="main-menu">
+							<ul class="nav nav-pills navbar-nav"><li class="menu-6474 first"><a href="/visitor-guide">Visitor&#039;s Guide</a></li>
+<li class="menu-659"><a href="/classifieds" title="Check out our free classifieds">Classifieds</a></li>
+<li class="menu-527 active-trail"><a href="/blog" title="Blogs from the staff and friends of the Beijinger" class="active-trail">Blog</a></li>
+<li class="menu-1377"><a href="/events">Events</a></li>
+<li class="menu-1245"><a href="/directory">Directory</a></li>
+<li class="menu-528"><a href="/forum" title="Join and learn from our online community">Forum</a></li>
+<li class="menu-1602"><a href="/gallery" title="">Gallery</a></li>
+<li class="menu-2890"><a href="/contact" title="">Contact us</a></li>
+<li class="menu-6200 last"><a href="/2017pizzacup" title="">2017 Pizza Cup</a></li>
+</ul>							</div>
+
+  				</div><!-- offcanvas -->
+
+<div class="breadcrumbs">
+	<div class="container"><ol class="breadcrumb"><li><a href="/">Home</a></li>
+<li><a href="/blog">Blog</a></li>
+<li>China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial</li>
+</ol></div>
+</div>
+
+<div id="page" class="container">
+    <div class="row">
+    <div class="col-sm-12">
+      <div class="help">
+        <div class="container"></div>
+      </div>
+    </div>
+  </div><!-- row -->
+
+  <div class="row">
+      <div class="col-ms-9 col-sm-9">
+        <div class="main-content">
+          <div class="content-top">
+              <div class="region region-content-top">
+    <div id="block-block-27" class="block block-block block-openx first last odd">
+
+      	<div class="badge-icon"></div>
+  <div class="ad-container"><div style="max-width: 728px; margin: auto;">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="44" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div></div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          </div>
+          <div class="main-top"></div>
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+      	<div class="badge-icon"></div>
+  <article class="node-1206706 node node-blog node-promoted view-mode-full clearfix" about="/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women" typeof="sioc:Post sioct:BlogPost">
+
+	
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="field field-name-field-blog-post-images field-type-image field-label-hidden"><div id="blog-slideshow-1206706" class="field-items carousel slide" data-ride="carousel"><div class="carousel-inner"><div class="field-item even item active"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/307891/ikea_no_boyfriend_commercial_07.jpg" width="800" height="400" alt="China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial" title="China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial" /></div></div></div></div>		</div>
+		<div class="col-sm-12">
+			<h1 class="title ">China's Leftover Women Outraged at Satirical Ikea TV Commercial</h1>
+		</div>
+        <div class="col-sm-12">
+            <div class="submitted">
+        							<div class="blog-author"><i class="fa fa-user"></i><a href="/category/blog-authors/charles-liu">Charles Liu</a>					    | <i class="fa fa-calendar"></i> Oct 26, 2017 8:30 am | <a href="#comment-form">Add a comment</a> | 1183 reads                                            </div>
+							</div>
+		</div>
+		<div class="col-sm-12">
+			<div class="col-sm-12 content-meta-wrapper">
+			<header class="content-meta">
+							</header>
+		</div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>When doing business in China, overseas companies are best to leave the satire to the locals.</p>
+<p>Furniture retailer Ikea has <a href="http://news.163.com/17/1025/02/D1ID9M83000187VI.html">apologized</a> and retracted a television advertisement that has sparked public outrage for the way it has depicted single Chinese women and their families.</p>
+<p>After just one day of broadcast on Chinese television stations, Ikea has pulled the commercial, saying in a statement that they "apologize for giving the wrong impression."</p>
+<p>The 29-second-long <a href="http://www.miaopai.com/show/nuZe~PLLYWwXh1whNiSLj8sehfdpp88syoqWzg__.htm">commercial</a> features an adult Chinese daughter having dinner at home with her two parents whose disapproval of their daughter's lack of marriage prospects brighten immediately when she unexpectedly produces a boyfriend from out of nowhere.</p>
+<p><img alt="" class="media-image" height="428" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_02.jpg" /></p>
+<p><img alt="" class="media-image" height="424" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_04.jpg" /></p>
+<p><img alt="" class="media-image" height="425" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_06.jpg" /></p>
+<p>​​In a series of quick edits, the parents upgrade their home with Ikea furnishings, which are marked in the commercial with their product names and prices.</p>
+<p>However, the part of the commercial that has inflamed public outrage is the line of dialog that sets up its premise. Right at the beginning, the mother puts down her chopsticks loudly and complains to her daughter: "If you don't bring a boyfriend home, don't consider me to be your mother anymore."</p>
+<p>Despite the comedic effect of the sudden mood shift of the parents as well as the father changing his shirt by ripping it off, the satire of the commercial went unnoticed by a public angry at the way it depicts single women.</p>
+<p style="text-align: center;"><strong>READ: <a href="http://www.thebeijinger.com/blog/2016/08/22/ikea-set-offer-online-shopping-china-initially-snubs-beijing">Ikea Set to Offer Online Shopping in China,<br />But Initially Snubs Beijing</a></strong></p>
+<p>Viewers complained of being "disappointed" at the TV commercial for being "inappropriate" and showing the "wrong sense of worth."</p>
+<p><img alt="" class="media-image" height="436" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_03.jpg" /></p>
+<p>One person complained that the ad promoted discrimination against <em>shengnv</em>, otherwise known as "China's leftover women."</p>
+<p>"Not bringing a boyfriend home will result in a mean face and no festive atmosphere, but doing so will result in smiles and welcomes. How is this a family?" read the complaint.</p>
+<p>Another complaint used the furniture retailer's corporate image against them. "It's hard to believe that the system of values (shown in the commercial) comes from Ikea and its brand of lifestyle comfort," it read.</p>
+<p>In a statement, Ikea acknowledged that the advertisement's depiction of "gender equality" may have offended some people.</p>
+<p><img alt="" class="media-image" height="429" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_05.jpg" /></p>
+<p>Although some online comments suggested that some people may be "too sensitive," one commenter replied that such an opinion substantiated the outrage.</p>
+<p>One person said they "need to be sensitive" because "this ad enforces the idea that women are '<a href="http://weibo.com/1895431523/Fs0sZ705L?from=page_1002061895431523_profile&amp;wvr=6&amp;mod=weibotime">unprofitable enterprises</a>' unless they can bring home a boyfriend."</p>
+<p>"This TV ad tried to show how Ikea can help customers easily and affordably convert a typical living room into a place for celebration. The purpose was to encourage customers to celebrate moments in everyday life," read the statement.</p>
+<p><img alt="" class="media-image" height="429" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_08.jpg" /></p>
+<p>Not all comments found the advertisement to be offensive. One comment <a href="http://weibo.com/1895431523/Fs0sZ705L?refer_flag=1001030103_">suggested</a> that some people in China aren't confident when it comes to gender issues, saying: "A double standard exists when it comes to public opinion over the treatment of men and women."</p>
+<p>The outrage over Ikea's recent commercial measures far beyond the reception given to a recently-made commercial that features the exact same themes, but made by a Chinese company.</p>
+<p>Made by Thai director Thanonchai Sornsriwichai, a <a href="http://v.youku.com/v_show/id_XMjkwODE1MDAwNA==.html?spm=a2h0k.8191407.0.0&amp;from=s1.8-1-1.2">commercial</a> for Didi Chuxing that debuted this past spring also features an unmarried adult Chinese daughter with disapproving parents. However, the prospective son-in-law is able to win the trust of the parents by comedically producing physical proof of his credentials, sometimes without even being prompted.</p>
+<p><img alt="" class="media-image" height="445" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_didi_07.jpg" /></p>
+<p><img alt="" class="media-image" height="453" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_didi_05_0.jpg" /></p>
+<p><img alt="" class="media-image" height="403" width="800" typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/ikea_no_boyfriend_commercial_didi_06.jpg" /></p>
+<p>The ad sought to emphasize that Didi Chuxing's scrutiny of its drivers is as strict as Chinese parents' examination of a candidate for marrying their daughter.</p>
+<p>The Didi Chuxing commercial prompted some <a href="http://www.jiemian.com/article/1325481.html">negative feedback</a>, but the company neither issued an apology nor retracted their commercial.</p>
+<p>The Chinese public has been upset before at commercials made by foreign companies.</p>
+<p>A commercial promoting second-hand Audi cars in China caused <a href="http://www.thebeijinger.com/blog/2017/07/19/foreign-automaker-infuriates-chinese-internet-employing-social-trope-car">controversy earlier this year</a> when yet another overbearing Chinese mother was seen inspecting the mouth of her prospective daughter-in-law immediately preceding the exchange of wedding vows.</p>
+<p>Meanwhile, Ikea has the focus of public backlashes after they tried to ban freeloading <a href="http://weibo.com/1642088277/EctmQvPN3?ref=collection&amp;rid=18_0_0_2676190849406491202">seniors</a> from their cafeteria and <a href="http://www.thebeijinger.com/blog/2009/08/30/looking-great-day-out-try-nap-ikea">people from</a> <a href="http://www.thebeijinger.com/blog/2011/05/30/wake-ikea-beijing-furniture-shoppers-have-new-place-snooze">sleeping</a> <a href="http://www.thebeijinger.com/blog/2015/04/08/sweet-dreams-ikea-bans-customer-store-sleeping">in their beds</a>, something that, as of <a href="http://weibo.com/2643091105/FoaGHoUC3?ref=collection&amp;rid=0_0_0_2676190849406491202">last month</a>, is still going on.</p>
+<p>But while the Swedish retailer was able to successfully fend off <a href="http://www.thebeijinger.com/blog/2013/02/27/flatpack-lies-beijing-ikea-says-balls-horsemeat">rumors of selling horsemeat</a>, they eventually acquiesced to extending a <a href="https://www.cnbc.com/2016/07/12/ikea-to-recall-malm-dressers-chests-in-china-watchdog-says-after-xinhua-criticizes-double-standard.html">recall</a> to China after a campaign led by <a href="http://www.china.org.cn/business/2016-07/04/content_38803279.htm">multiple</a> Chinese newspapers.</p>
+<p>It could be that Ikea is the best outlet for venting your anger in China, or at least a way to <a href="http://weibo.com/1662214194/Fj0gOoafV?ref=collection&amp;rid=1_0_0_2676190849406491202">relieve yourself</a>. </p>
+<p><em>More stories from this author <a href="http://www.thebeijinger.com/category/blog-authors/charles-liu">here</a>.</em></p>
+<p><em>Twitter: <a href="http://twitter.com/Sinopath">@Sinopath</a><br />E-mail: charlesliu1@qq.com</em></p>
+<p><em>Images: <a href="http://www.miaopai.com/show/nuZe~PLLYWwXh1whNiSLj8sehfdpp88syoqWzg__.htm">Miaopai</a>, <a href="http://weibo.com/1662214194/Fj0gOoafV?ref=collection&amp;rid=1_0_0_2676190849406491202">Weibo</a>, <a href="http://v.youku.com/v_show/id_XMjkwODE1MDAwNA==.html?spm=a2h0k.8191407.0.0&amp;from=s1.8-1-1.2">Youku</a></em></p>
+ </div></div></div>		</div>
+        <div class="taxonomy col-sm-12">
+			<ul class="list-inline"><li><a href="/blog/chinese-culture">Chinese Culture</a></li><li><a href="/category/blog-tags/outrage">outrage</a></li><li><a href="/category/blog-tags/chinese-internet">Chinese internet</a></li><li><a href="/category/blog-tags/foreigners">Foreigners</a></li><li><a href="/category/blog-tags/love-and-sex">Love and Sex</a></li><li><a href="/category/blog-tags/relationships">Relationships</a></li><li><a href="/category/blog-tags/leftover-women">leftover women</a></li><li><a href="/category/blog-authors/charles-liu">Charles Liu</a></li></ul>		</div>
+
+	</div>
+
+	<h2 class="title-comments">Comments</h2>
+	
+
+</article>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          <div class="region region-content-bottom">
+    <div id="block-views-similarterms-blog-similar-block" class="block block-views first odd">
+
+        <h2 class="block-title">You might also be interested in :</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-similarterms view-id-similarterms view-display-id-blog_similar_block further-links view-dom-id-78f08c6cd715476c2002492b152cacaf">
+        
+  
+  
+      <div class="view-content">
+      <div class="row">
+  <div class="views-row views-row-1 views-row-odd views-row-first col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/07/19/foreign-automaker-infuriates-chinese-internet-employing-social-trope-car"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/307891/audi_commercial_03.jpg" width="750" height="500" alt="DP Foreign Automaker Infuriates Chinese Internet by Using an Old Cliche in a Car Advertisement" title="DP Foreign Automaker Infuriates Chinese Internet by Using an Old Cliche in a Car Advertisement" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/07/19/foreign-automaker-infuriates-chinese-internet-employing-social-trope-car">China Outrage at Sexist Cliche Used in Audi&#039;s New Car...</a>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/07/04/chinas-internet-satirizes-its-pop-idols-asking-do-you-freestyle"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/307891/you_freestyle_ma_05.jpg" width="750" height="500" alt="China&amp;#039;s Internet Satirizes Its Pop Idols by Asking: “Do You Freestyle?&amp;quot; " title="China&amp;#039;s Internet Satirizes Its Pop Idols by Asking: “Do You Freestyle?&amp;quot; " /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/07/04/chinas-internet-satirizes-its-pop-idols-asking-do-you-freestyle">“Do You Even Freestyle?&quot;: China&#039;s Internet...</a>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/09/04/faced-most-expensive-betrothal-gifts-china-beijing-men-are-simply-saying-no"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/307891/betrothal_gifts_03.jpg" width="750" height="500" alt="Faced with Having to Pay the Most Expensive Betrothal Gifts in China, Beijing Men Are Simply Saying No" title="Faced with Having to Pay the Most Expensive Betrothal Gifts in China, Beijing Men Are Simply Saying No" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/09/04/faced-most-expensive-betrothal-gifts-china-beijing-men-are-simply-saying-no">Required to Buy the Most Expensive Betrothal Gifts in China...</a>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/07/07/chinese-media-continues-assault-against-reddits-china-antagonists-ccj2"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/307891/vice_china_07.jpg" width="750" height="500" alt="R Vice China Takes On Reddit&amp;#039;s China Antagonists, CCJ2" title="R Vice China Takes On Reddit&amp;#039;s China Antagonists, CCJ2" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/07/07/chinese-media-continues-assault-against-reddits-china-antagonists-ccj2">Vice China Takes On Reddit&#039;s China Antagonists, CCJ2</a>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2014/01/29/spring-festival-meltdown-man-faints-when-parents-arrange-date-him"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/307891/train_faint-02.jpg" width="750" height="500" alt="Spring Festival Meltdown: Man Faints When Parents Arrange Date for Him" title="Spring Festival Meltdown: Man Faints When Parents Arrange Date for Him" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2014/01/29/spring-festival-meltdown-man-faints-when-parents-arrange-date-him">Spring Festival Meltdown: Man Faints When Parents Arrange...</a>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/10/10/foreigners-prominently-featured-national-patriotic-campaign-i-love-you-china"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/307891/i_love_you_china_06.jpg" width="750" height="500" alt="Expats Prominently Featured in National Patriotic Campaign: &amp;quot;I Love You, China&amp;quot;" title="Expats Prominently Featured in National Patriotic Campaign: &amp;quot;I Love You, China&amp;quot;" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/10/10/foreigners-prominently-featured-national-patriotic-campaign-i-love-you-china">Expats Prominently Featured in National Patriotic Campaign...</a>  </div>  </div>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-block-28" class="block block-block last even">
+
+      	<div class="badge-icon"></div>
+  <div class="ad-container"><div class="block-openx" style="max-width: 728px; margin: auto;">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="47" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div></div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+      </div>
+    </div>
+      <div class="wide-sidebar col-ms-3 col-sm-3">
+        <div class="sidebar">
+                   <div class="region region-sidebar-first column sidebar">
+    <div id="block-block-29" class="block block-block first odd">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx" style="height:250px; overflow:hidden">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="45" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+<div id="block-block-32" class="block block-block even">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="55" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+<div id="block-block-9" class="block block-block subscribe-feed add-content odd">
+
+      	<div class="badge-icon"></div>
+   <h2><i class="fa fa-rss"></i>Subscribe</h2>
+<p>Get the latest and greatest from the Beijinger Blog</p>
+<p><a class="btn btn-primary" href="/blog/feed">Subscribe to our feed</a></p>
+ 
+</div><!-- /.block -->
+<div id="block-search-form" class="block block-search even">
+
+      	<div class="badge-icon"></div>
+  <form action="/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-type-textfield form-item-search-block-form form-item form-group">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search keywords" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button id="edit-submit" name="op" value="Search" type="submit" class="btn btn-default form-submit">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-_F1FEnbqgp7d5eJm4L1_9h1z6_njW7DM8irCavZfC7c" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div><!-- /.block -->
+<div id="block-views-blogs-blog-most-viewed-block" class="block block-views odd">
+
+        <h2 class="block-title"><span class="icons icons-most-viewed-icon"></span>Hottest Blog Posts</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-blogs view-id-blogs view-display-id-blog_most_viewed_block view-dom-id-ccb602830d61806e35d4ecb44d01b9a3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/22/hallelujah-chinas-cheese-ban-has-been-lifted-0">Say Cheese: China&#039;s Short-Lived Cheese Ban Has Been Lifted </a> (1200)</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women" class="active">China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial</a> (1183)</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/23/overcrowded-tourist-hotspot-nanluoguxiang-will-be-expanding-tianjin">Overcrowded Beijing Tourist Hotspot Nanluogu Xiang Will Be Expanding ... To Tianjin</a> (1038)</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/19/beijing-airport-ranked-5th-worst-asia-service">Delayed Reaction: Beijing Airport Ranked 5th Worst in Asia for Service</a> (905)</span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/23/trb-hospitality-group-open-new-casual-dining-concept-hulu-taikooli-early-2018">TRB to Open New Hulu Dining Concept in Place of Recently-Ousted Cantina Agave</a> (903)</span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/22/new-direct-flights-will-connect-beijing-los-angeles-athens">New Direct Flights Connect Beijing With Los Angeles, Athens</a> (901)</span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/22/taipei-weekend-away-one-asias-best-gourmet-destinations">Taipei: A Weekend Away in One of Asia’s Best Gourmet Destinations</a> (877)</span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/13/beijing-bans-gas-sales-airbnb-bookings-19th-plenum-arrives-amid-increased-security">Beijing Bans Airbnb Bookings, Forces Clubs and Bars to Shut, and Boosts Security in Advance of 19th Plenum</a> (847)</span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/21/train-hopping-southern-china-guide-exploring-sichuans-sights-rail">Train Hopping in Southern China: A Guide to Exploring Sichuan’s Sights by Rail</a> (807)</span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/20/beijing-build-city-wide-waterfront-greenway">City-Wide Waterfront Greenway Coming to Beijing Next Year</a> (794)</span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blog/most-viewed">
+    More  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-block-30" class="block block-block block-openx even">
+
+      	<div class="badge-icon"></div>
+  <!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="46" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div><!-- /.block -->
+<div id="block-block-11" class="block block-block newsletter icon-newsletter odd">
+
+        <h2 class="block-title">Newsletter</h2>
+    	<div class="badge-icon"></div>
+   <p><a class="btn btn-primary" href="http://www.thebeijinger.com/newsletter">Subscribe to the newsletter!</a></p>
+ 
+</div><!-- /.block -->
+<div id="block-views-blogs-comments-recent-block" class="block block-views even">
+
+        <h2 class="block-title"><span class="icons icons-recent-comments-icon"></span>Recent comments</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-blogs-comments view-id-blogs_comments view-display-id-recent_block view-dom-id-2675a082c3c7dfd4fd718384d6cb69ab">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <span class="submitted">Oct 27, 3:44 pm</span> <a href="/blog/2017/10/27/top-15-apps-you-need-living-china#comment-550243">Re: The Top 15 Apps You Need for Living in China</a> by <a href="/user/lysanderwrites" title="View user profile." class="username">LysanderWrites</a>    </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <span class="submitted">Oct 27, 10:48 am</span> <a href="/blog/2017/10/27/mcdonalds-name-change-chiina-inspires-literal-meaning-meme#comment-550233">Re: I&#039;m Loathin&#039; It: Chinese Internet Satirizes Corporate...</a> by <a href="/user/spa9hetti" title="View user profile." class="username">spa9hetti</a>    </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <span class="submitted">Oct 27, 9:51 am</span> <a href="/blog/2017/10/26/tsinghua-students-pass-swim-test-requirements-stack-chinas-top-school#comment-550232">Re: Sink or Swim: Tsinghua Students Must Pass Compulsory Swim...</a> by <a href="/user/admin" title="View user profile." class="username">admin</a>    </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          <span class="submitted">Oct 26, 5:46 pm</span> <a href="/blog/2017/10/26/tsinghua-students-pass-swim-test-requirements-stack-chinas-top-school#comment-550213">Re: Sink or Swim: Tsinghua Students Must Pass Compulsory Swim...</a> by <a href="/user/bauluo" title="View user profile." class="username">BauLuo</a>    </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+          <span class="submitted">Oct 26, 5:14 pm</span> <a href="/blog/2017/10/23/overcrowded-tourist-hotspot-nanluoguxiang-will-be-expanding-tianjin#comment-550211">Re: Overcrowded Beijing Tourist Hotspot Nanluogu Xiang Will...</a> by <a href="/user/lilbear" title="View user profile." class="username">LilBear</a>    </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blog/recent-comments">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-menu-block-3" class="block block-menu-block odd">
+
+        <h2 class="block-title"><span class="icons icons-blog-category-icon"></span>Blog Category</h2>
+    	<div class="badge-icon"></div>
+  <div class="menu-block-wrapper menu-block-3 menu-name-menu-blog-category parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3663"><a href="/blog/beijing-news/feed" title="Beijing News (3174)"><i class="fa fa-rss-square"></i></a><a href="/blog/beijing-news" title="Beijing News (3174)">Beijing News (3174)</a></li><li class="leaf menu-mlid-3664"><a href="/blog/beijing-people/feed" title="Beijing People (1554)"><i class="fa fa-rss-square"></i></a><a href="/blog/beijing-people" title="Beijing People (1554)">Beijing People (1554)</a></li><li class="leaf menu-mlid-3665"><a href="/blog/books/feed" title="Books (374)"><i class="fa fa-rss-square"></i></a><a href="/blog/books" title="Books (374)">Books (374)</a></li><li class="leaf menu-mlid-3666"><a href="/blog/chinese-culture/feed" title="Chinese Culture (931)"><i class="fa fa-rss-square"></i></a><a href="/blog/chinese-culture" title="Chinese Culture (931)">Chinese Culture (931)</a></li><li class="leaf menu-mlid-3667"><a href="/blog/film/feed" title="Film (797)"><i class="fa fa-rss-square"></i></a><a href="/blog/film" title="Film (797)">Film (797)</a></li><li class="leaf menu-mlid-3668"><a href="/blog/food/feed" title="Food (4879)"><i class="fa fa-rss-square"></i></a><a href="/blog/food" title="Food (4879)">Food (4879)</a></li><li class="leaf menu-mlid-3669"><a href="/blog/health-environment/feed" title="Health &amp; Environment (994)"><i class="fa fa-rss-square"></i></a><a href="/blog/health-environment" title="Health &amp; Environment (994)">Health & Environment (994)</a></li><li class="leaf menu-mlid-3670"><a href="/blog/live-music/feed" title="Live Music (1591)"><i class="fa fa-rss-square"></i></a><a href="/blog/live-music" title="Live Music (1591)">Live Music (1591)</a></li><li class="leaf menu-mlid-3671"><a href="/blog/love-and-sex/feed" title="Love and Sex (121)"><i class="fa fa-rss-square"></i></a><a href="/blog/love-and-sex" title="Love and Sex (121)">Love and Sex (121)</a></li><li class="leaf menu-mlid-3672"><a href="/blog/nightlife/feed" title="Nightlife (2554)"><i class="fa fa-rss-square"></i></a><a href="/blog/nightlife" title="Nightlife (2554)">Nightlife (2554)</a></li><li class="leaf menu-mlid-3673"><a href="/blog/our-stuff/feed" title="Our Stuff (1468)"><i class="fa fa-rss-square"></i></a><a href="/blog/our-stuff" title="Our Stuff (1468)">Our Stuff (1468)</a></li><li class="leaf menu-mlid-3674"><a href="/blog/shopping/feed" title="Shopping (887)"><i class="fa fa-rss-square"></i></a><a href="/blog/shopping" title="Shopping (887)">Shopping (887)</a></li><li class="leaf menu-mlid-3675"><a href="/blog/sport/feed" title="Sport (828)"><i class="fa fa-rss-square"></i></a><a href="/blog/sport" title="Sport (828)">Sport (828)</a></li><li class="leaf menu-mlid-3676"><a href="/blog/stage/feed" title="Stage (278)"><i class="fa fa-rss-square"></i></a><a href="/blog/stage" title="Stage (278)">Stage (278)</a></li><li class="leaf menu-mlid-3677"><a href="/blog/things-you-should-know/feed" title="Things You Should Know (2018)"><i class="fa fa-rss-square"></i></a><a href="/blog/things-you-should-know" title="Things You Should Know (2018)">Things You Should Know (2018)</a></li><li class="leaf menu-mlid-3678"><a href="/blog/transport-traffic/feed" title="Transport &amp; Traffic (524)"><i class="fa fa-rss-square"></i></a><a href="/blog/transport-traffic" title="Transport &amp; Traffic (524)">Transport & Traffic (524)</a></li><li class="leaf menu-mlid-3679"><a href="/blog/travel/feed" title="Travel (698)"><i class="fa fa-rss-square"></i></a><a href="/blog/travel" title="Travel (698)">Travel (698)</a></li><li class="last leaf menu-mlid-3680"><a href="/blog/visual-arts/feed" title="Visual Arts (494)"><i class="fa fa-rss-square"></i></a><a href="/blog/visual-arts" title="Visual Arts (494)">Visual Arts (494)</a></li></ul></div>
+
+</div><!-- /.block -->
+<div id="block-views-blog-archive-block" class="block block-views even">
+
+        <h2 class="block-title"><span class="icons archive"></span>Archive</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-blog-archive view-id-blog_archive view-display-id-block blog-archive view-dom-id-f2edc5270ac8a5ffd3dfa3fa0c0ae4d6">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+  <ul class="views-summary">
+      <li class="odd"><a href="/blog/archive/201710">October 2017</a>
+              (151)
+          </li>
+      <li class="even"><a href="/blog/archive/201709">September 2017</a>
+              (202)
+          </li>
+      <li class="odd"><a href="/blog/archive/201708">August 2017</a>
+              (196)
+          </li>
+      <li class="even"><a href="/blog/archive/201707">July 2017</a>
+              (187)
+          </li>
+      <li class="odd"><a href="/blog/archive/201706">June 2017</a>
+              (202)
+          </li>
+      <li class="even"><a href="/blog/archive/201705">May 2017</a>
+              (193)
+          </li>
+    </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blog/archive">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-views-directory-reviews-latest-review" class="block block-views odd">
+
+        <h2 class="block-title"><span class="icons icons-comments"></span>Latest Reviews</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-directory-reviews view-id-directory_reviews view-display-id-latest_review view-dom-id-b98427de991b367c6e612a2435ccae3b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">5</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/24/fei-fei-has-moved-new-location">Fei Fei has moved to a new location!!!</a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/fei-fei">Fei Fei Tailor</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/slfrost" title="View user profile." class="username">S.L.Frost</a>  </span>  
+  <span class="submitted">        Oct 24 09:57pm  </span>  </div>
+  <div class="views-row views-row-2">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">1</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/23/food-poisoning-galore">Food poisoning galore</a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/lilys-american-diner">Lily&#039;s American Diner</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/ooyummiskittleoo" title="View user profile." class="username">Ooyummiskittleoo</a>  </span>  
+  <span class="submitted">        Oct 23 09:42am  </span>  </div>
+  <div class="views-row views-row-3">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">5</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/17/real-american-burger">real american burger </a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/slow-boat-flagship-brewpub-1">Slow Boat Sanlitun Brewpub</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/petertherose" title="View user profile." class="username">petertherose</a>  </span>  
+  <span class="submitted">        Oct 17 04:41pm  </span>  </div>
+  <div class="views-row views-row-4">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">1</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/17/small-and-impolite">small and impolite</a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/green-essence">Green Essence</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/petertherose" title="View user profile." class="username">petertherose</a>  </span>  
+  <span class="submitted">        Oct 17 04:38pm  </span>  </div>
+  <div class="views-row views-row-5">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">2</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/17/overpriced-food-and-wine">overpriced food and wine </a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/view-3912">The View 3912</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/petertherose" title="View user profile." class="username">petertherose</a>  </span>  
+  <span class="submitted">        Oct 17 04:35pm  </span>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/directory/reviews">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-block-31" class="block block-block last even">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx"  style="height:250px; overflow:hidden">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="48" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+  </div><!-- region__sidebar -->
+      </div>
+    </div>
+
+</div>
+
+</div><!-- /#page -->
+
+  <div class="region region-footer-menu">
+    <div id="block-menu-menu-footer-other-website-links" class="block block-menu first last odd">
+
+      	<div class="badge-icon"></div>
+  <ul class="menu"><li class="first leaf"><a href="/" title="the Beijinger">the Beijinger</a></li>
+<li class="leaf"><a href="http://www.beijing-kids.com" title="beijingkids">beijingkids</a></li>
+<li class="last leaf"><a href="http://jingkids.com" title="JingKids">JingKids</a></li>
+</ul>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+  <div class="region region-footer-info">
+    <div id="block-block-5" class="block block-block first odd">
+
+      	<div class="badge-icon"></div>
+  <div id="closure">Copyright 2017 <a href="http://www.truerun.com">True Run Media</a>. All Rights Reserved. 京ICP备<a href="http://www.miibeian.gov.cn">11039980</a>号<br>&nbsp;</div>
+</div><!-- /.block -->
+<div id="block-block-14" class="block block-block even">
+
+      	<div class="badge-icon"></div>
+  <!-- Piwik -->
+<script type="text/javascript">
+  	var _paq = _paq || [];
+
+	// setup custom analytics values
+	var	p_author 	= '',
+		p_type 		= '',
+		p_tags		= [];
+
+	// Author, Node type and Tags
+	if (jQuery('article.node-blog .blog-author a').length > 0) {
+		p_author = jQuery('article.node-blog .blog-author a:first').text();
+		p_type = 'Blog';
+	} else if(jQuery('.section-classifieds article.node .username').length > 0) {
+		p_author = jQuery('.section-classifieds article.node .username').text();
+		p_type = 'Classified Ad';
+	} else if(jQuery('.node-type-event .node-event .username').length > 0) {
+		p_author = jQuery('.node-type-event .node-event .username').text();
+		p_type = 'Event';
+	}
+
+	jQuery('.page-node .taxonomy ul li a').each(function(index, tagLink) {
+		p_tags.push(jQuery(tagLink).text());
+	});
+
+	if (p_author !== '') {
+		_paq.push(['setCustomDimension', customDimensionId = 1, customDimensionValue = p_author]);
+	}
+	if (p_tags.length > 0) {
+		jQuery.each(p_tags, function(index, p_tagValue) {
+			_paq.push(['setCustomDimension', customDimensionId = 2, customDimensionValue = p_tagValue]);
+		});
+	}
+	if (p_type !== '') {
+		_paq.push(['setCustomDimension', customDimensionId = 3, customDimensionValue = p_type]);
+	}
+	// END setup custom analytics values
+
+	  _paq.push(["setCustomVariable", 1, "User", "guest", "visit"]);
+
+	  _paq.push(["setDomains", ["*.www.thebeijinger.com","*.www.thebeijinger.com"]]);
+	  _paq.push(['trackPageView']);
+	  
+	  _paq.push(['deleteCustomDimension', 1]);
+	  _paq.push(['deleteCustomDimension', 2]);
+	  _paq.push(['deleteCustomDimension', 3]);
+
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="//piwik.truerun.com/";
+	    _paq.push(['setTrackerUrl', u+'piwik.php']);
+	    _paq.push(['setSiteId', 1]);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+</script>
+<noscript><p><img src="//piwik.truerun.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik -->
+</div><!-- /.block -->
+<div id="block-block-15" class="block block-block last odd">
+
+      	<div class="badge-icon"></div>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-147018-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+		<div class="as"></div>
+</body>
+</html>

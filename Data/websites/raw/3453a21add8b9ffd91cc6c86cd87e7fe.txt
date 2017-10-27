@@ -1,0 +1,319 @@
+
+            <!doctype html>
+            <html ⚡>
+                <head>
+                    
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+        <script async custom-element="amp-font" src="https://cdn.ampproject.org/v0/amp-font-0.1.js"></script>
+        <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+        <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+        <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
+        <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    
+                    <title>China's Central Bank Chief Warns Corporate Debt Is Too High</title>
+                    <link rel="canonical" href="https://www.bloomberg.com/news/articles/2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform">
+                    <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"NewsArticle","author":[{"@type":"Person","name":"Ye Xie"},{"@type":"Person","name":"Enda Curran"}],"dateCreated":"2017-10-15T17:47:31.795Z","dateModified":"2017-10-16T01:14:27.990Z","datePublished":"2017-10-15T17:47:31.795Z","description":"People’s Bank of China Governor Zhou Xiaochuan warned that Chinese companies have taken on too much debt, and argued for less financial leverage as well as fiscal reforms to constrain local government borrowing.","headline":"China's Central Bank Chief Warns Corporate Debt Is Too High","image":{"@type":"ImageObject","url":"https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg","width":1200,"height":630},"mainEntityOfPage":"https://www.bloomberg.com/news/articles/2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform","publisher":{"@type":"Organization","name":"Bloomberg","logo":{"@type":"ImageObject","url":"https://assets.bwbx.io/s3/javelin/public/javelin/images/bloomberg-logo-amp-e995e81f26.png","width":262,"height":60}}}
+    </script>
+                    <style amp-custom>
+@font-face {
+    font-family: 'BWHaasText-55Roman';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/BWHaasText-55Roman-2558d87ee8.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/BWHaasText-55Roman-887c01ff69.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead-55Roman';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-55Roman-bb69898728.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-55Roman-58293d4d67.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead-56Italic';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-56Italic-b6ed5982f2.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-56Italic-e924a76be8.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead-75Bold';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-75Bold-f38aa54387.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-75Bold-a8669e9538.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead-95Black';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-95Black-d9b9c8bdda.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/BWHaasHead-95Black-576df53533.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TiemposTextWeb-Regular';
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-Regular-d1a13989fe.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-Regular-0c712f870b.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-Regular-ce6578caa5.woff') format('woff'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-Regular-564ae670c4.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'TiemposTextWeb-RegularItalic';
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-RegularItalic-61ef11cb84.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-RegularItalic-91232ccd19.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-RegularItalic-9e71cd6b62.woff') format('woff'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposTextWeb-RegularItalic-86dd520b81.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'TiemposHeadlineWeb-Bold';
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/TiemposHeadlineWeb-Bold-05b4c6f7da.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposHeadlineWeb-Bold-785dd86801.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposHeadlineWeb-Bold-1ad7e9391b.woff') format('woff'),
+         url('https://assets.bwbx.io/font-service/fonts/TiemposHeadlineWeb-Bold-7789a6022c.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'AvenirNext-Demi';
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNext-Demi-07326ffcf3.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNext-Demi-bb2b2e9964.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNext-Demi-80d6dec71d.woff') format('woff'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNext-Demi-896ccbff79.svg') format('svg'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNext-Demi-c55bd4ef45.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'supriasans-regular-web';
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/supriasans-regular-web-7196e2d81a.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/font-service/fonts/supriasans-regular-web-8179193c28.woff') format('woff'),
+         url('https://assets.bwbx.io/font-service/fonts/supriasans-regular-web-2389ae0555.svg') format('svg'),
+         url('https://assets.bwbx.io/font-service/fonts/supriasans-regular-web-5c4bb18965.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'supriasans-black-web';
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/supriasans-black-web-e59f4ddcd1.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/font-service/fonts/supriasans-black-web-c34158ff5a.woff') format('woff'),
+         url('https://assets.bwbx.io/font-service/fonts/supriasans-black-web-934c9085da.svg') format('svg'),
+         url('https://assets.bwbx.io/font-service/fonts/supriasans-black-web-03ac0bb9fc.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PublicoText-Roman-Web';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/PublicoText-Roman-Web-bfa063ee27.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/PublicoText-Roman-Web-e953eb7239.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PublicoText-Italic-Web';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/PublicoText-Italic-Web-b04a2274cf.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/PublicoText-Italic-Web-ba4fbc1a59.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PublicoText-Bold-Web';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/PublicoText-Bold-Web-3c5266a48e.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/PublicoText-Bold-Web-8851dd6a6e.woff') format('woff');
+}*{margin:0;padding:0;border:0;font-variant:inherit;font-weight:inherit;font-stretch:inherit;font-size:100%;line-height:inherit;font-family:inherit;vertical-align:baseline}ol,ul{list-style:none}body{line-height:1;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{overflow-x:hidden}.content-well-table{display:inline-table}.main-column{vertical-align:top;display:table-cell}.right-rail{display:none}.main-column>:not(:first-child){margin-top:30px}.main-column>:last-child{margin-bottom:30px}.touts{display:flex;justify-content:space-between;align-items:center}bb-bomb-view{position:relative;z-index:10}.leaderboard{position:relative;z-index:3}#bb-that{position:relative;z-index:1}.bb-nav-placeholder{position:relative;z-index:1}.transporter-container{position:relative;z-index:0}article>.lede{position:relative;z-index:2}article>.lede-large-image{position:relative;z-index:0}article>.content-well{position:relative;z-index:1}.content-well{margin:auto}.content-well>.main-column{position:relative;z-index:1}.content-well>.right-rail{position:relative;z-index:0}.main-column__content>:not(:first-child){margin-top:30px}.main-column__content>.lede{position:relative;z-index:1}.main-column__content>.body-copy{position:relative;z-index:0}.main-column{padding:0 20px}.main-column__content{margin-top:-160px}.right-rail{display:none}.lede-text-only{margin:0 auto}.lede-text-only__background{position:absolute;width:100%;height:100%;overflow:hidden;text-align:center;z-index:-1}.lede-text-only__background .background-image{position:relative;height:865px;z-index:-3}.lede-text-only__background .background-dots{position:absolute;top:0;width:100%;height:100%;background:repeat url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGUlEQVQIW2NkYGD4z8DAwMiABFA4MHEKBQFmoAEGdnHj3wAAAABJRU5ErkJggg==);opacity:.3;z-index:-2}.lede-text-only__background .background-fade{position:absolute;width:100%;height:100%;top:0;z-index:-1}.lede-text-only__content{position:relative}.lede-text-only .eyebrow{background-color:#2800d7;color:#fff;display:inline-block;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;font-size:16px;height:26px;line-height:26px;padding:6px 12px;text-transform:uppercase;-webkit-transform:translateY(-100%);-moz-transform:translateY(-100%);-o-transform:translateY(-100%);transform:translateY(-100%);margin-left:-7px;position:absolute;top:0}.lede-text-only__container{margin:auto;padding-top:79px;padding-bottom:40px}.lede-text-only__hed{font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;margin-bottom:20px;position:relative}.lede-text-only__hed em{font-style:italic}.lede-text-only__highlight{background-color:#fff;box-shadow:7px 0 0 #fff,-7px 0 0 #fff;box-decoration-break:clone}.lede-text-only__dek{color:#6d6c6c;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;font-style:normal;margin-bottom:14px}.lede-text-only__byline{font-family:TiemposTextWeb-Regular,Georgia,Cambria,"Times New Roman",Times,serif;font-style:normal;color:#767676}.lede-text-only__attribution{font-style:none;font-family:TiemposTextWeb-Regular,Georgia,Cambria,"Times New Roman",Times,serif}.lede-text-only__attribution>.attribution>img{display:inline;margin-left:5px;height:18px;vertical-align:bottom}.lede-text-only__attribution>.attribution{text-decoration:none;display:inline-block}.lede-text-only__attribution>.attribution>div{height:14px;display:inline-block;vertical-align:middle}.lede-text-only__attribution>.attribution>.pursuits-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/pursuits-logo-7ccc053bdd.svg) left bottom no-repeat;width:140px}.lede-text-only__attribution>.attribution>.businessweek-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/businessweek-logo-581560ef60.svg) left bottom no-repeat;width:177px}.lede-text-only__attribution>.attribution>.benchmark-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/benchmark-logo-a632ffc822.svg) left bottom no-repeat;height:12px;width:90px;margin-bottom:2px}.lede-text-only__attribution>.attribution>.markets-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/markets-logo-190c54e63b.svg) left bottom no-repeat;width:150px}.lede-text-only__attribution>.attribution>.quicktake-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/quicktake-logo-25283c1826.svg) left bottom no-repeat;height:16px;width:160px}.lede-text-only__attribution>.attribution>.climate-changed-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/climate-changed-logo-f9e833b87c.svg) left bottom no-repeat;width:120px;height:15px;vertical-align:text-bottom}.lede-text-only__attribution>.attribution>.hodinkee-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/hodinkee-logo-45b26f06a9.svg) left bottom no-repeat;width:108px;height:15px;vertical-align:text-top;padding-top:2px;margin-left:5px}.lede-text-only__attribution>.attribution>.view-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/view-logo-9fa97b4613.svg) left bottom no-repeat;width:110px;background-size:contain}.lede-text-only__attribution>.attribution>.gadfly-logo{background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/gadfly-logo-2830a4905d.svg) left bottom no-repeat;width:122px;background-size:contain}.lede-text-only__attribution>.reprints-link,.lede-text-only__attribution>.subscribe-link{font-family:TiemposTextWeb-Regular,Georgia,Cambria,"Times New Roman",Times,serif;text-decoration:none;color:#000}.lede-text-only__attribution>.reprints-link:before,.lede-text-only__attribution>.subscribe-link:before{content:" | ";color:#000}.lede-text-only__attribution>.reprints-link:hover,.lede-text-only__attribution>.subscribe-link:hover{color:#2800d7}.lede-text-only__times{font-family:TiemposTextWeb-Regular,Georgia,Cambria,"Times New Roman",Times,serif}.lede-text-only__times>time{padding-right:3px}.lede-text-only__times>time[itemprop=dateModified]:before{content:"Updated on ";color:#767676;font-family:TiemposTextWeb-RegularItalic,Georgia,Cambria,"Times New Roman",Times,serif;margin-right:2px}.lede-text-only__times>time[data-type=corrected]:before{content:"Corrected "}.lede-text-only__container{padding:30px 20px 20px}.lede-text-only .eyebrow{-webkit-transform:none;-moz-transform:none;-o-transform:none;transform:none;position:static;font-size:12px}.lede-text-only__hed{font-size:32px;line-height:1.1}.lede-text-only__highlight{padding:3px 0}.lede-text-only__dek{font-size:18px;line-height:1.2}.lede-text-only__byline{font-size:14px;line-height:20px}.lede-text-only__attribution{font-size:14px;line-height:20px}.lede-text-only__attribution>.reprints-link,.lede-text-only__attribution>.subscribe-link{display:none}.lede-text-only__attribution>.attribution>img{height:15px}.lede-text-only__times{font-size:14px;line-height:20px}.lede-text-only__times>time{display:block}.lede-text-only__times>time[itemprop=dateModified]:before{margin-left:0}.author{display:inline-block;color:#000;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;font-size:16px}.author__modal{display:none}.abstract{font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;padding:20px 0;border-top:2px dotted #ddd;border-bottom:2px dotted #ddd;max-width:720px;line-height:20px}.abstract__item{color:#3c3c3c}.abstract__item:before{content:"➞";font-weight:bolder;float:left;display:inline-block;color:#2800d7;padding-left:4px;padding-right:12px}.abstract__item-text{margin-left:2em}.abstract__item:not(:last-child){margin-bottom:18px}.body-copy{font-family:TiemposTextWeb-Regular,Georgia,Cambria,"Times New Roman",Times,serif;color:#3c3c3c;font-size:18px;line-height:29px}.body-copy:after{clear:both;content:"";display:block}.body-copy em{font-family:TiemposTextWeb-RegularItalic,Georgia,Cambria,"Times New Roman",Times,serif;font-style:normal}.body-copy strong{font-family:TiemposHeadlineWeb-Bold,Georgia,Cambria,"Times New Roman",Times,serif;font-style:normal}.body-copy>table{border-collapse:collapse;display:block;font-size:12px;overflow-x:auto;width:100%}.body-copy>table tbody{display:table;min-width:100%}.body-copy>table td{color:#999}.body-copy>table td ul:not(.vjs-menu-content){margin-left:20px}.body-copy>table td ul:not(.vjs-menu-content) li{padding-left:15px;margin-bottom:0;font-size:14px}.body-copy>table td,.body-copy>table th{font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;min-width:50px;padding:10px 0}.body-copy>table td:first-of-type,.body-copy>table th:first-of-type{text-align:left}.body-copy>table th:first-of-type{font-size:16px}.body-copy>table td:not(first-of-type),.body-copy>table th:not(first-of-type){text-align:right}.body-copy>table th{color:#767676;text-transform:uppercase}.body-copy>table tr:first-of-type{border-bottom:1px solid #767676}.body-copy>table tr:not(:first-of-type):not(:last-of-type){border-bottom:1px solid #ddd}.body-copy a{color:#3c3c3c;text-decoration:none;border-bottom:1px solid #2800d7}.body-copy a:hover{color:#2800d7}.body-copy ol,.body-copy ul{margin:0 auto}.body-copy ol:not(.vjs-menu-content)>li,.body-copy ul:not(.vjs-menu-content)>li{padding-left:30px;margin-bottom:5px;line-height:28px;position:relative}.body-copy ol:not(.vjs-menu-content)>li:before,.body-copy ul:not(.vjs-menu-content)>li:before{padding-right:15px;position:absolute;font-weight:700;top:0;left:0}.body-copy ol{counter-reset:item}.body-copy ol:not(.vjs-menu-content)>li:before{content:counter(item) ".";counter-increment:item;color:#2800d7}.body-copy ul>li:before{content:"•";color:#2800d7}.body-copy .partner-info{font-family:TiemposTextWeb-RegularItalic,Georgia,Cambria,"Times New Roman",Times,serif}.body-copy>p:not(:first-child),.body-copy>section>p:not(:first-child){margin:30px 0}.body-copy>p:first-child,.body-copy>section>p:first-child{margin-bottom:30px}.body-copy>p:last-child::after,.body-copy>section>p:last-child::after{content:"";display:inline-block;background:url(javelin/images/favicon-bloomberg.png) no-repeat;background-size:14px 14px;width:14px;height:14px;margin-left:7px}.body-copy>.trashline{margin:0 auto;font-family:TiemposTextWeb-RegularItalic,Georgia,Cambria,"Times New Roman",Times,serif;color:#767676}.body-copy sup{font-size:75%;top:-.5em;line-height:0;vertical-align:baseline}.body-copy h1,.body-copy h2,.body-copy h3,.body-copy h4,.body-copy h5{font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;color:#3c3c3c}.body-copy h1{font-size:30px}.body-copy h2{font-size:26px}.body-copy h3{font-size:20px}.body-copy h4{font-size:16px}.body-copy h5{font-size:14px;line-height:1.2;padding-bottom:20px}.body-copy>h1,.body-copy>h2,.body-copy>h3,.body-copy>h4,.body-copy>h5{margin:.77em 0}.body-copy>ol,.body-copy>ul{overflow:hidden}.body-copy a.terminal-news-story::after{display:inline-block;width:20px;height:16px;margin:0 0 -4px 5px;content:"";background:no-repeat url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMC4zIDYzLjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMC4zIDYzLjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBjbGFzcz0ic3QwIiBzdHlsZT0iZmlsbDojMDAwMDAwIiBkPSJNNTQuMSw0Ny4xTDUyLjMsNDd2NC44Yy0wLjEsMC4xLTAuNywwLjUtMi4yLDAuNWMtMS41LDAtMi4xLTAuNC0yLjItMC41VjQ3bC0xLjgsMC4yIGMtOC44LDAuOC0xNC41LDQuMS0xNC41LDguMmMwLDQuOSw3LjgsOC40LDE4LjUsOC40czE4LjUtMy41LDE4LjUtOC40QzY4LjYsNTEuMiw2Mi45LDQ4LDU0LjEsNDcuMSBNNjEuMyw1OC43IGMtMywxLjItNi45LDEuOC0xMS4yLDEuOHMtOC4yLTAuNy0xMS4yLTEuOGMtMi40LTEtNC0yLjItNC0zLjNjMC0xLjcsMy42LTMuOCw5LjYtNC43djEuMWMwLDEuNywxLjQsMy43LDUuNSwzLjcgYzQuMSwwLDUuNS0yLDUuNS0zLjd2LTEuMWM2LjEsMC45LDkuNiwzLDkuNiw0LjdDNjUuMyw1Ni40LDYzLjcsNTcuNyw2MS4zLDU4LjcgTTQ3LjgsMzguN2wwLTM0LjhDNDcuOCwxLjcsNDYsMCw0My45LDBoLTQwIEMxLjcsMCwwLDEuNywwLDMuOXYzNC44YzAsMi4xLDEuNywzLjksMy45LDMuOWg0MEM0Niw0Mi42LDQ3LjgsNDAuOCw0Ny44LDM4LjcgTTQzLjIsMzhINC42VjQuNmgzOC42TDQzLjIsMzh6IE0xMDAuMywzLjkgYzAtMi4xLTEuNy0zLjktMy45LTMuOWgtNDBjLTIuMSwwLTMuOSwxLjctMy45LDMuOXYzNC44YzAsMi4xLDEuNywzLjksMy45LDMuOWg0MGMyLjEsMCwzLjktMS43LDMuOS0zLjlMMTAwLjMsMy45eiBNOTUuNywzOEg1Ny4xIFY0LjZoMzguNlYzOHoiLz48L3N2Zz4=)}.body-copy a.terminal-news-story:hover::after{background:no-repeat url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMC4zIDYzLjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMC4zIDYzLjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBjbGFzcz0ic3QwIiBzdHlsZT0iZmlsbDojMjgwMEQ3IiBkPSJNNTQuMSw0Ny4xTDUyLjMsNDd2NC44Yy0wLjEsMC4xLTAuNywwLjUtMi4yLDAuNWMtMS41LDAtMi4xLTAuNC0yLjItMC41VjQ3bC0xLjgsMC4yIGMtOC44LDAuOC0xNC41LDQuMS0xNC41LDguMmMwLDQuOSw3LjgsOC40LDE4LjUsOC40czE4LjUtMy41LDE4LjUtOC40QzY4LjYsNTEuMiw2Mi45LDQ4LDU0LjEsNDcuMSBNNjEuMyw1OC43IGMtMywxLjItNi45LDEuOC0xMS4yLDEuOHMtOC4yLTAuNy0xMS4yLTEuOGMtMi40LTEtNC0yLjItNC0zLjNjMC0xLjcsMy42LTMuOCw5LjYtNC43djEuMWMwLDEuNywxLjQsMy43LDUuNSwzLjcgYzQuMSwwLDUuNS0yLDUuNS0zLjd2LTEuMWM2LjEsMC45LDkuNiwzLDkuNiw0LjdDNjUuMyw1Ni40LDYzLjcsNTcuNyw2MS4zLDU4LjcgTTQ3LjgsMzguN2wwLTM0LjhDNDcuOCwxLjcsNDYsMCw0My45LDBoLTQwIEMxLjcsMCwwLDEuNywwLDMuOXYzNC44YzAsMi4xLDEuNywzLjksMy45LDMuOWg0MEM0Niw0Mi42LDQ3LjgsNDAuOCw0Ny44LDM4LjcgTTQzLjIsMzhINC42VjQuNmgzOC42TDQzLjIsMzh6IE0xMDAuMywzLjkgYzAtMi4xLTEuNy0zLjktMy45LTMuOWgtNDBjLTIuMSwwLTMuOSwxLjctMy45LDMuOXYzNC44YzAsMi4xLDEuNywzLjksMy45LDMuOWg0MGMyLjEsMCwzLjktMS43LDMuOS0zLjlMMTAwLjMsMy45eiBNOTUuNywzOEg1Ny4xIFY0LjZoMzguNlYzOHoiLz48L3N2Zz4=)}.body-copy .footnote{position:relative;cursor:pointer;display:inline-block;height:16px;width:26px;line-height:16px;vertical-align:middle;font-size:13px;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;text-align:center;background-color:#fff;border:1px solid #2800d7;color:#2800d7;border-radius:4px;margin-bottom:4px;margin-right:2px}.body-copy .footnote:focus{outline:0}.body-copy .footnote.open,.body-copy .footnote:hover{background-color:#2800d7;color:#fff}.body-copy .footnote.bottom-mode .footnote-anchor{width:0;height:0;display:block;position:absolute;top:-70px}.body-copy .footnote a{display:none}.body-copy .footnote-modal{display:none;width:300px;position:absolute;top:20px;background-color:#fff;box-shadow:-4px 4px 0 0 #2800d7;border:1px solid #2800d7;padding:11px;font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;font-size:14px;z-index:2;text-align:left}.body-copy .footnote-modal.open{display:block;color:#2800d7}.body-copy .footnote-modal.right{left:-1px}.body-copy .footnote-modal.left{right:-1px}.body-copy .noscript-footnotes .html-footnote{font-size:.85em;font-style:italic}.body-copy .noscript-footnotes .html-footnote .footnote-anchor{width:0;height:0;display:block;position:absolute;top:-70px}.body-copy .noscript-footnotes .html-footnote .sup-link{width:15px;height:16px;opacity:1;border-bottom:0;position:absolute;top:4px;left:-2px}.body-copy .quicktake,.body-copy .quicktake[data-tout-type=quicktake]{background-color:#4e4e5c;padding:20px;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;display:block;box-shadow:-4px 4px 0 0 #00b9e7;border-bottom:0;width:270px}.body-copy .quicktake .news-tout-title,.body-copy .quicktake[data-tout-type=quicktake] .news-tout-title{font-size:16px;color:#00b9e7;display:block}.body-copy .quicktake .news-tout-content,.body-copy .quicktake[data-tout-type=quicktake] .news-tout-content{font-size:22px;color:#fff;display:block}.body-copy .news-first-publish-date{font-style:italic}::selection{color:#fff;background:#2800d7}.disclaimer{display:block;font-weight:400;font-style:italic;font-size:16px;color:#999;line-height:1.3em}.pullquote{font-family:TiemposHeadlineWeb-Bold,Georgia,Cambria,"Times New Roman",Times,serif;font-size:44px;line-height:51px;color:#2800d7;text-align:center;margin:66px auto}.pullquote>em{font-family:TiemposTextWeb-Regular,Georgia,Cambria,"Times New Roman",Times,serif}blockquote{margin:0 60px;color:#999;font-family:TiemposTextWeb-RegularItalic,Georgia,Cambria,"Times New Roman",Times,serif;padding-left:15px;border-left:3px solid #2800d7}blockquote>p{margin:30px auto}blockquote>em{font-family:TiemposTextWeb-RegularItalic,Georgia,Cambria,"Times New Roman",Times,serif}figure[data-type=image]{width:100%;margin:48px auto}figure[data-type=image] .lazy-img{display:block;line-height:inherit;overflow:hidden}figure[data-type=image] img{width:100%;display:block}figure[data-type=image] figcaption{margin-top:4px;text-align:left;line-height:normal}figure[data-type=image] figcaption :not(h1):not(h2):not(h3):not(h4):not(h5){display:inline}figure[data-type=image] .news-figure-caption-text{font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;font-size:14px;line-height:normal;padding-right:7px}figure[data-type=image] .news-figure-credit{font-size:12px;line-height:21px;margin-top:3px;margin-bottom:10px;color:#999}figure[data-type=image][data-align=left] figcaption,figure[data-type=image][data-align=right] figcaption{line-height:21px}figure[data-type=image][data-image-size=wide]{text-align:center}figure[data-type=image][data-image-size=wide]>div{display:inline-block;max-width:100%}figure[data-type=image][data-image-size=wide] figcaption{border-bottom:1px solid #ddd}figure[data-type=image][data-image-size=wide] .caption{font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;font-size:14px;line-height:normal}figure[data-type=image][data-image-size=wide] .credit{font-size:12px;line-height:21px;margin-top:3px;margin-bottom:10px;color:#999}.slate-resizable-image-embed{text-align:center;margin:48px auto}.slate-resizable-image-embed.slate-image-embed__resize-full-width img{width:100%}figure[data-type=video]{margin:auto;margin-bottom:10px}figure[data-type=video] .video-player{position:relative;width:100%;height:0;padding-bottom:56.25%;overflow:hidden}figure[data-type=video] .video-player__container .video-js{position:relative;width:100%;height:0;padding-top:56.25%}figure[data-type=video] .video-player__container .video-js .vjs-poster:after{content:"";display:block;position:absolute;top:0;bottom:0;left:0;right:0;background-color:rgba(0,0,0,.2);transition:background-color .5s ease}figure[data-type=video] .video-player__container .video-js.vjs-user-active .vjs-poster:after{background-color:rgba(0,0,0,.35)}figure[data-type=video] .video-player__container object,figure[data-type=video] .video-player__container video{position:absolute;top:0;left:0;width:100%;height:100%}figure[data-type=video] .video-player__container .bvp-ad-big-play-button,figure[data-type=video] .video-player__container .vjs-big-play-button{width:150px;height:150px;max-width:150px;max-height:150px}figure[data-type=video] .video-player__container.stick .bvp-ad-big-play-button,figure[data-type=video] .video-player__container.stick .vjs-big-play-button{width:75px;height:75px}figure[data-type=video] .video-player__curtain.hidden{display:none}figure[data-type=video] .video-player__curtain>img{width:100%}figure[data-type=video] .video-player__overlay{top:0;left:0;width:100%;height:100%;display:block;position:absolute;background-color:rgba(0,0,0,.2);transition:background-color .5s ease;cursor:pointer}figure[data-type=video] .video-player__overlay:hover{background-color:rgba(0,0,0,.35)}figure[data-type=video] .video-player__play-icon{max-height:100%;max-width:100%;position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;opacity:1}figure[data-type=video] figcaption{text-align:left;margin-top:4px}figure[data-type=video] .news-figure-caption-text{font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;font-size:14px;line-height:normal;margin-top:3px}figure[data-type=video] .news-figure-credit{font-size:12px;line-height:normal}.ad{text-align:center}.section-break:first-line{font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;font-size:20px;color:#000}.thirdparty-embed{overflow:hidden;text-align:center;width:100%;height:100%}.thirdparty-embed .inline-media{float:none;text-align:left;margin-left:auto;margin-right:auto}.thirdparty-embed__container{display:inline-block;position:relative;width:100%;height:100%}.thirdparty-embed__iframe{position:absolute;width:100%;height:100%;top:0;left:0}.thirdparty-embed iframe{clear:both;margin-left:auto;margin-right:auto;border:0 none}.body-copy{font-size:16px;line-height:26px}.body-copy .footnote:before{content:"";position:absolute;top:-12px;left:-12px;background:0 0;width:50px;height:40px;z-index:3}.body-copy .quicktake{margin:auto}.pullquote{font-size:24px;line-height:32px;margin:16px auto}blockquote{font-size:15px;line-height:23px;margin:0 30px;padding-left:10px}figure[data-type=image]{margin:0 auto 1em}figure[data-type=image] .news-figure-caption-text{font-size:13px}figure[data-type=image][data-image-size=wide] .caption{font-size:13px}figure[data-type=video] .news-figure-caption-text{font-size:13px}.video-player__play-icon{width:100px}.thirdparty-embed{max-width:calc(100vw - 40px)}div[data-position=mobile-box]{display:block;margin:30px auto;width:calc(100vw - 40px);overflow:hidden;text-align:center}div[data-position=mobile-box] .mobile-box-ad-dummy{height:250px}div[data-position=mobile-box] .bb-ads__ad:not(:empty)~.mobile-box-ad-dummy{display:none}div[data-position=mobile-box] .bb-ads__empty{display:none}article[data-theme=default] .amp-nav-categories__link{color:#fff;text-decoration:none;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;display:block;text-align:center;font-size:24px;padding:10px 0;background:#2800d7}article[data-theme=default] .amp-nav-categories__link .amp-nav-categories__brand{color:#000;text-transform:capitalize;display:inline-block}article[data-theme=default] .lede-text-only__background .background-image{background:center top url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzY4MHB4IiBoZWlnaHQ9Ijg2NXB4IiB2aWV3Qm94PSIwIDAgNzY4MCA4NjUiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGRlZnM+PGxpbmVhckdyYWRpZW50IHgxPSI2NS43MTAxOTc2JSIgeTE9IjAlIiB4Mj0iNjcuOTc3NzE2NiUiIHkyPSI4My42OTA5MDU2JSIgaWQ9ImxpbmVhckdyYWRpZW50LTEiPjxzdG9wIHN0b3AtY29sb3I9IiMyODAwRDciIHN0b3Atb3BhY2l0eT0iMC45ODE3OTkxMzkiIG9mZnNldD0iMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSIjMjgwMEQ3IiBzdG9wLW9wYWNpdHk9IjAiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IHgxPSIzNi43MDEzMjg2JSIgeTE9IjAlIiB4Mj0iMzQuODU3MzI3MiUiIHkyPSI1Ny45NjQ1NjQ3JSIgaWQ9ImxpbmVhckdyYWRpZW50LTIiPjxzdG9wIHN0b3AtY29sb3I9IiMyODAwRDciIG9mZnNldD0iMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSIjMjgwMEQ3IiBzdG9wLW9wYWNpdHk9IjAuMTYxNTQzMjUyIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4MT0iODguMDAyMTUlIiB5MT0iMCUiIHgyPSI4OS42MzMyMDk2JSIgeTI9IjM5LjIxNDcyNDElIiBpZD0ibGluZWFyR3JhZGllbnQtMyI+PHN0b3Agc3RvcC1jb2xvcj0iIzI4MDBENyIgb2Zmc2V0PSIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9IiNGRkZGRkYiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PGcgaWQ9ImJhY2tncm91bmRfZGVmYXVsdCI+PGcgaWQ9Ikdyb3VwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgLTIuMDAwMDAwKSI+PHBvbHlnb24gaWQ9IlBhdGgtMiIgZmlsbD0idXJsKCNsaW5lYXJHcmFkaWVudC0xKSIgcG9pbnRzPSIwIDEgNDg2NC44OTg0NCAxIDAgNjU5LjM3NSI+PC9wb2x5Z29uPjxwb2x5Z29uIGlkPSJQYXRoLTMiIGZpbGw9InVybCgjbGluZWFyR3JhZGllbnQtMikiIHBvaW50cz0iMjYzMC40NzY1NiAyIDc2ODAgMiA3NjgwIDg0MiI+PC9wb2x5Z29uPjxwb2x5Z29uIGlkPSJQYXRoLTYiIGZpbGw9InVybCgjbGluZWFyR3JhZGllbnQtMykiIHBvaW50cz0iMCA4NjUuODU2NDQ1IDM2MDAuOTk1MTIgMC44NTY0NDUzMTIgMCAwLjg1NjQ0NTMxMiI+PC9wb2x5Z29uPjwvZz48L2c+PC9nPjwvc3ZnPg==)}article[data-theme=default] .lede-text-only__background .background-fade{background-image:linear-gradient(to bottom,#2800d7 -13%,rgba(255,255,255,0),#fff 91%)}article[data-theme=default] .figure-expandable .image:before{background-color:#2800d7}.terminal-tout{color:#fff;font-family:AvenirNext-Demi,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;background:#000;padding-left:10px;padding-right:10px;display:inline-block;line-height:30px}.terminal-tout__icon{margin-left:6px;height:12px;width:19px;display:inline-block;background:url(https://assets.bwbx.io/s3/javelin/public/javelin/images/terminal-9822fb86a6.svg) no-repeat;position:relative;top:2px}.terminal-tout__link{cursor:pointer;color:#fff;border-bottom:0;padding:0 10px;text-decoration:none}.terminal-tout__link:hover{color:#fff}.terminal-tout{font-size:10px;line-height:20px;padding-top:5px;padding-bottom:5px}.terminal-tout__icon-container{display:inline-block;height:12px;width:18px}.terminal-tout__icon{margin-left:4px;height:10px}.terminal-tout__link{display:block;padding:0}.amp-taboola{padding:0 20px}.recirc{width:300px;counter-reset:item}.recirc__title{font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;font-size:28px;color:#2800d7;margin-bottom:6px}.recirc__list{font-family:BWHaasText-55Roman,Helvetica,Arial,sans-serif;font-size:16px;line-height:22px;color:#3c3c3c}.recirc__list-item-article{border-top:2px dotted #ddd;padding:12px 0 12px 25px;counter-increment:item;position:relative}.recirc__list-item-article:last-child{border-bottom:2px dotted #ddd}.recirc__list-item-article:before{position:absolute;left:2px;top:17px;font-family:BWHaasHead-75Bold,Helvetica,Arial,sans-serif;content:counter(item);font-size:26px;font-weight:700;color:#2800d7;-webkit-text-fill-color:#fff;-webkit-text-stroke-width:.5px;-webkit-text-stroke-color:#2800d7}@media screen and (-webkit-min-device-pixel-ratio:0){.recirc__list-item-article:before{text-shadow:-2px 2px 0 #2800d7}}.recirc__list-item-article-link{color:#3c3c3c;text-decoration:none}.recirc__list-item-article-link:visited{color:#3c3c3c;text-decoration:none}.recirc__list-item-article-link:hover{color:#2800d7}.recirc__list-item-ad{width:100%}article .amp-recirc{padding:20px;display:block}article .amp-recirc .recirc{width:100%}</style>
+                </head>
+                <body class="amp" data-theme="default">
+                    
+        <amp-analytics type="comscore" id="analyticsComscore">
+            <script type="application/json">
+                {
+                    "vars": {"bb_localhour":"2017-09-27 09:07:31","bb_attributor":"bn","name":"markets:article","bb_author":"Ye Xie and Enda Curran","bb_pub_d":"2017-10-15T17:47:31.795Z","bb_cg_3":"China's Central Bank Chief Warns Corporate Debt Is Too High","bb_groupid":"OXTRDA6VDKHU01","bb_slug":"2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform","bb_transporter":"0","bb_brand":"business","bb_refresh":"0","bb_focus":true,"bb_region":"US","bb_exp":"AMER","c1":2,"c2":"3005059","c7":"https://www.bloomberg.com/news/articles/2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform","c8":"China's Central Bank Chief Warns Corporate Debt Is Too High","ns_site":"bloomberg"},
+                    "requests": {
+                        "pageview": "https://sb.scorecardresearch.com/b?bb_localhour=${bb_localhour}&bb_attributor=${bb_attributor}&name=${name}&bb_author=${bb_author}&bb_pub_d=${bb_pub_d}&bb_cg_3=${bb_cg_3}&bb_groupid=${bb_groupid}&bb_slug=${bb_slug}&bb_transporter=${bb_transporter}&bb_brand=${bb_brand}&bb_refresh=${bb_refresh}&bb_focus=${bb_focus}&bb_region=${bb_region}&bb_exp=${bb_exp}&c1=${c1}&c2=${c2}&c7=${c7}&c8=${c8}&ns_site=${ns_site}&c9=${documentReferrer}"
+                    }
+                }
+            </script>
+        </amp-analytics>
+        <amp-analytics type="googleanalytics" id="analyticsGA" config="https://www.bloomberg.com/amp/config/analytics.json" data-credentials="include">
+            <script type="application/json">
+                {
+                    "requests": {
+                        "customGAPageview": "${pageview}&cd2=${cd2}&cd3=${cd3}&cd4=${cd4}&cd5=${cd5}&cd7=${cd7}&cd9=${cd9}&cd10=${cd10}&cd13=${cd13}&cd14=${cd14}&cd31=${cd31}&cd32=${cd32}&cd34=${cd34}&cd35=${cd35}&cd36=${cd36}&cd37=${cd37}&cd38=${cd38}&cd40=${cd40}&cd45=${cd45}"
+                    },
+                    "vars": {
+                        "account": "UA-11413116-1"
+                    },
+                    "triggers": {
+                        "trackPageview": {
+                            "on": "visible",
+                            "request": "customGAPageview",
+                            "vars": {"cd2":"markets/article","cd3":"Ye Xie and Enda Curran","cd4":"2017-10-15T17:47:31.795Z","cd5":"2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform","cd7":"OXTRDA6VDKHU01","cd9":"content-article","cd10":null,"cd13":"content","cd14":"javelin-article-amp","cd31":"business","cd32":"Debt","cd34":"world,markets","cd35":"bn","cd36":"business,markets","cd37":"true","cd38":"false","cd40":"false","cd45":"China's Central Bank Chief Warns Corporate Debt Is Too High"}
+                        }
+                    }
+                }
+            </script>
+        </amp-analytics>
+        <amp-analytics type="parsely">
+            <script type="application/json">
+                {
+                    "vars": {
+                        "apikey": "bloomberg.com"
+                    }
+                }
+            </script>
+        </amp-analytics>
+    
+                    <article data-story-id="OXTRDA6VDKHU01" data-theme="default">
+                        <header>
+                            <a href="/business" class="amp-nav-categories__link" target="_self">Bloomberg<span class="amp-nav-categories__brand">business</span></a>
+                        </header>
+                        
+    <div class="lede-text-only lede">
+        <div class="lede-text-only__background">
+            <div class="background-image"></div>
+            <div class="background-dots"></div>
+            <div class="background-fade"></div>
+        </div>
+        <div class="lede-text-only__container">
+            <div class="lede-text-only__content">
+                
+                <h1 class="lede-text-only__hed"><span class="lede-text-only__highlight">China's Central Bank Chief Warns Corporate Debt Is Too High</span></h1>
+                
+                <address class="lede-text-only__byline">By <div class="author">Ye Xie
+        <div class="author__modal">
+            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/xieyebloomberg" target="_blank">@xieyebloomberg</a>
+            
+            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/AOaIfVMEEws/ye-xie" rel="author">More stories by Ye Xie</a>
+        </div>
+    </div> and <div class="author">Enda Curran
+        <div class="author__modal">
+            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/endacurran" target="_blank">@endacurran</a>
+            
+            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/ASJnLeYEat4/enda-curran" rel="author">More stories by Enda Curran</a>
+        </div>
+    </div></address>
+                
+                <div class="lede-text-only__times">
+                    
+        <time class="article-timestamp" itemprop="datePublished" datetime="2017-10-15T17:47:31.795Z" data-type="updated">
+            October 15, 2017, 1:47 PM EDT
+        </time>
+    
+                    
+        <time class="article-timestamp" itemprop="dateModified" datetime="2017-10-16T01:14:27.990Z" data-type="updated">
+            October 15, 2017, 9:14 PM EDT
+        </time>
+    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+                        <div class="content-well">
+                            <section class="main-column">
+                                
+    <ul class="abstract">
+        
+        <li class="abstract__item">
+            <div class="abstract__item-text">
+                Shadow banking activities have declined: long-time PBOC chief
+            </div>
+        </li>
+        <li class="abstract__item">
+            <div class="abstract__item-text">
+                Zhou pledges further deleveraging, financial stability
+            </div>
+        </li>
+    </ul>
+                                
+                                
+        <div class="body-copy">
+            <p>People&#x2019;s Bank of China Governor Zhou Xiaochuan warned that Chinese companies have taken on too much debt, and argued for less financial leverage as well as fiscal reforms to constrain local government borrowing.</p><p>&#x201C;The main problem is that the corporate debt is too high,&#x201D; Zhou said Sunday during a panel discussion at a Group of 30 seminar in Washington held in conjunction with the International Monetary Fund and World Bank annual meetings.&#xA0;</p><p>While debt servicing costs remain low, &#x201C;we need to pay further effort to deleveraging and strengthen policy for financial stability,&#x201D; Zhou said.&#xA0; He appeared alongside policy makers including Federal Reserve Chair Janet Yellen and Bank of Japan Governor Haruhiko Kuroda.</p>
+        <div data-position="mobile-box">
+            <amp-ad width="300" height="250" type="doubleclick" data-slot="/5262/markets/article" json="{&quot;targeting&quot;:{&quot;suid&quot;:&quot;OXTRDA6VDKHU01&quot;,&quot;page&quot;:&quot;articleamp&quot;,&quot;currentResource&quot;:&quot;Story|OXTRDA6VDKHU01&quot;,&quot;ni&quot;:[&quot;ACEXCLUDE&quot;,&quot;AGRKEY&quot;,&quot;ALLFEA&quot;,&quot;ALLTOP&quot;,&quot;ALLWWCUR&quot;,&quot;AMFEAT&quot;,&quot;ASFEAT&quot;,&quot;ASIA&quot;,&quot;ASIATOP&quot;,&quot;ASIATOPZ6&quot;,&quot;ASIAX&quot;,&quot;ASLEAD&quot;,&quot;ATTACHMENT&quot;,&quot;BFWCRED&quot;,&quot;BFWCREDAS&quot;,&quot;BFWFI&quot;,&quot;BGOVBILLGO&quot;,&quot;BGOVCODES&quot;,&quot;BIZNEWS&quot;,&quot;BOJ&quot;,&quot;BON&quot;,&quot;BONDWIRES&quot;,&quot;BRIC&quot;,&quot;BRICECO&quot;,&quot;BUSINESS&quot;,&quot;CECO&quot;,&quot;CEN&quot;,&quot;CHECO&quot;,&quot;CHINA&quot;,&quot;CMDGLOMAC&quot;,&quot;CMDKEY&quot;,&quot;CNTOP&quot;,&quot;CNTOPZ2&quot;,&quot;COR&quot;,&quot;COS&quot;,&quot;CREDITKEY&quot;,&quot;DC&quot;,&quot;DEBTKEY&quot;,&quot;DEVECO&quot;,&quot;ECO&quot;,&quot;ECOTOP&quot;,&quot;ECOTOPZ2&quot;,&quot;ECOTOPZ3&quot;,&quot;EGTOP&quot;,&quot;EM&quot;,&quot;EMTOP&quot;,&quot;EMTOPZ3&quot;,&quot;EMTOPZ4&quot;,&quot;EMTOPZ5&quot;,&quot;EMTOPZ6&quot;,&quot;EMTOPZ7&quot;,&quot;EQUITYKEY&quot;,&quot;EUFEAT&quot;,&quot;FED&quot;,&quot;FIALL&quot;,&quot;FIASST&quot;,&quot;FIN&quot;,&quot;FINNEWS&quot;,&quot;FIRSTWORD&quot;,&quot;FISCAL&quot;,&quot;FRX&quot;,&quot;FXKEY&quot;,&quot;G10MEMB&quot;,&quot;G7ECOS&quot;,&quot;G7MEMB&quot;,&quot;GBN&quot;,&quot;GLOBALMACR&quot;,&quot;GLOBFEAT&quot;,&quot;GOV&quot;,&quot;GOVMISC&quot;,&quot;HKTOP&quot;,&quot;HKTOPZ2&quot;,&quot;HKTOPZ3&quot;,&quot;IMF&quot;,&quot;INDUSTRIES&quot;,&quot;JAPAN&quot;,&quot;JNECO&quot;,&quot;JPGOV&quot;,&quot;LOANS&quot;,&quot;MAJOR&quot;,&quot;MARKETS&quot;,&quot;METALKEY&quot;,&quot;MISC&quot;,&quot;MOSTREAD&quot;,&quot;MSCIDVAS&quot;,&quot;MSCIEMAS&quot;,&quot;MSCINAMER&quot;,&quot;MSCIWORLD&quot;,&quot;NASIA&quot;,&quot;NASTOP&quot;,&quot;NASTOPZ2&quot;,&quot;NASTOPZ3&quot;,&quot;NASTOPZ4&quot;,&quot;NORTHAM&quot;,&quot;NRGKEY&quot;,&quot;OILKEY&quot;,&quot;ONWEB&quot;,&quot;PBC&quot;,&quot;PBCSPEAK&quot;,&quot;PHOTO&quot;,&quot;PLCY&quot;,&quot;PLCYASIA&quot;,&quot;PLCYEM&quot;,&quot;PLCYMAJOR&quot;,&quot;PLCYREGION&quot;,&quot;POLIRISK&quot;,&quot;RATESKEY&quot;,&quot;READ&quot;,&quot;READ1000&quot;,&quot;REGIONFILT&quot;,&quot;RUNEWS&quot;,&quot;SHADOW&quot;,&quot;SOVEREIGN&quot;,&quot;SPREGIONS&quot;,&quot;SRCRANK1&quot;,&quot;TIMECO&quot;,&quot;TIMENI&quot;,&quot;TOP&quot;,&quot;TOPBIZMKT&quot;,&quot;UPDATE&quot;,&quot;US&quot;,&quot;USECO&quot;,&quot;USGOV&quot;,&quot;WORLD&quot;,&quot;WWTOP&quot;,&quot;WWTOPAM&quot;,&quot;WWTOPAS&quot;,&quot;WWTOPBIZ&quot;,&quot;WWTOPEU&quot;,&quot;WWTOPFEAT&quot;,&quot;WWTOPGLOB&quot;,&quot;WWTOPLEAD&quot;,&quot;WWTOPZ3&quot;],&quot;tagr&quot;:[],&quot;kwl&quot;:[&quot;biz_bankofamerica_exclusion&quot;,&quot;biz_goldman_q2&quot;,&quot;biz_capone&quot;,&quot;biz_xojet&quot;,&quot;biz_testing123&quot;,&quot;biz_exxonmobil&quot;,&quot;biz_cboe&quot;,&quot;biz_pitney&quot;,&quot;biz_ubsbannedlist&quot;,&quot;biz_Samsung&quot;,&quot;biz_lincoln&quot;,&quot;biz_wellsfargosept&quot;,&quot;biz_pnc&quot;,&quot;biz_googlelist&quot;,&quot;biz_googlelisttwo&quot;,&quot;biz_googlelisthree&quot;,&quot;biz_synchrony&quot;,&quot;biz_technologykeywords&quot;,&quot;biz_citi&quot;,&quot;biz_vices&quot;,&quot;biz_autocompetitors&quot;,&quot;biz_trowe&quot;,&quot;biz_zurichsmartmatch&quot;,&quot;biz_atrocity&quot;,&quot;biz_nomurakeywords&quot;,&quot;biz_etrade&quot;,&quot;biz_bp1&quot;,&quot;biz_bp2&quot;,&quot;biz_bp3&quot;,&quot;biz_bp4&quot;,&quot;biz_schwab&quot;,&quot;biz_fidelity&quot;,&quot;biz_tda&quot;,&quot;biz_ibm3&quot;,&quot;biz_dit_terrorism&quot;,&quot;biz_microsoft&quot;,&quot;biz_kornferry&quot;,&quot;biz_generic&quot;,&quot;biz_fti&quot;,&quot;biz_lexus1&quot;,&quot;biz_brandusa&quot;,&quot;biz_lexus2&quot;,&quot;biz_singlecountry&quot;,&quot;biz_dun_bradstreet&quot;,&quot;biz_United&quot;,&quot;biz_BMW&quot;,&quot;biz_citi1&quot;,&quot;biz_att1&quot;,&quot;biz_mobkoimandslist&quot;,&quot;biz_tdameritrade&quot;,&quot;biz_ADGMNegativeList&quot;,&quot;biz_att3&quot;,&quot;biz_att6&quot;,&quot;biz_terranea&quot;,&quot;biz_facebook1&quot;,&quot;biz_facebook2&quot;],&quot;tickers&quot;:[],&quot;url&quot;:&quot;/news/articles/2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform&quot;,&quot;position&quot;:&quot;box1&quot;}}">
+            </amp-ad>
+        </div><p>China&#x2019;s surging corporate debt is a concern for global policy makers and investors alike. While the IMF upgraded China&#x2019;s growth forecasts this week, it <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2017-10-10/the-imf-s-view-brightens-takeaways-from-world-economic-outlook" title="The IMF&#x2019;s View Brightens: Takeaways From World Economic Outlook" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXKOZB6KLVRM">warned</a> that the economic expansion comes at the cost of a further increase in debt which may mask risks. Fed Governor Jerome Powell singled out China as the poster child for heavily-indebted corporate sectors in emerging markets, <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2017-10-12/fed-s-powell-sees-risks-from-debt-ladened-chinese-companies" title="Fed&#x2019;s Powell Sees Risks From Debt-Ladened Chinese Companies" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXPT306JTSEO">saying</a> &#x201C;risks are significant and bear close watching.&#x2019;&#x2019;</p><p>In his presentation, Zhou said China&#x2019;s overall debt level, including corporate, government and household, started to decline this year after policy makers&#x2019; efforts to rein in leverage. &#x201C;Although it&#x2019;s a very moderate decline, anyway, the trend has been changed,&#x201D; he said.</p><p><a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/politics/articles/2017-10-09/how-china-is-getting-serious-about-financial-risk-quicktake-q-a" title="How China Is Getting Serious About Financial Risk: QuickTake Q&amp;A" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXJHXK6JIJUO">How China Is Getting Serious About Financial Risk: QuickTake Q&amp;A</a></p><p>Zhou said some of China&#x2019;s corporate debt includes borrowing from financing vehicles owned by local governments. When that debt is re-defined, corporate borrowing is estimated at 120 percent to 130 percent of gross domestic product, instead of the official figure of 160 percent of GDP. Government debt would be about 70 percent instead of 36 percent, he said.</p><p>While it&#x2019;s a more balanced debt structure than commonly perceived, &#x201C;it&#x2019;s still important to look at the local government behavior,&#x201D; Zhou added.</p>
+        <div data-position="mobile-box">
+            <amp-ad width="300" height="250" type="doubleclick" data-slot="/5262/markets/article" json="{&quot;targeting&quot;:{&quot;suid&quot;:&quot;OXTRDA6VDKHU01&quot;,&quot;page&quot;:&quot;articleamp&quot;,&quot;currentResource&quot;:&quot;Story|OXTRDA6VDKHU01&quot;,&quot;ni&quot;:[&quot;ACEXCLUDE&quot;,&quot;AGRKEY&quot;,&quot;ALLFEA&quot;,&quot;ALLTOP&quot;,&quot;ALLWWCUR&quot;,&quot;AMFEAT&quot;,&quot;ASFEAT&quot;,&quot;ASIA&quot;,&quot;ASIATOP&quot;,&quot;ASIATOPZ6&quot;,&quot;ASIAX&quot;,&quot;ASLEAD&quot;,&quot;ATTACHMENT&quot;,&quot;BFWCRED&quot;,&quot;BFWCREDAS&quot;,&quot;BFWFI&quot;,&quot;BGOVBILLGO&quot;,&quot;BGOVCODES&quot;,&quot;BIZNEWS&quot;,&quot;BOJ&quot;,&quot;BON&quot;,&quot;BONDWIRES&quot;,&quot;BRIC&quot;,&quot;BRICECO&quot;,&quot;BUSINESS&quot;,&quot;CECO&quot;,&quot;CEN&quot;,&quot;CHECO&quot;,&quot;CHINA&quot;,&quot;CMDGLOMAC&quot;,&quot;CMDKEY&quot;,&quot;CNTOP&quot;,&quot;CNTOPZ2&quot;,&quot;COR&quot;,&quot;COS&quot;,&quot;CREDITKEY&quot;,&quot;DC&quot;,&quot;DEBTKEY&quot;,&quot;DEVECO&quot;,&quot;ECO&quot;,&quot;ECOTOP&quot;,&quot;ECOTOPZ2&quot;,&quot;ECOTOPZ3&quot;,&quot;EGTOP&quot;,&quot;EM&quot;,&quot;EMTOP&quot;,&quot;EMTOPZ3&quot;,&quot;EMTOPZ4&quot;,&quot;EMTOPZ5&quot;,&quot;EMTOPZ6&quot;,&quot;EMTOPZ7&quot;,&quot;EQUITYKEY&quot;,&quot;EUFEAT&quot;,&quot;FED&quot;,&quot;FIALL&quot;,&quot;FIASST&quot;,&quot;FIN&quot;,&quot;FINNEWS&quot;,&quot;FIRSTWORD&quot;,&quot;FISCAL&quot;,&quot;FRX&quot;,&quot;FXKEY&quot;,&quot;G10MEMB&quot;,&quot;G7ECOS&quot;,&quot;G7MEMB&quot;,&quot;GBN&quot;,&quot;GLOBALMACR&quot;,&quot;GLOBFEAT&quot;,&quot;GOV&quot;,&quot;GOVMISC&quot;,&quot;HKTOP&quot;,&quot;HKTOPZ2&quot;,&quot;HKTOPZ3&quot;,&quot;IMF&quot;,&quot;INDUSTRIES&quot;,&quot;JAPAN&quot;,&quot;JNECO&quot;,&quot;JPGOV&quot;,&quot;LOANS&quot;,&quot;MAJOR&quot;,&quot;MARKETS&quot;,&quot;METALKEY&quot;,&quot;MISC&quot;,&quot;MOSTREAD&quot;,&quot;MSCIDVAS&quot;,&quot;MSCIEMAS&quot;,&quot;MSCINAMER&quot;,&quot;MSCIWORLD&quot;,&quot;NASIA&quot;,&quot;NASTOP&quot;,&quot;NASTOPZ2&quot;,&quot;NASTOPZ3&quot;,&quot;NASTOPZ4&quot;,&quot;NORTHAM&quot;,&quot;NRGKEY&quot;,&quot;OILKEY&quot;,&quot;ONWEB&quot;,&quot;PBC&quot;,&quot;PBCSPEAK&quot;,&quot;PHOTO&quot;,&quot;PLCY&quot;,&quot;PLCYASIA&quot;,&quot;PLCYEM&quot;,&quot;PLCYMAJOR&quot;,&quot;PLCYREGION&quot;,&quot;POLIRISK&quot;,&quot;RATESKEY&quot;,&quot;READ&quot;,&quot;READ1000&quot;,&quot;REGIONFILT&quot;,&quot;RUNEWS&quot;,&quot;SHADOW&quot;,&quot;SOVEREIGN&quot;,&quot;SPREGIONS&quot;,&quot;SRCRANK1&quot;,&quot;TIMECO&quot;,&quot;TIMENI&quot;,&quot;TOP&quot;,&quot;TOPBIZMKT&quot;,&quot;UPDATE&quot;,&quot;US&quot;,&quot;USECO&quot;,&quot;USGOV&quot;,&quot;WORLD&quot;,&quot;WWTOP&quot;,&quot;WWTOPAM&quot;,&quot;WWTOPAS&quot;,&quot;WWTOPBIZ&quot;,&quot;WWTOPEU&quot;,&quot;WWTOPFEAT&quot;,&quot;WWTOPGLOB&quot;,&quot;WWTOPLEAD&quot;,&quot;WWTOPZ3&quot;],&quot;tagr&quot;:[],&quot;kwl&quot;:[&quot;biz_bankofamerica_exclusion&quot;,&quot;biz_goldman_q2&quot;,&quot;biz_capone&quot;,&quot;biz_xojet&quot;,&quot;biz_testing123&quot;,&quot;biz_exxonmobil&quot;,&quot;biz_cboe&quot;,&quot;biz_pitney&quot;,&quot;biz_ubsbannedlist&quot;,&quot;biz_Samsung&quot;,&quot;biz_lincoln&quot;,&quot;biz_wellsfargosept&quot;,&quot;biz_pnc&quot;,&quot;biz_googlelist&quot;,&quot;biz_googlelisttwo&quot;,&quot;biz_googlelisthree&quot;,&quot;biz_synchrony&quot;,&quot;biz_technologykeywords&quot;,&quot;biz_citi&quot;,&quot;biz_vices&quot;,&quot;biz_autocompetitors&quot;,&quot;biz_trowe&quot;,&quot;biz_zurichsmartmatch&quot;,&quot;biz_atrocity&quot;,&quot;biz_nomurakeywords&quot;,&quot;biz_etrade&quot;,&quot;biz_bp1&quot;,&quot;biz_bp2&quot;,&quot;biz_bp3&quot;,&quot;biz_bp4&quot;,&quot;biz_schwab&quot;,&quot;biz_fidelity&quot;,&quot;biz_tda&quot;,&quot;biz_ibm3&quot;,&quot;biz_dit_terrorism&quot;,&quot;biz_microsoft&quot;,&quot;biz_kornferry&quot;,&quot;biz_generic&quot;,&quot;biz_fti&quot;,&quot;biz_lexus1&quot;,&quot;biz_brandusa&quot;,&quot;biz_lexus2&quot;,&quot;biz_singlecountry&quot;,&quot;biz_dun_bradstreet&quot;,&quot;biz_United&quot;,&quot;biz_BMW&quot;,&quot;biz_citi1&quot;,&quot;biz_att1&quot;,&quot;biz_mobkoimandslist&quot;,&quot;biz_tdameritrade&quot;,&quot;biz_ADGMNegativeList&quot;,&quot;biz_att3&quot;,&quot;biz_att6&quot;,&quot;biz_terranea&quot;,&quot;biz_facebook1&quot;,&quot;biz_facebook2&quot;],&quot;tickers&quot;:[],&quot;url&quot;:&quot;/news/articles/2017-10-15/china-s-zhou-warns-corporate-debt-too-high-urges-fiscal-reform&quot;,&quot;position&quot;:&quot;box2&quot;}}">
+            </amp-ad>
+        </div><p>Complicated relationships among provincial, municipal, and more than 3,000 county governments creates an&#xA0;opaque system and intensify price distortions for loans and debt borrowed by local governments, he said.</p><p>&#x201C;There is a problem that the fiscal policy transparency may not be good enough,&#x201D; said Zhou, 69, who&#x2019;s lead the PBOC since 2002. &#x201C;The inter-government relationship has lots of problems. There&#x2019;s no very clear fiscal discipline to constrain those local governments. In the financial markets, there&#x2019;s distortion.&#x201D;</p><p>Zhou said the government will &#x201C;gradually&#x201D; tackle these problems, and &#x201C;sooner or later, the central government must pay more attention on fiscal reform.&#x201D;</p><h3>Opening Up</h3><p>Zhou&#x2019;s remarks were the latest in a string of public comments by China&#x2019;s normally low-profile central bank chief. Before heading for Washington, he used an interview with the Beijing-based financial magazine Caijing to make a <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2017-10-10/china-s-central-bank-chief-says-time-for-reform-must-be-seized" title="China Central Bank Boss Calls for Reform Amid Congress Countdown" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXLO2V6KLVR4">fresh call</a> to further open up the financial sector.</p><p>During Sunday&#x2019;s the panel discussion, Zhou said the government&#x2019;s efforts to cut overcapacity in the steel and cement industries have proven better than expected and may reach a target of reducing capacity by 10 percent. Economic growth may reach 7 percent this year, which would be the fastest expansion since 2014, he said.</p><p>Turning to financial stability, Zhou said shadow banking activities have slowed in response to policy makers&#x2019; campaign to reduce financial risk taking.</p><p>Still, other vulnerabilities exist. He called the asset management business &#x201C;a relatively chaotic situation&#x201D; because the three regulators overseeing the industry set different rules. Internet firms&#xA0;without financial licenses may &#x201C;cause certain competition and financial stability problems,&#x201D; he said. In addition, there&#x2019;s inadequate policies to regulate&#xA0;cross-sector transactions from financial holding companies, and there may be some illegal operations in terms of capital financing.</p><p>Zhou had earlier released a statement during the IMF meetings that said a campaign to rein in leverage is showing results, and that China will monitor and prevent&#xA0;shadow banking and real estate risk.</p><p>Economic indicators show &quot;stabilized and stronger growth&quot; and the momentum of a 6.9 percent expansion in the first six months of 2017 &quot;may continue in the second half,&quot; Zhou said&#xA0;last week at an event in Washington, according to the <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/news/articles/2017-10-14/pboc-s-zhou-says-china-s-6-9-growth-may-continue-in-second-half" title="PBOC Governor Zhou Says China&#x2019;s 6.9% Growth &#x2018;May Continue&#x2019; (1)" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXST4W6S9728">statement</a> released Saturday.&#xA0;</p><p>Data due for release Thursday will show a 6.8 percent expansion in the third quarter, according to economists surveyed by Bloomberg. The Chinese Academy of Social Sciences projected that 6.8 percent growth in the period will be followed by 6.7 percent in the fourth quarter, the Economic Information Daily <a itemscope="itemscope" itemprop="StoryLink" href="/news/terminal/OXW0OF6JIJUO" title="Researchers See China 3Q GDP Growth at 6.8%: Eco. Info. Daily" class="terminal-news-story" target="_blank" rel="nofollow noopener"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OXW0OF6JIJUO">reported</a> Monday.</p>
+        <ol class="noscript-footnotes"></ol>
+    
+        </div>
+    
+                                
+    <div class="terminal-tout-container">
+        <div class="terminal-tout">
+            <span class="terminal-tout__text">Before it's here, it's on the Bloomberg Terminal.</span>
+            <div class="terminal-tout__icon"></div>
+            <a href="https://bloom.bg/dg-ws-core-bcom-a1" class="terminal-tout__link">LEARN MORE</a>
+        </div>
+    </div>
+                            </section>
+                        </div>
+                        
+        <div class="amp-recirc right-rail">
+            
+        <div class="recirc rotation-item">
+            <div class="recirc__title">Most Read</div>
+            <ol class="recirc__list">
+                
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/hamptons-mansions-pile-up-while-buyers-battle-over-smaller-homes">Hamptons Buyers Battle Over Cheaper Homes — That Is, Under $3.3 Million</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/rising-rents-are-pushing-more-tenants-past-the-breaking-point">Rising Rents Are Pushing More Tenants Past the Breaking Point</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/drug-wholesalers-slump-after-amazon-com-obtains-state-licenses">Amazon Threat Causes Shakeout in the Health-Care Industry</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-26/billionaires-fortunes-rise-to-6-trillion-with-asia-leading-way">Asia Now Has More Billionaires Than the U.S.</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="https://www.bloomberg.com/news/articles/2017-10-25/inside-apple-s-struggle-to-get-the-iphone-x-to-market-on-time">Inside Apple’s Struggle to Get the iPhone X to Market on Time</a>
+        </li>
+            </ol>
+        </div>
+        </div>
+    
+                    </article>
+                    
+    <div class="amp-taboola">
+        <amp-embed
+            width="100"
+            height="283"
+            type="taboola"
+            layout="responsive"
+            heights="(min-width:1907px) 39%, (min-width:1200px) 46%, (min-width:780px) 64%, (min-width:480px) 98%, (min-width:460px) 167%, 196%"
+            data-publisher="bloomberg"
+            data-mode="thumbnails-a"
+            data-placement="Below Article Thumbnails"
+            data-article="auto">
+        </amp-embed>
+    </div>
+                </body>
+            </html>
+        

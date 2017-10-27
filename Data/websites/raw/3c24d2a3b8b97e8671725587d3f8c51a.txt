@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+
+<title>Twenty-Eight Years After – An Interview With Wang Dan &laquo; China Change</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://chinachange.org/xmlrpc.php" />
+
+<script type="text/javascript">
+  WebFontConfig = {"typekit":{"id":"rhm2ooj"}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active #logo{font-family:"liberation-sans-1","liberation-sans-2",sans-serif;font-style:normal;font-weight:700}.wf-active #site-description{font-size:14.1pt;font-style:normal;font-weight:700}.wf-active html{font-family:"droid-serif-1","droid-serif-2",serif;font-size:112%}.wf-active body{font-size:15.7px}.wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"droid-serif-1","droid-serif-2",serif;font-size:112%}.wf-active input[type="password"], .wf-active input[type="text"]{font-size:13.4px}.wf-active button, .wf-active html input[type="button"], .wf-active input[type="reset"], .wf-active input[type="submit"]{font-size:11.2px}.wf-active .posts .page, .wf-active .posts .post{font-size:13.4px}.wf-active .commentlist{font-family:"droid-serif-1","droid-serif-2",serif}.wf-active .commentlist .comment, .wf-active .commentlist > li{font-size:15.7px}.wf-active #commentform{font-family:"droid-serif-1","droid-serif-2",serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-weight:700;font-style:normal}.wf-active h1{font-size:35.2px;font-style:normal;font-weight:700}.wf-active h2{font-size:21.1px;font-style:normal;font-weight:700}.wf-active h3{font-size:19.4px;font-style:normal;font-weight:700}.wf-active h4{font-size:17.6px;font-style:normal;font-weight:700}.wf-active h5{font-size:15.8px;font-style:normal;font-weight:700}.wf-active h6{font-size:14.1px;font-style:normal;font-weight:700}.wf-active .title-header{font-family:"liberation-sans-1","liberation-sans-2",sans-serif;font-style:normal;font-weight:700}.wf-active .posts .page h2, .wf-active .posts .post h2{font-size:10.6px;font-weight:700;font-style:normal}.wf-active .posts .sticky h2{font-size:12.3px;font-style:normal;font-weight:700}.wf-active div.single h3{font-size:17.6px;font-style:normal;font-weight:700}.wf-active div.single h4{font-size:15.8px;font-style:normal;font-weight:700}.wf-active div.single h5{font-size:14.1px;font-style:normal;font-weight:700}.wf-active div.single h6{font-size:12.3px;font-style:normal;font-weight:700}.wf-active .widget h1, .wf-active .widget h2, .wf-active .widget h3, .wf-active .widget h4, .wf-active .widget h5, .wf-active .widget h6{font-size:8.8px;font-style:normal;font-weight:700}</style>
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=chinachange.org&amp;id=45895295&amp;t=1509094572&amp;back=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//chinachangedotorg.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="China Change &raquo; Feed" href="https://chinachange.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="China Change &raquo; Comments Feed" href="https://chinachange.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="China Change &raquo; Twenty-Eight Years After – An Interview With Wang&nbsp;Dan Comments Feed" href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyNUltuwyAQvFDppmoeykfVsyx4g0kWLwIsN7cvxI4ipy3qD8zADPsCpqCMDJmGDH5UgUfrhgRTMOJV8o7p+sReTUov8LuN3YUSnCkHNBd1Yy15JMZMnQqS8hNr2YxEKuc+YK4KT51DYvJF1rJNrrNU4hTJglWmr6bFh/09UIV9qaqZ2dworUOklFRZvRu9yn3J7advPoYwakCDXdEahJSvTP+pIolxyMoVyZrMZgeD5PnyDlqvWhLFYjA7GVZEnRhdbA9Rs9gC7a2zD9oyoamPa4wP1JLXLzFnAqnHWGMte8u1dKWkI2vy1yj6LVgWjVwFn/7jbbfZ7I7Hw/vh/A1vwzA2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chinachangedotorg.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='A Record of&nbsp;709' href='https://chinachange.org/2017/10/15/a-record-of-709/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" />
+<link rel='shortlink' href='http://wp.me/p36zsH-49C' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Twenty-Eight Years After – An Interview With Wang Dan" />
+<meta property="og:url" content="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" />
+<meta property="og:description" content="October 25, 2017 &nbsp; Yaxue Cao sat down with Wang Dan (王丹) on September 27 and talked about his past 28 years since 1989: the 1990s, Harvard, teaching in Taiwan, China’s younger generation, his …" />
+<meta property="article:published_time" content="2017-10-26T03:02:41+00:00" />
+<meta property="article:modified_time" content="2017-10-26T03:02:41+00:00" />
+<meta property="og:site_name" content="China Change" />
+<meta property="og:image" content="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg" />
+<meta property="og:image:width" content="1653" />
+<meta property="og:image:height" content="2135" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@chinachange_org" />
+<meta name="twitter:text:title" content="Twenty-Eight Years After – An Interview With Wang&nbsp;Dan" />
+<meta name="twitter:image" content="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@chinachange_org" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=114" />
+<link rel='openid.server' href='https://chinachangedotorg.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://chinachangedotorg.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://chinachange.org/osd.xml" title="China Change" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#FFFFFF" />
+<meta name="application-name" content="China Change" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="News and Commentaries for a free and just China" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://chinachange.org/feed/;icon-uri=https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Twenty-Eight Years After – An Interview With Wang&nbsp;Dan | China Change on WordPress.com" />
+<meta name="description" content="October 25, 2017 &nbsp; Yaxue Cao sat down with Wang Dan (王丹) on September 27 and talked about his past 28 years since 1989: the 1990s, Harvard, teaching in Taiwan, China’s younger generation, his idea for a think tank, his books, assessment of current China, Liu Xiaobo, and the New School for Democracy. –– The&hellip;" />
+	<style type="text/css">
+			#site-title,
+		#site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #FFFFFF; }
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css" id="custom-colors-css">#wrap .navigation span a,#wrap .navigation span a:hover,#wrap .reply .comment-reply-link,#wrap .reply .comment-reply-link:hover,#wrap small #cancel-comment-reply-link,#wrap small #cancel-comment-reply-link:hover{color:#fff}#wrap a{color:#073b68}#site-description{color:#073b68}#main-nav ul{background-color:#0b1746}button,html input[type="button"],input[type="reset"],input[type="submit"]{background-color:#0b1746}#commentform #submit:hover{background-color:#0b1746}#wrap .navigation a,#wrap .comment-reply-link,#wrap #cancel-comment-reply-link{background-color:#0b1746}html{color:#0a0a0a}#wrap a:hover{color:red}button:hover,input[type="submit"]:hover{background-color:red}.home.page .posts .page{border-color:red}#wrap a.highlight,#wrap h2.heading a,#wrap .entry-meta a{color:red}#content .widget_pages>ul li.current_page_item>a:hover,#content .widget ul.menu li.current-menu-item>a:hover{color:red}#main-nav ul a:hover,#main-nav .menu-item:hover,#main-nav .page_item:hover,#main-nav .current-menu-item>a,#main-nav .current-menu-ancestor>a,#main-nav .current_page_item>a,#main-nav .current_page_ancestor>a{background-color:red}#wrap .navigation a:hover,#wrap a.comment-reply-link:hover,#wrap #cancel-comment-reply-link:hover{background-color:red}#wrap{background-color:#fff}.commentlist li.bypostauthor{background-color:#fff}#commentform #submit{color:#fff}#wrap .navigation a,#wrap .comment-reply-link,#wrap #cancel-comment-reply-link{color:#fff}#wrap .navigation a:hover,#wrap a.comment-reply-link:hover,#wrap #cancel-comment-reply-link:hover{color:#fff}.academica-featured-posts-gallery .thumb-placeholder{background-color:#fff}</style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&#038;csblog=36zsH&#038;cscache=6&#038;csrev=213" />
+		</head>
+<body class="post-template-default single single-post postid-15972 single-format-standard custom-background mp6 customizer-styles-applied column-double highlander-enabled highlander-light custom-colors">
+	<div id="wrap">
+		<div id="header" class="clearfix">
+
+			<div id="main-nav">
+				<ul id="menuhead" class="menu"><li id="menu-item-9060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-9060"><a href="https://chinachange.org/">Home</a></li>
+<li id="menu-item-9061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9061"><a href="https://chinachange.org/about/">About</a></li>
+<li id="menu-item-9062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9062"><a href="https://chinachange.org/authors-translated/">Authors Translated</a></li>
+<li id="menu-item-9081" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-9081"><a href="https://chinachange.org/2015/10/26/ilham-tohti-documentary/">Ilham Tohti Documentary</a></li>
+<li id="menu-item-9066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9066"><a href="https://chinachange.org/complete-archive/">Complete Archive</a></li>
+<li id="menu-item-9067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9067"><a href="https://chinachange.org/become-a-benefactor/">Become a Benefactor / 成為一名施助者</a></li>
+</ul>			</div><!-- end #main-nav -->
+
+			<div id="logo">
+				<h1 id="site-title">
+					<a href="https://chinachange.org" title="China Change - News and Commentaries for a free and just China" rel="home">
+						China Change					</a>
+				</h1>
+				<p id="site-description">News and Commentaries for a free and just China</p>
+			</div><!-- end #logo -->
+
+			<div id="search">
+				<form method="get" id="searchform" action="https://chinachange.org/">
+	<label for="s" class="assistive-text hidden">Search</label>
+	<input id="s" type="text" name="s" placeholder="Search">
+	<button id="searchsubmit" name="submit" type="submit">Search</button>
+</form>			</div><!-- end #search -->
+
+			
+<div id="social">
+	<ul>
+			</ul>
+</div>
+		</div><!-- end #header -->
+
+			<div id="slider-wrap">
+		<a href="https://chinachange.org/" title="China Change" rel="home">
+			<span class="assistive-text">China Change</span>
+			<img src="https://chinachangedotorg.files.wordpress.com/2013/06/cropped-copy-e.jpg" width="960" height="112" alt="" />
+		</a>
+	</div><!-- end #slider-wrap -->
+	
+<div id="content" class="clearfix">
+
+	
+	<div class="column column-title">
+		<div id="crumbs">
+	<p><a href="https://chinachange.org">Home</a> &raquo; <a href="https://chinachange.org/category/civil-society-2/">Civil Society</a> &raquo; <span class="current">Twenty-Eight Years After – An Interview With Wang&nbsp;Dan</span></p>
+</div><!-- end #crumbs -->		<h1 class="title-header">Twenty-Eight Years After – An Interview With Wang&nbsp;Dan</h1>	</div><!-- end .column-title -->
+
+		<div class="column column-narrow">
+			</div><!-- end .column-narrow -->
+	
+	<div class="column column-content single">
+
+		
+<div id="post-15972" class="post-15972 post type-post status-publish format-standard hentry category-civil-society-2 category-government category-human-rights-civil-rights category-interviews category-political-transition tag-153613 tag-china tag-democracy-movement tag-harvard-university tag-history tag-june-4th tag-liu-xiaobo tag-new-school-for-democracy tag-political-opposition tag-political-transition-2 tag-prison tag-student-leader tag-tiananmen-movement tag-wang-dan mentions-yaxuecao">
+
+	<div class="entry-content clearfix">
+		<p>October 25, 2017</p>
+<p>&nbsp;</p>
+<p><span style="font-size:14px;"><em>Yaxue Cao sat down with Wang Dan (王丹) on September 27 and talked about his past 28 years since 1989: the 1990s, Harvard, teaching in Taiwan, China’s younger generation, his idea for a think tank, his books, assessment of current China, Liu Xiaobo, and the New School for Democracy.</em> –– The Editors</span></p>
+<p>&nbsp;</p>
+<div data-shortcode="caption" id="attachment_15979" style="width: 1663px" class="wp-caption alignnone"><img data-attachment-id="15979" data-permalink="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/wang-dan-cafe/" data-orig-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=730" data-orig-size="1653,2135" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPad mini 3&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1506510376&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.3&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Wang Dan cafe" data-image-description="" data-medium-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=730?w=232" data-large-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=730?w=730" class="alignnone size-full wp-image-15979" src="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=730" alt="Wang Dan cafe" srcset="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=730 730w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=1460 1460w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=116 116w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=232 232w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=768 768w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-cafe.jpg?w=793 793w" sizes="(max-width: 730px) 100vw, 730px"   /><p class="wp-caption-text">Wang Dan. Photo: China Change</p></div>
+<p>&nbsp;</p>
+<p><strong><em>YC: </em></strong><em>Wang Dan, sitting down to do an interview with you I’m feeling nostalgic, because as soon as I close my eyes the name Wang Dan brings back the image of that skinny college student with large glasses holding a megaphone in a sea of protesters on Tiananmen Square. That was 1989. Now you have turned 50. So having this interview with you outside a cafe in Washington, D.C., in the din of traffic, I feel is a bit like traversing history. You recently moved to the Washington, D.C. area. I suspect many of our readers are like me –– the Wang Dan they know is still that student on the Square. Perhaps I can first ask you to talk a bit about where you’ve been and what you’ve been up to since 1989? </em></p>
+<p><strong>Wang Dan: </strong>When you speak like that, I feel that I have become a political terracotta warrior in other people’s eyes; when they look at me, they see only history. For me, 1989 is indeed a label I can’t undo. I’m conflicted about this label. On the one hand, I feel that I can’t rest on history. I don’t want people to see me and think of 1989 only, because if that were the case, it would seem that my 50 years has been lived doing nothing else. On the other hand, I am also willing to bear this label, and the sense of responsibility that comes with it. As a witness, survivor, and one of the organizers, this is a responsibility I cannot shirk. Everyone lives bearing many contradictions; this is my conflict, and all I can do is carry it.</p>
+<p>After 1989, my life experience has been pretty straightforward. From 1989 to 1998, for a period of almost 10 years, I basically was in prison. From 1989 to 1993, I was in Qincheng Prison (秦城監獄) and Beijing No. 2 Prison (北京第二監獄); I was released in 1993. Then I was detained for the second time in 1995 on the charge of “conspiring to subvert the government.” During the period from 1993 to 1995, I was in Beijing starting to get in touch with friends who had participated in the student movement, and I also traveled all over the country. Deng Xiaoping went on a “Southern Tour,” I also took a southern tour. I started to assemble some of the June 4 student protesters. We issued some open letters, and started a fund to support political prisoners. We found more than 100 people to contribute, each person contributed ¥10-20 each month. The government said our activities were that of a counter-revolutionary group. This criminal charge was the same as Liu Xiaobo’s –– inciting subversion: writing essays, accepting interviews, criticizing the government. Because of these activities, I was detained again in 1995, but in 1998 I was sent into exile to the United States. Although I was out of prison for more than two years from 1993 to 1995, I had absolutely no freedom. Wherever I went, there were agents following me. The big prison.</p>
+<p><strong><em><img data-attachment-id="15984" data-permalink="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/wang-dan-tam/" data-orig-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=454&#038;h=682" data-orig-size="640,961" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Wang Dan, TAM" data-image-description="" data-medium-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=454&#038;h=682?w=200" data-large-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=454&#038;h=682?w=640" class="  wp-image-15984 alignleft" src="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=454&#038;h=682" alt="Wang Dan, TAM" width="454" height="682" srcset="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=454&amp;h=682 454w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=100&amp;h=150 100w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg?w=200&amp;h=300 200w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-tam.jpg 640w" sizes="(max-width: 454px) 100vw, 454px" />YC: </em></strong><em>When you were released from prison in 1998, you hadn’t finished serving your sentence, right? </em></p>
+<p><strong>Wang Dan: </strong>I was sentenced to 11 years in prison, but I only stayed in prison for 3 years. I was released on medical parole as a result of international pressure.</p>
+<p><strong><em>YC: </em></strong><em>At the time China needed acceptance from the international community, and it wanted to join the World Trade Organization. Now this kind of international pressure is impossible. </em></p>
+<p><strong>Wang Dan: </strong>After I came to the U.S. in 1998, in my second month here, I entered Harvard University. First, I attended summer school for a month, and then took preparatory classes for a year. I then studied for my Master’s degree and Ph.D. I graduated from Harvard in 2008. This was another 10 years, and this 10-year period was for the most part study. Of course, I also engaged in some democracy movement activities in my spare time. After graduating from Harvard, I went to England where I lived for a time, and then in 2009 I went to Taiwan to teach, which is where I have been living until this year, 2017. That’s eight years. So in the 28 years since 1989, I have either been in prison, studying, or teaching. During this whole time, regardless of what I was doing, I remained engaged in opposition activities.</p>
+<p><strong><em>YC: </em></strong><em>You were a history student at Peking University, and you studied history at Harvard. What would you most like to share about your 10 years at Harvard?  </em></p>
+<p><strong>Wang Dan: </strong>Harvard has had a great impact on my life. I think with respect to China’s future, I have political aspirations, or a political ideal. I believe that China’s political future requires people who have specialized knowledge. So I feel a strong sense of accomplishment about getting my degree from Harvard. I achieved a goal I had set for myself. I think it is necessary preparation for my political future. This is the first point.</p>
+<p>Second, at Harvard I was able to broaden my horizons. It gave me an international perspective. But obviously the most important thing, I believe, is my third point: the ten years at Harvard enabled me to just be an ordinary person. The students around me didn’t know who I was, only the Chinese students knew, but at that time there weren’t that many Chinese students. I was completely anonymous, just an ordinary international student. This was a very fortunate thing. If I were always only just a 1989 figure, active in the media, talking about politics every day, I’d feel really awful. During my time at Harvard, besides going to class, I also became friends with some people who had nothing to do with politics. It was just a very ordinary situation.</p>
+<p><strong><em>YC: </em></strong><em>Why did you go to Taiwan? </em></p>
+<p><strong>Wang Dan: </strong>Soon after I got to Harvard, I started to frequent the library. I saw a magazine called <em>The Journalist</em> (《新新聞》) –– a Taiwan magazine founded in 1987 focusing on social and political commentary. <em>The Journalist</em> covered the process of political transition in Taiwan after martial law was lifted in 1987. I was really excited reading it and began to be very interested in Taiwan. Later, I wrote my dissertation on Taiwan’s White Terror.</p>
+<p><strong><em>YC: </em></strong><em>Please tell us a bit more about your </em><em>dissertation</em><em>. </em></p>
+<p><strong>Wang Dan: </strong>This morning I was just talking with my editor, and we’re hoping that Harvard University Press will soon publish the English version. I compared state violence in the 1950s on both sides of the Taiwan Strait. At that time, Taiwan had White Terror, and China had Land Reform, the Campaign to Suppress Counter-revolutionaries, and the Anti-Rightist Movement, which was Red Terror. These are two forms of state violence, but each with different characteristics. What I was interested in was the different mechanisms, the specific methods by which it was carried out. The Chinese Communist Party (CCP) used the method of mass campaigns. I analyzed how they were launched and executed. Taiwan’s White Terror was basically accomplished through political spying, with agents infiltrating society. When the National Security Bureau investigated so-called “communist spy cases,” they were mostly targeting individuals. The Kuomintang (the Nationalist Party) used agents to monitor society, whereas the CCP used the people to monitor each other. They turned everyone into a spy, including some of China’s famous intellectuals, who were also informants.</p>
+<p>Back to your question of why I went to Taiwan. I went to Taiwan to teach –– there were no positions in the U.S. to teach Taiwanese history. Second, since my dissertation is a comparison of Taiwan and the mainland and Taiwan had started to democratize, I was interested in living there for a period of time so that I could experience it first-hand. Third, I really like Taiwan –– the scenery, the people, and the relationships between people.</p>
+<p><strong><em>YC: </em></strong><em>Please tell us more about your time teaching in Taiwan. </em></p>
+<p><strong>Wang Dan: </strong>I taught at pretty much all of the top universities in Taiwan, with the exception of National Taiwan University. I taught at Tsing Hua, Cheng Chi, Cheng Kung, and Dongwu –– mainly at Tsing Hua University, but also taught classes at other universities. After I arrived in Taiwan, I discovered a big problem –– they really didn’t understand mainland China. There were basically no courses at universities on contemporary Chinese history covering the period from 1949 to the present. So I decided to teach Chinese contemporary history, which is essentially what I taught during my eight years in Taiwan, in the hope that people in Taiwan would gain a better understanding of mainland China.</p>
+<p>Another unexpected benefit was the arrival of mainland students to Taiwan. Shortly after I got to Taiwan, Taiwan opened its doors to students from the mainland. These students were <em>90-hou</em>, the generation born after 1990. Before knowing them, I was just like a lot of people and looked down on them, believing they were a selfish generation, that they weren’t concerned with politics, that they were brainwashed by the government, and had absolutely no understanding of history. But after interacting with them, I discovered that this was a total misjudgment. They are in fact very idealistic, they really hope to change China. For example, in Taiwan I held debates on the issue of reunification versus Taiwan independence. I organized about 10 such debates, and each time there would be at least three or four students from mainland China who openly stated their names and university affiliation and said they supported Taiwan independence. There was even media covering these debates. This is really hard to imagine, isn’t it? I was really shocked. I asked the students if they were afraid of the media making this public, and one of them said, “If worse comes to worst, I go to jail, no big deal.”</p>
+<p>Of course, not all of the <em>90-hou</em> are like this, but I never really care about the makeup of the majority of any group. I believe that as long as a group has a few leaders, this country has hope. The students I came into contact with in Taiwan were inspiring, and gave me a morale boost. Previously I was pessimistic, and felt that even in 30 or 40 years it was unlikely that China would move towards democracy, but after engaging with the 90s generation, I became an optimist. I believe that I will see China change in the hands of this generation in my lifetime. And do you know just how fearless this generation of students is? They know who I am. There were some students who audited my class, but each semester there are quite a few students who directly selected and registered for my class. My name will appear on their transcript; they’ll take this back to China, and they just don’t care, they still choose my class. As of yet, there hasn’t been any instance of a mainland student being punished for taking one of my classes.</p>
+<p><strong><em>YC: </em></strong><em>Are you still in touch with them? </em></p>
+<p><strong>Wang Dan: </strong>I do stay in touch with some of them. There are a few who are studying for their Ph.Ds. in the U.S. And we have a Facebook group, and have become good friends. But I want to emphasize, it’s not all of the mainland students, but the mindset of at least 10% of the 90s-generation students whom I came into contact with in Taiwan is very forward looking. They’re more enthusiastic than us, and more eager for change. We thought these people supported the Communist Party, but it’s really not like that at all. I can say that 90% of them don’t support the CCP. I also think that this group of students is more resourceful than our 1989 generation of college students. I strongly believe that China will change in their hands. This is one of the reasons why I came back to the U.S., because I think there are more Chinese students like this in the U.S., students who are even more outstanding.</p>
+<p><strong><em>YC: </em></strong><em>What are some of the other reasons that prompted you to come back to the U.S.? </em></p>
+<p><strong>Wang Dan: </strong> Another reason is that I have been thinking about what I can do now. What’s my next step? I think that influencing the younger generation is one of the main things I can do. Of course, if history gives me the opportunity, I will throw myself into the democracy movement, run for office, even become president of China if possible. Why not? But I prefer to be the President of Peking University. But these things are unpredictable, and influencing the younger generation is something I can do right now. So whether I’m in Taiwan, or in America, I give talks wherever I can, to let the younger generation understand history; to let them know that we, as the opponents of the regime, are constructive and not just shouting slogans; and to let them know why China needs democratization to make the country stronger. I want the patriotic younger generation to know that if you are truly patriotic, you must oppose the CCP, and I tell them the logical connection between these two positions. During those years in Taiwan, in my spare time, on weekends, and in the evenings, I would hold “China salons.” I probably organized several hundred of these. The topic was very simple: get to know China. About half of the audience were mainland students, most listened without saying a word, nor asking questions. I felt it was OK, as long as they were listening. My responsibility is to pass the torch on to the next generation.</p>
+<p><strong><em>YC: </em></strong><em>I read your Tiananmen memoir, in 1989 you became a student leader, but before that, you got your start organizing democracy salons on campus. </em></p>
+<p><strong>Wang Dan: </strong>If you look at history, revolutions all start with salons. For example, the French Revolution got its start from salons.</p>
+<p><strong><em>YC: </em></strong><em>Let’s digress a little here. Can you talk a bit about the democracy salons you organized at Peking University?</em></p>
+<p><strong>Wang Dan: </strong>At that time, I was only a freshman; I didn’t have much experience. Liu Gang (劉剛) and those older guys were the first to hold salons. I followed after them. Each time we invited an intellectual, a so-called “counter-revolutionary,” to come. I hoped to use this platform to connect the ivory tower of the university with society.</p>
+<p><strong><em>YC: </em></strong><em>What kind of scale did you have? How many people attended each democracy salon? </em></p>
+<p><strong>Wang Dan: </strong>It could be as few as 20 or so people, but as June 4 approached, and the atmosphere was very tense, sometimes more than a thousand people came.</p>
+<p><strong><em>YC: </em></strong><em>Where were the salons held? </em></p>
+<p>&nbsp;</p>
+<p><strong>Wang Dan: </strong>Outdoors. We held one salon each week, on an area of grass in front of the statue of Cervantes, next to the foreign students’ dorm.</p>
+<p><strong><em>YC: </em></strong><em>Cervantes statue…. I like these details. It tickles the imagination. </em></p>
+<p><strong>Wang Dan: </strong>It’s a place where young students discussed politics and expressed their political views.</p>
+<p><strong><em>YC: </em></strong><em>I read that since you returned to the U.S., you’ve already held a few salons: in Boston, New York, Vancouver, and Toronto. How did these events go? </em></p>
+<p>&nbsp;</p>
+<div data-shortcode="caption" id="attachment_15988" style="width: 415px" class="wp-caption alignright"><img data-attachment-id="15988" data-permalink="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/wang-dan-harvard/" data-orig-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg?w=405&#038;h=322" data-orig-size="303,241" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Wang Dan, Harvard" data-image-description="" data-medium-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg?w=405&#038;h=322?w=300" data-large-file="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg?w=405&#038;h=322?w=303" class="  wp-image-15988 alignright" src="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg?w=405&#038;h=322" alt="Wang Dan, Harvard" width="405" height="322" srcset="https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg 303w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg?w=150&amp;h=119 150w, https://chinachangedotorg.files.wordpress.com/2017/10/wang-dan-harvard.jpg?w=300&amp;h=239 300w" sizes="(max-width: 405px) 100vw, 405px" /><p class="wp-caption-text"></strong> Wang Dan graduating from Harvard in 2008. Photo: Radio Free Asia</p></div>
+<p><strong>Wang Dan: </strong>Generally speaking, I feel that this generation is dissatisfied with China’s current situation. The fact that they left China to go abroad to study demonstrates that they are not that content, particularly those that applied on their own to go abroad. They are seeking new knowledge, but they are also quite confused. First, they don’t know what they can do. Second, they are disappointed in those around them; they feel that most Chinese they know are disappointing. Third, they don’t see any alternatives: who can take the place of the CCP? Because of these three issues, they are not able to express much enthusiasm. But in the process of chatting with them, I feel that there is a flame burning in their hearts. They really want to do something, to change things. When we talk about China, every person is critical. From the things they’ve said, it’s clear that they look at problems deeply; no less deeply than us. All of them have Ph.D.s or Master degrees. They are knowledgeable.</p>
+<p>&nbsp;</p>
+<p><strong><em>YC: </em></strong><em>Among the Chinese students studying abroad, many are the children of quangui (</em><em>權貴</em><em>), the powerful and the rich. They are beneficiaries of the system and tend to defend it.  </em></p>
+<p><strong>Wang Dan: </strong>Not necessarily. In the early period of the Chinese Communist Party, many of the leaders were children of wealthy families. For example, Peng Pai was the son of a wealthy man in Shantou. The wealthier the family, the more likely they are to be inclined towards revolution, because they don’t need to worry about their livelihood, and they have more time to read and think. This is a possibility. Children from poor families have to think more about their livelihood, and have more to worry about.</p>
+<p><strong><em>YC: </em></strong><em>I feel I must disagree here: the powerful and rich families in China today are fundamentally different from the genteel class of traditional Chinese society. </em></p>
+<p><strong>Wang Dan: </strong>The parents of these families might be tainted, but the children are just a blank page. I’ve been in touch with some of these 20-year-old kids studying abroad, for example, children of mayors, and also chairs of the Chinese Student Associations who are in direct contact with the Chinese embassies and consulates. I don’t think the latter are spies. I’ve had quite deep conversations with them privately. They all know what’s going on. It doesn’t matter what family they’re born into, youth are youth, and young people have passion.</p>
+<p><strong>YC: </strong><em>I wish I could, and I desperately want to, share your enthusiasm. I admit that I have next to no interactions with children from quangui families. If there are rebels in their midst, it’s not showing. You look at today’s human rights lawyers, dissidents, and human rights defenders, people who are making efforts and sacrifices for a free and just China, you will see that the absolute majority of them come from the impoverished countryside.  </em></p>
+<p><strong>Wang Dan: </strong>To the extent possible, I befriend young people from all different backgrounds born in the 90s. They are very smart, and they grew up in the Internet age. It’s not so easy for them to accept us as friends. But it’s very important to become friends with them. Some colleagues in the democracy movement are divorced from the young generation.</p>
+<p><strong><em>YC: </em></strong><em>So you believe one of your most important missions is to influence the young generation? </em></p>
+<p><strong>Wang Dan: </strong>Yes, one of them. In addition to salons, in the future I may organize summer camps and trainings. I’ve been involved in the opposition movement for so many years — what sort of look does the opposition movement take on in order to integrate with this era –– that is an important question. Starting from the time I was 20 until now, 30 years have passed, and what I have been doing politically is politics. For example, we have critiqued the totalitarian system, exposed abuses, rescued political prisoners, organized political parties, established several human rights awards, etc. I will continue to do these things, but now I feel that I’ve reached a time when I need to adjust what I’m doing; I want to somewhat remove myself from current, immediate events to think about what China will be like after the communist regime is gone. A lot of people are thinking about how to overthrow the CCP; I won’t be missed. The issue is this: if there comes a day when the CCP is toppled, regardless if it’s caused by other people or itself internally, what sort of situation will China find itself in afterwards? We need to have sand-table rehearsals. I’m interested in policies and technicalities for a democratic, post-communist China. Between politics and policies, I hope to devote some time and energy on the latter.</p>
+<p><strong><em>YC: </em></strong><em>That’s interesting and certainly forward-thinking. In the west, people are getting used to the idea that communist China is so stable that it will never fall. In any case, their plans are made based on such assumptions. But I keep thinking that the CCP hasn’t even stabilized something as basic as power succession.  </em></p>
+<p><strong>Wang Dan: </strong>We need to have something like a shadow cabinet. We need to come out with a political white paper: how to conduct privatization of land; how to define a new university self-governance law. Obviously, this is a big ambition; it’s not something that can be done in a short amount of time. But this is the second big goal I set for myself after returning to the U.S.: I’m planning on establishing a small think tank to research and advance a set of specific governance policies.</p>
+<p><strong><em>YC: </em></strong><em>You didn’t leave China until the end of the 1990s, so you know the 90s well. Since the early 2000s, the rights defense movement has emerged, NGOs have burgeoned, and faith communities have expanded rapidly in both urban and rural areas, the entire social strata has changed as a result of the economy opening up. Previously, everyone belonged to a work unit, a “danwei.” Now a significant part of China’s population doesn’t rely on state-owned work units. They might work for a foreign enterprise or a private enterprise, or they might run their own small business or be engaged in other relatively independent professions such as being a lawyer. The rights consciousness of these people is totally different than before. I personally think they have been and will be the force for change because they are less subservient to the system. One may even say that they hate it, or they have every reason to detest it. What sort of observations do you have regarding the past 20 years in China? </em></p>
+<p><strong>Wang Dan: </strong>Profound changes occurred in China after 1989. First, never in the thousands of years of Chinese history has there been an era like today’s China in which everything is centered on making money—the economy takes precedence above all else. The second profound change is that in the entire country—from the elite strata to the general population—few have any sense of responsibility for the country or society. They’ve totally given up. From those in power to intellectuals to college students to average citizens, most people do not think that this country is theirs, they believe that China’s affairs are someone else’s business and that it has nothing to do with them. This is a first in China. I believe that these are two important reasons why China has not yet democratized. Therefore speaking from the perspective of the opposition, the most important task is the work of enlightenment. Those people who advocate violent revolution probably will oppose what I say, but I think Chinese people still need to be enlightened.</p>
+<p><strong><em>YC: </em></strong><em>I want to interject here that the fact that the elite class, whether it’s intellectuals or the moneyed class, have given up responsibility for the country is an indication of the rigor of communist totalitarianism. Isn’t that so? Hasn’t the Party worked methodically, meticulously, and cruelly to diminish individuals, including the elite class, into powerless atoms, preventing them from becoming a force, making sure they are beholden to the state, and depriving them even of a free-speaking Weibo (Chinese Twitter-like microblog) account? Having a citizenry that takes the country’s future into its own hand is at variance with the totalitarian system. It’s against the system’s requirement. On a personal level, acting out of a sense of duty for the country’s future is suicidal, it goes against one’s instinct for survival. Look at what happened to Liu Xiaobo and Ilham Tohti. Look at those lawyers who are tortured, disbarred, or harassed for defending human rights. Look at the professors who were expelled from teaching for uttering a bit of dissent. The Communist Party has a monopoly on China’s future as long as it’s in power, just as it does on the past and the present. Now please explain to us what you mean by enlightenment.</em></p>
+<p><strong>Wang Dan: </strong>For example, the majority of ordinary citizens sincerely believe that if China becomes a democracy, there will be chaos. Even if they have not been brainwashed by the CCP, even if they loathe Communist Party members, they still feel this way. Why do they think this? We need to reason with them. For example, just because the 1989 movement failed, it does not mean that it wasn’t the right thing to do. If you don’t talk about issues like these, the majority of people won’t think about them, therefore we must reason with them. This ability to inspire people through reason has a great potential to mobilize society.</p>
+<p><strong><em>YC: </em></strong><em>It was probably around the time of 2007 or 2008 when I first started looking at China’s Internet. There was also censorship, but comparing the Internet expression at that time to today, it was like a paradise back then, and there was a lot of what you call enlightenment, many public intellectuals or writers had many fans, and they could say and did say a lot. It was also around that time the CCP sensed a crisis, believing that if they continued to have lax control over speech on the Internet, their political power would be in imminent danger. Thus the censorship regime during the past decade has become stricter and more absurd. So now you are facing a very practical problem, even someone like Peking University law professor He Weifang can no longer keep a Weibo microblog account. People’s throats are being strangled, there’s no way for them to speak.</em></p>
+<p><strong>Wang Dan: </strong>Now it is very difficult, we must admit. But we shouldn’t give up just because some difficulties exist and sink into despair. Nietzsche said the disadvantaged don’t have the right to be pessimistic. You’re already underprivileged, if you’re then also pessimistic, your only option is to give up. I believe now is the darkness before the dawn. It truly is the most difficult time, but it is also the time when we have to persist the most. Like me, traveling around giving talks, oftentimes there aren’t many people at each talk,  maybe 20 or so, but I feel it’s worth it.</p>
+<p><strong><em>YC:</em></strong><em> Liu Xiaobo died in a prison hospital. Even as someone who doesn’t know his work in any depth, I feel hit hard by it and it is difficult to grapple with. It’s like, for all these years, everyone sort of expected him to come out of prison rested and ready to go in 2020 after he served out his prison term. That’s not too far from now. When he died, it dawned on a lot of us that the CCP would never have let him walk out of jail alive. You were together with Liu Xiaobo in Tiananmen Square, and you worked with him during the 1990s, how does his death affect you?</em></p>
+<p><strong>Wang Dan: </strong>I grieve Xiaobo’s death as many others do. But I know that he would want us the living to do more. We need to do things that he can’t do anymore. And the best remembrance of Liu Xiaobo is to get more done and to see that his ideals for China become true. <strong> </strong></p>
+<p><strong><em>YC: </em></strong><em>Many people won’t have the opportunity that I have to sit down with you. They know who you are, but they don’t know what you have been doing. They will say, “Those people who’ve been abroad all these years, what have they done? We haven’t seen anything!” How would you respond? </em></p>
+<p><strong>Wang Dan: </strong>First, I don’t really care about the various criticisms of me that others may make. I actually welcome it. It’s a form of encouragement, and at the very least, it’s a reminder. I personally feel I’ve done some things as I’ve told you. In addition, I’ve also come out with quite a few books that have made an impact.</p>
+<p><strong><em>YC: </em></strong><em>Could you tell us about your books? </em></p>
+<p><strong>Wang Dan: </strong>The book that’s sold the best is <em>Wang Dan’s Memoir (</em><em>《王丹回憶錄：六四到流亡》</em><em>)</em>. And then there’s <em>Fifteen Lectures on The History of the People’s Republic of China (</em><em>《</em><em>中華人民共和国</em><em>史十五</em><em>講》</em><em>)</em>. Both were published in Taiwan, and both have sold well. The third book, titled <em>80 Questions About China (</em><em>《關於中國的</em><em>80</em><em>個問題》</em><em>),</em> is the most recent. These 80 questions were all questions I encountered at the salons, so I packaged them together.</p>
+<p><strong><em>YC: </em></strong><em>What are a few examples of these questions? </em></p>
+<p><strong>Wang Dan: </strong>For example: Was Deng Xiaoping really the “chief engineer” of China’s reform and opening up? Why should we not place hope on a Gorbachev emerging from the CCP? Why hasn’t China’s middle class become promoters of democracy? In China, how does the CCP suppress opposition forces? Will democracy lead to social instability? Why don’t Chinese people speak up? Who are the people who might be able to change China? Why do we say “reform is dead”?</p>
+<p><strong><em>YC: </em></strong><em>While in Taiwan, you also founded </em><a href="http://idemocracy.asia/"><em>the New School for Democracy</em></a><em> (</em><em>華人民主書院</em><em>). What does it do?  </em></p>
+<p><strong>Wang Dan: </strong>The New School for Democracy was founded on October 1, 2012. At the time, I wanted to advance the idea of a “global Chinese civil society” spanning Hong Kong, Taiwan, the mainland, Macao, Malaysia, Singapore, and overseas Chinese communities. Our Board of Directors are people from Hong Kong, Taiwan and mainland China. What we all face is the Chinese Communist Party. The CCP not only impacts the people of China, but also Taiwan and Hong Kong, and it influences the interests of Chinese all over the world, so I felt that we should all unite and combine efforts. We had an online course, and invited some scholars to give lectures. We later realized that there were not many people interested in a very specialized online course. A Salon was a major project of the school, and it is my contribution as chair of the Board of Directors. We also published a magazine, “Public Intellectual,” which we issued eight times before we had to stop due to lack of funding. Now that I have come back to the U.S., I hope to bring some of the school’s activities here, such as online classes, salons, trainings, and a summer camp.</p>
+<p><strong><em>YC: </em></strong><em>Your summer camp idea is really interesting. What would it look like?</em></p>
+<p><strong>Wang Dan: </strong>A summer camp that brings together students from Taiwan, Hong Kong, and mainland China who are studying in the U.S. They spend a week together, everyone becomes friends, exchanges views, and they have a better understanding of each other. They learn how to rationally discuss issues. No matter how controversial or sensitive our topic is, they must learn how to speak civilly. You can’t just curse another person because you don’t agree with something he or she said.</p>
+<p><strong><em>YC: </em></strong><em>On social media, I’ve seen so many people who lack the most basic democratic qualities although they ardently oppose dictatorship and champion democracy. They launch ad hominem attacks without making efforts to get the basic facts straight, and use the foulest language to hurl insults at people. </em></p>
+<p><strong>Wang Dan: </strong>So I think that one of the fundamental trainings is how to listen attentively to what the other person is saying, and to take care in how one says things –– to speak civilly and mindfully. There’s also some basic etiquette when speaking, such as not to interrupt others, etc.</p>
+<p><strong><em>YC: </em></strong><em>I think that’s about it. I hope you settle in smoothly, and that you’re able to start doing the things you want to do as soon as possible. </em></p>
+<p><strong>Wang Dan: </strong>It’s been eight years since I left the U.S. I can’t do the things I want to do all by myself. I’m looking forward to connecting with people in certain groups. First, Chinese students studying in the U.S.; second, Chinese living in the U. S. who are not engaged in the democracy movement but are concerned about democracy and politics; third, Americans who study China.</p>
+<p><strong><em>YC: </em></strong><em>Thank you. I wish you success in your work and life.</em></p>
+<p><em> </em></p>
+<p><em> </em></p>
+<p><em>Yaxue Cao edits this website. Follow her on Twitter <a href='https://chinachangedotorg.wordpress.com/mentions/yaxuecao/' class='mention'><span class='mentions-prefix'>@</span>yaxuecao</a></em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p>Related:</p>
+<p><em><a href="https://chinachange.org/2017/07/20/liu-xiaobo-walking-the-path-of-kang-youwei-spilling-his-blood-like-tan-sitong/">Liu Xiaobo: Walking the Path of Kang Youwei, Spilling His Blood Like Tan Sitong</a></em>, Wang Dan, July 20, 2017.</p>
+<p><em><a href="https://nyti.ms/2hazzad">Tiananmen’s Most Wanted</a>,</em> the New York Times, June 4, 2014.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sd-block sd-rating"><h3 class="sd-title">Rate this:</h3><div class="pd-rating" id="pd_rating_holder_6984108_post_15972"></div></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" data-text="Twenty-Eight Years After – An Interview With Wang Dan" data-via="chinachange_org" data-related="wordpressdotcom">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" data-layout="button_count"></div></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button" href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button" href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?share=email" target="_blank" title="Click to email"><span>Email</span></a></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?width=120&amp;url=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F&amp;title=Twenty-Eight%20Years%20After%20%E2%80%93%20An%20Interview%20With%20Wang%20Dan" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" data-counter="right"></script></div></li><li class="share-telegram"><a rel="nofollow" data-shared="" class="share-telegram sd-button" href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button" href="whatsapp://send?text=Twenty-Eight%20Years%20After%20%E2%80%93%20An%20Interview%20With%20Wang%20Dan https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>	</div><!-- end .entry-content -->
+
+	<div class="entry-meta">
+		<p class="tags"><strong>Tags:</strong> <a href="https://chinachange.org/tag/1989/" rel="tag">1989</a>, <a href="https://chinachange.org/tag/china/" rel="tag">China</a>, <a href="https://chinachange.org/tag/democracy-movement/" rel="tag">democracy movement</a>, <a href="https://chinachange.org/tag/harvard-university/" rel="tag">Harvard University</a>, <a href="https://chinachange.org/tag/history/" rel="tag">History</a>, <a href="https://chinachange.org/tag/june-4th/" rel="tag">June 4th</a>, <a href="https://chinachange.org/tag/liu-xiaobo/" rel="tag">Liu Xiaobo</a>, <a href="https://chinachange.org/tag/new-school-for-democracy/" rel="tag">New School for Democracy</a>, <a href="https://chinachange.org/tag/political-opposition/" rel="tag">political opposition</a>, <a href="https://chinachange.org/tag/political-transition-2/" rel="tag">political transition</a>, <a href="https://chinachange.org/tag/prison/" rel="tag">Prison</a>, <a href="https://chinachange.org/tag/student-leader/" rel="tag">student leader</a>, <a href="https://chinachange.org/tag/tiananmen-movement/" rel="tag">Tian'anmen Movement</a>, <a href="https://chinachange.org/tag/wang-dan/" rel="tag">Wang Dan</a></p><span class="by-author">By <span class="author vcard"><a class="url fn n" href="https://chinachange.org/author/yaxuecao/" title="View all posts by China Change" rel="author">China Change</a></span> </span>in <span class="category"><a href="https://chinachange.org/category/civil-society-2/" rel="category tag">Civil Society</a>, <a href="https://chinachange.org/category/government/" rel="category tag">Government</a>, <a href="https://chinachange.org/category/human-rights-civil-rights/" rel="category tag">Human Rights &amp; Civil Rights</a>, <a href="https://chinachange.org/category/interviews/" rel="category tag">Interviews</a>, <a href="https://chinachange.org/category/political-transition/" rel="category tag">Political Transition</a></span> on <span class="datetime"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" title="11:02 pm" rel="bookmark"><time class="entry-date" datetime="2017-10-25T23:02:41+00:00" pubdate>October 25, 2017</time></a></span>.	</div><!-- end .entry-meta -->
+
+</div><!-- end #post-## -->
+		<div class="navigation clearfix">
+			<span class="alignleft"><a href="https://chinachange.org/2017/10/15/a-record-of-709/" rel="prev"><span class="meta-nav">&larr;</span> A Record of&nbsp;709</a></span>					</div><!-- end .navigation -->
+
+		
+<div id="comments">
+
+	
+		<hr />
+		<h2>5 Comments</h2>
+
+		<ol class="commentlist">
+					<li class="comment byuser comment-author-founderskitchen even thread-even depth-1 highlander-comment" id="comment-41942">
+				<div id="div-comment-41942" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/a93344036965b56dc136b5b1ae62b504?s=40&#038;d=identicon&#038;r=G' class='avatar avatar-40' height='40' width='40' />			<cite class="fn">founderskitchen</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#comment-41942">
+			October 26, 2017 at 3:04 am</a>		</div>
+
+		<div class="pd-rating" id="pd_rating_holder_7098079_comm_41942"></div><p>Great article, fantastic initiative, superb courage and encouraging vision. Please follow through, for the sake of the chinese people, for the sake of mankind. Thank you. </p>
+<p>Alex goldsborough </p>
+<p>&gt;</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?replytocom=41942#respond' onclick='return addComment.moveForm( "div-comment-41942", "41942", "respond", "15972" )' aria-label='Reply to founderskitchen'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="comment-41944">
+				<div id="div-comment-41944" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://2.gravatar.com/avatar/5479533fa5e20bd2df6ada7798501a5f?s=40&#038;d=identicon&#038;r=G' class='avatar avatar-40' height='40' width='40' />			<cite class="fn">Lupo</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#comment-41944">
+			October 26, 2017 at 5:10 am</a>		</div>
+
+		<div class="pd-rating" id="pd_rating_holder_7098079_comm_41944"></div><p>Please give your opinion to the works of Enver Hoxha Reflections on China.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?replytocom=41944#respond' onclick='return addComment.moveForm( "div-comment-41944", "41944", "respond", "15972" )' aria-label='Reply to Lupo'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1 highlander-comment" id="comment-41947">
+				<div id="div-comment-41947" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1051ab39d86555a3c3b533b8459ff531?s=40&#038;d=identicon&#038;r=G' class='avatar avatar-40' height='40' width='40' />			<cite class="fn">Jack van Ommen- www.ComeToSea.us</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#comment-41947">
+			October 26, 2017 at 10:18 am</a>		</div>
+
+		<div class="pd-rating" id="pd_rating_holder_7098079_comm_41947"></div><p>This gives us hope for China&#8217;s future.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?replytocom=41947#respond' onclick='return addComment.moveForm( "div-comment-41947", "41947", "respond", "15972" )' aria-label='Reply to Jack van Ommen- www.ComeToSea.us'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent highlander-comment" id="comment-41951">
+				<div id="div-comment-41951" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/f31c50b44f72e7fc35d7ee4ccea3c2cc?s=40&#038;d=identicon&#038;r=G' class='avatar avatar-40' height='40' width='40' />			<cite class="fn">Marcia</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#comment-41951">
+			October 26, 2017 at 9:57 pm</a>		</div>
+
+		<div class="pd-rating" id="pd_rating_holder_7098079_comm_41951"></div><p>It&#8217;s amusing to hear that your fellow students at Harvard didn&#8217;t know who you were, Wang Dan. I was a student in the West in 1989 (a little older than you!) and you, Chai Ling and others were all over our TV sets for months. I&#8217;d have as much chance of not recognising Wang Dan as not recognising Jiang Zemin. </p>
+<p>I&#8217;ve heard people say that Westerners in China in the past were sometimes  viewed by the young as celebrities simply by virtue of being from politically more liberal countries, but really, in my circle, it was the other way round: it was Wang Dan and all the other Chinese demonstrators who were the celebrities to us Western students, because the cause you were fighting for was so much more momentous than anything we had to fight for at home, and the consequences of your struggle proved to be so serious. </p>
+<p>I do hope you can continue to inspire American based 留学生 to think critically about their home country and take some of that thinking home with them when they 回国. In this new era of stifling Xi Jinping 思想, China has never been more in need of citizens who are capable of real critical thinking.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?replytocom=41951#respond' onclick='return addComment.moveForm( "div-comment-41951", "41951", "respond", "15972" )' aria-label='Reply to Marcia'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-yaxuecao bypostauthor even depth-2 highlander-comment" id="comment-41952">
+				<div id="div-comment-41952" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/9340152d04f6ebe70326665cee10ff0c?s=40&#038;d=identicon&#038;r=G' class='avatar avatar-40' height='40' width='40' />			<cite class="fn"><a href='http://www.chinachange.org' rel='external nofollow' class='url'>China Change</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#comment-41952">
+			October 26, 2017 at 10:19 pm</a>		</div>
+
+		<div class="pd-rating" id="pd_rating_holder_7098079_comm_41952"></div><p>Thank you, Marcia. I will make sure Wang Dan gets your message. &#8212; Yaxue</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/?replytocom=41952#respond' onclick='return addComment.moveForm( "div-comment-41952", "41952", "respond", "15972" )' aria-label='Reply to China Change'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		</ol>
+
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://chinachange.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="c2a89e5f6b" /><input type="hidden" name="_wp_http_referer" value="/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='15972' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7f8036349e" /></p>
+<input type="hidden" name="genseq" value="1509094573" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="174"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+	</div><!-- end .column-content -->
+
+		<div class="column column-narrow column-last">
+		<div id="blog_subscription-2" class="widget clearfix widget_blog_subscription"><h3 class="heading"><label for="subscribe-field">Follow Blog via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="45895295"/>
+						<input type="hidden" name="source" value="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="8c46d6292a" />						<input type="submit" value="Follow" />
+					</p>
+				</form>
+			
+</div>		<div id="recent-posts-3" class="widget clearfix widget_recent_entries">		<h3 class="heading">The Latest</h3>		<ul>
+											<li>
+					<a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/">Twenty-Eight Years After – An Interview With Wang&nbsp;Dan</a>
+											<span class="post-date">October 25, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/15/a-record-of-709/">A Record of&nbsp;709</a>
+											<span class="post-date">October 15, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/11/notes-from-prison-part-two-of-two/">Notes From Prison (Part Two of&nbsp;Two)</a>
+											<span class="post-date">October 11, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/10/notes-from-prison-part-one-of-two/">Notes From Prison (Part One of&nbsp;Two)</a>
+											<span class="post-date">October 10, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/09/china-pushes-human-rights-with-chinese-characteristics-at-the-un/">China Pushes &#8216;Human Rights With Chinese Characteristics&#8217; at the&nbsp;UN</a>
+											<span class="post-date">October 9, 2017</span>
+									</li>
+					</ul>
+		</div><div id="categories-3" class="widget clearfix widget_categories"><h3 class="heading">Categories</h3>		<ul>
+	<li class="cat-item cat-item-38024194"><a href="https://chinachange.org/category/academic-freedom-2/" >Academic Freedom</a>
+</li>
+	<li class="cat-item cat-item-172766179"><a href="https://chinachange.org/category/analyses-and-opinions/" >Analyses and Opinions</a>
+</li>
+	<li class="cat-item cat-item-35260749"><a href="https://chinachange.org/category/civil-society-2/" >Civil Society</a>
+</li>
+	<li class="cat-item cat-item-198600"><a href="https://chinachange.org/category/economy-development/" >Economy &amp; Development</a>
+</li>
+	<li class="cat-item cat-item-1342"><a href="https://chinachange.org/category/education/" >Education</a>
+</li>
+	<li class="cat-item cat-item-34931755"><a href="https://chinachange.org/category/elections-2/" >Elections</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="https://chinachange.org/category/environment/" >Environment</a>
+</li>
+	<li class="cat-item cat-item-2311"><a href="https://chinachange.org/category/government/" >Government</a>
+</li>
+	<li class="cat-item cat-item-7497"><a href="https://chinachange.org/category/hong-kong/" >Hong Kong</a>
+</li>
+	<li class="cat-item cat-item-44071434"><a href="https://chinachange.org/category/human-rights-civil-rights/" >Human Rights &amp; Civil Rights</a>
+</li>
+	<li class="cat-item cat-item-194373"><a href="https://chinachange.org/category/internet-freedom/" >Internet Freedom</a>
+</li>
+	<li class="cat-item cat-item-831"><a href="https://chinachange.org/category/interviews/" >Interviews</a>
+</li>
+	<li class="cat-item cat-item-54090356"><a href="https://chinachange.org/category/labor-rights-2/" >Labor rights</a>
+</li>
+	<li class="cat-item cat-item-10257"><a href="https://chinachange.org/category/lgbt/" >LGBT</a>
+</li>
+	<li class="cat-item cat-item-10057478"><a href="https://chinachange.org/category/political-transition/" >Political Transition</a>
+</li>
+	<li class="cat-item cat-item-17269"><a href="https://chinachange.org/category/press-freedom/" >press freedom</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="https://chinachange.org/category/religion/" >Religion</a>
+</li>
+	<li class="cat-item cat-item-2201"><a href="https://chinachange.org/category/reports/" >Reports</a>
+</li>
+	<li class="cat-item cat-item-211071"><a href="https://chinachange.org/category/rule-of-law/" >Rule of Law</a>
+</li>
+	<li class="cat-item cat-item-1495"><a href="https://chinachange.org/category/taiwan/" >Taiwan</a>
+</li>
+	<li class="cat-item cat-item-244845"><a href="https://chinachange.org/category/tibetan/" >Tibetan</a>
+</li>
+	<li class="cat-item cat-item-3295040"><a href="https://chinachange.org/category/uighurs/" >Uighurs</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://chinachange.org/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-35335758"><a href="https://chinachange.org/category/womens-rights-2/" >Women&#039;s rights</a>
+</li>
+		</ul>
+</div>	</div><!-- end .column-narrow -->
+	
+	
+</div><!-- end #content -->
+
+			<div id="footer" class="clearfix">
+								<div id="footer-column"><div id="text-13" class="widget clearfix widget_text">			<div class="textwidget"> <p style="font-size:21px;font-weight:bold;color:#073b68;"> Suggested Sites</p></div>
+		</div><div id="rss-2" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="https://www.nchrd.org/feed/" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="https://www.nchrd.org" title="">Chinese Human Rights Defenders</a></h3><ul><li><a class='rsswidget' href='https://www.nchrd.org/2017/10/re-education-camps-make-a-comeback-in-chinas-far-west/' title='Originally published by UCA News on October 24, 2017 In the Xinjiang Uyghur Autonomous Region, so called political re-education camps have been proliferating in the lead up to the 19th Communist Party Congress. The Chinese government’s aim is to streamline ideology in an area it perceives to be troubled by Islamic   (read more...)'>Re-education camps make a comeback in China’s far-west</a></li></ul></div><div id="rss-3" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="http://chinadigitaltimes.net/feed/" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="http://chinadigitaltimes.net" title="Covering China from Cyberspace">China Digital Times</a></h3><ul><li><a class='rsswidget' href='http://chinadigitaltimes.net/2017/10/voice-recognition-social-credit-tech-xis-second-term/' title='As Xi Jinping begins his second term with apparently peerless personal power, The Wall Street Journal’s Li Yuan identifies a number of trends likely to characterize the development'>Voice Recognition, Social Credit, and Tech in Xi’s Second Term</a></li></ul></div><div id="rss-4" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="https://www.cecc.gov/rss.xml" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="https://www.cecc.gov/rss.xml" title="">Congressional-Executive Commission on China</a></h3><ul><li><a class='rsswidget' href='https://www.cecc.gov/publications/annual-reports/2017-annual-report' title='Congressional-Executive Commission on China 2017 ANNUAL REPORT   I. Executive Summary &amp; Highlighted Policy Recommendations and Political Prisoner Cases Chapter Findings and Recommendations Political Prisoner Database II. Human Rights Freedom of Expression Worker Rights Criminal Justice Freedom of Religion Ethnic Minority Rights Population Control Freedom [&hellip;]'>2017 Annual Report </a></li></ul></div><div id="rss-5" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="http://www.hrichina.org/en/rss.xml" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="http://www.hrichina.org" title="">Human Rights in China 中国人权 | HRIC</a></h3><ul><li><a class='rsswidget' href='http://www.hrichina.org/en/dnb/commentary-ping-lun-196' title='十九大收緊自治 香港一個獨特功能將消失 (Unique function of Hong Kong will disappear as 19th party congress tightens control over autonomy)Mingpao, October 26, 2017https://news.mingpao.com/ins/instantnews/web_tc/article/20171026/s00022/1508936385225 Xi Jinping unveils China’s new leaders but no clear successor没有接班人的“新时代”：习近平大权独揽The New York Times, October 26, 2017 EN: https://c [&hellip;]'>Commentary (评论)</a></li></ul></div><div id="rss-6" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="http://www.chinaaid.org/feeds/posts/default?alt=rss" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="http://www.chinaaid.org/" title="ChinaAid is an international non-profit Christian human rights organization committed to promoting religious freedom and rule of law in China. We believe that religious freedom is the first freedom, which lays the foundation for all other basic human rights.">ChinaAid</a></h3><ul><li><a class='rsswidget' href='http://www.chinaaid.org/2017/10/breitbart-after-branding-christianity.html' title='Breitbartby Frances Martel24 Oct 2017The Chinese Communist Party (CPC) Congress this week has largely focused on the development of Chinese “exceptionalism,” the development of “socialism with Chinese characteristics,” and the imposition of uniform identity through a sense of cultural and national superiority.Far from the scope of free religious expression i [&hellip;]'>Breitbart: After Branding Christianity a ‘National Security’ Threat, China Moves to ‘Sinicize’ Religion</a></li></ul></div><div id="text-16" class="widget clearfix widget_text">			<div class="textwidget"><div style="height:200px;width:200px;"></div></div>
+		</div><div id="blog-stats-4" class="widget clearfix widget_blog-stats"><h3 class="heading"> Total Pageviews: </h3>		<ul>
+			<li>866,205 </li>
+		</ul>
+		</div><div id="text-15" class="widget clearfix widget_text"><h3 class="heading">Read in:</h3>			<div class="textwidget">216 countries and territories</div>
+		</div><div id="blog_subscription-3" class="widget clearfix widget_blog_subscription"><h3 class="heading"><label for="subscribe-field-2">Subscribe to China Change via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog-2">
+											<p>Enter your email address to subscribe to China Change and receive new articles by email.</p>
+<p>Join 2,202 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field-2"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="45895295"/>
+						<input type="hidden" name="source" value="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="8c46d6292a" />						<input type="submit" value="Subscribe to China Change" />
+					</p>
+				</form>
+			
+</div></div>
+				
+								<p class="copy">
+					<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+									</p>
+			</div><!-- end #footer -->
+		</div><!-- end #wrap -->
+
+		<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201743y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-a93344036965b56dc136b5b1ae62b504">
+	</div>
+	<div class="grofile-hash-map-5479533fa5e20bd2df6ada7798501a5f">
+	</div>
+	<div class="grofile-hash-map-1051ab39d86555a3c3b533b8459ff531">
+	</div>
+	<div class="grofile-hash-map-f31c50b44f72e7fc35d7ee4ccea3c2cc">
+	</div>
+	<div class="grofile-hash-map-9340152d04f6ebe70326665cee10ff0c">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/chinachangedotorg.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"https:\/\/chinachange.org\/","postID":"15972","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="45895295" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://chinachange.org" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="China Change" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="efeac732b2" /><input type="hidden" name="_wp_http_referer" value="/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
+PDRTJS_settings_6984108_post_15972={"id":6984108,"unique_id":"wp-post-15972","title":"Twenty-Eight%20Years%20After%20%E2%80%93%20An%20Interview%20With%20Wang%26nbsp%3BDan","permalink":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/","item_id":"_post_15972"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_6984108_post_15972 == 'undefined' ){PDRTJS_6984108_post_15972 = new PDRTJS_RATING( PDRTJS_settings_6984108_post_15972 );}}PDRTJS_settings_7098079_comm_41942={"id":7098079,"unique_id":"wp-comment-41942","title":"Great%20article%2C%20fantastic%20initiative%2C%20superb%20courage%20and%20encouraging%20vision.%20Please%20follow%20through%2C%20for%20the%20sake%20of%20the%20chinese%20people%2C%20for%20the%20sake%20of%20mankind.%20Thank%20you.%20Alex%20goldsborough%20%26gt%3B...","permalink":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/#comment-41942","item_id":"_comm_41942"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_7098079_comm_41942 == 'undefined' ){PDRTJS_7098079_comm_41942 = new PDRTJS_RATING( PDRTJS_settings_7098079_comm_41942 );}}PDRTJS_settings_7098079_comm_41944={"id":7098079,"unique_id":"wp-comment-41944","title":"Please%20give%20your%20opinion%20to%20the%20works%20of%20Enver%20Hoxha%20Reflections%20on%20China....","permalink":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/#comment-41944","item_id":"_comm_41944"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_7098079_comm_41944 == 'undefined' ){PDRTJS_7098079_comm_41944 = new PDRTJS_RATING( PDRTJS_settings_7098079_comm_41944 );}}PDRTJS_settings_7098079_comm_41947={"id":7098079,"unique_id":"wp-comment-41947","title":"This%20gives%20us%20hope%20for%20China%26%23039%3Bs%20future....","permalink":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/#comment-41947","item_id":"_comm_41947"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_7098079_comm_41947 == 'undefined' ){PDRTJS_7098079_comm_41947 = new PDRTJS_RATING( PDRTJS_settings_7098079_comm_41947 );}}PDRTJS_settings_7098079_comm_41951={"id":7098079,"unique_id":"wp-comment-41951","title":"It%26%23039%3Bs%20amusing%20to%20hear%20that%20your%20fellow%20students%20at%20Harvard%20didn%26%23039%3Bt%20know%20who%20you%20were%2C%20Wang%20Dan.%20I%20was%20a%20student%20in%20the%20West%20in%201989%20%28a%20little%20older%20than%20you%21%29%20and%20you%2C%20Chai%20Ling%20and%20others%20were%20all...","permalink":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/#comment-41951","item_id":"_comm_41951"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_7098079_comm_41951 == 'undefined' ){PDRTJS_7098079_comm_41951 = new PDRTJS_RATING( PDRTJS_settings_7098079_comm_41951 );}}PDRTJS_settings_7098079_comm_41952={"id":7098079,"unique_id":"wp-comment-41952","title":"Thank%20you%2C%20Marcia.%20I%20will%20make%20sure%20Wang%20Dan%20gets%20your%20message.%20--%20Yaxue...","permalink":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/#comment-41952","item_id":"_comm_41952"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_7098079_comm_41952 == 'undefined' ){PDRTJS_7098079_comm_41952 = new PDRTJS_RATING( PDRTJS_settings_7098079_comm_41952 );}}
+//--><!]]></script><script type='text/javascript' charset='UTF-8' src='https://polldaddy.com/js/rating/rating.js'></script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/":15972};
+	</script>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+					<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type="text/javascript">
+			jQuery( document ).ready( function() {
+			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {
+			        IN.init();
+			    });
+			});
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( typeof IN != 'undefined' )
+					IN.parse();
+			});
+			</script>		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-telegram' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"45895295","siteName":"China Change","siteURL":"https:\/\/chinachange.org","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/f79e60a2266ebb41a2f2a629edc00a11?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/academica","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F","themeURL":"","xhrURL":"https:\/\/chinachange.org\/wp-admin\/admin-ajax.php","nonce":"daada304f0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"8c46d6292a\" \/>","referer":"https:\/\/chinachange.org\/2017\/10\/25\/twenty-eight-years-after-an-interview-with-wang-dan\/","canFollow":"1","feedID":"11500406","statusMessage":"","customizeLink":"https:\/\/chinachangedotorg.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fchinachangedotorg.wordpress.com%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F","postID":"15972","shortlink":"http:\/\/wp.me\/p36zsH-49C","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/chinachange.org\/15972","statsLink":"https:\/\/wordpress.com\/stats\/post\/15972\/chinachange.org","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Academica","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 2,202 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/chinachange.org\/wp-admin\/admin-ajax.php","nonce":"4061cb636f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F25%2Ftwenty-eight-years-after-an-interview-with-wang-dan%2F","blog_id":"45895295","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=45895295&v=wpcom&tz=-4&user_id=0&subd=chinachangedotorg","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9UNFOwzAM/CFSd4IJeEB8CsoSb3UbJ8FxNvb3pIKOCk19snW+O58Nl2xciopRYSzg8UwO81c3lgdYjbiaHOqJYoFAExb4rFhxsNEHlP9kHZAbJdcDWGc9Mjk7mzPGunApulB9YzXcJW4jNYI5XDumuLF9RM3WTfDRDEAvpIpilBgDRdzQWd98zcEKsC1N0zqTzihCc4gbtuXglFKcHW7dvWNK/su/xsf2Mbn+lm7NurPLWUm1YFjONQuwlW+iwqjmset/vnNMwhv8nIqaY7AkUAYrFE9LbaJ3ftvt+5fn133/tBu/ATDPzNA='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'45895295','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'45895295','v':'wpcom','tz':'-4','user_id':'0','post':'15972','subd':'chinachangedotorg'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlRktraSZvRSxBQTdSZy1GV1NuaFRQTllEfk9VbFtEaGFHTGhnNFlrY3h6dWcmRXpLfnlXYkljT1lSa256ZE5JU35DM1NrOUFOd0c/eVp+X2UmX112b3xten5CUi1ybHBuUlFnUjlZT09VQjI4QVEzcF8lcllkWFlJOU18K0xDd0NhamJFOCV1X353bCs2RkhGcDJ3RFljP0NMaDJPL2dDd3poL2dGR3ZURmZWUnZWSlk/dWFXanRfaWRWRWklOEpZLHBUVDBVZ3RlQktGSktDdnFQTzdNVnk2a3ZHQWJaY1FldTR4aDRXN1ouM35zSHVQMG8xeS5dY1IuaUU='}]);
+_stq.push([ 'clickTrackerInit', '45895295', '15972' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>	</body>
+</html>
+<!--
+	generated in 0.273 seconds
+	114266 bytes batcached for 300 seconds
+-->

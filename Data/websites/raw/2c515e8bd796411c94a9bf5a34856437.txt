@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1059.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+img={"id":117378203,"uid":0,"author_pro":false,"type":"jpg","generator":"meme","submitted":false,"featured":false};a=new XMLHttpRequest();
+a.onload=function(){I=JSON.parse(this.responseText);if(window.initData)initData();};
+a.open('get','/ajax_get_le_data'+(window.img?'?i='+img.id:''),true);
+a.send();
+</script>
+<script>
+var _gaq=_gaq||[];
+_gaq.push(['_setAccount','UA-20041150-5']);
+_gaq.push(['_setDomainName','imgflip.com']);
+_gaq.push(['_setSiteSpeedSampleRate',5]);
+_gaq.push(['_trackPageview']);
+(function(d){
+var ga=d.createElement('script');ga.type='text/javascript';ga.async=true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s=d.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);
+})(document);
+pwidget_config={publisherKey:"tfb13777dir6080pclj5",gaTrackEvents:!0,gaTrackSocialInteractions:!0,onshare:function(){doneshare=1},copypaste:!1,shareQuote:!1};
+(function(d){
+var s=d.createElement('script');s.async=!0;
+s.src='//s.po.st/static/v3/post-widget.js#init=lazy';
+var x=d.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s,x);
+})(document);
+version=618;
+spriteNum=1961;
+IMAGE_DOMAIN='//i.imgflip.com/';
+STATIC_DOMAIN='//s.imgflip.com/';
+mm=0;
+disable_rc=1;
+</script>
+<style>
+.imgflip-banner-top{width:320px;height:50px;vertical-align:top;}
+@media(min-width:500px){.imgflip-banner-top{width:468px;height:60px;}}
+@media(min-width:760px){.imgflip-banner-top{width:728px;height:90px;}}
+</style>
+<link rel="icon" href="/favicon.ico?b" />
+<link rel="icon" sizes="128x128" href="/apple-touch-icon.png" />
+<link rel='stylesheet' href='//s.imgflip.com/v618/style.css' media='screen' /><link rel='stylesheet' href='//s.imgflip.com/v618/flip.css' media='screen' />
+<title>Minor Mistake Marvin Meme - Imgflip</title>
+<meta name="description" content="A Minor Mistake Marvin meme. Caption your own images or memes with our Meme Generator." />
+<meta property="og:site_name" content="Imgflip" />
+<meta property="og:url" content="https://i.imgflip.com/1xvtln.jpg" />
+<meta property="og:title" content="Minor Mistake Marvin" />
+<meta property="og:image" content="https://i.imgflip.com/1xvtln.jpg" />
+<meta property="og:image:width" content="380" />
+<meta property="og:image:height" content="430" />
+<meta name="twitter:card" content="photo" />
+<meta name="twitter:site" content="@imgflip" />
+<meta name="twitter:title" content="Minor Mistake Marvin" />
+<meta name="twitter:image" content="https://i.imgflip.com/1xvtln.jpg" />
+<meta name="twitter:url" content="https://imgflip.com/i/1xvtln" />
+</head>
+<body class="gray">
+<div id="panelBack">
+<div id="panel">
+<div id="miniNots" class="nt"></div>
+<a class="nav" href="/">
+<div id="logo" alt="Imgflip Logo"></div>
+</a>
+<div class="nav menu-wrap" id="nav-make">
+<div id="nav-make-inner" class="menu-btn">Create <small>▼</small></div>
+<div id="make-list" class="menu">
+<a class="make-item" href="/memegenerator" title="Meme Generator">
+<div class="iCaption ni"></div>
+Caption a Meme or Image
+</a>
+<a class="make-item" href="/gifgenerator" title="Video to Animated GIF Maker">
+<div class="iGif ni"></div>
+Make a GIF (from video)
+</a>
+<a class="make-item" href="/images-to-gif" title="Images to Animated GIF Maker">
+<div class="iGif ni"></div>
+Make a GIF (from images)
+</a>
+<a class="make-item" href="/piemaker" title="Pie Chart Maker">
+<div class="iPie ni"></div>
+Make a Pie Chart
+</a>
+<a class="make-item" href="/demotivational_maker" title="Demotivational Poster Maker">
+<div class="iDemotivational ni"></div>
+Make a Demotivational
+</a>
+</div>
+</div>
+<div class="nav img-flip" id="iFlip">
+<svg width=40 height=20 class="rand-arrows" style="margin:16px 0 0">
+<g transform="scale(.3)">
+<path class="line" fill="none" stroke="#aaa" stroke-width="8" stroke-linejoin="round" d="M 22 15 l 30 0 l 10 10 m 10 10 l 10 10 l 30 0" />
+<path class="arrow" fill="#aaa" d="M 112 45 l 0 -10 l 20 10 l -20 10 l 0 -10" />
+<path class="line" fill="none" stroke="#aaa" stroke-width="8" stroke-linejoin="round" d="M 22 45 l 30 0 l 30 -30 l 30 0" />
+<path class="arrow" fill="#aaa" d="M 112 15 l 0 -10 l 20 10 l -20 10 l 0 -10" />
+</g>
+</svg>
+<div class="navTip">Flip Through Images</div>
+</div>
+<div class="nav menu-wrap" id="userTitle">
+<div id="uTitle" class="menu-btn">
+<span id="u-long"></span><small>▼</small>
+</div>
+<div id="userMenu" class="menu"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="fb-root"></div>
+<div id="page" class="f">
+<div id="fLeft">
+<div id="img-main">
+<h1 id='img-title'>Minor Mistake Marvin</h1>
+<div id="img-wrap-wrap-wrap-lol">
+<div id="img-wrap-wrap" style="width:380px">
+<div id="img-wrap" class="pause-wrap" style="padding-bottom:113.15789473684%">
+<img id="im" src='//i.imgflip.com/1xvtln.jpg' alt="Minor Mistake Marvin Meme | LEAVES THE GUO USES VPN OUT OF HABIT | image tagged in memes,minor mistake marvin | made w/ Imgflip meme maker" />
+</div>
+</div>
+</div>
+<div id="img-panel" class="ibox clearfix">
+<div class="img-vote-wrap">
+<div class="but img-up -up"></div
+					><div class="but img-down -down"></div>
+</div>
+<div class="img-views">2,150 views</div>
+<div id="fShare"></div>
+</div>
+<a class='recaption l but' href='/memegenerator/Minor-Mistake-Marvin'><img src='//i.imgflip.com/2/czes2.jpg' alt='Minor Mistake Marvin meme' /><span class='recaption-text'>Re-caption this meme</span></a> </div>
+<div id="c-area">
+<div id="c-new-main" class="c-new-wrap">
+<textarea class="c-new-text" placeholder="Type a comment.." maxlength="2500"></textarea>
+<div class="c-new-btn-wrap">
+<div id="comWithMeme" class="c-meme-btn l but">Add Meme</div
+					><div class="c-add-btn l but">Post Comment</div>
+</div>
+</div>
+<div id="comments"></div>
+</div>
+</div>
+<div id="fPanel">
+<div id="fOptions" class="fPane">
+<div id="f-options-label">Flip Settings</div>
+<div class="main-tags">
+<label><input class="main-tag" id="show-memes" type="checkbox" /> memes</label>
+<label><input class="main-tag" id="show-gifs" type="checkbox" /> gifs</label>
+<label><input class="main-tag" id="show-other" type="checkbox" /> other</label>
+</div>
+<div class="clear"></div>
+<div id="flip-notify"></div>
+</div>
+<div id="fNav">
+<a href="/i/1xvtml" id="img-prev" class="img-nav but" title="Flip to previous image"></a
+			><a href="/i/1xvt9h" id="img-next" class="img-nav but" title="Flip to next image"></a
+			><div id="img-flip" class="img-nav but img-flip" title="Flip to a random image">
+<svg width=156 height=60 class="rand-arrows">
+<path class="line" fill="none" stroke="#aaa" stroke-width="8" stroke-linejoin="round" d="M 22 15 l 30 0 l 10 10 m 10 10 l 10 10 l 30 0" />
+<path class="arrow" fill="#aaa" d="M 112 45 l 0 -10 l 20 10 l -20 10 l 0 -10" />
+<path class="line" fill="none" stroke="#aaa" stroke-width="8" stroke-linejoin="round" d="M 22 45 l 30 0 l 30 -30 l 30 0" />
+<path class="arrow" fill="#aaa" d="M 112 15 l 0 -10 l 20 10 l -20 10 l 0 -10" />
+</svg>
+</div>
+<div class="clear"></div>
+</div>
+<a class='recaption l but' href='/memegenerator/Minor-Mistake-Marvin'><img src='//i.imgflip.com/2/czes2.jpg' alt='Minor Mistake Marvin meme' /><span class='recaption-text'>Re-caption this meme</span></a>
+<div class="fPane">
+<div id="fTags">
+<a class='fTagg tag-memes' href="/?tgz=memes">memes</a><a class='fTagg' href="/meme/Minor-Mistake-Marvin">minor mistake marvin</a> </div>
+<div id="fInfo">
+<p>Made by anonymous 1 week ago</p><p id='imgSource'>Created with the Imgflip <a href='/memegenerator'>Meme Generator</a></p> </div>
+<div id="img-embed-codes-btn" class="l but sml">Show embed codes</div>
+<div class="img-embed-codes"></div>
+<div style="font-size:10px;color:#666;margin:10px 0 0;">
+<div style="color:#444;font-size:9px;margin-bottom:2px;">IMAGE DESCRIPTION:</div>
+LEAVES THE GUO USES VPN OUT OF HABIT </div>
+</div>
+<div class="img-hotkeys">hotkeys: D = random, W = like, S = dislike, A = back</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="footer">
+<div id="footer-nav">
+<a href="/pro?from=footer">Imgflip Pro</a>
+<a href="/gifgenerator">Video to GIF Maker</a>
+<a href="/images-to-gif">Images to GIF Maker</a>
+<a href="/memegenerator">Meme Generator</a>
+<a href="/memetemplates">Blank Meme Templates</a>
+<a href="/piemaker">Pie Chart Maker</a>
+<a href="/demotivational_maker">Demotivational Poster Maker</a>
+<a href="/image-cropper">Image Cropper</a>
+<a href="/about">About</a>
+<a href="/privacy">Privacy</a>
+<a href="/terms">Terms</a>
+<a href="//api.imgflip.com">API</a>
+<a href="/request_removal">Request Image Removal</a>
+</div>
+<div id="findUs">
+<a id="on-fb" href="https://www.facebook.com/imgflip">Facebook</a>
+<a id="on-tw" href="https://twitter.com/imgflip">Twitter</a>
+</div>
+<div id="footline">Empowering creativity on teh interwebz<br />Imgflip LLC 2017</div>
+</div>
+<!--[if lt IE 9]>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<![endif]--><!--[if gte IE 9]><!-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<![endif]-->
+<script src='//s.imgflip.com/v618/common.js'></script>
+<script src='//s.imgflip.com/v618/m.js'></script>
+<script>
+	lzs('//s.imgflip.com/v618/m.css');
+	initFlip();
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"07cc192809","applicationID":"62979520","transactionName":"MQFQZRBQXEcFBhJbCwhLZ0MLHlRYDRVIQgwW","queueTime":0,"applicationTime":9,"atts":"HUZTE1hKT0k=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

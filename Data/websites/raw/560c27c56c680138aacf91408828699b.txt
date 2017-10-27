@@ -1,0 +1,559 @@
+
+
+
+
+
+<!DOCTYPE html><html lang="en-US" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+<title>Chinese Double Standards in the Maritime Domain | The Diplomat</title>
+<link id="page_favicon" href="/favicon.ico" rel="icon" type="image/x-icon">
+<meta property="fb:pages" content="308456097978" />
+<meta property="fb:app_id" content="957344281046692" />
+
+<meta name="title" content="Chinese Double Standards in the Maritime Domain"><meta name="description" content="Beijing clearly understands its maritime rights, but does not necessarily tolerate and accept the same rights for others."><meta name="author" content="Tuan N. Pham , The Diplomat"><meta name="keywords" content="The Diplomat, News, Magazine, Asia-Pacific, Asia, Pacific, The Debate, China, China maritime assertiveness, China maritime disputes, China maritime power, China-U.S. competition, China-U.S. relations, China-US Relations, maritime surveillance, South China Sea FONOPs, United States, US FONOPs"><meta name="news_keywords" content="China, China maritime assertiveness, China maritime disputes, China maritime power, China-U.S. competition, China-U.S. relations, China-US Relations, maritime surveillance, South China Sea FONOPs, United States, US FONOPs"><meta property="og:title" content="Chinese Double Standards in the Maritime Domain"/><meta property="og:type" content="article"/><meta property="og:image" content="https://thediplomat.com/wp-content/uploads/2017/08/thediplomat.com-3431900-553x360.jpg"/><meta property="og:image:width" content="553"/><meta property="og:image:height" content="360"/><meta property="og:updated_time" content="2017-08-17 00:37:56"/><meta property="og:site_name" content="The Diplomat"/><meta property="og:description" content="Beijing clearly understands its maritime rights, but does not necessarily tolerate and accept the same rights for others."/><link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thediplomat.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='scap.flashblock-group-css' href='https://thediplomat.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/compact-wp-audio-player/css/flashblock.css,wp-content/plugins/compact-wp-audio-player/css/player.css,wp-content/plugins/captcha/css/front_end_style.css,wp-content/plugins/captcha/css/desktop_style.css,wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css,wp-content/themes/the_diplomat_v2/css/diplomat_20170511_1800.css,wp-content/themes/the_diplomat_v2/css/td-ads.css,wp-content/themes/the_diplomat_v2/css/print.css&#038;ver=2017-05-11' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='https://thediplomat.com/?mcsf_action=main_css&#038;ver=4.7.3' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-group-css' href='https://thediplomat.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/mailchimp/css/ie.css&#038;ver=2017-05-11' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dashicons-css'  href='https://thediplomat.com/wp-includes/css/dashicons.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='diplomat-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='diplomat-fonts-cond-css'  href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&#038;subset=latin' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?ver=4.7.3'></script>
+<link rel="canonical" href="https://thediplomat.com/2017/08/chinese-double-standards-in-the-maritime-domain/" />
+<link rel='shortlink' href='https://thediplomat.com/?p=117569' />
+
+<script src="/dpl-web/build-1489132542342/js/angular.min.js"></script><script src="/dpl-web/build-1489132542342/js/angular-cookies.min.js"></script><script src="/dpl-web/build-1489132542342/js/firebase.js"></script><script src="/dpl-web/build-1489132542342/js/app.min.js"></script><link href="/dpl-web/build-1489132542342/css/app.min.css" type="text/css" rel="stylesheet"><link href="/dpl-web/build-1489132542342/css/dpl-web-overrides.css" type="text/css" rel="stylesheet"><!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-11999347-10', 'auto');
+
+
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<!-- Google Ads -->
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+</script>
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/4711575/Leaderboard', [728, 90], 'div-gpt-ad-1343666802946-0').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Half-Page', [[300, 600], [300, 250], [240, 400]], 'div-gpt-ad-1343666802946-1').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Medium-Rectangle', [300, 250], 'div-gpt-ad-1343666802946-2').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Mobile_Header_Leaderboard', [[728, 90], [320, 100], [320, 50]], 'div-gpt-ad-1434588807065-1').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Mobile_Footer_Leaderboard', [[728, 90], [320, 100], [320, 50]], 'div-gpt-ad-1434588807065-0').addService(googletag.pubads());
+		
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+
+
+<!-- Chartbeat (see also footer) -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style>
+
+	.mobile-header {
+		background: #000000;
+		z-index: 1;
+	}
+
+	#mobile-header-menu,
+	#mobile-header-logo,
+	#mobile-header-login {
+		position: absolute;
+		overflow: hidden;
+		text-indent: -99em;
+		background-position: center center;
+		background-repeat: no-repeat;
+		cursor: pointer;
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	#mobile-header-menu,
+	#mobile-header-login {
+		top: 0;
+		width: 55px;
+		height: 44px;
+		opacity: 0.6;
+	}
+	#mobile-header-menu {
+		left: 0;
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-menu.svg');
+	}
+	#mobile-header-menu.active {
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-clear.svg');
+		opacity: 1;
+	}
+	#mobile-header-logo {
+		top: 12px;
+		left: 70px;
+		right: 70px;
+		height: 20px;
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-logo.svg');
+		background-size: contain;
+	}
+	#mobile-header-login {
+		right: 0;
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-account.svg');
+	}
+
+	.slideout-menu .siteSearchWrapper {
+		padding: 10px;
+		display: block;
+		background-color: #1f1f1f;
+	}
+	.slideout-menu .siteSearchWrapper input {
+		width: 100%;
+		font-size: 12px;
+		line-height: 18px;
+		padding: 9px;
+		display: block;
+		border: 1px solid #000;
+	}
+	.footer_main li a, .footer_main li strong {
+		margin: 0 10px;
+	}
+
+</style>
+
+</head>
+
+<body class="post-template-default single single-post postid-117569 single-format-standard" ng-app="dpl.web" ng-controller="appCtrl as app">
+
+<div class="mobile-header">
+    <div id="mobile-header-menu">Menu</div>
+    <a id="mobile-header-logo" href="https://thediplomat.com">The Diplomat</a>
+    <div id="mobile-header-login" ng-click="app.openLoginModal()">Account</div></div>
+
+ <div id="area_topbar">
+	<div class="viewport clearFloat">
+		<div class="topBar topBarLeft">
+			<div class="first-child last-child">
+				<a href="https://thediplomat.com"><span>Home</span></a>
+			</div>
+		</div>
+		<div class="topBar topBarRight">
+			<div style="text-transform:uppercase;font-weight:bold;" ng-click="app.openLoginModal()"><a ng-show="account.user_id" class="ng-hide" ng-show="account.user_id" href="#">My Account</a><a ng-click="app.openLoginModal()" ng-hide="account.user_id" href="#">Sign In</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/the-diplomat/">About Us</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/about-us/advertise/">Advertise</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/syndication/">Syndication</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/write-for-us/">Write for Us</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/contact-us/">Contact Us</a></div>		</div>
+	</div>
+</div>
+
+<div id="page-content">
+<div class="viewport">
+
+	<div id="area_top">
+		<div id="head">
+		
+			<div id="logo" itemscope itemtype="https://schema.org/Organization">
+				<a itemprop="url" href="https://thediplomat.com/" height="50">
+					<img itemprop="logo" src="https://thediplomat.com/wp-content/themes/the_diplomat_v2/img/thediplomat_logo.png" width="332" height="50" alt="The Diplomat" />
+					<p itemprop="name">The Diplomat</p>
+				</a>
+			</div>
+
+			<!-- AD : Google Leaderboard -->
+			<div id='div-gpt-ad-1343666802946-0' class="block blockAd">
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1343666802946-0'); });
+				</script>
+			</div>
+
+		</div>
+		<div id="navigation" class="block">
+			<div class="block_content">
+				<div class="navigationPrimary"><table><tr><td><a href="https://thediplomat.com/regions/central-asia" class="intref navItem-29247 first-child"><span>Central Asia</span></a></td><td><a href="https://thediplomat.com/regions/east-asia" class="intref navItem-29248"><span>East Asia</span></a></td><td><a href="https://thediplomat.com/regions/oceania-region" class="intref navItem-29249"><span>Oceania</span></a></td><td><a href="https://thediplomat.com/regions/south-asia" class="intref navItem-29250"><span>South Asia</span></a></td><td><a href="https://thediplomat.com/regions/southeast-asia" class="intref navItem-29"><span>Southeast Asia</span></a></td><td><a href="https://thediplomat.com/topics/economy" class="intref navItem-17"><span>Economy</span></a></td><td><a href="https://thediplomat.com/topics/diplomacy" class="intref navItem-18"><span>Diplomacy</span></a></td><td><a href="https://thediplomat.com/topics/environment" class="intref navItem-29243"><span>Environment</span></a></td><td><a href="https://thediplomat.com/topics/politics" class="intref navItem-29244"><span>Politics</span></a></td><td><a href="https://thediplomat.com/topics/security" class="intref navItem-29245"><span>Security</span></a></td><td><a href="https://thediplomat.com/topics/society" class="intref navItem-29246 last-child"><span>Society</span></a></td></tr></table></div><div class="navigationSecondary"><table><tr><td><a href="https://thediplomat.com/category/blogs" class="intref navItem-2 first-child"><span>Blogs</span></a><div class="navDropWrap"><a href="https://thediplomat.com/category/china-power" class="intref">China Power</a><a href="https://thediplomat.com/category/flashpoints" class="intref">Flashpoints</a><a href="https://thediplomat.com/category/asia-defense" class="intref">Asia Defense</a><a href="https://thediplomat.com/category/asean-beat" class="intref">ASEAN Beat</a><a href="https://thediplomat.com/category/the-pulse" class="intref">The Pulse</a><a href="https://thediplomat.com/category/the-koreas" class="intref">The Koreas</a><a href="https://thediplomat.com/category/tokyo-report" class="intref">Tokyo Report</a><a href="https://thediplomat.com/category/the-debate" class="intref">The Debate</a><a href="https://thediplomat.com/category/crossroads-asia" class="intref">Crossroads Asia</a><a href="https://thediplomat.com/category/trans-pacific-view" class="intref">Trans-Pacific View</a><a href="https://thediplomat.com/category/pacific-money" class="intref">Pacific Money</a><a href="https://thediplomat.com/category/asia-life" class="intref">Asia Life</a><a href="https://thediplomat.com/category/oceania" class="intref">Oceania</a></div></td><td><a href="https://thediplomat.com/category/interviews" class="intref navItem-4"><span>Interviews</span></a></td><td><a href="https://thediplomat.com/category/photo-essays" class="intref navItem-15"><span>Photo Essays</span></a></td><td><a href="https://thediplomat.com/category/videos" class="intref navItem-16"><span>Videos</span></a><div class="navDropWrap"><a href="https://thediplomat.com/category/asia-through-the-lens" class="intref">Through the Lens: Life and Politics in Asia</a></div></td><td><a href="https://thediplomat.com/category/podcasts" class="intref navItem-11394"><span>Podcasts</span></a><div class="navDropWrap"><a href="https://thediplomat.com/category/japan-affairs" class="intref">Japan Affairs</a><a href="https://thediplomat.com/category/asia-geopolitics" class="intref">Asia Geopolitics</a><a href="https://thediplomat.com/category/korea-talk" class="intref">Korea Talk</a></div></td><td><a href="https://magazine.thediplomat.com/" class="intref navItem-16992 last-child"><span>Magazine</span></a></td><td class="spacer" style="text-align:left;"><a href="https://thediplomat.com/subscriptions/" class="navItem-gotoshop"><span>Subscribe</span></a></td>
+				<td class="navigationSearch">&nbsp;</td>
+			</tr></table><div id="siteSearch"><div class="siteSearchWrapper"><form role="search" method="get" id="searchform" class="searchform" action="https://thediplomat.com"><div class="siteSearchFormItemWrapper"><input type="text" id="s" class="query" placeholder="Search" name="q" value=""/></div><input type="hidden" name="cref" value="https://thediplomat.com/?glcse=1" /><input type="hidden" name="cof" value="FORID:11" /><input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="s" value="glcse" /><input type="submit" id="searchsubmit" class="submit" value="Search"></form></div></div></div>			</div>
+		</div>
+	</div><!-- #area_top -->
+
+	<div id="area_content">
+		
+		<div id="div-gpt-ad-1434588807065-1" class="ad-mobile ad-mobile-header">
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434588807065-1'); });
+			</script>
+		</div>
+
+
+	<div id="content_main">
+		
+		
+			
+<div class="block postView postSection_10 clearFloat">
+
+		<div class="td_label"><a href="https://thediplomat.com/category/the-debate/" class="dipl_labelTitle">The Debate</a></div><article itemscope itemtype="http://schema.org/Article" class="block_content" data-pwcnt="true"><div class="postWrapper"><div id="postImage" class="postImageWrapper postImageInline" data-current="1" data-total="1"><div class="postImageWrapperInner"><div class="rowPostImage rowPostImage_1 active"><div class="postImage"><img width="386" height="228" src="https://thediplomat.com/wp-content/uploads/2017/08/thediplomat.com-3431900-386x228.jpg" class="wp-post-image" alt="Chinese Double Standards in the Maritime Domain" itemprop="image"></div><div class="postImageLegend">The Arleigh Burke-class guided-missile destroyer USS Dewey (DDG 105) transits the South China Sea with the Japan Maritime Self-Defense Force ship JS Izumo (DDH 183) in May 2017.</div><div class="postImageCredit">Image Credit: <a href="https://www.dvidshub.net/image/3431900/dewey-transits-south-china-sea-with-jmsdf-ships" target="_blank" rel="nofollow">U.S. Navy Photo by Mass Communication Specialist 3rd Class Kryzentia Weiermann</a></div></div></div></div><h1 class="postTitle" itemprop="name">Chinese Double Standards in the Maritime Domain</h1><div class="postTeaser"><span itemprop="description"><p>Beijing clearly understands its maritime rights, but does not necessarily tolerate and accept the same rights for others.</p>
+</span></div><div class="postBylineWrapper"><div class="postByline"><div class="postAuthor">By <span itemprop="author">Tuan N. Pham </span><span style="display:none"> for <span itemprop="publisher">The Diplomat</span></span></div><div class="postDate"><span itemprop="datePublished">August 16, 2017</span></div></div><div class="postSocial"><div class="socialIcons"><div data-text="Chinese Double Standards in the Maritime Domain" data-url="http://thediplomat.com/2017/08/chinese-double-standards-in-the-maritime-domain/" class="shareFacebook facebook"><span class="socialIcon">&nbsp;</span></div><div data-text="Chinese Double Standards in the Maritime Domain @Diplomat_APAC" data-url="http://thediplomat.com/2017/08/chinese-double-standards-in-the-maritime-domain/" class="shareTwitter twitter"><span class="socialIcon">&nbsp;</span></div><div data-text="Chinese Double Standards in the Maritime Domain" data-url="http://thediplomat.com/2017/08/chinese-double-standards-in-the-maritime-domain/" class="shareGoogle google"><span class="socialIcon">&nbsp;</span></div><div data-text="Chinese Double Standards in the Maritime Domain" data-url="http://thediplomat.com/2017/08/chinese-double-standards-in-the-maritime-domain/" class="shareLinkedIn linkedin"><span class="socialIcon">&nbsp;</span></div><div class="printpage"><span class="socialIcon">&nbsp;</span></div></div><div class="postSocialTotalCounts"><div class="shareCounts">&nbsp;</div><div class="postComments">&nbsp;</div></div></div></div><div class="postBody" itemprop="articleBody" ng-if="dplpw.read"><p>Last month, China deployed two People’s Liberation Army-Navy (PLAN) intelligence-gathering ships (AGI) off the coasts of the United States (Alaska) and Australia (Queensland). <a target="_blank" href="http://edition.cnn.com/2017/07/13/politics/chinese-spy-ship-coast-alaska/index.html">China</a> was speculated to be observing the United States’ first-ever <a target="_blank" href="https://www.reuters.com/article/us-northkorea-missiles-usa-defenses-idUSKBN19W15R">interception test</a> of an intermediate-range ballistic missile by the Terminal High Altitude Area Defense (THAAD) anti-ballistic missile system in the first instance; while in the <a target="_blank" href="http://www.abc.net.au/news/2017-07-22/provocative:-chinese-navy-spy-ship-monitoring/8733916">latter</a> Beijing was believed to be observing a major joint military exercise between the United States Navy and Royal Australian Navy (<a target="_blank" href="http://www.defence.gov.au/Exercises/TS17/">Talisman Sabre 2017</a>). Both AGI apparently operated for several days well inside the <a target="_blank" href="http://edition.cnn.com/2017/07/13/politics/chinese-spy-ship-coast-alaska/index.html">American</a> and <a target="_blank" href="http://www.smh.com.au/federal-politics/political-news/julie-bishop-plays-down-presence-of-chinese-spy-ship-during-talisman-sabre-military-drills-20170725-gxi6cg.html">Australian</a> exclusive economic zones (EEZs).</p>
+<p>While not unprecedented and not in violation of international law, the deployments nonetheless remind the region, the United States, and the world that China is a rising power (and major maritime power) willing to fully leverage its maritime rights as “interpreted” under UNCLOS. That, in turn, underscores Beijing’s “double standards,” in terms of selectively choosing parts of UNCLOS that it likes and ignoring (or reinterpreting) parts that it does not like or find incongruent with its national interests. While <a target="_blank" href="https://thediplomat.com/2017/07/a-chinese-spy-ship-may-have-observed-a-thaad-intercept-test-but-thats-just-fine/">Washington</a> and <a target="_blank" href="http://www.smh.com.au/federal-politics/political-news/julie-bishop-plays-down-presence-of-chinese-spy-ship-during-talisman-sabre-military-drills-20170725-gxi6cg.html">Canberra</a> tolerated, exercised restraint, and even downplayed the presence of the AGI within their respective EEZ; Beijing has more-often-than-not admonished the offending nation(s) for violating its territorial sovereignty and sometimes even harassed the such ships from other nations.</p>
+<p>What is different this time around is that Beijing’s muted defense of its latest out-of-area maritime operations and an interesting commentary from one of its top think tanks shortly thereafter that tries to explain and justify the AGI activities. When questioned about the AGI operating off the coast of Alaska during a <a target="_blank" href="http://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2511_665403/t1477975.shtml">press conference</a> on July 14, the Ministry of Foreign Affairs (MFA) spokesman claimed ignorance and deferred the matter to the Ministry of National Defense (MND), which had no comments. There were no press queries to the MFA or MND on the other AGI, nor would they have voluntarily brought it up. Three weeks later, a scholar from the <a target="_blank" href="http://en.nanhai.org.cn/index/survey/index.html">National Institute for South China Sea (SCS) Studies</a> published a piece in the IPP Review (republished by <a target="_blank" href="https://thediplomat.com/2017/08/the-us-china-maritime-surveillance-debate/"><i>The Diplomat</i></a>) that aims to undercut the prevalent indictment of hypocrisy that China undertakes intelligence, surveillance, and reconnaissance (ISR) missions in other countries’ EEZ while opposing those of the United States and others in its own EEZ. The article also seeks to dispel the notion (a “false hope”) that Beijing will eventually “see the light” and quietly assent to maritime activities it considers threatening because it is undertaking “similar” maritime activities.</p><a class="td-ad-inline td-ad-inline-txt ng-hide" ng-show="dplpw.ad" href="https://thediplomat.com/subscriptions/"><b>Enjoying this article?</b> Click here to subscribe for full access. Just $5 a month.</a>
+<p><b>Legal and Diplomatic Position (Standing)</b></p>
+<p>The <a target="_blank" href="https://fas.org/sgp/crs/row/R42784.pdf">Chinese argument</a> on the permissibility of military activities in the EEZ is legally and diplomatically expansive and evolving; and counter to the <a target="_blank" href="https://fas.org/sgp/crs/row/R42784.pdf">U.S. position</a> that coastal states under UNCLOS have the right to regulate economic activities in their EEZ, but do not have the right to regulate foreign military activities in their EEZ. Beijing <a target="_blank" href="https://www.jagcnet.army.mil/DOCLIBS/MILITARYLAWREVIEW.NSF/0/065562c0d130d63285257c24005508d6/$FILE/By%20Lieutenant%20Commander%20Robert%20T.%20Kline.pdf">contends</a> that military activities – such as ISR flights, maritime survey operations (SURVOPS), and military exercises – on the high seas and in the EEZ are unlawful based on the legislative spirit of UNCLOS and a requirement from that treaty that the high seas be used only for peaceful purposes. Though the language in UNCLOS mentions only the high seas, Chinese legal scholars and diplomats further <a target="_blank" href="https://www.usnwc.edu/Research---Gaming/China-Maritime-Studies-Institute/Publications/documents/China-Maritime-Study-7_Military-Activities-in-the-.pdf">assert</a> that military activities are unlawful in the EEZ as well. The logic is that if UNCLOS requires states to use the high seas only for peaceful purposes, then foreign activities in the EEZ (special area governed by the coastal state) must also be peaceful and so contradicts military activities which are inherently not peaceful. American legal scholars and diplomats have <a target="_blank" href="https://www.usnwc.edu/Research---Gaming/China-Maritime-Studies-Institute/Publications/documents/China-Maritime-Study-7_Military-Activities-in-the-.pdf">counter-argued</a> that military activities have been a recognized lawful activity on the high seas and in the EEZ under customary international law and subsequently preserved under <a target="_blank" href="http://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf">Article 58 of UNCLOS</a>. In sum, China objects to ISR flights, maritime SURVOPS, and military exercises in its EEZ and other claimed maritime areas because it regards these activities as unacceptable violations of its territorial sovereignty, unlawful under international law, and a national security threat.</p>
+<p><b>Latest Legal and Diplomatic Justification (Evolving)</b></p>
+<p>The author of article referenced above offers an interesting twist to extant legal and diplomatic arguments justifying PLAN maritime activities in foreign EEZ. He makes the case against Chinese hypocrisy largely on the grounds that there are significant differences in <a target="_blank" href="https://thediplomat.com/2017/08/the-us-china-maritime-surveillance-debate/">scale, technological capability, methods, and objectives</a> between what China and the United States are doing. He contends that the scale of U.S. ISR missions against China is an order of magnitude greater than that of China against the United States; Chinese ISR capabilities are so substantially inferior to those of the United States as to be in a separate and much lower category; Chinese ISR operations are mostly passive listening versus U.S. active probing and electronic interference with, and even manipulation of, communications; and U.S. ISR operations are intended to collect intelligence as part of its “preparation of the battlefield” which constitutes a violation of the United Nations Charter as well as UNCLOS.</p>
+<p>The author downplays China’s growing and improving ISR capabilities and capacities; and overlooks the increasing and expanding Chinese ISR operations in the Asia-Pacific, Indian Ocean, and perhaps beyond in the future. The ISR technological and operational gap is quickly shrinking as the PLA presses forward with its ambitious <a target="_blank" href="https://thediplomat.com/2017/04/pla-strategic-support-force-the-information-umbrella-for-chinas-military/">modernization and reform plans</a>. PLAN blue-water operations and overseas presence continue apace to expand outside the confines of the first island chain – pushing ever further into the <a target="_blank" href="http://www.hindustantimes.com/india-news/from-submarines-to-warships-how-chinese-navy-is-expanding-its-footprint-in-indian-ocean/story-QeJp31UtBphNjya2z8L7gM.html">Indian Ocean</a>, <a target="_blank" href="http://english.chinamil.com.cn/view/2017-04/06/content_7552775.htm">Arabian Sea/Gulf of Aden</a> (<a target="_blank" href="http://news.xinhuanet.com/english/2017-07/11/c_136435716.htm">Djibouti</a>), <a target="_blank" href="http://www.popsci.com/chinese-naval-task-force-starts-20-nation-grand-tour">Mediterranean Sea</a>, <a target="_blank" href="https://thediplomat.com/2017/07/china-russia-launch-first-military-drills-in-baltic-sea/">Baltic Sea</a>, <a target="_blank" href="https://thediplomat.com/2016/06/with-5-ships-and-1200-personnel-china-expands-rimpac-2016-naval-delegation/">Pacific Ocean</a>, <a target="_blank" href="https://thediplomat.com/2017/07/china-russia-trouble-on-the-arctic-silk-road/">Arctic Ocean</a>, and the waters off <a target="_blank" href="http://news.xinhuanet.com/english/2017-02/21/c_136073164.htm">Antarctica</a>. Overall, he circuitously invokes an old argument that China should be given a pass because it is not yet at the level of capability of the United States. Beijing has made the same argument for <a target="_blank" href="https://thediplomat.com/2017/04/sino-american-trade-what-comes-next/">economic</a> (currency manipulation, trade imbalance, steel dumping, weak enforcement of intellectual property agreements, overregulation of foreign enterprises) and <a target="_blank" href="https://thediplomat.com/2015/12/an-evolution-in-chinas-climate-diplomacy/">climate change</a> (CO2 emission, coal consumption) issues &#8212; a harder sell now considering China is the <a target="_blank" href="https://thediplomat.com/2016/11/evaluating-chinas-economy/">second largest economy</a> in the world.</p>
+<p>Does the presented case represent the possibility for a nuanced pivot in Chinese legal and diplomatic position or simply a trial balloon to test if the new arguments have any legs and perhaps set the conditions for future increased and expanded ISR operations in a new global order? The answer may be “yes” to both. Beijing may be subtly and incrementally laying the groundwork to eventually take the same legal and diplomatic stance as Washington (and thus pivot) once it achieves military, economic, and diplomatic parity with the United States. For now, as the purported weaker nation, it feels compelled not to do so until it is a comparable equal to the U.S. in terms of global power and influence.</p>
+<p><b>Must Eventually Address Inconsistency</b></p>
+<p>As the PLAN continues to operate in distant waters and in proximity to other nations’ coastlines, Beijing may have no choice but to eventually address the inconsistency between policy and operations &#8212; and either pragmatically adjust its standing policy or continue to assert its untenable authority to regulate military activities in its EEZ. The former is more likely, while the latter carries more risks in terms of the legal validity of its own maritime sovereignty claims, international credibility, and world standing. In fact, Beijing has begun incrementally and subtly nuancing its legal and diplomatic positions at various Track 1.5/2 Dialogues as well as with its MFA talking points. The Chinese now appear to not necessarily object to ISR flights, maritime SURVOPS, and military exercises in their EEZ per se; rather they <a target="_blank" href="http://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2511_665403/t1479993.shtml">object to the scope, scale, and frequency</a> of the aforesaid activities in the EEZ. They also seem to no longer view such activities as intrinsically unlawful under international law, but still regard those activities as threatening to their peace and security as well as destabilizing to the region and why the activities must stop.</p>
+<p>A potential bellwether of where and how Beijing may proceed in the future is the development of its domestic maritime laws to fill domestic legal gaps that China sees as hindering its ability to defend territorial maritime claims and justify its activities in international waters. Earlier in the year, Beijing announced its intent to revise (and create where necessary) <a target="_blank" href="https://thediplomat.com/2017/02/china-mulls-maritime-law-revisions-codifying-its-south-china-sea-practices/">domestic maritime laws</a> in support of its evolving maritime strategy, part of a continuing effort to set the terms for international legal disputes it expects will grow as its maritime reach expands. These developing domestic maritime laws bear watching as a public expression of Beijing’s strategic intent in the maritime domain; possible harbinger for the other contested domains of air, space, and cyberspace; and attempt to right a perceived historical wrong. China feels disadvantaged by (and taken advantage of) a Western-dominated system of international maritime laws established when it was weak as a nation and had little say in its formulation.</p>
+<p>At the end of the day, despite all of China’s grandiloquence about Chinese maritime rights under UNCLOS and accepted international norms, Beijing is still conveniently disregarding several provisions therein to support its national interests and complement its strategic narratives. This is specious, and should not go unchallenged. If Beijing wants to be a respected major player in the global arena, then it must abide by and uphold the rule of law. China cannot play by its own set of rules or worse flaunt its exceptionalism on the world’s stage for all to see. Beijing needs the international community to believe that its commitments under international law are sincere and credible, especially in the maritime trade realm on which its growing economy relies. By the same token, the world needs a rising China to be a responsible global leader respectful of the rule of law.</p>
+<p><i>Tuan N. Pham has extensive experience in the Indo-Asia-Pacific, and is widely published in national security affairs. The views expressed here are his own and do not reflect the official policy or position of the U.S. government.</i></p>
+</div></div><div data-pwmsg class="ng-hide"></div>		
+				
+		<div id="div-gpt-ad-1434588807065-1" class="ad-mobile ad-mobile-belowarticle">
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434588807065-0'); });
+			</script>
+		</div>
+
+		<div class="postInfoWrapper">
+			<div class="postInfo postInfoTopics"><div class="postInfoItem postLabel"><div class="pageIcon"></div><span>Topics</span></div><div class="postInfoItem"><a href="https://thediplomat.com/category/the-debate/" itemprop="keywords" class="intref">The Debate</a></div></div>			<div class="postInfo postInfoTags"><div class="postInfoItem postLabel"><div class="pageIcon"></div><span>Tags</span></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china/" itemprop="keywords" class="intref">China</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china-maritime-assertiveness/" itemprop="keywords" class="intref">China maritime assertiveness</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china-maritime-disputes/" itemprop="keywords" class="intref">China maritime disputes</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china-maritime-power/" itemprop="keywords" class="intref">China maritime power</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china-u-s-competition/" itemprop="keywords" class="intref">China-U.S. competition</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china-u-s-relations/" itemprop="keywords" class="intref">China-U.S. relations</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china-us-relations/" itemprop="keywords" class="intref">China-US Relations</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/maritime-surveillance/" itemprop="keywords" class="intref">maritime surveillance</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/south-china-sea-fonops/" itemprop="keywords" class="intref">South China Sea FONOPs</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/united-states/" itemprop="keywords" class="intref">United States</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/us-fonops/" itemprop="keywords" class="intref">US FONOPs</a></div></div>		</div>
+		
+	</article>
+	
+</div>
+<div class="postReadMore clearFloat">
+<div class="block block13 cached"><div class="td_label"><div class="dipl_labelTitle">Related Stories</div></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2017/10/the-true-deficit-with-china-is-not-with-trade-but-knowledge/"><div class="postPrevImage"><img width="260" height="170" src="/wp-content/uploads/2017/10/thediplomat-ap_17274258502066-260x170.jpg" alt="The True Deficit with China is Not With Trade -- But Knowledge"></div><div class="postPrevTxt"><div class="postPrevSubtitle">October 02, 2017</div><div class="postPrevTitle">The True Deficit with China is Not With Trade -- But Knowledge</div><div class="postPrevTeaser prose">There is a deficit – not in terms of trade, but knowledge. And the surplus is on China’s side.</div><div class="postPrevLink">Read Story</div></div></a><div class="postPrevList"><a href="https://thediplomat.com/2017/05/will-china-and-india-lead-the-next-wave-of-globalization/">Will China and India Lead The Next Wave of Globalization?</a><a href="https://thediplomat.com/2017/10/china-us-both-using-lawfare-in-the-south-china-sea/">China, US Both Using Lawfare in the South China Sea</a><a href="https://thediplomat.com/2017/10/us-leadership-in-asia-and-the-future-of-geopolitics/">US Leadership in Asia and the Future of Geopolitics</a><a href="https://thediplomat.com/2017/10/political-struggles-at-home-shape-beijings-meddling-abroad/">Political Struggles at Home Shape Beijing’s Meddling Abroad</a><a href="https://thediplomat.com/2017/09/north-korea-is-clearly-not-feeling-the-pain/">North Korea is Clearly Not Feeling the Pain</a></div></div></div><div class="block block13 cached"><div class="td_label"><div class="dipl_labelTitle">Latest Blogs</div></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2017/10/dont-be-fooled-by-sri-lankas-un-engagement/"><div class="postPrevImage"><img width="260" height="170" src="/wp-content/uploads/2017/10/thediplomat-680px-small_sri_lankan_flag-260x170.jpg" alt="Don’t Be Fooled by Sri Lanka’s UN Engagement"></div><div class="postPrevTxt"><div class="postPrevSubtitle">October 27, 2017</div><div class="postPrevTitle">Don’t Be Fooled by Sri Lanka’s UN Engagement</div><div class="postPrevTeaser prose">Colombo remains unserious about transitional justice.</div><div class="postPrevLink">Read Post</div></div></a><div class="postPrevList"><a href="https://thediplomat.com/2017/10/server-shenanigans-local-media-reports-kyrgyz-campaign-used-government-server/">Server Shenanigans: Local Media Reports Kyrgyz Campaign Used Government Server</a><a href="https://thediplomat.com/2017/10/russia-test-fires-4-intercontinental-range-ballistic-missiles/">Russia Test Fires 4 Intercontinental-Range Ballistic Missiles</a><a href="https://thediplomat.com/2017/10/would-a-trump-eas-philippines-miss-matter-for-us-asia-policy/">Would a Trump EAS Philippines Miss Matter for US Asia Policy?</a><a href="https://thediplomat.com/2017/10/whats-next-for-china-philippines-military-ties/">What’s Next for China-Philippines Military Ties?</a><a href="https://thediplomat.com/2017/10/kashmirs-new-interlocutor-old-wine-new-bottle/">Kashmir’s New Interlocutor: Old Wine, New Bottle?</a></div></div></div><div class="block block13 cached"><div class="td_label"><div class="dipl_labelTitle">Latest Features</div></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2017/10/indias-wildlife-trafficking-epidemic/"><div class="postPrevImage"><img width="260" height="170" src="/wp-content/uploads/2017/10/thediplomat-ap_17191351836841-260x170.jpg" alt="India’s Wildlife Trafficking Epidemic"></div><div class="postPrevTxt"><div class="postPrevSubtitle">October 26, 2017</div><div class="postPrevTitle">India’s Wildlife Trafficking Epidemic</div><div class="postPrevTeaser prose">Poaching and the illegal wildlife trade is on the rise in India.</div><div class="postPrevLink">Read Feature</div></div></a><div class="postPrevList"><a href="https://thediplomat.com/2017/10/the-7-men-who-will-run-china/">The 7 Men Who Will Run China</a><a href="https://thediplomat.com/2017/10/will-australia-finally-get-a-space-agency/">Will Australia Finally Get a Space Agency?</a><a href="https://thediplomat.com/2017/10/chinas-complicated-approach-to-transgender-rights/">China's Complicated Approach to Transgender Rights</a><a href="https://thediplomat.com/2017/10/chinese-internet-law-what-the-west-doesnt-see/">Chinese Internet Law: What the West Doesn’t See</a><a href="https://thediplomat.com/2017/10/the-dark-side-of-kyrgyzstans-affordable-housing/">The Dark Side of Kyrgyzstan's 'Affordable Housing'</a></div></div></div></div>
+			
+				
+	</div><!-- #content_main -->
+
+
+<div id="content_side">
+
+	<!-- AD : Half Page -->
+	<div id='div-gpt-ad-1343666802946-1' class="block blockAd">
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1343666802946-1'); });
+		</script>
+	</div>
+	
+	<div id="socialBlock" class="block"><div class="td_label"><div class="dipl_labelTitle">Follow Us</div></div><div class="block_content"><div class="socialList socialIcons"><div class="socialListItem"><a href="https://www.facebook.com/diplomatmagazine" class="facebook socialItem" target="_blank"><span class="socialIcon">&nbsp;</span><span class="socialLabel">Facebook</span></a></div><div class="socialListItem"><a href="https://twitter.com/Diplomat_APAC" class="twitter socialItem" target="_blank"><span class="socialIcon">&nbsp;</span><span class="socialLabel">Twitter</span></a></div><div class="socialListItem"><a href="https://plus.google.com/111026462071985595868" class="google socialItem" target="_blank" rel="publisher"><span class="socialIcon">&nbsp;</span><span class="socialLabel">Google</span></a></div><div class="socialListItem"><a href="https://thediplomat.com/feed/" class="rss socialItem" target="_blank"><span class="socialIcon">&nbsp;</span><span class="socialLabel">RSS</span></a></div></div></div></div><div id="newsletterBlock" class="block"><div class="td_label"><div class="dipl_labelTitle">Newsletter</div></div><div class="block_content"><div class="newsletterIntro"><div class="postPrevSubtitle">Sign up for our weekly newsletter</div><div class="postPrevTitle">The Diplomat Brief</div></div><div class="newsletterForm">	<style>
+		.widget_mailchimpsf_widget .widget-title {
+		line-height: 1.4em;
+		margin-bottom: 0.75em;
+	}
+	#mc_subheader {
+		line-height: 1.25em;
+		margin-bottom: 18px;
+	}
+	.mc_merge_var {
+		margin-bottom: 1.0em;
+	}
+	.mc_var_label,
+	.mc_interest_label {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	.mc_input {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	.mc_input.mc_phone {
+		width: auto;
+	}
+	select.mc_select {
+		margin-top: 0.5em;
+		width: 100%;
+	}
+	.mc_address_label {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+		display: block;
+	}
+	.mc_address_label ~ select {
+		width: 100%;		
+	}
+	.mc_list li {
+		list-style: none;
+		background: none !important;
+	}
+	.mc_interests_header {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_interest label,
+	.mc_interest input {
+		margin-bottom: 0.4em;
+	}
+	#mc_signup_submit {
+		margin-top: 1.5em;
+		width: 80%;
+	}
+	#mc_unsub_link a {
+		font-size: 0.75em;
+	}
+	#mc_unsub_link {
+		margin-top: 1.0em;
+	}
+	.mc_header_address,
+	.mc_email_format {
+		display: block;
+		font-weight: bold;
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_email_options {
+		margin-top: 0.5em;
+	}
+	.mc_email_type {
+		padding-left: 4px;
+	}
+	</style>
+	
+<div id="mc_signup">
+	<form method="post" action="#mc_signup" id="mc_signup_form">
+		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html" />
+		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form" />
+		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="88e347dee3" />		
+		
+	<div class="mc_form_inside">
+		
+		<div class="updated" id="mc_message">
+					</div><!-- /mc_message -->
+
+		
+<div class="mc_merge_var">
+		<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address</label>
+	<input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input"/>
+</div><!-- /mc_merge_var -->
+		<div class="mc_signup_submit">
+			<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe Newsletter" class="button" />
+		</div><!-- /mc_signup_submit -->
+	
+	
+				
+	</div><!-- /mc_form_inside -->
+	</form><!-- /mc_signup_form -->
+</div><!-- /mc_signup_container -->
+	</div></div></div>	
+	<!-- AD - Inhouse - Subscription -->
+	
+	<div class="block">
+		<div class="block_content" style="padding:0px; width: 300px; height: 300px; background-color:669999;">
+			<a style="display:block;line-height:0px;" href="https://thediplomat.com/subscriptions/">
+
+			<img width="300" height="300" style="display:block" src="https://thediplomat.com/ads/subscription/dpl_paywall_ad_300x300_v3.gif">
+			</a>
+		</div>
+	</div>
+	
+	<div id="block-selected" class="block cache"><div class="td_label"><div class="dipl_labelTitle">Popular Stories</div></div><div class="block_content"><div class="postPreviewInline rows rows3"><div class="row row1"><a href="https://thediplomat.com/2017/10/north-korea-has-tested-a-new-solid-fuel-missile-engine/" class="postPrevLinkWrapper intref"><div class="row_content"><div class="postPrevImage"><img width="120" height="85" src="/wp-content/uploads/2017/10/thediplomat-image-120x85.jpg" alt="North Korea Has Tested a New Solid-Fuel Missile Engine"></div><div class="postPrevSubtitle">October 25, 2017</div><div class="postPrevTitle">North Korea Has Tested a New Solid-Fuel Missile Engine</div><div class="postPrevTeaser prose">North Korean scientists tested a new solid fuel engine on October 2017. What system is it destined for?</div><div class="postPrevLink">Read Story</div></div></a></div><div class="row row2"><a href="https://thediplomat.com/2017/10/how-north-korea-will-try-to-undermine-the-winter-olympics-in-south-korea/" class="postPrevLinkWrapper intref"><div class="row_content"><div class="postPrevImage"><img width="120" height="85" src="/wp-content/uploads/2017/10/thediplomat-1200px-pkm_357_at_the_war_memorial_of_korea_23_march_2011-120x85.jpg" alt="How North Korea Will Try to Undermine the Winter Olympics in South Korea"></div><div class="postPrevSubtitle">October 20, 2017</div><div class="postPrevTitle">How North Korea Will Try to Undermine the Winter Olympics in South Korea</div><div class="postPrevTeaser prose">Precedent suggests North Korea will up its provocations ahead of the 2018 Olympic Games.</div><div class="postPrevLink">Read Story</div></div></a></div><div class="row row3"><a href="https://thediplomat.com/2017/10/of-ospreys-and-stallions-us-military-aircraft-accidents-and-japanese-domestic-politics/" class="postPrevLinkWrapper intref"><div class="row_content"><div class="postPrevImage"><img width="120" height="85" src="/wp-content/uploads/2016/06/thediplomat_2016-06-17_15-41-09-120x85.jpg" alt="Of Ospreys and Stallions: US Military Aircraft Accidents and Japanese Domestic Politics"></div><div class="postPrevSubtitle">October 20, 2017</div><div class="postPrevTitle">Of Ospreys and Stallions: US Military Aircraft Accidents and Japanese Domestic Politics</div><div class="postPrevTeaser prose">Despite a strong alliance, Japan's stern response to U.S. military accidents is predictable.</div><div class="postPrevLink">Read Story</div></div></a></div></div></div></div>	
+	<!-- AD : Medium Rectangle -->
+	<div id='div-gpt-ad-1343666802946-2' class='block blockAd'>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1343666802946-2'); });
+		</script>
+	</div>
+	
+	<div class="block block13 cached"><div class="td_label"><a href="/category/interviews/" class="dipl_labelTitle">Interview</a></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2017/10/interview-tigran-sargsyan-on-the-eurasian-economic-union/"><div class="postPrevImage"><img width="290" height="170" src="/wp-content/uploads/2017/10/thediplomat-photo-1-3-290x170.jpg" alt="Interview: Tigran Sargsyan on the Eurasian Economic Union"></div><div class="postPrevTxt"><div class="postPrevSubtitle">October 18, 2017</div><div class="postPrevTitle">Interview: Tigran Sargsyan on the Eurasian Economic Union</div><div class="postPrevTeaser prose">The chairman of the EEU's Eurasian Economic Commission talks about the trade bloc's past, present, and future.</div><div class="postPrevLink">Read Interview</div></div></a><div class="postPrevList"></div><div class="postPrevMore"><a href="/category/interviews/" class="intref">More Interviews</a></div></div></div>	
+</div><!-- #secondary -->
+	</div><!-- #area_content -->
+</div><!-- .viewport -->
+
+<div id="area_footer">
+	<div class="viewport">
+	<div class="footer_main">
+	<ul class="regions"><li><strong>Regions</strong></li><li><a href="https://thediplomat.com/regions/central-asia">Central Asia</a></li><li><a href="https://thediplomat.com/regions/east-asia">East Asia</a></li><li><a href="https://thediplomat.com/regions/oceania-region">Oceania</a></li><li><a href="https://thediplomat.com/regions/south-asia">South Asia</a></li><li><a href="https://thediplomat.com/regions/southeast-asia">Southeast Asia</a></li></ul><ul class="topics"><li><strong>Topics</strong></li><li><a href="https://thediplomat.com/category/blogs">Blogs</a></li><li><a href="https://thediplomat.com/topics/diplomacy">Diplomacy</a></li><li><a href="https://thediplomat.com/topics/economy">Economy</a></li><li><a href="https://thediplomat.com/topics/environment">Environment</a></li><li><a href="https://thediplomat.com/category/features">Features</a></li><li><a href="https://thediplomat.com/category/interviews">Interviews</a></li><li><a href="https://thediplomat.com/category/magazine">Magazine</a></li><li><a href="https://thediplomat.com/category/photo-essays">Photo Essays</a></li><li><a href="https://thediplomat.com/category/podcasts">Podcasts</a></li><li><a href="https://thediplomat.com/topics/politics">Politics</a></li><li><a href="https://thediplomat.com/topics/security">Security</a></li><li><a href="https://thediplomat.com/topics/society">Society</a></li><li><a href="https://thediplomat.com/category/the-diplomats-quiz">The Diplomat's Quiz</a></li><li><a href="https://thediplomat.com/category/videos">Videos</a></li></ul><ul class="blogs"><li><strong>Blogs</strong></li><li><a href="https://thediplomat.com/category/china-power">China Power</a></li><li><a href="https://thediplomat.com/category/flashpoints">Flashpoints</a></li><li><a href="https://thediplomat.com/category/asia-defense">Asia Defense</a></li><li><a href="https://thediplomat.com/category/asean-beat">ASEAN Beat</a></li><li><a href="https://thediplomat.com/category/the-pulse">The Pulse</a></li><li><a href="https://thediplomat.com/category/the-koreas">The Koreas</a></li><li><a href="https://thediplomat.com/category/tokyo-report">Tokyo Report</a></li><li><a href="https://thediplomat.com/category/the-debate">The Debate</a></li><li><a href="https://thediplomat.com/category/crossroads-asia">Crossroads Asia</a></li><li><a href="https://thediplomat.com/category/trans-pacific-view">Trans-Pacific View</a></li><li><a href="https://thediplomat.com/category/pacific-money">Pacific Money</a></li><li><a href="https://thediplomat.com/category/asia-life">Asia Life</a></li><li><a href="https://thediplomat.com/category/oceania">Oceania</a></li></ul><ul class="archive"><li><strong>Archives</strong></li><li><a href="https://thediplomat.com/category/sport-culture">Sport &amp; Culture</a></li><li><a href="https://thediplomat.com/category/indian-decade">Indian Decade</a></li><li><a href="https://thediplomat.com/category/a-new-japan">A New Japan</a></li><li><a href="https://thediplomat.com/category/new-leaders-forum">New Leaders Forum</a></li><li><a href="https://thediplomat.com/category/new-emissary">New Emissary</a></li><li><a href="https://thediplomat.com/category/tokyo-notes">Tokyo Notes</a></li><li><a href="https://thediplomat.com/category/apac-insider">APAC Insider</a></li><li><a href="https://thediplomat.com/category/asia-scope">Asia Scope</a></li><li><a href="https://thediplomat.com/category/whats-next-china">China, What's Next?</a></li><li><a href="https://thediplomat.com/category/james-holmes">James Holmes</a></li><li><a href="https://thediplomat.com/category/tech-biz">Tech Biz</a></li><li><a href="https://thediplomat.com/category/zachary-keck">Zachary Keck</a></li></ul><ul class="about"><li><strong>The Diplomat</strong></li><li><a href="https://thediplomat.com/the-diplomat/">About Us</a></li><li><a href="https://thediplomat.com/partners/">Partners</a></li><li><a href="https://thediplomat.com/about-us/advertise/">Advertise</a></li><li><a href="https://thediplomat.com/syndication/">Syndication</a></li><li><a href="https://thediplomat.com/privacy-policy/">Privacy Policy</a></li><li><a href="https://thediplomat.com/contact-us/">Contact Us</a></li></ul>	 
+	 
+		<div class="footer_label">
+			<div class="copyright">&copy; 2017 The Diplomat. All Rights Reserved. </div>
+		</div><!-- .footer_label -->
+		
+		<img height="1" width="1" style="border-style:none;" alt="The Diplomat" src="https://thediplomat.com/dipl_counter.php?p=117569&t=1509127428"/>
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-JTDKC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-JTDKC');</script>
+<!-- End Google Tag Manager —>
+
+<!-- Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config={};
+_sf_async_config.uid = 4272;
+_sf_async_config.domain = "thediplomat.com";
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+		</div><!-- .footer_main -->
+	</div><!-- #area_footer .viewport -->
+</div><!-- #area_footer -->
+
+</div><!-- #page-content -->
+
+
+<!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'https://thediplomat.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+                    soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"https:\/\/thediplomat.com\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thediplomat.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js,wp-content/plugins/mailchimp/js/scrollTo.js,wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js,wp-content/plugins/mailchimp/js/mailchimp.js,wp-content/plugins/contact-form-7/includes/js/scripts.js,wp-content/themes/the_diplomat_v2/js/print.js,wp-content/themes/the_diplomat_v2/js/sharrre.js,wp-content/themes/the_diplomat_v2/js/sharrre_impl_20170419.js,wp-content/themes/the_diplomat_v2/js/postImage.js,wp-content/themes/the_diplomat_v2/js/featgal.js,wp-includes/js/wp-embed.min.js&#038;ver=2017-05-11'></script>
+
+<!-- Mobile Menu -->
+<script>
+
+    $(document).ready(function(){
+        $(".footer_main").clone().addClass('slideout-menu').prependTo("body").prepend($(".siteSearchWrapper").clone());
+    });
+
+    $(function() {
+        $('#mobile-header-menu').click(function() {
+            // Calling a function in case you want to expand upon this.
+            toggleNav();
+        });
+    });
+
+    function toggleNav() {
+        if ($('#page-content').hasClass('open')) {
+            // Do things on Nav Close
+            $('#page-content').removeClass('open');
+            $('body').removeClass('lock-scroll');
+            $('#page-content').removeClass('fix');
+            $('#mobile-header-menu').removeClass('active');
+            $('.slideout-menu').removeClass('touch-scroll');
+        } else {
+            // Do things on Nav Open
+            $('#page-content').addClass('open');
+            $('body').addClass('lock-scroll');
+            $('#page-content').addClass('fix');
+            $('#mobile-header-menu').addClass('active');
+            $('.slideout-menu').addClass('touch-scroll');
+        }
+    }
+
+</script>
+<!-- End: Mobile Menu -->
+
+</body>
+</html>

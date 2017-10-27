@@ -1,0 +1,571 @@
+<!doctype html>
+<html amp>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<link
+		rel="shortcut icon"
+		href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/favicon.ico">
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Xi Jinping Has Quietly Chosen His Own Successor" />
+<meta property="og:url" content="http://foreignpolicy.com/2017/10/20/xi-jinping-has-quietly-chosen-his-own-successor/" />
+<meta property="og:description" content="Meet Chen Miner, the man who has been getting groomed to run China — without anyone in the West seeming to notice." />
+<meta property="article:published_time" content="2017-10-20T17:34:23+00:00" />
+<meta property="article:modified_time" content="2017-10-20T21:09:39+00:00" />
+<meta property="og:site_name" content="Foreign Policy" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:text:title" content="Xi Jinping Has Quietly Chosen His Own Successor" />
+<meta name="twitter:card" content="summary" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+	<title>Xi Jinping Has Quietly Chosen His Own Successor &#8211; Foreign Policy</title>
+		<link rel="canonical" href="http://foreignpolicy.com/2017/10/20/xi-jinping-has-quietly-chosen-his-own-successor/" />
+			<script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async></script>
+		<script src="https://cdn.ampproject.org/v0.js" async></script>
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic">
+		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+		<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","mainEntityOfPage":"http:\/\/foreignpolicy.com\/2017\/10\/20\/xi-jinping-has-quietly-chosen-his-own-successor\/","publisher":{"@type":"Organization","name":"Foreign Policy","logo":{"@type":"ImageObject","height":60,"url":"https:\/\/foreignpolicymag.files.wordpress.com\/2016\/04\/logo.png","width":74}},"headline":"Xi Jinping Has Quietly Chosen His Own Successor","datePublished":"2017-10-20T13:34:23+00:00","dateModified":"2017-10-20T17:09:39+00:00","author":[{"@type":"Person","name":"Andrei Lungu"}],"image":{"@type":"ImageObject","url":"https:\/\/foreignpolicymag.files.wordpress.com\/2017\/10\/gettyimages-863015688.jpg","width":1024,"height":683}}</script>
+	
+	<style amp-custom>
+	/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 600px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 1.5em;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( http://s2.wp.com/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+	        @font-face {
+            font-family: 'Solido';
+            font-style: normal;
+            font-weight: 400;
+            src: url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-medium-webfont.eot?") format("eot"),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-medium-webfont.woff") format("woff"),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-medium-webfont.ttf") format("truetype");
+        }
+        @font-face {
+            font-family: 'Solido Medium Italic';
+            font-style: italic;
+            font-weight: 500;
+            src: url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-mediumitalic-webfont.eot") format( "eot" ),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-mediumitalic-webfont.svg") format( "svg" ),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-mediumitalic-webfont.ttf") format( "ttf" ),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-mediumitalic-webfont.woff") format( "woff" );
+        }
+        @font-face {
+            font-family: 'Solido';
+            font-style: normal;
+            font-weight: 800;
+            src: url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-extrabold-webfont.eot?") format("eot"),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-extrabold-webfont.woff") format("woff"),
+                 url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/solido-extrabold-webfont.ttf") format("truetype");
+        }
+        @font-face {
+            font-family: 'Tiempos';
+            font-style: normal;
+            font-weight: 400;
+            src: url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/TiemposTextWeb-Regular.woff") format("woff");
+        }
+        @font-face {
+            font-family: 'Tiempos';
+            font-style: normal;
+            font-weight: 600;
+            src: url("https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/fonts/TiemposHeadWeb-Semibold.woff") format("woff");
+        }
+        body {
+            color: #000;
+            font-family: Tiempos, Georgia, serif;
+        }
+        a, a:visited {
+            color: #ED3725;
+        }
+        nav.amp-wp-title-bar {
+            background: #ED3725;
+        }
+        nav.amp-wp-title-bar div {
+            line-height: 20px;
+            padding-top: 8px;
+        }
+        .amp-wp-content {
+            color: #000;
+        }
+        .amp-wp-title {
+            color: #1a1718;
+        }
+        .amp-wp-meta, .amp-wp-meta a {
+            color: #262526;
+            font-family: Solido, Arial, sans-serif;
+            font-size: 16px;
+        }
+        ul.amp-wp-meta li.amp-wp-byline {
+            display: block;
+            margin-top: 10px;
+            max-width: none;
+        }
+        ul.amp-wp-meta li.amp-wp-byline:before {
+            display: none;
+        }
+        li.amp-wp-byline .amp-wp-author {
+            display: block;
+        }
+        .fp-amp-wp-ad {
+            margin: 0 auto;
+            max-width: 600px;
+            padding: 16px;
+            text-align: center;
+        }
+        amp-ad,
+        .amp-wp-content amp-img {
+            background: #f8f8f8;
+        }
+        .image-credit {
+            font-family: Solido, Arial, sans-serif;
+            font-size: 0.9em;
+        }
+        .amp-wp-posted-on,
+        .amp-wp-tax-category,
+        .amp-wp-tax-category a {
+            color: #ED3725;
+            font-size: 13px;
+            text-transform: uppercase;
+        }
+        .amp-FP-dek {
+            font-family: Solido, Arial, sans-serif;
+            font-size: 20px;
+            line-height: 1.5;
+            margin-bottom: 0;
+        }
+        .amp-FP-dek + ul.amp-wp-meta {
+            padding-top: 14px;
+        }
+        /* Inline styles */
+.amp-wp-inline-e5848613722c2a6bc468dbded91fdff3{color:#eb1414;}	</style>
+</head>
+<body>
+<nav class="amp-wp-title-bar">
+    <div>
+        <a href="http://foreignpolicy.com">
+                        <amp-img
+                width="59"
+                height="50"
+                srcset="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/logo_header__amp.png 1x, https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/logo_header__amp2x.png 2x"
+                src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/logo_header__amp.png"
+                alt="Foreign Policy logo" />
+        </a>
+    </div>
+</nav>
+<div class="amp-wp-content">
+	<h1 class="amp-wp-title">Xi Jinping Has Quietly Chosen His Own Successor</h1>
+	<h2 class="amp-FP-dek">
+Meet Chen Miner, the man who has been getting groomed to run China — without anyone in the West seeming to notice.</h2>
+	<ul class="amp-wp-meta">
+		<div class="amp-wp-meta amp-wp-posted-on">
+	<time datetime="2017-10-20T13:34:23+00:00">
+		7 days ago	</time>
+</div>
+    <li class="amp-wp-tax-category">
+        <span class="screen-reader-text">Categories:</span>
+        <a href="http://foreignpolicy.com/category/argument/" rel="category tag">Argument</a>    </li>
+<li class="amp-wp-byline">
+	Andrei Lungu</li>
+	</ul>
+	    <p class="fp-amp-wp-featured-image">
+        <a href="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-863015688.jpg" target="_blank">
+            <amp-img
+                src="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-863015688.jpg"
+                width="1024"
+                height="683"
+                alt="Featured image"
+                layout="responsive" />
+        </a>
+    </p>
+	<p>Until recently, Sun Zhengcai, the party secretary of the metropolis of Chongqing, “<a href="http://foreignpolicy.com/2010/08/06/chicago-on-the-yangtze/">the Chicago on the Yangtze</a>,” was seen as a possible successor to Xi Jinping. Then, in July, the Communist Party of China launched an investigation against him for corruption, leading to Sun’s dismissal from office and the precipitous end to his political career.</p>
+<p>Throughout the Western press, the removal of Sun Zhengcai was treated as conclusive proof that <a href="https://www.bloomberg.com/news/articles/2017-07-16/downfall-of-chinese-city-party-chief-points-to-xi-power-play">Xi plans</a> to <a href="http://country.eiu.com/article.aspx?articleid=1685834552&amp;Country=China&amp;topic=Politics">remain in charge after 2022</a>, when term limits and political tradition will require him to give up power. This has been a common trope in the hazy world of Chinese political analysis since at least 2015, when <span class="fp-red amp-wp-inline-e5848613722c2a6bc468dbded91fdff3">Foreign Policy </span>published “<a href="https://foreignpolicy.com/2015/04/01/xi-jinping-forever-china-president-term-limits/">Xi Jinping Forever</a>,” arguing that the Chinese leader would try to extend his rule beyond two terms. A constant stream of <a href="https://www.wsj.com/articles/xis-power-play-foreshadows-radical-transformation-of-how-china-is-ruled-1482778917">articles</a>, especially in the run-up to this week’s 19th National Congress of the Communist Party, has reinforced the consensus that Xi Jinping isn’t going anywhere anytime soon.</p>
+<p>But Xi’s ambitions have been vastly misunderstood, and Sun’s dismissal is a critical case in point. Xi used Sun’s removal not to aggrandize himself, but rather to quietly designate, in violation of recent tradition, his own desired successor for 2022 — someone whom, for at least the past five years, Xi has managed to groom to carry forward his legacy without attracting too much attention.</p>
+<p>Xi has more than half a dozen allies in positions of power throughout China’s provinces — like Li Qiang, the Mongolian Bayanqolu, or Li Xi — any one of whom could have been named as Sun’s successor in Chongqing. But Xi’s choice was striking: He promoted his ally Chen Miner, who was born in 1960. Why is his year of birth so important? Because, based on the traditional retirement age of 68, Chen Miner — unlike Xi’s other prominent allies, who are older — will be able to serve out a double term from 2022, when he will be 62. Were he born even just a year earlier, in 1959, this would have been impossible, as he would have been forced to retire in 2027.</p>
+<p><span class="pull-quote">In choosing Chen Miner as the new leader of the metropolis of Chongqing, Xi has sent a broad hint to both the party and the outside world.</span> The Communist Party doesn’t hold press conferences to announce successors; it uses signals like this — even if few in the West seem to be able to understand them.</p>
+<p>Xi’s privileged treatment of Chen is consistent with their relationship since the early 2000s, when they met in the province of Zhejiang, where Xi was serving as provincial party chief. Chen was the head of the provincial propaganda department, in charge of spreading Xi’s message throughout Zhejiang. In this position, he <a href="https://www.brookings.edu/wp-content/uploads/2017/10/china_20171013_19thpartycongress_chen_miner.pdf">helped write</a> Xi’s weekly column in the provincial party newspaper for almost four years.</p>
+<p>Xi left Zhejiang in March 2007, when he was moved to Shanghai, only seven months before the 17th Party Congress. Shanghai needed a new party chief, because the old one was removed after being investigated for corruption. In promoting Xi to Shanghai, one of China’s largest cities, the party leadership indicated that he was destined for higher office. Indeed, at the 17th Party Congress in October, Xi entered the Politburo Standing Committee, the party’s apex of power, and in March 2008 he was named vice president of China — the definitive sign that he was being groomed to take over in 2012.</p>
+<p>Meanwhile, Chen Miner remained behind in Zhejiang, <a href="http://www.chinavitae.com/biography/Chen_Miner%7C4309">being named</a> vice governor and then becoming an alternate member of the party’s Central Committee at the 2007 Party Congress. He remained vice governor until 2012, the year when Xi was going to become the party’s leader. In January 2012, Chen was promoted to the position of deputy party chief of the province of Guizhou. At the 2012 Party Congress, where Xi was named general secretary of the party, Chen was promoted as one of the 205 full members of the Central Committee and later appointed governor of Guizhou.</p>
+<p>Now in charge of the party, Xi <a href="http://risap.ro/en/interpreting-the-partys-anti-corruption-campaign/">announced</a> the start of an anti-corruption campaign whose intensity surprised every observer. In 2015, the anti-corruption campaign targeted a sitting provincial party chief for the first time: Zhou Benshun, the top official in Hebei. Out of more than two dozen provincial party secretaries, Zhou’s replacement was the party secretary of Guizhou, who left his seat to head to Hebei. Thus Chen was promoted from governor to party secretary — a higher-ranking position — in Guizhou, where he would remain in charge for two more years. This was the first, but not the last time Chen would benefit from the anti-corruption campaign.</p>
+<p>Chen’s five-year stint in Guizhou coincided with an acceleration of China’s fight against extreme poverty. Guizhou is one of China’s poorest provinces but has a good <a href="http://thediplomat.com/2017/07/how-chinas-poorest-province-became-a-political-kingmaker/">track record</a> of producing leaders. Hu Jintao, Xi’s predecessor, was Guizhou’s party chief in the 1980s. There, Chen was tasked with tackling one of Xi Jinping’s most important objectives: the eradication of extreme poverty by 2020. In the process, he made some resounding moves, like <a href="https://www.reuters.com/article/us-china-apple/apple-sets-up-china-data-center-to-meet-new-cyber-security-rules-idUSKBN19X0D6">convincing Apple</a> to build a data center in Guizhou. Under Chen’s leadership in 2016, Guizhou reported the third-fastest growth among Chinese provinces, with a <a href="http://www.chinadaily.com.cn/business/2017-02/21/content_28285844.htm">claimed</a> GDP growth rate of 10.5 percent.</p>
+<p>In return, Xi has repeatedly signaled his trust in Chen. This year, every province has chosen its delegates to the 19th Party Congress. Chinese leaders are themselves delegates at the Party Congress. Xi Jinping, for example, was a delegate from Shanghai in both <a href="http://www.gov.cn/ztzl/17ddbxj/content_686247.htm">2007</a> and <a href="http://news.ifeng.com/mainland/special/dangweihuanjie/content-3/detail_2012_05/22/14720984_0.shtml">2012</a>. For 10 years he has been living in Beijing, where he was also born. Through his career, he also served in Hebei, Fujian, and Zhejiang. Yet, in April 2017, it was announced with great fanfare in the <a href="http://news.xinhuanet.com/english/2017-04/20/c_136223860.htm">Chinese press</a> that Xi Jinping would be a delegate from Guizhou. Xi’s only link to this province is, of course, Chen Miner. His election <a href="https://blogs.wsj.com/chinarealtime/2017/04/21/in-poor-province-an-election-rich-with-meaning-delegate-xi-jinping/">was a clear message</a> to party members and the party leadership that Xi trusts Chen.</p>
+<p>This trust was reinforced only three months later, in July, when Sun Zhengcai was removed from his post in Chongqing, being put under investigation for corruption. It was an earth-shattering event, as Sun was one of two possible successors for Xi. Sun was also the first sitting Politburo member put under investigation during Xi’s term.</p>
+<p>Until this moment, the <a href="http://risap.ro/en/interpreting-the-partys-anti-corruption-campaign/">anti-corruption campaign</a> had only hunted wounded or retired top officials, instead of the real political heavyweights of the Politburo or the Politburo Standing Committee. (Bo Xilai, the most significant potential rival of Xi’s, fell before the campaign began, thanks to the strange events in the ever-significant town of Chongqing.) Who benefited from Sun’s investigation? Chen Miner, who was promoted to party chief of Chongqing three months before the 19th Congress, just as Xi was promoted to party chief of Shanghai seven months ahead of the 17th Congress. We could call this the <a href="https://thediplomat.com/2017/09/chinas-next-president-reading-the-tea-leaves-of-chinese-politics/">2007 Shanghai playbook</a>, and it was put into action again.</p>
+<p>There is now a lot of discussion in the West about the Party Congress: Will Wang Qishan <a href="https://www.ft.com/content/d82964ba-6d42-11e7-bfeb-33fe0c5b7eaa">remain</a> on the Politburo Standing Committee, despite the fact that he is supposed to retire, being above the 68-year age limit? Will Xi <a href="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Xi-set-to-restore-Mao-era-CPC-chairman-post">revive</a> the post of party chairman? Will he have his <a href="http://www.scmp.com/news/china/policies-politics/article/2082415/it-xis-turn-be-written-chinas-communist-party">name enshrined</a> in the party’s constitution, like Mao Zedong and Deng Xiaoping? Will Xi <a href="http://www.scmp.com/news/china/policies-politics/article/2111123/does-chinese-leader-xi-jinping-plan-hang-power-more-10">avoid naming a successor</a>? But very few observers are talking about Chen and his bright prospects. The <a href="http://risap.ro/en/how-powerful-is-xi-jinping/">exaggerations</a> about Xi’s power have obscured the most important question we should be asking: Will Xi manage to install Chen as his successor?</p>
+<p>Over the past three decades since Deng Xiaoping retired, Chinese leaders haven’t been able to name their own successor. Jiang Zemin had to accept Hu Jintao and fought to keep his own influence alive in the 2000s as a result. Hu Jintao couldn’t install Li Keqiang as his successor and had to accept Xi Jinping. Now, in a sign of his own strength compared to his predecessors, Xi has purged one heir apparent, replacing him with his chosen ally. Only two possible successors remain: Chen Miner or Hu Chunhua, Hu Jintao’s ally. In normal circumstances, Xi would have been forced to accept Hu Chunhua, who is the provincial party chief of Guangdong. But his plan seems to be to install Chen as China’s next president — in a way that makes it clear he’s beholden to Xi, and which allows Xi to maintain his influence.</p>
+<p>Over the past three years, instead of analyzing Chen’s ascent and his prospects, all the attention has been focused on the idea that Xi aims to remain in power after 2022, based on anonymous sources. There are two explanations for these rumors: either it is just <a href="https://thediplomat.com/2017/10/chinas-next-president-reading-the-tea-leaves-of-chinese-politics-part-2/">speculation</a> and worry on the part of party members who later talked to Western journalists, or the rumors were deliberately planted. If so, they could have been planted by Xi’s enemies, as a smear campaign to accuse him of wanting to become a dictator. Or the rumors could have been started by his allies, to strengthen Xi’s hand in internal party negotiations.</p>
+<p>If it were the second explanation, the campaign has failed, as Xi will probably get his way. But if starting the rumors was Xi’s strategy all along, it was a brilliant plan: Everybody worried that Xi might rule beyond 2022, while he carefully groomed Chen Miner. Unlike Hu Chunhua or Sun Zhengcai, Chen hasn’t been a member of the 25-person Politburo, so his chances to become China’s next leader were slimmer. But now, when Xi negotiates with party leaders and proposes Chen as his successor, they may be inclined to say yes, keen to avoid Xi’s hypothetical third term. And so, Xi might do something no Chinese leader since Deng has achieved: designate his own successor and maintain his own influence from behind the scene once he retires.</p>
+<p>When the members of the next Politburo Standing Committee step on stage next week, the real question is who will <a href="https://thediplomat.com/2017/10/chinas-19th-party-congress-projecting-the-next-politburo-standing-committee/">appear first</a>: Chen Miner or Hu Chunhua. If it is Hu, then it is the clearest sign that Xi’s power has been exaggerated. But, if it is Chen, as all the signs indicate, then Xi’s plan over the past five years has indeed worked. And nobody should be surprised when Chen Miner emerges as Xi’s successor — even if he ends up continuing Xi’s agenda and shielding his legacy.</p>
+<div data-fp-lazy-load-image=""></div>	<p>Like this article? Read an unlimited number of articles, plus access to our entire 47-year printed archive, the FP App, and the FP Insights Tool when you <strong>subscribe to FP Premium </strong>for 20% off!</p></div>
+<div class="fp-amp-wp-ad">
+    <amp-ad
+        width=300
+        height=250
+        type="doubleclick"
+        data-slot="/7971222/amp_300x250">
+    </amp-ad>
+</div>
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;host=foreignpolicy.com&#038;ref=DOCUMENT_REFERRER&#038;amp=1&#038;blog=71129472&#038;v=wpcom&#038;tz=-4&#038;user_id=0&#038;post=928175&#038;subd=foreignpolicymag"></amp-pixel>
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;v=wpcom-no-pv&#038;crypt=UE5tW3cvZGRlby1IQz1KU25CUU90fDJnTXl0ZC58TGsublNtWkhSRV9CLjRqUWJFajViaWpkST13L2ZfNzBlS0VuM2tISUtTRXBhMmRTaHBhZXZiazRmYltwYyZ6cENQP3BdW09LcllHa3dhbjQsWHV1a29YajZqblJrX2FkZ0xxTTJCSGhfPWFHa3o5aWJra0JoWy92X1grQTlLN2FjLkdFejhLcFZPUzlqbl8ueTNXeTAlLCZUUjBxaSVVbQ%3D%3D"></amp-pixel>
+	<amp-analytics id="FP-googleanalytics" type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-6874192-41"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><amp-analytics id="FP-comscore" type="comscore"><script type="application/json">{"vars":{"c2":"18406752"}}</script></amp-analytics><amp-analytics id="FP-omniture" type><script type="application/json">{"transport":{"xhrpost":false,"beacon":true},"requests":{"base":"\/\/${trackingServer}\/b\/ss\/${accounts}\/1\/H.23.4\/s${random}","pageView":"${base}?AQB=1&j=1.6&ndh=1&vmt=4EFF685A&vmf=metrics.washingtonpost.com&ce=UTF-8&ns=wpni&cc=USD&events=event1&pageName=${pageName}&g=${g}&c2=${c2}&c3=${c3}&c6=${c6}&c12=${c12}&c13=${c13}&c14=${c14}&c15=${c15}&c23=${c23}&c25=${c25}&c32=${c32}&c34=${c34}&c35=${c35}&v1=${v1}&AQE=1"},"vars":{"trackingServer":"metrics.foreignpolicy.com","accounts":"wpniforeignpolicyprod","channel":"5 Things You Didn't Know About...","hier1":"","pageName":"fp - xi_jinping_has_quietly_chosen_his_own_successor","g":"http:\/\/foreignpolicy.com\/2017\/10\/20\/xi-jinping-has-quietly-chosen-his-own-successor\/","c2":"5 Things You Didn't Know About...","c3":"post","c6":"","c12":"928175","c13":"Xi Jinping Has Quietly Chosen His Own Successor","c14":"","c15":"","c23":"","c25":"","c32":"google-amp","c34":"Web","c35":"Argument | China | communism | Corruption | power | Xi Jinping | 5 Things You Didn't Know About...","v1":"fp - xi_jinping_has_quietly_chosen_his_own_successor"},"triggers":{"pageLoad":{"on":"visible","request":"pageView"}}}</script></amp-analytics></body>
+</html>

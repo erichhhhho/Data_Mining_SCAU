@@ -1,0 +1,3892 @@
+<!-- html-header type=current begin -->
+	
+	<!DOCTYPE html>
+	
+	<html lang="en">
+	<head>
+	<!-- Render IE9 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	
+
+<script>
+(function (s,o,n,a,r,i,z,e) {s['StackSonarObject']=r;s[r]=s[r]||function(){
+ (s[r].q=s[r].q||[]).push(arguments)},s[r].l=1*new Date();i=o.createElement(n),
+ z=o.getElementsByTagName(n)[0];i.async=1;i.src=a;z.parentNode.insertBefore(i,z)
+ })(window,document,'script','https://www.stack-sonar.com/ping.js','stackSonar');
+ stackSonar('stack-connect', '66');
+</script>
+
+	<script id="before-content" type="text/javascript">
+(function () {
+    if (typeof window.sdmedia !== 'object') {
+         window.sdmedia = {};
+    }
+    if (typeof window.sdmedia.site !== 'object') {
+        window.sdmedia.site = {};
+    }
+
+    var site = window.sdmedia.site;
+    site.rootdir = "//slashdot.org";
+}());
+
+var pageload = {
+	pagemark: '254062040424251853',
+	before_content: (new Date).getTime()
+};
+function pageload_done( $, console, maybe ){
+	pageload.after_readycode	= (new Date).getTime();
+	pageload.content_ready_time	= pageload.content_ready - pageload.before_content;
+	pageload.script_ready_time	= pageload.after_readycode - pageload.content_ready;
+	pageload.ready_time		= pageload.after_readycode - pageload.before_content;
+	// Only report 1% of cases.
+	maybe || (Math.random()>0.01) || $.ajax({ data: {
+		op: 'page_profile',
+		pagemark: pageload.pagemark,
+		dom: pageload.content_ready_time,
+		js: pageload.script_ready_time
+	} });
+}
+</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	
+		<title>China's Scientists Set New International Record -- For Faked Peer Reviews - Slashdot</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	  
+		<meta name="description" content="China  now has more laboratory scientists than any other country in the world, reports Amy Qin in the New York Times, and spends more on research than the entire European Union.
+But in its rush to dominance, China has stood out in another, less boastful way. Since 2012, the country has retracted mor...">
+	    
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@slashdot">
+		<meta name="twitter:domain" content="science.slashdot.org">
+		<meta property="og:url" content="https://science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews">
+	    
+		<meta property="og:title" content="China's Scientists Set New International Record -- For Faked Peer Reviews - Slashdot">
+		<meta property="og:description" content="China  now has more laboratory scientists than any other country in the world, reports Amy Qin in the New York Times, and spends more on research than the entire European Union.
+But in its rush to dominance, China has stood out in another, less boastful way. Since 2012, the country has retracted mor...">
+	  
+	
+	
+		<meta property="og:image" content="https://a.fsdn.com/sd/topics/china_64.png">
+	
+		<meta property="fb:admins" content="100000696822412">
+		<meta property="fb:page_id" content="267995220856">
+	
+		<meta name="viewport" content="width=1000, user-scalable=yes, minimum-scale=0, maximum-scale=10.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	
+		<link rel="canonical" href="https://science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews">
+		
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.slashdot.org/story/332421" >
+	
+
+		<link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/classic.ssl.css?f5a4d237842139e5" >
+		<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie8-classic.ssl.css?f5a4d237842139e5" ><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie7-classic.ssl.css?f5a4d237842139e5" ><![endif]-->
+	
+	
+	
+
+
+
+	
+	<!--  -->
+
+	
+	
+
+	
+	<!-- SMACKS: NEW CSS -->
+	<link rel="stylesheet" href="//a.fsdn.com/sd/css/app.css?f5a4d237842139e5">
+
+	<script type='text/javascript'>
+var _gaq = _gaq || [];
+</script>
+
+
+
+
+
+         
+   
+   
+
+<script type="text/javascript" id="pbjs_script" data-dom="https://d3tglifpd8whs6.cloudfront.net"  src="https://d3tglifpd8whs6.cloudfront.net/js/prebid/slash-story/slash-story.min.js"></script>
+<script type='text/javascript'>
+    /*global performance */
+    var googletag = window.googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<!-- prep GPT ads -->
+<script type='text/javascript'>
+(function() {
+	function page_type (loc) {
+		/*
+		only four page types:
+		- Story
+		- Poll
+		- Homepage (/ only)
+		- Other (but AdOps wants 'Homepage' again)
+		*/
+		var path = loc.pathname;
+		var just_the_root = /^\/?$/.test(path);
+		var story_or_poll = /^\/(story|submission|poll)\//i.exec(path);
+
+		var page_type = just_the_root ? 'homepage'
+		              : story_or_poll ? story_or_poll[1]
+		              :                 'other'
+
+		// exceptions
+		page_type = page_type.toLowerCase() === 'submission'
+		          ? 'story'  // submissions are like stories, right?
+		          : page_type
+		page_type = page_type.toLowerCase() === 'other'
+		          ? 'homepage'  // this one might move out of here
+		          : page_type;
+
+		return page_type;
+	}
+	function page_section (loc) {
+		var greek = ['alpha', 'beta', 'gamma', 'delta'].join('|');
+		var hostwise = '^([a-z]+)(?:-(?:'+greek+'))?\\.(?:slashdot\\.org|[a-z]+-[0-9]+\\.sb\\.sf\\.net)$';
+		var pathwise = '^/(?:(recent|popular|blog)|stories/([^/]+))';
+		var rootwise = '^\/?$';
+
+		var hostwisely = new RegExp(hostwise,'i').exec(loc.hostname);
+		var pathwisely = new RegExp(pathwise,'i').exec(loc.pathname);
+		var rootwisely = new RegExp(rootwise,'i').exec(loc.pathname);
+
+		var section = (rootwisely && 'homepage')
+		           || (pathwisely && (pathwisely[1] || pathwisely[2]))
+		           || ''
+		            ;
+
+                section.replace(/[^_a-z]/ig, '');
+
+		return section;
+	}
+	function single_size (size) {
+		return '' + size[0] + 'x' + size[1];
+	}
+	function sz_sz (sz) {
+		var str = '';
+		var sizes = [];
+		if (sz[0] instanceof Array) {
+			for (size in sz) {
+				sizes.push(single_size(sz[size]));
+			}
+			return sizes.join(',');
+		} else {
+			return single_size(sz);
+		}
+	}
+
+	function merge_tpc_array_to_str(array1,array2) {
+		var tpc_final = array1.concat(array2);
+		var uniq = tpc_final.reduce(function(a,b){
+		if (a.indexOf(b) < 0 ) a.push(b);
+			return a;
+		},[]);
+
+		var tpc_str = uniq.join(',');
+		tpc_str = tpc_str.replace(/[^_a-z,]/ig, '');
+		tpc_str = tpc_str.replace(/^,/ig, '');
+		return tpc_str;
+	}
+
+	/* LEGEND:
+		- 'sz' = "size"
+		- 'npt' = "no page type" in ad unit name
+	*/
+	var tags = {
+        '728x90_A': { 'sz': [[728, 90], [970, 90], [970, 250], [980, 66]] },
+        '728x90_B': { 'sz': [728, 90] },
+        '728x90_C': { 'sz': [728, 90], 'skip': { 'homepage': 1 } },
+        'HubIcon_200x90_A': { 'sz': [[200, 90], [220, 90]]},
+        'PowerSwitch_980x66_A': { 'sz': [980, 66], 'skip': { 'homepage': 1 } },
+        'PollPeel': { 'sz': [200, 90], 'skip': { 'homepage': 1 } },
+        //'VideoWidget_300x250': { 'sz': [300, 250], 'npt': 1 },
+        '300x250_A': { 'sz': [[300, 250], [300, 600], [300, 1050]] },
+        '300x250_B': { 'sz': [[300, 250], [300, 600]] },
+        '300x250_C': { 'sz': [[300, 250], [300, 600]] },
+        '300x250_D': { 'sz': [[300, 250], [300, 600]] },
+        'Pulse_300x600_A': { 'sz': [300, 600] },
+        //'Polls_Detail_300x250_A': { 'sz': [[300, 250], [300, 600]], 'npt': 1 },
+        //'Poll_300x250_A': { 'sz': [[300, 250], [300, 600]], 'npt': 1 },
+        //'SD_Story_1x1': { 'sz': [1, 1] },
+        '1x1': { 'sz': [1, 1] }
+	};
+
+	//var network_path = '/41014381/Slashdot/';
+	var network_path = '/41014381/Slashdot/';
+	var tag_name_prefix = 'SD';
+	var tag_name_linkage = '_';
+	var tag_name_pagetype = page_type(location);
+	var tag_topic = page_section(location);
+    if(tag_name_pagetype == 'poll'){
+        tag_name_pagetype = 'Poll';
+    }
+	var before_tag_pagetyped    = network_path
+	                            + tag_name_prefix
+	                            + tag_name_linkage
+	                            + tag_name_pagetype
+	                            + tag_name_linkage
+	                            ;
+	var before_tag_pagetypeless = network_path
+	                            + tag_name_prefix
+	                            + tag_name_linkage
+	                         /* + tag_name_pagetype */
+	                         /* + tag_name_linkage */
+	                            ;
+
+
+	googletag.cmd.push(function() {
+
+	    function remove_sticky_top() {
+	        setTimeout(function(){
+	            $('#div-gpt-ad-728x90_a').parent('div').addClass('adwrap-viewed-banner');
+               $('#div-gpt-ad-728x90_a').addClass('viewableImpression');
+            }, 1000);
+
+	    }
+	    function remove_sticky_railad() {
+	        setTimeout(function(){
+                $('#slashboxes .adwrap-unviewed').addClass('adwrap-viewed-railad');
+                $('.railad').addClass('viewableImpression');
+            }, 1000);
+	    }
+		function viewable_imp (slot) {
+	        for(var i in slot) {
+	            if(typeof slot[i] !== 'string') continue;
+	            switch(slot[i]){
+                  case "/41014381/Slashdot/SD_homepage_728x90_A":
+                  case "/41014381/Slashdot/SD_story_728x90_A":
+                  case "/41014381/Slashdot/SD_Poll_728x90_A":
+                  case "/41014381/Slashdot/SD_homepage_728x90_Ref_A":
+                  case "/41014381/Slashdot/SD_story_728x90_Ref_A":
+                  case "/41014381/Slashdot/SD_Poll_728x90_Ref_A":
+	                    remove_sticky_top();
+	                    break;
+                  case "/41014381/Slashdot/SD_homepage_300x250_A":
+                  case "/41014381/Slashdot/SD_story_300x250_A":
+                  case "/41014381/Slashdot/SD_Poll_300x250_A":
+                  case "/41014381/Slashdot/SD_homepage_300x250_Ref_A":
+                  case "/41014381/Slashdot/SD_story_300x250_Ref_A":
+                  case "/41014381/Slashdot/SD_Poll_300x250_Ref_A":
+	                    remove_sticky_railad();
+	                    break;
+	            }
+	            //if(slot[i] === "/41014381/Slashdot/SD_homepage_728x90_A") remove_sticky_top();
+	            //if(slot[i] === "/41014381/Slashdot/SD_homepage_300x250_A") remove_sticky_railad();
+	        }
+		}
+		function define_me_a_slot (tag) {
+			if (tags[tag].skip && tags[tag].skip[tag_name_pagetype])
+				return;
+			var sandbox_regex = /[0-9]\.xb\.sf\.net$/i;
+			var full_name = tags[tag].npt  // "no page type"
+			              ? before_tag_pagetypeless + tag
+			              : before_tag_pagetyped    + tag
+			              ;
+			var div_id = 'div-gpt-ad-' + tag.toLowerCase();
+
+			var service;
+            // extend jQuery and get URL query params
+            jQuery.extend({
+              getQueryParameters : function(str) {
+            	  return (str || document.location.search).replace(/(^\?)/,'').split("&").map(function(n){
+                  return n = n.split("="),this[n[0]] = n[1],this
+                  }.bind({}))[0];
+              }
+            });
+
+            var queryParams = $.getQueryParameters();
+
+            if( queryParams.source === 'autorefresh' ) {
+                full_name = full_name.replace(/(\d+x\d+)/,'$1_Ref');
+                //console.log('TAG NAME: ', full_name);
+            }
+
+			service = googletag.defineSlot(
+				  full_name
+				, tags[tag].sz
+				, div_id
+			).addService(googletag.pubads());
+
+			service.setTargeting('sz', tags[tag].sz);
+
+			
+			var frontend_tpc = tag_topic.split(",");
+			var backend_tpc = [ "china", "education", "medicine", "science", "pervertedincentives" ];
+
+			var tpc_final = merge_tpc_array_to_str(frontend_tpc,backend_tpc);
+
+			service.setTargeting('tpc', tpc_final);
+			if (location.hostname.match(sandbox_regex)) {
+				service.setTargeting('test', 'adops');
+			}
+
+		}
+
+		for (tag in tags) {
+			define_me_a_slot(tag, false);
+		}
+		googletag.pubads().addEventListener('impressionViewable', function(event) {
+          viewable_imp(event.slot);
+        });
+
+                googletag.pubads().setTargeting('requestSource', 'GPT');
+		googletag.pubads().enableAsyncRendering();
+		
+
+		googletag.pubads().collapseEmptyDivs();
+        bizxPrebid.Ads.pushToGoogle();
+		googletag.enableServices();
+	});
+})();
+</script>
+
+
+
+<!-- CrossPixel -->
+<script type="text/javascript"> try{(function(){ var cb = new Date().getTime(); var s = document.createElement("script"); s.defer = true; s.src = "//tag.crsspxl.com/s1.js?d=2397&cb="+cb; var s0 = document.getElementsByTagName('script')[0]; s0.parentNode.insertBefore(s, s0); })();}catch(e){} </script>
+
+<!-- AdBlock Check -->
+<script>
+var isAdBlockActive = true;
+</script>
+<script async src="//a.fsdn.com/sd/js/scripts/ad.js?f5a4d237842139e5"></script>
+
+</head>
+<body class="anon firehose ">
+
+	
+	<script src="//a.fsdn.com/sd/all-minified.js?f5a4d237842139e5" type="text/javascript"></script>
+	
+	
+	<script type="text/javascript">
+(function(){
+var regexp=/\s*(?:\d+|many)\s+more\s*/i;
+
+	
+	var auto_more_count = 1;
+
+	function auto_more(){
+		var $more_link = $('#more-experiment a');
+		$more_link.each(function(){
+			var $lastitem = $('#firehoselist>article.fhitem:visible:last');
+			if ( Bounds.intersect(window, $lastitem) ) {
+			
+			
+				!--auto_more_count && (auto_more=undefined);
+				// don't allow a call till the next paginate gets built and |more_possible|
+				$(document).unbind('scroll', call_auto_more);
+			}
+		});
+	};
+
+	function call_auto_more(){ auto_more && auto_more(); }
+	
+
+$('#more-experiment a').
+	live('more-possible', function( event ){
+		var $more_link=$(this);
+		if ( regexp.test($more_link.text()) ) {
+		
+			$(document).bind('scroll', call_auto_more);
+		} else {
+			$(document).unbind('scroll', call_auto_more);
+		
+		}
+	});
+})();
+</script>
+	<!--[if lt IE 9]><script src="//a.fsdn.com/sd/html5.js"></script><![endif]-->
+	
+	
+	<script type="text/javascript">
+		(function() {
+			if (typeof window.janrain !== 'object') window.janrain = {};
+			if (typeof window.janrain.settings !== 'object') window.janrain.settings = {};
+
+			/* _______________ can edit below this line _______________ */
+
+			janrain.settings.tokenUrl = 'https://slashdot.org/token_callback.pl';
+			janrain.settings.type = 'embed';
+			janrain.settings.appId = 'ggidemlconlmjciiohla';
+			janrain.settings.appUrl = 'https://login.slashdot.org';
+			janrain.settings.providers = [
+			'googleplus',
+			'facebook',
+			'twitter',
+			'linkedin'];
+			janrain.settings.providersPerPage = '5';
+			janrain.settings.format = 'one column';
+			janrain.settings.actionText = 'Sign in with';
+			janrain.settings.showAttribution = false;
+			janrain.settings.fontColor = '#666666';
+			janrain.settings.fontFamily = 'lucida grande, Helvetica, Verdana, sans-serif';
+			janrain.settings.backgroundColor = '#ffffff';
+			janrain.settings.width = '300';
+			janrain.settings.borderColor = '#cccccc';
+			janrain.settings.borderRadius = '5';    janrain.settings.buttonBorderColor = '#CCCCCC';
+			janrain.settings.buttonBorderRadius = '0';
+			janrain.settings.buttonBackgroundStyle = 'gray';
+			janrain.settings.language = '';
+			janrain.settings.linkClass = 'janrainEngage';
+
+			/* _______________ can edit above this line _______________ */
+
+			function isReady() { janrain.ready = true; };
+			if (document.addEventListener) {
+			  document.addEventListener("DOMContentLoaded", isReady, false);
+			} else {
+			  window.attachEvent('onload', isReady);
+			}
+
+			var e = document.createElement('script');
+			e.type = 'text/javascript';
+			e.id = 'janrainAuthWidget';
+
+			e.src = 'https://rpxnow.com/js/lib/login.slashdot.org/engage.js';
+
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(e, s);
+		})();
+	</script>
+	
+		<script src="//cdn-social.janrain.com/social/janrain-social.min.js"></script>
+		<script type="text/javascript">
+			(function($) {
+				$(function(){
+					janrain.settings.appUrl = "https://login.slashdot.org";
+					$twitter = $('body .janrain_twitterButton');
+					$twitter.append('<i class="icon-twitter"></i>');
+
+					janrain.settings.social = {
+						providers: [
+							"facebook",
+							"twitter",
+							"linkedin",
+							"native-googleplus",
+							"native-reddit"
+						],
+						shareCountMin: "100",
+						shareCountMode: "combined"
+					};
+				});
+			})($j);
+		</script>
+	<!-- index2_variant ||-->
+	
+	<!-- TABOOLA -->
+	<script type="text/javascript">
+	  window._taboola = window._taboola || [];
+	  _taboola.push({home:'auto'});
+	  !function (e, f, u) {
+		e.async = 1;
+		e.src = u;
+		f.parentNode.insertBefore(e, f);
+	  }(document.createElement('script'),
+	  document.getElementsByTagName('script')[0],
+	  '//cdn.taboola.com/libtrc/slashdot/loader.js');
+	</script>
+	
+	<!-- html-header type=current end --><!-- header type=current begin -->
+	
+	
+	
+	<link rel="top"       title="News for nerds, stuff that matters" href="//slashdot.org/" >
+<link rel="search"    title="Search Slashdot" href="//science.slashdot.org/search.pl">
+<link rel="alternate" title="Slashdot RSS" href="http://rss.slashdot.org/Slashdot/slashdotScience" type="application/rss+xml">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+		<div id="top_parent"></div>
+		<a name="topothepage"></a>
+		
+		<div class="container">
+			<div class="nav-wrap">
+				<nav class="nav-primary" role="navigation" aria-label="Global Navigation">
+					<h1 class="logo">
+	<a href="//slashdot.org"><span>Slashdot</span></a>
+</h1>
+
+<ul class="nav-site">
+	<li><a href="//slashdot.org"><i class="icon-book" title="Stories"></i><span>Stories</span></a></li>
+	<li>
+		<ul class="filter-firehose">
+			<li class="nav-label">Firehose <i class="icon-angle-right"></i></li>
+			<li><a href="//slashdot.org/recent">All</a></li>
+			<li><a href="//slashdot.org/popular">Popular</a></li>
+		</ul>
+	</li>
+	<li><a href="//slashdot.org/polls"><i class="icon-chart-bar" title="Polls"></i><span>Polls</span></a></li>
+
+	<!--
+	<li><a href="//ask.slashdot.org"><i class="icon-question-circle"></i><span>Ask</span></a></li>
+	
+	<li><a href="//events.slashdot.org"><i class="icon-calendar"></i><span>Events</span></a></li>
+	-->
+	<li><a href="http://deals.slashdot.org/?utm_source=slashdot&amp;utm_medium=navbar&amp;utm_campaign=dealshp_1" target="_blank"><i class="sd-mini" title="Deals"></i> <span>Deals</span></a></li>
+</ul>
+<a href="//slashdot.org/submission" class="btn btn-success">Submit</a>
+				</nav>
+				<nav class="nav-user" role="navigation" aria-label="user access and account controls">
+					<form id="search" class="form-inline nav-search-form" method="get" action="//slashdot.org/index2.pl">
+<!-- //science.slashdot.org/index2.pl" -->
+	<div class="form-group">
+		<label class="sr-only" for="sitesearch">Search Slashdot</label>
+		<div class="input-group">
+			<input type="text" id="" class="" name="fhfilter" value="" placeholder="Search">
+		</div>
+	</div>
+	<button type="submit" class="btn icon-search"></button>
+</form>
+<ul class="user-access">
+	
+		
+			<li >
+				<a href="//slashdot.org/my/login"  onclick="show_login_box(); return false;"><i class="icon-login"></i><span> Login</span></a>
+				
+			</li>
+		
+	
+		
+			<li class="nav-label">or</li>
+		
+	
+		
+			<li >
+				<a href="//slashdot.org/my/newuser"  onclick="getModalPrefs('newUserModal', 'Create Account', 1); $('#modal_box').addClass('join'); return false;"><i class="icon-user-add"></i><span> Sign up</span></a>
+				
+			</li>
+		
+	
+</ul>
+				</nav>
+			</div>
+			<div class="nav-secondary-wrap">
+				<nav class="nav-secondary" role="secondary-navigation">
+	<ul>
+		<li class="nav-label">Topics: </li>
+		<li><a href="//devices.slashdot.org">Devices</a></li>
+		<li><a href="//build.slashdot.org">Build</a></li>
+		<li><a href="//entertainment.slashdot.org">Entertainment</a></li>
+		<li><a href="//technology.slashdot.org">Technology</a></li>
+		<li><a href="//slashdot.org/?fhfilter=opensource">Open Source</a></li>
+		<li><a href="//science.slashdot.org">Science</a></li>
+		<li><a href="//yro.slashdot.org">YRO</a></li>
+		<!-- <li><a href="//slashdot.org/topics.pl">more...</a></li> -->
+	</ul>
+</nav>
+<nav class="nav-social" role="social navigation">
+	<ul>
+		<li class="nav-label">Follow us:</li>
+		<li><a href="http://rss.slashdot.org/Slashdot/slashdotMain" target="_blank"><i class="icon-rss-squared"></i><span class="sr-only">RSS</span></a></li>
+		<li><a href="http://www.facebook.com/slashdot" target="_blank"><i class="icon-facebook-squared"></i><span class="sr-only">Facebook</span></a></li>
+		<li><a href="https://plus.google.com/112601993642376762846/" target="_blank"><i class="icon-gplus-squared"></i><span class="sr-only">Google+</span></a></li>
+		<li><a href="http://twitter.com/slashdot" target="_blank"><i class="icon-twitter-squared"></i><span class="sr-only">Twitter</span></a></li>
+		<li><a href="//slashdot.org/newsletter" target="_blank"><i class="icon-mail-squared"></i><span class="sr-only">Newsletter</span></a></li>
+	</ul>
+</nav>
+			</div>
+		</div>
+
+		<section>
+		
+			<div class="message-bar" id="firehose-message-tray">
+				<span class="icon-quote-left"></span>
+				<p>
+					
+						
+						Want to read Slashdot from your mobile device? Point it at <a href="http://m.slashdot.org">m.slashdot.org</a> and keep reading!
+					
+				</p>
+			</div>
+		
+		
+			<div id='embbeded_login_modal' class="hide">
+<form action="https://slashdot.org/my/login" method="post" onsubmit="if (global_returnto) { this.returnto.value = global_returnto }" class="embedded"><fieldset style="-webkit-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0;-moz-border-radius:10px 10px 0 0">
+<div style='height:25px;'>&nbsp;</div>
+    <input type="hidden" name="returnto" value="">
+    <input type="hidden" name="op" value="userlogin">
+    <p>
+        <label class="fleft" for="unickname">Nickname:</label>
+        <input type="text" name="unickname" value="">
+    </p>
+    <p>
+        <label class="fleft" for="upasswd">Password:</label>
+        <input type="password" name="upasswd" placeholder="6-1024 characters long">
+    </p>
+    <label class="checkbox"><input type="checkbox" name="login_temp" value="yes"> Public Terminal</label>
+    <br>
+    <hr>
+    <input type="submit" name="userlogin" value="Log In" class="fno"> <a href="//slashdot.org/my/mailpassword" class="btn link" onclick="getModalPrefs('sendPasswdModal', 'Retrieve Password', 1); return false;">Forgot your password?</a>
+</fieldset></form>
+
+<div id="janrainEngageEmbed"></div>
+<div class="actions">
+ <a class="ico close" onclick="hide_login_slider();" href=""><span>Close</span></a>
+</div>
+</div>
+		
+		
+			<div class="banner-wrapper">
+				<div class="adwrap adwrap-unviewed banner-contain">
+					
+					<div id='div-gpt-ad-728x90_a'><script type='text/javascript'>
+googletag.cmd.push(function(){
+googletag.display('div-gpt-ad-728x90_a');});</script></div>
+					<div id='div-gpt-ad-hubicon_200x90_a'><script type='text/javascript'>
+googletag.cmd.push(function(){
+googletag.display('div-gpt-ad-hubicon_200x90_a');});</script></div>
+				</div>
+			</div>
+		
+		<a name="main-articles"></a>
+	
+	<!-- header type=current end --><!-- body begin -->
+
+
+
+
+
+
+
+	
+
+	<style type="text/css">
+menu, menu * {
+	text-decoration:none;
+}
+
+menu[type=context] {
+	display:none;
+	position:absolute;
+	z-index:10000;
+}
+
+menu[type=context]:not(.brief) {
+	background-color:#dfdfdf;
+	margin:0;
+	padding:2px 0.5em;
+	border-style:solid;
+	border-width:1px;
+	border-color:#eeeeee #aaaaaa #aaaaaa #eeeeee;
+	-moz-border-radius-topright:.7em;
+	-webkit-border-top-right-radius: 0.7em 0.7em;
+}
+
+menu.full[type=context] > a.slash-hover:first-child {
+	-moz-border-radius-topright:.6em;
+	-webkit-border-top-right-radius: 0.6em 0.6em;
+}
+
+
+
+menu.brief[type=context] > a {
+	-moz-border-radius:.6em;
+	-webkit-border-radius: 0.6em;
+	color:#ffffff;
+	background-color:#000000;
+}
+
+/*
+span.briefmenu a.tag:not(.datatype) {
+    padding-left:.5em;
+}
+*/
+
+
+
+
+/* #tag-menu a, #feedback-menu a  { */
+menu.tag-menu-admin a {
+	display:list-item;
+	list-style:none;
+	text-align:left;
+	font-weight:bold;
+	color:black;
+	padding:0.1em 0.5em;
+	margin:-0.1em -0.5em;
+	cursor:pointer;
+}
+
+
+.tags .edit-bar { position:relative; }
+article aside .share .addthis_toolbox { display:block; width:60px; float:left; }
+article aside.view_mode .share { min-width:120px; padding-top:.5em; }
+#firehose.list article header h2 {padding-left: 20px; !important}
+.novote .vote { display:none; }
+
+.vote > a, .votedup > a, .voteddown > a {
+	display:inline-block;
+	height:22px;
+	width:22px;
+	margin: 2px 10px 0 0;
+	color:rgb(255,255,255);
+	text-decoration:none;
+	line-height:22px;
+	text-align:center;
+	font-weight:bold;
+	font-size:14px;
+	border-width:1px;
+	border-style:solid;
+	border-color:rgba(0,0,0,0.5);
+}
+
+.vote > a, .votedup > a, .voteddown > a {color:rgb(0,0,0);}
+
+article.fhitem-submission h2 .vote > a, article.fhitem-submission h2 .votedup > a, article.fhitem-submission h2 .voteddown > a { border-color:rgba(0,0,0,0.15); }
+.vote .up, .vote .down, .votedup .up, .votedup .down, .voteddown .up, .voteddown .down { border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; /* text-shadow:0 0 2px #000000; }*/}
+article:not(.fhitem-story) .vote .up,article:not(.fhitem-story) .vote .down,article:not(.fhitem-story) .votedup .up,article:not(.fhitem-story) .votedup .down,article:not(.fhitem-story) .voteddown .up,article:not(.fhitem-story) .voteddown .down { /*text-shadow:none !important; */}
+.voteddown .down, .votedup .up { margin-right: 10px; text-indent:2px; line-height:24px; }
+article:not(.fhitem-story) .votedup .up,article:not(.fhitem-story) .voteddown .down {background: rgb(174,174,174);background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(174,174,174)), to(rgb(193,193,193)));background-image: -moz-linear-gradient(100% 100% 90deg,rgb(193,193,193), rgb(174,174,174) 100%);color:rgb(0,0,0);}
+article.fhitem-story .votedup .up,article.fhitem-story .voteddown .down {background: rgb(0,66,66);background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(0,53,53)), to(rgb(0,102,102)));background-image: -moz-linear-gradient(100% 100% 90deg,rgb(0,102,102), rgb(0,53,53) 100%);}
+
+
+
+
+#tag-menu span.var-tag {
+font-weight:normal;
+color:#444444;
+}
+
+menu.reasons-menu a {
+padding:0 .25em 0 .25em;
+font-size:80%;
+-moz-border-radius:.5em;
+-webkit-border-radius:.5em;
+cursor:pointer;
+}
+
+menu.reasons-menu a:hover {
+background:rgb(153,153,153);
+background:-moz-linear-gradient(100% 100% 90deg, rgb(102,102,102), rgb(153,153,153) 70%) repeat scroll 0 0 rgb(102,102,102);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(153,153,153)), to(rgb(102,102,102)));
+color:#fff;
+text-decoration:none;
+font-weignt:normal;
+}
+
+article.fhitem-story menu.reasons-menu a:hover {
+background:#002323 !important;
+background:-moz-linear-gradient(100% 100% 90deg, #002323, #005353 70%) repeat scroll 0 0 #002323 !important;
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#005353), to(#002323)) !important;
+}
+
+
+menu.reasons-menu {
+	display:none;
+	margin:0;
+	padding:0;
+}
+
+div.fhitem h3 menu.reasons-menu {
+margin:0.25em 0 0;
+}
+
+div.fhitem h3 menu.reasons-menu a.tag {
+font-size:.8em;
+}
+
+#tag-menu a.slash-hover,
+#feedback-menu a.slash-hover,
+
+.tag-display span.tag:hover,
+.tag-display span.tag.trigger {
+	color:white;
+	background-color:rgb(0, 85, 85);
+}
+
+#tag-menu a.slash-hover span.var-tag {
+	color:#eee;
+}
+
+.tag-entry.default {
+        color:#ccc;
+}
+
+.brief .nix {
+	margin-top:-1.35em;
+	margin-left:0px;
+	margin-top:-1.15em;
+	text-decoration:none;
+	line-height:1.35em;
+	padding:0 2px;
+	-moz-border-radius:.6em 0 0 .6em;
+	-webkit-border-radius:.6em 0 0 .6em;
+	-o-border-radius:.6em 0 0 .6em;
+	border-radius:.6em 0 0 .6em;
+    color:#fff !important;
+    background:transparent !important;
+}
+
+.brief .nix:hover {
+    background:rgb(153,153,153) !important;
+    background:-moz-linear-gradient(100% 100% 90deg, rgb(102,102,102), rgb(153,153,153) 70%) repeat scroll 0 0 rgb(102,102,102) !important;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(153,153,153)), to(rgb(102,102,102))) !important;
+}
+
+</style>
+
+<menu id="nix-reasons" style="display:none">
+	<a class="tag">binspam</a><a class="tag">dupe</a><a class="tag">notthebest</a><a class="tag">offtopic</a><a class="tag">slownewsday</a><a class="tag">stale</a><a class="tag">stupid</a>
+</menu>
+<menu id="nod-reasons" style="display:none">
+	<a class="tag">fresh</a><a class="tag">funny</a><a class="tag">insightful</a><a class="tag">interesting</a><a class="tag">maybe</a>
+</menu>
+<menu id="comment-nix-reasons" style="display:none">
+	<a class="tag">offtopic</a><a class="tag">flamebait</a><a class="tag">troll</a><a class="tag">redundant</a><a class="tag">overrated</a>
+</menu>
+<menu id="comment-nod-reasons" style="display:none">
+	<a class="tag">insightful</a><a class="tag">interesting</a><a class="tag">informative</a><a class="tag">funny</a><a class="tag">underrated</a>
+</menu>
+
+<menu id="tag-nod-reasons" style="display:none">
+	<a class="tag">descriptive</a>
+</menu>
+<menu id="feedback-menu" class="tag-menu-admin" type="context">
+	<a class="tag">typo</a><a class="tag">dupe</a><a class="tag">error</a>
+</menu>
+<menu id="tag-menu" class="tag-menu-admin none" type="context">
+
+<!--	<a data-op="!" class="nix">!<span class="var-tag hide"></span></a>-->
+
+</menu>
+
+<script type="text/javascript">
+$(function(){
+var $CURRENT_MENU, $TAG_MENU=$('#tag-menu'), NOTNOT=/^!!/, IE7=/^7\.0/, TAG_PREFIX=/^\/tag\//;
+
+function get_tag_name( $tag ){
+	return ($tag.attr('href') || '').replace(TAG_PREFIX, '') || $tag.text().toLowerCase();
+}
+
+function trigger_menu( e, selector, $menu, menu_content ){
+	var $target=$(original_target(e, selector)), in_use=$target.is('.trigger');
+	if ( $CURRENT_MENU ) {
+		$CURRENT_MENU.menu('cancel', e);
+		$CURRENT_MENU = null;
+	}
+
+	if ( !in_use ) {
+		menu_content && $menu.stop(true, true).hide().html(menu_content);
+		($CURRENT_MENU=$menu).menu('context', e);
+	}
+	return !in_use;
+}
+
+function open_menu( trigger, $menu ){
+	var $trigger=$(trigger), $fhitem=$trigger.closest('.fhitem');
+	$fhitem.length && user_intent('interest', $fhitem[0]);
+
+	$menu.appendTo(document.body).css({ opacity:0 }).show();
+
+	var 	right	= $fhitem.offset().left + $fhitem.width(),
+		global	= $trigger.offset(),
+		local	= $menu.offsetParent().offset();
+
+	// Ugly IE position hack required:
+	$.browser.msie && IE7.test($.browser.version) && (local.top = 0);
+
+	// pin the menu (horizontally) on-screen
+	global.left = Math.min(global.left, right-$menu.width());
+
+	$trigger.addClass('trigger');
+	$menu.css({
+		position:	'absolute',
+		top:		global.top - local.top + $trigger.height(),
+		left:		global.left - local.left,
+		opacity:	1
+	});
+}
+
+function close_menu( trigger, $menu ){
+	$menu.hide();
+	$(trigger).removeClass('trigger');
+	($CURRENT_MENU===$menu) && ($CURRENT_MENU=false);
+}
+
+/* T2 tag context-menu */
+var $TAG_MENU=$('#tag-menu'), NOTNOT=/^!!/;
+
+
+    var user_is_admin = 0;
+
+
+
+$('a[rel=tag]').live('mousedown',function(ea){
+    window.open(this.href);
+    return false;
+})
+
+$('.tag-bar .disagree').live('mousedown',function(ee){
+	var fhitem = $(original_target(ee)).closest('.fhitem')[0],
+		command = ('!' + $(original_target(ee)).attr("data-tag")).replace(NOTNOT, '');
+    try { Tags.submit(fhitem, command); } catch ( err ) {  }
+    return false;
+})
+
+
+
+$('a[rel=tag]').
+	live('mousedown', function( e ){
+        
+            return true;
+        
+
+	}).
+	live('click', function( e ){
+		if ( !logged_in ) {
+			var	target	= original_target(e),
+				tag	= $(target).text();
+			addfhfilter(tag);
+		}
+		e.preventDefault();
+		return false;
+	});
+
+$TAG_MENU.menu({
+	cssNamespace: 'slash',
+	liveTriggers: true,
+	clickDuration: 300,
+
+	start: function( e, ui ){
+		var	$tag	= $(ui.trigger),
+			tag	= get_tag_name($tag),
+			context	= firehose_settings && firehose_settings.viewtitle;
+
+		// Insert the tagname into the menu items where needed.
+		$TAG_MENU.find('span.var-tag').text(tag);
+		$TAG_MENU.find('a.nix').attr('title','not ' + tag);
+
+
+			// non-admins may only delete their own tags
+		$TAG_MENU.find('a:[data-op="-"]').toggle($tag.is('.my'));
+	
+
+		// *tagname* in *viewtitle*
+		$TAG_MENU.find('a:[data-op="="]').toggle(!!context);
+		context && $TAG_MENU.find('span.var-view').text(context);
+
+		open_menu($tag, $TAG_MENU);
+	},
+
+	select: function( e, ui ){
+		var	$tag	= $(ui.trigger),
+			tag	= get_tag_name($tag),
+			op	= $(ui.select).attr('data-op'),
+			fhitem,
+			command;
+
+		// Global for positioning other things.
+		$related_trigger = $tag;
+
+		switch ( op ) {
+			case '=':
+				addfhfilter(tag);
+				break;
+
+			default:
+				fhitem = $tag.closest('.fhitem')[0];
+				command = (op + tag).replace(NOTNOT, '');
+				try { Tags.submit(fhitem, command); } catch ( err ) {  }
+				break;
+		}
+	},
+
+	stop: function( e, ui ){ close_menu(ui.trigger, $TAG_MENU); }
+});
+
+
+
+
+/* T2 feedback context-menu */
+
+
+
+/* T2 datatype context-menu (admin-only) */
+
+
+
+
+
+
+});
+</script>
+
+	
+
+<!-- SMACKS: BEGIN STORY CONTENT -->
+<div class="container">
+	<!--SMACKS: BEGING CENTER COLUMN -->
+	<div class="main-wrap has-rail-right">
+		<div class="main-content">
+			<div class="grid_24 a2 ">
+			</div>
+			<div id="firehose" class="nothumbs">
+			<div id="firehoselist" class="fhroot fleft  grid_24">
+				<div id="announcement">
+ Attend or create a Slashdot <strong><a href="https://slashdot.org/anniversary.pl">20th anniversary party!</a></strong> <strong>DEAL:</strong> For $25 - <strong><a href="http://hshd.io/nuLx" rel="nofollow" target="_blank">Add A Second Phone Number To Your Smartphone for life! Use promo code SLASHDOT25.</a></strong> Check out the new <a href="https://sourceforge.net/speedtest/?source=slashdotannouncement" rel="nofollow"><strong>SourceForge HTML5 Internet speed test.</a></strong>
+  <a href="" class="btn-close" title="don't show me this again" onclick="closeAnnouncement(); return false;">&times;</a>
+</div>
+
+
+<script type="text/javascript">
+
+if (!$.cookie('hide_sitenotice_36')) {
+	$('#announcement').fadeIn(300);
+}
+
+function closeAnnouncement() {
+	$('#announcement').fadeOut(300);
+	$.cookie('hide_sitenotice_36', 'true', { path: '/', domain: 'slashdot.org', expires: 28 });
+}
+</script>
+				<article id="firehose-94456931" data-fhid="94456931" data-fhtype="story" class="fhitem fhitem-story article usermode thumbs grid_24">
+		<span class="sd-info-block" style="display: none">
+			<span class="sd-key-firehose-id">94456931</span>
+			<span class="type">story</span>
+			
+		</span>
+
+
+
+
+
+
+
+	
+	
+
+<header>
+	
+		<span class="topic" id="topic-94456931">
+			<a href="//science.slashdot.org/index2.pl?fhfilter=china" onclick="return addfhfilter('china');">
+			
+				<img src="//a.fsdn.com/sd/topics/china_64.png" width="64" height="64" alt="China" title="China">
+			
+		</a>
+		
+	
+		
+		
+		
+		
+
+		
+		<a href="//science.slashdot.org/index2.pl?fhfilter=education" onclick="return addfhfilter('education');">
+			
+				<img src="//a.fsdn.com/sd/topics/education_64.png" width="64" height="64" alt="Education" title="Education">
+			
+		</a>
+		
+	
+		
+		
+
+		
+		<a href="//science.slashdot.org/index2.pl?fhfilter=medicine" onclick="return addfhfilter('medicine');">
+			
+				<img src="//a.fsdn.com/sd/topics/medicine_64.png?refresh=now" width="64" height="64" alt="Medicine" title="Medicine">
+			
+		</a>
+		
+	
+		
+		
+
+		
+		<a href="//science.slashdot.org/index2.pl?fhfilter=science" onclick="return addfhfilter('science');">
+			
+				<img src="//a.fsdn.com/sd/topics/science_64.png" width="64" height="64" alt="Science" title="Science">
+			
+		</a>
+		</span>
+	
+
+	<h2 class="story">
+		
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<span id="title-94456931" class="story-title"> <a   href="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews">China's Scientists Set New International Record -- For Faked Peer Reviews</a> <span class=" no extlnk"><a class="story-sourcelnk" href="https://www.nytimes.com/2017/10/13/world/asia/china-science-fraud-scandals.html"  title="External link - https://www.nytimes.com/2017/10/13/world/asia/china-science-fraud-scandals.html" target="_blank"> (nytimes.com) </a></span></span>
+
+		
+		
+		<!--<span class="comments commentcnt-94456931" >75</span>-->
+		
+
+		
+		<!-- comment bubble -->
+		
+			<span class="comment-bubble"><a href="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews#comments" title="">75</a></span>
+		
+	</h2>
+	<div class="details" id="details-94456931">
+		<span class="story-details">
+		<span class="story-views">
+			<span class="sodify" onclick="firehose_set_options('color', 'red')" title="Filter Firehose to entries rated red or better"></span><span class="icon-beaker pop1 " alt="Popularity" title="Filter Firehose to entries rated red or better" onclick="firehose_set_options('color', 'red')"><span></span></span> 
+		</span>
+		</span>
+		<span class="story-byline">
+	
+				
+			Posted
+				by 
+		
+		
+			
+				  EditorDavid
+			
+		
+		
+
+		
+		
+		<time id="fhtime-94456931" datetime="on Sunday October 15, 2017 @02:14PM">on Sunday October 15, 2017 @02:14PM</time>
+		
+		
+			 from the <span class="dept-text">regretting-retractions</span> dept.
+		
+		</span>
+	</div>
+</header>
+
+<div class="body" id="fhbody-94456931">
+	
+		
+	
+
+	
+		
+		<div id="text-94456931" class="p">
+			
+		 	
+				China  now has more laboratory scientists than any other country in the world, reports Amy Qin in the <em>New York Times</em>, and spends more on research than the entire European Union.
+<i>But in its rush to dominance, China has stood out in another, less boastful way. Since 2012, the country has <a href="https://www.nytimes.com/2017/10/13/world/asia/china-science-fraud-scandals.html">retracted more scientific papers because of faked peer reviews than all other countries</a> and territories put together, according to Retraction Watch, a blog that tracks and seeks to publicize retractions of research papers... In April, a scientific journal <a href="https://science.slashdot.org/story/17/04/22/0016237/107-cancer-papers-retracted-due-to-peer-review-fraud">retracted 107 biology research papers</a>, the vast majority of them written by Chinese authors, after evidence emerged that they had faked glowing reviews of their articles. Then, this summer, a Chinese gene scientist who had won celebrity status for breakthroughs once trumpeted as Nobel Prize-worthy was forced to retract his research when other scientists failed to replicate his results. At the same time, a government investigation highlighted the existence of a thriving online black market that sells everything from positive peer reviews to entire research articles...<br> <br>In part, these numbers may simply reflect the enormous scale of the world's most populous nation. But Chinese scientists also blame what they call the skewed incentives they say are embedded within their nation's academic system.</i><br>
+		 	
+		</div>
+
+		
+
+		
+
+		
+			
+		
+	</div>
+	<aside class="grid_24 view_mode">
+		
+			<div class="units-12 story-detail-tags">
+				<span id="sharethis-94456931" class="">
+					
+						
+
+						
+
+						
+							<div class="story-controls">
+								<div
+								  class="janrainSocialPlaceholder"
+								  data-janrain-url="https://science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews"
+								  data-janrain-title="China's Scientists Set New International Record -- For Faked Peer Reviews"
+								  data-janrain-message="China's Scientists Set New International Record -- For Faked Peer Reviews @slashdot"
+								></div>
+							</div>
+						
+					
+				</span>
+
+				<div class="story-tags">
+					<div class="tright tw">
+						
+							<span class="tright tags">
+								
+									<menu type="toolbar" class="edit-bar">
+		<span id="tagbar-94456931" class="tag-bar none">
+			<a  class="topic tag" rel="statictag" href="//slashdot.org/tag/" target="_blank"></a>
+<a  class="popular tag" rel="statictag" href="//slashdot.org/tag/china" target="_blank">china</a>
+<a  class="popular tag" rel="statictag" href="//slashdot.org/tag/science" target="_blank">science</a>
+<a  class="popular tag" rel="statictag" href="//slashdot.org/tag/education" target="_blank">education</a>
+
+		</span>
+		
+			<a class="edit-toggle" href="/my/login/" onclick="show_login_box();return false;">
+				<span class="icon-tag btn collapse"></span>
+			</a>
+		
+		
+		<div class="tag-menu">
+			<input class="tag-entry default" type="text" value="apply tags">
+		</div>
+		
+
+		
+		
+
+	</menu>
+								
+							</span>
+						
+					</div>
+				</div>
+			</div>
+
+			
+				
+				
+				
+			 	
+					<section class="grid_24" id="newa2footerv2">
+						<div class="grid_6 pr">
+							<h3><a title="Previous story" href="//tech.slashdot.org/story/17/10/15/158227/elon-musk-teases-reddit-with-bad-answers-about-bfr-rocket?sdsrc=prev">&larr;</a></h3>
+						</div>
+						<div class="grid_12 rl">
+							<h3>Related Links</h3>
+						</div>
+						<div class="grid_6 ns">
+							<h3><a title="Next story" href="//apple.slashdot.org/story/17/10/15/1710234/apples-tim-cook-shares-what-he-learned-from-steve-jobs?sdsrc=next">&rarr;</a></h3>
+						</div>
+						<div class="grid_6">
+							<span class="c">
+								<a href="//tech.slashdot.org/story/17/10/15/158227/elon-musk-teases-reddit-with-bad-answers-about-bfr-rocket?sdsrc=prev">Elon Musk Teases Reddit With Bad Answers About BFR Rocket </a>
+							</span>
+						</div>
+						<div class="grid_12">
+							<span class="c">
+								
+								
+									<h3><a href="//science.slashdot.org/story/17/04/22/0016237/107-cancer-papers-retracted-due-to-peer-review-fraud?sdsrc=rel">107 Cancer Papers Retracted Due To Peer Review Fraud</a></h3><h3><a href="//news.slashdot.org/story/17/05/25/1858232/its-time-for-academics-to-take-back-control-of-research-journals?sdsrc=rel">It's Time For Academics To Take Back Control Of Research Journals</a></h3><h3><a href="//entertainment.slashdot.org/story/17/05/28/1531257/seven-science-journals-have-a-dog-on-their-editorial-board?sdsrc=rel">Seven Science Journals Have A Dog On Their Editorial Board</a></h3><h3><a href="//entertainment.slashdot.org/story/17/07/23/1741222/predatory-journals-hit-by-star-wars-sting?sdsrc=rel">Predatory Journals Hit By "Star Wars" Sting</a></h3><h3><a href="//science.slashdot.org/story/17/09/10/0156240/neural-networks-can-auto-generate-reviews-that-fool-humans?sdsrc=rel">Neural Networks Can Auto-Generate Reviews That Fool Humans</a></h3><script type="text/javascript">
+		(function($){
+			$('.js_disp_only').show();
+			$('a.jshandle_related').on('click', '', function(e) {
+				e.preventDefault();
+				var url = $(this).data('goto-url');
+				window.location = url
+			});
+		})($j);
+	</script>
+								
+							</span>
+						</div>
+						<div class="grid_6">
+							<span class="c">
+								
+									<a href="//apple.slashdot.org/story/17/10/15/1710234/apples-tim-cook-shares-what-he-learned-from-steve-jobs?sdsrc=next">Apple's Tim Cook Shares What He Learned From Steve Jobs</a>
+								
+							</span>
+						</div>
+					</section>
+				
+			
+		
+	</aside>
+	
+
+
+
+	</article>
+			</div>
+			</div>
+		</div>
+	</div>
+	<!-- SMACKS: BEGIN RIGHT RAIL -->
+	<aside id="slashboxes" class="rail-right">
+		
+                    <div id="slashboxesin" class="yui-b">
+                            
+                            
+                            
+                    </div>
+		    <div class="railad adwrap-unviewed">
+<div id='div-gpt-ad-300x250_a'><script type='text/javascript'>
+googletag.cmd.push(function(){
+googletag.display('div-gpt-ad-300x250_a');});</script></div>
+</div>
+		    <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+	if ( isAdBlockActive) {
+		window._taboola = window._taboola || [];
+		_taboola.push({
+			mode: 'thumbnails-rr2',
+			container: 'taboola-below-article-thumbnails',
+			placement: 'Below Article Thumbnails',
+			target_type: 'mix'
+		});
+	};
+</script>
+		
+	</aside>
+		<!-- SMACKS: END RIGHT RAIL -->
+</div>
+<!-- END STORY CONTENT -->
+
+<!-- THIS IS THE LOCATION FOR THE NEW STORY_B CODE -->
+<div class="adwrap">
+<div id='div-gpt-ad-728x90_b'><script type='text/javascript'>
+googletag.cmd.push(function(){
+googletag.display('div-gpt-ad-728x90_b');});</script></div>
+</div>
+<div id="stackcommerce-adwrap" style="display:none;">
+    <div style="margin:auto;max-width:970px;max-height:250px;">
+        <div data-sc-widget data-publisher-id="66" data-categories="88,90" data-items-per-page="4" data-col-count="4" data-utm-source="slashdot.org" data-utm-content="story-deal-feed"></div>
+    </div>
+</div>
+<script type="text/javascript">
+	if ( isAdBlockActive) {
+	    $.ajax({
+            url: '/ajax.pl?op=nel',
+            success: function(html){
+                if(html){
+                    $('#firehoselist article').eq(0).after(html);
+                } else {
+                    (function () {
+                        var stackCommerceDiv = document.getElementById('stackcommerce-adwrap');
+                        stackCommerceDiv.style = '';
+                        var stackCommerce = document.createElement('script');
+                        stackCommerce.async = true;
+                        stackCommerce.type = 'text/javascript';
+                        stackCommerce.src = 'https://widgets.stackcommerce.com/js-deal-feed/0.1/widget.js';
+                        var node = document.getElementsByTagName('script')[0];
+                        node.parentNode.insertBefore(stackCommerce, node);
+                    })();
+                }
+
+            }
+        });
+
+	};
+</script>
+<!--------------------------->
+
+
+<!-- SMACKS: BEGIN COMMENTS CONTAINER -->
+<div class="container">
+	<!-- SMACKS: BEGIN COMMENTS SECTION -->
+	<div class="main-wrap">
+		<div class="main-content">
+			<div id="comments" class="a2commentwrap">
+			<div>
+					<a name="comments"></a>
+<div id="comments" class="container">
+	<div class="main-wrap">
+		<div class="main-content">
+			<section class="d2incommentspl">
+				<div class="commentwrap" id="commentwrap">
+					
+						<div class="commentBox">
+							<div class="title hide">
+								<h4>
+									
+										<span class="escape-link"><a href="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews" title="Back to Article - China's Scientists Set New International Record -- For Faked Peer Reviews">China's Scientists Set New International Record -- For Faked Peer Reviews</a></span>
+									
+									<span class="commentBoxLinks"><a href="#" onclick="D2.ajaxFetchComments(0,1); return false"><span id="more_comments_num_d"></span> More</a>
+
+
+
+	| <span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=" onclick="D2.replyTo(0); return false;">Reply</a>
+
+
+	<a class="login"  href="//science.slashdot.org/login.pl" onclick="show_login_box(); return false">Login</a></span>
+								</h4>
+							</div>
+						</div>
+					
+
+					<section class="grid_24" id="d2header"><div>
+						
+							<h2 class="commentspl test"><a title="Back to Article - China's Scientists Set New International Record -- For Faked Peer Reviews" href="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews">China's Scientists Set New International Record -- For Faked Peer Reviews</a></h2>
+						
+						<nav class="grid_24">
+							<div class="grid_14 widthauto">
+							
+								<span class="ind"></span><a class="btn first" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=" onclick="D2.replyTo(0); return false;">Post</a>
+							
+							<!-- <a href="//science.slashdot.org/search.pl?op=comments&amp;sid=11236517" class="btn">Search <span class="totalcommentcnt">75</span> Comments</a> -->
+							
+								
+									<a href="#" onclick="D2.ajaxFetchComments(0,1,'','',-1); return false" class="btn" id="d2loadall">Load All Comments</a>
+								
+							
+							
+								</div>
+								<div class="grid_10 d1or2">
+							
+
+							
+								<div id="d2out" class="horizontal rooted grid_15">
+									<div id="d2act" class="hide">
+										<div class="loki" id="gods">
+											<script type="text/javascript">
+												 $(function(){
+													 D2.slider = new D2.Slider(
+														 D2.user_threshold(),
+														 D2.user_highlightthresh(),
+														 'x'
+													 );
+												 });
+											</script>
+											<div id="bones" class="grid_12">
+												<div class="ccw-count-container grid_24">
+													<span id="ccw-full-count-text" class="grid_8 ccw-count-text tcenter"><span></span><span id="ccw-full-phrase">&nbsp;Full</span></span>
+													<span id="ccw-abbr-count-text" class="grid_8 ccw-count-text"><span></span><span id="ccw-abbr-phrase">&nbsp;Abbreviated</span></span>
+													<span id="ccw-hide-count-text" class="grid_8 ccw-count-text tleft"><span></span><span id="ccw-hide-phrase">&nbsp;Hidden</span></span>
+												</div>
+												<div id="ccw">
+													<div id="ccw-body" class="ccw-core">
+														<div id="ccw-panel-container" class="ccw-core">
+															<div id="ccw-full-panel" class="ccw-panel">
+																/Sea<div class="ccw-panel-border"></div>
+																<div id="ccw-full-count-pos" class="ccw-core-pos ccw-count-pos"></div>
+															</div>
+															<div id="ccw-abbr-panel" class="ccw-panel">
+																<div class="ccw-panel-border"></div>
+																<div id="ccw-abbr-count-pos" class="ccw-core-pos ccw-count-pos"></div>
+															</div>
+															<div id="ccw-hide-panel" class="ccw-panel">
+																<div id="ccw-hide-count-pos" class="ccw-core-pos ccw-count-pos"></div>
+															</div>
+														</div>
+														<div id="ccw-control" class="ccw-core">
+															<div id="ccw-centering-rail" class="ccw-core">
+																<div id="ccw-hide-bar-pos" class="ccw-core-pos">
+																	<div id="ccw-hide-bar" class="ccw-bar">
+																		<div id="ccw-hide-bar-tab" class="ccw-bar-tab"></div>
+																		<div class="ccwa"></div>
+																		<div class="ccwb"></div>
+																		<div id="ccw-hide-bar-upzone" class="ccw-upzone" onclick="D2.slider.stepTHT(HIDE_BAR, +1)"></div>
+																		<div id="ccw-hide-bar-downzone" class="ccw-downzone" onclick="D2.slider.stepTHT(HIDE_BAR, -1)"></div>
+																	</div>
+																</div>
+																<div id="ccw-abbr-bar-pos" class="ccw-core-pos">
+																	<div id="ccw-abbr-bar" class="ccw-bar">
+																		<div id="ccw-abbr-bar-tab" class="ccw-bar-tab"></div>
+																		<div class="ccwa"></div>
+																		<div class="ccwb"></div>
+																		<div id="ccw-abbr-bar-upzone" class="ccw-upzone" onclick="D2.slider.stepTHT(ABBR_BAR, +1)"></div>
+																		<div id="ccw-abbr-bar-downzone" class="ccw-downzone" onclick="D2.slider.stepTHT(ABBR_BAR, -1)"></div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+													<div class="ccw-score-label grid_24">
+														<div class="grid_3"><span class="sc">Score:</span></div>
+														<div class="grid_3">5<span class="lg"></span></div>
+														<div class="grid_3">4<span class="lg"></span></div>
+														<div class="grid_3">3<span class="lg"></span></div>
+														<div class="grid_3">2<span class="lg"></span></div>
+														<div class="grid_3">1<span class="lg"></span></div>
+														<div class="grid_3">0<span class="lg"></span></div>
+														<div class="grid_3">-1<span class="lg"></span></div>
+													</div>
+												</div>
+											</div>
+											<div class="commentControlFooter">
+												<a href="#" onclick="D2.ajaxFetchComments(0,1); return false"><span id="more_comments_num_c"></span> More</a>
+
+
+
+	| <span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=" onclick="D2.replyTo(0); return false;">Reply</a>
+
+
+	<a class="login"  href="//science.slashdot.org/login.pl" onclick="show_login_box(); return false">Login</a><div id="login_cover" class="hide" onclick="hide_login_box()"></div>
+<div id="login_box" class="hide">
+	<div id="login_box_content">
+		<div id='embbeded_login_modal' class="hide">
+<form action="https://slashdot.org/my/login" method="post" onsubmit="if (global_returnto) { this.returnto.value = global_returnto }" class="embedded"><fieldset style="-webkit-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0;-moz-border-radius:10px 10px 0 0">
+<div style='height:25px;'>&nbsp;</div>
+    <input type="hidden" name="returnto" value="//science.slashdot.org/comments.pl?sid=11236517">
+    <input type="hidden" name="op" value="userlogin">
+    <p>
+        <label class="fleft" for="unickname">Nickname:</label>
+        <input type="text" name="unickname" value="">
+    </p>
+    <p>
+        <label class="fleft" for="upasswd">Password:</label>
+        <input type="password" name="upasswd" placeholder="6-1024 characters long">
+    </p>
+    <label class="checkbox"><input type="checkbox" name="login_temp" value="yes"> Public Terminal</label>
+    <br>
+    <hr>
+    <input type="submit" name="userlogin" value="Log In" class="fno"> <a href="//slashdot.org/my/mailpassword" class="btn link" onclick="getModalPrefs('sendPasswdModal', 'Retrieve Password', 1); return false;">Forgot your password?</a>
+</fieldset></form>
+
+<div id="janrainEngageEmbed"></div>
+<div class="actions">
+ <a class="ico close" onclick="hide_login_slider();" href=""><span>Close</span></a>
+</div>
+</div>
+		<div class="actions">
+			<a class="ico close" href="#" onclick="hide_login_box(); return false"><span>Close</span></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">logged_in = 0</script>
+											</div>
+											<div id="commentControlBoxStatus" class="hide"></div>
+										</div>
+									</div>
+								</div>
+							
+							
+							<a href="//science.slashdot.org/search.pl?op=comments&amp;sid=11236517" class="ui-icon search_comments">Search <span class="totalcommentcnt">75</span> Comments</a>
+							
+								<a class="pref ui-icon-w" href="//science.slashdot.org/users.pl" onclick="show_login_box(); $('#modal_box').addClass('login'); return false;">Log In/Create an Account</a>
+							
+						</div>
+					</nav>
+					<section id="besttabs" class="grid_24">
+						<span class="legend">Comments Filter:</span>
+						<ul class="besttabslist">
+							<li class="active">
+								<a href="#" data-filter-url="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews#comments">All</a>
+							</li>
+						
+							<li >
+								<a href="" data-filter-url="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews/insightful-comments#comments">Insightful</a>
+							</li>
+						
+							<li >
+								<a href="" data-filter-url="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews/informative-comments#comments">Informative</a>
+							</li>
+						
+							<li >
+								<a href="" data-filter-url="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews/interesting-comments#comments">Interesting</a>
+							</li>
+						
+							<li >
+								<a href="" data-filter-url="//science.slashdot.org/story/17/10/14/2130259/chinas-scientists-set-new-international-record----for-faked-peer-reviews/funny-comments#comments">Funny</a>
+							</li>
+						
+					</ul>
+					<script>
+					(function($){
+						$('#besttabs').show();
+						$('.besttabslist').on('click', 'li a', function(e){
+							e.preventDefault();
+							var url = $(this).data('filter-url');
+							//console.log('URL= ', url);
+							$(this)
+								.closest('ul').find('li').removeClass('active')
+								.end()
+								.closest('li').addClass('active');
+							window.location = url;
+						});
+					})($j);
+					</script>
+			</section>
+				<aside class="grid_24">
+					<p>
+						<small><strong>The Fine Print:</strong> The following comments are owned by whoever posted them.  We are not responsible for them in any way.</small>
+					</p>
+				</aside>
+			</section>
+			
+		</div>
+	</div>
+</div><script src="//a.fsdn.com/sd/comments-minified.js?f5a4d237842139e5" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+<!--
+D2.d2_keybindings_disable()[191] = 1;
+D2.boxStatus(1);
+D2.comments({ 55375371: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55373399: { uid: 666, pid: 55373293, read: 0, points: -1, kids: [ 55373521, 55373977, 55375055 ], opid: 55373293 }, 55373363: { uid: 73720, pid: 55373299, read: 0, points: 2, kids: [ 55373489 ], opid: 55373299 }, 55373489: { uid: 666, pid: 55373363, subject: "Re:Incentives", read: 0, points: 5, kids: [ 55373507, 55376569 ], opid: 55373363 }, 55376569: { uid: 666, pid: 55373489, subject: "Re:Incentives", read: 0, points: 0, kids: [ 55376917 ], opid: 55373489 }, 55373501: { uid: 608802, pid: 0, read: 0, points: 2, kids: [  ], opid: 0 }, 55373915: { uid: 666, pid: 55373371, subject: "Re:Not just about large population ", read: 0, points: 0, kids: [ 55375471 ], opid: 55373371 }, 55375279: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55374547: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55374423: { uid: 586021, pid: 0, read: 0, points: 2, kids: [ 55375963 ], opid: 0 }, 55384967: { uid: 1033548, pid: 55375469, subject: "Re:Chinese are programmed to cheat.", read: 0, points: 0, kids: [  ], opid: 55375469 }, 55373679: { uid: 666, pid: 0, read: 0, points: 0, kids: [ 55374039 ], opid: 0 }, 55377509: { uid: 626655, pid: 55373809, subject: "Re:Incentives are skewed everywhere", read: 0, points: 2, kids: [  ], opid: 55373809 }, 55373605: { uid: 934156, pid: 0, read: 0, points: 5, kids: [ 55374205 ], opid: 0 }, 55377411: { uid: 666, pid: 55374963, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 0, kids: [  ], opid: 55374963 }, 55375451: { uid: 666, pid: 55374963, read: 0, points: 0, kids: [  ], opid: 55374963 }, 55373393: { uid: 666, pid: 55373319, subject: "Re:Incentives are skewed everywhere", read: 0, points: 1, kids: [ 55373713, 55373725 ], opid: 55373319 }, 55375203: { uid: 4430571, pid: 55374667, subject: "Re:Incentives are skewed everywhere", read: 0, points: 2, kids: [ 55377017 ], opid: 55374667 }, 55378897: { uid: 11115, pid: 55374869, subject: "Re:sounds familiar.", read: 0, points: 2, kids: [  ], opid: 55374869 }, 55376901: { uid: 626655, pid: 55373693, subject: "Re:Incentives", read: 0, points: 2, kids: [  ], opid: 55373693 }, 55373939: { uid: 666, pid: 55373371, subject: "Re:Not just about large population ", read: 0, points: 0, kids: [  ], opid: 55373371 }, 55376451: { uid: 666, pid: 55374963, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 1, kids: [  ], opid: 55374963 }, 55374027: { uid: 666, pid: 55373655, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 0, kids: [  ], opid: 55373655 }, 55373297: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55375471: { uid: 2584709, pid: 55373915, subject: "Re:Not just about large population ", read: 0, points: 2, kids: [  ], opid: 55373915 }, 55375055: { uid: 666, pid: 55373399, read: 0, points: 0, kids: [  ], opid: 55373399 }, 55374825: { uid: 1787294, pid: 55373371, subject: "Re:Not just about large population ", read: 0, points: 2, kids: [  ], opid: 55373371 }, 55373507: { uid: 608802, pid: 55373489, subject: "Re:Incentives", read: 0, points: 2, kids: [ 55373693 ], opid: 55373489 }, 55373371: { uid: 1134087, pid: 0, read: 0, points: 3, kids: [ 55373735, 55373915, 55373939, 55374825 ], opid: 0 }, 55377201: { uid: 666, pid: 55375311, subject: "Re:More fake biology/medical research", read: 0, points: 0, kids: [  ], opid: 55375311 }, 55373725: { uid: 666, pid: 55373393, subject: "Re:Incentives are skewed everywhere", read: 0, points: 0, kids: [ 55388383 ], opid: 55373393 }, 55388383: { uid: 4163483, pid: 55373725, read: 0, points: 1, kids: [  ], opid: 55373725 }, 55375469: { uid: 2584709, pid: 55373293, subject: "Re:Chinese are programmed to cheat.", read: 0, points: 2, kids: [ 55384967 ], opid: 55373293 }, 55377837: { uid: 666, pid: 55373299, subject: "Re:Incentives are skewed everywhere", read: 0, points: 0, kids: [  ], opid: 55373299 }, 55377913: { uid: 1158667, pid: 55374459, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 2, kids: [  ], opid: 55374459 }, 55374233: { uid: 11115, pid: 0, read: 0, points: 5, kids: [  ], opid: 0 }, 55373319: { uid: 4163483, pid: 55373299, subject: "Re:Incentives are skewed everywhere", read: 0, points: 1, kids: [ 55373393 ], opid: 55373299 }, 55373521: { uid: 4052387, pid: 55373399, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 2, kids: [ 55374049, 55374963 ], opid: 55373399 }, 55374205: { uid: 11115, pid: 55373605, subject: "Re:sounds familiar.", read: 0, points: 3, kids: [ 55374687, 55374869 ], opid: 55373605 }, 55377447: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55373419: { uid: 666, pid: 0, read: 0, points: 0, kids: [ 55374473 ], opid: 0 }, 55373735: { uid: 666, pid: 55373371, subject: "Re:Not just about large population ", read: 0, points: 0, kids: [  ], opid: 55373371 }, 55374459: { uid: 666, pid: 55374049, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 0, kids: [ 55377913 ], opid: 55374049 }, 55378981: { uid: 11115, pid: 55374863, subject: "Re:More fake biology/medical research", read: 0, points: 2, kids: [  ], opid: 55374863 }, 55374667: { uid: 624760, pid: 55373497, subject: "Re:Incentives are skewed everywhere", read: 0, points: 2, kids: [ 55375203, 55375969 ], opid: 55373497 }, 55374473: { uid: 666, pid: 55373419, subject: "Re:I KNEW IT! SHokcer!", read: 0, points: 0, kids: [  ], opid: 55373419 }, 55373655: { uid: 666, pid: 55373293, read: 0, points: -1, kids: [ 55374027 ], opid: 55373293 }, 55373907: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55373693: { uid: 666, pid: 55373507, subject: "Re:Incentives", read: 0, points: 0, kids: [ 55376901, 55377063 ], opid: 55373507 }, 55373839: { uid: 546262, pid: 0, read: 0, points: 1, kids: [  ], opid: 0 }, 55373843: { uid: 666, pid: 0, read: 0, points: 0, kids: [ 55418557 ], opid: 0 }, 55374863: { uid: 1048260, pid: 0, read: 0, points: 5, kids: [ 55375311, 55378981 ], opid: 0 }, 55401775: { uid: 586021, pid: 55375963, subject: "Re:And in a related story", read: 0, points: 2, kids: [  ], opid: 55375963 }, 55373497: { uid: 1302813, pid: 55373299, subject: "Re:Incentives are skewed everywhere", read: 0, points: 2, kids: [ 55374667 ], opid: 55373299 }, 55374469: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55418557: { uid: 930093, pid: 55373843, subject: "Re:Doesn't the editor control who reviews", read: 0, points: 2, kids: [  ], opid: 55373843 }, 55376917: { uid: 626655, pid: 55376569, subject: "Re:Incentives", read: 0, points: 1, kids: [  ], opid: 55376569 }, 55374421: { uid: 666, pid: 55373293, read: 0, points: 0, kids: [  ], opid: 55373293 }, 55377017: { uid: 626655, pid: 55375203, subject: "Re:Incentives are skewed everywhere", read: 0, points: 2, kids: [  ], opid: 55375203 }, 55374049: { uid: 1158667, pid: 55373521, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 0, kids: [ 55374459 ], opid: 55373521 }, 55373293: { uid: 666, pid: 0, read: 0, points: 0, kids: [ 55373399, 55373655, 55374421, 55375469 ], opid: 0 }, 55375963: { uid: 666, pid: 55374423, subject: "Re:And in a related story", read: 0, points: 0, kids: [ 55401775 ], opid: 55374423 }, 55374687: { uid: 666, pid: 55374205, subject: "Re:sounds familiar.", read: 0, points: 5, kids: [  ], opid: 55374205 }, 55375311: { uid: 4430571, pid: 55374863, subject: "Re:More fake biology/medical research", read: 0, points: 4, kids: [ 55375431, 55377201 ], opid: 55374863 }, 55374869: { uid: 666, pid: 55374205, subject: "Re:sounds familiar.", read: 0, points: 2, kids: [ 55378897 ], opid: 55374205 }, 55373713: { uid: 666, pid: 55373393, subject: "Re:Incentives are skewed everywhere", read: 0, points: -1, kids: [  ], opid: 55373393 }, 55374039: { uid: 666, pid: 55373679, read: 0, points: 0, kids: [  ], opid: 55373679 }, 55375431: { uid: 1048260, pid: 55375311, subject: "Re:More fake biology/medical research", read: 0, points: 2, kids: [  ], opid: 55375311 }, 55373299: { uid: 666, pid: 0, read: 0, points: 3, kids: [ 55373319, 55373363, 55373497, 55373809, 55377837 ], opid: 0 }, 55373809: { uid: 666, pid: 55373299, subject: "Re:Incentives are skewed everywhere", read: 0, points: 3, kids: [ 55377509 ], opid: 55373299 }, 55373977: { uid: 666, pid: 55373399, subject: "Re: Chinese are programmed to cheat.", read: 0, points: 0, kids: [  ], opid: 55373399 }, 55375969: { uid: 79522, pid: 55374667, subject: "Re:Incentives are skewed everywhere", read: 0, points: 5, kids: [  ], opid: 55374667 }, 55374963: { uid: 666, pid: 55373521, subject: "Re: Chinese are programmed to cheat.", read: 0, points: -1, kids: [ 55375451, 55376451, 55377411 ], opid: 55373521 }, 55374057: { uid: 666, pid: 0, read: 0, points: 0, kids: [  ], opid: 0 }, 55377063: { uid: 666, pid: 55373693, subject: "Re:Incentives", read: 0, points: 0, kids: [  ], opid: 55373693 } });
+
+D2.thresh_totals({6:{6:{1:75,3:0,2:0}},3:{6:{1:64,3:3,2:8},4:{1:64,3:9,2:2},3:{1:64,3:11,2:0},5:{1:64,3:6,2:5}},2:{6:{1:43,3:3,2:29},4:{1:43,3:9,2:23},3:{1:43,3:13,2:19},2:{1:43,3:32,2:0},5:{1:43,3:6,2:26}},1:{6:{1:37,3:3,2:35},4:{1:37,3:9,2:29},1:{1:37,3:38,2:0},3:{1:37,3:13,2:25},2:{1:37,3:33,2:5},5:{1:37,3:6,2:32}},4:{6:{1:68,3:3,2:4},4:{1:68,3:7,2:0},5:{1:68,3:6,2:1}},0:{6:{1:4,3:3,2:68},4:{1:4,3:9,2:62},1:{1:4,3:50,2:21},3:{1:4,3:13,2:58},0:{1:4,3:71,2:0},2:{1:4,3:33,2:38},5:{1:4,3:6,2:65}},"-1":{6:{1:0,3:3,2:72},3:{1:0,3:13,2:62},2:{1:0,3:33,2:42},1:{1:0,3:50,2:25},4:{1:0,3:9,2:66},0:{1:0,3:71,2:4},"-1":{1:0,3:75,2:0},5:{1:0,3:6,2:69}},5:{6:{1:69,3:3,2:3},5:{1:69,3:6,2:0}}});
+
+D2.root_comment(0);
+D2.root_comments([55373293,55373297,55373299,55373371,55373419,55373501,55373605,55373679,55373839,55373843,55373907,55374057,55374233,55374423,55374469,55374547,55374863,55375279,55375371,55377447]);
+D2.root_comments_hash({55377447:1,55373419:1,55375371:1,55373299:1,55373907:1,55373297:1,55373501:1,55375279:1,55374863:1,55374547:1,55373843:1,55373839:1,55374469:1,55373371:1,55374423:1,55373679:1,55373605:1,55374233:1,55374057:1,55373293:1});
+
+D2.d2_comment_order(0);
+D2.user_uid(666);
+D2.user_is_anon(1);
+D2.user_is_admin(0);
+D2.user_is_subscriber(0);
+D2.user_smallscreen(0);
+D2.user_threshold(1);
+D2.user_highlightthresh(4);
+D2.user_d2asp(0);
+
+D2.discussion_id(11236517);
+
+D2.d2_seen('55373293,4,2,20,44,8,22,6,20,70,8,4,6,14,84,50,24,14,20,12,10,74,30,4,64,8,24,38,50,12,10,8,148,28,188,2,36,10,4,74,120,20,138,38,6,94,92,148,76,32,60,60,20,18,2,492,6,482,118,332,16,100,46,138,210,36,62,328,76,984,84,5986,3416,13392,16782');
+D2.more_comments_num(0);
+
+
+//-->
+</script>
+
+
+
+
+	
+	
+	
+	
+		<ul id="commentlisting" class="d2">
+			<li id="tree_55373293" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373293" class="commentstatus"></div>
+<div id="comment_55373293" class="cw">
+</div>
+
+<div id="replyto_55373293"></div>
+
+<ul id="group_55373293">
+	<li id="hiddens_55373293" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373293"><li id="tree_55373399" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373399" class="commentstatus"></div>
+<div id="comment_55373399" class="cw">
+</div>
+
+<div id="replyto_55373399"></div>
+
+<ul id="group_55373399">
+	<li id="hiddens_55373399" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373399"><li id="tree_55373521" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373521" class="commentstatus"></div>
+<div id="comment_55373521" class="cw">
+	<div id="comment_top_55373521" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373521" name="comment_link_55373521" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373521" onclick="return D2.setFocusComment(55373521)" >Re:</a>
+
+
+		 	<span id="comment_score_55373521" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373521); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Kleanthes">Kleanthes</a>  <span class="uid"><a href="//slashdot.org/~Kleanthes">( 4052387 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373521"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373521">Yeah, would be much better if they were the 'murican type of Christian. Then they would also cheat, but at least they would also loudly complain about cheaters.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373521">
+
+</div>
+</div>
+
+<div id="replyto_55373521"></div>
+
+<ul id="group_55373521">
+	<li id="hiddens_55373521" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373521"><li id="tree_55374049" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374049" class="commentstatus"></div>
+<div id="comment_55374049" class="cw">
+</div>
+
+<div id="replyto_55374049"></div>
+
+<ul id="group_55374049">
+	<li id="hiddens_55374049" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374049"><li id="tree_55374459" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374459" class="commentstatus"></div>
+<div id="comment_55374459" class="cw">
+</div>
+
+<div id="replyto_55374459"></div>
+
+<ul id="group_55374459">
+	<li id="hiddens_55374459" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374459"><li id="tree_55377913" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55377913" class="commentstatus"></div>
+<div id="comment_55377913" class="cw">
+	<div id="comment_top_55377913" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55377913" name="comment_link_55377913" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55377913" onclick="return D2.setFocusComment(55377913)" >Re:</a>
+
+
+		 	<span id="comment_score_55377913" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55377913); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Pinky's+Brain">Pinky's Brain</a>  <span class="uid"><a href="//slashdot.org/~Pinky's+Brain">( 1158667 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55377913"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55377913"><p>A lot of civilizations just collapsed with no lasting legacy but ruins, their philosophical and technological innovations forgotten until our Civilization's archaeologists started to uncover them. We got extremely lucky by inheriting the progression of preceding civilizations instead of just letting it all be reduced to rubble. Modern civilization is a complete fluke.</p><p>Seculars have now taken over the baton for the most part, lets see if they can keep it going. I kinda doubt it, they are falling into the same<span class="substr"> </span></p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55377913">
+
+</div>
+</div>
+
+<div id="replyto_55377913"></div>
+
+<ul id="group_55377913">
+	<li id="hiddens_55377913" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="hidestring_55374049"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55374049">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55374963" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374963" class="commentstatus"></div>
+<div id="comment_55374963" class="cw">
+</div>
+
+<div id="replyto_55374963"></div>
+
+<ul id="group_55374963">
+	<li id="hiddens_55374963" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374963"><li id="tree_55375451" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55375451" class="commentstatus"></div>
+<div id="comment_55375451" class="cw">
+</div>
+
+<div id="replyto_55375451"></div>
+
+<ul id="group_55375451">
+	<li id="hiddens_55375451" class="hide"></li>
+</ul>
+
+</li><li id="tree_55376451" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55376451" class="commentstatus"></div>
+<div id="comment_55376451" class="cw">
+	<div id="comment_top_55376451" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55376451" name="comment_link_55376451" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55376451" onclick="return D2.setFocusComment(55376451)" >Re:</a>
+
+
+		 	<span id="comment_score_55376451" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55376451); return false"><span class=opt>Score:</span>1</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55376451"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55376451"><p><div class="quote"><p>Our present economic boom is due to the revolution in electronics and computer technology.</p><span class="substr"> </span></div><p>Our present economic "boom" is a recovery from the country being driven to the edge of bankruptcy by the real estate bubble collapse and most of those gains went to the 1% in the form of returns on cheaply purchased shares in bailed out financial institutions.   The middle and lower class have less purchasing power than ever due to stagnant wages that show no sign of improving without government intervention.</p><p>In other words, congratulations on drinking the Kool-Aid.  You've done an excellent job defending ri</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55376451">
+
+</div>
+</div>
+
+<div id="replyto_55376451"></div>
+
+<ul id="group_55376451">
+	<li id="hiddens_55376451" class="hide"></li>
+</ul>
+
+</li><li id="tree_55377411" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55377411" class="commentstatus"></div>
+<div id="comment_55377411" class="cw">
+</div>
+
+<div id="replyto_55377411"></div>
+
+<ul id="group_55377411">
+	<li id="hiddens_55377411" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55374963"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55374963">2 replies</a> beneath your current threshold.</b></noscript></li></ul></li><li id="hidestring_55373521"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373521">2 replies</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373977" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373977" class="commentstatus"></div>
+<div id="comment_55373977" class="cw">
+</div>
+
+<div id="replyto_55373977"></div>
+
+<ul id="group_55373977">
+	<li id="hiddens_55373977" class="hide"></li>
+</ul>
+
+</li><li id="tree_55375055" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55375055" class="commentstatus"></div>
+<div id="comment_55375055" class="cw">
+</div>
+
+<div id="replyto_55375055"></div>
+
+<ul id="group_55375055">
+	<li id="hiddens_55375055" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373399"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373399">2 replies</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373655" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373655" class="commentstatus"></div>
+<div id="comment_55373655" class="cw">
+</div>
+
+<div id="replyto_55373655"></div>
+
+<ul id="group_55373655">
+	<li id="hiddens_55373655" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373655"><li id="tree_55374027" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374027" class="commentstatus"></div>
+<div id="comment_55374027" class="cw">
+</div>
+
+<div id="replyto_55374027"></div>
+
+<ul id="group_55374027">
+	<li id="hiddens_55374027" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373655"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373655">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55374421" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374421" class="commentstatus"></div>
+<div id="comment_55374421" class="cw">
+</div>
+
+<div id="replyto_55374421"></div>
+
+<ul id="group_55374421">
+	<li id="hiddens_55374421" class="hide"></li>
+</ul>
+
+</li><li id="tree_55375469" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55375469" class="commentstatus"></div>
+<div id="comment_55375469" class="cw">
+	<div id="comment_top_55375469" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55375469" name="comment_link_55375469" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375469" onclick="return D2.setFocusComment(55375469)" >Re:</a>
+
+
+		 	<span id="comment_score_55375469" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55375469); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~slashrio">slashrio</a>  <span class="uid"><a href="//slashdot.org/~slashrio">( 2584709 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55375469"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55375469">The good news is: They actually retracted them.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55375469">
+
+</div>
+</div>
+
+<div id="replyto_55375469"></div>
+
+<ul id="group_55375469">
+	<li id="hiddens_55375469" class="hide"></li>
+</ul>
+
+<ul id="commtree_55375469"><li id="tree_55384967" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55384967" class="commentstatus"></div>
+<div id="comment_55384967" class="cw">
+</div>
+
+<div id="replyto_55384967"></div>
+
+<ul id="group_55384967">
+	<li id="hiddens_55384967" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55375469"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55375469">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="hidestring_55373293"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373293">3 replies</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373297" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373297" class="commentstatus"></div>
+<div id="comment_55373297" class="cw">
+</div>
+
+<div id="replyto_55373297"></div>
+
+<ul id="group_55373297">
+	<li id="hiddens_55373297" class="hide"></li>
+</ul>
+
+</li><li id="tree_55373299" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55373299" class="commentstatus"></div>
+<div id="comment_55373299" class="cw">
+	<div id="comment_top_55373299" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373299" name="comment_link_55373299" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373299" onclick="return D2.setFocusComment(55373299)" >Incentives are skewed everywhere</a>
+
+
+		 	<span id="comment_score_55373299" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373299); return false"><span class=opt>Score:</span>3</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373299">		
+		on Sunday October 15, 2017 @02:30PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373299">#55373299</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373299"><p>"In part, these numbers may simply reflect the enormous scale of the world's most populous nation. But Chinese scientists also blame what they call the skewed incentives they say are embedded within their nation's academic system."<br>I don't see how these skewed incentives are any different in Western countries.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373299">
+<span class="ind"></span><a id="reply_link_55373299" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373299" onclick="D2.replyTo(55373299); return false;">Reply to This</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Incentives are skewed everywhere by Anonymous Coward @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373299" data-title="Incentives are skewed everywhere">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Incentives are skewed everywhere by Anonymous Coward" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373299" data-title="Incentives are skewed everywhere">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Incentives are skewed everywhere by Anonymous Coward" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373299" data-title="Incentives are skewed everywhere">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55373299" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55373299" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373299" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55373299"></div>
+
+<ul id="group_55373299">
+	<li id="hiddens_55373299" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373299"><li id="tree_55373319" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373319" class="commentstatus"></div>
+<div id="comment_55373319" class="cw">
+	<div id="comment_top_55373319" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373319" name="comment_link_55373319" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373319" onclick="return D2.setFocusComment(55373319)" >Re:</a>
+
+
+		 	<span id="comment_score_55373319" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373319); return false"><span class=opt>Score:</span>1</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~nachtelfjeiu">Nacht Elfje</a> <span class="socialbadge"><a class="g" href="#" title="From Google"></a></span> <span class="uid"><a href="//slashdot.org/~nachtelfjeiu">( 4163483 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373319"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373319">That was me btw, i hadn't logged in.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373319">
+
+</div>
+</div>
+
+<div id="replyto_55373319"></div>
+
+<ul id="group_55373319">
+	<li id="hiddens_55373319" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373319"><li id="tree_55373393" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373393" class="commentstatus"></div>
+<div id="comment_55373393" class="cw">
+	<div id="comment_top_55373393" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373393" name="comment_link_55373393" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373393" onclick="return D2.setFocusComment(55373393)" >Re:</a>
+
+
+		 	<span id="comment_score_55373393" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373393); return false"><span class=opt>Score:</span>1</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373393"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373393"><p>I don't give a shit who you are.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373393">
+
+</div>
+</div>
+
+<div id="replyto_55373393"></div>
+
+<ul id="group_55373393">
+	<li id="hiddens_55373393" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373393"><li id="tree_55373713" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373713" class="commentstatus"></div>
+<div id="comment_55373713" class="cw">
+</div>
+
+<div id="replyto_55373713"></div>
+
+<ul id="group_55373713">
+	<li id="hiddens_55373713" class="hide"></li>
+</ul>
+
+</li><li id="tree_55373725" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373725" class="commentstatus"></div>
+<div id="comment_55373725" class="cw">
+</div>
+
+<div id="replyto_55373725"></div>
+
+<ul id="group_55373725">
+	<li id="hiddens_55373725" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373725"><li id="tree_55388383" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55388383" class="commentstatus"></div>
+<div id="comment_55388383" class="cw">
+	<div id="comment_top_55388383" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55388383" name="comment_link_55388383" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55388383" onclick="return D2.setFocusComment(55388383)" >Re: Incentives are skewed everywhere</a>
+
+
+		 	<span id="comment_score_55388383" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55388383); return false"><span class=opt>Score:</span>1</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~nachtelfjeiu">Nacht Elfje</a> <span class="socialbadge"><a class="g" href="#" title="From Google"></a></span> <span class="uid"><a href="//slashdot.org/~nachtelfjeiu">( 4163483 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55388383"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55388383">Thank you<nobr> <wbr></nobr>:-) It's also about taking some responsibility for my words.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55388383">
+
+</div>
+</div>
+
+<div id="replyto_55388383"></div>
+
+<ul id="group_55388383">
+	<li id="hiddens_55388383" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="hidestring_55373393"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373393">2 replies</a> beneath your current threshold.</b></noscript></li></ul></li></ul></li><li id="tree_55373363" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373363" class="commentstatus"></div>
+<div id="comment_55373363" class="cw">
+	<div id="comment_top_55373363" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373363" name="comment_link_55373363" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373363" onclick="return D2.setFocusComment(55373363)" >Incentives</a>
+
+
+		 	<span id="comment_score_55373363" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373363); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~JBMcB">JBMcB</a>  <span class="uid"><a href="//slashdot.org/~JBMcB">( 73720 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373363"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373363"><p>Because the government is throwing billions of Yuan indiscriminately into research. There is incentive to get that money. Grants are somewhat less forthcoming in the US, so there is a higher requirement for better quality research.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373363">
+
+</div>
+</div>
+
+<div id="replyto_55373363"></div>
+
+<ul id="group_55373363">
+	<li id="hiddens_55373363" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373363"><li id="tree_55373489" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55373489" class="commentstatus"></div>
+<div id="comment_55373489" class="cw">
+	<div id="comment_top_55373489" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373489" name="comment_link_55373489" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373489" onclick="return D2.setFocusComment(55373489)" >Re:Incentives</a>
+
+
+		 	<span id="comment_score_55373489" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373489); return false"><span class=opt>Score:</span>5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373489">		
+		on Sunday October 15, 2017 @03:16PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373489">#55373489</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373489"><p>Sigh... people talk about research money like the researchers themselves actually profit from it.  99% of the time, researcher salary is fixed completely independently of grant money obtained.</p><p>Instead, we could actually RTFA, the paragraph after...</p><p><div class="quote"><p>As in the West, career advancement can often seem to be based more on the quantity of research papers published rather than the quality. However, in China, scientists there say, this obsession with numerical goal posts can reach extremes. Compounding the problem, they say, is the fact that Chinese universities and research institutes suffer from a lack of oversight, and mete out weak punishments for those who are caught cheating.</p></div></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373489">
+<span class="ind"></span><a id="reply_link_55373489" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373489" onclick="D2.replyTo(55373489); return false;">Reply to This</a> <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=55373363" onclick="return D2.selectParent(55373363)">Parent</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Re:Incentives by Anonymous Coward @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373489" data-title="Re:Incentives">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Re:Incentives by Anonymous Coward" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373489" data-title="Re:Incentives">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Re:Incentives by Anonymous Coward" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373489" data-title="Re:Incentives">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55373489" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55373489" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373489" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55373489"></div>
+
+<ul id="group_55373489">
+	<li id="hiddens_55373489" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373489"><li id="tree_55373507" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373507" class="commentstatus"></div>
+<div id="comment_55373507" class="cw">
+	<div id="comment_top_55373507" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373507" name="comment_link_55373507" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373507" onclick="return D2.setFocusComment(55373507)" >Re:</a>
+
+
+		 	<span id="comment_score_55373507" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373507); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~roc97007">roc97007</a>  <span class="uid"><a href="//slashdot.org/~roc97007">( 608802 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373507"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373507"><p>"researcher salary is fixed completely independently of grant money obtained."</p><p>True.  But they get to have a job, and they get to have their names on stuff.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373507">
+
+</div>
+</div>
+
+<div id="replyto_55373507"></div>
+
+<ul id="group_55373507">
+	<li id="hiddens_55373507" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373507"><li id="tree_55373693" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373693" class="commentstatus"></div>
+<div id="comment_55373693" class="cw">
+</div>
+
+<div id="replyto_55373693"></div>
+
+<ul id="group_55373693">
+	<li id="hiddens_55373693" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373693"><li id="tree_55376901" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55376901" class="commentstatus"></div>
+<div id="comment_55376901" class="cw">
+	<div id="comment_top_55376901" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55376901" name="comment_link_55376901" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55376901" onclick="return D2.setFocusComment(55376901)" >Re:</a>
+
+
+		 	<span id="comment_score_55376901" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55376901); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~shaitand">shaitand</a>  <span class="uid"><a href="//slashdot.org/~shaitand">( 626655 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55376901"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55376901">Do you work as a researcher? This is technically true at most places but in reality being able to afford and justify spending money on you ultimately depends on grants. Also, there are often others working under a researcher on various projects doing research, computation, administering the systems and if funding goes away those people will all be out of the job. Unless they are a sociopath a researcher does feel some level of responsibility for those people.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55376901">
+
+</div>
+</div>
+
+<div id="replyto_55376901"></div>
+
+<ul id="group_55376901">
+	<li id="hiddens_55376901" class="hide"></li>
+</ul>
+
+</li><li id="tree_55377063" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55377063" class="commentstatus"></div>
+<div id="comment_55377063" class="cw">
+</div>
+
+<div id="replyto_55377063"></div>
+
+<ul id="group_55377063">
+	<li id="hiddens_55377063" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373693"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373693">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="hidestring_55373507"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373507">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55376569" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55376569" class="commentstatus"></div>
+<div id="comment_55376569" class="cw">
+</div>
+
+<div id="replyto_55376569"></div>
+
+<ul id="group_55376569">
+	<li id="hiddens_55376569" class="hide"></li>
+</ul>
+
+<ul id="commtree_55376569"><li id="tree_55376917" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55376917" class="commentstatus"></div>
+<div id="comment_55376917" class="cw">
+	<div id="comment_top_55376917" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55376917" name="comment_link_55376917" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55376917" onclick="return D2.setFocusComment(55376917)" >Re:</a>
+
+
+		 	<span id="comment_score_55376917" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55376917); return false"><span class=opt>Score:</span>1</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~shaitand">shaitand</a>  <span class="uid"><a href="//slashdot.org/~shaitand">( 626655 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55376917"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55376917">Right, if you are doing private sector research it is basically the same pressure but all your grants come from a single source. There is a extreme bias in this case which compromises the integrity of your results but it is at least partially tempered by the fact that in general the private sector won't tolerate results that can't be turned into solutions which actually work indefinitely.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55376917">
+
+</div>
+</div>
+
+<div id="replyto_55376917"></div>
+
+<ul id="group_55376917">
+	<li id="hiddens_55376917" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="hidestring_55373489"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373489">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li></ul></li><li id="tree_55373497" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373497" class="commentstatus"></div>
+<div id="comment_55373497" class="cw">
+	<div id="comment_top_55373497" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373497" name="comment_link_55373497" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373497" onclick="return D2.setFocusComment(55373497)" >Re:</a>
+
+
+		 	<span id="comment_score_55373497" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373497); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~RightwingNutjob">RightwingNutjob</a>  <span class="uid"><a href="//slashdot.org/~RightwingNutjob">( 1302813 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373497"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373497">RTFA. The incentives may be the same (in kind, if not in degree), but here there are strong disincentives from faking shit that don't exist over there.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373497">
+
+</div>
+</div>
+
+<div id="replyto_55373497"></div>
+
+<ul id="group_55373497">
+	<li id="hiddens_55373497" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373497"><li id="tree_55374667" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55374667" class="commentstatus"></div>
+<div id="comment_55374667" class="cw">
+	<div id="comment_top_55374667" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374667" name="comment_link_55374667" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374667" onclick="return D2.setFocusComment(55374667)" >Re:</a>
+
+
+		 	<span id="comment_score_55374667" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374667); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~TapeCutter">TapeCutter</a>  <span class="uid"><a href="//slashdot.org/~TapeCutter">( 624760 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374667"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374667">Glad you cleared that up. I would have thought the fact that they have a large number of retractions indicates their peer-review system is working, not failing. For comparison, how long did it take before Andrew Wakefield's "research" was retracted?</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374667">
+
+</div>
+</div>
+
+<div id="replyto_55374667"></div>
+
+<ul id="group_55374667">
+	<li id="hiddens_55374667" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374667"><li id="tree_55375203" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55375203" class="commentstatus"></div>
+<div id="comment_55375203" class="cw">
+	<div id="comment_top_55375203" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55375203" name="comment_link_55375203" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375203" onclick="return D2.setFocusComment(55375203)" >Re:</a>
+
+
+		 	<span id="comment_score_55375203" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55375203); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~SNRatio">SNRatio</a>  <span class="uid"><a href="//slashdot.org/~SNRatio">( 4430571 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55375203"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55375203"><p><div class="quote"><p>I would have thought the fact that they have a large number of retractions indicates their peer-review system is working, not failing.</p><span class="substr"> </span></div><p>Not exactly. Peer review happens before publication, not after. For an article to be retracted it first had to pass peer review. In the case mentioned in the story, the journal (Tumor Biology, which has a US/European editorial board), allows authors to suggest peer reviewers and trusted the contact information they received. It's pretty trivial to verify the email address of a professor in the US or Europe. The retractions happened because these authors used names of real Chinese professors - but fake email</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55375203">
+
+</div>
+</div>
+
+<div id="replyto_55375203"></div>
+
+<ul id="group_55375203">
+	<li id="hiddens_55375203" class="hide"></li>
+</ul>
+
+<ul id="commtree_55375203"><li id="tree_55377017" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55377017" class="commentstatus"></div>
+<div id="comment_55377017" class="cw">
+	<div id="comment_top_55377017" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55377017" name="comment_link_55377017" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55377017" onclick="return D2.setFocusComment(55377017)" >Re:</a>
+
+
+		 	<span id="comment_score_55377017" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55377017); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~shaitand">shaitand</a>  <span class="uid"><a href="//slashdot.org/~shaitand">( 626655 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55377017"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55377017">While it is nice for the journal to effectively run on auto-pilot in that way it seems like a poor plan overall for peer review. Obviously the person submitting the article will be most familiar with those working on the most related research but that is just setting dishonesty as low hanging fruit tempting frustrated researchers to compromise their integrity.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55377017">
+
+</div>
+</div>
+
+<div id="replyto_55377017"></div>
+
+<ul id="group_55377017">
+	<li id="hiddens_55377017" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_55375969" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55375969" class="commentstatus"></div>
+<div id="comment_55375969" class="cw">
+	<div id="comment_top_55375969" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55375969" name="comment_link_55375969" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375969" onclick="return D2.setFocusComment(55375969)" >Re:Incentives are skewed everywhere</a>
+
+
+		 	<span id="comment_score_55375969" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55375969); return false"><span class=opt>Score:</span>5</a>, Informative)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~gtall">gtall</a>  <span class="uid"><a href="//slashdot.org/~gtall">( 79522 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55375969">		
+		on Monday October 16, 2017 @06:31AM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375969">#55375969</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55375969"><p>Maybe it works for Chinese publications. However, Chinese papers don't just get submitted to Chinese publications, they get submitted to journals and conferences outside China. It isn't easy reading a paper for review. Unless you are doing precisely similar research, you must learn enough about the research to know if it is good or not. I read a (Chinese) paper (written in English...well written English, I might add) on rings (mathematics). I'm not a ring theorist but I do know a bit of algebra. I decided I wouldn't just read the paper but track down every result. Marvelous paper except for the first theorem upon which all the rest were based. I couldn't prove it, and I tried hard. Many times papers do not include all the proofs because it would make the paper too long for publication or they are considered trivial in the field.</p><p>After writing and Latexing 15 pages of notes and proofs on the rest of the paper, I radioed back I wanted to see their proof of that theorem. What I got back was a reference and how it was a trivial conclusion from the reference. I found the reference and read it (yet another paper I had to read after tracking down and reading some of their previous refs). I couldn't see it. I radioed back I wanted to see an honest proof, not invocation to a Higher Authority. After 2 months, they retracted the paper. The total time from my first seeing the paper to that retraction was 8 months and several long days of my time....on one paper...</p><p>My point is that few reviewers are going to dig in their heels and properly review a paper, few have that kind of time. After that, I'll be damned if I'm not going to read another paper the same exact way. It will cost me in time, but I'll learn new things and maybe another piece of shit won't make it into a journal.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55375969">
+<span class="ind"></span><a id="reply_link_55375969" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55375969" onclick="D2.replyTo(55375969); return false;">Reply to This</a> <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=55374667" onclick="return D2.selectParent(55374667)">Parent</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Re:Incentives are skewed everywhere by gtall @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55375969" data-title="Re:Incentives are skewed everywhere">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Re:Incentives are skewed everywhere by gtall" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55375969" data-title="Re:Incentives are skewed everywhere">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Re:Incentives are skewed everywhere by gtall" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55375969" data-title="Re:Incentives are skewed everywhere">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55375969" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55375969" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55375969" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55375969"></div>
+
+<ul id="group_55375969">
+	<li id="hiddens_55375969" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li><li id="tree_55373809" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373809" class="commentstatus"></div>
+<div id="comment_55373809" class="cw">
+	<div id="comment_top_55373809" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373809" name="comment_link_55373809" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373809" onclick="return D2.setFocusComment(55373809)" >Re:</a>
+
+
+		 	<span id="comment_score_55373809" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373809); return false"><span class=opt>Score:</span>3</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373809"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373809"><p><div class="quote"><p> I don't see how these skewed incentives are any different in Western countries.</p><span class="substr"> </span></div><p>Presumably you have performed research in both China and in the West and your comment is drawing on your deep knowledge of the educational systems of both countries? No? The ability of slashdotters to hold strong opinions on subjects which they know next to nothing about never ceases to amaze. In China, Master's students must publish a certain number of papers above a certain impact factor in order to graduate. For PhD students, the bar is set higher. Principal investigators are given cash sums - which can</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373809">
+
+</div>
+</div>
+
+<div id="replyto_55373809"></div>
+
+<ul id="group_55373809">
+	<li id="hiddens_55373809" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373809"><li id="tree_55377509" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55377509" class="commentstatus"></div>
+<div id="comment_55377509" class="cw">
+	<div id="comment_top_55377509" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55377509" name="comment_link_55377509" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55377509" onclick="return D2.setFocusComment(55377509)" >Re:</a>
+
+
+		 	<span id="comment_score_55377509" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55377509); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~shaitand">shaitand</a>  <span class="uid"><a href="//slashdot.org/~shaitand">( 626655 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55377509"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55377509">Informative if accurate. Hopefully someone moderates that way.<br><span class="substr"> </span> <br>The GP was likely making a redundant snarky remark about there being a strong incentive to cheat both in the West and in China without details on the Chinese pressures. Based on your details there is even greater incentive to cheat in China although it also remains true that there is a great deal of incentive in the West as well.<br> <br>Even worse than incentive to outright fake data is incentive to be selective about researched topics and slant in the d</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55377509">
+
+</div>
+</div>
+
+<div id="replyto_55377509"></div>
+
+<ul id="group_55377509">
+	<li id="hiddens_55377509" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_55377837" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55377837" class="commentstatus"></div>
+<div id="comment_55377837" class="cw">
+</div>
+
+<div id="replyto_55377837"></div>
+
+<ul id="group_55377837">
+	<li id="hiddens_55377837" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373299"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373299">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373371" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55373371" class="commentstatus"></div>
+<div id="comment_55373371" class="cw">
+	<div id="comment_top_55373371" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373371" name="comment_link_55373371" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373371" onclick="return D2.setFocusComment(55373371)" >Not just about large population </a>
+
+
+		 	<span id="comment_score_55373371" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373371); return false"><span class=opt>Score:</span>3</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~JoshuaZ">JoshuaZ</a>  <span class="uid"><a href="//slashdot.org/~JoshuaZ">( 1134087 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373371">		
+		on Sunday October 15, 2017 @02:47PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373371">#55373371</a>)
+		<small><a href="http://religionsetspolitics.blogspot.com/" title="http://religionsetspolitics.blogspot.com/" class="user_homepage_display">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373371">From the summary:<p><div class="quote"><p>In part, these numbers may simply reflect the enormous scale of the world's most populous nation.</p> </div><p>That is probably part of it, but it is worth emphasizing that that is definitely not all of it. The per a capita retraction rate for China is much higher than it is for other large countries.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373371">
+<span class="ind"></span><a id="reply_link_55373371" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373371" onclick="D2.replyTo(55373371); return false;">Reply to This</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Not just about large population  by JoshuaZ @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373371" data-title="Not just about large population ">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Not just about large population  by JoshuaZ" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373371" data-title="Not just about large population ">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Not just about large population  by JoshuaZ" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373371" data-title="Not just about large population ">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55373371" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55373371" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373371" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55373371"></div>
+
+<ul id="group_55373371">
+	<li id="hiddens_55373371" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373371"><li id="tree_55373735" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373735" class="commentstatus"></div>
+<div id="comment_55373735" class="cw">
+</div>
+
+<div id="replyto_55373735"></div>
+
+<ul id="group_55373735">
+	<li id="hiddens_55373735" class="hide"></li>
+</ul>
+
+</li><li id="tree_55373915" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373915" class="commentstatus"></div>
+<div id="comment_55373915" class="cw">
+</div>
+
+<div id="replyto_55373915"></div>
+
+<ul id="group_55373915">
+	<li id="hiddens_55373915" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373915"><li id="tree_55375471" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55375471" class="commentstatus"></div>
+<div id="comment_55375471" class="cw">
+	<div id="comment_top_55375471" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55375471" name="comment_link_55375471" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375471" onclick="return D2.setFocusComment(55375471)" >Re:</a>
+
+
+		 	<span id="comment_score_55375471" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55375471); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~slashrio">slashrio</a>  <span class="uid"><a href="//slashdot.org/~slashrio">( 2584709 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55375471"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55375471">Yes, for China, divide by 1.2 billion.</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55375471">
+
+</div>
+</div>
+
+<div id="replyto_55375471"></div>
+
+<ul id="group_55375471">
+	<li id="hiddens_55375471" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_55373939" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373939" class="commentstatus"></div>
+<div id="comment_55373939" class="cw">
+</div>
+
+<div id="replyto_55373939"></div>
+
+<ul id="group_55373939">
+	<li id="hiddens_55373939" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374825" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55374825" class="commentstatus"></div>
+<div id="comment_55374825" class="cw">
+	<div id="comment_top_55374825" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374825" name="comment_link_55374825" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374825" onclick="return D2.setFocusComment(55374825)" >Re:</a>
+
+
+		 	<span id="comment_score_55374825" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374825); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~thegarbz">thegarbz</a>  <span class="uid"><a href="//slashdot.org/~thegarbz">( 1787294 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374825"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374825"><p>Genuinely interested, but what about per academic? I suspect it would be high too since much of the Chinese population won't ever get anywhere near a university.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374825">
+
+</div>
+</div>
+
+<div id="replyto_55374825"></div>
+
+<ul id="group_55374825">
+	<li id="hiddens_55374825" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373371"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373371">3 replies</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373419" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373419" class="commentstatus"></div>
+<div id="comment_55373419" class="cw">
+</div>
+
+<div id="replyto_55373419"></div>
+
+<ul id="group_55373419">
+	<li id="hiddens_55373419" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373419"><li id="tree_55374473" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374473" class="commentstatus"></div>
+<div id="comment_55374473" class="cw">
+</div>
+
+<div id="replyto_55374473"></div>
+
+<ul id="group_55374473">
+	<li id="hiddens_55374473" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373419"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373419">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373501" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373501" class="commentstatus"></div>
+<div id="comment_55373501" class="cw">
+	<div id="comment_top_55373501" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373501" name="comment_link_55373501" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373501" onclick="return D2.setFocusComment(55373501)" >"a new international record"</a>
+
+
+		 	<span id="comment_score_55373501" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373501); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~roc97007">roc97007</a>  <span class="uid"><a href="//slashdot.org/~roc97007">( 608802 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373501"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373501"><p>Keep in mind that this only means that China is in first place, not that this is the only place this is happening.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373501">
+
+</div>
+</div>
+
+<div id="replyto_55373501"></div>
+
+<ul id="group_55373501">
+	<li id="hiddens_55373501" class="hide"></li>
+</ul>
+
+</li><li id="tree_55373605" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55373605" class="commentstatus"></div>
+<div id="comment_55373605" class="cw">
+	<div id="comment_top_55373605" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373605" name="comment_link_55373605" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373605" onclick="return D2.setFocusComment(55373605)" >sounds familiar.</a>
+
+
+		 	<span id="comment_score_55373605" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373605); return false"><span class=opt>Score:</span>5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Gravis+Zero">Gravis Zero</a>  <span class="uid"><a href="//slashdot.org/~Gravis+Zero">( 934156 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373605">		
+		on Sunday October 15, 2017 @03:39PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373605">#55373605</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373605"><p><div class="quote"><p>Chinese scientists also blame what they call the skewed incentives they say are embedded within their nation's academic system.</p></div><p>It sounds like they have a similar problem to the US's collapsing "publish or perish" paradigm.  People should be less focused on what the scientists are doing and focus on <b>the cause of such behavior.</b></p><p>To change the behavior of a group <b>you must correct the feedback loops that control them.</b></p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373605">
+<span class="ind"></span><a id="reply_link_55373605" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373605" onclick="D2.replyTo(55373605); return false;">Reply to This</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="sounds familiar. by Gravis Zero @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373605" data-title="sounds familiar.">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="sounds familiar. by Gravis Zero" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373605" data-title="sounds familiar.">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="sounds familiar. by Gravis Zero" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55373605" data-title="sounds familiar.">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55373605" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55373605" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55373605" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55373605"></div>
+
+<ul id="group_55373605">
+	<li id="hiddens_55373605" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373605"><li id="tree_55374205" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55374205" class="commentstatus"></div>
+<div id="comment_55374205" class="cw">
+	<div id="comment_top_55374205" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374205" name="comment_link_55374205" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374205" onclick="return D2.setFocusComment(55374205)" >Re:</a>
+
+
+		 	<span id="comment_score_55374205" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374205); return false"><span class=opt>Score:</span>3</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Peter+Desnoyers">Peter Desnoyers</a>  <span class="uid"><a href="//slashdot.org/~Peter+Desnoyers">( 11115 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374205"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374205"><p><div class="quote"><p><div class="quote"><p>Chinese scientists also blame what they call the skewed incentives they say are embedded within their nation's academic system.</p></div><p>It sounds like they have a similar problem to the US's collapsing "publish or perish" paradigm.  People should be less focused on what the scientists are doing and focus on <b>the cause of such behavior.</b> </p><p>To change the behavior of a group <b>you must correct the feedback loops that control them.</b> </p></div><p>In the US, gross misconduct (like impersonating other scientists in order to review your own papers) is a career death sentence, in part because "publish or perish" is administered by a tenure vote of the people you work with (and compete with), instead of a bean-counting administrator somewhere. There are lots of incentives to do semi-unsavory things - e.g. splitting your work into "least-publishable units", or "P-hacking", where you try every combination of data to see if one of them supports your conclus<span class="substr"> </span></p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374205">
+
+</div>
+</div>
+
+<div id="replyto_55374205"></div>
+
+<ul id="group_55374205">
+	<li id="hiddens_55374205" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374205"><li id="tree_55374687" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55374687" class="commentstatus"></div>
+<div id="comment_55374687" class="cw">
+	<div id="comment_top_55374687" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374687" name="comment_link_55374687" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374687" onclick="return D2.setFocusComment(55374687)" >Re:sounds familiar.</a>
+
+
+		 	<span id="comment_score_55374687" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374687); return false"><span class=opt>Score:</span>5</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374687">		
+		on Sunday October 15, 2017 @09:25PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374687">#55374687</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374687"><p>Oh please spare me.  I'm involved in nutrition research and I see the contortions others go through to support whatever conclusion is best for the corporation helping fund said study.  It's no accident, statistically, when Corporation F funds Study U, that Study U will have an 80% chance to put Corporation F's dubious products in a good or at least neutral light.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374687">
+<span class="ind"></span><a id="reply_link_55374687" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55374687" onclick="D2.replyTo(55374687); return false;">Reply to This</a> <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=55374205" onclick="return D2.selectParent(55374205)">Parent</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Re:sounds familiar. by Anonymous Coward @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374687" data-title="Re:sounds familiar.">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Re:sounds familiar. by Anonymous Coward" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374687" data-title="Re:sounds familiar.">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Re:sounds familiar. by Anonymous Coward" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374687" data-title="Re:sounds familiar.">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55374687" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55374687" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55374687" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55374687"></div>
+
+<ul id="group_55374687">
+	<li id="hiddens_55374687" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374869" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55374869" class="commentstatus"></div>
+<div id="comment_55374869" class="cw">
+	<div id="comment_top_55374869" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374869" name="comment_link_55374869" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374869" onclick="return D2.setFocusComment(55374869)" >Re:</a>
+
+
+		 	<span id="comment_score_55374869" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374869); return false"><span class=opt>Score:</span>2</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span>Anonymous Coward</span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374869"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374869"><p><div class="quote"><p>In the US, gross misconduct (like impersonating other scientists in order to review your own papers) is a career death sentence, in part because "publish or perish" is administered by a tenure vote of the people you work with (and compete with), instead of a bean-counting administrator somewhere.</p></div><p> <span class="substr"> </span><a href="https://science.slashdot.org/story/15/02/13/2113248/unearthing-fraud-in-medical-trials" title="slashdot.org" rel="nofollow">https://science.slashdot.org/story/15/02/13/2113248/unearthing-fraud-in-medical-trials</a> [slashdot.org] </p><p>you new to the research thing?</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374869">
+
+</div>
+</div>
+
+<div id="replyto_55374869"></div>
+
+<ul id="group_55374869">
+	<li id="hiddens_55374869" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374869"><li id="tree_55378897" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55378897" class="commentstatus"></div>
+<div id="comment_55378897" class="cw">
+	<div id="comment_top_55378897" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55378897" name="comment_link_55378897" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55378897" onclick="return D2.setFocusComment(55378897)" >Re:</a>
+
+
+		 	<span id="comment_score_55378897" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55378897); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Peter+Desnoyers">Peter Desnoyers</a>  <span class="uid"><a href="//slashdot.org/~Peter+Desnoyers">( 11115 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55378897"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55378897"><p>Sorry, I'm used to my area of research - computer science - which is a hell of a lot less shady, at least in the US. (probably because almost all the money is being made totally outside of academic and research settings)</p><p>The article you link makes me wonder whether there's a way that publishers (e.g. NEJM and JAMA) could force clinical trial data out into the open. If it were a requirement for publication in the top venues, then the drug companies would have to either 'fess up or work with second-rate resear<span class="substr"> </span></p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55378897">
+
+</div>
+</div>
+
+<div id="replyto_55378897"></div>
+
+<ul id="group_55378897">
+	<li id="hiddens_55378897" class="hide"></li>
+</ul>
+
+</li></ul></li></ul></li></ul></li><li id="tree_55373679" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373679" class="commentstatus"></div>
+<div id="comment_55373679" class="cw">
+</div>
+
+<div id="replyto_55373679"></div>
+
+<ul id="group_55373679">
+	<li id="hiddens_55373679" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373679"><li id="tree_55374039" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374039" class="commentstatus"></div>
+<div id="comment_55374039" class="cw">
+</div>
+
+<div id="replyto_55374039"></div>
+
+<ul id="group_55374039">
+	<li id="hiddens_55374039" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55373679"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55373679">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55373839" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55373839" class="commentstatus"></div>
+<div id="comment_55373839" class="cw">
+	<div id="comment_top_55373839" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55373839" name="comment_link_55373839" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55373839" onclick="return D2.setFocusComment(55373839)" >97% of scientists agree</a>
+
+
+		 	<span id="comment_score_55373839" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55373839); return false"><span class=opt>Score:</span>1</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~SlaveToTheGrind">SlaveToTheGrind</a>  <span class="uid"><a href="//slashdot.org/~SlaveToTheGrind">( 546262 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55373839"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55373839"><p>that "peer review" sounds infinitely more sophisticated and credible than "mutual back-scratching."</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55373839">
+
+</div>
+</div>
+
+<div id="replyto_55373839"></div>
+
+<ul id="group_55373839">
+	<li id="hiddens_55373839" class="hide"></li>
+</ul>
+
+</li><li id="tree_55373843" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373843" class="commentstatus"></div>
+<div id="comment_55373843" class="cw">
+</div>
+
+<div id="replyto_55373843"></div>
+
+<ul id="group_55373843">
+	<li id="hiddens_55373843" class="hide"></li>
+</ul>
+
+<ul id="commtree_55373843"><li id="tree_55418557" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55418557" class="commentstatus"></div>
+<div id="comment_55418557" class="cw">
+	<div id="comment_top_55418557" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55418557" name="comment_link_55418557" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55418557" onclick="return D2.setFocusComment(55418557)" >Re:</a>
+
+
+		 	<span id="comment_score_55418557" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55418557); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~SunTzuWarmaster">SunTzuWarmaster</a>  <span class="uid"><a href="//slashdot.org/~SunTzuWarmaster">( 930093 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55418557"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55418557"><p>Editor: "Please suggest 8 people to review your work"<br>Researcher: "Okay, I suggest WellKnownResearcher, their mailing address [POBox that I own], and their E-mail address [WellKnownResearcherTopic@yahoo.com, an E-mail I just registered]"<br>Editor: "To:WellKnownResearcherTopic@yahoo.com    Body: Dear WellKnownResearcher, what do you think of this paper?"<br>Researcher: "Wow.  What great results.  You should totally 100% publish this in your journal because it is, like, totally legit.  Here are some ways in which it<span class="substr"> </span></p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55418557">
+
+</div>
+</div>
+
+<div id="replyto_55418557"></div>
+
+<ul id="group_55418557">
+	<li id="hiddens_55418557" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_55373907" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55373907" class="commentstatus"></div>
+<div id="comment_55373907" class="cw">
+</div>
+
+<div id="replyto_55373907"></div>
+
+<ul id="group_55373907">
+	<li id="hiddens_55373907" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374057" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374057" class="commentstatus"></div>
+<div id="comment_55374057" class="cw">
+</div>
+
+<div id="replyto_55374057"></div>
+
+<ul id="group_55374057">
+	<li id="hiddens_55374057" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374233" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55374233" class="commentstatus"></div>
+<div id="comment_55374233" class="cw">
+	<div id="comment_top_55374233" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374233" name="comment_link_55374233" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374233" onclick="return D2.setFocusComment(55374233)" >Can't fake everything...</a>
+
+
+		 	<span id="comment_score_55374233" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374233); return false"><span class=opt>Score:</span>5</a>, Funny)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Peter+Desnoyers">Peter Desnoyers</a>  <span class="uid"><a href="//slashdot.org/~Peter+Desnoyers">( 11115 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374233">		
+		on Sunday October 15, 2017 @06:35PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374233">#55374233</a>)
+		<small><a href="http://fred.cambridge.ma.us/" title="http://fred.cambridge.ma.us/" class="user_homepage_display">Homepage</a> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374233"><p>Gotta love this quote from one of the linked articles:</p><p>"When a lot of the fake peer reviews first came up, one of the reasons the editors spotted them was that the reviewers responded on time"</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374233">
+<span class="ind"></span><a id="reply_link_55374233" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55374233" onclick="D2.replyTo(55374233); return false;">Reply to This</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Can't fake everything... by Peter Desnoyers @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374233" data-title="Can't fake everything...">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Can't fake everything... by Peter Desnoyers" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374233" data-title="Can't fake everything...">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Can't fake everything... by Peter Desnoyers" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374233" data-title="Can't fake everything...">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55374233" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55374233" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55374233" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55374233"></div>
+
+<ul id="group_55374233">
+	<li id="hiddens_55374233" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374423" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55374423" class="commentstatus"></div>
+<div id="comment_55374423" class="cw">
+	<div id="comment_top_55374423" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374423" name="comment_link_55374423" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374423" onclick="return D2.setFocusComment(55374423)" >And in a related story</a>
+
+
+		 	<span id="comment_score_55374423" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374423); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~mnemotronic">mnemotronic</a>  <span class="uid"><a href="//slashdot.org/~mnemotronic">( 586021 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374423"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374423">The Saint Petersburg-based Internet Research Agency (IRA) announced the closure of operations that for the past 4 years have been targeting subscribers and users of Twitter, Reddit and Facebook.  According to Agency General Directory Vyascheslav Fontyaev, "The minds of the American public are now under our control via other channels.  We no longer need to use artificial Facebook or Twitter accounts to obtain our political targets".  Last Saturday the agency claims it had closed or deleted all of it algorith</div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374423">
+
+</div>
+</div>
+
+<div id="replyto_55374423"></div>
+
+<ul id="group_55374423">
+	<li id="hiddens_55374423" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374423"><li id="tree_55375963" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55375963" class="commentstatus"></div>
+<div id="comment_55375963" class="cw">
+</div>
+
+<div id="replyto_55375963"></div>
+
+<ul id="group_55375963">
+	<li id="hiddens_55375963" class="hide"></li>
+</ul>
+
+<ul id="commtree_55375963"><li id="tree_55401775" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55401775" class="commentstatus"></div>
+<div id="comment_55401775" class="cw">
+	<div id="comment_top_55401775" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55401775" name="comment_link_55401775" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55401775" onclick="return D2.setFocusComment(55401775)" >Re:</a>
+
+
+		 	<span id="comment_score_55401775" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55401775); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~mnemotronic">mnemotronic</a>  <span class="uid"><a href="//slashdot.org/~mnemotronic">( 586021 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55401775"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55401775"><blockquote><div><p>I hope you didn't spend too much time writing that as it didn't turn out very well.</p></div></blockquote><p>
+Yea.  TMI.  Gotta learn to get to the point or punch line.  Or in this case, have one.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55401775">
+
+</div>
+</div>
+
+<div id="replyto_55401775"></div>
+
+<ul id="group_55401775">
+	<li id="hiddens_55401775" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="hidestring_55374423"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55374423">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55374469" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374469" class="commentstatus"></div>
+<div id="comment_55374469" class="cw">
+</div>
+
+<div id="replyto_55374469"></div>
+
+<ul id="group_55374469">
+	<li id="hiddens_55374469" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374547" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55374547" class="commentstatus"></div>
+<div id="comment_55374547" class="cw">
+</div>
+
+<div id="replyto_55374547"></div>
+
+<ul id="group_55374547">
+	<li id="hiddens_55374547" class="hide"></li>
+</ul>
+
+</li><li id="tree_55374863" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55374863" class="commentstatus"></div>
+<div id="comment_55374863" class="cw">
+	<div id="comment_top_55374863" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55374863" name="comment_link_55374863" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374863" onclick="return D2.setFocusComment(55374863)" >More fake biology/medical research</a>
+
+
+		 	<span id="comment_score_55374863" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55374863); return false"><span class=opt>Score:</span>5</a>, Interesting)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~riverat1">riverat1</a>  <span class="uid"><a href="//slashdot.org/~riverat1">( 1048260 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55374863">		
+		on Sunday October 15, 2017 @10:17PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55374863">#55374863</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55374863"><p>One thing I see when I look at faked research and retractions of papers is that it often is in biology and medical research or things like sociology.  In the hard sciences like physics, chemistry, astronomy, geology, meteorology and dare I say it climatology it doesn't seem to happen nearly as often.  Maybe it's harder to fake the data in those sciences or maybe there's just more variability open to interpretation in the results from biology/medicine.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55374863">
+<span class="ind"></span><a id="reply_link_55374863" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55374863" onclick="D2.replyTo(55374863); return false;">Reply to This</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="More fake biology/medical research by riverat1 @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374863" data-title="More fake biology/medical research">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="More fake biology/medical research by riverat1" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374863" data-title="More fake biology/medical research">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="More fake biology/medical research by riverat1" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55374863" data-title="More fake biology/medical research">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55374863" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55374863" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55374863" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55374863"></div>
+
+<ul id="group_55374863">
+	<li id="hiddens_55374863" class="hide"></li>
+</ul>
+
+<ul id="commtree_55374863"><li id="tree_55375311" class="comment full contain"><span class="ind"></span>
+<div id="comment_status_55375311" class="commentstatus"></div>
+<div id="comment_55375311" class="cw">
+	<div id="comment_top_55375311" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55375311" name="comment_link_55375311" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375311" onclick="return D2.setFocusComment(55375311)" >Re:More fake biology/medical research</a>
+
+
+		 	<span id="comment_score_55375311" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55375311); return false"><span class=opt>Score:</span>4</a>, Insightful)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~SNRatio">SNRatio</a>  <span class="uid"><a href="//slashdot.org/~SNRatio">( 4430571 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55375311">		
+		on Monday October 16, 2017 @01:23AM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375311">#55375311</a>)
+		<small> </small>
+</span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55375311"><p><div class="quote"><p>One thing I see when I look at faked research and retractions of papers is that it often is in biology and medical research or things like sociology.  In the hard sciences like physics, chemistry, astronomy, geology, meteorology and dare I say it climatology it doesn't seem to happen nearly as often.  Maybe it's harder to fake the data in those sciences or maybe there's just more variability open to interpretation in the results from biology/medicine.</p></div><p>I think a big part is that when it's medicine the media is more likely to pick up the story.  Jan Hendrik Sch&#246;n was one of the biggest scandals - but it didn't really make a big splash in the news because solid state physics just isn't something most people get worked up about. Ditto for Adrian Maxim. So unless you are a regular at Retraction Watch,  you hear about Wakefield and Hwang Woo-Suk (cloning), but not about physics or engineering fraud.</p><p>
+
+I also wonder if the problem is really that much worse than it was in the past. Granted, academia is more competitive than it used to be. But really, the big change is that it is so much easier to find fraud than it was in the past. You're right - it is not that hard to make some fake data for a biology paper. You photoshop the picture of your gel (a technique for showing which proteins are present in a sample and whether they are interacting with each other) to show the results you want. 30 or 40 years ago: same thing, though you would have had to do it manually. But now image analysis can catch that easily. Ditto for plagiarism. Ditto for analyzing sets of numbers to see if they were observed or invented. And because it is easier to examine for fraud, and fraud is actually routinely talked about, more people are looking for it than in the past. Now, fraud stands a good chance of being caught. Back then: not so much.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55375311">
+<span class="ind"></span><a id="reply_link_55375311" class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=Reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55375311" onclick="D2.replyTo(55375311); return false;">Reply to This</a> <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=55374863" onclick="return D2.selectParent(55374863)">Parent</a> 	<a href="#" class="comment_share_toggle btn link">Share</a>
+	<div class="comment_share sharethis-0 hide"><span class="au"></span>
+		<a class="janrain t" href="#" data-provider="twitter" data-message="Re:More fake biology/medical research by SNRatio @slashdot" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55375311" data-title="Re:More fake biology/medical research">twitter</a>
+		<a class="janrain f" href="#" data-provider="facebook" data-message="Re:More fake biology/medical research by SNRatio" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55375311" data-title="Re:More fake biology/medical research">facebook</a>
+		<a class="janrain l" href="#" data-provider="linkedin" data-message="Re:More fake biology/medical research by SNRatio" data-url="https://science.slashdot.org/comments.pl?sid=11236517&cid=55375311" data-title="Re:More fake biology/medical research">linkedin</a>
+		<a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=11236517%26cid=55375311" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="//www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	</div>
+ <span class="ind"></span><a id="reply_link_55375311" title="Flag this comment as Inappropriate" class="ui-icon flag fright" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=flag&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=55375311" onclick="return false;">Flag as Inappropriate</a>
+</div>
+</div>
+
+<div id="replyto_55375311"></div>
+
+<ul id="group_55375311">
+	<li id="hiddens_55375311" class="hide"></li>
+</ul>
+
+<ul id="commtree_55375311"><li id="tree_55375431" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55375431" class="commentstatus"></div>
+<div id="comment_55375431" class="cw">
+	<div id="comment_top_55375431" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55375431" name="comment_link_55375431" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55375431" onclick="return D2.setFocusComment(55375431)" >Re:</a>
+
+
+		 	<span id="comment_score_55375431" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55375431); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~riverat1">riverat1</a>  <span class="uid"><a href="//slashdot.org/~riverat1">( 1048260 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55375431"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55375431"><p>It always surprises me that smart guys like most scientists are think they can get away with stuff like that.  After all sooner or later some one else is likely going to try and use their results and discover their fraud especially it it appears to be ground breaking research.</p><p>Also it's true that sometimes retractions are a result of honest mistakes that weren't caught by peer review rather than by attempted fraud.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55375431">
+
+</div>
+</div>
+
+<div id="replyto_55375431"></div>
+
+<ul id="group_55375431">
+	<li id="hiddens_55375431" class="hide"></li>
+</ul>
+
+</li><li id="tree_55377201" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55377201" class="commentstatus"></div>
+<div id="comment_55377201" class="cw">
+</div>
+
+<div id="replyto_55377201"></div>
+
+<ul id="group_55377201">
+	<li id="hiddens_55377201" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_55375311"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=55375311">1 reply</a> beneath your current threshold.</b></noscript></li></ul></li><li id="tree_55378981" class="comment oneline"><span class="ind"></span>
+<div id="comment_status_55378981" class="commentstatus"></div>
+<div id="comment_55378981" class="cw">
+	<div id="comment_top_55378981" class="commentTop newcomment">
+		<div class="title">
+			<h4><a id="comment_link_55378981" name="comment_link_55378981" href="//science.slashdot.org/comments.pl?sid=11236517&amp;cid=55378981" onclick="return D2.setFocusComment(55378981)" >Re:</a>
+
+
+		 	<span id="comment_score_55378981" class="score"> (<a href="#" onclick="getModalPrefs('modcommentlog', 'Moderation Comment Log', 55378981); return false"><span class=opt>Score:</span>2</a>)</span></h4>
+		</div>
+		<div class="details">
+			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Peter+Desnoyers">Peter Desnoyers</a>  <span class="uid"><a href="//slashdot.org/~Peter+Desnoyers">( 11115 )</a></span></a></span><span class="writes" style="display:none"> writes:</span> 
+			<span class="otherdetails" id="comment_otherdetails_55378981"></span>
+		</div>
+	</div>
+	<div class="commentBody">
+		<div id="comment_body_55378981"><p>In the hard sciences there are few companies that make money off of the success or failure of an academic research project.</p><p>That doesn't explain sociology; however searching through retractionwatch.com I'm not sure how much misconduct there is in that field (at least within the US and western Europe) as opposed to just plain errors. Which shouldn't be surprising in a field with small sample sizes, poor funding, and high noise.</p></div>
+	</div>
+
+	<div class="commentSub" id="comment_sub_55378981">
+
+</div>
+</div>
+
+<div id="replyto_55378981"></div>
+
+<ul id="group_55378981">
+	<li id="hiddens_55378981" class="hide"></li>
+</ul>
+
+</li></ul></li><li id="tree_55375279" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55375279" class="commentstatus"></div>
+<div id="comment_55375279" class="cw">
+</div>
+
+<div id="replyto_55375279"></div>
+
+<ul id="group_55375279">
+	<li id="hiddens_55375279" class="hide"></li>
+</ul>
+
+</li><li id="tree_55375371" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55375371" class="commentstatus"></div>
+<div id="comment_55375371" class="cw">
+</div>
+
+<div id="replyto_55375371"></div>
+
+<ul id="group_55375371">
+	<li id="hiddens_55375371" class="hide"></li>
+</ul>
+
+</li><li id="tree_55377447" class="comment hidden"><span class="ind"></span>
+<div id="comment_status_55377447" class="commentstatus"></div>
+<div id="comment_55377447" class="cw">
+</div>
+
+<div id="replyto_55377447"></div>
+
+<ul id="group_55377447">
+	<li id="hiddens_55377447" class="hide"></li>
+</ul>
+
+</li><li id="hidestring_0"><noscript><b class='more'><span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=11236517&amp;threshold=-1&amp;commentsort=0&amp;mode=thread&amp;pid=0">12 replies</a> beneath your current threshold.</b></noscript></li>
+			<li id="roothiddens" class="hide"></li>
+		</ul>
+	
+	
+	
+	
+
+<noscript><p><b>There may be more comments in this discussion. Without JavaScript enabled, you might want to <a href="//science.slashdot.org/users.pl?op=editcomm">turn on Classic Discussion System</a> in your preferences instead.</b></p></noscript>
+<div id="discussion_buttons" class="clearfix">
+
+
+
+
+
+
+</div>
+
+
+<div class="newcmnt"><div id="replyto_0"></div></div>
+
+
+	<script type="text/javascript">
+<!--
+		D2.currents()['hidden']   = 37;
+		D2.currents()['full']     = 9;
+		D2.currents()['oneline']  = 29;
+		// D2.currents_total(75);
+
+		D2.abbrev_comments({55374423:512,55377509:66,55375203:163,55378897:522,55376451:119,55377913:522,55374205:1023,55418557:526,55374869:336,55373809:109});
+		D2.noshow_comments([55373293,55373399,55374049,55374459,55374963,55375451,55377411,55373977,55375055,55373655,55374027,55374421,55384967,55373297,55373713,55373725,55373693,55377063,55376569,55377837,55373735,55373915,55373939,55373419,55374473,55373679,55374039,55373843,55373907,55374057,55375963,55374469,55374547,55377201,55375279,55375371,55377447]);
+		D2.pieces_comments([55373521,55377913,55376451,55375469,55373319,55373393,55388383,55373363,55373507,55376901,55376917,55373497,55374667,55375203,55377017,55373809,55377509,55375471,55374825,55373501,55374205,55374869,55378897,55373839,55418557,55374423,55401775,55375431,55378981]);
+		D2.init_hiddens([55374049,55374963,55373521,55373399,55373655,55375469,55373293,55373393,55373693,55373507,55373489,55373299,55373371,55373419,55373679,55374423,55375311,0]);
+
+		D2.finishLoading();
+
+
+		if (D2.thresh_totals()[6][6][1] == 0) {
+			D2.replyTo(0, 1);
+		}
+
+
+//-->
+	</script>
+
+
+</div>
+
+
+
+	
+	
+		<div id="clickgen" class="grid_24 b">
+    <section class="grid_16 f">
+        <div>
+			<h4 class="nobg">
+			    <a href="" class="selected btmrel" onClick="getRelatedStoriesForStory(332421);return false">Related Links</a>
+			    <span class="tops fright">Top of the: <a href="" class="btmday" onClick="getTopStories(1);return false">day</a>, <a class="btmweek" href="" onClick="getTopStories(7); return false">week</a>, <a href="" onClick="getTopStories(30);return false" class="btmmonth">month</a>.</span>
+			</h4>
+			<ul class="nobullets bmrelatedlist">
+
+
+	
+	<li>
+		<span class="cmntcnt"><span class="slant"></span><span>737<span class="hide"> comments</span></span></span><a href="//science.slashdot.org/story/17/05/31/1213234/trump-is-pulling-us-out-of-paris-climate-deal-sources?sdsrc=popbyskidbtmprev">Trump Is Pulling US Out of Paris Climate Deal: Sources</a>
+	</li>
+
+	
+	<li>
+		<span class="cmntcnt"><span class="slant"></span><span>711<span class="hide"> comments</span></span></span><a href="//science.slashdot.org/story/16/11/07/2343200/leaked-nasa-paper-suggests-the-impossible-em-drive-really-does-work?sdsrc=popbyskidbtmprev">Leaked NASA Paper Suggests The 'Impossible' EM Drive Really Does Work</a>
+	</li>
+
+	
+	<li>
+		<span class="cmntcnt"><span class="slant"></span><span>685<span class="hide"> comments</span></span></span><a href="//science.slashdot.org/story/17/05/22/1511234/science-must-clean-up-its-act?sdsrc=popbyskidbtmprev">'Science Must Clean Up Its Act'</a>
+	</li>
+
+	
+	<li>
+		<span class="cmntcnt"><span class="slant"></span><span>644<span class="hide"> comments</span></span></span><a href="//science.slashdot.org/story/17/09/03/0141257/google-conducted-hollywood-interventions-to-change-look-of-computer-scientists?sdsrc=popbyskidbtmprev">Google Conducted Hollywood 'Interventions' To Change Look of Computer Scientists</a>
+	</li>
+
+	
+	<li>
+		<span class="cmntcnt"><span class="slant"></span><span>627<span class="hide"> comments</span></span></span><a href="//science.slashdot.org/story/17/02/13/0248240/us-born-nasa-scientist-detained-at-the-border-until-he-unlocked-his-phone?sdsrc=popbyskidbtmprev">US-Born NASA Scientist Detained At The Border Until He Unlocked His Phone</a>
+	</li>
+
+
+</ul>
+        </div>
+    </section>
+    <aside class="grid_8 st">
+		<section class="grid_24 f">
+			<div>
+				<h5 class="tlnav"><a href="//apple.slashdot.org/story/17/10/15/1710234/apples-tim-cook-shares-what-he-learned-from-steve-jobs?sdsrc=nextbtmnext">next</a></h5>
+				<div class="grid_24">
+	    
+	    
+            	 <span class="grid_7 tcenter"><img src="//a.fsdn.com/sd/topics/business_64.png" width="64" height="64" alt="Businesses"></span>
+	    
+					<p class="grid_12"><a href="//apple.slashdot.org/story/17/10/15/1710234/apples-tim-cook-shares-what-he-learned-from-steve-jobs?sdsrc=nextbtmprev">Apple's Tim Cook Shares What He Learned From Steve Jobs</a></p>
+					<span class="grid_5 tcenter comments"><span class="cmntcnt_large fleft"><span class="slant"></span><span>169<span class="hide"> comments</span></span></span></span>
+	
+				</div>
+			</div>
+		</section>
+		<section class="grid_24">
+			<div>
+				<h5 class="tlnav"><a href="//tech.slashdot.org/story/17/10/15/158227/elon-musk-teases-reddit-with-bad-answers-about-bfr-rocket?sdsrc=prevbtmprev">previous</a></h5>
+				<div class="grid_24">
+	    
+            	 <span class="grid_7 tcenter"><img src="//a.fsdn.com/sd/topics/social_64.png" width="64" height="64" alt="Social Networks"></span>
+	    
+					<p class="grid_12"><a href="//tech.slashdot.org/story/17/10/15/158227/elon-musk-teases-reddit-with-bad-answers-about-bfr-rocket?sdsrc=prevbtmprev">Elon Musk Teases Reddit With Bad Answers About BFR Rocket</a></p>
+
+					<span class="grid_5 tcenter comments"><span class="cmntcnt_large fleft"><span class="slant"></span><span>100<span class="hide"> comments</span></span></span></span>
+				</div>
+			</div>
+		</section>
+	</aside>
+</div>
+		<div id="taboola-below-article-text-links"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'text-links-a',
+		container: 'taboola-below-article-text-links',
+		placement: 'Below Article Text Links',
+		target_type: 'mix'
+});
+</script>
+	
+
+</section>
+			</div>
+		</div>
+		<div class="row top-space">
+
+
+			<div class="grid_24">
+				<!-- 728px ad -->
+
+				<div class="adwrap">
+<div id='div-gpt-ad-728x90_c'><script type='text/javascript'>
+googletag.cmd.push(function(){
+googletag.display('div-gpt-ad-728x90_c');});</script></div>
+</div>
+				<!-- end 728px ad -->
+				<!-- Slashdot Deals 6 Best Sellers -->
+					<div class="row deals-footer">
+						<div class="units-8 indent-2 deals-wrapper">
+						  <div class="deals-header"><h1>Slashdot Top Deals</h1></div>
+						  <div id="deals-output">
+							<script id="deals-template" type="text/x-handlebars-template">
+							  {{#each deal}}
+								<div class="deal">
+								  <a href="{{urlPath permalink}}?&utm_source=slashdot.org&utm_medium=dealfeed-footerfeed&utm_campaign={{slug}}" target="_blank">
+								  	<img src="{{main_image}}" alt="" />
+								  </a>
+								  <p class="title"><a href="{{urlPath permalink}}?&utm_source=slashdot.org&utm_medium=dealfeed-footerfeed&utm_campaign={{slug}}" target="_blank">{{title}}</a></p>
+								  <p class="deal-price">{{centConversion price_in_cents}}</p>
+								</div>
+							  {{/each}}
+							</script>
+						  </div>
+						</div>
+					</div>
+					<script>
+						if ( isAdBlockActive ) {
+							$.getScript( "//a.fsdn.com/sd/js/scripts/min/deals-min.js", function(){
+								runDealsWidget();
+							});
+						}
+					</script>
+
+					<!-- End Slashdot Deals 6 Best Sellers -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- SMACKS: END COMMENTS SECTION -->
+</div>
+<!-- SMACKS: END COMMENTS CONTAINER -->
+
+
+	
+
+<script type="text/javascript">
+
+$(function(){
+$('#firehose-filter').
+	focus(function(event){
+		gFocusedText = this;
+	}).
+	blur(function(event){
+		if ( gFocusedText === this ) {
+			gFocusedText = null;
+		}
+	});
+
+
+apply_updates_when(		'at-end', true);
+});
+</script>
+
+
+<!-- body end --><!-- footer type=current begin -->
+	
+	</section>
+	
+	
+
+
+	<footer id="fhft" class="grid_24 nf aoc">
+		<div id="logo_nf" class="fleft">
+			<a href="//slashdot.org"><span>Slashdot</span></a>
+		</div>
+		<nav role="firehose footer">
+			
+				
+				
+				
+				
+
+				
+						<span class="ind"></span><a class="btn first" href="//science.slashdot.org/comments.pl?sid=11236517&amp;op=reply&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;pid=" onclick="D2.replyTo(0); return false;">Post</a>
+				
+				<a class="btn hide" id="footer_moderate_button">Moderate</a>
+				<a class="btn hide" id="footer_moderatorhelp_button">Moderator Help</a>
+				<a class="btn hide" id="footer_delete_button" title="Checked comments will be deleted.">Delete</a>
+				<script>
+					(function($){
+						var old_moderate_btn = $("#discussion_moderate_button");
+						if (old_moderate_btn.length) {
+							var moderate_btn = $("#footer_moderate_button");
+							moderate_btn.click(
+								function(){old_moderate_btn.click()}
+							);
+							moderate_btn.removeClass('hide');
+						}
+
+						var old_moderatorhelp_btn = $("#discussion_moderatorhelp_button");
+						if (old_moderatorhelp_btn.length) {
+							var moderatorhelp_btn = $("#footer_moderatorhelp_button");
+							moderatorhelp_btn.click(
+								function(){old_moderatorhelp_btn.click()}
+							);
+							moderatorhelp_btn.attr(
+								'href', old_moderatorhelp_btn.attr('href')
+							);
+							moderatorhelp_btn.removeClass('hide');
+						}
+
+						var old_delete_btn = $("#discussion_delete_button");
+						if (old_delete_btn.length) {
+							var delete_btn = $("#footer_delete_button");
+							delete_btn.click(
+								function(){old_delete_btn.click()}
+							);
+							delete_btn.removeClass('hide');
+						}
+
+						$('#discussion_buttons').addClass('hide');
+					})(Slash.jQuery); // (function($){
+				</script>
+				<ul class="fleft">
+					
+						<li class="fleft selected">
+							<span class="nbutton btn hide link reset" id="more_comments_button">
+								<a href="#" onclick="D2.ajaxFetchComments(0,1); return false">
+									<span id="more_comments_num_a" class="hide">Get more comments</span>
+								</a>
+							</span>
+						</li>
+					
+					
+						<li class="fleft">
+							<span class="loadedcommentcnt">75</span> of <span class="totalcommentcnt">75</span> loaded
+						</li>
+					
+				</ul>
+				
+					<script type="text/javascript">D2.finishLoading()</script>
+				
+			
+
+			
+			<ul class="fright submitstory">
+					<li class="fright">
+						<a href="/submit">Submit<span class="opt"> Story</span></a>
+					</li>
+			</ul>
+		</nav>
+		
+
+
+	</footer>
+	<section class="bq">
+		<blockquote class="msg grid_24" cite="https://slashdot.org">
+			<p>The world is coming to an end.  Please log off.</p>
+			<span class="slant"></span>
+		</blockquote>
+	</section>
+	<footer id="ft" class="grid_24">
+		<nav class="grid_10" role="footer">
+			<ul>
+				<li><a href="//slashdot.org/faq">FAQ</a></li>
+				<li><a href="//slashdot.org/archive.pl">Story Archive</a></li>
+				<li><a href="//slashdot.org/hof.shtml">Hall of Fame</a></li>
+				<li><a href="http://slashdotmedia.com/advertising-and-marketing-services/">Advertising</a></li>
+				<li><a href="http://slashdotmedia.com/terms-of-use/">Terms</a></li>
+				<li><a href="http://slashdotmedia.com/privacy-statement/">Privacy</a></li>
+				<li id="teconsent"></li>
+				<li><a href="http://slashdotmedia.com/opt-out-choices/">Opt Out Choices</a></li>
+				<li><a href="//slashdot.org/faq/slashmeta.shtml">About</a></li>
+				<li><a href="mailto:feedback@slashdot.org">Feedback</a></li>
+				<li><a href="#" onclick="set_mobile_pref('mobile',1);return false;">Mobile View</a></li>
+				<li><a href="//slashdot.org/blog">Blog</a></li>
+			</ul>
+		</nav>
+		<br>
+		
+		<div class="grid_14 tright tm">Trademarks property of their respective owners. Comments owned by the poster. <span class="nobr">Copyright &copy; 2017 SlashdotMedia. All Rights Reserved.</span></div>
+                <script type="text/javascript" src="//consent-st.truste.com/get?name=notice.js&amp;domain=slashdot.org&amp;c=teconsent&amp;text=true"></script>
+	</footer>
+
+	
+	<div class="overlay"></div>
+<div class="modal-box">
+    <a href="#" id="close-modal">Close</a>
+    <article class="modal-content">
+    </article>
+    <footer>
+</div>
+
+
+
+
+<div id="modal_cover" class="hide" onclick="hide_modal_box(); return false;"></div>
+<div id="modal_box" class="hide">
+      <div id="modal_box_content"></div>
+      <header class="n">
+                  <span class="fadeout"></span>
+                  <span class="fadeoutfade"></span>
+		  <span class="pf"><a class="ico close" onclick="hide_modal_box(); return false;" href="#"><span>Close</span></a></span>
+		  <h3 class="pf"><div id="logo"><a href="//slashdot.org">Slashdot</a></div><span id="preference_title"></span></h3>
+      </header>
+</div>
+	
+	<!-- CCM Tag -->
+<script type="text/javascript">
+  (function () {
+    /*global _ml:true, window */
+    _ml = window._ml || {};
+    _ml.eid = '771';
+
+    var s = document.getElementsByTagName('script')[0], cd = new Date(), mltag = document.createElement('script');
+    mltag.type = 'text/javascript'; mltag.async = true;
+    mltag.src = '//ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth() + cd.getFullYear();
+    s.parentNode.insertBefore(mltag, s);
+  })();
+</script>
+<!-- End CCM Tag -->
+
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-32013-5";
+
+var _gaq = _gaq || [];
+
+
+
+
+
+  _gaq.push(['_setAccount', 'UA-36136016-1']);
+  _gaq.push(['b._setAccount', 'UA-32013-5']);
+  _gaq.push(['_setDomainName', '.slashdot.org']);
+  _gaq.push(['b._setDomainName', '.slashdot.org']);
+
+	
+		_gaq.push(['_addIgnoredRef', 'slashdot.org']);
+		_gaq.push(['b._addIgnoredRef', 'slashdot.org']);
+	
+
+
+  _gaq.push(['_setCustomVar', 1, 'User Type',  'Anon', 3]);
+  _gaq.push(['b._setCustomVar', 1, 'User Type',  'Anon', 3]);		
+	
+	_gaq.push(['_setCustomVar', 2, 'Page','article2', 3]);
+	_gaq.push(['b._setCustomVar', 2, 'Page','article2', 3]);
+
+	
+
+
+
+// track beta behavior for user
+var betamatches = document.cookie.match(/betagroup=(-?\d+)/);
+
+if(betamatches && betamatches[1]) {
+  if(betamatches[1] == -1) {
+    _gaq.push(['_setCustomVar', 3, 'Beta-Usage','opt-out', 3]);
+  } else {
+    _gaq.push(['_setCustomVar', 3, 'Beta-Usage','unredirected', 3]);
+  }
+}
+
+
+
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['b._trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  _gaq.push(['b._trackPageLoadTime']);
+
+
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- CCM GA Push -->
+<script>
+    if (typeof _ml !== 'undefined' && _ml.us) {
+        if (_ml.us.tp && _ml.us.tp.length > 0) {
+            ga('set', 'dimension2', _ml.us.tp[0]);
+        }
+        if (_ml.us.pc && _ml.us.pc.length > 0) {
+            ga('set', 'dimension7', _ml.us.pc[0]);
+        }
+        ga('set', 'dimension3', _ml.us.ind);
+        ga('set', 'dimension4', _ml.us.cr);
+        ga('set', 'dimension5', _ml.us.cs);
+        ga('set', 'dimension6', _ml.us.dm);
+        ga('set', 'dimension8', _ml.us.sn);
+    }
+</script>
+
+<!-- Sticky Ads -->
+<script type="text/javascript">
+var topBannerViewed = false;
+if($('#div-gpt-ad-728x90_a').length > 0 && window.outerWidth >= 1070 && !isAdBlockActive){
+    $(window).scroll(function(){
+        var y = $(document).scrollTop();
+        var z =  y + window.outerHeight;
+        var navOffset = 0;
+        var offset = [
+            $('.nav-wrap').outerHeight(true),
+            $('.nav-secondary-wrap').outerHeight(true)
+        ];
+        for(row in offset){
+            if(offset[row]) navOffset = navOffset + parseInt(offset[row]);
+        }
+        $('.adwrap-unviewed').each(function(){
+            var cls = 'adwrap-sticky';
+            var toggleCls = 'adwrap';
+			$('.banner-wrapper').css('height', $('.banner-contain').outerHeight());
+            if($(this).hasClass('railad')) {
+                if(topBannerViewed){
+                    var topPixels = $(this).offset().top;
+                    navOffset += $('.adwrap').outerHeight();
+                    if(y >= topPixels && y >= navOffset){
+                        $('#slashboxes').css('top', 0).css('position','fixed').css('right',13);
+                    } else {
+                        $('#slashboxes').removeAttr('style');
+                    }
+                }
+                return;
+            }
+            var topPixels = $(this).offset().top;
+            if(y >= topPixels && y >= navOffset){
+                $(this).addClass(cls);
+                $(this).removeClass('adwrap');
+				if(cls == 'adwrap-sticky') { //top banner
+                    topBannerViewed = false;
+					$('#slashboxes').css('top',$(this).outerHeight() || 0).css('position','fixed').css('right',13);
+				}
+                if(topBannerViewed) {
+                    console.log('hereeee');
+					$('#slashboxes').css('top', 0).css('position','fixed').css('right',13);
+				}
+            }else{
+                $(this).removeClass(cls);
+                $(this).addClass(toggleCls);
+                $('#slashboxes').removeAttr('style');
+            }
+        });
+		if($('.adwrap-viewed-banner').length > 0){
+			topBannerViewed = true;
+			$('.adwrap-viewed-banner').removeClass('adwrap-unviewed').removeClass('adwrap-sticky').addClass('adwrap');
+		}
+        if($('.adwrap-viewed-railad').length > 0){
+            $('.adwrap-viewed-railad').removeClass('adwrap-unviewed').removeClass('adwrap-railad-sticky');
+			$('#slashboxes').removeAttr('style');
+		}
+    });
+}
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setCookieDomain", "*.slashdot.org"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.slashdotmedia.com/";
+    _paq.push(['setTrackerUrl', u+'sd.php']);
+    _paq.push(['setSiteId', 40]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'sd.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//analytics.slashdotmedia.com/sd.php?idsite=40" style="border:0;" alt="" /></p></noscript>
+
+<!-- Sponsored Whitepaper/Documents -->
+<script>
+    if(window.location.pathname == '/'){
+        var nelId = (location.search.split('nel_id=')[1] || '').split('&')[0];
+        var url = '/ajax.pl?op=nel';
+        if(nelId){
+            url += '&nel_id='+nelId;
+        }
+        $.ajax({
+            url: url,
+            success: function(html){
+                $('#firehoselist article').eq(1).after(html);
+            }
+        });
+
+        $.ajax({
+            url: '/ajax.pl?op=geo',
+            success: function(geo){
+                var text = "";
+                var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+                for( var i=0; i < 15; i++ )
+                        text += possible.charAt(Math.floor(Math.random() * possible.length));
+                window.addEventListener('message', receiveMessage, false);
+                function receiveMessage(evt){
+                    if (evt.data && evt.data.lf_iframeid && evt.data.lf_height) {
+                        //resize iframe to fit larger leadgen form
+                        document.getElementById(evt.data.lf_iframeid).height = (evt.data.lf_height) + "px";
+                    }
+                }
+                $('#firehoselist article').eq(12).after('<iframe width="100%" height="0" scrolling="no" frameborder="0" id="bz-lf-'+text+'" name="bz-lf-'+text+'" src="//d1o5u7ifbz3swt.cloudfront.net/showcase/index.php?id=dynamic&lp=SD_IMM&country='+geo+'"></iframe>');
+            }
+        });
+    }
+</script>
+
+<!-- Datonics -->
+<script async type="text/javascript" src="//ads.pro-market.net/ads/scripts/site-143573.js"></script>
+	<script id="after-content" type="text/javascript">
+(function( $, fn, console ){
+	$ && fn && $(function(){ fn($, console); });
+})(window.jQuery, window.pageload_done, window.console);
+</script>
+	
+	<script type='text/javascript'>
+	if(!document.location.href.match(/source=autorefresh/)) {
+		document.write('<img src="//slashdot.org/images/js.gif?243">');
+	}
+</script>
+<noscript>
+	<img src="//slashdot.org/images/njs.gif?394">
+</noscript>
+	<div class="busy genericspinner hide"><span>Working...</span></div>
+	<script>
+		if(typeof(Storage)!=="undefined"){
+			window.scrollTo(0,sessionStorage.scrollPos);
+				$(window).scroll(function () {
+				//You've scrolled this much:
+				sessionStorage.scrollPos = $(window).scrollTop();
+			});
+		}
+		$(function(){
+			$('a').click(function(){
+				delete sessionStorage.scrollPos;
+			})
+		});
+		// window.onbeforeunload = function () {
+		// 	console.log('bakc button clicked');
+		// 	delete sessionStorage.scrollPos;
+		// }
+		window.onpopstate=function() {
+			delete sessionStorage.scrollPos;
+		}
+	</script>
+	
+
+	
+		<!-- 1x1 story page -->
+		<div id='div-gpt-ad-1x1'><script type='text/javascript'>
+googletag.cmd.push(function(){
+googletag.display('div-gpt-ad-1x1');});</script></div>
+	
+
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true}); 
+        </script>       
+
+	</body>
+	</html>
+
+
+	<!-- footer type=current end -->

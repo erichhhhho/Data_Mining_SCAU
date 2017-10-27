@@ -1,0 +1,528 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://globalcomment.com/xmlrpc.php">
+
+<title>The Chinese Exclusion Act is Back, But Now It&#039;s Called the RAISE Act | Global Comment</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Chinese Exclusion Act is Back, But Now It&#039;s Called the RAISE Act | Global Comment" />
+<meta property="og:description" content="The RAISE Act would tear families apart as part of the Trump Administration&#039;s ongoing war on immigrants." />
+<meta property="og:url" content="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/" />
+<meta property="og:site_name" content="Global Comment" />
+<meta property="article:publisher" content="https://www.facebook.com/globalcomment" />
+<meta property="article:tag" content="Asian-Americans" />
+<meta property="article:tag" content="RAISE Act" />
+<meta property="article:tag" content="united states" />
+<meta property="article:section" content="North America" />
+<meta property="article:published_time" content="2017-10-19T16:39:54+01:00" />
+<meta property="article:modified_time" content="2017-10-22T17:56:29+01:00" />
+<meta property="og:updated_time" content="2017-10-22T17:56:29+01:00" />
+<meta property="og:image" content="http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/globalcomment.com\/","name":"Global Comment","potentialAction":{"@type":"SearchAction","target":"http:\/\/globalcomment.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/globalcomment.com\/chinese-exclusion-act-back-now-called-raise-act\/","sameAs":["https:\/\/www.facebook.com\/globalcomment","https:\/\/twitter.com\/globalcomment"],"@id":"#organization","name":"Global Comment","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Global Comment &raquo; Feed" href="http://globalcomment.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Global Comment &raquo; Comments Feed" href="http://globalcomment.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Global Comment &raquo; The Chinese Exclusion Act is Back, But Now It&#8217;s Called the RAISE Act Comments Feed" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/globalcomment.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mailpoet_public-css'  href='http://globalcomment.com/wp-content/plugins/mailpoet/assets/css/public.cae357df.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://globalcomment.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='amber-css'  href='http://globalcomment.com/wp-content/plugins/amberlink/css/amber.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-magazine-google-font-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7COpen+Sans%3A400%2C700&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-magazine-bootstrap-css'  href='http://globalcomment.com/wp-content/themes/smart-magazine/assets/css/bootstrap.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-magazine-font-awesome-css'  href='http://globalcomment.com/wp-content/themes/smart-magazine/assets/font-awesome/css/font-awesome.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-magazine-superfish-css'  href='http://globalcomment.com/wp-content/themes/smart-magazine/assets/js/superfish/css/superfish.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-magazine-style-css'  href='http://globalcomment.com/wp-content/themes/smart-magazine/style.css?14&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='author-avatars-widget-css'  href='http://globalcomment.com/wp-content/plugins/author-avatars/css/widget.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='author-avatars-shortcode-css'  href='http://globalcomment.com/wp-content/plugins/author-avatars/css/shortcode.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://globalcomment.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://globalcomment.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var amber_config = {"lookup_availability":"","site_name":"Global Comment"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/amberlink/js/amber.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pys_fb_pixel_options = {"woo":[]};
+var pys_events = [{"type":"init","name":"268933196803312","params":[]},{"type":"track","name":"PageView","params":{"domain":"globalcomment.com"},"delay":0},{"type":"trackCustom","name":"GeneralEvent","params":{"post_type":"post","content_name":"The Chinese Exclusion Act is Back, But Now It's Called the RAISE Act","post_id":103995,"content_category":"Commentary, North America, Politics, Racism","domain":"globalcomment.com"},"delay":0}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/pixelyoursite/js/public.js?ver=5.0.8'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/assets/js/modernizr.custom.js?ver=20150615'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/assets/js/jquery.easing.js?ver=20150615'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/assets/js/jquery.hoverIntent.js?ver=20150615'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/assets/js/superfish/js/superfish.js?ver=20150615'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/assets/js/script.js?ver=20150615'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://globalcomment.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://globalcomment.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://globalcomment.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel='shortlink' href='http://wp.me/p7gK2k-r3l' />
+<link rel="alternate" type="application/json+oembed" href="http://globalcomment.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fglobalcomment.com%2Fchinese-exclusion-act-back-now-called-raise-act%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://globalcomment.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fglobalcomment.com%2Fchinese-exclusion-act-back-now-called-raise-act%2F&#038;format=xml" />
+
+		<!-- Facebook Pixel code is added on this page by PixelYourSite FREE v5.0.8 plugin. You can test it with Pixel Helper Chrome Extension. -->
+
+		<style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>  <style type="text/css">
+	  .main_nav, .main_nav .sf-menu .sub-menu{    border-top: 5px solid ;}
+	  .main_nav .sf-menu .sub-menu:before{
+		      border-bottom-color: ;
+	  }
+	  .byline .cat-links a, .gum_post_data ul li.cat, .gum_post_block_meta ul li.cat, .gum_post_block_meta ul li.cat{
+		  background: ;
+		   color: ;
+	  }
+	  .gum_post_data ul li.cat a, .gum_post_block_meta ul li.cat a, .gum_post_block_meta ul li.cat a{
+		 		   color: ;
+	  }
+ </style>
+  
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Chinese Exclusion Act is Back, But Now It&#8217;s Called the RAISE Act" />
+<meta property="og:url" content="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/" />
+<meta property="og:description" content="The RAISE Act would tear families apart as part of the Trump Administration&#8217;s ongoing war on immigrants." />
+<meta property="article:published_time" content="2017-10-19T15:39:54+00:00" />
+<meta property="article:modified_time" content="2017-10-22T16:56:29+00:00" />
+<meta property="og:site_name" content="Global Comment" />
+<meta property="og:image" content="http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582.jpg" />
+<meta property="og:image:width" content="2048" />
+<meta property="og:image:height" content="1365" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@globalcomment" />
+<meta name="twitter:image" content="http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@GlobalComment" />
+<link rel="icon" href="http://globalcomment.com/wp-content/uploads/2016/06/cropped-globalcommentlogo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://globalcomment.com/wp-content/uploads/2016/06/cropped-globalcommentlogo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://globalcomment.com/wp-content/uploads/2016/06/cropped-globalcommentlogo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://globalcomment.com/wp-content/uploads/2016/06/cropped-globalcommentlogo-270x270.png" />
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(37,58,35,.88);}</style></head>
+
+<body class="post-template-default single single-post postid-103995 single-format-standard group-blog">
+  <header class="main-header">
+  	
+    <div class="container">
+	    <div class="top_bar">
+       <nav class="top_nav col-sm-8">
+	       <div class="topdate">Friday, 27th October 2017</div>
+       <div id="top-menu" class="sf-menu"><ul>
+<li class="page_item page-item-2"><a href="http://globalcomment.com/about/">About</a></li>
+<li class="page_item page-item-70"><a href="http://globalcomment.com/contact/">Contact</a></li>
+<li class="page_item page-item-5"><a href="http://globalcomment.com/contribute_to_global_comment/">Contribute</a></li>
+<li class="page_item page-item-101229"><a href="http://globalcomment.com/">Home</a></li>
+</ul></div>
+
+
+       </nav>
+       <nav class="social col-sm-4">
+          <ul>
+          	<li class="facebook"><a href="http://www.facebook.com/globalcomment"><i class="fa fa-facebook-square"></i></a></li><li class="twitter"><a href="http://www.twitter.com/globalcomment"><i class="fa fa-twitter-square"></i></a></li>          </ul>
+       </nav>
+       <div class="clearfix"></div>
+       </div>
+    <!-- top_bar -->
+    </div>
+    <!-- container -->
+	<div class="clearfix"></div>
+	<div class="container">
+		<div class="logo">
+						<a href="http://globalcomment.com/">
+			<img src="http://globalcomment.com/wp-content/uploads/2016/06/globalcommentlogo.png" alt="" />			</a>
+		</div>
+	</div><!-- container -->
+   </header>
+  <div class="nav_wrapper clearfix">
+		<div class="container">
+   			<nav class="main_nav">
+            <a id="menu-icon" class="visible-xs mob_menu" href="#"><i class="fa fa-bars"></i></a>
+   				 <div class="menu-top-container"><ul id="primary-menu" class="sf-menu"><li id="menu-item-101317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-101317"><a href="http://globalcomment.com/">Home</a></li>
+<li id="menu-item-101924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101924"><a href="http://globalcomment.com/about/">About</a></li>
+<li id="menu-item-103168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103168"><a href="http://globalcomment.com/category/podcast/">Podcast</a></li>
+<li id="menu-item-101312" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-101312"><a href="http://globalcomment.com/category/commentary/">Commentary</a></li>
+<li id="menu-item-101311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-101311"><a href="http://globalcomment.com/category/arts-literature/">Arts</a></li>
+<li id="menu-item-101313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-101313"><a href="http://globalcomment.com/category/culture/">Culture</a></li>
+<li id="menu-item-101316" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-101316"><a href="http://globalcomment.com/category/politics/">Politics</a></li>
+<li id="menu-item-103169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103169"><a href="http://globalcomment.com/category/current-affairs/must-reads/">Must Reads</a></li>
+<li id="menu-item-101922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101922"><a href="http://globalcomment.com/contact/">Contact</a></li>
+<li id="menu-item-101923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101923"><a href="http://globalcomment.com/contribute_to_global_comment/">Contribute</a></li>
+</ul></div>
+   							   			
+   			</nav>
+		</div><!--container -->
+	</div><!--nav_wrapper -->
+ 	<div class="container content_wrapper" id="content_wrapper">
+		   		<div class="content_border">
+	<div id="primary" class="single-post col-sm-8 col-main">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-103995" class="post-103995 post type-post status-publish format-standard has-post-thumbnail hentry category-commentary category-north-america category-politics category-racism tag-asian-americans tag-raise-act tag-united-states">
+	<div class="gum_breadcrumb">
+				<a href="">home </a> <i class="fa fa-angle-double-right"></i> <a href="http://globalcomment.com/category/commentary/" rel="category tag">Commentary</a>, <a href="http://globalcomment.com/category/global/north-america/" rel="category tag">North America</a>, <a href="http://globalcomment.com/category/politics/" rel="category tag">Politics</a>, <a href="http://globalcomment.com/category/politics/racism/" rel="category tag">Racism</a> <i class="fa fa-angle-double-right"></i> <span class="bc_title">The Chinese Exclusion Act is Back, But Now It&#8217;s Called the RAISE Act</span>	</div>
+	<header class="entry-header">
+		<h1 class="entry-title">The Chinese Exclusion Act is Back, But Now It&#8217;s Called the RAISE Act</h1>		<div class="entry-meta">
+			<div class="byline"><i class="fa fa-user"></i> By <span class="author vcard"><a class="url fn n" href="http://globalcomment.com/author/louiseh/">Louise Hung</a></span> &nbsp;<span class="cat-links"><i class="fa fa-folder"></i> Posted in <a href="http://globalcomment.com/category/commentary/" rel="category tag">Commentary</a> <a href="http://globalcomment.com/category/global/north-america/" rel="category tag">North America</a> <a href="http://globalcomment.com/category/politics/" rel="category tag">Politics</a> <a href="http://globalcomment.com/category/politics/racism/" rel="category tag">Racism</a></span></div> <div class="posted-on"><i class="fa fa-clock-o"></i> Posted on <a href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/" rel="bookmark"><time class="entry-date published" datetime="2017-10-19T16:39:54+00:00">October 19, 2017</time><time class="updated" datetime="2017-10-22T17:56:29+00:00">October 22, 2017</time></a></div><div class="clearfix"></div>		</div><!-- .entry-meta -->
+					<div class="featured_image">
+				<img width="640" height="427" src="http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Donald Trump and officials." srcset="http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582-1024x683.jpg 1024w, http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582-640x426.jpg 640w, http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582-300x200.jpg 300w, http://globalcomment.com/wp-content/uploads/2017/10/President_Donald_J._Trump_Senator_Tom_Cotton_and_Senator_David_Perdue_August_2_2017_36182228582-1320x880.jpg 1320w" sizes="(max-width: 640px) 100vw, 640px" /> 
+			</div><!-- featured_image-->
+			
+		
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p class="p1">There’s no way around it: Donald Trump’s “Great America” is a “White America”. This is nothing new (for Trump or frankly, US history).</p>
+<p class="p1">But with Trump’s ban on immigrants from largely Muslim countries, his obsession with a US-Mexico border wall, his inability to condemn white nationalists, his much vocalized belief that immigrants and people of color are violent, leeches, and “bad hombres”, and now the RAISE Act, it seems that the Trump administration is more determined than ever to dismantle any progress America has made, one immigrant at a time.</p>
+<p class="p1">But what is the <a href="https://www.cotton.senate.gov/files/documents/170802_New_RAISE_Act_Bill_Text.pdf" data-versionurl="http://globalcomment.com/amber/cache/a2cefe35b0cc5ebd0791f332a32b49e1/" data-versiondate="2017-10-22T16:56:52+00:00" data-amber-behavior="">RAISE Act</a>?</p>
+<p class="p3"><span class="s1">Sponsored by </span><span class="s2">Senator Tom Cotton (R-AR) and Senator David Perdue (R-GA), the Reforming American Immigration for Strong Employment Act is a plan that would significantly decrease immigration within the next 10 years (by 50%), put a cap on the number of refugees “admitted annually”, and do away with the Diversity Immigrant Visa program or green card lottery. </span></p>
+<p class="p3"><span class="s2">Most significantly, the RAISE act would impact families who are in the process of immigrating to the US. Currently, green card priority is given to the family members of immigrants who already reside in America. However under the Trump backed RAISE Act, <a href="http://aapidata.com/blog/trump-immigration-part1/">adult parents, adult siblings, and adult children</a> of US citizens or legal permanent residents would no longer be given any preference. </span></p>
+<p class="p3"><span class="s2">Immigrant and refugee families could be and will be ripped apart with entire families may be permanently alienated from each other. </span></p>
+<p class="p3"><span class="s2">Instead of giving preference to family members, the RAISE Act would adopt a merit-based system in which points would be awarded to applicants depending on education, skills, and English fluency among others. Senator Cotton and Perdue, as well as President Trump, claim that such a system would thwart the influx of uneducated and unskilled people coming into America and taking American jobs. The intended result is to create more jobs for native-born citizens. </span></p>
+<p class="p3"><span class="s2">Of course, this assumes that just because one is an immigrant and/or is sponsored by a family member that they are uneducated and/or unskilled. The RAISE Act smacks of the underlying belief that immigrants are by default a drain on the United States. </span></p>
+<p class="p3"><span class="s2">The message is loud and clear: America has to protect itself from immigrants. </span></p>
+<p class="p3"><span class="s2">Trump and his colleagues are stoking the idea that immigrants are not in fact the foundation of America, but are actively threatening to take the American Dream <i>away</i> from Americans – mainly through jobs. It is a racist notion built upon the belief that the (white) American is under attack.</span></p>
+<p class="p3"><span class="s2">And Trump is their savior. </span></p>
+<p class="p3"><span class="s2">But as with most things Trump says or does, the RAISE Act is not innovative, creative, or even original. American has done this before, from 1882 to 1943. </span></p>
+<p class="p3"><span class="s2">Except then it was not called the RAISE Act, but rather the <a href="http://globalcomment.com/chinese-exclusion-act-muslim-ban-american-tradition-alienation/">Chinese Exclusion Act</a>. </span></p>
+<p class="p3"><span class="s2">Enacted in 1882, the Chinese Exclusion Act barred Chinese people from becoming United States residents or citizens. Skilled and unskilled laborers were banned, while only “merchants, scholars, teachers, missionaries, and government officials” were permitted residency. <em>Residency</em>, never citizenship. </span></p>
+<p class="p3"><span class="s2">Anti-Chinese sentiment was vehement. For Chinese people it was nearly impossible to find jobs outside of low-paying laundry or restaurant businesses. Even then, most Americans would note hire Chinese people, so most had to figure out a way to work for themselves in what would become America’s Chinatowns. Quite a feat considering that Chinese people were legally not allowed to own property. </span></p>
+<p class="p3"><span class="s2">And though documented Chinese-American residents were largely sequestered off into Chinese enclaves, away from mainstream commerce, white Americans still considered them a threat. A threat to American jobs, American morals, and American prosperity. </span></p>
+<p class="p3"><span class="s2">More so, the population of Chinese people living in America was disproportionately men. This is largely due to the Page Act of 1875 that strictly limited the amount of Chinese women allowed into America for fear that they were “undesirables” or a sex worker. The wife of a Chinese man living in America was given no preference (quite the opposite), and since there was no guarantee that a he would be allowed back in after he left the country, many Chinese families were forever kept apart. </span></p>
+<p class="p3"><span class="s2">Combined with anti-miscegenation laws, keeping Chinese families separated was part of America’s thinly-veiled plan to eventually decimate the Chinese immigrant population in America. Though the plan never succeeded, entire families were splintered never to be reunited. </span></p>
+<p class="p3"><span class="s2">For generations of Chinese immigrants, that was the price of the “American Dream”. If one person from a family was able to go to America, they had to accept the very real possibility that trying to build a better life – being able to send any money home, eventually being able to bring a son over – would likely come at the cost of being with one&#8217;s family. It was a matter of survival. </span></p>
+<p>Are we ready to ask the same question of survival to immigrants now?</p>
+<p class="p3"><span class="s2">In Chinatowns across America during the first part of the 20th century, Chinese-American men died alone or in the company of other alienated “bachelors” wondering what became of their families back home. </span></p>
+<p class="p3"><span class="s2">Though the Chinese Exclusion Act was repealed in 1943, it wasn’t until the Immigration and Naturalization Act of 1965 when the limit of immigrants from China, and other countries, was lifted and many families could finally be reunited. Part of the goal of the Immigration and Naturalization Act was to reunite families as well as bring skilled workers to the United States. </span></p>
+<p class="p3"><span class="s2">Now here we are, essentially trying to undo what progress we’ve made. </span></p>
+<p class="p3"><span class="s2">Among other immigrant groups, the RAISE Act will drastically <a href="http://www.hksaapr.com/2017/02/the-raise-act/">impact Asian Americans and Pacific Islanders</a> (AAPIs). With one quarter of US immigrants since 1965 being of Asian birth, 67 percent of AAPIs in America being immigrants, and approximately 57 percent of permanent resident visas for AAPIs being family-sponsored, it seems America is once again targeting immigrants, demonizing people of color, and breaking up families in the name of defending American jobs. </span></p>
+<p class="p3"><span class="s2">The message the American public is being fed is that immigrants take jobs away from (white) Americans. However, in actuality data supports that immigrants and native-born citizens without higher educations <a href="https://www.theatlantic.com/politics/archive/2015/10/immigrants-arent-stealing-american-jobs/433158/">do not compete for the same jobs</a>. They are in fact complementary, not competitive. </span></p>
+<p class="p3"><span class="s2">And while more and more Americans are completing high school or going to college, the number of immigrants <i>without </i>high school diplomas is also growing. Fewer Americans are taking “low-skilled” jobs, leaving a gap in the job market. These are jobs that immigrants can fill. As has always been the case, immigrants take jobs that native-born Americans don’t want. </span></p>
+<p class="p3"><span class="s2">What will happen if a large part of the American work force is eliminated? </span></p>
+<p class="p3"><span class="s2"><a href="https://www.nytimes.com/2017/08/02/us/politics/trump-immigration.html?_r=1">Said President Trump</a>, accompanied by Senators Cotton and Perdue, “This legislation will not only restore our competitive edge in the 21st century, but it will restore the sacred bonds of trust between America and its citizens. This legislation demonstrates our compassion for struggling American families who deserve an immigration system that puts their needs first and that puts America first.”</span></p>
+<p class="p3"><span class="s2">Making immigrant needs a priority <i>is</i> putting Americans first. Americans who have immigrated from other countries shouldn’t have to make the decision between their safety and livelihood in America, or being with their family. </span></p>
+<p class="p3"><span class="s2">Immigrants, be they from China, Mexico, India, or Iran – anywhere –<span class="Apple-converted-space">  </span>should be able to trust that the American government, <i>their government</i>, is not searching for a loophole to get rid of them or minimize the number of people from their country. </span></p>
+<p class="p3"><span class="s2">What Trump, Cotton, and Perdue seem to forget is that immigrants <i>are</i> Americans. If the administration is intent on showing compassion toward struggling Americans and their families, then immigrants and their families have every right to the same treatment. </span></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-103995" class="share-twitter sd-button share-icon" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-103995" class="share-facebook sd-button share-icon" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-103995" class="share-google-plus-1 sd-button share-icon" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://globalcomment.com/chinese-exclusion-act-back-now-called-raise-act/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div><div class='yarpp-related'>
+<p>Related posts:</p><ol>
+<li><a href="http://globalcomment.com/chinese-exclusion-act-muslim-ban-american-tradition-alienation/" rel="bookmark" title="The Chinese Exclusion Act and the Muslim Ban: An American Tradition of Alienation">The Chinese Exclusion Act and the Muslim Ban: An American Tradition of Alienation </a></li>
+<li><a href="http://globalcomment.com/135th-anniversary-chinese-exclusion-act-far-come/" rel="bookmark" title="On the 135th Anniversary of the Chinese Exclusion Act, How Far Have We Come?">On the 135th Anniversary of the Chinese Exclusion Act, How Far Have We Come? </a></li>
+<li><a href="http://globalcomment.com/cuisine-born-necessity-authentic-american-chinese-food/" rel="bookmark" title="Cuisine Born of Necessity: Authentic American-Chinese Food">Cuisine Born of Necessity: Authentic American-Chinese Food </a></li>
+<li><a href="http://globalcomment.com/asian-enclaves-endangered-mean-asian-americans/" rel="bookmark" title="If Asian Enclaves Are Endangered, What Does that Mean For Asian-Americans?">If Asian Enclaves Are Endangered, What Does that Mean For Asian-Americans? </a></li>
+<li><a href="http://globalcomment.com/american-right-criminalizing-immigrants/" rel="bookmark" title="The American right is criminalizing immigrants">The American right is criminalizing immigrants </a></li>
+</ol>
+</div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="tags-links">TAGS: <a href="http://globalcomment.com/tag/asian-americans/" rel="tag">Asian-Americans</a> <a href="http://globalcomment.com/tag/raise-act/" rel="tag">RAISE Act</a> <a href="http://globalcomment.com/tag/united-states/" rel="tag">united states</a></span>		
+		 	         <div class="author-box">
+	            <div class="author-img col-xs-2"><img alt='' src='http://0.gravatar.com/avatar/0c64605796535b04656f1d16549e4117?s=100&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/0c64605796535b04656f1d16549e4117?s=200&amp;d=identicon&amp;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' /></div>
+	               <div class="col-xs-10">
+	               <h4 class="author-name">Louise Hung</h4>
+	               <p class="author-description">An American writer living in Japan, Louise is a contributor and researcher for the Order of the Good Death and Ask a Mortician. You can find her on Twitter @LouiseHung1.</p>
+	               </div><!-- col-xs-8 -->
+	               <div class="clearfix"></div>
+	         </div>
+			 	</footer><!-- .entry-footer -->
+	
+	
+</article><!-- #post-## -->
+
+
+			
+<div id="comments" class="comments-area">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/chinese-exclusion-act-back-now-called-raise-act/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://globalcomment.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-mailpoet">
+      <label for="mailpoet_subscribe_on_comment">
+        <input
+          type="checkbox"
+          id="mailpoet_subscribe_on_comment"
+          value="1"
+          name="mailpoet[subscribe_on_comment]"
+        />&nbsp;Subscribe to our newsletter
+      </label>
+    </p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='103995' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="291eb5aeec" /></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="89"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area col-sm-4 col-md-4 sidebar" role="complementary">
+	<aside id="search-3" class="widget widget_search"><h3 class="widget-title">Search</h3><form role="search" method="get" class="search-form" action="http://globalcomment.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="wpcom_social_media_icons_widget-2" class="widget widget_wpcom_social_media_icons_widget"><h3 class="widget-title">Follow Us!</h3><ul><li><a href="https://www.facebook.com/GlobalComment/" class="genericon genericon-facebook" target="_blank"><span class="screen-reader-text">View GlobalComment&#8217;s profile on Facebook</span></a></li><li><a href="https://twitter.com/GlobalComment/" class="genericon genericon-twitter" target="_blank"><span class="screen-reader-text">View GlobalComment&#8217;s profile on Twitter</span></a></li></ul></aside><aside id="text-17" class="widget widget_text"><h3 class="widget-title">Subscribe to the Global Comment Podcast</h3>			<div class="textwidget"><p>Don't miss our latest interviews with sharp readers and thinkers on issues that matter to you. </p>
+<p><a href="https://itunes.apple.com/ae/podcast/global-comment-episode-1-omar-ghobash/id1208467785?i=1000381753400&amp;mt=2">Subscribe on iTunes</a></p>
+<p><a href="https://soundcloud.com/user-35684452/global-comment-episode-1-omar-ghobash">Subscribe on Soundcloud</a></p>
+</div>
+		</aside><aside id="rss_links-3" class="widget widget_rss_links"><h3 class="widget-title">RSS</h3><p><a target="_self" href="http://globalcomment.com/feed/" title="Subscribe to Posts"><img src="http://globalcomment.com/wp-content/plugins/jetpack/images/rss/green-medium.png" alt="RSS Feed" /></a>&nbsp;<a target="_self" href="http://globalcomment.com/feed/" title="Subscribe to Posts">RSS - Posts</a></p><p><a target="_self" href="http://globalcomment.com/comments/feed/" title="Subscribe to Comments"><img src="http://globalcomment.com/wp-content/plugins/jetpack/images/rss/green-medium.png" alt="RSS Feed" /></a>&nbsp;<a target="_self" href="http://globalcomment.com/comments/feed/" title="Subscribe to Comments">RSS - Comments</a></p>
+</aside><aside id="author_avatars-3" class="widget widget_author_avatars"><h3 class="widget-title">Featured Writers</h3><div class="author-list"><div class="user with-name user-27343 with-biography bio-length-"><a href="http://globalcomment.com/author/annaham/" title="Anna Hamilton"><span class="avatar" title="Anna Hamilton"><img src='http://0.gravatar.com/avatar/00808f53b3ca940a3d137e08bb4c7e41?s=90&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/00808f53b3ca940a3d137e08bb4c7e41?s=180&amp;d=identicon&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' title="Anna Hamilton" alt="Anna Hamilton"  /></span><span class="name"><strong>Anna Hamilton</strong></span></a><div class="biography"><p>Anna Hamilton is a writer, cartoonist, and gadfly residing in the Bay Area.</p>
+</div></div><div class="user with-name user-27403 with-biography bio-length-"><a href="http://globalcomment.com/author/louiseh/" title="Louise Hung"><span class="avatar" title="Louise Hung"><img src='http://0.gravatar.com/avatar/0c64605796535b04656f1d16549e4117?s=90&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/0c64605796535b04656f1d16549e4117?s=180&amp;d=identicon&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' title="Louise Hung" alt="Louise Hung"  /></span><span class="name"><strong>Louise Hung</strong></span></a><div class="biography"><p>An American writer living in Japan, Louise is a contributor and researcher for the Order of the Good Death and Ask a Mortician. You can find her on Twitter @LouiseHung1.</p>
+</div></div><div class="user with-name user-4 with-biography bio-length-"><a href="http://globalcomment.com/author/nasseralikhasawneh/" title="Nasser Ali Khasawneh"><span class="avatar" title="Nasser Ali Khasawneh"><img src='http://0.gravatar.com/avatar/3bd24a4fcdad765dcaef573771a66cf4?s=90&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/3bd24a4fcdad765dcaef573771a66cf4?s=180&amp;d=identicon&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' title="Nasser Ali Khasawneh" alt="Nasser Ali Khasawneh"  /></span><span class="name"><strong>Nasser Ali Khasawneh</strong></span></a><div class="biography"><p>Nasser Ali Khasawneh graduated in law from Oxford University, and holds a Masters in Law (LL.M) degree from University College at the University of London. He is a lawyer and writer.</p>
+</div></div><div class="user with-name user-2 with-biography bio-length-"><a href="http://globalcomment.com/author/nvantonova/" title="Natalia Antonova"><span class="avatar" title="Natalia Antonova"><img src='http://2.gravatar.com/avatar/272a4e9e35092596010b1b2d873074d0?s=90&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/272a4e9e35092596010b1b2d873074d0?s=180&amp;d=identicon&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' title="Natalia Antonova" alt="Natalia Antonova"  /></span><span class="name"><strong>Natalia Antonova</strong></span></a><div class="biography"><p>Natalia is a writer and journalist. She's the associate editor of openDemocracy Russia and the co-founder of the Anti-Nihilist Institute.</p>
+</div></div><div class="user with-name user-27340 with-biography bio-length-"><a href="http://globalcomment.com/author/philippawillitts/" title="Philippa Willitts"><span class="avatar" title="Philippa Willitts"><img src='http://1.gravatar.com/avatar/7c78704d6a925bd52fea0a29ca4bb5f1?s=90&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/7c78704d6a925bd52fea0a29ca4bb5f1?s=180&amp;d=identicon&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' title="Philippa Willitts" alt="Philippa Willitts"  /></span><span class="name"><strong>Philippa Willitts</strong></span></a><div class="biography"><p>Philippa Willitts is a British <a href="http://www.philippawrites.co.uk/">freelance writer</a> who specialises in writing about disability, women's issues, social media and tech. She also enjoys covering politics and LGBT-related topics. She has written for the Guardian, the Independent, New Statesman, Channel 4 News, Access Magazine, xoJane and many more publications. She can be found on Twitter @PhilippaWrites.</p>
+</div></div><div class="user with-name user-11019 with-biography bio-length-"><a href="http://globalcomment.com/author/sady-doyle/" title="Sady Doyle"><span class="avatar" title="Sady Doyle"><img src='http://2.gravatar.com/avatar/2b6cce8f50fb007bb4862fe4cee00416?s=90&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/2b6cce8f50fb007bb4862fe4cee00416?s=180&amp;d=identicon&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' title="Sady Doyle" alt="Sady Doyle"  /></span><span class="name"><strong>Sady Doyle</strong></span></a><div class="biography"><p>Sady Doyle is the founder of Tiger Beatdown. Her work has appeared at The Atlantic, The American Prospect, Comment Is Free, and all sorts of places, all over the Internet.</p>
+</div></div></div></aside></div><!-- #secondary -->
+<div class="clearfix"></div>
+	</div><!-- content_border-->
+</div><!-- content_wrapper-->
+
+
+<footer class="site-footer-wrapper container" role="contentinfo">
+	<div class="site-footer col-sm-12">
+		<div class="col-sm-4">
+			<div class="widget gum_footer_widget" id=""><h3 class="footer-widget-title">Disclaimer</h3>			<div class="textwidget"><p><strong>GlobalComment.com</strong> aims to publish the commentaries and other creative materials of artists all over the world, largely regardless of the views expressed therein. We strive to be a free and unbiased forum. Therefore, responsibility for the opinions and the accuracy of the facts presented in articles published on this site falls entirely upon the concerned author. If you disagree with any opinion or fact presented in an article on our site, please submit a response to us. We will aim to publish said response, provided it is well-written.</p>
+<p>We are not responsible for the content of external links.</p>
+<p>Please note our commenting policy: no trolling, no hate-speech, no abusive language. We reserve the right to ban you for misbehaviour.</p>
+</div>
+		</div>		</div><!-- col-main -->
+		<div class="col-sm-4">
+			<div class="widget gum_footer_widget" id=""><h3 class="footer-widget-title">Support Us</h3>			<div class="textwidget"><p>Do you like what you see on our site? Global Comment is independently owned and operated and could use your help. We consistently bring you perspectives from around the world that you don't get anywhere else, and we want to be able to continue supporting the work of the excellent writers you see here.<br />
+Please consider a one-time donation in any amount you choose, or if you're a regular reader, how about signing up as a subscriber? You'll get special content straight to your inbox that no one else gets to see: outtakes from interviews, longer versions of articles, and more!<br />
+</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick"/><br />
+<input type="hidden" name="hosted_button_id" value="YKHA4KNC5P3A6"/></p>
+<table>
+<tr>
+<td><input type="hidden" name="on0" value="Subscription Options"/>Subscription Options</td>
+</tr>
+<tr>
+<td><select name="os0"><option value="Friend">Friend : $5.00 USD - monthly</option><option value="Supporter">Supporter : $10.00 USD - monthly</option><option value="Superstar">Superstar : $20.00 USD - monthly</option></select> </td>
+</tr>
+</table>
+<p><input type="hidden" name="currency_code" value="USD"/><br />
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"/><br />
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"/><br />
+</form>
+<p>
+We appreciate all the help and support from the readers who have kept us going since 2001.</p>
+</div>
+		</div>		</div><!-- col-main -->
+		<div class="col-sm-4">
+			<div class="widget gum_footer_widget" id=""><h3 class="footer-widget-title">Advertisement</h3>			<div class="textwidget">This could be you! Contact editor @ globalcomment dot com for more information</div>
+		</div>		</div><!-- col-main -->
+		
+		<div class="clearfix"></div>
+			
+			
+	</div><!-- site-footer -->
+	
+	<div class="clearfix"></div>
+	<div class="col-sm-12 copyright">
+		<div class="col-sm-4"></div>
+		<div class="col-sm-4 pull-right themeby">	Theme by		
+		<a href="http://mag-themes.com/" target="_blank" rel="designer" >mag-themes</a></div>
+		<div class="clearfix"></div>
+	</div>
+</footer><!-- .site-footer-wrapper -->
+
+<noscript><img height='1' width='1' style='display: none;' src='https://www.facebook.com/tr?id=268933196803312&ev=PageView&noscript=1&cd[domain]=globalcomment.com' alt='facebook_pixel'></noscript><noscript><img height='1' width='1' style='display: none;' src='https://www.facebook.com/tr?id=268933196803312&ev=GeneralEvent&noscript=1&cd[post_type]=post&cd[content_name]=The+Chinese+Exclusion+Act+is+Back%2C+But+Now+It%27s+Called+the+RAISE+Act&cd[post_id]=103995&cd[content_category]=Commentary%2C+North+America%2C+Politics%2C+Racism&cd[domain]=globalcomment.com' alt='facebook_pixel'></noscript>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var pys_edd_ajax_events = [];
+		/* ]]> */
+		</script>
+
+		<!-- Powered by WPtouch: 4.3.21 -->	<div style="display:none">
+	<div class="grofile-hash-map-0c64605796535b04656f1d16549e4117">
+	</div>
+	<div class="grofile-hash-map-00808f53b3ca940a3d137e08bb4c7e41">
+	</div>
+	<div class="grofile-hash-map-0c64605796535b04656f1d16549e4117">
+	</div>
+	<div class="grofile-hash-map-3bd24a4fcdad765dcaef573771a66cf4">
+	</div>
+	<div class="grofile-hash-map-272a4e9e35092596010b1b2d873074d0">
+	</div>
+	<div class="grofile-hash-map-7c78704d6a925bd52fea0a29ca4bb5f1">
+	</div>
+	<div class="grofile-hash-map-2b6cce8f50fb007bb4862fe4cee00416">
+	</div>
+	</div>
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://globalcomment.com?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/globalcomment.com\/chinese-exclusion-act-back-now-called-raise-act\/":103995};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/chinese-exclusion-act-back-now-called-raise-act/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			<script>jQuery( document ).ready( function(){ document.getElementById('jetpack-source_f_name').value = '' });</script>
+			
+			<img style="float: right; display: none" class="loading" src="http://globalcomment.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='http://globalcomment.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://globalcomment.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/mailpoet/assets/js/vendor.f03e722d.js?ver=3.0.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"http:\/\/globalcomment.com\/wp-admin\/admin-ajax.php","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/mailpoet/assets/js/public.820cdc99.js?ver=3.0.8'></script>
+<script type='text/javascript'>
+function initMailpoetTranslation() {
+  if(typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'An error has happened while performing a request, please try again later.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201743'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/open-external-links-in-new-window/oelinw.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.2.0'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Octaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/themes/smart-magazine/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://globalcomment.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=5.4'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-tumblr', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201743.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.4',blog:'107424568',post:'103995',tz:'1',srv:'globalcomment.com'} ]);
+	_stq.push([ 'clickTrackerInit', '107424568', '103995' ]);
+</script>
+
+</body>
+</html>

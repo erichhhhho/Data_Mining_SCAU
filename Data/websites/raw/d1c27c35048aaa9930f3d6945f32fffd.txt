@@ -1,0 +1,2858 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]>      <html lang="en-AU" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]>         <html lang="en-AU" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]>         <html lang="en-AU" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html lang="en-AU"> <!--<![endif]-->
+<head>
+  <title>Why Mao&#039;s Cultural Revolution still haunts Xi Jinping&#039;s China - RN - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2017-10-17/why-maos-cultural-revolution-still-haunts-xi-jinpings-china/9047782"/>
+<meta name="title" content="Why Mao&#039;s Cultural Revolution still haunts Xi Jinping"/>
+                <meta name="description" content="Xi Jinping&#039;s uneasy relationship with Mao&#039;s legacy, and the Communist Party&#039;s fear of a repeat of the Cultural Revolution help to explain the President&#039;s authoritarian stance, writes Antony Funnell."/>
+                <meta name="keywords" content="mao, chairman, president xi, china, revolution, communist, party, people, history, dikotter, author"/>
+                <meta name="ICBM" content="35,105"/>
+                <meta name="geo.position" content="35;105"/>
+                <meta name="ContentId" content="9047782"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="history;historians;community-and-society;political-parties;world-politics"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="Radio National"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="http://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Why Mao&#039;s Cultural Revolution still haunts Xi Jinping"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2017-10-17T11:02:31+1100"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.abc.net.au/news/2017-10-17/why-maos-cultural-revolution-still-haunts-xi-jinpings-china/9047782"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Community and Society:History;Community and Society:History:Historians;Community and Society;Government and Politics:Political Parties;Government and Politics:World Politics"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2017-10-17T11:02:31+1100"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2017-10-17T11:54:23+1100"/>
+        <meta name="DCTERMS.spatial" content="China;Asia"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=105;north=35"/>
+        <meta property="og:title" content="Why Mao&#039;s Cultural Revolution still haunts Xi Jinping"/>
+                <meta property="og:description" content="President Xi Jinping has an uneasy relationship with Mao&#039;s legacy and is fearful of the memory of the Cultural Revolution."/>
+                <meta property="og:url" content="http://www.abc.net.au/news/2017-10-17/why-maos-cultural-revolution-still-haunts-xi-jinpings-china/9047782"/>
+                <meta property="og:image" content="http://www.abc.net.au/news/image/9048376-1x1-700x700.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="700"/>
+                <meta name="twitter:image" content="http://www.abc.net.au/news/image/9048376-1x1-700x700.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2017-10-17T11:54:23+1100"/>
+                <meta property="article:published_time" content="2017-10-17T11:02:31+1100"/>
+                <meta property="article:modified_time" content="2017-10-17T11:54:23+1100"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:author" content="http://www.abc.net.au/news/antony-funnell/8059042"/>
+                <meta property="article:tag" content="mao"/>
+                <meta property="article:tag" content="chairman"/>
+                <meta property="article:tag" content="president xi"/>
+                <meta property="article:tag" content="china"/>
+                <meta property="article:tag" content="revolution"/>
+                <meta property="article:tag" content="communist"/>
+                <meta property="article:tag" content="party"/>
+                <meta property="article:tag" content="people"/>
+                <meta property="article:tag" content="history"/>
+                <meta property="article:tag" content="dikotter"/>
+                <meta property="article:tag" content="author"/>
+                <meta property="article:tag" content="China"/>
+                <meta property="article:tag" content="Asia"/>
+                <meta property="article:tag" content="History"/>
+                <meta property="article:tag" content="Community and Society"/>
+                <meta property="article:tag" content="Historians"/>
+                <meta property="article:tag" content="Political Parties"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="World Politics"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="http://mobile.abc.net.au/news/2017-10-17/why-maos-cultural-revolution-still-haunts-xi-jinpings-china/9047782"/>
+  <link media="screen, projection" rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/bundles/2.0.5/styles/abc.bundle.2.0.5.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/sites/news/styles/min/abc.news.css?2017-10-26"/>
+    <!--[if lte IE 7]>
+            <link rel="stylesheet" type="text/css" href="http://www.abc.net.au/res/sites/news/styles/yaml/core/slim_iehacks.css" media="screen, projection"/>
+           <![endif]-->
+         <link rel="stylesheet" type="text/css"
+                                                                              href="/cm/code/8886686/livefyre-fixes-v2.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/7694168/managed.js"></script>
+<!--[if lte IE 9]><script type="text/javascript" src="http://www.abc.net.au/res/libraries/es5shim/4.1.0/es5-shim.min.js"></script><![endif]-->
+        <!--[if lt IE 9]><script type="text/javascript" src="http://www.abc.net.au/res/bundles/2.0.5/scripts/html5shiv.js"></script><![endif]-->
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <!--[if lte IE 9]><script type="text/javascript" src="http://www.abc.net.au/res/libraries/iecors/jquery.iecors.min.js"></script><![endif]-->
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/plugins/jquery.viewport.mini.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/sites/news/scripts/min/abc.news.js?2017-10-26"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-v5.js" async></script>
+        <script type="text/javascript" src="/cm/code/7694176/Override+WebTrends+profile+for+RN+stories.js"></script>
+        </head>
+<body class="platform-standard news story_page">
+<!--noindex-->
+<!-- Start ABC Bundle Header 2.0.5 -->
+<nav id="abcHeader" class="global" role="navigation" aria-label="ABC Network Navigation" data-resourcebase="http://www.abc.net.au/res/bundles/2.0.5/" data-scriptsbase="http://www.abc.net.au/res/bundles/2.0.5/scripts/" data-version="2.0.5">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/logo-abc@2x.png" width="72" height="18" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://mobile.search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!-- End ABC Bundle Header 2.0.5 -->
+<!--endnoindex-->
+<!--noindex-->
+<div class="page_margins">
+  <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-news" class=""><a href="/news/">News Home</a></li><li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-australia" class=""><a href="/news/australia/">Australia</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-programs" class=""><a href="/news/programs/">Programs</a></li><li id="n-more" class=""><a href="/news/more/">More</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="http://www2b.abc.net.au/EAF/View/MailToQuery.aspx?http://www.abc.net.au/news/2017-10-17/why-maos-cultural-revolution-still-haunts-xi-jinpings-china/9047782"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Why Mao&#039;s Cultural Revolution still haunts Xi Jinping&#039;s China</h1><div class="byline">
+      <div class="bylinepromo">
+          <a href="/radionational/">RN</a>
+        </div>
+      By <a href="/news/antony-funnell/8059042" target="_self" title="">Antony Funnell</a> for <a href="/radionational/programs/bigideas/" target="_self" title="">Big Ideas</a></div>
+  
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      October 17, 2017 11:54:23
+    </span>
+    </p>
+  
+  
+
+<div class="inline-content photo full">
+    <a href="/news/2017-10-17/mao-and-xi/9054762">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9048376-3x2-700x467.jpg" alt="Porcelain statue of Mao Zedong and Xi Jinping on a stall. " title="Mao and Xi" width="700" height="467"/>
+</a><a href="/news/2017-10-17/mao-and-xi/9054762" class="inline-caption"><strong>
+        Photo:</strong>
+       Chinese President Xi Jinping's family were severely affected by Mao Zedong's purges. <span class="source">(Getty Images: Zhang Peng)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2017-10-15/president-xi-and-his-china-dream/9048966"><strong>Related Story:</strong>
+       President Xi&#039;s hyper-nationalism has people believing in his China Dream</a></div>
+<div class="inline-content story left">
+    <a href="/news/2017-08-03/xi-jinping-is-his-power-play-good-for-china/8769284"><strong>Related Story:</strong>
+       In the power stakes, Xi Jinping is like Vladimir Putin on steroids</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=35,105(China)&amp;z=5">
+        <strong>Map: </strong>
+        China</a>
+    </div>
+  </div>
+  <p>Chinese President Xi Jinping likes to play the Mao card.</p><p>At a state dinner at Buckingham Palace in 2015, he was striking in a black Mao suit.</p><p>He's since worn it many times when greeting world leaders or reviewing Chinese troops: standing patrician-like in the back of an open military vehicle, just as the Chairman himself once did while surveying his Red Guards.</p><p>Such political theatre is conflicted, not just because it contrasts sharply with the President's alter-ego as a modern figurehead — a champion of globalisation and open trade — but because he suffered great personal hardship under Mao.  </p><h2>Suppressed Mao memory</h2><div class="inline-content photo full">
+    <a href="/news/2017-10-17/chairman-mao-zedong-statue/9055248">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9055244-3x2-700x467.jpg" alt="A statue of Mao Zedong with arm raised and blue sky behind." title="Chairman Mao Zedong statue" width="700" height="467"/>
+</a><a href="/news/2017-10-17/chairman-mao-zedong-statue/9055248" class="inline-caption"><strong>
+        Photo:</strong>
+       The spectre of Mao Zedong still looms large over modern China. <span class="source">(Getty Images: Liu Liqun)</span>
+      </a></div><p> </p><p>As a young boy in the 1960s, Xi's family spent seven years in internal exile. </p><p>His father, a senior party functionary, was purged. He lost a sister during the hardship and even Xi's mother was allegedly forced to denounce him.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="/news/2017-10-17/china-president-xi-jinping-communist-party-congress/9056154" target="_self" title="">Xi poised for absolute power</a></h2><h2><a href="/news/2017-10-17/china-president-xi-jinping-communist-party-congress/9056154" target="_self" title=""><img alt="" class="float--none" src="/cm/lb/9057508/data/am-picture-teaser-data.jpg"/> </a> </h2><a href="/news/2017-10-17/china-president-xi-jinping-communist-party-congress/9056154" target="_self" title="">Having swept aside his rivals, Xi Jinping is set to turn China's most important political event into his coronation.</a></div>
+</div><p> </p><p>So Xi's embrace of Mao isn't just about aligning his leadership with the most powerful figure in China's recent past, according to historian Frank Dikotter, it's also about containing Mao<em>'</em>s memory, and suppressing any real remembrance of the madness he wrought on his own people.</p><p>"One thing Mr Xi made very clear in 2012 is that any attempt to look critically at any one episode of the history of the Communist Party of China is tantamount to 'historical nihilism'," he said. </p><p>Professor Dikotter's trilogy of books about ordinary life in "post-Liberation" China has led to a major reassessment about the time.</p><p>President Xi's desire to bury the political realities of the past is widely shared by the party elite and rank and file said professor Dikotter, who received the prestigious Samuel Johnson prize for his 2011 book Mao's Great Famine.</p><p>"I can assure you [the Party leadership] are all united in their condemnation of the Cultural Revolution." </p><blockquote class="quote--pullquote"><p>"From the point of view of a party member, what happened in 1966–67 is that Mao allowed ordinary people to criticise members of the Communist Party of China — and you should never, ever repeat that mistake."</p></blockquote><p>Waves of such criticism lasted for the better part of a decade, pitted faction against faction in internecine conflict, left the reputation of the Party in "tatters" and resulted in the ignominious deaths of leading figures — most notably President Liu Shaoqi and Vice Chairman Lin Biao.</p><p>It also left the Party with a residual anxiety, said Professor Dikotter, which underpinned the violent suppression of student protestors in Tiananmen Square in 1989. </p><div class="inline-content photo full">
+    <a href="/news/2017-10-17/president-xi-jinping/9053770">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9047924-3x2-700x467.jpg" alt="President Xi Jinping of China in a black high collared suit with a cold plated chair behind him." title="President Xi Jinping" width="700" height="467"/>
+</a><a href="/news/2017-10-17/president-xi-jinping/9053770" class="inline-caption"><strong>
+        Photo:</strong>
+       President Xi has a complicated relationship with Mao's legacy. <span class="source">(Getty Images: Ben Pruchnie)</span>
+      </a></div><p> </p><p>It also explains why Xi is now determined to excise true knowledge of the Cultural Revolution and the 1960s from the country's collective consciousness.</p><p>"Over the past five years it has become very, very difficult for professional historians to do anything on that decade," said Professor Dikotter.</p><p>"It is as if there is a narrowing of that very little space of freedom and memory that ordinary people had for decades after the death of Chairman Mao.</p><p>"There were one or two museums set up by wealthy entrepreneurs on the Cultural Revolution — these museums have closed down. There used to be websites where you could read the memoirs of victims of the Cultural Revolution — these websites have gone."</p><p>Professor Dikotter talks about meeting a young Chinese-Australian woman in Melbourne recently who told him that her parents and grandmother still refuse to speak about the political turmoil of that period, just in case they are overheard by their neighbours.</p><p>"Surely that's a very clear indication of trauma, if not fear."</p><h2>Famine, cannibalism and quiet revolt</h2><p>Fluent in Mandarin, Professor Dikotter's reputation as a leading scholar of Chinese political history is built on his extensive use of archival material. </p><p>For a short period at the turn of the century, he gained access to a vast trove of Communist Party records detailing the deprivations and abuses of the Mao years — from secret government statistics about mass famine to public security bureau accounts of cannibalism.</p><p>"In every archive I visited, there were always local historians — including students — beavering away and working on the entire history of the Maoist era. They were quite courageous."</p><p>Those archives, he said, are now out of bounds under Xi Jinping's increasingly centralised and authoritarian leadership.</p><p>"It's a one-party state that is obsessed with information on the one hand and secrecy on the other."</p><p>But it was in those archives that he discovered the overarching reason for the Communist Party's fear of its own historical record.</p><p>What the documents reveal, according to Professor Dikotter, is that the latter years of the Cultural Revolution were marked not just by oppression, but by resistance —with tens of millions of ordinary Chinese quietly working against the Communist Party and subverting its more extreme dictates.</p><div class="inline-content photo full">
+    <a href="/news/2017-10-17/president-xi-and-the-queen/9053894">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9053846-3x2-700x467.jpg" alt="President of China Xi Jinping and Britain&#039;s Queen Elizabeth II attend a state banquet at Buckingham Palace." title="President Xi and the Queen" width="700" height="467"/>
+</a><a href="/news/2017-10-17/president-xi-and-the-queen/9053894" class="inline-caption"><strong>
+        Photo:</strong>
+       President Xi Jinping wearing a Mao suit during an event with Queen Elizabeth II.  <span class="source">(Getty Images: Dominic Lipinski)</span>
+      </a></div><p> </p><p>"In this game of cat and mouse, ordinary villagers saw an opportunity to very quietly reclaim basic freedoms," he said.</p><p>"The land that belongs to the collectives is taken back. The tools are redistributed. The collective economy in many cases vanishes."</p><p>"Black markets are opened by farmers where they can sell the produce that they think will work best. In poor provinces farmers open underground factories, and these underground factories churn out products that are sold on the black market."</p><p>It was effectively a "silent revolution" — one that occurred surreptitiously and saw tens of millions of people in the cities and countryside lose their faith in Beijing's leadership, gradually turning back to the lives they had before the Communist victory of 1949. </p><blockquote class="quote--pullquote"><p>"To some extent what we see here is quite extraordinary: one of the strongest, largest planned economies being literally undermined from below, by ordinary people, millions upon millions."</p></blockquote><p>Even when faced with such growing dissent, the Communist Party was slow to abandon its ideology in favour of economic freedoms. </p><p>In 1979, three years after the death of Mao Zedong, Deng Xiaoping — now famed as an economic reformer — was still demanding the tightening of collectivism in China's poverty-stricken rural areas. </p><p>According to Professor Dikotter, Deng Xiaoping only abandoned this hard-line economic policy around 1982, choosing instead to pursue market capitalism as a way of trying to boost the economy, unify the party under his leadership and eventually restore its legitimacy with the people.</p><p>"[The Cultural Revolution] shattered the very ranks of the party. In other words, village leaders were themselves fed up with decades of campaigns about re-education and corruption. </p><p>"Ordinary people really seized this opportunity to claim back these very fundamental economic freedoms."</p><h2>'Take away his pension'</h2><div class="inline-content photo full">
+    <a href="/news/2017-10-17/china-parade-70th-anniversary-military/9054724">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/radionational/image/6747640-3x2-700x467.jpg" alt="Chinese soldiers march in lockstep in front of a viewing crowd." title="China parade 70th anniversary military" width="700" height="467"/>
+</a><a href="/news/2017-10-17/china-parade-70th-anniversary-military/9054724" class="inline-caption"><strong>
+        Photo:</strong>
+       Chinese march in formation past Tiananmen Square and the Forbidden City during a military parade on in Beijing.  <span class="source">(Getty Images: Kevin Frayer)</span>
+      </a></div><p> </p><p>Then, in 1989, came the massacre in Tiananmen Square, where Deng's use of tanks to suppress a student uprising delivered a potent reminder that only economic, not political freedoms were to be tolerated in modern China. </p><blockquote class="quote--pullquote"><p>"It sent a signal that pulsates to this very day. That message is: don't ever query the monopoly of the one-party state."</p></blockquote><p>And so it continues. Professor Dikotter points to the example of a respected Chinese historian who was approached by the public security bureau and told not to publish anything on the Mao era, or they would take away his pension.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="/radionational/programs/bigideas/review-and-legacy-of-the-cultural-revolution-in-china/8956634" target="_self" title="">Listen to the full interview</a></h2><a href="/radionational/programs/bigideas/review-and-legacy-of-the-cultural-revolution-in-china/8956634" target="_self" title=""><img alt="" class="float--none" src="/cm/lb/9057794/data/china-custom-image-big-ideas-data.jpg"/> </a> <br/><a href="/radionational/programs/bigideas/review-and-legacy-of-the-cultural-revolution-in-china/8956634" target="_self" title="">What do records reveal about the modern Communist Party?</a></div>
+</div><p> </p><p>"Just to make sure that he understood, the agent of the public security bureau said, 'This is not just you, it's your entire family as well.' It somehow throws a whole chill on the business of investigating the past."</p><p>Needless to say, as comrades meet this week in Beijing's Great Hall of the People for the 19th National Congress of the Chinese Communist Party, the legacy and lessons of the Cultural Revolution will not be on the agenda. </p><p>But its spectre is still likely to haunt the room.</p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/history">history</a>,
+
+
+	
+	<a href="/news/topic/historians">historians</a>,
+
+
+	
+	<a href="/news/topic/community-and-society">community-and-society</a>,
+
+
+	
+	<a href="/news/topic/political-parties">political-parties</a>,
+
+
+	
+	<a href="/news/topic/world-politics">world-politics</a>,
+
+
+	
+	<a href="/news/topic/china">china</a>,
+
+
+	
+	<a href="/news/topic/asia">asia</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      October 17, 2017 11:02:31
+    </span>
+  </p>
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/citizenship-seven-turnbulls-challenges-after-high-court-blow/9089944">Turmoil ahead for PM as Joyce departs, taking one-seat margin with him</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/citizenship-decision-handed-down-by-high-court/9061302">Five of the Citizenship Seven booted by High Court</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/shell-shocked-barnaby-joyce-headed-for-byelection/9093388">Here&#039;s how Barnaby Joyce reacted to news of his disqualification</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/tamworth-locals-generally-back-barnaby-joyce-high-court/9092776">&#039;It&#039;s just garbage&#039;: Tamworth locals backing Joyce after High Court decision</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/man-who-cut-off-another-testicle-was-trying-to-help/9093286">Man who cut off 52yo&#039;s testicle was just trying to help, court hears</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/two-women-rescued-after-stranded-at-sea-for-five-months/9092774">Two women and their dogs rescued after five months stranded at sea</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/housing-volumes-could-plummet-and-prices-tank-citi/9092546">Housing volumes could plummet and prices tank: Citi</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/nrl-scorecentre/9083560"><em>SPORT</em>
+      Rugby League World Cup live: Kangaroos open campaign against England</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/indigenous-leader-calls-malcolm-turnbull-a-mission-manager/9092436">Why Malcolm Turnbull being labelled a &#039;mission manager&#039; is such a scathing criticism</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/donald-trump-mexico-border-wall-prototypes-to-be-tested/9092096">Trump&#039;s border wall prototypes will be tested with sledgehammers and axes</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/cleveland-detention-centre-teen-handcuffed-after-suicide-attempt/9069548">Teen inmate handcuffed after suicide attempt, secret documents reveal</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/donald-trump-holds-back-some-jfk-assassination-files/9091780">&#039;I have no choice&#039;: Trump holds back hundreds of JFK assassination files</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/charles-waterstreet-defends-himself-after-harassment-allegations/9091872">Law student might have felt like vegetarian &#039;in an abattoir&#039;, says Waterstreet</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/technology-should-not-be-used-to-bargain-with-kids/9093540">Opinion: Why you shouldn&#039;t use technology to bargain with your kids</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/afp-investigates-awu-raid/9091776">AFP investigating Cash staffer&#039;s AWU raids leak</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/harvey-weinstein-sues-former-company-over-emails-records/9091664">Harvey Weinstein sues former company over emails, records</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/w-league-preview-will-melbourne-city-be-champions-again/9093822"><em>SPORT</em>
+      W-League preview: Will Melbourne City be champions again?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/relatives-describe-moment-fire-engulfed-factory-killing-47/9093524">&#039;Victims were piled up&#039;: Relatives describe fatal fireworks factory explosion</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/which-period-product-is-best-for-the-environment/9090658">Tampons, pads, cups: Which period product is best for the environment?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/whooping-cough-hits-five-year-high-in-sa/9092820">Whooping cough rise driven by &#039;irresponsible&#039; parents not vaccinating</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/it-is-time-for-superannuation-to-be-fairer-to-women/9087556">Analysis: Women&#039;s superannuation not so super: The $120,000 gender gap</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-26/desley-lodwick-discovered-child-porn-on-her-husbands-computer/9086238">Imagine finding out you married a paedophile and the police won&#039;t listen</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/breast-cancer-survivors-agonising-wait-reconstruction-north-qld/9089424">Cancer survivor&#039;s six-year wait for breast reconstruction</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/7996774/thumbnail.png" alt="Start a chat with ABC News on Facebook Messenger" title="Start a chat with ABC News on Facebook Messenger" class="" width="220" />
+</a></div><div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+    <li><a href="/news/2016-06-16/what-is-snapchat-and-why-is-the-abc-on-it/7517174" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8208710/data/snapchat-data.jpg" alt="ABC News on Snapchat" title="ABC News on Snapchat" width="31" height="30" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/editorial-policies/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/editorial-policies/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2017-08-17/dual-citizenship-the-moment-we-could-have-avoided-this-mess/8807534" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8815512-16x9-220x124.jpg" alt="Did Sir John see this coming?" title="Sir John Hannah Gordon" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  The history of Section 44</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/michael-collett/166910" target="_self" title="">Michael Collett</a></p>
+		<p>Had history played out differently, Section 44 of the constitution could have looked very different and the current dual citizenship saga might not be happening.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2017-10-27/decision-to-reject-uluru-statement-is-indefensible/9093408" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8776510-16x9-220x124.jpg" alt="Malcolm Turnbull and Galarrwuy Yunupingu sitting next to each other and smiling at each other." title="Turnbull and Galarrwuy Yunupingu" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Uluru rejection indefensible</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Malcolm Turnbull has rejected the expressed wishes of the Indigenous people. It's an act of political bastardry that cannot be left unanswered, writes Sean Gordon.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2017-10-27/citizenship-seven-rulings-winners-and-losers/9050222" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8720606-16x9-220x124.jpg" alt="Greens Senator Larissa Waters tears up as she announces her resignation." title="Greens Senator Larissa Waters announces her resignation" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Citizenship Seven judgements</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By political correspondent <a href="/news/louise--yaxley/5553226" target="_self" title="">Louise Yaxley</a> and political reporter <a href="/news/5511636" target="_self" title="">Matthew Doran</a></p>
+		<p>The High Court has delivered its judgements.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2017-10-27/high-court-citizenship-ruling-health-check-for-our-democracy/9094214" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8596274-16x9-220x124.jpg" alt="Barnaby Joyce covers his face while wiping his eyes with his right hand during question time." title="Barnaby Joyce" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Democracy passed a health check</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Compare the Turnbull Government's reaction to Donald Trump tweeting attacks at the Supreme Court, writes Rosalind Dixon.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/citizenship-seven-turnbulls-challenges-after-high-court-blow/9089944">Turmoil ahead for PM as Joyce departs, taking one-seat margin with him</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/citizenship-decision-handed-down-by-high-court/9061302">Five of the Citizenship Seven booted by High Court</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/shell-shocked-barnaby-joyce-headed-for-byelection/9093388">Here&#039;s how Barnaby Joyce reacted to news of his disqualification</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/tamworth-locals-generally-back-barnaby-joyce-high-court/9092776">&#039;It&#039;s just garbage&#039;: Tamworth locals backing Joyce after High Court decision</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/man-who-cut-off-another-testicle-was-trying-to-help/9093286">Man who cut off 52yo&#039;s testicle was just trying to help, court hears</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/two-women-rescued-after-stranded-at-sea-for-five-months/9092774">Two women and their dogs rescued after five months stranded at sea</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/housing-volumes-could-plummet-and-prices-tank-citi/9092546">Housing volumes could plummet and prices tank: Citi</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/nrl-scorecentre/9083560">Rugby League World Cup live: Kangaroos open campaign against England</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/indigenous-leader-calls-malcolm-turnbull-a-mission-manager/9092436">Why Malcolm Turnbull being labelled a &#039;mission manager&#039; is such a scathing criticism</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/donald-trump-mexico-border-wall-prototypes-to-be-tested/9092096">Trump&#039;s border wall prototypes will be tested with sledgehammers and axes</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/a-league-finals-scorecentre/9083282">A-League live: Sydney FC on the hunt against Perth Glory</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/tamworth-locals-generally-back-barnaby-joyce-high-court/9092776">&#039;It&#039;s just garbage&#039;: Tamworth locals backing Joyce after High Court decision</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/nrl-scorecentre/9083560">Rugby League World Cup live: Kangaroos open campaign against England</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/premier-axes-mp-rick-willams-as-election-looms/9094692">Premier axes MP Rick Williams as Queensland election looms</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/high-court-citizenship-ruling-health-check-for-our-democracy/9094214">Our democracy passed a health check Trump has failed</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/w-league-preview-will-melbourne-city-be-champions-again/9093822">W-League preview: Will Melbourne City be champions again?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/citizenship-seven-turnbulls-challenges-after-high-court-blow/9089944">Turmoil ahead for PM as Joyce departs, taking one-seat margin with him</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/coroner-condemns-police-kevin-norris-death-custody/9093912">Coroner condemns police and paramedics over ice death in custody</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/decision-to-reject-uluru-statement-is-indefensible/9093408">Government&#039;s rejection of Uluru Statement indefensible</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/relatives-describe-moment-fire-engulfed-factory-killing-47/9093524">&#039;Victims were piled up&#039;: Relatives describe fatal fireworks factory explosion</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2017-10-27/live-blog-high-court-delivers-judgement-on-citizenship-seven/9085032">As it happened: Turnbull loses majority but keeps control as High Court boots Joyce out</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/citizenship-seven-rulings-winners-and-losers/9050222">Citizenship Seven winners and losers</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-26/desley-lodwick-discovered-child-porn-on-her-husbands-computer/9086238">Imagine finding out you married a paedophile and the police won&#039;t listen</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/donald-trump-holds-back-some-jfk-assassination-files/9091780">&#039;I have no choice&#039;: Trump holds back hundreds of JFK assassination files</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/harvey-weinstein-ashley-judd-struck-deal-to-escape-advances/9090802">Ashley Judd reveals she struck a deal with Weinstein to escape his advances</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/shell-shocked-barnaby-joyce-headed-for-byelection/9093388">Here&#039;s how Barnaby Joyce reacted to news of his disqualification</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/two-women-rescued-after-stranded-at-sea-for-five-months/9092774">Two women and their dogs rescued after five months stranded at sea</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/citizenship-decision-handed-down-by-high-court/9061302">Five of the Citizenship Seven booted by High Court</a>
+
+</li>
+<li>
+    <a href="/news/2017-10-26/aud-australian-dollar-plunges-against-major-currencies/9088486">Australian dollar plunge &#039;a long time coming&#039;, Westpac says </a>
+
+</li>
+<li>
+    <a href="/news/2017-10-27/michaelia-cash-hit-in-governments-pursuit-of-shorten-grattan/9092066">Grattan: Cash hit in Government&#039;s pursuit of Shorten</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/high-court-citizenship-ruling-health-check-for-our-democracy/9094214">Our democracy passed a health check Trump has failed</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/decision-to-reject-uluru-statement-is-indefensible/9093408">Government&#039;s rejection of Uluru Statement indefensible</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/technology-should-not-be-used-to-bargain-with-kids/9093540">Why you shouldn&#039;t use technology to bargain with your kids</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/new-england-by-election-barnaby-joyce-whats-next/9090188">Barnaby&#039;s out. Here&#039;s what happens next in New England</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/coconut-oil-debunking-five-common-claims-about-fad-food/9092780">Debunking five common claims about coconut oil</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/michaelia-cash-hit-in-governments-pursuit-of-shorten-grattan/9092066">Grattan: Cash hit in Government&#039;s pursuit of Shorten</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/richard-hinds-rugby-league-world-cup-do-fans-care/9089298">Hinds: Rugby League WC battling international codes&#039; derisory glances</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/surprise-captain-haynes-is-showing-she-can-do-the-job/9091348">Surprise captain Haynes is showing she can do the job</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/trump-putin-russia-us-relationship-diplomacy-going-backwards/9086088">Despite the conspiracies, Trump and Putin are going backwards fast</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2017-10-27/it-is-time-for-superannuation-to-be-fairer-to-women/9087556">Women&#039;s super not so super: The $120,000 gender gap</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/australia/"
+    >
+  
+
+  
+    
+        <span>Australia</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/rss/"
+    >
+  
+
+  
+    
+        <span>RSS Feeds</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/alerts/"
+    >
+  
+
+  
+    
+        <span>NewsMail</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/upload/"
+    >
+  
+
+  
+    
+        <span>Upload</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Suggest a Contributor</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEDT = Australian Eastern Daylight Savings Time which is 11 hours ahead of UTC (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="http://mobile.abc.net.au/news/2017-10-17/why-maos-cultural-revolution-still-haunts-xi-jinpings-china/9047782?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+<!-- Start Webtrends -->
+<div class="hide">
+  </div>
+<!-- End Webtrends -->
+<!--endnoindex--><!--Global footer-->
+<!--noindex-->
+<!-- Start ABC Bundle Footer 2.0.5 (customised) -->
+<nav id="abcFooter" class="global" role="navigation" aria-label="ABC Footer Navigation" data-version="2.0.5">
+ <ul>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm" data-mobile="http://www.abc.net.au/conditions.htm">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/" data-mobile="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/contact/" data-mobile="http://www.abc.net.au/contact/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm#UseOfContent" data-mobile="http://www.abc.net.au/conditions.htm#UseOfContent">&copy; <time>2017</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="http://www.abc.net.au/res/bundles/2.0.5/scripts/abc.bundle.2.0.5.min.js"></script>
+<script type="text/javascript" src="//www.abc.net.au/res/libraries/stats/abc.stats.js"></script>
+<noscript>
+ <img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au">
+</noscript>
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- End ABC Bundle Footer 2.0.5 -->
+<!--endnoindex-->
+<!--end global footer-->
+</body>
+</html>

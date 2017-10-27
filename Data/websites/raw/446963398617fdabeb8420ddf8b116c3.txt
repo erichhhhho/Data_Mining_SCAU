@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tonghua incident - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tonghua_incident","wgTitle":"Tonghua incident","wgCurRevisionId":795095418,"wgRevisionId":795095418,"wgArticleId":50967836,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from July 2016","All articles lacking in-text citations","Chinese Civil War","Occupied Japan","Japan–Korea relations","Massacres committed by China","Battles involving Korea","Battles involving Japan","Battles involving China","Anti-Japanese sentiment in China","1946 in China","History of Jilin","February 1946 events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tonghua_incident","wgRelevantArticleId":50967836,"wgRequestId":"WfAgCwpAMEkAAI-CdLkAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q11639553","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.4"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tonghua_incident"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tonghua_incident&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tonghua_incident&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tonghua_incident"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tonghua_incident rootpage-Tonghua_incident vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Tonghua incident</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(July 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>The <b>Tonghua incident</b> occurred on February 3, 1946 in southern <a href="/wiki/Jilin" title="Jilin">Jilin</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_Japanese_rebellion"><span class="tocnumber">2</span> <span class="toctext">The Japanese rebellion</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Aftermath_of_the_rebellion"><span class="tocnumber">3</span> <span class="toctext">Aftermath of the rebellion</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Subsequent_events"><span class="tocnumber">4</span> <span class="toctext">Subsequent events</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Tonghua" title="Tonghua">Tonghua</a>, being the local transport hub, had a large refugees flux in 1945. First instance of violence (a <a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%85%8B%E4%BA%8B%E4%BB%B6" class="extiw" title="ja:小山克事件">Shosankoku incident</a>) was reported 13 August 1945, when the train filled will civilian Japanese refugees was stopped at an elevated track near the tunnel entrance and the Japanese women were gang-raped by the locals after the train security guards were killed. The train was a by-catch to Chinese guerilla intercepting the preceding evacuation train of the family of the last Chinese Emperor (<a href="/wiki/Puyi" title="Puyi">Puyi</a>), most notably <a href="/wiki/Empress_Wanrong" title="Empress Wanrong">Empress Wanrong</a>. The incident featured children being killed by throwing out of windows, over 100 Japanese women committing suicide by jumping from the cliff, and mob shooting anybody who tried to escape. The rest of passengers were rescued when the battalion of the <a href="/wiki/Imperial_Japanese_Army" title="Imperial Japanese Army">Imperial Japanese Army</a>, alerted by the single escaped girl, has arrived the next morning. Many of the survivors of the <a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%85%8B%E4%BA%8B%E4%BB%B6" class="extiw" title="ja:小山克事件">Shosankoku incident</a> would become the inhabitants of the <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a> refugee camp and will also later be victims of the <b>Tonghua Incident</b>.</p>
+<p>By <a href="/wiki/Surrender_of_Japan" title="Surrender of Japan">surrender of Japan</a> the local refugee camp was filled by 17,000 Japanese locals and over 100,000 Japanese civilians fleeing from the other regions of China. The city was initially surrendered to the <a href="/wiki/Red_Army" title="Red Army">Red Army</a> but nominally controlled by the <a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%B0%91%E4%B8%BB%E9%80%A3%E8%BB%8D" class="extiw" title="ja:東北民主連軍">Democratic North-East Army</a>. Although according to <a href="/wiki/Sino-Soviet_Treaty_of_Friendship_and_Alliance" title="Sino-Soviet Treaty of Friendship and Alliance">Sino-Soviet Treaty of Friendship and Alliance</a> the support of <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> in Soviet-dominated areas was forbidden, the <a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%B0%91%E4%B8%BB%E9%80%A3%E8%BB%8D" class="extiw" title="ja:東北民主連軍">Democratic North-East Army</a> was a de facto affiliate of the communist <a href="/wiki/Eighth_Route_Army" title="Eighth Route Army">Eighth Route Army</a>.</p>
+<p>The tensions ran high first in late August 1945, when groups of Soviet soldiers repeatedly raided Tonghua Girl`s High School, raping, abducting and killing both students and teachers. At least one shootout with teacher possessing a concealed pistol was also reported, leading to additional raids. Participation of the male teachers in the rapes was also reported.</p>
+<p>The gang rapes, even in broad daylight on the streets, has happened, and at least one Soviet officer was shot dead while trying to stop his fellow soldiers. Japanese refugees responded mainly by shaving the women`s head bald, applying dirt and grease to the skin, and wearing a storage bags instead of normal clothes.</p>
+<p>In September 1946, a general withdrawal of the Soviet occupation forces was in progress. As the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> was seeking to control region to undermine <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> positions, a lot of killing was underway, with approximately 70,000 persons killed across <a href="/wiki/Manchuria" title="Manchuria">Manchuria</a> by March 1946. One of the organizations helping the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> to dismantle existing civilian infrastructure (both the residual Japanese and <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a>) was the <a href="https://ja.wikipedia.org/wiki/%E6%9D%8E%E7%B4%85%E5%85%89" class="extiw" title="ja:李紅光">Ri Koko</a> detachment staffed by mostly ethnic Koreans, many being the former members of the <a href="/wiki/Imperial_Japanese_Army" title="Imperial Japanese Army">Imperial Japanese Army</a>. That detachment was known for a particularly lousy discipline, especially compared to the regular <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> units.</p>
+<p>22 September 1945, the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a>-affiliated forces have evicted <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> forces from the <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a>. 2 November 1945, the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> positions in the city were consolidated enough so a red flag was raised over the headquarters.</p>
+<p>In the early November 1945, all property of people of Japanese ancestry was confiscated, and all Japanese males aged between 15 and 60 were forced to labour teams. From the 17 November 1945, Chinese Communist forces were raiding arbitrarily Japanese homes in search of weapons, and drafting everybody to labour teams, regardless of gender or age. Forced eviction of Japanese people from their dwelling has also started.</p>
+<p>From 10 December 1945, some of the former Japanese soldiers were recruited in the newly created aircraft squadron of the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> to help Chinese to master the captured Japanese airplanes. It was the part of <a href="/wiki/Ruse_de_guerre" title="Ruse de guerre">Ruse de guerre</a> intended to transmit a false image of the <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> still in control of the city with the help of the former personnel of <a href="/wiki/Kwantung_Army" title="Kwantung Army">Kwantung Army</a>. It should be noted what large-scale collaboration of Japanese units with <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> in the aftermath of the <a href="/wiki/Surrender_of_Japan" title="Surrender of Japan">surrender of Japan</a> was not uncommon, most notable being <a href="/wiki/47th_Division_(Imperial_Japanese_Army)" title="47th Division (Imperial Japanese Army)">47th division</a>.</p>
+<p>On 23 December 1945, a public event popularizing a collaboration between <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> and Japanese was held.</p>
+<p>5 January 1946, <a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%AE%9F%E5%BD%A6" class="extiw" title="ja:藤田実彦">Tanehiko Fujita</a>, a Japanese spokesperson in <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a> refugee camp, was called by <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> and requested to give out Japanese armament caches. He would be arrested later, 15 January 1946.</p>
+<p>10 January 1946, the <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a> branch of the "Japanese People`s Liberation Army" was disbanded, 140 Japanese arrested, among the persistent rumors concerning a wide scale rebellion by the <a href="/wiki/Kwantung_Army" title="Kwantung Army">Kwantung Army</a>.</p>
+<p>21 January 1946, further arrests and detentions of Japanese in the aftermath of the murders of high-ranking Japanese civilian leader.</p>
+<h2><span class="mw-headline" id="The_Japanese_rebellion">The Japanese rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=2" title="Edit section: The Japanese rebellion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2 February 1946, a phone call from <a href="https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E5%85%89%E7%B9%81" class="extiw" title="ja:前田光繁">Mitsushige Maeda</a> was received by the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> office in <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a> regarding the planned rebellion in a refugee camp. A wave of arrests, interrogation with torture, and executions followed immediately. In particular, all Japanese arrested 10 January 1946 were immediately shot. The <a href="https://ja.wikipedia.org/wiki/%E6%9D%8E%E7%B4%85%E5%85%89" class="extiw" title="ja:李紅光">Ri Koko</a> Korean detachment acted with the particular cruelty.</p>
+<p>At midnight on 3 February 1946, the Japanese rebellion started according to the agreement with the <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a>. Although it was initially planned to get help from the <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> forces in <a href="/wiki/Shenyang" title="Shenyang">Shenyang</a>, the radio message postponing the rebellion was not received due to equipment failure. As a result, several hundred Japanese attackers, armed mostly with shovels and clubs, with a small number of swords or rifles, were mowed down by machine gun fire from ambush positions, both inside and outside the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> headquarters. The rebellion on the airfield was thwarted before even starting. Therefore, out of three rebel attacks, only the attack aimed to take control of <a href="/wiki/Empress_Wanrong" title="Empress Wanrong">Empress Wanrong</a> apartments in the Public Security building succeeded.</p>
+<p>The Public Security building was soon surrounded by <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> reinforcements and shelled. The Japanese rebels, lacking heavy weapons, then surrendered.</p>
+<h2><span class="mw-headline" id="Aftermath_of_the_rebellion">Aftermath of the rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=3" title="Edit section: Aftermath of the rebellion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the morning 3 February 1946, all Japanese males 16-years old or older, and suspected females, frequently wearing only pajamas, were forced out of refugee camp, chained and forced to march 15&#160;km at the minus 20 degrees weather. Anybody falling from exhaustion or wounds was shot dead.</p>
+<p>About 3,000 Japanese men and women were packed in the old warehouses, packing 5 persons per square meter. A lot of them went berserk because of the lack of oxygen, but anybody climbing a window was shot. Soon the flooring has turned into the pool of blood, and people continue to die still standing. Even corpses would not fall because of extreme crowding. About 2,000 civilians who did not fit into warehouses were plainly shot nearby.</p>
+<p>After 5 days of confinement, the survivors were let to walk out, only to be beaten to death by guards belonging to <a href="https://ja.wikipedia.org/wiki/%E6%9D%8E%E7%B4%85%E5%85%89" class="extiw" title="ja:李紅光">Ri Koko</a> detachment. The <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> also have carried a rapid interrogation and torture. The persons deemed related to the rebellion were lined up right on the site and shot. Also, many of the Japanese women were either raped by <a href="https://ja.wikipedia.org/wiki/%E6%9D%8E%E7%B4%85%E5%85%89" class="extiw" title="ja:李紅光">Ri Koko</a> detachment members or committed suicide, before or after rapes.</p>
+<p>The <a href="https://ja.wikipedia.org/wiki/%E5%AD%AB%E8%80%95%E6%9A%81" class="extiw" title="ja:孫耕暁">Sun Keng-hsiao</a>, a <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a>-appointed governor of the region, was publicly flogged to death by the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> together with the Japanese rebellion leaders. The <a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%AE%9F%E5%BD%A6" class="extiw" title="ja:藤田実彦">Tanehiko Fujita</a>, the nominal Japanese leader in <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a>, have died 15 March 1946 in prison due to pneumonia.</p>
+<h2><span class="mw-headline" id="Subsequent_events">Subsequent events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=4" title="Edit section: Subsequent events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> has captured <a href="/wiki/Tonghua" title="Tonghua">Tonghua</a> in late 1946 and held a memorial service to the victims of the rebellion. The city was lost again to the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> in 1947.</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=5" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id=".E6.9D.BE.E5.8E.9F_.281972.29" class="citation book"><a href="/w/index.php?title=%E6%9D%BE%E5%8E%9F%E4%B8%80%E6%9E%9D&amp;action=edit&amp;redlink=1" class="new" title="松原一枝 (page does not exist)">松原一枝</a> (1972-10-15). <i>藤田大佐の最後</i>. <a href="/w/index.php?title=%E6%96%87%E8%97%9D%E6%98%A5%E7%A7%8B&amp;action=edit&amp;redlink=1" class="new" title="文藝春秋 (page does not exist)">文藝春秋</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E6%9D%BE%E5%8E%9F%E4%B8%80%E6%9E%9D&amp;rft.btitle=%E8%97%A4%E7%94%B0%E5%A4%A7%E4%BD%90%E3%81%AE%E6%9C%80%E5%BE%8C&amp;rft.date=1972-10-15&amp;rft.genre=book&amp;rft.pub=%E6%96%87%E8%97%9D%E6%98%A5%E7%A7%8B&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E6.9D.BE.E5.8E.9F_.281982.29" class="citation book">松原一枝 (1982-03-01). <i>電灯が三回点滅した―通化事件と藤田大佐</i>. <a href="/w/index.php?title=%E3%82%A8%E3%82%A4%E3%82%B8%E5%87%BA%E7%89%88&amp;action=edit&amp;redlink=1" class="new" title="エイジ出版 (page does not exist)">エイジ出版</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-900225-09-6" title="Special:BookSources/4-900225-09-6">4-900225-09-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E6%9D%BE%E5%8E%9F%E4%B8%80%E6%9E%9D&amp;rft.btitle=%E9%9B%BB%E7%81%AF%E3%81%8C%E4%B8%89%E5%9B%9E%E7%82%B9%E6%BB%85%E3%81%97%E3%81%9F%E2%80%95%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6%E3%81%A8%E8%97%A4%E7%94%B0%E5%A4%A7%E4%BD%90&amp;rft.date=1982-03-01&amp;rft.genre=book&amp;rft.isbn=4-900225-09-6&amp;rft.pub=%E3%82%A8%E3%82%A4%E3%82%B8%E5%87%BA%E7%89%88&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E6.9D.BE.E5.8E.9F_.282003.29" class="citation book">松原一枝 (2003-08-08). <i>通化事件―"関東軍の反乱"と参謀・藤田実彦の最期</i>. <a href="/w/index.php?title=%E3%83%81%E3%82%AF%E3%83%9E%E7%A7%80%E7%89%88%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="チクマ秀版社 (page does not exist)">チクマ秀版社</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-8050-0420-7" title="Special:BookSources/4-8050-0420-7">4-8050-0420-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E6%9D%BE%E5%8E%9F%E4%B8%80%E6%9E%9D&amp;rft.btitle=%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6%E2%80%95%22%E9%96%A2%E6%9D%B1%E8%BB%8D%E3%81%AE%E5%8F%8D%E4%B9%B1%22%E3%81%A8%E5%8F%82%E8%AC%80%E3%83%BB%E8%97%A4%E7%94%B0%E5%AE%9F%E5%BD%A6%E3%81%AE%E6%9C%80%E6%9C%9F&amp;rft.date=2003-08-08&amp;rft.genre=book&amp;rft.isbn=4-8050-0420-7&amp;rft.pub=%E3%83%81%E3%82%AF%E3%83%9E%E7%A7%80%E7%89%88%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E4.BD.90.E8.97.A4_.281989.29" class="citation book"><a href="/w/index.php?title=%E4%BD%90%E8%97%A4%E5%92%8C%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="佐藤和明 (page does not exist)">佐藤和明</a> (1989-07-20). <i>通化事件―無条件降伏下、武装蜂起した日本人</i>. <a href="/w/index.php?title=%E6%96%B0%E8%A9%95%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="新評論 (page does not exist)">新評論</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-7948-0038-X" title="Special:BookSources/4-7948-0038-X">4-7948-0038-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E4%BD%90%E8%97%A4%E5%92%8C%E6%98%8E&amp;rft.btitle=%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6%E2%80%95%E7%84%A1%E6%9D%A1%E4%BB%B6%E9%99%8D%E4%BC%8F%E4%B8%8B%E3%80%81%E6%AD%A6%E8%A3%85%E8%9C%82%E8%B5%B7%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E4%BA%BA&amp;rft.date=1989-07-20&amp;rft.genre=book&amp;rft.isbn=4-7948-0038-X&amp;rft.pub=%E6%96%B0%E8%A9%95%E8%AB%96&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E4.BD.90.E8.97.A4_.281993.29" class="citation book">佐藤和明 (1993-04-25). <i>通化事件―共産軍による日本人虐殺事件はあったのか? いま日中双方の証言で明らかにする</i>. 新評論. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-7948-0174-2" title="Special:BookSources/4-7948-0174-2">4-7948-0174-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E4%BD%90%E8%97%A4%E5%92%8C%E6%98%8E&amp;rft.btitle=%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6%E2%80%95%E5%85%B1%E7%94%A3%E8%BB%8D%E3%81%AB%E3%82%88%E3%82%8B%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%99%90%E6%AE%BA%E4%BA%8B%E4%BB%B6%E3%81%AF%E3%81%82%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%3F+%E3%81%84%E3%81%BE%E6%97%A5%E4%B8%AD%E5%8F%8C%E6%96%B9%E3%81%AE%E8%A8%BC%E8%A8%80%E3%81%A7%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B&amp;rft.date=1993-04-25&amp;rft.genre=book&amp;rft.isbn=4-7948-0174-2&amp;rft.pub=%E6%96%B0%E8%A9%95%E8%AB%96&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E4.BD.90.E8.97.A4_.281998.29" class="citation book">佐藤和明 (1998-02-03). <i>少年は見た―通化事件の真実</i>. 新評論. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-7948-0386-9" title="Special:BookSources/4-7948-0386-9">4-7948-0386-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E4%BD%90%E8%97%A4%E5%92%8C%E6%98%8E&amp;rft.btitle=%E5%B0%91%E5%B9%B4%E3%81%AF%E8%A6%8B%E3%81%9F%E2%80%95%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6%E3%81%AE%E7%9C%9F%E5%AE%9F&amp;rft.date=1998-02-03&amp;rft.genre=book&amp;rft.isbn=4-7948-0386-9&amp;rft.pub=%E6%96%B0%E8%A9%95%E8%AB%96&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E5.8C.97.E9.87.8E_.281992.29" class="citation book">北野憲二 (1992-05-01). <i>満州国皇帝の通化落ち</i>. <a href="/w/index.php?title=%E6%96%B0%E4%BA%BA%E7%89%A9%E5%BE%80%E6%9D%A5%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="新人物往来社 (page does not exist)">新人物往来社</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-404-01910-6" title="Special:BookSources/4-404-01910-6">4-404-01910-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E5%8C%97%E9%87%8E%E6%86%B2%E4%BA%8C&amp;rft.btitle=%E6%BA%80%E5%B7%9E%E5%9B%BD%E7%9A%87%E5%B8%9D%E3%81%AE%E9%80%9A%E5%8C%96%E8%90%BD%E3%81%A1&amp;rft.date=1992-05-01&amp;rft.genre=book&amp;rft.isbn=4-404-01910-6&amp;rft.pub=%E6%96%B0%E4%BA%BA%E7%89%A9%E5%BE%80%E6%9D%A5%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E5.8C.97.E9.87.8E_.281992.29" class="citation book">北野憲二 (1992-05-01). <i>満州国皇帝の通化落ち</i>. <a href="/w/index.php?title=%E6%96%B0%E4%BA%BA%E7%89%A9%E5%BE%80%E6%9D%A5%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="新人物往来社 (page does not exist)">新人物往来社</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-404-01910-6" title="Special:BookSources/4-404-01910-6">4-404-01910-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E5%8C%97%E9%87%8E%E6%86%B2%E4%BA%8C&amp;rft.btitle=%E6%BA%80%E5%B7%9E%E5%9B%BD%E7%9A%87%E5%B8%9D%E3%81%AE%E9%80%9A%E5%8C%96%E8%90%BD%E3%81%A1&amp;rft.date=1992-05-01&amp;rft.genre=book&amp;rft.isbn=4-404-01910-6&amp;rft.pub=%E6%96%B0%E4%BA%BA%E7%89%A9%E5%BE%80%E6%9D%A5%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E5.A4.A7.E6.9D.91_.281974.29" class="citation book"><a href="/w/index.php?title=%E5%A4%A7%E6%9D%91%E5%8D%93%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="大村卓一 (page does not exist)">大村卓一</a>追悼録編纂会 (1974-08-01). <i>大村卓一</i>. <a href="/w/index.php?title=%E5%A4%A7%E6%9D%91%E5%8D%93%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="大村卓一 (page does not exist)">大村卓一</a>追悼録編纂会. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-404-01910-6" title="Special:BookSources/4-404-01910-6">4-404-01910-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E5%A4%A7%E6%9D%91%E5%8D%93%E4%B8%80%E8%BF%BD%E6%82%BC%E9%8C%B2%E7%B7%A8%E7%BA%82%E4%BC%9A&amp;rft.btitle=%E5%A4%A7%E6%9D%91%E5%8D%93%E4%B8%80&amp;rft.date=1974-08-01&amp;rft.genre=book&amp;rft.isbn=4-404-01910-6&amp;rft.pub=%E5%A4%A7%E6%9D%91%E5%8D%93%E4%B8%80%E8%BF%BD%E6%82%BC%E9%8C%B2%E7%B7%A8%E7%BA%82%E4%BC%9A&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li class="mw-empty-elt"></li>
+<li><cite id=".E5.B1.B1.E7.94.B0_.281953.29" class="citation journal">山田一郎 (1953-06-10). 田村吉雄, ed. "通化幾山河". <i>秘録大東亜戦史 満洲篇 (下)</i>. 富士書苑: 9～74頁.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.atitle=%E9%80%9A%E5%8C%96%E5%B9%BE%E5%B1%B1%E6%B2%B3&amp;rft.au=%E5%B1%B1%E7%94%B0%E4%B8%80%E9%83%8E&amp;rft.date=1953-06-10&amp;rft.genre=article&amp;rft.jtitle=%E7%A7%98%E9%8C%B2%E5%A4%A7%E6%9D%B1%E4%BA%9C%E6%88%A6%E5%8F%B2+%E6%BA%80%E6%B4%B2%E7%AF%87+%28%E4%B8%8B%29&amp;rft.pages=9%EF%BD%9E74%E9%A0%81&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E5.8F.A4.E5.B7.9D_.281984.29" class="citation book">古川万太郎 (1984-08-24). <i>凍てつく大地の歌: 人民解放軍日本人兵士たち</i>. <a href="/w/index.php?title=%E4%B8%89%E7%9C%81%E5%A0%82&amp;action=edit&amp;redlink=1" class="new" title="三省堂 (page does not exist)">三省堂</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4385349142" title="Special:BookSources/4385349142">4385349142</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E5%8F%A4%E5%B7%9D%E4%B8%87%E5%A4%AA%E9%83%8E&amp;rft.btitle=%E5%87%8D%E3%81%A6%E3%81%A4%E3%81%8F%E5%A4%A7%E5%9C%B0%E3%81%AE%E6%AD%8C%3A+%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%85%B5%E5%A3%AB%E3%81%9F%E3%81%A1&amp;rft.date=1984-08-24&amp;rft.genre=book&amp;rft.isbn=4385349142&amp;rft.pub=%E4%B8%89%E7%9C%81%E5%A0%82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id=".E6.84.9B.E6.96.B0.E8.A6.9A.E7.BE.85_.281992.29" class="citation book"><a href="/w/index.php?title=%E6%84%9B%E6%96%B0%E8%A6%9A%E7%BE%85%E6%B5%A9&amp;action=edit&amp;redlink=1" class="new" title="愛新覚羅浩 (page does not exist)">愛新覚羅浩</a> (1992). <i><a href="/w/index.php?title=%E6%B5%81%E8%BB%A2%E3%81%AE%E7%8E%8B%E5%A6%83&amp;action=edit&amp;redlink=1" class="new" title="流転の王妃 (page does not exist)">流転の王妃</a>の昭和史</i>. 〈<a href="/w/index.php?title=%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB&amp;action=edit&amp;redlink=1" class="new" title="新潮文庫 (page does not exist)">新潮文庫</a>〉. <a href="/wiki/%E6%96%B0%E6%BD%AE%E7%A4%BE" class="mw-redirect" title="新潮社">新潮社</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/4-10-126311-6" title="Special:BookSources/4-10-126311-6">4-10-126311-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATonghua+incident&amp;rft.au=%E6%84%9B%E6%96%B0%E8%A6%9A%E7%BE%85%E6%B5%A9&amp;rft.btitle=%E6%B5%81%E8%BB%A2%E3%81%AE%E7%8E%8B%E5%A6%83%E3%81%AE%E6%98%AD%E5%92%8C%E5%8F%B2&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=4-10-126311-6&amp;rft.pub=%E6%96%B0%E6%BD%AE%E7%A4%BE&amp;rft.series=%E3%80%88%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB%E3%80%89&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.a-kamita.jp/kamita_h/tsuka/tsuka_index.html">紙田治一 遺稿【通化事件】</a> 医師・紙田治一の記録</li>
+<li><a rel="nofollow" class="external text" href="http://www.ohproject.com/ivlist/01/08.html#tuu">山下好之氏 第4回 8.通化から牡丹江・桂木斯へ撤退</a> OralHistoryProject</li>
+<li><a rel="nofollow" class="external text" href="http://d.hatena.ne.jp/satoumamoru/20051108">中共空軍創設秘話その3</a> 軍事評論家<a href="/w/index.php?title=%E4%BD%90%E8%97%A4%E5%AE%88&amp;action=edit&amp;redlink=1" class="new" title="佐藤守 (page does not exist)">佐藤守</a> 2005-11-08</li>
+<li><a rel="nofollow" class="external text" href="http://www.peoplechina.com.cn/maindoc/html/200603/zhuanwen64.htm">中国空軍創設につくした日本人教官元空軍司令官が回想する</a> 『人民中国』</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Allied_war_crimes_during_World_War_II" title="Allied war crimes during World War II">Allied war crimes during World War II</a></li>
+<li><a href="/wiki/Nikolayevsk_incident" title="Nikolayevsk incident">Nikolayevsk incident</a></li>
+<li><a href="/wiki/Gegenmiao_massacre" title="Gegenmiao massacre">Gegenmiao massacre</a></li>
+<li><a href="/wiki/Japanese_prisoners_of_war_in_the_Soviet_Union" title="Japanese prisoners of war in the Soviet Union">Japanese prisoners of war in the Soviet Union</a></li>
+<li><a href="/wiki/Tungchow_mutiny" title="Tungchow mutiny">Tungchow mutiny</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20171017140801
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.168 seconds
+Preprocessor visited node count: 537/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23076/2097152 bytes
+Template argument size: 98/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 3.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.494      1 -total
+ 57.95%   77.366     11 Template:Cite_book
+ 37.01%   49.411      1 Template:No_footnotes
+ 22.60%   30.166      1 Template:Ambox
+  4.29%    5.729      1 Template:Cite_journal
+  2.15%    2.864      2 Template:Yesno-no
+  1.16%    1.546      2 Template:Yesno
+  1.15%    1.537      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50967836-0!canonical and timestamp 20171017140801 and revision id 795095418
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tonghua_incident&amp;oldid=795095418">https://en.wikipedia.org/w/index.php?title=Tonghua_incident&amp;oldid=795095418</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chinese_Civil_War" title="Category:Chinese Civil War">Chinese Civil War</a></li><li><a href="/wiki/Category:Occupied_Japan" title="Category:Occupied Japan">Occupied Japan</a></li><li><a href="/wiki/Category:Japan%E2%80%93Korea_relations" title="Category:Japan–Korea relations">Japan–Korea relations</a></li><li><a href="/wiki/Category:Massacres_committed_by_China" title="Category:Massacres committed by China">Massacres committed by China</a></li><li><a href="/wiki/Category:Battles_involving_Korea" title="Category:Battles involving Korea">Battles involving Korea</a></li><li><a href="/wiki/Category:Battles_involving_Japan" title="Category:Battles involving Japan">Battles involving Japan</a></li><li><a href="/wiki/Category:Battles_involving_China" title="Category:Battles involving China">Battles involving China</a></li><li><a href="/wiki/Category:Anti-Japanese_sentiment_in_China" title="Category:Anti-Japanese sentiment in China">Anti-Japanese sentiment in China</a></li><li><a href="/wiki/Category:1946_in_China" title="Category:1946 in China">1946 in China</a></li><li><a href="/wiki/Category:History_of_Jilin" title="Category:History of Jilin">History of Jilin</a></li><li><a href="/wiki/Category:February_1946_events" title="Category:February 1946 events">February 1946 events</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2016" title="Category:Articles lacking in-text citations from July 2016">Articles lacking in-text citations from July 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tonghua+incident" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tonghua+incident" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tonghua_incident" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Tonghua_incident" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Tonghua_incident">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Tonghua_incident&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tonghua_incident&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tonghua_incident" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tonghua_incident" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tonghua_incident&amp;oldid=795095418" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tonghua_incident&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11639553" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tonghua_incident&amp;id=795095418" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tonghua+incident">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tonghua+incident&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tonghua_incident&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%B5%ED%99%94_%EC%82%AC%EA%B1%B4" title="통화 사건 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6" title="通化事件 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%80%9A%E5%8C%96%E4%BA%8B%E4%BB%B6" title="通化事件 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11639553#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 11 August 2017, at 23:57.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tonghua_incident&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.168","ppvisitednodes":{"value":537,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23076,"limit":2097152},"templateargumentsize":{"value":98,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  133.494      1 -total"," 57.95%   77.366     11 Template:Cite_book"," 37.01%   49.411      1 Template:No_footnotes"," 22.60%   30.166      1 Template:Ambox","  4.29%    5.729      1 Template:Cite_journal","  2.15%    2.864      2 Template:Yesno-no","  1.16%    1.546      2 Template:Yesno","  1.15%    1.537      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":3405664,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20171017140801","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1238"});});</script>
+	</body>
+</html>

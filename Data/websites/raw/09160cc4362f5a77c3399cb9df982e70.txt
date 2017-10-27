@@ -1,0 +1,1428 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:app_id" content="192781301158737" />
+<link rel="shortcut icon" href="https://www.tes.com/sites/default/themes/custom/tesla/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="amphtml" href="https://www.tes.com/news/school-news/breaking-news/ps10m-mandarin-schools-programme-reaches-less-third-target-half-way?amp" />
+<script async="true" src="https://www.tes.com/cdn/vendor/library/font-loader-1.4.js"></script><meta name="description" content="Concerns have been raised about Department for Education programme aimed at getting 5,000 young people speaking Mandarin by 2020" />
+<meta name="news_keywords" content="mandarin, language, schools, languages, chinese, china, department for education, pupils, teachers, school, education" />
+<link rel="canonical" href="https://www.tes.com/news/school-news/breaking-news/ps10m-mandarin-schools-programme-reaches-less-third-target-half-way" />
+<link rel="shortlink" href="https://www.tes.com/node/363880" />
+<meta name="generator" content="Tes Global" />
+<meta property="fb:admins" content="536250331" />
+<meta property="fb:app_id" content="192781301158737" />
+<meta property="fb:pages" content="107509875938399" />
+<meta property="og:type" content="article" />
+<meta property="mz:id" content="363880" />
+<meta property="mz:section" content="news" />
+<meta property="og:site_name" content="Tes" />
+<meta property="mz:subsection" content="School news" />
+<meta property="mz:type" content="news_article" />
+<meta property="og:title" content="£10m Mandarin schools programme reaches less than third of target half-way through" />
+<meta property="mz:pagename" content="£10m Mandarin schools programme reaches less than third of target half-way through" />
+<meta property="og:updated_time" content="2017-10-18T15:09:29+01:00" />
+<meta property="og:image" content="https://www.tes.com/sites/default/files/news_article_images/mandarin_teacher.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="http://www.tes.com/news/school-news/breaking-news/ps10m-mandarin-schools-programme-reaches-less-third-target-half-way" />
+<meta name="twitter:title" content="£10m Mandarin schools programme &#039;falling short of target&#039;" />
+<meta name="twitter:description" content="Concerns have been raised about DfE programme aimed at getting 5,000 young people speaking Mandarin by 2020" />
+<meta name="twitter:image" content="https://www.tes.com/sites/default/files/mandarin_teacher.jpg" />
+<meta property="article:published_time" content="2017-10-18T09:41:36+01:00" />
+<meta property="article:modified_time" content="2017-10-18T15:09:29+01:00" />
+  <title>£10m Mandarin schools programme 'falling short of target' | Tes</title>
+  <link type="text/css" rel="stylesheet" href="https://www.tes.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.tes.com/sites/default/files/css/css_IjVDL-ZVE5VXwAMiNOtvj8kUoE0ESNenqVTFGzGmD7g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.tes.com/sites/default/files/css/css_PzILVE1eHgxr6TeXuJfx7HlFTThNtTog_Uwkm38cXSQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.tes.com/sites/default/files/css/css_uOT_uo6aemUlAskQonSws3BxilTPu4wzeO1PchExtmQ.css" media="all" />
+<style>.fb-comments-fluid,.fb-comments-fluid span,.fb-comments-fluid iframe{width:100% !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.tes.com/sites/default/files/css/css_rO6IUpcLMms3sKua5a8HA0dX6mGxTqZQR85nzVWAgXo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.tes.com/cdn/site-assets/3019/css/base.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.tes.com/sites/default/files/css/css_MiRjZt8oKzzmMauiqQxGANXFTYHQ2UKhWNiWd-nqGbA.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.tes.com/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_iQOjimF2WdU9TxIqgS4_6UQXz1ogXzjBo5VdpoK60rE.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_oPuGz_xGawVKsr_dFdWWP73nRwtAWm33PyyeYha-oj8.js"></script>
+<script src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_CPYm_O9tehbeG0r1MiZdIWT33kVSCqLq5FTDRBRlXUA.js"></script>
+<script src="https://www.tes.com/cdn/vendor/library/qa-widget-loader.v2.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_osNtRGvH7Vk_ZyynlQW3-1hBICZdaSd1tYpHjxx6lME.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_HbE2XwzjmAgINxgddfJIkmp_TqZJiMR223hyz8f84-0.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_-wn3DevaoCXj0BVHdeUMOLuyjKKwyqlHKWQUoZEU9EA.js"></script>
+<script src="https://www.tes.com/cdn/vendor/library/tes-events.min.js"></script>
+<script src="https://www.tes.com/cdn/site-assets/3019/js/global.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tesla","theme_token":"6tzI7CPqZWI6rjqVwDw4lc_QTqcaRzcx5d-vc5tugfo","js":{"sites\/all\/modules\/shared\/cms_modules\/the_dfp\/js\/the_dfp.js":1,"sites\/default\/modules\/custom\/tes_page_builder_variant\/js\/mz_wrapper.js":1,"sites\/default\/modules\/custom\/tes_page_builder_variant\/js\/jq_variant_plugins.js":1,"0":1,"sites\/all\/modules\/shared\/cms_modules\/mz_analytics\/js\/mz_analytics.js":1,"https:\/\/native.sharethrough.com\/assets\/sfp.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/shared\/cms_modules\/tes_license_search\/js\/scripts.js":1,"sites\/all\/modules\/authcache\/authcache.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/modules\/contrib\/pugpig\/core\/js\/pugpig.js":1,"sites\/default\/modules\/custom\/tes_comments\/js\/comments.js":1,"https:\/\/www.tes.com\/cdn\/vendor\/library\/qa-widget-loader.v2.js":1,"sites\/default\/libraries\/timeago\/jquery.timeago.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/default\/modules\/custom\/tes_user_restrictions\/js\/clear_padlock.js":1,"sites\/all\/modules\/contrib\/timeago\/timeago.js":1,"sites\/all\/modules\/authcache\/modules\/authcache_debug\/authcache_debug.js":1,"sites\/all\/libraries\/swipe\/swipe.js":1,"sites\/all\/libraries\/slick\/slick\/slick.min.js":1,"sites\/all\/modules\/contrib\/chosen\/chosen.js":1,"sites\/default\/themes\/custom\/tesla\/js\/collapsible.js":1,"sites\/default\/themes\/custom\/tesla\/js\/carousel-bullets.js":1,"sites\/default\/themes\/custom\/tesla\/js\/tabs.js":1,"sites\/default\/themes\/custom\/tesla\/js\/dropdown-menu.js":1,"sites\/default\/themes\/custom\/tesla\/js\/script.js":1,"sites\/default\/themes\/custom\/tesla\/js\/hs.js":1,"sites\/default\/themes\/custom\/tesla\/js\/tesla_subject_genius.js":1,"https:\/\/www.tes.com\/cdn\/vendor\/library\/tes-events.min.js":1,"https:\/\/www.tes.com\/cdn\/site-assets\/3019\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/default\/themes\/custom\/tesla\/css\/vendors\/bootstrap-sass\/bootstrap_styles.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/default\/modules\/custom\/tes_page_builder_components\/css\/general_marketing_block.css":1,"sites\/default\/modules\/custom\/tes_panel_layouts\/plugins\/layouts\/article_content_area\/article_content_area.css":1,"0":1,"sites\/default\/modules\/custom\/tes_page_builder_components\/css\/hacks.css":1,"sites\/default\/modules\/custom\/tes_page_builder\/css\/tes_page_builder_generic.css":1,"sites\/default\/modules\/custom\/tes_page_builder\/css\/tes_page_builder_pager.css":1,"sites\/all\/modules\/authcache\/modules\/authcache_debug\/authcache_debug.css":1,"sites\/all\/libraries\/slick\/slick\/slick.css":1,"https:\/\/www.tes.com\/cdn\/site-assets\/3019\/css\/base.css":1,"sites\/default\/themes\/custom\/tesla\/css\/style.css":1}},"authcache":{"q":"node\/363880","cp":{"path":"\/","domain":".tes.com","secure":true},"cl":23.148148148148},"better_exposed_filters":{"views":{"news_tags_panes":{"displays":{"news_article_tags":{"filters":[]}}},"news_panes":{"displays":{"teasers":{"filters":{"views_exclude_previous":{"required":false}}}}}}},"tes_comments":{"nid":"363880","type":"news_article"},"timeago":{"refreshMillis":60000,"allowFuture":true,"localeTitle":false,"cutoff":0,"strings":{"prefixAgo":"","prefixFromNow":"","suffixAgo":"ago","suffixFromNow":"from now","seconds":"less than a minute","minute":"about a minute","minutes":"%d minutes","hour":"an hour","hours":"%d hours","day":"a day","days":"%d days","month":"a month","months":"%d months","year":"a year","years":"%d years","wordSeparator":" "}},"the_dfp":{"slots":[],"enable_debug":0,"keyvalues":{"4f7ca479259ed97112e015e333c03907":{"nid":"363880"}}},"chosen":{"selector":"","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"options":{"disable_search":false,"disable_search_threshold":0,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/news\/school-news\/breaking-news\/ps10m-mandarin-schools-programme-reaches-less-third-target-half-way":true},"authcacheDebug":{"url":"\/authcache-debug\/ajax\/req-9r_2Sm658k0TKkrsVxEhPRNxvhusd_MFpjEGkutrU6w","all":false},"mz_variables":{"mz_script":"https:\/\/duqxiy1o2cbw6.cloudfront.net\/tes\/mz\/427\/js\/mz.js","user_variables":[],"mz_domain":"https:\/\/www.tes.com","version_number":1,"admin_tracking":0},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-363880 node-type-news-article page-taxonomy-term-47">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header class="js-masthead">
+          <div class="region region-navigation">
+    <section id="block-the-dfp-the-dfp-header" class="block block-the-dfp masthead-advert clearfix">
+
+      
+  <div id="div-gpt-ad-399969272042187-2" data-ad-unit="2884/TES_News/News_Top/news_article" data-ad-mobile-size="[728,90]" data-ad-size="[[728,90],[970,90],[970,250],[970,31],[1,1]]" data-ad-priority="high" data-ad-key-values="4f7ca479259ed97112e015e333c03907" class="the-dfp"></div>
+
+</section>
+<section id="block-tes-assets-service-tes-masthead" class="block block-tes-assets-service clearfix">
+
+      
+  <header class="masthead t-masthead" data-fragment-endpoint="/fragments/masthead-nav?logged-in&#x3D;true&amp;ajax&#x3D;true&amp;pageUrl&#x3D;https://www.tes.com/news/school-news/breaking-news/ps10m-mandarin-schools-programme-reaches-less-third-target-half-way&amp;geo&#x3D;GB" data-fragment-status="loggedout">
+  <script cx-replace-outer="true" cx-server-push="" src="https://www.tes.com/cdn/vendor/library/tes-events-2.1.3.min.js"></script>
+  <script async="" cx-replace-outer="true" src="https://www.tes.com/cdn/vendor/library/async-define/react-15.3_reactdom-15.3_redux-3.6_reactredux-4.4_a.min.js"></script>
+  <script>
+    window.TES = window.TES || {};
+    TES.imageCDN = '';
+    TES.siteAssetsCDN = 'https://www.tes.com/cdn/site-assets/3019/';
+    TES.appAuthnApiUrl = '';
+    (function (html){
+      var classes = html.className.replace(/no-js/, '').replace(/noJs/, '');
+      html.className = classes + ' js tes-js';
+    }(document.documentElement));
+  </script>
+  <!-- Start Visual Website Optimizer Asynchronous Code -->
+  <script type="text/javascript">
+  var _vwo_code=(function(){
+  var account_id=265077,
+  settings_tolerance=2000,
+  library_tolerance=2500,
+  use_existing_jquery=false,
+  f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+  <!-- End Visual Website Optimizer Asynchronous Code -->  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '192781301158737',
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+      FB.AppEvents.logPageView();
+    };
+  
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <div class="masthead__inner">
+    <div class="masthead__logo">
+      <a href="https://www.tes.com/" data-mz="" data-module="primary-nav" data-id="logo" class="masthead__logo-link">
+        <img class="masthead__logo-marker" src="https://www.tes.com/logo.svg?variation=marker-white" width="25" height="24" alt="Tes. For teaching."/>
+        <img class="masthead__logo-text masthead__logo-text" src="https://www.tes.com/logo.svg?theme=text" width="39" height="24" alt="Tes. For teaching."/>
+      </a>
+      <button type="button" class="masthead__mobile-nav-logged-out-toggle tes-btn" data-toggle-class="fr-masthead-mobile-nav-logged-out-active" data-module="masthead" data-id="mobile-logged-out-menu-toggle" data-panel-class="masthead__mobile-nav-logged-out">
+        <img class="masthead__logo-marker" src="https://www.tes.com/logo.svg?variation=marker-white" width="25" height="24" alt="Tes. For teaching."/>
+        <img class="masthead__logo-text masthead__logo-text-dark" src="https://www.tes.com/logo.svg?theme=text" width="39" height="24" alt="Tes. For teaching."/>
+        <img class="masthead__logo-text masthead__logo-text-light" src="https://www.tes.com/logo.svg?theme=text&variation=black" width="39" height="24" alt="Tes. For teaching."/>
+        <i class="masthead__mobile-nav-toggle-icon icon-chevron-rounded-down icon-white"></i>
+        <i class="masthead__mobile-nav-toggle-icon masthead__mobile-nav-toggle-icon-dark icon-chevron-rounded-up"></i>
+      </button>
+      <button type="button" class="masthead__mobile-nav-logged-in-toggle tes-btn" data-toggle-class="fr-masthead-mobile-nav-logged-in-active" data-remove-class="fr-masthead-mobile-my-nav-logged-in-active" data-module="masthead" data-id="mobile-logged-in-menu-toggle" data-panel-class="masthead__mobile-nav-logged-in">
+        <img class="masthead__logo-marker" src="https://www.tes.com/logo.svg?variation=marker-white" width="25" height="24" alt="Tes. For teaching."/>
+        <img class="masthead__logo-text masthead__logo-text-dark" src="https://www.tes.com/logo.svg?theme=text" width="39" height="24" alt="Tes. For teaching."/>
+        <img class="masthead__logo-text masthead__logo-text-light" src="https://www.tes.com/logo.svg?theme=text&variation=black" width="39" height="24" alt="Tes. For teaching."/>
+        <i class="masthead__mobile-nav-toggle-icon icon-chevron-rounded-down icon-white"></i>
+        <i class="masthead__mobile-nav-toggle-icon masthead__mobile-nav-toggle-icon-dark icon-chevron-rounded-up"></i>
+      </button>
+    </div>
+    <ul class="masthead-nav">
+        <li class="masthead-nav__top-item">
+          <a href="/teaching-resources" class="masthead__primary-link" data-mz="" data-module="primary-nav" data-id="resources">Resources</a>
+        </li>
+        <li class="masthead-nav__top-item">
+          <a href="/jobs" class="masthead__primary-link" data-mz="" data-module="primary-nav" data-id="jobs">Jobs</a>
+        </li>
+        <li class="masthead-nav__top-item">
+          <a href="https://community.tes.com/" class="masthead__primary-link" data-mz="" data-module="primary-nav" data-id="community">Community</a>
+        </li>
+        <li class="masthead-nav__top-item masthead-nav__top-item--active">
+          <a href="/news/school-news" class="masthead__primary-link masthead__primary-link--active" data-mz="" data-module="primary-nav" data-id="news">News</a>
+            <div class="t-masthead-sub-news masthead-sub-container masthead-sub-container--active">
+              <ul class="masthead-sub-nav">
+                  <li class="masthead-sub-nav__item">
+                    <a href="/news/school-news" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-school">School news</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/news/further-education" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-fe">FE news</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/news/subject-genius" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-sg">Subject genius</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/new-teachers" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-new-teachers">New Teachers</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/leadership" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-leadership">Leadership</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/news/school-business-managers" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-sbm">The Ledger</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/magazine" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-mag">Magazine</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/magazine/back-issues" class="t-masthead-secondary-link masthead-secondary__link masthead-secondary__link-hide-narrow" data-mz="" data-module="secondary-nav" data-id="news-back-issues">Back issues</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/magazine/membership-plus" class="t-masthead-secondary-link masthead-secondary__link masthead-secondary__link-hide-narrow" data-mz="" data-module="secondary-nav" data-id="news-membership-plus">Membership+</a>
+                  </li>
+                  <li class="masthead-sub-nav__item">
+                    <a href="/news/partners-hub" class="t-masthead-secondary-link masthead-secondary__link" data-mz="" data-module="secondary-nav" data-id="news-partners">Partners</a>
+                  </li>
+              </ul>
+            </div>
+        </li>
+        <li class="masthead-nav__top-item">
+          <a href="/institute" class="masthead__primary-link" data-mz="" data-module="primary-nav" data-id="courses">Courses</a>
+        </li>
+        <li class="masthead-nav__top-item">
+          <a href="/store" class="masthead__primary-link" data-mz="" data-module="primary-nav" data-id="store">Store</a>
+        </li>
+      <li style="display: none" class="js-tawkto-chat masthead-nav__top-item">
+          <a class="masthead__primary-link" href="javascript:void(Tawk_API.toggle())"><span style="color: #00c7b1">●</span> Help</a>
+      </li>
+      <li class="masthead-nav__top-item">
+        <div class="masthead__search">
+            <button type="button" class="tes-btn icon-search-rebrand icon-white masthead__search-off t-masthead-search-show" data-toggle-class="fr-masthead-search-active" data-module="masthead" data-id="search-toggle" data-focus-class="js-search-input"></button>
+            <button type="button" class="tes-btn icon-close-rebrand icon-white icon-sm masthead__search-on" data-toggle-class="fr-masthead-search-active" data-module="masthead" data-id="search-toggle"></button>
+            <form class="masthead__search-form" role="search" action="/search" novalidate="novalidate">
+                <select class="masthead__select" name="area">
+                            <option value="resources">Resources</option>
+                            <option value="jobs">Jobs</option>
+                            <option value="community">Community</option>
+                            <option value="news" selected="">News</option>
+                            <option value="courses">Courses</option>
+                            <option value="store">Store</option>
+                </select>
+                <input class="masthead__input js-search-input" type="search" placeholder="Search" name="keywords" id="keywords" required="required"/>
+                <button type="submit" class="tes-btn masthead__search-button"><span class="icon-search-rebrand icon-white">Search</span></button>
+            </form>
+        </div>
+        
+      </li>
+    </ul>
+    <div class="masthead__profile">
+      <div class="t-masthead-auth-links masthead__auth-links">
+        <script>
+  window.TES = window.TES || {};
+  window.TES.appAuthenticationCdnUrl = "https://www.tes.com/cdn/app-authentication/858/";
+</script>
+<script async src="https://www.tes.com/cdn/app-authentication/858/js/widget-loader.js"></script>
+<link rel="prefetch" href="https://www.tes.com/cdn/app-authentication/858/js/widget-authapp.js" />
+
+        <div class="profile_ctas">
+          <span class="profile__cta login"><a class="masthead__auth-link link link--unstyled" rel="nofollow" href="/authn/sign-in?select=true" data-load-auth="sign-in" data-load-auth-reload="reload" data-load-auth-omitname="true">Log
+          in</a></span><span class="masthead__profile-spacer"></span>
+          <span class="profile__cta register"><a class="masthead__auth-link link link--unstyled" rel="nofollow" href="/authn/select" data-load-auth="select" data-load-auth-reload="reload" data-load-auth-omitname="true">Register
+          <span class="hidden-sm hidden-xs">for free</span></a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="masthead__mobile-nav masthead__mobile-nav-logged-in">
+    <div class="mobile-nav mobile-nav--scaled">
+        <a class="mobile-nav__item js-link" href="/teaching-resources" data-mz="" data-module="logged-in-menu" data-id="resources">Resources</a>
+        <a class="mobile-nav__item js-link" href="/jobs" data-mz="" data-module="logged-in-menu" data-id="jobs">Jobs</a>
+        <a class="mobile-nav__item js-link" href="/news/school-news" data-mz="" data-module="logged-in-menu" data-id="news">News</a>
+        <a class="mobile-nav__item js-link" href="https://community.tes.com/" data-mz="" data-module="logged-in-menu" data-id="community">Community</a>
+        <a class="mobile-nav__item js-link" href="/institute" data-mz="" data-module="logged-in-menu" data-id="courses">Courses</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-border" href="https://www.tes.com/api/authn/sign-out-redirect" rel="nofollow" data-mz="" data-module="logged-in-menu" data-id="log-out" data-load-auth-rtn="https://www.tes.com">Log out</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-border" href="https://www.tes.com/articles/help-faqs" data-mz="" data-module="logged-in-menu" data-id="help">Help</a>
+    </div>
+  </div>
+  <div class="masthead__mobile-my-nav-logged-in">
+    <div class="mobile-nav mobile-nav--scrollable">
+      <a class="mobile-nav__item js-link mobile-nav__item-border" href="https://www.tes.com/" data-mz="" data-module="logged-in-my-nav" data-id="home-feed">Home feed <span class="margin-left-sm notification-bubble" data-template-render="notifications"></span></a>
+      <div class="mobile-nav__item mobile-nav__item-border">My list</div>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/institute/access-my-courses" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="job-alerts">Courses <span data-template-render="courses"></span></a>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/jobs/myjobs/savedjobs" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="jobs">Jobs <span data-template-render="savedJobs"></span></a>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/my-resources/downloads" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="resources">Resources <span data-template-render="savedResources"></span></a>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/teaching-resources/dashboard/overview" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="resources">Author dashboard</a>
+      <div class="mobile-nav__item mobile-nav__item-border">Settings</div>
+      <a href="https://www.tes.com/profile/edit" class="mobile-nav__item mobile-nav__item-sub" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="profile-edit">Edit your profile</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/authn/preference-centre" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="email-preferences">Mailing preferences</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/authn/account" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="account">Account</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-sub" href="https://www.tes.com/api/authn/sign-out-redirect?returnUrl=https://www.tes.com/" rel="nofollow" data-mz="" data-module="logged-in-my-nav" data-id="log-out" data-load-auth-rtn="https://www.tes.com/">Log out</a>
+    </div>
+  </div>
+  <div class="masthead__mobile-nav masthead__mobile-nav-logged-out">
+    <div class="mobile-nav mobile-nav--scaled">
+        <a class="mobile-nav__item js-link" href="/" data-mz="" data-module="logged-out-menu" data-id="home">Home</a>
+        <a class="mobile-nav__item js-link mobile-nav__item-border" href="/teaching-resources" data-mz="" data-module="logged-out-menu" data-id="resources">Resources</a>
+        <a class="mobile-nav__item js-link" href="/jobs" data-mz="" data-module="logged-out-menu" data-id="jobs">Jobs</a>
+        <a class="mobile-nav__item js-link" href="/news/school-news" data-mz="" data-module="logged-out-menu" data-id="news">News</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-border mobile-nav__item-highlight" rel="nofollow" href="https://www.tes.com/authn/select" data-mz="" data-module="logged-out-menu" data-id="register">Register for free</a>
+      <a class="mobile-nav__item js-link" rel="nofollow" href="https://www.tes.com/authn/sign-in?select=true" data-mz="" data-module="logged-out-menu" data-id="log-in">Log in</a>
+      <a class="mobile-nav__item js-link mobile-nav__item-border" href="https://www.tes.com/articles/help-faqs" data-mz="" data-module="logged-out-menu" data-id="help">Help</a>
+    </div>
+  </div>
+</header>
+
+<script cx-replace-outer="" cx-ignore-error="true" defer="" cx-bundles-raw="site-assets/fragment.js" src="https://www.tes.com/cdn/site-assets/3019/js/fragment.js"></script>
+
+</section>
+  </div>
+  </header>
+
+<div class="main-container container-fluid-max">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                  <a id="main-content"></a>
+                        
+      <div class="modal fade hidden" id="modal-messages" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content">
+      <!-- have ommitted the "modal-header" and "modal-title" -->
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <br />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>   <!-- /.modal-content -->
+  </div>     <!-- /.modal-dialog -->
+</div>       <!-- /.modal -->
+
+                                        <ul class="action-links"></ul>
+              <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="bootstrap-twocol-stacked" >
+  
+      <div class="row">
+      <div class="panel-panel left col-xs-12 col-sm-12 col-md-8 col-lg-8"><div class="panel-pane pane-panels-mini pane-news-article-content-area"  >
+  
+      
+  
+  <div class="pane-content">
+    
+
+<div class="tes-article-content-area">
+
+      <div class="row margin-bottom-md">
+      <div class="tes-article-content-area-region-header tes-article-content-area-region">
+        <div class="col-lg-12">
+          <div class="panel-pane pane-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    <h1>£10m Mandarin schools programme reaches less than third of target half-way through </h1>
+  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="row margin-bottom-md">
+      <div class="tes-article-content-area-region-header-left tes-article-content-area-region">
+        <div class="col-xs-12 col-sm-6">
+          <div class="panel-pane pane-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/news/author/eleanor-busby">Eleanor Busby</a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-publication-date"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-18T14:23:00+01:00">18th October 2017 at 14:23</span>  </div>
+  </div>
+
+  
+  </div>
+        </div>
+      </div>
+      <div class="tes-article-content-area-region-header-right tes-article-content-area-region">
+        <div class="col-xs-12 col-sm-6">
+          <div class="panel-pane pane-tes-page-builder-general-social-links"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="tes-page-builder-data-mz" data-component-name="tes_page_builder_general_social_links"><div class="social-share social-share--right">
+          <h4 class="social-share__title social-share__title--sm">Share this</h4>
+        <ul class="social-share__list social-share__list--sm">
+                        <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share on pinterest"
+              href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-pinterest-p icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share on twitter"
+              href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way&text=£10m Mandarin schools programme reaches less than third of target half-way through &via=tes"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-twitter icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share on Facebook"
+              href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-facebook icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_self"
+              title="Email this"
+              href="mailto:?
+&amp;body=Check out this article in TES https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way""
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-envelope-o icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share this on Google+"
+              href="https://plus.google.com/share?url=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-google-plus icon-gray"></i>
+            </a>
+          </li>
+                  </ul>
+  </div></div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="row margin-bottom-sm">
+      <div class="tes-article-content-area-region-media tes-article-content-area-region">
+        <div class="col-lg-12">
+          <div class="panel-pane pane-entity-field pane-node-field-news-article-images"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div class="field field-name-field-news-article-images field-type-image field-label-hidden">
+    <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_hero/public/news_article_images/mandarin_teacher.jpg?itok=gbRw-BJQ" width="750" height="422" />  </div>
+  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="row margin-bottom-sm">
+      <div class="tes-article-content-area-region-tags tes-article-content-area-region">
+        <div class="col-lg-12">
+          <div class="panel-pane pane-views-panes pane-news-tags-panes-news-article-tags"  >
+  
+      
+  
+  <div class="pane-content">
+    <div data-module="news_tags_panes-news_article_tags" class="view view-news-tags-panes view-id-news_tags_panes view-display-id-news_article_tags view-dom-id-bb77f0e3686a4d6409de7df33d8e87ca">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/dfe" class="pill pill--light margin-right-xs margin-bottom-xs">DfE</a></span>  </div>  </div>
+  <div class="views-row-even">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/government-and-politics" class="pill pill--light margin-right-xs margin-bottom-xs">Government and politics</a></span>  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/languages" class="pill pill--light margin-right-xs margin-bottom-xs">Languages</a></span>  </div>  </div>
+  <div class="views-row-even">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/nick-gibb" class="pill pill--light margin-right-xs margin-bottom-xs">Nick Gibb</a></span>  </div>  </div>
+  <div class="views-row-odd views-row-last">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/teacher-training-and-student-teachers" class="pill pill--light margin-right-xs margin-bottom-xs">Teacher training</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="row margin-bottom-sm">
+      <div class="tes-article-content-area-region-content tes-article-content-area-region">
+        <div class="col-lg-12">
+          <div class="panel-pane pane-entity-field pane-node-field-news-article-standfirst"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div class="field field-name-field-news-article-standfirst field-type-text-long field-label-hidden">
+    Concerns have been raised about DfE programme aimed at getting 5,000 young people speaking Mandarin by 2020  </div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <p>A government programme to increase the number of pupils learning Mandarin in schools has reached less than a third of its target half-way through the scheme.</p>
+
+<p>The four-year Mandarin Excellence Programme, which is now in its second year, set out to have at least 5,000 young people speaking Mandarin by 2020.</p>
+
+<p>After 382 pupils in 14 schools took part in the programme last year, around 1,000 pupils in 23 schools were expected to join the scheme this year – although final numbers have not&nbsp;been confirmed.&nbsp;</p>
+
+<p>Figures released today show that the majority of the 382 pupils on the £10 million&nbsp;programme achieved marks of 80 per cent or higher across tests in reading, writing, listening and speaking.</p>
+
+<p>But Nick Gibb, schools minister, has previously acknowledged that the first year of the programme was targeted at <a href="http://www.parliament.uk/business/publications/written-questions-answers-statements/written-question/Commons/2016-09-15/906530/">“highly motivated pupils”</a> and the schools selected to take part had already been teaching Mandarin.</p>
+
+<p>In a <a href="http://www.parliament.uk/business/publications/written-questions-answers-statements/written-question/Commons/2016-10-26/50411/">parliamentary answer in November last year</a>, Mr Gibb wrote: “The first group of schools that started the programme in 2016 were selected on the basis of their good track record in teaching Mandarin Chinese and their capacity to meet the demanding conditions of the programme, including that pupils study the language for eight hours a week.”</p>
+
+<h2>'Completely unsustainable'</h2>
+
+<p>The programme, which is being delivered by the UCL Institute of Education with the British Council, aims to have at least 100 new qualified Chinese teachers by the end of the programme.</p>
+
+<p>So far only 15 new Chinese teachers were trained last year as&nbsp;part of the&nbsp;programme&nbsp;– and another 15 will receive training this year.</p>
+
+<p>There are concerns that the four-year programme&nbsp;is unsustainable in the long-term.</p>
+
+<p>Carmel O’Hagan, the former head of languages at CILT – The National Centre for Language, said: "This is completely unsustainable and that's what really worries me. The only way for Mandarin to succeed is&nbsp;with a huge, huge, huge number of home-grown Mandarin teachers.</p>
+
+<p>"How&nbsp;on earth are&nbsp;you going to teach a subject when there are simply not enough teachers? You don't need a thousand teachers. You need 23,000 teachers if it is going to happen in every school."</p>
+
+<p>Ms O'Hagan&nbsp;said, with the current numbers that have joined the progamme, the DfE would be "lucky" to reach 3,000 pupils by 2020.</p>
+
+<p>She added: "It is a colossal waste of time and&nbsp;public money."</p>
+
+<p>In January this year, the Home Office Migration Advisory's Committee (MAC) said a <a href="https://www.tes.com/news/school-news/breaking-news/teacher-shortages-spread-computing-and-general-science">national shortage in Mandarin teachers</a> justified schools recruiting from abroad.</p>
+
+<p>The <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/585998/2017_01_26_MAC_report_teachers_SOL.pdf">MAC review</a> said: “Given that there are only around 100 teachers of Mandarin in the state-funded system, and a limited domestic supply pipeline, the department said that schools needed to be able to boost teacher numbers by recruiting from overseas."</p>
+
+<p>It added: “Partners provided evidence of a drive to encourage more pupils to study this subject and that the pool of Mandarin teachers presently available was insufficient to meet this drive.</p>
+
+<p>“The department said that it did not intend to rely on temporary teachers from China to achieve its commitment on the expansion of Mandarin teachers, but in the short term it said it will need to boost current teacher numbers by opening up opportunities to overseas Mandarin speakers who wish to teach and/or train as Mandarin teachers in the UK.”</p>
+
+<p>Mr Gibb said: "I am pleased that this programme is continuing to grow, allowing more pupils to be taught Mandarin at an advanced level.</p>
+
+<p>"I would like to congratulate the first cohort of students on their success. They have achieved some excellent results thanks to their hard work and dedication.</p>
+
+<p>"This will give them a significant advantage when competing in the global jobs market, and is particularly important as we prepare to leave the European Union.”</p>
+
+<p><strong>Want to keep up with the latest education news and opinion? Follow Tes on&nbsp;</strong><a data-mz="" href="https://twitter.com/tes"><strong>Twitter</strong></a><strong>&nbsp;and&nbsp;<a data-mz="" href="https://www.instagram.com/tesnews/?hl=en">Instagram</a></strong><strong>,&nbsp;and like Tes on&nbsp;<a data-mz="" href="https://www.facebook.com/TESnews/">Facebook.</a></strong></p>
+  </div>
+  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="row margin-bottom-sm">
+      <div class="tes-article-content-area-region-content-left tes-article-content-area-region">
+        <div class="col-xs-12 col-sm-6">
+          <div class="panel-pane pane-views-panes pane-news-tags-panes-news-article-tags"  >
+  
+      
+  
+  <div class="pane-content">
+    <div data-module="news_tags_panes-news_article_tags" class="view view-news-tags-panes view-id-news_tags_panes view-display-id-news_article_tags view-dom-id-a32f7820389f2eecba68d17f4bdc4317">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/dfe" class="pill pill--light margin-right-xs margin-bottom-xs">DfE</a></span>  </div>  </div>
+  <div class="views-row-even">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/government-and-politics" class="pill pill--light margin-right-xs margin-bottom-xs">Government and politics</a></span>  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/languages" class="pill pill--light margin-right-xs margin-bottom-xs">Languages</a></span>  </div>  </div>
+  <div class="views-row-even">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/nick-gibb" class="pill pill--light margin-right-xs margin-bottom-xs">Nick Gibb</a></span>  </div>  </div>
+  <div class="views-row-odd views-row-last">
+      
+  <div>        <span><a data-mz data-position="list" href="/news/school-news/teacher-training-and-student-teachers" class="pill pill--light margin-right-xs margin-bottom-xs">Teacher training</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+      <div class="tes-article-content-area-region-content-right tes-article-content-area-region">
+        <div class="col-xs-12 col-sm-6">
+          <div class="panel-pane pane-tes-page-builder-general-social-links"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="tes-page-builder-data-mz" data-component-name="tes_page_builder_general_social_links"><div class="social-share social-share--right">
+          <h4 class="social-share__title social-share__title--sm">Share this</h4>
+        <ul class="social-share__list social-share__list--sm">
+                        <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share on pinterest"
+              href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-pinterest-p icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share on twitter"
+              href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way&text=£10m Mandarin schools programme reaches less than third of target half-way through &via=tes"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-twitter icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share on Facebook"
+              href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-facebook icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_self"
+              title="Email this"
+              href="mailto:?
+&amp;body=Check out this article in TES https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way""
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-envelope-o icon-gray"></i>
+            </a>
+          </li>
+                                <li class="social-share__list-item social-share__list-item--sm">
+                        <a
+              class="social-share__link social-share__link--sm"
+              target="_blank"
+              title="Share this on Google+"
+              href="https://plus.google.com/share?url=https%3A%2F%2Fwww.tes.com%2Fnews%2Fschool-news%2Fbreaking-news%2Fps10m-mandarin-schools-programme-reaches-less-third-target-half-way"
+                          >
+              <i class="social-share__icon social-share__icon--sm icon-google-plus icon-gray"></i>
+            </a>
+          </li>
+                  </ul>
+  </div></div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="row margin-bottom-sm">
+      <div class="tes-article-content-area-region-footer tes-article-content-area-region">
+        <div class="col-lg-12">
+          <div class="panel-pane pane-comment"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="tes-qa-widget"></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field-extra pane-node-facebook-comments"  >
+  
+        <h2 class="pane-title">
+      Comments    </h2>
+    
+  
+  <div class="pane-content">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script>
+<div class="fb-comments fb-comments-fluid" data-href="https://www.tes.com/news/school-news/breaking-news/ps10m-mandarin-schools-programme-reaches-less-third-target-half-way" data-num-posts="15" data-width="620" data-colorscheme="light"></div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+</div>
+
+
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-news-article-related-conte"  >
+  
+        <h3 class="pane-title">
+      Related Content    </h3>
+    
+  
+  <div class="pane-content">
+    
+  
+<div id="node-216776" class="node node-news-article layout-related-teaser layout-news-article-related-teaser background-white clearfix" about="/news/school-news/breaking-news/mandarin-teaching-schools-receive-%C2%A310m-boost" typeof="sioc:Item foaf:Document">
+
+  
+    <div class="row no-gutters node-news-article node-related-teaser">
+
+              <div class="col-sm-4 hidden-xs">
+          
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <a href="/news/school-news/breaking-news/mandarin-teaching-schools-receive-%C2%A310m-boost"><img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/Chinese%20teacher.jpg?itok=MzLS91Yk" width="375" height="211" alt="Chinese teacher" title="Chinese teacher. Picture credit: https://www.flickr.com/photos/mklapper/" /></a>  </div>
+        </div>
+            <div class="col-sm-8 col-xs-12">
+        <div class="content-area">
+                                <h4><a href="/news/school-news/breaking-news/mandarin-teaching-schools-receive-%C2%A310m-boost">Mandarin teaching in schools to receive £10m boost</a></h4>
+                    <span property="dc:title" content="Mandarin teaching in schools to receive £10m boost" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>          
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-09-23T14:14:00+01:00">23rd September 2015 at 14:14</span>  </div>
+                  </div>
+      </div>
+
+    </div>
+
+  
+</div>  
+<div id="node-466" class="node node-news-article layout-related-teaser layout-news-article-related-teaser background-white clearfix" about="/news/school-news/breaking-news/mandarin-120-primaries-get-support-introduce-lessons" typeof="sioc:Item foaf:Document">
+
+  
+    <div class="row no-gutters node-news-article node-related-teaser">
+
+            <div class="col-sm-8 col-xs-12">
+        <div class="content-area">
+                                <h4><a href="/news/school-news/breaking-news/mandarin-120-primaries-get-support-introduce-lessons">Mandarin: 120 primaries to get support to introduce lessons</a></h4>
+                    <span property="dc:title" content="Mandarin: 120 primaries to get support to introduce lessons" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>          
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-10-07T16:02:00+01:00">7th October 2013 at 16:02</span>  </div>
+                  </div>
+      </div>
+
+    </div>
+
+  
+</div>  
+<div id="node-354214" class="node node-news-article layout-related-teaser layout-news-article-related-teaser background-white clearfix" about="/news/school-news/breaking-news/smith-report-maths-18-unrealistic-owing-teacher-shortages" typeof="sioc:Item foaf:Document">
+
+  
+    <div class="row no-gutters node-news-article node-related-teaser">
+
+              <div class="col-sm-4 hidden-xs">
+          
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <a href="/news/school-news/breaking-news/smith-report-maths-18-unrealistic-owing-teacher-shortages"><img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/maths_large_7.jpg?itok=Zpzkty0-" width="375" height="211" alt="maths smith report" title="maths" /></a>  </div>
+        </div>
+            <div class="col-sm-8 col-xs-12">
+        <div class="content-area">
+                                <h4><a href="/news/school-news/breaking-news/smith-report-maths-18-unrealistic-owing-teacher-shortages">Smith report: Maths to 18 is &#039;unrealistic&#039; owing to teacher shortages</a></h4>
+                    <span property="dc:title" content="Smith report: Maths to 18 is &#039;unrealistic&#039; owing to teacher shortages" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>          
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-07-20T18:10:09+01:00">20th July 2017 at 18:10</span>  </div>
+                  </div>
+      </div>
+
+    </div>
+
+  
+</div>  
+<div id="node-338348" class="node node-news-article layout-related-teaser layout-news-article-related-teaser background-white clearfix" about="/news/school-news/breaking-news/government-has-no-plan-tackle-worsening-teacher-shortages" typeof="sioc:Item foaf:Document">
+
+  
+    <div class="row no-gutters node-news-article node-related-teaser">
+
+              <div class="col-sm-4 hidden-xs">
+          
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <a href="/news/school-news/breaking-news/government-has-no-plan-tackle-worsening-teacher-shortages"><img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/teacher_recruitment_0.jpg?itok=eEThzpLw" width="375" height="211" /></a>  </div>
+        </div>
+            <div class="col-sm-8 col-xs-12">
+        <div class="content-area">
+                                <h4><a href="/news/school-news/breaking-news/government-has-no-plan-tackle-worsening-teacher-shortages">Government has no plan to tackle ‘worsening’ teacher shortages</a></h4>
+                    <span property="dc:title" content="Government has no plan to tackle ‘worsening’ teacher shortages" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>          
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-02-21T00:03:00+00:00">21st February 2017 at 00:03</span>  </div>
+                  </div>
+      </div>
+
+    </div>
+
+  
+</div>  
+<div id="node-335609" class="node node-news-article layout-related-teaser layout-news-article-related-teaser background-white clearfix" about="/news/school-news/breaking-news/teacher-shortages-spread-computing-and-general-science" typeof="sioc:Item foaf:Document">
+
+  
+    <div class="row no-gutters node-news-article node-related-teaser">
+
+              <div class="col-sm-4 hidden-xs">
+          
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <a href="/news/school-news/breaking-news/teacher-shortages-spread-computing-and-general-science"><img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/teacher_and_pupils_in_a_computer_class_0.jpg?itok=h-DvCcCm" width="375" height="211" alt="teacher_and_pupils_in_a_computer_class.jpg" title="teacher_and_pupils_in_a_computer_class.jpg" /></a>  </div>
+        </div>
+            <div class="col-sm-8 col-xs-12">
+        <div class="content-area">
+                                <h4><a href="/news/school-news/breaking-news/teacher-shortages-spread-computing-and-general-science">Teacher shortages spread to computing and general science</a></h4>
+                    <span property="dc:title" content="Teacher shortages spread to computing and general science" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>          
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-01-26T10:02:00+00:00">26th January 2017 at 10:02</span>  </div>
+                  </div>
+      </div>
+
+    </div>
+
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+      <div class="panel-panel right col-xs-12 col-sm-12 col-md-4 col-lg-4"><div class="panel-pane pane-tes-page-builder-mz-most-read"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="tes-page-builder-data-mz" data-component-name="tes_page_builder_mz_most_read"><h2 class="heading heading--lg heading--underline heading--bold">Most read</h2>
+    <ol class="list-ol">
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/we-need-change-story-we-tell-about-our-profession-world-and">'We need to change the story we tell about our profession – to the world...</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-news/charting-downfall-famous-five-superheads">Charting the downfall of the ‘famous five’ superheads</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/are-these-7-pillars-classroom-practice">Are these the 7 pillars of classroom practice?</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/there-can-be-no-hiding-place-schools-dont-meet-their">'There can be no hiding place for schools that don't meet their responsi...</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/our-schools-are-drowning-under-a-tidal-wave-human-misery">'Our schools are drowning under a tidal wave of human misery' </a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-news/teachers-paid-38-less-private-tutors">Teachers 'paid 38% less than private tutors'</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-news/renowned-specialist-music-school-faces-closure">Renowned specialist music school faces closure</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/five-myths-about-autism-we-need-banish-teaching">Five myths about autism we need to banish from teaching </a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/whats-best-path-take-your-primary-reading-strategy">What’s the best path to take for your primary reading strategy?</a>
+        </span>
+      </li>
+          <li class="list-ol__list-item">
+        <span class="list-ol__list-item-content">
+          <a href="/news/school-news/breaking-views/memories-are-made">Memories are made of this</a>
+        </span>
+      </li>
+      </ol></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-the-dfp-advert"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="the-dfp" id="div-gpt-ad-467946291630648-1" data-ad-unit="2884/TES_News/home" data-ad-size="[1,1]" data-ad-mobile-size="[1,1]" data-ank="strnativekey" data-anv="7m7ChB6WP6z3fFZe1oYCKoQu"></div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views-panes pane-news-panes-teasers panel-section"  >
+  
+      
+  
+  <div class="pane-content">
+    <div data-module="news_panes-teasers" class="view view-news-panes view-id-news_panes view-display-id-teasers view-dom-id-cb4646b2af0dbd04bc7811943d1d4460">
+            <div class="view-header">
+      <h2 class="heading heading--lg heading--bold heading--underline"><a data-mz data-position="list" class="link--unstyled" href="https://www.tes.com/news/school-news/breaking-news">Breaking news</a></h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<div id="node-364909" class="node node-news-article node-teaser layout-teaser layout-news-article-teaser  clearfix" about="/news/school-news/breaking-news/inconsistent-approach-academy-growth-shows-a-system-out-control" typeof="sioc:Item foaf:Document">
+
+  
+    <a data-mz data-position="list" href="/news/school-news/breaking-news/inconsistent-approach-academy-growth-shows-a-system-out-control" class="teaser-card">
+      <div class="teaser-card__group-content">
+                  <div class="teaser-card__image-container">
+            <picture class="teaser-card__image-src">
+              
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/expand.jpg?itok=aZxgC37W" width="375" height="211" alt="Fresh questions have been asked about the way the government regulates the growth of academy trusts." title="Fresh questions have been asked about the way the government regulates the growth of academy trusts." />  </div>
+            </picture>
+          </div>
+                <div class="teaser-card__text">
+          <h3 class="teaser-card__title">Inconsistent approach to academy growth shows &#039;a system out of control&#039;</h3>
+          <div class="teaser-card__meta">
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-27T05:07:13+01:00">27th October 2017 at 05:07</span>  </div>
+</div>
+                  </div>
+      </div>
+    </a>
+
+  
+</div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+<div id="node-364921" class="node node-news-article node-teaser layout-teaser layout-news-article-teaser  clearfix" about="/news/school-news/breaking-news/schools-using-equity-fund-shore-damage-done-cuts" typeof="sioc:Item foaf:Document">
+
+  
+    <a data-mz data-position="list" href="/news/school-news/breaking-news/schools-using-equity-fund-shore-damage-done-cuts" class="teaser-card">
+      <div class="teaser-card__group-content">
+                  <div class="teaser-card__image-container">
+            <picture class="teaser-card__image-src">
+              
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/leap-456100_1280_0.jpg?itok=PAsKHHXQ" width="375" height="211" alt="Schools using equity fund to ‘shore up’ damage done by cuts" title="Schools using equity fund to ‘shore up’ damage done by cuts" />  </div>
+            </picture>
+          </div>
+                <div class="teaser-card__text">
+          <h3 class="teaser-card__title">Schools using equity fund to ‘shore up’ damage done by cuts</h3>
+          <div class="teaser-card__meta">
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-27T00:03:11+01:00">27th October 2017 at 00:03</span>  </div>
+</div>
+                  </div>
+      </div>
+    </a>
+
+  
+</div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+<div id="node-364924" class="node node-news-article node-teaser layout-teaser layout-news-article-teaser  clearfix" about="/news/school-news/breaking-news/mental-health-pupils-struggling-receive-help-government-backed-report" typeof="sioc:Item foaf:Document">
+
+  
+    <a data-mz data-position="list" href="/news/school-news/breaking-news/mental-health-pupils-struggling-receive-help-government-backed-report" class="teaser-card">
+      <div class="teaser-card__group-content">
+                  <div class="teaser-card__image-container">
+            <picture class="teaser-card__image-src">
+              
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/small_girl_holding_head.jpg?itok=btX8gfDx" width="375" height="211" alt="mental health, camhs, child and adolescent mental-health services, care quality commission, treatment, schools, teachers, cqc, report" title="Small girl, holding her head" />  </div>
+            </picture>
+          </div>
+                <div class="teaser-card__text">
+          <h3 class="teaser-card__title">Mental health: Pupils struggling to receive help, government-backed report finds</h3>
+          <div class="teaser-card__meta">
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-27T00:03:11+01:00">27th October 2017 at 00:03</span>  </div>
+</div>
+                  </div>
+      </div>
+    </a>
+
+  
+</div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+<div id="node-364912" class="node node-news-article node-teaser layout-teaser layout-news-article-teaser  clearfix" about="/news/school-news/breaking-news/academy-accounts-165-trusts-deficit-and-4-other-things-we-learned" typeof="sioc:Item foaf:Document">
+
+  
+    <a data-mz data-position="list" href="/news/school-news/breaking-news/academy-accounts-165-trusts-deficit-and-4-other-things-we-learned" class="teaser-card">
+      <div class="teaser-card__group-content">
+                  <div class="teaser-card__image-container">
+            <picture class="teaser-card__image-src">
+              
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/deficit_0.jpg?itok=3z0RAHP5" width="375" height="211" alt="The government is planning to change the rules on deficits and council loans to schools." title="The government is planning to change the rules on deficits and council loans to schools." />  </div>
+            </picture>
+          </div>
+                <div class="teaser-card__text">
+          <h3 class="teaser-card__title">Academy accounts: 165 trusts in deficit and 4 other things we learned</h3>
+          <div class="teaser-card__meta">
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-26T17:38:34+01:00">26th October 2017 at 17:38</span>  </div>
+</div>
+                  </div>
+      </div>
+    </a>
+
+  
+</div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    
+<div id="node-364900" class="node node-news-article node-teaser layout-teaser layout-news-article-teaser  clearfix" about="/news/school-news/breaking-news/renowned-specialist-music-school-faces-closure" typeof="sioc:Item foaf:Document">
+
+  
+    <a data-mz data-position="list" href="/news/school-news/breaking-news/renowned-specialist-music-school-faces-closure" class="teaser-card">
+      <div class="teaser-card__group-content">
+                  <div class="teaser-card__image-container">
+            <picture class="teaser-card__image-src">
+              
+  <div class="field field-name-field-news-article-teaser-image field-type-image field-label-hidden">
+    <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/news_article_teaser/public/cello-2820987_1920.jpg?itok=U3C77yL0" width="375" height="211" alt="City of Edinburgh Music School future in doubt" title="City of Edinburgh Music School future in doubt" />  </div>
+            </picture>
+          </div>
+                <div class="teaser-card__text">
+          <h3 class="teaser-card__title">Renowned specialist music school faces closure</h3>
+          <div class="teaser-card__meta">
+  <div class="field field-name-field-publication-date field-type-datetime field-label-hidden">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-26T16:58:00+01:00">26th October 2017 at 16:58</span>  </div>
+</div>
+                  </div>
+      </div>
+    </a>
+
+  
+</div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+  
+      <div class="row">
+      <div class="panel-panel bottom col-xs-12 col-sm-12 col-md-12 col-lg-12"><div class="panel-pane pane-tes-page-builder-general-marketing-block-v2"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="tes-page-builder-data-mz" data-component-name="tes_page_builder_general_marketing_block_v2"><div class="marketing-block white-background ">
+    <div class="row l-flex-screen-sm">
+              <div class="col-sm-6 col-sm-push-6">
+          <figure class="marketing-block__aside">
+            <div class="marketing-block__img-wrapper">
+              <img typeof="foaf:Image" class="img-responsive" src="https://www.tes.com/sites/default/files/styles/dimensions_600x360/public/tes-packshot.png?itok=I3NnBrt9" width="600" height="360" />            </div>
+          </figure>
+        </div>
+                    <div class="col-sm-6 col-sm-pull-6">
+          <main class="marketing-block__main  marketing-block__main--left-align">
+                          <h2 class="marketing-block__title marketing-block__title--sm">The guide by your side – ensuring you are always up to date with the latest in education.</h2>
+                                      <div class="marketing-block__desc marketing-block__desc--sm"><p>Get Tes magazine online and delivered to your door. Stay up to date with the latest research, teacher innovation and insight, plus classroom tips and techniques with a Tes magazine subscription.<br />
+With a Tes magazine subscription you get exclusive access to our CPD library. Including our New Teachers’ special for NQTS, Ed Tech, How to Get a Job, Trip Planner, Ed Biz Special and all Tes back issues.</p>
+</div>
+                                      <a class="marketing-block__btn tes-btn tes-btn--primary tes-btn--lg"
+                 href="https://www.tes.com/store/magazine">
+                Subscribe now              </a>
+                      </main>
+        </div>
+          </div>
+  </div></div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer>
+    <div class="region region-footer">
+    <section id="block-tes-assets-service-tes-footer" class="block block-tes-assets-service clearfix">
+
+      
+  <footer class="footer-nav t-footer-nav">
+  <div class="footer-nav__inner">
+    <div class="footer-nav__links-container">
+        <div class="footer-nav__list-wrapper footer-nav__list-jobs">
+          <button class="tes-btn footer-nav__list-title nav-list__title"
+                  data-toggle-class="fr-footer-nav-jobs">Jobs
+            <i class="footer-nav__list-title-icon icon-plus-slim icon-white icon-xs"></i>
+            <i class="footer-nav__list-title-icon-active icon-close icon-white icon-xs"></i>
+          </button>
+        <nav class="footer-nav__list footer-nav__list-jobs">
+              <a href="/jobs" class="footer-nav__link footer-nav__list-item nav-list__item footer-nav__link-index js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-home">Jobs home</a>
+
+              <a href="/jobs/browse/united-kingdom" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-uk">UK</a>
+
+              <a href="/jobs/browse/international" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-international">International</a>
+
+              <a href="/jobs/browse/australia" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-au">Australia</a>
+
+              <a href="/jobs/browse/primary-teaching-and-lecturing" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-primary">Primary / Elementary</a>
+
+              <a href="/jobs/browse/secondary" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-secondary">Secondary / High school</a>
+
+              <a href="/jobs/careers-advice" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-careers-advice">Careers advice</a>
+
+              <a href="/recruit" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="jobs-recruit">Recruit with Tes</a>
+
+        </nav>
+        </div>
+        <div class="footer-nav__list-wrapper footer-nav__list-courses">
+          <button class="tes-btn footer-nav__list-title nav-list__title"
+                  data-toggle-class="fr-footer-nav-courses">Courses
+            <i class="footer-nav__list-title-icon icon-plus-slim icon-white icon-xs"></i>
+            <i class="footer-nav__list-title-icon-active icon-close icon-white icon-xs"></i>
+          </button>
+        <nav class="footer-nav__list footer-nav__list-courses">
+              <a href="/institute" class="footer-nav__link footer-nav__list-item nav-list__item footer-nav__link-index js-link"
+                 data-mz data-module="footer-nav" data-id="courses-home">Courses home</a>
+
+              <a href="/institute/programmes-prospective-teachers" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="courses-prospective">For prospective teachers</a>
+
+              <a href="/institute/cpd-courses-teachers" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="courses-teachers">For teachers</a>
+
+              <a href="/institute/programmes-schools" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="courses-schools">For schools</a>
+
+              <a href="/institute/partner-with-tes" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="courses-partners">For partners</a>
+
+        </nav>
+        </div>
+        <div class="footer-nav__list-wrapper footer-nav__list-resources">
+          <button class="tes-btn footer-nav__list-title nav-list__title"
+                  data-toggle-class="fr-footer-nav-resources">Resources
+            <i class="footer-nav__list-title-icon icon-plus-slim icon-white icon-xs"></i>
+            <i class="footer-nav__list-title-icon-active icon-close icon-white icon-xs"></i>
+          </button>
+        <nav class="footer-nav__list footer-nav__list-resources">
+              <a href="/teaching-resources" class="footer-nav__link footer-nav__list-item nav-list__item footer-nav__link-index js-link"
+                 data-mz data-module="footer-nav" data-id="resources-home">Resources home</a>
+
+              <span class="footer-nav__list-item nav-list__item">
+                  <a class="footer-nav__link js-link" data-mz data-module="footer-nav" data-id="resources-earlyyears"
+                     href="/teaching-resources/hub/early-years">Early years</a> /                   <a class="footer-nav__link js-link" data-mz data-module="footer-nav" data-id="resources-prek"
+                     href=" /en-us/teaching-resources/hub/preschool">Pre-K and Kindergarten</a>
+              </span>
+
+              <span class="footer-nav__list-item nav-list__item">
+                  <a class="footer-nav__link js-link" data-mz data-module="footer-nav" data-id="resources-primary"
+                     href="/teaching-resources/hub/primary">Primary</a> /                   <a class="footer-nav__link js-link" data-mz data-module="footer-nav" data-id="resources-elementary"
+                     href="/en-us/teaching-resources/hub/elementary-school">Elementary</a>
+              </span>
+
+              <a href="/en-us/teaching-resources/hub/middle-school" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="resources-middleschool">Middle school</a>
+
+              <span class="footer-nav__list-item nav-list__item">
+                  <a class="footer-nav__link js-link" data-mz data-module="footer-nav" data-id="resources-secondary"
+                     href="/teaching-resources/hub/secondary">Secondary</a> /                   <a class="footer-nav__link js-link" data-mz data-module="footer-nav" data-id="resources-highschool"
+                     href="/en-us/teaching-resources/hub/high-school">High school</a>
+              </span>
+
+              <a href="/teaching-resources/hub/whole-school" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="resources-wholeschool">Whole school</a>
+
+              <a href="/teaching-resources/hub/whole-school/special-educational-needs" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="resources-specialneeds">Special Educational Needs</a>
+
+              <a href="/my-resources/lessons" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="resources-lessons">Tes Teach (NEW)</a>
+
+              <a href="/teaching-resources/blog" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="resources-blog">Blog</a>
+
+        </nav>
+        </div>
+        <div class="footer-nav__list-wrapper footer-nav__list-store">
+          <button class="tes-btn footer-nav__list-title nav-list__title"
+                  data-toggle-class="fr-footer-nav-store">Store
+            <i class="footer-nav__list-title-icon icon-plus-slim icon-white icon-xs"></i>
+            <i class="footer-nav__list-title-icon-active icon-close icon-white icon-xs"></i>
+          </button>
+        <nav class="footer-nav__list footer-nav__list-store">
+              <a href="/store" class="footer-nav__link footer-nav__list-item nav-list__item footer-nav__link-index js-link"
+                 data-mz data-module="footer-nav" data-id="store-home">Store home</a>
+
+              <a href="/store/elements" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="store-elements">Elements</a>
+
+              <a href="/store/magazine" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="store-magazine">Magazine</a>
+
+        </nav>
+        
+
+          <button class="tes-btn footer-nav__list-title nav-list__title"
+                  data-toggle-class="fr-footer-nav-community">Community
+            <i class="footer-nav__list-title-icon icon-plus-slim icon-white icon-xs"></i>
+            <i class="footer-nav__list-title-icon-active icon-close icon-white icon-xs"></i>
+          </button>
+        <nav class="footer-nav__list footer-nav__list-community">
+              <a href="https://community.tes.com" class="footer-nav__link footer-nav__list-item nav-list__item footer-nav__link-index js-link"
+                 data-mz data-module="footer-nav" data-id="community-home">Community home</a>
+
+              <a href="https://community.tes.com/find-new/posts" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="recent-posts">Latest posts</a>
+
+              <a href="https://community.tes.com/search/?type&#x3D;post" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="search-forums">Search forums</a>
+
+              <a href="https://community.tes.com/forums/education-news.2128/" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="education-news">Education news</a>
+
+              <a href="https://community.tes.com/forums/teaching-overseas.64/" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="teaching-overseas">Teaching overseas</a>
+
+              <a href="https://community.tes.com/forums/us-education-news.2550/" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="us-education-news">US education news</a>
+
+        </nav>
+        </div>
+        <div class="footer-nav__list-wrapper footer-nav__list-news">
+          <button class="tes-btn footer-nav__list-title nav-list__title"
+                  data-toggle-class="fr-footer-nav-news">News
+            <i class="footer-nav__list-title-icon icon-plus-slim icon-white icon-xs"></i>
+            <i class="footer-nav__list-title-icon-active icon-close icon-white icon-xs"></i>
+          </button>
+        <nav class="footer-nav__list footer-nav__list-news">
+              <a href="/news/school-news" class="footer-nav__link footer-nav__list-item nav-list__item footer-nav__link-index js-link"
+                 data-mz data-module="footer-nav" data-id="news-home">News home</a>
+
+              <a href="/news/school-news" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="news-school">School news (UK)</a>
+
+              <a href="/news/further-education" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="news-fe">FE news</a>
+
+              <a href="/news/school-news/international" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="news-international">International</a>
+
+              <a href="/magazine" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="news-magazine">Magazine</a>
+
+              <a href="/news/subject-genius" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="subject-genius">Subject genius</a>
+
+              <a href="/new-teachers" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="new-teachers">New teachers</a>
+
+              <a href="/leadership" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="news-leadership">Leadership</a>
+
+              <a href="/news/partners-hub" class="footer-nav__link footer-nav__list-item nav-list__item js-link"
+                 data-mz data-module="footer-nav" data-id="news-partners">Partners</a>
+
+        </nav>
+        </div>
+    </div>
+    <div class="footer-nav__base">
+      <div class="footer-nav__country-wrapper">
+        <form class="js-country-selector-form"
+              action="/api/authn/change-site-country" method="post">
+          <select class="js-country-selector footer-nav__country-selector" data-country="gb" name="siteCountry"
+                  data-submit-form="js-country-selector-form">
+              <option value="GB" selected data-hreflang="en-gb">United Kingdom</option>
+              <option value="US"  data-hreflang="en-us">United States</option>
+              <option value="AU"  data-hreflang="en-au">Australia</option>
+              <option value="IE"  data-hreflang="en-ie">Ireland</option>
+              <option value="CA"  data-hreflang="en-ca">Canada</option>
+              <option value="NZ"  data-hreflang="en-nz">New Zealand</option>
+          </select>
+        </form>
+      </div>
+      <div class="footer-nav__base-links">
+        <div><img class="footer-nav__logo" src="/logo.svg?theme=text" width="26"
+                  height="16" alt="Tes. For teaching."/> Copyright © 2017</div>
+        <div>
+          <a style="display: none" class="js-tawkto-chat footer-nav__link footer-nav__link-inline js-link" href="javascript:void(Tawk_API.toggle())"><span style="color: #00c7b1">●</span> Online Help</a>
+            <a class="footer-nav__link footer-nav__link-inline js-link" data-mz
+               data-module="footer-nav" data-id="help-faqs" href="/help">Help &amp; FAQs</a>
+            <a class="footer-nav__link footer-nav__link-inline js-link" data-mz
+               data-module="footer-nav" data-id="contact" href="/contact">Contact us</a>
+            <a class="footer-nav__link footer-nav__link-inline js-link" data-mz
+               data-module="footer-nav" data-id="privacy" href="/privacy-policy">Privacy</a>
+            <a class="footer-nav__link footer-nav__link-inline js-link" data-mz
+               data-module="footer-nav" data-id="tcs" href="/terms-and-conditions">Terms of service</a>
+            <a class="footer-nav__link js-link" data-mz
+               data-module="footer-nav" data-id="takedown" href="/takedown-policy">Takedown</a>
+        </div>
+        <div class="footer-nav__copyright">This website and its content is subject to our Terms and
+          Conditions. Tes Global Ltd is
+          registered in England (Company No 02017289) with its registered office at 26 Red Lion
+          Square
+          London WC1R 4HQ.
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Lazy load any images marked up by echo -->
+<script>
+  window.TES = window.TES || {};
+  window.TES.apiUrls = { profile: "/api/v1/member" };
+  if(typeof echo !== "undefined") {
+    echo.init({offset: 150, throttle: 150, unload: false});
+  }
+</script>
+<!-- Hotjar Tracking Code for http://www.tes.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:266940,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript">
+    var divider = '|';
+    var sitename = 'tes.com';
+    var section = TES && TES.pageMetadata && TES.pageMetadata.section || 'unknown';
+    var subsection = TES && TES.pageMetadata && TES.pageMetadata.subsection || section;
+    var pagename = TES && TES.pageMetadata && TES.pageMetadata.type || 'unknown';
+    var adformPagename = [sitename, section, subsection, pagename].join(divider);
+    window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
+    window._adftrack.push({
+        pm: 776766,
+        divider: encodeURIComponent(divider),
+        pagename: encodeURIComponent(adformPagename)
+    });
+    (function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();
+
+</script>
+<!-- Adform Tracking Code END --><!--Start of Tawk.to Script-->
+<script type="text/javascript">
+// Enable on uploader and RDP
+var urlRegex = /^\/(uploader|teaching\-resource\/)/;
+var toggleEnabled = window.location && window.location.search && window.location.search.indexOf('toggle=tawkto') >= 0;
+var urlEnabled = window.location && window.location.pathname &&  window.location.pathname.match(urlRegex);
+if (toggleEnabled || urlEnabled) {
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/596c9f1e1dc79b329518eb22/default';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+  Tawk_API = Tawk_API || {};
+  Tawk_API.onStatusChange = function (status) {
+    var visibility = status === 'online' ? 'inline' : 'none';
+    [].forEach.call(document.querySelectorAll('.js-tawkto-chat'), function (el) {
+      console.log(el);
+      el.style.display = visibility;
+    });
+  }
+}
+</script>
+<!--End of Tawk.to Script-->
+<script cx-bundles="site-assets/fragment.js" cx-replace-outer cx-ignore-error="true" defer></script>
+
+</section>
+  </div>
+</footer>
+  <script src="https://www.tes.com/sites/default/files/js/js_AcynvjkFzojG343hA5QsS9qLcvoMxKLyUQ0UyLiDMdM.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_e_05PO8OupRQu3NRGxSDxG48JEq9FHmvGZPZaHg5G98.js"></script>
+<script>
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0034/8524.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      </script>
+<script src="https://www.tes.com/sites/default/files/js/js_UypA1WyUpBEzqaORTjkv8GlLKVN0VHix4rCS4zQ66Aw.js"></script>
+<script src="https://native.sharethrough.com/assets/sfp.js"></script>
+<script src="https://www.tes.com/sites/default/files/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+</body>
+</html>

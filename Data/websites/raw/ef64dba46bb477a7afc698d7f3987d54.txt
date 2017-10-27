@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+  <head>
+                                <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Taiwan News">
+    <meta name="msvalidate.01" content="1B767768A4DBD00EE727D7234A6D366E">    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="PLA is being &#039;tailor-made&#039; to invade Taiwan | Taiwan News">
+    <meta name="google-site-verification" content="z_olpn978vuQe5nR1yuzhIPFXgCbfnPNxUjkXN46Q_0">
+    <link rel="icon" href="/img/favicon-TN3.png">
+    <title>PLA is being &#039;tailor-made&#039; to invade Taiwan | Taiwan News</title>
+    <!-- Open Graph protocol metadata-->
+    <meta property="og:title" content="PLA is being &#039;tailor-made&#039; to invade Taiwan | Taiwan News">
+    <meta property="og:url" content="http://www.taiwannews.com.tw/en/news/3275089">
+    <meta name="description" content="Author of &#039;The Chinese Invasion Threat&#039; says PLA is being prepared for the invasion of Taiwan, at every level of organization..Author of &#039;The Chinese Invasion Threat&#039; says despite massive restructuring, PLA is only 10% ready to invade so far">
+    <meta property="og:description" content="Author of &#039;The Chinese Invasion Threat&#039; says PLA is being prepared for the invasion of Taiwan, at every level of organization..Author of &#039;The Chinese Invasion Threat&#039; says despite massive restructuring, PLA is only 10% ready to invade so far">
+    <meta property="og:image" content="https://tnimage.taiwannews.com.tw/photos/shares/59e851266cf3f.jpg">
+    <meta property="og:image:width" content="640">
+    <meta property="og:image:height" content="442">    <link href="http://www.taiwannews.com.tw/en/news/3275089" rel="canonical">    <!-- FB App ID-->
+    <meta property="fb:app_id" content="1082075965223782">    <meta http-equiv="refresh" content="600">    <!-- Custom styles for this template-->
+    <link href="/css/swiper.min.css" rel="stylesheet">
+    <link href="/css/slider.css" rel="stylesheet">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">    <link href="/css/cms-theme-en.css" rel="stylesheet">    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries--><!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script><![endif]-->
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+      _atrk_opts = { atrk_acct:"+151o1QolK10fn", domain:"taiwannews.com.tw",dynamic: true};
+      (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=+151o1QolK10fn" style="display:none" height="1" width="1" alt=""></noscript><!-- End Alexa Certify Javascript -->
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-86170837-1', 'auto');
+      ga('send', 'pageview');
+    </script><!-- End Google Analytics -->
+  </head>
+  <body>
+    <div id="wrapper">
+                  <header id="header">
+        <section>
+          <button id="sidebar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar" class="collapsed"><span class="sr-only">Toggle navigation</span><span class="bar top"></span><span class="bar middle"></span><span class="bar bottom"></span></button>
+          <div id="navbar-collapse" class="collapse menu-collapse">
+            <ul id="sidebar" class="nav">              <li style="background-color: #FF0000;" class="de_rec"></li>                            <li style="display:flex;">                <div style="background-color: #F78680;width:5px;height:auto;"></div><a href="/en/cate/3">World</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #808ECC;width:5px;height:auto;"></div><a href="/en/cate/9">Politics</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #F4B064;width:5px;height:auto;"></div><a href="/en/cate/5">Economy</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #5BA5F6;width:5px;height:auto;"></div><a href="/en/cate/7">Society</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #71D5CA;width:5px;height:auto;"></div><a href="/en/cate/4">Culture</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #274e13;width:5px;height:auto;"></div><a href="/en/cate/6">Editorial</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #F4B064;width:5px;height:auto;"></div><a href="/en/cate/12">Opinion</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #A670BD;width:5px;height:auto;"></div><a href="/en/cate/10">Travel &amp; Cuisine</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #F78680;width:5px;height:auto;"></div><a href="/en/cate/11">New Immigrants</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #000000;width:5px;height:auto;"></div><a href="/en/cate/33">Taipei 2017 Universiade</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #cc0000;width:5px;height:auto;"></div><a href="/en/cate/13">Sports &amp; Entertainment</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #71D5CA;width:5px;height:auto;"></div><a href="/en/cate/14">Environment</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #808ECC;width:5px;height:auto;"></div><a href="/en/cate/16">Food Safety &amp; Health</a>
+              </li>                            <li style="display:flex;">                <div style="background-color: #000000;width:5px;height:auto;"></div><a href="/en/cate/34">Taiwan News Weekly Roundup</a>
+              </li>                            <li style="background-color: #9900FF;" class="de_rec"></li>
+            </ul>
+          </div>
+        </section>
+        <!--end sidebar-menu-->
+        <button id="sidebar-logo" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar" background-color="white" class="collapsed mod_logo hm pull-left"></button>
+        <section class="mod_language"><a href="https://www.taiwannews.com.tw/ch/index" class="btn system-language Chinese">漢</a><a href="https://www.taiwannews.com.tw/en/index" class="btn system-language English">En
+            <!--end mod_language--></a>
+        </section>
+        <section style="margin-left:-6px;" class="mod_header-navbar">
+          <ul>            <li><a href="#" data-toggle="modal" data-target="#loginModal" id="loginButton"><img src="/img/m2.png" class="mod_logo hm"></a></li>          </ul>
+        </section>
+        <section class="mod_logo hm logo_center img-responsive"><a href="/en/index"><img src="/img/TN-logo-enb.png"></a></section>
+        <div id="loginModal" tabindex="-1" role="dialog" class="modal fade">
+          <div role="document" style="z-index:2000;" class="modal-dialog">
+            <div class="modal-content">
+              <div id="loginModalContent" class="modal-content">
+                <section class="mod_auth common_pane-md">
+                  <div class="mod_tab-flex">
+                    <div style="padding-top:0px;" class="tab-content">
+                      <div id="login" role="tabpanel" class="tab-pane active">
+                        <header class="de_header">                          <h4 class="text-center">Login</h4>                        </header>
+                        <div class="common_wrapper-vertical">                          <form action="https://www.taiwannews.com.tw/en/login" method="POST" class="mod_form-icon-style form-horizontal text-center"><input type="hidden" name="_token" value="JqOE8qZOlg9eiQZPGmmD2gqy0xIzccKjIw9FqyL2">
+                            <div class="col-md-offset-1 col-md-10">
+                              <div class="form-group">
+                                <label for="email" class="control-label col-xs-3 col-md-2"><span class="fa fa-user"></span></label>
+                                <div class="col-xs-9 col-md-10">                                  <input placeholder="Please enter email" name="email" type="email" class="form-control">                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label for="password" class="control-label col-xs-3 col-md-2"><span class="fa fa-lock"></span></label>
+                                <div class="col-xs-9 col-md-10">                                  <input placeholder="Please enter password" name="password" type="password" class="form-control">                                </div>
+                              </div>
+                              <div class="password-action text-left">
+                                <input type="checkbox" name="keep_login"><span>Stay logged in</span>                                <div class="password-forgot"><a href="#forgot" role="tab" data-toggle="tab" id="forgotModel">Forget password?</a></div>
+                              </div>
+                              <div class="button-group">                                <button type="submit" class="btn btn-lg btn-block btn-status submit">Login</button>                              </div>
+                              <div class="register text-center">                                <h5 class="common_inline">Not yet a member？<a href="/en/member/register">Register</a></h5>                              </div>
+                            </div>
+                          </form>
+                        </div>
+                      </div>
+                      <div id="forgot" role="tabpanel" class="tab-pane">
+                        <header class="de_header">
+                          <h4 class="text-center">忘記密碼</h4>
+                        </header>
+                        <div class="modal-dialog forgot">
+                          <div class="modal-body">                            <form role="form" method="POST" action="https://www.taiwannews.com.tw/%7Blang%7D/password/forgot" class="mod_form form-horizontal"><input type="hidden" name="_token" value="JqOE8qZOlg9eiQZPGmmD2gqy0xIzccKjIw9FqyL2">
+                              <div class="col-md-offset-1 col-md-10">
+                                <div class="form-group">
+                                  <label for="email" class="control-label col-md-4">E-Mail</label>
+                                  <div class="col-md-8">
+                                    <input placeholder="E-Mail" name="email" type="text" value="" class="form-control">
+                                  </div>
+                                </div>
+                                <div class="common_twenty"></div>
+                                <div class="button-group">
+                                  <button type="submit" class="btn btn-lg btn-block btn-status submit">送出</button>
+                                </div>
+                                <div class="register text-center">
+                                  <h5 class="common_inline">返回<a href="#login" role="tab" data-toggle="tab">登入頁</a></h5>
+                                </div>
+                              </div>
+                            </form>
+                            <div class="clearfix"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="forgotSuccessModal" tabindex="-1" role="dialog" class="modal fade">
+          <div role="document" style="z-index:2000;" class="modal-dialog">
+            <div class="modal-content">
+              <div id="forgotSuccessModal" class="modal-body">
+                <p>密碼設定成功，請使用新密碼登入
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--end mod_header-navbar-->
+      </header>
+      <section class="mod_social-nav">
+        <ul class="social-nav">
+          <li><a href="#" data-toggle="collapse" data-target="#collapseSearch" aria-expanded="false" class="search"><i class="fa fa-search"></i></a></li>
+          <li><a href="https://www.taiwannews.com.tw/guide?lang=english" target="_blank" style="background-color:#e98422;"><img src="/img/icon-en.jpg" style="margin-top:-2px;padding-bottom: 2px;"></a></li>
+          <li><a href="https://www.facebook.com/taiwannews.en/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="http://twitter.com/TaiwanNews886?lang=zh-tw" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="https://www.youtube.com/user/taiwannewsonline" target="_blank" class="youtube"><i class="fa fa-youtube"></i></a></li>
+        </ul>
+      </section>
+      <div id="collapseSearch" class="collapse">
+        <div class="mod_search-box">
+          <form role="search" action="/en/search" class="form-inline">
+            <div class="form-group2">
+              <button type="submit" id="search-btn" class="form-control"><span class="fa fa-search"></span><span>&nbsp;|</span></button>              <input type="search" id="search" name="keyword" value="" placeholder="search" class="form-control">
+            </div>
+          </form>
+        </div>
+      </div>
+      <div id="content">        <div class="mod_breadcrumb">
+          <ol class="breadcrumb">
+            <li><a href="/en/index">Home</a></li>            <li><a href="/en/cate/9">Politics</a></li>                      </ol>
+        </div>
+        <div class="no-gutter">
+          <div id="main" class="col-xs-12 col-md-8 de_paper">
+            <section class="mod_single-column">
+              <header class="article-head-wrapper">
+                                                <h1 class="article-title">PLA is being &#039;tailor-made&#039; to invade Taiwan</h1>                <h4 class="subtilte">Author of &#039;The Chinese Invasion Threat&#039; says PLA is being prepared for the invasion of Taiwan, at every level of organization.</h4>                <div class="up_share">
+                  <div class="a2a_kit"><a data-href="https://www.taiwannews.com.tw/en/news/3275089" data-width="50" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false" style="margin-right: 0px;" class="fb-like"></a>
+                    <div data-href="https://www.taiwannews.com.tw/en/news/3275089" data-layout="button" class="fb-share-button"></div><a data-count="horizontal" data-url="https://www.taiwannews.com.tw/en/news/3275089" class="a2a_button_twitter_tweet"></a><a data-annotation="bubble" data-href="https://www.taiwannews.com.tw/en/news/3275089" class="a2a_button_google_plus_share"></a>
+                  </div>
+                </div>
+                <div class="article-meta">
+                  <div class="article-author"><span>By&nbsp;</span><a href="/en/search?keyword=Keoni Everington">Keoni Everington</a>,Taiwan News, Staff Writer
+                                      </div>
+                  <div class="article-date">2017/10/19 15:39</div>
+                </div>
+              </header>
+              <article class="container-fluid article">                <section class="mod_article-slide">
+                  <div class="swiper-container detail-jade">
+                    <div class="swiper-wrapper">                      <div class="swiper-slide"><img src="https://tnimage.taiwannews.com.tw/photos/shares/59e851266cf3f.jpg" title="Military parade marking 70th anniversary of the end of WWII. " class="img-responsive">                        <div class="caption">
+                                                                                                                                  <p>Military parade marking 70th anniversary of the end of WWII. (By Wikimedia Commons)</p>                        </div>                      </div>                    </div>                  </div>
+                </section><span><p>TAIPEI (Taiwan News) -- In part two of Taiwan News&#39; exclusive&nbsp;<a href="https://www.taiwannews.com.tw/en/news/3273885#">interview</a> with Ian Easton, author of <a href="https://www.amazon.com/Chinese-Invasion-Threat-American-Strategy/dp/1546353259">the new book</a> &quot;The Chinese Invasion Threat:&nbsp;Taiwan&#39;s Defense and American Strategy in Asia,&quot; he breaks down China&#39;s plans to invade Taiwan in detail, how far it is in its planning, what signs to look for, how it would differ from the Normandy invasion and a glimpse at out how he gathered this secret information.&nbsp;</p>
+
+<p><strong>What do China&#39;s plans to invade Taiwan entail?</strong></p>
+
+<p>The Chinese are not just creating plans alone, they are also preparing the forces they need to execute those plans. Early in January of 2016, they began a series of structural reforms of the People&#39;s Liberation Army (PLA), including the way it was organized and equipped. If you look at what they&#39;ve done they are preparing the PLA for the invasion of Taiwan, at every level of organization.</p>
+
+<p>They have new theater commands, new brigade structures in the army. It&#39;s very significant what they&#39;ve done, taking apart the Soviet model and turning it into something that does not look like the American model at all, it&#39;s very distinctive and Chinese.</p>
+
+<p>The reason I believe it is so distinctive is that it&#39;s tailor made for the invasion of Taiwan. This includes not just the army, but also the joint forces that they are planning to build up. They have done all the studies and they know that if they don&#39;t reform their military in a drastic way,&nbsp;they will never be ready for an invasion of Taiwan.&nbsp;</p>
+
+<p>These major reforms&nbsp;in the near term may actually weaken the Chinese military significantly, but in the longer term it&#39;s going to be worth it for them because it will give them the military they&nbsp;need to execute this plan that they have.&nbsp;</p>
+
+<p><strong>Is it possible to gauge right now how far along the PLA is now in being ready to invade Taiwan?</strong></p>
+
+<p>I would say they are about 10 percent there. To build a joint force, it takes a very very long time.&nbsp;</p>
+
+<p><strong>Would it not be obvious that China was preparing&nbsp;to launch an imminent&nbsp;large-scale invasion?</strong></p>
+
+<p>In the chapter of my book titled &quot;Signs of Invasion,&quot;&nbsp;I list&nbsp;key indicators of invasion that would indicate to Taiwanese, Japanese, and American intelligence that the Chinese were preparing to invade Taiwan. You can tell well in advance when a country is preparing for a massive amphibious operation.</p>
+
+<p>There are 5 categories of signs of invasion, and inside of each of those categories, there are 5 to 50 individual signs of invasion. So everything from readiness, including&nbsp;moving forces, activating reservists, activating militia forces, holding military exercises, and having planning conferences, to logistics, including&nbsp;preparing the fuel, ammunition, and with satellites seeing if Chinese amphibious ship-making factories go into high gear. If they are churning out thousands of small landing craft, that&#39;s one indication that they are planning to invade Taiwan.&nbsp;</p>
+
+<p>There&#39;s so many things they would do, including intelligence gathering, subversion, financial transactions, stockpiling, and propaganda work in China to get the people of China and the military psychologically ready for the attack.&nbsp;</p>
+
+<p>The chapter shows that while China could surprise Taiwan with a bolt out of the blue missile raid with 50 or 100 cruise missiles or ballistic missiles, China certainly could not surprise Taiwan with an invasion with hundreds of thousands or maybe a million or more troops prepared to float across the Taiwan Strait. Taiwan would start to see indications 90 days, minimum, in advance of the invasion.</p>
+
+<p>For 60 days, it would be ambiguous, they would not be able to guarantee that China&#39;s true intention was invasion. But the last 30 days before the war started, it would become very clear with every hour that passed that China&#39;s intention was to do a minimal-warning invasion. Of course, the Chinese would engage in lots of acts of deception, but there&#39;s no way they could trick Taiwanese intelligence and American intelligence, and the book talks about why that is.&nbsp;</p>
+
+<p><strong>How would the invasion of Taiwan be different than the invasion of Normandy?</strong></p>
+
+<p>It would be very different from Normandy because that was a completely different situation and very different time. There were no satellites back then of course, there were no cyber hackers at that time, and the defending side did not have an anti-ship cruise missile.</p>
+
+<p>Once war starts and the Chinese start marshalling their amphibious brigades across from Taiwan and loading aboard ships, Taiwan at any moment can launch all of its cruise missiles on those port facilities and amphibious staging areas and actually hit the attacker at the origin of attack and then keep hitting them as they move all the way across the Taiwan Strait. And that&#39;s very different, we&#39;ve never seen that in the history of warfare.</p>
+
+<p>We&#39;ve never seen this type of technology being used. We know it exists now, we see it at military parades and military exercises, but we&#39;ve never actually seen what a modern war would look like because, thankfully, a modern war has never been fought before. There&#39;s never been a massive conventional war with these types of technologies employed.&nbsp;</p>
+
+<p><strong>How do you access these highly secret information on the PLA&#39;s war plans?</strong></p>
+
+<p>There&#39;s a large PLA studies community in Taiwan and a very large one in Washington D.C., and I&#39;m part of that community. There are channels that we use to get these types of materials from China.</p>
+
+<p>For example, they smuggle books, newspapers, and magazines, and so I went to all the same places as others in my community go to. The Taiwanese research community, especially the military has exhaustively studied the threat facing Taiwan. They know the PLA inside and out.</p>
+
+<p>Most people don&#39;t appreciate how good their research is because most people can&#39;t read the traditional characters that they use and most people are not familiar with the jargon that they use.&nbsp;</p>
+
+<p>For those readers would would like to read the papers on this topic published by Taiwan&#39;s Ministry of National Defense, they can visit their web portal and view lists of professional&nbsp;<a href="https://www.mnd.gov.tw//PublishMPBook.aspx?title=%E8%BB%8D%E4%BA%8B%E5%88%8A%E7%89%A9&amp;SelectStyle=%E8%BB%8D%E4%BA%8B%E6%9C%9F%E5%88%8A">military journals</a> by the different services&nbsp;(all in Traditional Chinese characters). They have incredible, very detailed studies that they&#39;ve done and so I draw from that information.&nbsp;</p>
+
+<p>Click <a href="https://www.taiwannews.com.tw/en/news/3273885">here for part one</a>&nbsp;and <a href="https://www.taiwannews.com.tw/en/news/3275166">part three</a> of Taiwan News&#39; exclusive interview with Easton. Stay tuned for part three in the series.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>About the author</strong></p>
+
+<p><em>Ian Easton<strong>&nbsp;</strong>is a research fellow at the <a href="http://project2049.net/who_we_are_easton.html">Project 2049 Institute</a>, where he conducts research on defense and security issues in Asia. During the summer of 2013 he was a visiting fellow at the Japan Institute for International Affairs (JIIA) in Tokyo. Previously, Ian worked as a China analyst at the Center for Naval Analyses (CNA) for two years. Prior to that, he lived in Taipei from 2005 to 2010. During his time in Taiwan, he worked as a translator for Island Technologies Inc. and the Foundation for Asia-Pacific Peace Studies. While in Taiwan, he also conducted research with the Asia Bureau Chief of Defense News.&nbsp;</em></p>
+
+<p><em>Ian holds an M.A. in China Studies from National Chengchi University in Taiwan and a B.A. in International Studies from the University of Illinois Urbana-Champaign. He also holds a certification in advanced Mandarin Chinese, having formally studied the language at Fudan University in Shanghai, and National Taiwan Normal University in Taipei.</em></p>
+</span>
+              </article>
+              <div class="container-fluid">
+                <div class="tagcloud"><a href="/en/search?keyword=Chinese invasion"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>Chinese invasion</span></a><a href="/en/search?keyword=Chinese attack"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>Chinese attack</span></a><a href="/en/search?keyword=war with China"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>war with China</span></a><a href="/en/search?keyword=cross-strait"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>cross-strait</span></a><a href="/en/search?keyword=cross-strait relations"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>cross-strait relations</span></a><a href="/en/search?keyword=PLA"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>PLA</span></a><a href="/en/search?keyword=Chinese army"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>Chinese army</span></a><a href="/en/search?keyword=Chinese military"><span class="tag">
+                      <div class="fa fa-fw fa-tag"></div>Chinese military</span></a></div>
+                <div class="down_share">
+                  <div class="a2a_kit"><a data-href="https://www.taiwannews.com.tw/en/news/3275089" data-width="50" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false" style="margin-right: 0px;" class="fb-like"></a>
+                    <div data-href="https://www.taiwannews.com.tw/en/news/3275089" data-layout="button" class="fb-share-button"></div><a data-count="horizontal" data-url="https://www.taiwannews.com.tw/en/news/3275089" class="a2a_button_twitter_tweet"></a><a data-annotation="bubble" data-href="https://www.taiwannews.com.tw/en/news/3275089" class="a2a_button_google_plus_share"></a>
+                  </div>
+                </div>
+              </div>
+              <footer class="article-foot-wrapper hide">
+                <nav>
+                  <ul class="pager">
+                    <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span>Older</a></li>
+                    <li class="next"><a href="#">Newer<span aria-hidden="true">&rarr;</span></a></li>
+                  </ul>
+                </nav>
+              </footer>
+              <!--end mod_single-column-->
+              <div class="rad-ad"><ins style="display:inline-block;width:0px;height:0px;" data-sca-pub="lR8NHxQ/Sy5GUxc=" data-sca-web="102" data-sca-category="1" data-sca-cid="14347" data-sca-responsive="auto" data-sca-background-color="#ffffff" data-sca-title-color="#333333" data-sca-title-font-family="Microsoft JhengHei" data-sca-description-color="#3989D4" data-sca-description-font-family="Microsoft JhengHei" data-sca-border-color="#f2f2f2" class="scupioadslot"></ins>
+                <script async="" src="//img.scupio.com/js/ad.js"></script>
+              </div>
+            </section>            <header class="page-header">
+              <div class="container-fluid">
+                <h2 class="latest">RELATED ARTICLES</h2>
+              </div>
+            </header>
+            <section class="mod_related-list">              <div class="div popular_side col-xs-12 col-md-12"><a href="/en/news/3283068" style="padding:0px;" class="col-xs-5 col-sm-2 col-md-2"><img style="background-image:url('https://tnimage.taiwannews.com.tw/small/shares/59f14a0b13d7b.jpg');" class="img-responsive center-block popular_img"></a>
+                <div class="col-xs-11 col-sm-12 col-md-12 related-words"><a href="/en/news/3283068" class="de_remove-link-color">What the Chinese Communist Party&rsquo;s National People&rsquo;s Congress means for Taiwan</a></div>
+                <div style="padding:0px;" class="col-xs-4 col-sm-2 col-md-2 text-right">2017/10/26 10:45</div>
+              </div>              <div class="div popular_side col-xs-12 col-md-12"><a href="/en/news/3275166" style="padding:0px;" class="col-xs-5 col-sm-2 col-md-2"><img style="background-image:url('https://tnimage.taiwannews.com.tw/small/shares/59e9c543210ff.jpg');" class="img-responsive center-block popular_img"></a>
+                <div class="col-xs-11 col-sm-12 col-md-12 related-words"><a href="/en/news/3275166" class="de_remove-link-color">100% chance US, Japan would help Taiwan if China attacks: researcher</a></div>
+                <div style="padding:0px;" class="col-xs-4 col-sm-2 col-md-2 text-right">2017/10/20 17:16</div>
+              </div>              <div class="div popular_side col-xs-12 col-md-12"><a href="/en/news/3277365" style="padding:0px;" class="col-xs-5 col-sm-2 col-md-2"><img style="background-image:url('https://tnimage.taiwannews.com.tw/small/shares/CNA/20171018/20171018000037.jpg');" class="img-responsive center-block popular_img"></a>
+                <div class="col-xs-11 col-sm-12 col-md-12 related-words"><a href="/en/news/3277365" class="de_remove-link-color">Taiwan responds to Xi&rsquo;s tough messages at 19th Congress with worries</a></div>
+                <div style="padding:0px;" class="col-xs-4 col-sm-2 col-md-2 text-right">2017/10/18 19:04</div>
+              </div>              <div class="div popular_side col-xs-12 col-md-12"><a href="/en/news/3277285" style="padding:0px;" class="col-xs-5 col-sm-2 col-md-2"><img style="background-image:url('https://tnimage.taiwannews.com.tw/small/shares/59e71ef600428.jpg');" class="img-responsive center-block popular_img"></a>
+                <div class="col-xs-11 col-sm-12 col-md-12 related-words"><a href="/en/news/3277285" class="de_remove-link-color">Xi says China has prevented Taiwan&rsquo;s independence for past five years</a></div>
+                <div style="padding:0px;" class="col-xs-4 col-sm-2 col-md-2 text-right">2017/10/18 18:08</div>
+              </div>              <div class="div popular_side col-xs-12 col-md-12"><a href="/en/news/3273885" style="padding:0px;" class="col-xs-5 col-sm-2 col-md-2"><img style="background-image:url('https://tnimage.taiwannews.com.tw/small/shares/59e70c51ac775.jpg');" class="img-responsive center-block popular_img"></a>
+                <div class="col-xs-11 col-sm-12 col-md-12 related-words"><a href="/en/news/3273885" class="de_remove-link-color">No matter what Taiwan does, China continues invasion plans: researcher</a></div>
+                <div style="padding:0px;" class="col-xs-4 col-sm-2 col-md-2 text-right">2017/10/18 16:11</div>
+              </div>            </section>                      </div>
+          <div id="aside" class="col-xs-12 col-md-4">            <section class="mod_sidebar">
+              <div class="update_time">                <p>Updated : 2017-10-27 17:03 GMT+08:00</p>              </div>              <header class="page-header">
+                <div class="container-fluid">                  <h4>MOST POPULAR</h4>                </div>                <div class="div popular_side"><a href="/en/news/3283406"><img src="https://tnimage.taiwannews.com.tw/small/shares/59f1ae05221f2.jpg" title="Image of Chang Shu-ching posted by wade770223 on PTT. " class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3283406" class="de_remove-link-color popular_font">&#039;Evil Landlady&#039; ordered to pay NT$2.7 million for AC repairman&#039;s death </a></div></a></div>                <div class="div popular_side"><a href="/en/news/3282258"><img src="https://tnimage.taiwannews.com.tw/small/shares/CNA/20171025/20171025000001.jpg" title="Taiwan team members in back row at The World Bread contest. " class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3282258" class="de_remove-link-color popular_font">Taiwan wins second-straight championship at France&#039;s World of Bread contest</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3280687"><img src="https://tnimage.taiwannews.com.tw/small/shares/59ed865194843.jpg" title="British man with &quot;Taiwan&quot; tattoo arrested for drunk driving. " class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3280687" class="de_remove-link-color popular_font">British man with &#039;Taiwan&#039; tattoo arrested for drunk driving</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3281779"><img src="https://tnimage.taiwannews.com.tw/small/shares/59ef28222c49d.jpg" title="Taiwan&#039;s e-gates. " class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3281779" class="de_remove-link-color popular_font">Taiwan to join U.S. Global Entry program in November</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3246536"><img src="https://tnimage.taiwannews.com.tw/small/shares/59ae5309aa3e8.jpg" title="(Photo by @hungryintaipei) " class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3246536" class="de_remove-link-color popular_font">10 new places to eat next in Taipei</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3283108"><img src="https://tnimage.taiwannews.com.tw/small/shares/CNA/20171026/20171026000090.jpg" title="" class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3283108" class="de_remove-link-color popular_font">Taiwan government to subsidize 40 percent of rooftop solar panel costs</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3282701"><img src="https://tnimage.taiwannews.com.tw/small/shares/59f0892ec16f6.jpg" title="" class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3282701" class="de_remove-link-color popular_font">EPA plans to restrict use of single-use plastic straws</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3282302"><img src="https://tnimage.taiwannews.com.tw/small/shares/59f05ba9ecb3a.jpg" title="Kaohsiung, Taiwan (Photo courtesy of tingyaoh/ PIXABAY)" class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3282302" class="de_remove-link-color popular_font">Kaohsiung named top-5 city to visit in 2018</a></div></a></div>                <div class="div popular_side"><a href="/en/news/3278676"><img src="https://tnimage.taiwannews.com.tw/small/shares/59e9ca93b04ba.jpg" title="CCTV footage of Hsieh (Lt.) fleeing Chang (Rt.)." class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3278676" class="de_remove-link-color popular_font">Horrific acid attack at NTU dorm leaves 1 dead and 3 wounded </a></div></a></div>                <div class="div popular_side"><a href="/en/news/3283068"><img src="https://tnimage.taiwannews.com.tw/small/shares/59f14a0b13d7b.jpg" title="Chinese President Xi Jinping stands with cadres at closing ceremony for 19th Party Congress in Beijing." class="img-responsive center-block popular_img">
+                    <div style="width:75%;" class="related-words"><a href="/en/news/3283068" class="de_remove-link-color popular_font">What the Chinese Communist Party&rsquo;s National People&rsquo;s Congress means for Taiwan</a></div></a></div>              </header>
+              <div class="de_divider">              </div>
+              <div class="mod_payment-ad">
+                <script>
+                  //<!--
+                  google_ad_client = "pub-5521506484906895";
+                  /* 300x250 CICL */
+                  google_ad_slot = "5075971253";
+                  google_ad_width = 300;
+                  google_ad_height = 250;
+                  //-->
+                </script>
+                <script src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+              </div>
+              <div class="mod_payment-ad">
+                <div class="stru_payment-ad"><ins style="display:inline-block;width:300px;height:600px" data-ad-zone="3228" class="clickforceads"></ins>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+      <footer id="footer">
+        <div class="container-fluid">
+          <div class="mod_footer-left">
+            <ul>
+              <li><a href="/en/page/aboutUs">About Us</a></li>
+              <!--li
+              //|               //a(href="/en/page/privacyPolicy") Privacy Policy
+              //|               -->
+              <li><a href="/en/page/contactUs">Contact Us</a></li>
+              <!--li-->
+              <!--    |               a(href="/guide") Taiwan Guide
+              |               -->
+            </ul>
+          </div>
+          <div class="mod_footer-right">
+            <p>Taiwan News  &copy;  2017 All Rights Reserved.</p>
+          </div>
+        </div>
+      </footer>
+      <!--
+      Bootstrap core JavaScript
+      ==================================================
+      -->
+      <!-- Placed at the end of the document so the pages load faster-->
+      <script src="/js/jquery.min.js"></script>
+      <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+      <script src="/js/swiper.min.js" type="text/javascript"></script>
+      <script src="/js/moretext-1.2.js" type="text/javascript"></script>
+      <script src="/js/slider.js" type="text/javascript"></script>
+      <!--側欄menu-->
+      <script>
+        $(document).ready(function(){
+          $('#sidebar-toggle').click(function() {
+            $(this).toggleClass('active');
+          });
+        });
+        
+        $(document).ready(function(){
+        
+          var body_width = $(window).width();
+          var page_width = $('#wrapper').width();
+        
+          if (body_width >= 1350) {
+            $('#sidebar').css({
+              "width": (body_width - page_width) / 2 +"px "
+            });
+          }
+        
+          $(window).resize(function() {
+            var body_resize = $(window).width();
+            var page_resize = $('#wrapper').width();
+            if (body_resize >= 1335) {
+              $('#sidebar').css({
+                "width": (body_resize - page_resize) / 2 +"px "
+              });
+            }
+            if (body_resize < 1335) {
+              $('#sidebar').css({
+                "width": 100 +"% "
+              });
+            }
+          });
+        
+        });
+        
+      </script>
+      <!--解決無法在擬元素上加inline-style-->
+      <script>
+        var addRule = (function(style){
+        var sheet = document.head.appendChild(style).sheet;
+        return function(selector, css){
+          var propText = Object.keys(css).map(function(p){
+              return p+":"+css[p]
+          }).join(";");
+          sheet.insertRule(selector + "{" + propText + "}", sheet.cssRules.length);
+        }
+        })(document.createElement("style"));
+        
+        addRule(".de_category-header:before", {
+            background: "#F44336" /*需判斷分類並加上對應的顏色*/
+        });
+        
+      </script>
+      <script>
+        $('.swiper-container').each(function () {
+          // detail.jade 中的 swiper 與這邊的設定不同，所以不在這裡初始化
+          if (!$(this).hasClass('detail-jade')){
+            new Swiper(this, {
+              spaceBetween: 0,
+              centeredSlides: true,
+              autoplay: 3000,
+              speed: 1000,
+              loop: $(this).find('.swiper-slide').length > 1,
+              autoplayDisableOnInteraction: false
+            });
+          }
+        });
+                
+                                
+      </script>
+      <script>
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+          var target = $(this).attr('href');
+        
+          $(target).css('right','-'+$('#loginModalContent').width()+'px');
+          var right = $(target).offset().right;
+          $(target).css({right:right}).animate({"right":"0px"}, 200);
+        });
+      </script>
+    </div>
+            <script>
+      (function(lang, id) {
+        $.get("/api/v1/pv/" + lang + "/" + id);
+      })(1, 3275089);
+      
+    </script>
+    <script>
+      var a2a_config = a2a_config || {};
+      
+      a2a_config.locale = "en-US";
+      
+    </script>
+    <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+    <script>
+      var swiper = new Swiper('.swiper-container', {
+          pagination: '.swiper-pagination',
+          paginationClickable: true,
+          nextButton: '.swiper-button-next',
+          prevButton: '.swiper-button-prev',
+          autoplay: 3000,
+          speed: 1000,
+          loop: $(this).find('.swiper-slide').length > 1,
+          autoplayDisableOnInteraction: false
+      });
+      
+    </script>
+    <script>
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+  </body>
+</html>

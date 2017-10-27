@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1507635850815/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://apnews.com/cfde2ac162ed430e8e228b5316f2541e/Study-finds-pollution-is-deadlier-than-war,-disaster,-hunger">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime(); 
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://cfde2ac162ed430e8e228b5316f2541e">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Study: Pollution kills 9 million a year, costs $4.6 trillion</title>
+    <meta id="adMetaTags" name="keywords" content="Africa,AP Top News,Health,Europe,Environment,Natural disasters,Science,Smoking,Asia Pacific,Economy,New Delhi,Pollution,International News"/>
+    <meta name="description" content="
+              NEW DELHI (AP) — Environmental pollution — from filthy air to contaminated water — is killing more people every year than all war and violence in the world. More than "/>
+    <link rel="canonical" href="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e"/>
+    <link rel="amphtml" href="https://apnews.com/amp/cfde2ac162ed430e8e228b5316f2541e">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e/Study-finds-pollution-is-deadlier-than-war,-disaster,-hunger"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Study: Pollution kills 9 million a year, costs $4.6 trillion"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              NEW DELHI (AP) — Environmental pollution — from filthy air to contaminated water — is killing more people every year than all war and violence in the world. More than "/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Study: Pollution kills 9 million a year, costs $4.6 trillion"/>
+    <meta property="twitter:description" content="
+              NEW DELHI (AP) — Environmental pollution — from filthy air to contaminated water — is killing more people every year than all war and violence in the world. More than "/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"/>
+    <meta property="twitter:url" content=" https://apnews.com/cfde2ac162ed430e8e228b5316f2541e"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': 'cfde2ac162ed430e8e228b5316f2541e',
+            'dimension4': "Study: Pollution kills 9 million a year, costs $4.6 trillion",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://apnews.com/cfde2ac162ed430e8e228b5316f2541e"
+        },
+        "headline": "Study: Pollution kills 9 million a year, costs $4.6 trillion",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg",
+            "height": "464",
+            "width": "800"
+        },
+        "datePublished": "2017-10-20 17:18:35",
+        "dateModified": "2017-10-20 17:18:35",
+        "author": {
+            "@type": "Person",
+            "name": "By KATY DAIGLE"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Morning smog envelops the skyline in Mumbai, India, Friday, Oct. 20, 2017. Environmental pollutants are killing at least 9 million people and costing the world $4.6 trillion a year, a toll exceeding that of wars, smoking, hunger or natural disasters. One out of every six premature deaths in the world in 2015, about 9 million, could be attributed to disease from toxic exposure, according to a major study released Thursday in The Lancet medical journal. Asia and Africa are the regions putting the most people at risk, the study found, while India tops the list of individual countries. (AP Photo/Rafiq Maqbool)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:d4ea7de8779048dda330abb3e3b9b5bf/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              A cyclist pedals through the morning smog Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:dede2460190244e6a9d7e310f2f335d4/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              FILE - In this June 5, 2017, file photo, toxic froth from industrial pollution floats on Bellundur Lake on World Environment Day, in Bangalore, India. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world.  (AP Photo/Aijaz Rahi, File)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:c2c991f963884742977e0d4868eb7bbb/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              FILE - In this Aug. 31, 2017 file photo, a barbed-wire fence encircles the Highlands Acid Pit that was flooded by water from the nearby San Jacinto River as a result from Harvey in Highlands, Texas. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Jason Dearen)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:e7b3ed9929044d30990d1152650cbe8c/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              FILE - In this Dec. 12, 2015, file photo, visitors to a park gestures at each other near chimneys spewing smoke in Beijing. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Ng Han Guan, File)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:00aa0a9e77834b2d8cdc1f8e6a70a0a7/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              An Indian looks at the air quality level board outside India Meteorological Department which shows condition of air as severe post during Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:800d930e97054dc38a5828b724f18d1e/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Morning walkers exercise amidst smog due to firecrackers burnt in Thursday's Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:c931a420952a41d89ab128935cb93269/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Delhi's landmark India Gate, a war memorial, is seen engulfed in morning smog a day after Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:841e93eaf32f44f78ec3e9225dfebecb/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Indian soldiers walk amidst morning smog a day after Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:07807551d1ea4aa4b6c2709d7fde724e/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              A cyclist pedals through the morning smog a day after Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:a5cc91588f134be78acb6c6e927d284e/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Cyclist pedal through the morning smog a day after Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:14fead06dbf34eaf87846b93e34b14df/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Raisina hill, government seat of power is seen engulfed in morning smog a day after Diwali festival, in New Delhi, India, Friday, Oct. 20, 2017. Environmental pollution - from filthy air to contaminated water - is killing more people every year than all war and violence in the world. One out of every six premature deaths in the world in 2015 - about 9 million - could be attributed to disease from toxic exposure, according to a major study released Thursday, Oct. 19, 2017 in The Lancet medical journal. (AP Photo/Manish Swarup)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:c728d6ed3fa845fea4f4f5185286110b/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              People jog on Marine Drive in Mumbai, India, Friday, Oct. 20, 2017. Environmental pollutants are killing at least 9 million people and costing the world $4.6 trillion a year, a toll exceeding that of wars, smoking, hunger or natural disasters. One out of every six premature deaths in the world in 2015, about 9 million, could be attributed to disease from toxic exposure, according to a major study released Thursday in The Lancet medical journal. Asia and Africa are the regions putting the most people at risk, the study found, while India tops the list of individual countries. (AP Photo/Rafiq Maqbool)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:b3cf8c9cff064066b599e56afa78c219/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Morning smog envelops the skyline in Mumbai, India, Friday, Oct. 20, 2017. Environmental pollutants are killing at least 9 million people and costing the world $4.6 trillion a year, a toll exceeding that of wars, smoking, hunger or natural disasters. One out of every six premature deaths in the world in 2015, about 9 million, could be attributed to disease from toxic exposure, according to a major study released Thursday in The Lancet medical journal. Asia and Africa are the regions putting the most people at risk, the study found, while India tops the list of individual countries. (AP Photo/Rafiq Maqbool)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:bf9c0f9c4a9f46b8a2d01aa1113a61ff/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Pigeons fly as smog envelops the skyline at noon a day after Diwali festival in New Delhi, India, Friday, Oct. 20, 2017. A court ban on firework sales before the Diwali festival didn't stop New Delhi residents from firing rockets and lighting crackers throughout Thursday night. They awoke Friday morning to acrid, smoke-filled skies and levels of dangerous, lung-clogging particulate matter known as PM2.5 that went beyond 900 parts per million &#8212; 90 times the recommended limit by the World Health Organization, and 22 times higher than India's own limits. (AP Photo/Altaf Qadri)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:34c112fada794df9832ff083ff2cdbd0/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Smog envelops the skyline at noon a day after Diwali festival in New Delhi, India, Friday, Oct. 20, 2017. A court ban on firework sales before the Diwali festival didn't stop New Delhi residents from firing rockets and lighting crackers throughout Thursday night. They awoke Friday morning to acrid, smoke-filled skies and levels of dangerous, lung-clogging particulate matter known as PM2.5 that went beyond 900 parts per million &#8212; 90 times the recommended limit by the World Health Organization, and 22 times higher than India's own limits. (AP Photo/Altaf Qadri)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:1c5db9c5caf94ccf9816a468ac99d232/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Morning smog envelops the skyline on the outskirts of New Delhi, India, Friday, Oct. 20, 2017. A court ban on firework sales before the Diwali festival didn't stop New Delhi residents from firing rockets and lighting crackers throughout Thursday night. They awoke Friday morning to acrid, smoke-filled skies and levels of dangerous, lung-clogging particulate matter known as PM2.5 that went beyond 900 parts per million &#8212; 90 times the recommended limit by the World Health Organization, and 22 times higher than India's own limits. (AP Photo/Altaf Qadri)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:cf5f1637a0f34c9cbe23ec8f2531bf1c/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Pedestrians cross a road in New Delhi, India, Friday, Oct. 20, 2017. Streets look deserted with a long festival weekend as many people chose to stay indoor to avoid toxic air caused by bursting of firecrackers on Diwali night. (AP Photo/Altaf Qadri)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:3e12fcd7229b4d598ac9256263d94ce7/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Morning smog envelops the skyline on the outskirts of New Delhi, India, Friday, Oct. 20, 2017. A court ban on firework sales before the Diwali festival didn't stop New Delhi residents from firing rockets and lighting crackers throughout Thursday night. They awoke Friday morning to acrid, smoke-filled skies and levels of dangerous, lung-clogging particulate matter known as PM2.5 that went beyond 900 parts per million &#8212; 90 times the recommended limit by the World Health Organization, and 22 times higher than India's own limits. (AP Photo/Altaf Qadri)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+                        
+                        <li data-target="#imageCarousel" data-slide-to="0" 
+                            class="active" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="3" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="4" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="5" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="6" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="7" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="8" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="9" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="10" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="11" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="12" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="13" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="14" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="15" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="16" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="17" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="18" ></li>
+                        
+                    </ol>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By KATY DAIGLE</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Oct. 20, 2017</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e/Study-finds-pollution-is-deadlier-than-war,-disaster,-hunger" data-title="Study: Pollution kills 9 million a year, costs $4.6 trillion" data-image="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Study: Pollution kills 9 million a year, costs $4.6 trillion" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e"
+     data-member="" data-id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e" data-member=""
+     data-id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/cfde2ac162ed430e8e228b5316f2541e</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Study: Pollution kills 9 million a year, costs $4.6 trillion" is-share="false" url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e" id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" short-id="cfde2ac162ed430e8e228b5316f2541e" type="content" page="card"
+     card-type="" card-title="Study: Pollution kills 9 million a year, costs $4.6 trillion" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-topnews">AP Top News</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-Health">Health</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Environment">Environment</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Naturaldisasters">Natural disasters</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-science">Science</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Smoking">Smoking</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-asiapac">Asia Pacific</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Economy">Economy</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/NewDelhi">New Delhi</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Pollution">Pollution</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-africa"><span class="moreFrom">Africa</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-topnews">AP Top News</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-Health">Health</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Environment">Environment</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Naturaldisasters">Natural disasters</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-science">Science</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Smoking">Smoking</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-asiapac">Asia Pacific</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Economy">Economy</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/NewDelhi">New Delhi</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Pollution">Pollution</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-africa">Africa</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Study: Pollution kills 9 million a year, costs $4.6 trillion</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+                    
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Health">Health</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Environment">Environment</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Naturaldisasters">Natural disasters</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-science">Science</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Smoking">Smoking</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-asiapac">Asia Pacific</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Economy">Economy</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/NewDelhi">New Delhi</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Pollution">Pollution</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-africa">Africa</a>
+                        </li>
+                    </ul>
+                    <h3>Study: Pollution kills 9 million a year, costs $4.6 trillion</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Health">Health</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Environment">Environment</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Naturaldisasters">Natural disasters</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-science">Science</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Smoking">Smoking</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-asiapac">Asia Pacific</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Economy">Economy</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/NewDelhi">New Delhi</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Pollution">Pollution</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-africa">Africa</a>
+                        </li>
+                    </ul>
+                    <h3>Study: Pollution kills 9 million a year, costs $4.6 trillion</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By KATY DAIGLE</h6>
+                    </div>
+                    <div>
+                        <h6>Oct. 20, 2017</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e/Study-finds-pollution-is-deadlier-than-war,-disaster,-hunger" data-title="Study: Pollution kills 9 million a year, costs $4.6 trillion" data-image="https://storage.googleapis.com/afs-prod/media/media:c91be7603aa041bea6805905294d2875/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Study: Pollution kills 9 million a year, costs $4.6 trillion" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e"
+     data-member="" data-id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e" data-member=""
+     data-id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/cfde2ac162ed430e8e228b5316f2541e</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Study: Pollution kills 9 million a year, costs $4.6 trillion" is-share="false" url="https://apnews.com/cfde2ac162ed430e8e228b5316f2541e" id="urn:publicid:ap.org:cfde2ac162ed430e8e228b5316f2541e" short-id="cfde2ac162ed430e8e228b5316f2541e" type="content" page="card"
+     card-type="" card-title="Study: Pollution kills 9 million a year, costs $4.6 trillion" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>NEW DELHI (AP) &#8212; Environmental pollution &#8212; from filthy air to contaminated water &#8212; is killing more people every year than all war and violence in the world. More than smoking, hunger or natural disasters. More than AIDS, tuberculosis and malaria combined.</p>
+<p>One out of every six premature deaths in the world in 2015 &#8212; about 9 million &#8212; could be attributed to disease from toxic exposure, according to a <a href="http://www.thelancet.com/commissions/pollution-and-health">major study</a> released Thursday in the Lancet medical journal. The financial cost from pollution-related death, sickness and welfare is equally massive, the report says, costing some $4.6 trillion in annual losses &#8212; or about 6.2 percent of the global economy.</p>
+<p>"There's been a lot of study of pollution, but it's never received the resources or level of attention as, say, AIDS or climate change," said epidemiologist Philip Landrigan, dean of global health at the Icahn School of Medicine at Mount Sinai, New York, and the lead author of the report.</p>
+<p>The report marks the first attempt to pull together data on disease and death caused by all forms of pollution combined.</p>
+<p>"Pollution is a massive problem that people aren't seeing because they're looking at scattered bits of it," Landrigan said.</p>
+<p>Experts say the 9 million premature deaths the study found was just a partial estimate, and the number of people killed by pollution is undoubtedly higher and will be quantified once more research is done and new methods of assessing harmful impacts are developed.</p>
+<p>Areas like Sub-Saharan Africa have yet to even set up air pollution monitoring systems. Soil pollution has received scant attention. And there are still plenty of potential toxins still being ignored, with less than half of the 5,000 new chemicals widely dispersed throughout the environment since 1950 having been tested for safety or toxicity.</p>
+<p>"In the West, we got the lead out of the gasoline, so we thought lead was handled. We got rid of the burning rivers, cleaned up the worst of the toxic sites. And then all of those discussions went into the background" just as industry began booming in developing nations, said Richard Fuller, head of the global toxic watchdog Pure Earth and one of the 47 scientists, policy makers and public health experts who contributed to the 51-page report.</p>
+<p>"To some extent these countries look to the West for examples and discussion, and we'd dropped it," Fuller said.</p><div class="ad-placeholder"></div>
+<p>Asia and Africa are the regions putting the most people at risk, the study found, while India tops the list of individual countries.</p>
+<p>One out of every four premature deaths in India in 2015, or some 2.5 million, was attributed to pollution. China's environment was the second deadliest, with more than 1.8 million premature deaths, or one in five, blamed on pollution-related illness, the study found.</p>
+<p>Several other countries such Bangladesh, Pakistan, North Korea, South Sudan and Haiti also see nearly a fifth of their premature deaths caused by pollution.</p>
+<p>Still, many poorer countries have yet to make pollution control a priority, experts say. India has taken some recent actions, such as tightening vehicle and factory emission standards and occasionally limiting the number of cars on New Delhi's roads. But they have done little about crop burning, garbage fires, construction dust or rampant use of the dirtiest fossil fuels.</p>
+<p>A court ban on firework sales before the Diwali festival didn't stop New Delhi residents from firing rockets and lighting crackers throughout Thursday night. They awoke Friday morning to acrid, smoke-filled skies and levels of dangerous, lung-clogging particulate matter known as PM2.5 that went beyond 900 parts per million &#8212; 90 times the recommended limit by the World Health Organization, and 22 times higher than India's own limits.</p>
+<p>"Even though better pollution norms are coming in, still the pollution levels are continuously increasing," said Shambhavi Shukla, a research associate with the Delhi-based Center for Science and Environment, which was not involved in the Lancet study.</p>
+<p>To reach its figures on the overall global pollution burden, the study's authors used methods outlined by the U.S. Environmental Protection Agency for assessing field data from soil tests, as well as with air and water pollution data from the Global Burden of Disease, an ongoing study run by institutions including the World Health Organization and the Institute for Health Metrics and Evaluation at the University of Washington.</p>
+<p>Even the conservative estimate of 9 million pollution-related deaths is one-and-a-half times higher than the number of people killed by smoking, three times the number killed by AIDS, tuberculosis and malaria combined, more than six times the number killed in road accidents, and 15 times the number killed in war or other forms of violence, according to GBD tallies.</p>
+<p>It is most often the world's poorest who suffer, the study found. The vast majority of pollution-related deaths &#8212; 92 percent &#8212; occur in low- or middle-income countries, where policy makers are chiefly concerned with developing their economies, lifting people out of poverty and building basic infrastructure. Environmental regulations in those countries tend to be weaker, and industries lean on outdated technologies and dirtier fuels.</p>
+<p>In wealthier countries where overall pollution is not as rampant, it is still the poorest communities that are more often exposed, the report says.</p>
+<p>"What people don't realize is that pollution does damage to economies. People who are sick or dead cannot contribute to the economy. They need to be looked after" &#8212; which is also costly, Fuller said.</p>
+<p>"There is this myth that finance ministers still live by, that you have to let industry pollute or else you won't develop," he said. "It just isn't true."</p>
+<p>The report cites EPA research showing that the U.S. has gained some $30 in benefits for every dollar spent on controlling air pollution since 1970, when Congress enacted the Clean Air Act, one of the world's most ambitious environmental laws. Removing lead from gasoline has earned the U.S. economy another $6 trillion cumulatively since 1980, according to studies by the U.S. Centers for Disease Control and Prevention.</p>
+<p>Some experts cautioned, however, that the report's economic message was murky. Reducing the pollution quantified in the report might impact production, and so would not likely translate into gains equal to the $4.6 trillion in economic losses.</p>
+<p>The report "highlights the social and economic justice of this issue," said Marc Jeuland, associate professor with the Sanford School of Public Policy and the Duke Global Health Institute at Duke University, who was not involved in the study.</p>
+<p>Without more concrete evidence for how specific policies might lead to economic gains, "policy makers will often find it difficult to take action, and this report thus only goes part way in making the case for action," he said.</p>
+<p>Jeuland also noted that, while the report counts mortality by each pollutant, there are possible overlaps &#8212; for example, someone exposed to both air pollution and water contamination &#8212; and actions to address one pollutant may not reduce mortality.</p>
+<p>"People should be careful not to extrapolate from the U.S. numbers on net (economic) benefits, because the net effects of pollution control will not be equivalent across locations," he said.</p>
+<p>The study's conclusions on the economic cost of pollution measure lost productivity and health care costs, while also considering studies measuring people's "willingness to pay" to reduce the probability of dying. While these types of studies yield estimates at best, they are used by many governments and economists trying to understand how societies value individual lives.</p>
+<p>While there has never been an international declaration on pollution, the topic is gaining traction.</p>
+<p>The World Bank in April declared that reducing pollution, in all forms, would now be a global priority. And in December, the United Nations will host its first pollution conference.</p>
+<p>"The relationship between pollution and poverty is very clear," said Ernesto Sanchez-Triana, lead environmental specialist at the World Bank. "And controlling pollution would help us address many other problems, from climate change to malnutrition. The linkages can't be ignored."</p>
+<p>___</p>
+<p>Follow Katy Daigle at <a href="http://www.twitter.com/katydaigle">www.twitter.com/katydaigle</a> .</p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-africa" content-id="cfde2ac162ed430e8e228b5316f2541e">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1507635856232.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1507635862497/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1507635856232.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Study: Pollution kills 9 million a year, costs $4.6 trillion">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="1.280095,103.850949" id="latLong">
+<input type="hidden" value="?" id="region">
+<input type="hidden" value="singapore" id="city">
+<input type="hidden" value="SG" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Africa, Topnews, Health, Europe, Science, Asiapac, Intlnews';
+    _sf_async_config.authors = 'By KATY DAIGLE';
+    _sf_async_config.alias = window.location.href;
+
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

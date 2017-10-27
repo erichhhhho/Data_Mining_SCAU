@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Filial Piety (孝) in Chinese Culture | The Greater China Journal</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://china-journal.org/xmlrpc.php">
+
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Vollkorn:b:latin,latin-ext","Vollkorn:r,i,b,bi:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Vollkorn",serif}.wf-active blockquote{font-family:"Vollkorn",serif}.wf-active button, .wf-active input[type="button"], .wf-active input[type="reset"], .wf-active input[type="submit"]{font-family:"Vollkorn",serif}.wf-active .widget_search .search-field{font-family:"Vollkorn",serif}.wf-active .widget_search .search-submit{font-family:"Vollkorn",serif}.wf-active #infinite-handle span{font-family:"Vollkorn",serif}.wf-active h1{font-family:"Vollkorn",serif;font-size:25.2px;font-weight:700;font-style:normal}.wf-active h2{font-family:"Vollkorn",serif;font-size:21px;font-weight:700;font-style:normal}.wf-active h3{font-family:"Vollkorn",serif;font-size:18.9px;font-weight:700;font-style:normal}.wf-active h4{font-family:"Vollkorn",serif;font-size:15.4px;font-style:normal;font-weight:700}.wf-active h5{font-family:"Vollkorn",serif;font-size:14px;font-style:normal;font-weight:700}.wf-active h6{font-family:"Vollkorn",serif;font-size:11.2px;font-weight:700;font-style:normal}.wf-active .widget-title{font-family:"Vollkorn",serif;font-size:9.8px;font-weight:700;font-style:normal}.wf-active .entry-title{font-family:"Vollkorn",serif;font-size:31.5px;font-weight:700;font-style:normal}.wf-active .page-title{font-size:11.2px;font-weight:700;font-style:normal}.wf-active .format-aside .entry-title, .wf-active .format-quote .entry-title{font-size:12.6px;font-style:normal;font-weight:700}.wf-active .site-title{font-weight:700;font-size:21px;font-family:"Vollkorn",serif;font-style:normal}.wf-active .site-description{font-family:"Vollkorn",serif;font-size:12.6px;font-weight:700;font-style:normal}.wf-active .comments-title{font-size:21px;font-weight:700;font-style:normal}</style>
+<meta name="google-site-verification" content="MMpDBQKE522DNVHFMT5XyKr40-P_goZ_DtZkVNtIrCU" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=china-journal.org&amp;id=84738213&amp;t=1509095139&amp;back=https%3A%2F%2Fchina-journal.org%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//chinahistoryandculturejournal.wordpress.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel="alternate" type="application/rss+xml" title="The Greater China Journal &raquo; Feed" href="https://china-journal.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Greater China Journal &raquo; Comments Feed" href="https://china-journal.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Greater China Journal &raquo; Filial Piety (孝) in Chinese&nbsp;Culture Comments Feed" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJx9j9sOgjAMhl/I2RAJ6oXxWcZoYLBuCx0hvr2dRI2H7Kbp4f/a/rBGZYJP6BPQoqJbeusZ1mgCKSbr8PZV7Q3zDv5jzk7IMGKK2kzqUf3IWxf6950wd7pj6F1otSutNmFG6VPUKSsIO6vRIYmshFFsnlROB/mr6GCz2rZxRmYlkexCKg1yqMgJlV/ZPIMIPzsbasGHZIXmV5IHV7pU9el4aKr6XI93ABKWfQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='hemingway-rewritten-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C300%2C700%7CLato%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJyFj1ELwjAMhP+QMRO3Bx/E31JrrJG2KW1G2b+3MoSJuL3dcfm4C9YEVqJSVNQHBSqYxis2xdFVM0GmmllbjkUnT3tbyg4XUBgh+dFxLOgoUuYW/JE/7EYhRzuXQk1Wwlp15ZsjLaiSIElpanPtByli2XiYxy7N+qsCXqxRlvhl4O4N5zU009WLa9Jhu1rYN3QJ58PQDf3pOPTd8wVAEpw2' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9jEEOwjAMBD9EMEgtlAPiLW4SEiMnrmJX/T5wQBUC9bS70szCMjkv1WI1KLObeE5UFdAbSR2xrW3vVXfwH59Ezd0ZqYFmbFTTJ7csFU/IjiXJ9/iRLMcSFXIHiWVE3npdKKRoCkkktIhB4QWv663eyvXYXQ7n4dQP/eMJ0mVgTg==' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chinahistoryandculturejournal.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Papa Xi &#8220;Beats The Tiger&#8221; &#8211; Xi Jinping&#8217;s New Year Propaganda&nbsp;Cartoon' href='https://china-journal.org/2015/02/21/papa-xi-beats-the-tiger-xi-jinpings-new-year-propaganda-cartoon/' />
+<link rel='next' title='Propriety and Ritualism in Chinese&nbsp;Society' href='https://china-journal.org/2016/03/16/propriety-ritualism-chinese-society/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/" />
+<link rel='shortlink' href='http://wp.me/p5Jyhn-G' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fchina-journal.org%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fchina-journal.org%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Filial Piety (孝) in Chinese Culture" />
+<meta property="og:url" content="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/" />
+<meta property="og:description" content="In order to understand Chinese culture and society it is fundamental to understand the Chinese family. The family in China was not only a social unit, but it represented a whole codified ideology t…" />
+<meta property="article:published_time" content="2016-03-14T12:09:27+00:00" />
+<meta property="article:modified_time" content="2017-02-20T23:11:24+00:00" />
+<meta property="og:site_name" content="The Greater China Journal" />
+<meta property="og:image" content="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B000PLXC4A" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@lifeinasia_blog" />
+<meta name="twitter:text:title" content="Filial Piety (孝) in Chinese&nbsp;Culture" />
+<meta name="twitter:image" content="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Classic_of_Filial_Piety_(4).jpg/710px-The_Classic_of_Filial_Piety_(4).jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@lifeinasia_blog" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel='openid.server' href='https://chinahistoryandculturejournal.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://chinahistoryandculturejournal.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://china-journal.org/osd.xml" title="The Greater China Journal" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="The Greater China Journal" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://china-journal.org/feed/;icon-uri=https://chinahistoryandculturejournal.files.wordpress.com/2017/03/13269433_1763315483880006_1996206165_a.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Filial Piety (孝) in Chinese&nbsp;Culture | The Greater China Journal on WordPress.com" />
+<meta name="description" content="In order to understand Chinese culture and society it is fundamental to understand the Chinese family. The family in China was not only a social unit, but it represented a whole codified ideology that pervaded the state and the society for thousands of years. Many of the differences between Chinese and Western thinking are comprehensible&hellip;" />
+	<style type="text/css">
+			.site-title a,
+		.site-description {
+			color: #ffffff;
+		}
+				.site-header-image {
+			background-image: url(https://chinahistoryandculturejournal.files.wordpress.com/2016/03/cropped-1024px-tiananmen_square_3986428709.jpg);
+		}
+		</style>
+			<script type="text/javascript">
+		var __ATA_PP = { pt: 1, ht: 0, tn: 'hemingway-rewritten', amp: false };
+		</script>
+		<script type="text/javascript" src="//s.pubmine.com/head.js"></script>
+		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><link rel="amphtml" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<link rel="icon" href="https://chinahistoryandculturejournal.files.wordpress.com/2017/03/13269433_1763315483880006_1996206165_a.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://chinahistoryandculturejournal.files.wordpress.com/2017/03/13269433_1763315483880006_1996206165_a.jpg?w=150" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://chinahistoryandculturejournal.files.wordpress.com/2017/03/13269433_1763315483880006_1996206165_a.jpg?w=150" />
+<meta name="msapplication-TileImage" content="https://chinahistoryandculturejournal.files.wordpress.com/2017/03/13269433_1763315483880006_1996206165_a.jpg?w=150" />
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-42 single-format-standard custom-background mp6 customizer-styles-applied highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-header-image">
+			<div class="site-branding-wrapper">
+				<div class="site-branding">
+					<h1 class="site-title"><a href="https://china-journal.org/" rel="home">The Greater China Journal</a></h1>
+					<h2 class="site-description"></h2>
+				</div>
+			</div>
+		</div>
+	</header><!-- #masthead -->
+	<nav id="site-navigation" class="main-navigation clear" role="navigation">
+		<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Menu</span></button>
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<div id="primary-menu" class="menu"><ul>
+<li ><a href="https://china-journal.org/">Home</a></li><li class="page_item page-item-1"><a href="https://china-journal.org/about/">About</a></li>
+</ul></div>
+		<div id="header-search-toggle">
+			<span class="screen-reader-text">Search</span>
+		</div>
+		<div id="header-search">
+			<form role="search" method="get" class="search-form" action="https://china-journal.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		</div>
+	</nav><!-- #site-navigation -->
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+					
+			
+<article id="post-42" class="post-42 post type-post status-publish format-standard hentry category-china category-chinese-culture category-chinese-family category-chinese-history category-chinese-society category-confucianism category-filial-piety tag-china tag-chinese-culture tag-chinese-family tag-chinese-history tag-chinese-society tag-confucianism tag-filial-piety">
+	<header class="entry-header">
+					<h1 class="entry-title">Filial Piety (孝) in Chinese&nbsp;Culture</h1>				<div class="entry-meta">
+			<span class="posted-on"><a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/" rel="bookmark"><time class="entry-date published" datetime="2016-03-14T12:09:27+00:00">March 14, 2016</time><time class="updated" datetime="2017-02-20T23:11:24+00:00">February 20, 2017</time></a></span><span class="byline"><span class="sep"> / </span><span class="author vcard"><a class="url fn n" href="https://china-journal.org/author/aristeon84/">Aris Teon</a></span></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">In order to understand Chinese culture and society it is fundamental to understand the Chinese family. The family in China was not only a social unit, but it represented a whole codified ideology that pervaded the state and the society for thousands of years. Many of the differences between Chinese and Western thinking are comprehensible only from the point of view of the unique place that the family has in Chinese culture.</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div class="separator" style="clear:both;text-align:center;"></div>
+<table class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align:center;"><a style="margin-left:auto;margin-right:auto;" href="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Classic_of_Filial_Piety_(4).jpg/710px-The_Classic_of_Filial_Piety_(4).jpg"><img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Classic_of_Filial_Piety_(4).jpg/710px-The_Classic_of_Filial_Piety_(4).jpg" alt="" width="640" height="539" border="0" /></a></td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align:center;">Illustration from the Classic of Filial Piety (source: <a href="http://commons.wikimedia.org/wiki/File:The_Classic_of_Filial_Piety_(4).jpg" target="_blank">Wikipedia</a>)</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">Without doubt, the pillar of the Chinese family structure was the concept of filial piety. In Chinese, filial piety is expressed by the character 孝(pinyin: xiào). The character x<i>iao </i>is made up of an upper and a lower part. The first part is derived from the character lao (老, pinyin: lǎo), which means &#8216;old&#8217;. The second part is the character 子 (pinyin: zi), which means &#8216;son&#8217;. There are different interpretations of the meaning of the character <i>xiao</i>: </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">1) the old are supported by the younger generation; </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">2) the young are burdened and oppressed by the old; </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">3) the purpose of the family is the continuation of the family line (chronological, from top to bottom) (see </span><a href="http://amzn.to/2kFEPX7" target="_blank">Ikels 2004</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B002C741PE" alt="" width="1" height="1" border="0" /><span style="font-family:'verdana' , sans-serif;">, pp. 2-3).</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">Filial piety was a central value in traditional Chinese culture. Its importance went far beyond that of the biblical commandment &#8220;honour thy mother and thy father&#8221;. Filial piety was and still is a value based on strict principles of hierarchy, obligation and obedience. It is no exaggeration to say that it was the very foundation of the hierarchical structure of the Chinese family and thus of the Chinese society as a whole. That does not mean that the idea of filial piety has not changed over the centuries or that children are always filial. But we need first of all to understand what <i>xiao </i>means, where it comes from, and how it was practised in the past, before we can examine the exceptions and the changes. </span></div>
+<div>
+<div style="text-align:justify;">
+<p><span id="more-42"></span><span style="font-family:'verdana' , sans-serif;"><br />
+</span></p>
+</div>
+</div>
+<blockquote class="tr_bq" style="text-align:justify;"><p><span style="font-family:'verdana' , sans-serif;"><span style="color:#000000;">Confucianism, including classical and Han Confucianism, provided a view of the cosmos and social order that legitimated the Chinese patrilineal, patrilocal, and patriarchal family system. Confucian emphasis on obligations to patrilineal ancestors and Confucian exaltation of filial piety contributed to a moral order in which families were central to human identity and to a family system organized hierarchically so that men and older generations had considerable power over women and younger generations</span> (</span><a style="text-align:start;" href="http://amzn.to/2l1aej8" target="_blank">Ebrey 2003</a><span style="font-family:'verdana' , sans-serif;">, <span style="color:#000000;">pp. 11-12).</span></span></p></blockquote>
+<div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+</div>
+<div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">The pre-eminence of filial duty is clearly demonstrated by the following Chinese saying: <i>Of all virtues, filial piety is the first</i> (百善孝為先; pinyin: bǎi shàn xiào wèi xiān).</span></div>
+</div>
+<div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+</div>
+<div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+</div>
+<h4><span style="font-family:'verdana' , sans-serif;">Feeding, Obeying, Sacrificing &#8211; The Ethics of Filial Piety</span></h4>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">The concept underlying the principle of filial piety is simple. Parents gave life to children, gave them food and clothes, an education etc. For all the things that children received from parents, children have an eternal obligation towards them. They have a debt towards their parents, a debt that can never be fully repaid. The only thing that children can do in order to repay at least a small part of this debt, is to take care of their parents in their old age, to make them proud and happy, to obey and serve them. </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">I think that many Westerners often fail to understand how extreme, at least by Western standards, the concept of filial piety was in traditional Chinese society. In order to show this point, I will quote here two ancient Chinese stories that illustrate the ethics of filiality. </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">The first story is from the <i>24 Exemplars of Filial Piety</i> (二十四孝, pinyin: Èrshísìxiào), a collection of tales about filial piety compiled by Guo Jujing, a Yuan Dynasty (1260-1368) scholar from Fujian Province (see </span><a href="http://amzn.to/2mfWjFR" target="_blank">Littlejohn 2010</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=184885174X" alt="" width="1" height="1" border="0" /><span style="font-family:'verdana' , sans-serif;">, pp. 139-140)</span><span style="font-family:'verdana' , sans-serif;">.</span><span style="font-family:'verdana' , sans-serif;">The 13th story of the collection narrates how a man called Guo Ju (郭巨; pinyin: Guō Jù) buried his son alive so that his mother could eat.</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">Guo Ju was a poor man burdened with a wife, mother, and child. One day he said to his wife: &#8220;<i>We are so poor that we cannot even support mother. Furthermore, our son shares mother&#8217;s food. Why don&#8217;t we bury the child? We can have another child, but if mother dies, we cannot replace her.</i>&#8221; The wife did not dare to contradict him. He began to dig the grave for his own son, and suddenly he discovered a vase full of gold in the earth &#8211; a gift of Heaven to the filial son (see </span><a href="http://amzn.to/2l1f2F2" target="_blank">Lang 1946</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=1163150231" alt="" width="1" height="1" border="0" />, pp. 25-26<span style="font-family:'verdana' , sans-serif;">).</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">The meaning of this tale is clear. When faced with the dilemma of having to choose between one&#8217;s parents and one&#8217;s children (or wife, for that matter), one always has to choose the parents. This is the hierarchical principle of the superiority of the elder over the younger. It is the duty of children to take care of their parents at all costs, even if that means sacrificing one&#8217;s own children. </span></div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"></div>
+<blockquote><p><a href="https://www.amazon.com/Craven-other-Stories-Shiying-Mu-ebook/dp/B01MYH1OBF/ref=as_li_ss_il?s=books&amp;ie=UTF8&amp;qid=1487629770&amp;sr=1-2&amp;keywords=mu+shiying&amp;linkCode=li3&amp;tag=gcj-20&amp;linkId=98687d865e574c0bce021c5a1c516920" target="_blank"><img class=" aligncenter" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B01MYH1OBF&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=gcj-20" border="0" /></a><img style="border:none !important;margin:0!important;" src="https://ir-na.amazon-adsystem.com/e/ir?t=gcj-20&amp;l=li3&amp;o=1&amp;a=B01MYH1OBF" alt="" width="1" height="1" border="0" /></p>
+<p style="text-align:justify;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gcj-20&amp;l=li3&amp;o=1&amp;a=B01MYH1OBF" alt="" width="1" height="1" border="0" /><em>If you want to support our website, you might be interested in taking a look at our translations of Chinese literature on <a href="http://astore.amazon.com/gcj-20" target="_blank">Amazon</a>. Currently available is <a href="https://www.amazon.com/dp/B01MYH1OBF/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1486544031&amp;sr=1-2&amp;keywords=Mu+Shiying" target="_blank">‘Craven A and other Stories’ by Mu Shiying</a>. Thank you for your support!</em></p>
+</blockquote>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">Food is not only in this story a central theme. In fact, it can be found in many, if not most tales about filiality. The word that summarises this aspect of filial piety is the verb yang (養/养, pinyin: yǎng), which means &#8216;feed&#8217;, or &#8216;raise&#8217;. In Chinese culture, food as a symbol of parental care on the one hand, and of the debt of children towards parents on the other hand, is a constant motif in parents-children relationship. In passing, I would like to point out that t</span><span style="font-family:'verdana' , sans-serif;">hese exemplars of filial piety should not be dismissed as old-fashioned stories. They were and are still part of children&#8217;s education, both in the Republic of China (Taiwan) and the People&#8217;s Republic of China (mainland China), as Beijing&#8217;s recently </span><a style="font-family:Verdana, sans-serif;" href="http://www.nytimes.com/2012/09/06/world/asia/beijing-updates-parables-the-24-paragons-of-filial-piety.html?pagewanted=all" target="_blank">updated edition of the book</a><span style="font-family:'verdana' , sans-serif;"> demonstrates.</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;">
+<p><span style="font-family:'verdana' , sans-serif;">There is a misconception that China has become &#8216;materialistic&#8217; due to her opening up under Deng Xiaoping, and because money is increasingly important. There is a certain truth to this idea, but it is a misunderstanding to think that Western and Chinese &#8216;materialism&#8217; are exactly the same. Western materialism is the desire to acquire material goods, money and power. This kind of materialism does exist in China, too. </span></p>
+<p><span style="font-family:'verdana' , sans-serif;"><br />
+</span><br />
+<span style="font-family:'verdana' , sans-serif;">However, in Chinese culture there is another, an ancient tradition of materialism based on the concept of filial piety and on the structure of the Chinese family. This materialistic worldview is completely different from a simply individualistic or hedonistic materialism, because it emanates from the moral and hierarchical Confucian ideal of familial interdependence. The Chinese family was founded on a &#8216;reciprocal bargain&#8217; (Knapp 2013) between parents and children; parents took care of their children, and children would later give back to their parents. It is no coincidence that many stories about filial piety revolve around the subject of food or money. </span></p>
+</div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq" style="text-align:justify;"><p><span style="font-family:'verdana' , sans-serif;"><span style="color:#000000;">In early China, besides expressing love or care, the presentation of food, or by extension material support, creates obligation. If one feeds a man, he is obligated to repay your kindness. This sense of obligation was so strong that it could be used as a means to control others. In the same way, a child is obligated to repay his parents for the food and care they provided him as a helpless child</span> (</span><a href="http://amzn.to/2kFAMKD" target="_blank">Knapp 2013</a><span style="font-family:'verdana' , sans-serif;">). </span></p></blockquote>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">This aspect is very important. The Chinese preoccupation with money and material well-being is in many cases the consequence of this particular understanding of family relationships that emphasizes the idea of service, of rituals, and of &#8216;providing for someone&#8217;. Family relationships are based on age, gender and role-division, not on mutual understanding, equality or emotional closeness. Every family member has to act according to one&#8217;s role, and do certain things according to one&#8217;s position and obligations within the family. Parents have to provide for their children, and when children grow up, they have to provide for their parents. Husbands have to provide for their wives, and so on. At least, that was the original concept. Nowadays, this concept has somewhat changed, but it still survives in a more modern form, as I will explain in future posts. </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">For many Chinese or Taiwanese, love is not expressed with words, and it is not simply a matter of feeling. Love is shown and displayed through material care. Chinese parents and children are not so much interested in sharing their emotions through, for example, hugs or words. Filial piety and parental care are shown by &#8216;feeding&#8217; someone, &#8216;providing&#8217; for someone, or performing ritualistic acts. This rule applies to many kinds of familial relationships. If a husband is poor, he cannot show his love, because he lacks the material prerequisites to do so. </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">An example of filial behaviour is mourning one&#8217;s parents properly, if not lavishly. This was and still is a way to demonstrate one&#8217;s own filial piety. </span><span style="font-family:'verdana' , sans-serif;">In Chinese literature, the act of mourning one&#8217;s parents properly is central. Here is a passage from the Ming Dynasty tale </span><a href="http://amzn.to/2mfSTDk" target="_blank">The Oil Vendor and the Queen of Flowers</a><span style="font-family:'verdana' , sans-serif;">:</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq">
+<div style="text-align:justify;"><span style="font-family:verdana, sans-serif;color:#000000;">Shilao was seriously ill, and soon he died. Zhu Zhong [Shilao&#8217;s adoptive son] mourned him as if he had been his own flesh and blood, and buried him according to the appropriate customs and rites, so that the whole neighbourhood praised his moral virtues as a filial son. After carrying out his filial duties, Qin Zhong reopened the oil shop.</span></div>
+</blockquote>
+<blockquote class="tr_bq">
+<div style="text-align:justify;"><span style="font-family:verdana, sans-serif;color:#000000;">十老病重，醫治不痊，嗚呼哀哉。朱重捶胸大慟，如親父一般，殯殮成服，七七做了些好事。朱家祖墳在清波門外，朱重舉喪安葬，事事成禮。鄰里皆稱其厚德。事定之後，仍先開店。</span></div>
+<p><span style="font-family:'verdana' , sans-serif;"><br />
+</span></p></blockquote>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">It is important to stress the motif of the neighbours praising Zhu Zhong&#8217;s filial devotion. This is a topic that is very common in Chinese culture.The emphasis on filial piety shapes the psychological and social identity of children. They are taught that good children must be filial and obedient, so that they experience a sense of shame if they feel otherwise. Filial piety, as it is inculcated in children and as it is viewed by the society, is a key social indicator of a person&#8217;s sense of responsibility, maturity and reliability. Children who display filial devotion properly are regarded by the whole community as trustworthy, honourable and respectable. Being unfilial, on the contrary, can result not only in sense of shame, but also in bad reputation, and bad reputation in Chinese society, where interpersonal relationships are indispensable, is not just a question of how one is viewed by others, but also of how one is treated. Therefore, having a bad reputation can have negative repercussions on one&#8217;s life (see Ikels 2004, pp. 4-6). I&#8217;ve heard that in Taiwan, people hire young women who cry loudly for their parents, in order to express publicly their filial care. </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">The aforementioned motif of food as a demonstration of love is particularly interesting because until today Taiwanese and Chinese parents show that they care about their children by giving them food. They might put pressure on their children every day, they might push them and make their lives unhappy, but they will keep on feeding them as a token of parental love. </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">In one of his early films, Taiwanese film director Ang Lee used the motif of food in a masterly way. In </span><a href="http://amzn.to/2kSxUFv" target="_blank">Eat Drink Man Woman</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B0049PAB3I" alt="" width="1" height="1" border="0" /><span style="font-family:'verdana' , sans-serif;"> he tells the story of a patriarchal Taiwanese family. The father is one of the most famous cooks in Taipei. Every day he prepares sumptuous meals for his three daughters. They have to eat together because that&#8217;s what their father desires. But they barely talk with each other, and behind the curtain of family harmony and love, which are shown through the performance of ritualistic acts such as the common meals, there are problems and contradictions that will come to the surface in the course of the film. The visual emphasis placed on the delicious food cooked by the father is a brilliant symbol of the concept of <i>yang, </i>which at the same time represents love, parental power, and filial obligation.</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">Another consequence of this understanding of love and care, is that responsibility is mainly regarded as &#8216;providing&#8217; for someone, rather than as caring about each other&#8217;s feelings. For example, in traditional Chinese society, a man could have more wives, regardless of whether wives were jealous. But as long as he provided for them, he was considered a responsible husband. Nowadays, there are many cases of husbands who have mistresses, or of children who barely talk with their parents. But as long as husbands provide for their wives, and children provide for their parents, they are considered responsible. It is very important to understand this point, because when Chinese or Taiwanese talk about responsibility, their understanding of responsibility may differ from that in the West.</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">The fact that children have to repay their obligation towards parents also leads to the idea that children are a sort of old-age insurance. In traditional Chinese society, children literally had to serve their parents. The material motivation behind filial piety is manifest in the ancient tale of Yuan Gu (原谷, pinyin: Yuángǔ):</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq" style="text-align:justify;"><p><span style="font-family:verdana, sans-serif;color:#000000;">One day, Yuan Gu&#8217;s father and mother decided that his grandfather was too old to be useful, so they decided to get rid of him. Yuan followed his father, who used a litter to carry the grandfather to the mountains. After his father abandoned the old man, Yuan grabbed the litter and brought it home. When his father asked him why, he replied, &#8220;Perhaps later you too will become old and will not be able to work again. Merely in order to do the right thing, I have retrieved it.&#8221; Terrified and ashamed, his father realized the error of his ways, retrieved the old man and served him in a filial manner (see Knapp 2013).</span></p></blockquote>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;">We can see here that the father becomes filial because he thinks of what will happen to himself when he is old. If he abandoned his father, he would break the hierarchical structure of the family, of which he will be a beneficiary in his old age.</span></div>
+<div style="text-align:justify;"><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div style="text-align:justify;">
+<p><span style="font-family:'verdana' , sans-serif;">In the second part of this post, I will be examining the concepts of hierarchy and obedience, and I will try to explain why filial piety and the hierarchical family structure have been so resilient and have secured the continuity of Chinese culture and society throughout the centuries. </span></p>
+<p><span style="font-family:'verdana' , sans-serif;"><br />
+</span></p>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h3 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;">Hierarchy, Authority, Obedience</span></h3>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Chinese people tend to depict their own society as &#8216;harmonious&#8217; and &#8216;collectivist&#8217;, as opposed to Western disorder and individualism. As I have explained <a href="http://my-new-life-in-asia.blogspot.hk/2013/04/filial-piety-chinese-culture-collectivism-asian-values.html" target="_blank">in a previous post</a>, this view is not entirely exact.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">We can understand Chinese society only if we realise that harmony and collectivism are nothing more than synonyms of hierarchy and social roles. I think anyone who has lived in China or Taiwan has seen that these societies are absolutely not free from interpersonal tensions. One of the most evident signs of these tensions is gossip in the workplace, which can be fierce and which clearly shows an extreme level of rivalry and a constant power struggle among colleagues as well as among superiors and subordinates.</span></div>
+</div>
+<div></div>
+<blockquote><p><a href="https://www.amazon.com/Craven-other-Stories-Shiying-Mu-ebook/dp/B01MYH1OBF/ref=as_li_ss_il?ie=UTF8&amp;qid=1487076344&amp;sr=8-2&amp;keywords=mu+shiying&amp;linkCode=li3&amp;tag=gcj-20&amp;linkId=7c8515973123322fc390750cf172f910" target="_blank"><img class=" aligncenter" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B01MYH1OBF&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=gcj-20" border="0" /></a><img style="border:none !important;margin:0!important;" src="https://ir-na.amazon-adsystem.com/e/ir?t=gcj-20&amp;l=li3&amp;o=1&amp;a=B01MYH1OBF" alt="" width="1" height="1" border="0" /></p>
+<p><em>If you want to support our website, you might be interested in taking a look at our translations of Chinese literature on <a href="http://astore.amazon.com/gcj-20" target="_blank">Amazon</a>. Currently available is <a href="https://www.amazon.com/dp/B01MYH1OBF/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1486544031&amp;sr=1-2&amp;keywords=Mu+Shiying" target="_blank">&#8216;Craven A and other Stories&#8217; by Mu Shiying</a>. Thank you for your support!</em></p>
+<div></div>
+</blockquote>
+<div style="text-align:justify;">
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">If Chinese society were truly harmonious, if individuals thought about each other&#8217;s feelings, if everyone&#8217;s actions were motivated by altruism and so on, there ought to be no gossip, no rivalry, no political oppression, no conflicts between parents and children, friends etc. Every observation of Chinese society must lead to the conclusion that such conflicts <i>do </i>exist, and that therefore harmony and collectivism cannot be understood as altruism and solidarity.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Ruth Benedict once remarked in regard to Japanese culture, that the Japanese had an innate faith in hierarchy and order. For them, hierarchy was a fundamental notion that determined every individual&#8217;s relations to his fellow man (see </span><a href="http://amzn.to/2l1lxYr" target="_blank">Benedict 2006</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B00CGNR58O" alt="" width="1" height="1" border="0" /><span style="font-family:'verdana' , sans-serif;">, p. 43). The idea that human relationships are based on hierarchy and social roles is often accepted unconsciously, as a necessity and a fact of life that doesn&#8217;t require further justification. What is true in the case of Japan, is also true &#8211; though partly to a lesser extent &#8211; in Chinese society and thinking.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Professor Akiko Hashimoto gives a very provocative definition of filial piety:</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq"><p><span style="font-family:'verdana' , sans-serif;"><span style="color:#000000;">Filial piety in East Asia today is at once a family practice, an ideology, and a system of regulating power relations. As practiced in the family, filial piety defines a hierarchical relationship between generations, particularly that of the parent and the child. In this ordered space, filial piety prescribes the ideology of devotion by the grateful child to the parent, and also places debt and obligation at the heart of the discourse on parent-child relationships. Contemporary filial piety is in this sense not merely a vestige of a past family custom, but an ongoing practice of surveillance and control that unleashes considerable disciplinary power. Using a discourse of gratitude and indebtedness, a hierarchy of power is reproduced in everyday life, privileging the old over the young and the parent over the child</span> (</span><a href="http://amzn.to/2lAojHt" target="_blank">Ikels 2004</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B002C741PE" alt="" width="1" height="1" border="0" /><span style="font-family:'verdana' , sans-serif;">, <span style="color:#000000;">p. 182).</span></span></p></blockquote>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Such understanding of filial piety focuses on the particular distribution of power within the family. That doesn&#8217;t mean that families in China are devoid of love. As we shall see later, analysing the hierarchical nature of filial piety does mean denying the existence of affection among family members. However, in order to understand how the Chinese family functions, it is necessary to look at filial piety from the perspective of the power structure of the Chinese family.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">First of all, I would like to give you a vivid example of how filial piety and hierarchy were practised in old Chinese society. I will quote some passages from <i>Six Records of a Floating Life </i>(浮生六記 pinyin: Fú Shēng Liù Jì)</span><span style="font-family:'verdana' , sans-serif;">, by Shen Fu (</span><span style="font-family:'verdana' , sans-serif;">沈復)</span><span style="font-family:'verdana' , sans-serif;">, a Qing Dynasty scholar who lived between the end of the 18th and the beginning of the 19th century. I cited this book many times on this blog. That&#8217;s because it is a classic of Chinese literature, and in many ways it is a unique one. It is the autobiography by a Chinese scholar who lived at a time in which China was still mostly untouched by Western influence. We can therefore observe Chinese society and thinking in its purest form. Shen Fu writes about his life with a remarkable degree of candour, and with a great amount of details about the daily life and the society of his time. His marriage with Yun, the love of his life, is one of the most touching and delicate love stories that can be found in Chinese literature.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Shen Fu and his wife Yun are happily married, but they are poor, and rumours begin to circulate about them. Shen Fu&#8217;s parents little by little start to dislike his wife, and then a series misunderstandings will lead to Yun&#8217;s disgrace.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">When my wife and I were living at home, we could not avoid pawning our belongings if we had unforeseen expenses; at first we somehow found ways to make ends meet, but later we were always in need [&#8230;]. First our circumstances aroused talk amongst local gossips, and later scorn from our family. The ancients were right: ‘Lack of talent in a woman is a virtue.’ [according to Shen Fu, his wife was too talented and therefore unsuitable to be a woman].</span></p></blockquote>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">Yün usually enclosed notes to me in letters from home, so one day my father said to me, ‘Since your wife can handle brush and ink, she can write your mother’s letters for her.’ But sometime later there was some gossip at home, and mother suspected Yün of writing something improper about it in one of her letters. After that she did not let Yün take up the brush for her.</span></p></blockquote>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">When father noticed that later letters were not in Yün’s handwriting he asked me whether she was ill. I wrote and asked her about it, but Yün did not reply. After a while father grew quite angry about this, and said to me, ‘Apparently your wife will not condescend to write letters for your mother!’ It was not until I returned home that I realized the cause of the misunderstanding, and I wanted to put things right for Yün. She hurriedly stopped me, however, saying, ‘I would rather have father blaming me for this than to have mother unhappy with me.’ So things were not cleared up after all.</span></p></blockquote>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">In the spring of 1792 I was living at Chenchou [&#8230;]. At that time my younger brother Chi-tang was working under my father. While there I received a letter from Yün saying, ‘Your younger brother Chi-tang once borrowed money from a lady neighbour and asked me to be the guarantor. Now she is anxious to have the money back.’ I asked Chi-tang about it, but he only said that Yün was meddling in his affairs. I merely replied at the end of a letter, ‘Father and I are both ill, and we have no money to repay the loan. Wait until younger brother returns home and let him take care of it himself.’</span></p></blockquote>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">Father and I recovered not long afterwards, and I returned to Chenchou. Yün’s reply to my note arrived at Hungchiang after I had left, and father opened and read it. In her letter, Yün wrote of my younger brother’s borrowing from the neighbour, and also said, ‘Your mother thinks the old man’s illness is all because of the Yao girl [a girl who was about to become the concubine of Shen Fu&#8217;s father]. When he is a bit better, you should secretly order Yao to write to her parents saying she is homesick. I will tell her parents to go to Yangchou to fetch her home. This way, both sides can disclaim responsibility for her departure.’ When my father read this he was furious. He asked Chi-tang about the loan from the neighbour, but Chi-tang said he knew nothing of it. Father then wrote a letter reprimanding me, in which he said, ‘Your wife has borrowed money behind your back, and is now trying to say it is all little uncle’s fault. Moreover, she called her mother-in-law “your mother”, and referred to me as “old man”. This is outrageous! I have-already sent a messenger with a letter back to Soochow, ordering that she be expelled from the house. If you have any shame at all, you will recognize your errors!’</span></p></blockquote>
+<blockquote class="tr_bq"><p><span style="font-family:'verdana' , sans-serif;"><span style="color:#000000;">Receiving this letter was like hearing a clap of thunder on a clear day. I wrote a letter apologizing to father, and quickly rode home, afraid that Yün would commit suicide. I had arrived home and was explaining the whole affair when the servant arrived with father’s letter, detailing Yün’s errors in the harshest terms. Yün wept and said, ‘I may have been wrong to write so improperly, but father should forgive the ignorance of a woman.’ After a few days another letter arrived from my father saying, ‘I am willing to relent a little. You may take your wife and live somewhere else. If I do not have to see your face I will not be so angry!</span>’ (</span><a href="http://amzn.to/2kSHMPj" target="_blank">Six Records of a Floating Life, Part III</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B002RI9DV0" alt="" width="1" height="1" border="0" />).</p></blockquote>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Let me now examine a few aspects of this quite long quotation, and most especially the ones concerning filial piety and family hierarchy:</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h4 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;">1. Hierarchy and the Tale of Harmony</span></h4>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">As you can see, in Shen Fu&#8217;s family age and gender matter a lot. Yun is in a very low position because she is the daughter-in-law. In traditional Chinese culture, her function was to help her husband fulfil his filial duties towards his parents. She literally belonged to her husband&#8217;s family, and she had to serve and please her parents-in-law. Neither Shen Fu nor Yun can do anything to defy his father&#8217;s will. He is the head of the household, and the last word is his. Being filial means to accept this hierarchical order willingly.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Obviously, a family like this cannot be described as harmonious. As I argued before, many people in East Asia use the word &#8216;harmony&#8217; instead of using the word &#8216;hierarchy&#8217;, just because it sounds better. Words are an instrument to propagate a certain worldview, and choosing the words that make appear this worldview in a positive way is a strategy. Many Asian families may have tensions, even fierce tensions, but as long as they keep together in one way or the other and the outside world doesn&#8217;t know too much about their conflicts, they are considered harmonious.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h4 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;">2. Gossip and Misunderstandings</span></h4>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Gossip is a very important thing in Chinese society. I will write a separate post about it because I find it very interesting. The reason why gossip is such a central topic in Chinese thinking is that, because of the hierarchical structure of Chinese society, people cannot always speak up their mind directly in front of others. As a rule, direct communication mostly happens from top to bottom. As we have seen, the father condemned Yun in the harshest terms. He didn&#8217;t need to be indirect, because he is the father and he can express his view straight-forwardly. Yun, however, decides not to defend herself, because she is at the bottom of the hierarchy. This is a sign that she is virtuous, that is, she knows her &#8216;proper&#8217; place. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Gossip generates misunderstandings, and misunderstandings have repercussions on people&#8217;s lives. That is why gossip is so widespread in the workplace in China and Taiwan. It is an expression of rivalry, power struggle, or simply of personal dislike. Typically, colleagues may try to say bad things about someone else in order to isolate that person, perhaps with the ultimate goal of damaging his or her image in the eyes of the colleagues and, most importantly, boss(es).  </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h4 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;">3. Right and Wrong</span></h4>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Sometimes East Asians think that Westerners are selfish, for example, because they confront their parents, or because they say &#8216;no&#8217; to their bosses (for instance, when asked to work overtime). However, the reason why they think that Westerners are selfish is that they have been taught to accept a certain hierarchical power structure.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Let us look again at the example of Shen Fu&#8217;s father. He one-sidedly expels Yun from his household and humiliates her. And that&#8217;s only because of a misunderstanding and of improper wording. However, Shen Fu by no means challenges his father.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">In traditional Chinese culture, &#8216;right and wrong&#8217; do not depend on universal principles, but on the position of the individual in the hierarchy. In Confucian thought, <i>parents are right per definition</i>.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">This doesn&#8217;t mean that children have to follow blindly what parents say. Confucius and Mencius themselves said that children can, gently and with reverence, try to show their parents that they are behaving improperly (see </span><a href="http://amzn.to/2kSrxSu" target="_blank">Chan / Tan 2013</a><img style="border:none !important;margin:0!important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=yumikosdreams-20&amp;l=as2&amp;o=1&amp;a=B000PLXC4A" alt="" width="1" height="1" border="0" /><span style="font-family:'verdana' , sans-serif;">, p. 142). However, the formality and cautiousness with which children can hint at parents&#8217; faults makes all too clear that children are inferior, and that if parents do not change their ways, children still have to revere and obey their parents.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">The idea that right and wrong depend on hierarchical position is shown by the following example. Once a Korean told me that his wife and mother had had a disagreement. They did not express this disagreement openly, but complained to him about each other&#8217;s behaviour. He found himself in the situation of having to side with one of them. To my surprise, he was angry with his wife because she asked him to defend her. He said: &#8220;If I have to choose between my mother and my wife, of course I will always choose my mother.&#8221; </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">If I had been him, I would have first tried to establish who was right and wrong, and then decided what to do. But to him, his mother could simply not be wrong. That was an expression of his filial piety towards his mother. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">The conflict between mother-in-law and daughter-in-law is one of the recurring themes in East Asian literature. In the past, when the power of parents was way stronger than today, some mothers-in-law used to tyrannise their daughters-in-law, taking advantage of their hierarchical position which allowed them to do so unrestrained.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">When his father died, Shen Fu mourned him and blamed himself for not serving him well. It never occurred to him that his father might have been unjust. After all, he was never at home, took concubines and drove Yun out of the house only because of a misunderstanding. But filial piety means sacrifice of children for parents. Shen Fu could not have blamed his father, otherwise he would have been an unfilial son.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h3 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;"><i>Xiao</i>, the Family and the State</span></h3>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">From ancient times, the concept of <i>xiao </i>occupied a remarkably central position in Chinese philosophy. <i>Xiao </i>appeared seventeen times in the <i>Analects </i>of Confucius and twenty-seven times in the <i>Mencius </i>(respectively the third and fourth of the so-called <i>Four Books</i>, a classic text of Confucianism) (see Chan / Tan 2013, p. 141).</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">In Book II of the <i>Analects</i>, Confucius explains to his disciples the meaning of filial piety:</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div>
+<blockquote class="tr_bq"><p><span style="color:#000000;"><span style="font-family:'verdana' , sans-serif;">When your parents are alive, comply with the rites in serving them; when they die, comply with the rites in burying them; comply with the rites in sacrificing to them. (2.5)</span><span style="font-family:'verdana' , sans-serif;"><br />
+</span><span style="font-family:'verdana' , sans-serif;">Give your father and mother no other cause for anxiety than illness. (2.6) Nowadays for a man to be filial means no more than that he is able to provide his parents with food. Even dogs and horses are, in some ways, provided with food. If a man shows no reverence, where is the difference? (2.7)</span><span style="font-family:'verdana' , sans-serif;"><br />
+</span><span style="font-family:'verdana' , sans-serif;">What is difficult to manage is the expression on one&#8217;s face. As for the young taking on the burden when there is work to be done or letting the old enjoy the wine and food when these are available, that hardly deserves to be called filial (ibid., p. 141).</span></span></p></blockquote>
+</div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">According to Confucius, filial piety was a virtue that had to be demonstrated by performing rites, and by nourishing one&#8217;s parents. This very practical understanding of familial bonds and of love has remained in Chinese culture to this day. However, Confucius also stressed that performing the proper rites and serving one&#8217;s parents should be the expression of sincere and heartfelt reverence. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Nevertheless, from a practical point of view, the ideal relationship that Confucius envisioned was far more difficult to achieve than the simple performance of rites. In fact, in order to maintain the specific family hierarchy of Chinese society, obedience was and still is a way more effective tool than looking into children&#8217;s hearts. You can compare this with the practice of going to church in strictly Christian communities. Attending the mass is a ritualistic act. Whether a person is a true believer or not, is another matter.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Filial piety stressed the obligations of children towards parents, and the most important of them was to continue the family lineage. As Mecius said: &#8220;<i>There are three ways of being unfilial, and to have no posterity is the greatest of them</i>&#8220;. Han scholar Zhao Qi explained that the three unfilial behaviours are: &#8220;deceiving your parents with flatteries and leading them to ignore righteousness; not entering public service and making a career when parents are old and living in poverty; not marrying and having no posterity to carry on the ancestral sacrifice&#8221; (Chan / Tan 2013, p. 142).</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Both Confucius and Mencius lived before China became one country. After China was unified by the Qin Dynasty (221–206 BC) and an autocratic imperial state was created, filial piety began to be incorporated into the new state ideology (ibid., p. 144). The <i>Classic of Filial Piety</i> states:</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">Filial piety is the root of all virtues, and from which all teaching comes … The body, the hair and skin are received from our parents, and we do not injure them. This is the beginning of filial piety. When we have established ourselves in the practice of the Way, so as to make our name famous in future generation and glorify our parents, this is the end of filial piety. Filial piety begins with the serving of our parents, continues with the serving of our ruler, and is completed with the establishment of our own character (ibid., p. 146).</span></p></blockquote>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">I would like to stress this point. Filial piety, as a feeling of indebtness and gratitude, as a set of obligations and duties, and as a complete willingness to accept subordination, was at the core of the old imperial system. And although society has changed, the idea that children should glorify and serve parents and give them posterity, is the main reason why parents demand so much from their children, instil into them ambitions, and impose upon them high expectations. Many parents think that children are &#8216;their own thing&#8217;, and that children should not disappoint them. Advocates of Asian values say that Asian societies stress duties, while Western societies stress rights. That is not quite true. Asian societies stress the rights of the elders and of superiors more than they stress the rights of the younger and of the inferiors. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">The extreme competition of Chinese societies can be partly explained by the fact that it&#8217;s parents themselves who, in perfect Confucian tradition, nurture the ambition of their children in order that they may glorify them in the future. A clear example of this is given by Emperor Chengzu (1360-1414) of the Ming Dynasty in his book <i>Biographical Accounts of Filial Piety</i> (孝順事實, pinyin: Xiàoshùn shìshí</span><span style="font-family:'verdana' , sans-serif;">).</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<blockquote class="tr_bq"><p><span style="font-family:verdana, sans-serif;color:#000000;">Filial piety in the past did not refer only to serving your parents when alive and mourning after death. The important thing is to make a name for your parents. Serving when alive and mourning after death are certainly filial acts. However, if a son can study and establish himself, transfer filial piety to loyalty and win great renown, so that people can trace his virtue to his parents and say, &#8220;how lucky to have a son like this,&#8221; this is called making a name for your parents and the greatness of filial piety.35 There are five human relationships, the sovereign and parents are the most important. Those who are filial to their parents will also be loyal to their ruler. Serving his parents with filial piety, thus his loyalty can be transferred to his sovereign (ibid., pp. 150-151).</span></p></blockquote>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">We can understand why filial piety was so important. It was the cornerstone of a system of subordination that began in the family and ended in the service for the monarch. This system, in which everyone had a position, and everyone learnt from early childhood to respect one&#8217;s position and to understand its indebtness towards one&#8217;s superiors, created hierarchy, order and safety. Consequently, a filial son was also considered a loyal subject. Small wonder that an old Chinese saying declares: &#8220;<i>A loyal minister could only be found in the family of filial sons</i>&#8221; (ibid., p. 148).</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">If it is true that Chinese society was based on hierarchy and authority, one might wonder why this social structure lasted so long. Why did no one rebel, and why did no one question the principles of parental or imperial authority? There are some reasons why the system of family relationships was so resilient. Let&#8217;s take a closer look at them.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h3 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;">Benign Authority and Love</span></h3>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Although the Chinese family was based upon hierarchy and subordination, it was not <i>per se </i>an authoritarian system as we might imagine it. The Chinese hierarchical system was perhaps the most efficacious and advanced, but also humane system for disciplining the individual that has ever existed. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Let us compare briefly hierarchy and collectivism in China and the West. It is often said that the West is individualistic, but that is nothing more than a mistake or a misunderstanding. If you look at European history, you will easy find out that there have been throughout the centuries numerous examples of extremely hierarchical and collectivist social systems. Two of the most important ones are religion (Christianity) and totalitarian regimes (Fascism, Communism). Both systems are collectivist by definition. In Christianity, the individual must give everything for his faith in God. In totalitarian societies, the individual is nothing, and ideology (the nation, the leader, the state etc.) is everything. Generally speaking, Western collectivist systems were abstract ideologies. For example, in Nazi Germany, a small group of political leaders made decisions for the whole nation. There was no personal relationship whatsoever between the leaders and those whose lives they completely controlled. There was no chance for the individual to rebel. Everyone had to subordinate to the state, to the community, to collective values. These were, as I see it, inhumane systems of subjugation of the individual for the sake of abstract ideals. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">In the Chinese family, on the contrary, hierarchy was based on personal relationships. There were certainly many acts of cruelty in that system: fathers could sell their children, infanticide was not uncommon, etc. Nevertheless, there was also love and affection. Besides, common interests bound the family members together. It was in many respects a relatively benign, a humane form of authoritarianism. Furthermore, there were many possibilities for individuals to bend the system through tricks. If I can mention again Shen Fu&#8217;s autobiography, there is a passage in which he and his wife want to go to a party but cannot go together because she, like all women in old China, had to stay at home. So, they make up an excuse for Shen Fu&#8217;s parents. She dresses as a man and they go together to the boat party.   </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">The second reason why the Chinese family system has  been so resilient has to do with a peculiarity of Chinese and East Asian societies: Life cycles.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<h3 style="text-align:start;"><span style="font-family:'verdana' , sans-serif;">Chinese Life Cycles and the Benefits of Filial Piety</span></h3>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">&#8220;<i>The arc of life in Japan</i>&#8220;, noted Ruth Benedict, &#8220;<i>is plotted in opposite fashion to that in the United States. It is a great shallow U-curve with maximum freedom and indulgence allowed to babies and to the old</i>,&#8221; (Benedict 2006, p. 254).</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">In Western societies, the peak of life is usually between the age of 18 and 30/40. Children want to grow up quickly, and when they&#8217;ve grown up they don&#8217;t want to get old. Youth is the period in which one is free, can enjoy his life, can earn money. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">In Chinese culture, as in Japan and South Korea, the most carefree part of one&#8217;s life, when one is respected, spoilt and cared for, are childhood and old age. In some respects, one may say that Asian people are born as children, and in their old age they go back to childhood, only that this time, instead of their parents, it&#8217;s their children who take care of them. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">Traditionally, children in Chinese society are the kings and queens of the house. They can play around, are spoilt and can do pretty much what they want. The hard time begins when they start to go to school, and it continues for much of their adult life. Because, as children grow, parents impose upon them expectations and obligations. Since in Asia filial piety is common sense, the requests of parents are reinforced by the general attitude of the society. Children who don&#8217;t conform are confronted with strong parental pressure, and with the rejection by the society. Parental pressure in Asian works better than in the West, because Asian parents are 100% convinced that they are right and that what they want is good for their children; moreover, parents usually base their demands on the standards set by society as a whole, so the psychological pressure on children is enormous. Children become afraid of being seen as losers if they rebel and make decisions entirely on their own.</span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">What made the Chinese family system so enduring, was that everyone enjoyed some degree of power, and that individuals who were inferior would then themselves become superior. </span><span style="font-family:'verdana' , sans-serif;">In fact, even the poorest of men in China was a king: a king in his own household. He was nothing compared to the Emperor or a Magistrate, but he, too, had some subordinates who had to serve and obey him: his own children.</span></div>
+<div></div>
+<div><span style="font-family:'verdana' , sans-serif;">While sons or daughters-in-law were powerless in their youth, when they grew old their turn came to command. Sons would inherit their fathers&#8217; role, and daughters-in-law would become mothers-in-law and be as powerful (and perhaps evil) as their own mother-in-law had been. In some respects, it was also a system that favoured bullying by superiors to inferiors. You can still see this in contemporary Chinese culture. </span></div>
+<div><span style="font-family:'verdana' , sans-serif;"> </span></div>
+<div><span style="font-family:'verdana' , sans-serif;">This distribution of power allowed every individual to exert control over someone. This hierarchical system, along with the love and affection that naturally arise within families, allowed the Chinese family system and the concept of filial piety to survive for hundreds of years.  </span></div>
+</div>
+<div></div>
+<div></div>
+<div><em>If you want to support our website, you might be interested in taking a look at our translations of Chinese literature on <a href="http://astore.amazon.com/gcj-20">Amazon</a>. Currently available is <a href="https://www.amazon.com/dp/B01MYH1OBF/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1486544031&amp;sr=1-2&amp;keywords=Mu+Shiying" target="_blank">&#8216;Craven A and other Stories&#8217; by Mu Shiying</a>. Thank you for your support!</em></div>
+			<style type="text/css">
+			div.wpmrec2x{max-width:610px;}
+			div.wpmrec2x div.u > div{float:left;margin-right:10px;}
+			div.wpmrec2x div.u > div:nth-child(3n){margin-right:0px;}
+			</style>		<div class="wpcnt">
+			<div class="wpa wpmrec wpmrec2x">
+				<span class="wpa-about">Advertisements</span>
+				<div class="u">
+										<script type='text/javascript' id="s26942">
+						(function(g,$){if("undefined"!=typeof g.__ATA){
+							g.__ATA.initAd({collapseEmpty:'after', sectionId:26942, width:300, height:250});
+							g.__ATA.initAd({collapseEmpty:'after', sectionId:114160, width:300, height:250});
+						}})(window,jQuery);
+					</script>
+				</div>
+						<div id="crt-502114795" style="width:300px;height:250px;"></div>
+		<script type="text/javascript">
+		var o = document.getElementById('crt-502114795');
+		if ("undefined"!=typeof Criteo) {
+			var p = o.parentNode;
+			p.style.setProperty('display', 'inline-block', 'important');
+			o.style.setProperty('display', 'block', 'important');
+			Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-502114795",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-502114795'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); } });
+		} else {
+			o.style.setProperty('display', 'none', 'important');
+			o.style.setProperty('visibility', 'hidden', 'important');
+		}
+		</script>		<div id="crt-599969737" style="width:300px;height:250px;"></div>
+		<script type="text/javascript">
+		var o = document.getElementById('crt-599969737');
+		if ("undefined"!=typeof Criteo) {
+			var p = o.parentNode;
+			p.style.setProperty('display', 'inline-block', 'important');
+			o.style.setProperty('display', 'block', 'important');
+			Criteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-599969737",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-599969737'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); } });
+		} else {
+			o.style.setProperty('display', 'none', 'important');
+			o.style.setProperty('visibility', 'hidden', 'important');
+		}
+		</script>
+			</div>
+		</div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-42" class="share-twitter sd-button share-icon" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-42" class="share-facebook sd-button share-icon" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-42" class="share-google-plus-1 sd-button share-icon" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-42" class="share-linkedin sd-button share-icon" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-84738213-42-59f2f6e34b0bb' data-src='//widgets.wp.com/likes/#blog_id=84738213&amp;post_id=42&amp;origin=chinahistoryandculturejournal.wordpress.com&amp;obj_id=84738213-42-59f2f6e34b0bb' data-name='like-post-frame-84738213-42-59f2f6e34b0bb'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+						<div class="entry-categories">
+					<a href="https://china-journal.org/category/china/" rel="category tag">China</a>, <a href="https://china-journal.org/category/chinese-culture/" rel="category tag">chinese culture</a>, <a href="https://china-journal.org/category/chinese-family/" rel="category tag">chinese family</a>, <a href="https://china-journal.org/category/chinese-history/" rel="category tag">chinese history</a>, <a href="https://china-journal.org/category/chinese-society/" rel="category tag">chinese society</a>, <a href="https://china-journal.org/category/confucianism/" rel="category tag">Confucianism</a>, <a href="https://china-journal.org/category/filial-piety/" rel="category tag">filial piety</a>				</div>
+					<div class="entry-tags"><a href="https://china-journal.org/tag/china/" rel="tag">China</a>, <a href="https://china-journal.org/tag/chinese-culture/" rel="tag">chinese culture</a>, <a href="https://china-journal.org/tag/chinese-family/" rel="tag">chinese family</a>, <a href="https://china-journal.org/tag/chinese-history/" rel="tag">chinese history</a>, <a href="https://china-journal.org/tag/chinese-society/" rel="tag">chinese society</a>, <a href="https://china-journal.org/tag/confucianism/" rel="tag">Confucianism</a>, <a href="https://china-journal.org/tag/filial-piety/" rel="tag">filial piety</a></div>	</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<div class="nav-previous"><a href="https://china-journal.org/2015/02/21/papa-xi-beats-the-tiger-xi-jinpings-new-year-propaganda-cartoon/" rel="prev"><span class="meta-nav">&larr;</span> Papa Xi &#8220;Beats The Tiger&#8221; &#8211; Xi Jinping&#8217;s New Year Propaganda&nbsp;Cartoon</a></div><div class="nav-next"><a href="https://china-journal.org/2016/03/16/propriety-ritualism-chinese-society/" rel="next">Propriety and Ritualism in Chinese&nbsp;Society <span class="meta-nav">&rarr;</span></a></div>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+			
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			5 thoughts on &ldquo;<span>Filial Piety (孝) in Chinese&nbsp;Culture</span>&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+				<li class="post pingback">
+		<p>Pingback: <a href='https://china-journal.org/2016/05/07/law-in-imperial-china-confucianism-legalism/' rel='external nofollow' class='url'>Law In Imperial China &#8211; Confucianism And Legalism | The Greater China Journal</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://cnnespanol.cnn.com/2016/10/13/por-que-en-china-hay-tantos-hombres-solteros-y-por-que-estan-tan-frustrados/' rel='external nofollow' class='url'>¿Por qué en China hay tantos hombres solteros y por qué están tan frustrados? | CNNEspañol.com</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-223">
+		<article id="comment-223" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://0.gravatar.com/avatar/9b111af2b46ce8fe5dec5325d26dcb2b?s=60&#038;d=identicon&#038;r=G' class='avatar avatar-60' height='60' width='60' />					<cite class="fn">Rogelio</cite>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta comment-metadata">
+					<a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/#comment-223"><time pubdate datetime="2016-10-22T05:29:34+00:00">
+					October 22, 2016 at 5:29 am					</time></a>
+				</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>Thank you all for this article and for this page,<br />
+I´ve been reading chinese american literature since some months,<br />
+I needed to know more about chinese culture,<br />
+thanks again.</p>
+<p id="comment-like-223" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?like_comment=223&#038;_wpnonce=f83ec05229" class="comment-like-link needs-login" rel="nofollow" data-blog="84738213"><span>Like</span></a><span id="comment-like-count-223" class="comment-like-feedback">Like</span></p>
+</div>
+
+			<div class="comment-actions">
+				<a rel='nofollow' class='comment-reply-link' href='https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?replytocom=223#respond' onclick='return addComment.moveForm( "comment-223", "223", "respond", "42" )' aria-label='Reply to Rogelio'>Reply</a>							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-268">
+		<article id="comment-268" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://0.gravatar.com/avatar/c1e4b5f93877034ee178785fd5a5333d?s=60&#038;d=identicon&#038;r=G' class='avatar avatar-60' height='60' width='60' />					<cite class="fn"><a href='http://Francine.blogspot.se' rel='external nofollow' class='url'>Hosea72</a></cite>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta comment-metadata">
+					<a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/#comment-268"><time pubdate datetime="2017-01-03T05:16:24+00:00">
+					January 3, 2017 at 5:16 am					</time></a>
+				</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>This article is really interesting, but why it is on 16th<br />
+place in google&#8217;s search results. It deserves to be<br />
+in top 5. Many bloggers think that seo is dead<br />
+in 2016, but it is not true. There is sneaky method to reach google&#8217;s top 5 that not<br />
+many people know. Just search for:  pandatsor&#8217;s tools</p>
+<p id="comment-like-268" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?like_comment=268&#038;_wpnonce=8ac7cbfc06" class="comment-like-link needs-login" rel="nofollow" data-blog="84738213"><span>Like</span></a><span id="comment-like-count-268" class="comment-like-feedback">Like</span></p>
+</div>
+
+			<div class="comment-actions">
+				<a rel='nofollow' class='comment-reply-link' href='https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?replytocom=268#respond' onclick='return addComment.moveForm( "comment-268", "268", "respond", "42" )' aria-label='Reply to Hosea72'>Reply</a>							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-367">
+		<article id="comment-367" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://1.gravatar.com/avatar/d25c8dc2a6c16b011fd8ef042cae9512?s=60&#038;d=identicon&#038;r=G' class='avatar avatar-60' height='60' width='60' />					<cite class="fn">Lainey Cho</cite>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta comment-metadata">
+					<a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/#comment-367"><time pubdate datetime="2017-03-05T20:52:58+00:00">
+					March 5, 2017 at 8:52 pm					</time></a>
+				</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>This is an interesting article about Filial Piety and the historic depiction of it. However, as I read on &#8211; it seems more of an critique on Filial Piety and Chinese Culture under that ideology rather than an overview of Filial Piety. </p>
+<p>There are a few areas that I feel is not an accurate depiction of either the Chinese Culture or the view of the West. For example, the tied between materialism and filial piety is a bit far stretched &#8211; or at least in my own house hold it is. The idea of [&#8220;Love is shown and displayed through material care.&#8221; ] is too simplistic. </p>
+<p>Filial piety is a complex philosophy/ideology. The duty of a child under the Confucianism is based on filial piety however, the obligation of the parents under this ideology is such that the parents also provides for the child, not only material things but also the absolute love and care for the child whether they are 3 years old of 60 years old. The financial or material support is much deeper than giving your child money as how you describe it to be, but comes from not wanting the child to be stressed and burden by financial stressed.</p>
+<p>The example of Chinese thinking the Western being selfish is not another inaccurate depiction. Or at least not an accurate view based on the views of my community here in the &#8220;west&#8221;.<br />
+The discussion or at least growing up here is that the Chinese adults cannot fathom the idea of &#8220;kicking&#8221; their kids out at 18 and not caring for them under the pretence of allowing your child to become more independent. Is it a practice of independency or selfishness? Is the opposite oppressive and enabling? This all depends on the semiotics of your environment.</p>
+<p>Just an opinion from someone that is raised in the &#8220;west&#8221; and married into an Anglo-Saxon family with bi-racial children.</p>
+<p id="comment-like-367" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?like_comment=367&#038;_wpnonce=e443afaebd" class="comment-like-link needs-login" rel="nofollow" data-blog="84738213"><span>Like</span></a><span id="comment-like-count-367" class="comment-like-feedback">Like</span></p>
+</div>
+
+			<div class="comment-actions">
+				<a rel='nofollow' class='comment-reply-link' href='https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/?replytocom=367#respond' onclick='return addComment.moveForm( "comment-367", "367", "respond", "42" )' aria-label='Reply to Lainey Cho'>Reply</a>							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/03/14/filial-piety-in-chinese-culture/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://china-journal.org/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="c2a89e5f6b" /><input type="hidden" name="_wp_http_referer" value="/2016/03/14/filial-piety-in-chinese-culture/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='42' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="df7ed684ce" /></p>
+<input type="hidden" name="genseq" value="1509095139" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="33"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://china-journal.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="wpcom-goodreads-3" class="widget widget_goodreads"><h1 class="widget-title">Goodreads</h1><div class="gr_custom_widget" id="gr_custom_widget_63713019_read"></div>
+<script src="https://www.goodreads.com/review/custom_widget/63713019.Goodreads:%20read?cover_position=&#038;cover_size=small&#038;num_books=5&#038;order=d&#038;shelf=read&#038;sort=date_added&#038;widget_bg_transparent=&#038;widget_id=63713019_read"></script>
+</aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><h1 class="widget-title">Follow me on Twitter</h1><a class="twitter-timeline" data-width="250" data-height="400" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="5" data-lang="EN" data-partner="jetpack" data-widget-id="565483100525047808">My Tweets</a></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+											<li>
+					<a href="https://china-journal.org/2017/04/04/china-south-korea-spat-and-the-tradition-of-chinas-anti-foreign-boycotts/">The China-South Korea Spat and the Tradition of China&#8217;s Anti-Foreign&nbsp;Boycotts</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/04/03/china-and-the-may-4th-movement/">China and the May 4th&nbsp;Movement</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/03/28/china-at-war-the-story-of-teng-chan/">China at War &#8211; The Story of Teng&nbsp;Chan</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/03/26/china-taiwan-tensions-and-the-guomindangs-existential-crisis/">China-Taiwan Tensions and the Guomindang&#8217;s Existential&nbsp;Crisis</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/03/14/the-traditional-roots-of-parental-pressure-and-academic-success-in-china-hong-kong-and-taiwan/">The Traditional Roots of Parental Pressure and Academic Success in China, Hong Kong and&nbsp;Taiwan</a>
+									</li>
+					</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+			<li><a href='https://china-journal.org/2017/04/'>April 2017</a></li>
+	<li><a href='https://china-journal.org/2017/03/'>March 2017</a></li>
+	<li><a href='https://china-journal.org/2017/02/'>February 2017</a></li>
+	<li><a href='https://china-journal.org/2016/09/'>September 2016</a></li>
+	<li><a href='https://china-journal.org/2016/08/'>August 2016</a></li>
+	<li><a href='https://china-journal.org/2016/07/'>July 2016</a></li>
+	<li><a href='https://china-journal.org/2016/06/'>June 2016</a></li>
+	<li><a href='https://china-journal.org/2016/05/'>May 2016</a></li>
+	<li><a href='https://china-journal.org/2016/04/'>April 2016</a></li>
+	<li><a href='https://china-journal.org/2016/03/'>March 2016</a></li>
+	<li><a href='https://china-journal.org/2015/02/'>February 2015</a></li>
+		</ul>
+		</aside><aside id="blog_subscription-3" class="widget widget_blog_subscription"><h1 class="widget-title"><label for="subscribe-field">Follow Blog via Email</label></h1>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+<p>Join 26 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="84738213"/>
+						<input type="hidden" name="source" value="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="daf898f8ac" />						<input type="submit" value="Follow" />
+					</p>
+				</form>
+			
+</aside><aside id="categories-5" class="widget widget_categories"><h1 class="widget-title">Categories</h1><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="1365543">1992 consensus</option>
+	<option class="level-0" value="1612">Asia</option>
+	<option class="level-0" value="298628">Asian culture</option>
+	<option class="level-0" value="60446">Asian girls</option>
+	<option class="level-0" value="851396">Chiang Kai-shek</option>
+	<option class="level-0" value="1470">China</option>
+	<option class="level-0" value="871818">China news</option>
+	<option class="level-0" value="15015813">China-Taiwan relations</option>
+	<option class="level-0" value="1482393">Chinese Communist Party</option>
+	<option class="level-0" value="2145">chinese culture</option>
+	<option class="level-0" value="5605047">chinese family</option>
+	<option class="level-0" value="2147">chinese history</option>
+	<option class="level-0" value="16220542">Chinese legal system</option>
+	<option class="level-0" value="2105529">Chinese nationalism</option>
+	<option class="level-0" value="225047314">chinese revolution of 1911</option>
+	<option class="level-0" value="5629933">chinese society</option>
+	<option class="level-0" value="174070">Confucianism</option>
+	<option class="level-0" value="22388">corruption</option>
+	<option class="level-0" value="43837">democracy</option>
+	<option class="level-0" value="3814193">Democratic Progressive Party</option>
+	<option class="level-0" value="4328">Europe</option>
+	<option class="level-0" value="1897181">filial piety</option>
+	<option class="level-0" value="14676">freedom of speech</option>
+	<option class="level-0" value="5618872">Guomindang</option>
+	<option class="level-0" value="7497">Hong Kong</option>
+	<option class="level-0" value="2720">human rights</option>
+	<option class="level-0" value="640387">imperial China</option>
+	<option class="level-0" value="161663392">Japanese colonial era</option>
+	<option class="level-0" value="181082">Legalism</option>
+	<option class="level-0" value="2104136">Ma Ying-jeou</option>
+	<option class="level-0" value="282502">Mao Zedong</option>
+	<option class="level-0" value="66523078">Occupy Central</option>
+	<option class="level-0" value="1360775">one country, two systems</option>
+	<option class="level-0" value="398">politics</option>
+	<option class="level-0" value="743221">Qing Dynasty</option>
+	<option class="level-0" value="474615">Republic of China</option>
+	<option class="level-0" value="211071">rule of law</option>
+	<option class="level-0" value="613">Singapore</option>
+	<option class="level-0" value="708433">South China Sea</option>
+	<option class="level-0" value="1081150">sun yat-sen</option>
+	<option class="level-0" value="49003">Taipei</option>
+	<option class="level-0" value="1495">Taiwan</option>
+	<option class="level-0" value="578774">Taiwan news</option>
+	<option class="level-0" value="783317">Taiwanese history</option>
+	<option class="level-0" value="25570556">Taiwanese nationalism</option>
+	<option class="level-0" value="51771508">umbrella revolution</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="963849">US-China relations</option>
+	<option class="level-0" value="1396454">Xi Jinping</option>
+	<option class="level-0" value="43487631">xinhai revolution</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "https://china-journal.org/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h1 class="widget-title">Recent Comments</h1>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="Aris Teon" class="recentcommentsavatartop" style="height:48px; width:48px;"><a href="http://chinabookreview.wordpress.com" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/a9b9e713c6c8ba17e6bcc25191bfd162?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstexttop" style=""><a href="http://chinabookreview.wordpress.com" rel="nofollow">Aris Teon</a> on <a href="https://china-journal.org/2017/03/09/directness-hierarchy-and-social-roles-in-chinese-culture/comment-page-1/#comment-460">Directness, Hierarchy and Soci&hellip;</a></td></tr><tr><td title="Old Navy sale" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://www.oldnavy-coupons.com" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/a1691218be6cc4e4b80087356f2f6bb5?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://www.oldnavy-coupons.com" rel="nofollow">Old Navy sale</a> on <a href="https://china-journal.org/2017/03/09/directness-hierarchy-and-social-roles-in-chinese-culture/comment-page-1/#comment-455">Directness, Hierarchy and Soci&hellip;</a></td></tr><tr><td title="Aris Teon" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://chinabookreview.wordpress.com" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/a9b9e713c6c8ba17e6bcc25191bfd162?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://chinabookreview.wordpress.com" rel="nofollow">Aris Teon</a> on <a href="https://china-journal.org/2017/02/25/the-concept-of-face-in-chinese-culture-and-the-difference-between-mianzi-and-lian/comment-page-1/#comment-375">The Concept of Face in Chinese&hellip;</a></td></tr><tr><td title="Filobus" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://1.gravatar.com/avatar/4f678a1773c8d4354d3fd8fd63e4905a?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">Filobus on <a href="https://china-journal.org/2017/02/25/the-concept-of-face-in-chinese-culture-and-the-difference-between-mianzi-and-lian/comment-page-1/#comment-374">The Concept of Face in Chinese&hellip;</a></td></tr><tr><td title="Lainey Cho" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://1.gravatar.com/avatar/d25c8dc2a6c16b011fd8ef042cae9512?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">Lainey Cho on <a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/comment-page-1/#comment-367">Filial Piety (孝) in Chinese&hellip;</a></td></tr>				</table>
+				</aside><aside id="archives-5" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+			<li><a href='https://china-journal.org/2017/04/'>April 2017</a></li>
+	<li><a href='https://china-journal.org/2017/03/'>March 2017</a></li>
+	<li><a href='https://china-journal.org/2017/02/'>February 2017</a></li>
+	<li><a href='https://china-journal.org/2016/09/'>September 2016</a></li>
+	<li><a href='https://china-journal.org/2016/08/'>August 2016</a></li>
+	<li><a href='https://china-journal.org/2016/07/'>July 2016</a></li>
+	<li><a href='https://china-journal.org/2016/06/'>June 2016</a></li>
+	<li><a href='https://china-journal.org/2016/05/'>May 2016</a></li>
+	<li><a href='https://china-journal.org/2016/04/'>April 2016</a></li>
+	<li><a href='https://china-journal.org/2016/03/'>March 2016</a></li>
+	<li><a href='https://china-journal.org/2015/02/'>February 2015</a></li>
+		</ul>
+		</aside><aside id="top-posts-3" class="widget widget_top-posts"><h1 class="widget-title">Top Posts &amp; Pages</h1><ul>				<li>
+										<a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/" class="bump-view" data-bump-view="tp">
+						Filial Piety (孝) in Chinese Culture					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2016/03/18/chinese-revolution-1911-founding-republic-of-china/" class="bump-view" data-bump-view="tp">
+						The Chinese Revolution of 1911 - The Founding of the Republic of China					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2016/05/16/mao-zedong-legalism-confucianism-similarities-differences/" class="bump-view" data-bump-view="tp">
+						Mao Zedong, Legalism and Confucianism - Similarities And Differences					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2016/05/07/law-in-imperial-china-confucianism-legalism/" class="bump-view" data-bump-view="tp">
+						Law In Imperial China - Confucianism And Legalism					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/about/" class="bump-view" data-bump-view="tp">
+						About					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2016/07/01/democracy-mob-rule-dictatorship-the-problem-of-freedom-in-ancient-athens/" class="bump-view" data-bump-view="tp">
+						Democracy, Mob Rule, Dictatorship: The Problem of Freedom in Ancient Athens					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2017/04/03/china-and-the-may-4th-movement/" class="bump-view" data-bump-view="tp">
+						China and the May 4th Movement					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2017/02/25/the-concept-of-face-in-chinese-culture-and-the-difference-between-mianzi-and-lian/" class="bump-view" data-bump-view="tp">
+						The Concept of Face in Chinese Culture and the Difference Between Mianzi and Lian					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2017/02/18/western-values-asian-values-a-chinese-revolutionarys-view-on-western-and-chinese-family/" class="bump-view" data-bump-view="tp">
+						Western Values - Asian Values: A Chinese Revolutionary&#039;s View on Western and Chinese Family					</a>
+									</li>
+							<li>
+										<a href="https://china-journal.org/2016/07/15/democracy-abolishes-itself-weimar-republic-germany/" class="bump-view" data-bump-view="tp">
+						Democracy Abolishes Itself - The Case of the Weimar Republic					</a>
+									</li>
+			</ul></aside><aside id="meta-2" class="widget widget_meta"><h1 class="widget-title">Meta</h1>			<ul>
+			<li><a href="https://wordpress.com/start?ref=wplogin">Register</a></li>			<li><a href="https://chinahistoryandculturejournal.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="https://china-journal.org/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://china-journal.org/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>			</ul>
+			</aside><aside id="meta-4" class="widget widget_meta"><h1 class="widget-title">Meta</h1>			<ul>
+			<li><a href="https://wordpress.com/start?ref=wplogin">Register</a></li>			<li><a href="https://chinahistoryandculturejournal.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="https://china-journal.org/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://china-journal.org/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>			</ul>
+			</aside>	</div><!-- #secondary -->
+
+	</div><!-- #content -->
+	<footer id="colophon" class="site-footer" role="contentinfo">
+			<div id="tertiary" class="widget-areas clear" role="complementary">
+					<div class="widget-area">
+				<aside id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://china-journal.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="wpcom-goodreads-5" class="widget widget_goodreads"><h1 class="widget-title">Goodreads</h1><div class="gr_custom_widget" id="gr_custom_widget_63713019_read"></div>
+<script src="https://www.goodreads.com/review/custom_widget/63713019.Goodreads:%20read?cover_position=&#038;cover_size=small&#038;num_books=5&#038;order=d&#038;shelf=read&#038;sort=date_added&#038;widget_bg_transparent=&#038;widget_id=63713019_read"></script>
+</aside><aside id="twitter_timeline-5" class="widget widget_twitter_timeline"><h1 class="widget-title">Follow me on Twitter</h1><a class="twitter-timeline" data-height="400" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" href="https://twitter.com/chinajournalorg">My Tweets</a></aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+											<li>
+					<a href="https://china-journal.org/2017/04/04/china-south-korea-spat-and-the-tradition-of-chinas-anti-foreign-boycotts/">The China-South Korea Spat and the Tradition of China&#8217;s Anti-Foreign&nbsp;Boycotts</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/04/03/china-and-the-may-4th-movement/">China and the May 4th&nbsp;Movement</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/03/28/china-at-war-the-story-of-teng-chan/">China at War &#8211; The Story of Teng&nbsp;Chan</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/03/26/china-taiwan-tensions-and-the-guomindangs-existential-crisis/">China-Taiwan Tensions and the Guomindang&#8217;s Existential&nbsp;Crisis</a>
+									</li>
+											<li>
+					<a href="https://china-journal.org/2017/03/14/the-traditional-roots-of-parental-pressure-and-academic-success-in-china-hong-kong-and-taiwan/">The Traditional Roots of Parental Pressure and Academic Success in China, Hong Kong and&nbsp;Taiwan</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-3" class="widget widget_recent_comments"><h1 class="widget-title">Recent Comments</h1>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="Aris Teon" class="recentcommentsavatartop" style="height:48px; width:48px;"><a href="http://chinabookreview.wordpress.com" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/a9b9e713c6c8ba17e6bcc25191bfd162?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstexttop" style=""><a href="http://chinabookreview.wordpress.com" rel="nofollow">Aris Teon</a> on <a href="https://china-journal.org/2017/03/09/directness-hierarchy-and-social-roles-in-chinese-culture/comment-page-1/#comment-460">Directness, Hierarchy and Soci&hellip;</a></td></tr><tr><td title="Old Navy sale" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://www.oldnavy-coupons.com" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/a1691218be6cc4e4b80087356f2f6bb5?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://www.oldnavy-coupons.com" rel="nofollow">Old Navy sale</a> on <a href="https://china-journal.org/2017/03/09/directness-hierarchy-and-social-roles-in-chinese-culture/comment-page-1/#comment-455">Directness, Hierarchy and Soci&hellip;</a></td></tr><tr><td title="Aris Teon" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://chinabookreview.wordpress.com" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/a9b9e713c6c8ba17e6bcc25191bfd162?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://chinabookreview.wordpress.com" rel="nofollow">Aris Teon</a> on <a href="https://china-journal.org/2017/02/25/the-concept-of-face-in-chinese-culture-and-the-difference-between-mianzi-and-lian/comment-page-1/#comment-375">The Concept of Face in Chinese&hellip;</a></td></tr><tr><td title="Filobus" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://1.gravatar.com/avatar/4f678a1773c8d4354d3fd8fd63e4905a?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">Filobus on <a href="https://china-journal.org/2017/02/25/the-concept-of-face-in-chinese-culture-and-the-difference-between-mianzi-and-lian/comment-page-1/#comment-374">The Concept of Face in Chinese&hellip;</a></td></tr><tr><td title="Lainey Cho" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://1.gravatar.com/avatar/d25c8dc2a6c16b011fd8ef042cae9512?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">Lainey Cho on <a href="https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/comment-page-1/#comment-367">Filial Piety (孝) in Chinese&hellip;</a></td></tr>				</table>
+				</aside><aside id="archives-3" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+			<li><a href='https://china-journal.org/2017/04/'>April 2017</a></li>
+	<li><a href='https://china-journal.org/2017/03/'>March 2017</a></li>
+	<li><a href='https://china-journal.org/2017/02/'>February 2017</a></li>
+	<li><a href='https://china-journal.org/2016/09/'>September 2016</a></li>
+	<li><a href='https://china-journal.org/2016/08/'>August 2016</a></li>
+	<li><a href='https://china-journal.org/2016/07/'>July 2016</a></li>
+	<li><a href='https://china-journal.org/2016/06/'>June 2016</a></li>
+	<li><a href='https://china-journal.org/2016/05/'>May 2016</a></li>
+	<li><a href='https://china-journal.org/2016/04/'>April 2016</a></li>
+	<li><a href='https://china-journal.org/2016/03/'>March 2016</a></li>
+	<li><a href='https://china-journal.org/2015/02/'>February 2015</a></li>
+		</ul>
+		</aside><aside id="categories-3" class="widget widget_categories"><h1 class="widget-title">Categories</h1>		<ul>
+	<li class="cat-item cat-item-1365543"><a href="https://china-journal.org/category/1992-consensus/" >1992 consensus</a>
+</li>
+	<li class="cat-item cat-item-1612"><a href="https://china-journal.org/category/asia/" >Asia</a>
+</li>
+	<li class="cat-item cat-item-298628"><a href="https://china-journal.org/category/asian-culture/" >Asian culture</a>
+</li>
+	<li class="cat-item cat-item-60446"><a href="https://china-journal.org/category/asian-girls/" >Asian girls</a>
+</li>
+	<li class="cat-item cat-item-851396"><a href="https://china-journal.org/category/chiang-kai-shek/" >Chiang Kai-shek</a>
+</li>
+	<li class="cat-item cat-item-1470"><a href="https://china-journal.org/category/china/" >China</a>
+</li>
+	<li class="cat-item cat-item-871818"><a href="https://china-journal.org/category/china-news/" >China news</a>
+</li>
+	<li class="cat-item cat-item-15015813"><a href="https://china-journal.org/category/china-taiwan-relations/" >China-Taiwan relations</a>
+</li>
+	<li class="cat-item cat-item-1482393"><a href="https://china-journal.org/category/chinese-communist-party/" >Chinese Communist Party</a>
+</li>
+	<li class="cat-item cat-item-2145"><a href="https://china-journal.org/category/chinese-culture/" >chinese culture</a>
+</li>
+	<li class="cat-item cat-item-5605047"><a href="https://china-journal.org/category/chinese-family/" >chinese family</a>
+</li>
+	<li class="cat-item cat-item-2147"><a href="https://china-journal.org/category/chinese-history/" >chinese history</a>
+</li>
+	<li class="cat-item cat-item-16220542"><a href="https://china-journal.org/category/chinese-legal-system/" >Chinese legal system</a>
+</li>
+	<li class="cat-item cat-item-2105529"><a href="https://china-journal.org/category/chinese-nationalism/" >Chinese nationalism</a>
+</li>
+	<li class="cat-item cat-item-225047314"><a href="https://china-journal.org/category/chinese-revolution-of-1911/" >chinese revolution of 1911</a>
+</li>
+	<li class="cat-item cat-item-5629933"><a href="https://china-journal.org/category/chinese-society/" >chinese society</a>
+</li>
+	<li class="cat-item cat-item-174070"><a href="https://china-journal.org/category/confucianism/" >Confucianism</a>
+</li>
+	<li class="cat-item cat-item-22388"><a href="https://china-journal.org/category/corruption/" >corruption</a>
+</li>
+	<li class="cat-item cat-item-43837"><a href="https://china-journal.org/category/democracy/" >democracy</a>
+</li>
+	<li class="cat-item cat-item-3814193"><a href="https://china-journal.org/category/democratic-progressive-party/" >Democratic Progressive Party</a>
+</li>
+	<li class="cat-item cat-item-4328"><a href="https://china-journal.org/category/europe/" >Europe</a>
+</li>
+	<li class="cat-item cat-item-1897181"><a href="https://china-journal.org/category/filial-piety/" >filial piety</a>
+</li>
+	<li class="cat-item cat-item-14676"><a href="https://china-journal.org/category/freedom-of-speech/" >freedom of speech</a>
+</li>
+	<li class="cat-item cat-item-5618872"><a href="https://china-journal.org/category/guomindang/" >Guomindang</a>
+</li>
+	<li class="cat-item cat-item-7497"><a href="https://china-journal.org/category/hong-kong/" >Hong Kong</a>
+</li>
+	<li class="cat-item cat-item-2720"><a href="https://china-journal.org/category/human-rights/" >human rights</a>
+</li>
+	<li class="cat-item cat-item-640387"><a href="https://china-journal.org/category/imperial-china/" >imperial China</a>
+</li>
+	<li class="cat-item cat-item-161663392"><a href="https://china-journal.org/category/japanese-colonial-era/" >Japanese colonial era</a>
+</li>
+	<li class="cat-item cat-item-181082"><a href="https://china-journal.org/category/legalism/" >Legalism</a>
+</li>
+	<li class="cat-item cat-item-2104136"><a href="https://china-journal.org/category/ma-ying-jeou/" >Ma Ying-jeou</a>
+</li>
+	<li class="cat-item cat-item-282502"><a href="https://china-journal.org/category/mao-zedong/" >Mao Zedong</a>
+</li>
+	<li class="cat-item cat-item-66523078"><a href="https://china-journal.org/category/occupy-central/" >Occupy Central</a>
+</li>
+	<li class="cat-item cat-item-1360775"><a href="https://china-journal.org/category/one-country-two-systems/" >one country, two systems</a>
+</li>
+	<li class="cat-item cat-item-398"><a href="https://china-journal.org/category/politics/" >politics</a>
+</li>
+	<li class="cat-item cat-item-743221"><a href="https://china-journal.org/category/qing-dynasty/" >Qing Dynasty</a>
+</li>
+	<li class="cat-item cat-item-474615"><a href="https://china-journal.org/category/republic-of-china/" >Republic of China</a>
+</li>
+	<li class="cat-item cat-item-211071"><a href="https://china-journal.org/category/rule-of-law/" >rule of law</a>
+</li>
+	<li class="cat-item cat-item-613"><a href="https://china-journal.org/category/singapore/" >Singapore</a>
+</li>
+	<li class="cat-item cat-item-708433"><a href="https://china-journal.org/category/south-china-sea/" >South China Sea</a>
+</li>
+	<li class="cat-item cat-item-1081150"><a href="https://china-journal.org/category/sun-yat-sen/" >sun yat-sen</a>
+</li>
+	<li class="cat-item cat-item-49003"><a href="https://china-journal.org/category/taipei/" >Taipei</a>
+</li>
+	<li class="cat-item cat-item-1495"><a href="https://china-journal.org/category/taiwan/" >Taiwan</a>
+</li>
+	<li class="cat-item cat-item-578774"><a href="https://china-journal.org/category/taiwan-news/" >Taiwan news</a>
+</li>
+	<li class="cat-item cat-item-783317"><a href="https://china-journal.org/category/taiwanese-history/" >Taiwanese history</a>
+</li>
+	<li class="cat-item cat-item-25570556"><a href="https://china-journal.org/category/taiwanese-nationalism/" >Taiwanese nationalism</a>
+</li>
+	<li class="cat-item cat-item-51771508"><a href="https://china-journal.org/category/umbrella-revolution/" >umbrella revolution</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://china-journal.org/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-963849"><a href="https://china-journal.org/category/us-china-relations/" >US-China relations</a>
+</li>
+	<li class="cat-item cat-item-1396454"><a href="https://china-journal.org/category/xi-jinping/" >Xi Jinping</a>
+</li>
+	<li class="cat-item cat-item-43487631"><a href="https://china-journal.org/category/xinhai-revolution/" >xinhai revolution</a>
+</li>
+		</ul>
+</aside><aside id="meta-3" class="widget widget_meta"><h1 class="widget-title">Meta</h1>			<ul>
+			<li><a href="https://wordpress.com/start?ref=wplogin">Register</a></li>			<li><a href="https://chinahistoryandculturejournal.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="https://china-journal.org/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://china-journal.org/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>			</ul>
+			</aside>			</div>
+							</div><!-- #tertiary -->
+		<div class="site-info">
+			<a href="https://wordpress.com/?ref=footer_custom_powered">Powered by WordPress.com</a>.
+			
+					</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201743y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-9b111af2b46ce8fe5dec5325d26dcb2b">
+	</div>
+	<div class="grofile-hash-map-c1e4b5f93877034ee178785fd5a5333d">
+	</div>
+	<div class="grofile-hash-map-d25c8dc2a6c16b011fd8ef042cae9512">
+	</div>
+	<div class="grofile-hash-map-a9b9e713c6c8ba17e6bcc25191bfd162">
+	</div>
+	<div class="grofile-hash-map-a1691218be6cc4e4b80087356f2f6bb5">
+	</div>
+	<div class="grofile-hash-map-4f678a1773c8d4354d3fd8fd63e4905a">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/chinahistoryandculturejournal.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/chinahistoryandculturejournal.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"https:\/\/china-journal.org\/","postID":"42","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="84738213" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://china-journal.org" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="The Greater China Journal" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="efeac732b2" /><input type="hidden" name="_wp_http_referer" value="/2016/03/14/filial-piety-in-chinese-culture/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/china-journal.org\/2016\/03\/14\/filial-piety-in-chinese-culture\/":42};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<div
+	id="eu-cookie-law"
+	class="hide-on-button"
+	data-hide-timeout="30"
+>
+	<form method="post">
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="daf7628e09" /><input type="hidden" name="_wp_http_referer" value="/2016/03/14/filial-piety-in-chinese-culture/" />		<input type="hidden" name="eucookielaw" value="accept" />
+		<input type="hidden" name="redirect_url" value="/2016/03/14/filial-piety-in-chinese-culture/" />
+		<input type="submit" value="Close and accept" class="accept" />
+
+		Privacy & Cookies: This site uses cookies from WordPress.com and selected partners. <br />To find out more, as well as how to remove or block these, see here: <a href="https://en.support.wordpress.com/cookies">Our Cookie Policy</a>
+ </form>
+</div>
+
+<script type="text/javascript">
+jQuery(function( $ ) {
+	var overlay = $( '#eu-cookie-law' ), initialScrollPosition, scrollFunction;
+	overlay.find( 'form' ).on( 'submit', accept );
+	if ( overlay.hasClass( 'hide-on-scroll' ) ) {
+		initialScrollPosition = $( window ).scrollTop();
+		scrollFunction = function() {
+			if ( Math.abs( $( window ).scrollTop() - initialScrollPosition ) > 50 ) {
+				accept();
+			}
+		};
+		$( window ).on( 'scroll', scrollFunction );
+	} else if ( overlay.hasClass( 'hide-on-time' ) ) {
+		setTimeout( accept, overlay.data( 'hide-timeout' ) * 1000 );
+	}
+
+	var accepted = false;
+	function accept( event ) {
+		if ( accepted ) {
+			return;
+		}
+		accepted = true;
+
+		if ( event && event.preventDefault ) {
+			event.preventDefault();
+		}
+
+		if ( overlay.hasClass( 'hide-on-scroll' ) ) {
+			$( window ).off( 'scroll', scrollFunction );
+		}
+
+		var expireTime = new Date();
+		expireTime.setTime( expireTime.getTime() + 2592000000 );
+
+		document.cookie = 'eucookielaw=' + expireTime.getTime() + ';path=/;expires=' + expireTime.toGMTString();
+
+		overlay.fadeOut(400, function() {
+			overlay.remove();
+		});
+	}
+});
+</script>
+
+<style type="text/css">
+	#eu-cookie-law {
+		position: fixed;
+		bottom: 1em;
+		left: 1em;
+		right: 1em;
+		z-index: 50001;
+		font-size: 12px;
+		color: #2e4467;
+		line-height: 1.5;
+		border: 1px solid #dedede;
+		padding: 6px 6px 6px 15px;
+		background-color: #fff;
+	}
+
+	#eu-cookie-law a,
+	#eu-cookie-law a:active,
+	#eu-cookie-law a:visited {
+		color: inherit;
+		text-decoration: underline;
+		cursor: inherit;
+	}
+
+	#eu-cookie-law a:hover {
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+	#eu-cookie-law.negative {
+		background-color: #000;
+		color: #fff;
+		border: none;
+	}
+
+	/**
+	* Using a highly-specific rule to make sure that all button styles
+	* will be reset
+	*/
+	#eu-cookie-law input,
+	#eu-cookie-law input:hover,
+	#eu-cookie-law input:focus {
+		display: inline;
+		position: static;
+		float: right;
+		padding: 8px 12px;
+		margin: 0 0 0 5%;
+		border: 1px solid #dedede;
+		border-radius: 4px;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		background: #f3f3f3;
+		font-size: 14px;
+		line-height: inherit;
+		text-transform: none;
+		color: #2e4453;
+		cursor: pointer;
+		font-weight: inherit;
+		font-family: inherit;
+	}
+
+	#eu-cookie-law.negative input,
+	#eu-cookie-law.negative input:hover,
+	#eu-cookie-law.negative input:focus {
+		background-color: #282828;
+		color: #fff;
+		border-color: #535353;
+	}
+
+	@media (max-width: 600px) {
+		#eu-cookie-law {
+			padding-bottom: 55px;
+		}
+
+		#eu-cookie-law input.accept {
+			position: absolute;
+			bottom: 8px;
+			right: 8px;
+		}
+	}
+
+</style>
+<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"84738213","siteName":"The Greater China Journal","siteURL":"https:\/\/china-journal.org","icon":"<img alt='' src='https:\/\/chinahistoryandculturejournal.files.wordpress.com\/2017\/03\/13269433_1763315483880006_1996206165_a.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/hemingway-rewritten","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/chinahistoryandculturejournal.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchina-journal.org%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F","themeURL":"https:\/\/wordpress.com\/theme\/hemingway-rewritten\/","xhrURL":"https:\/\/china-journal.org\/wp-admin\/admin-ajax.php","nonce":"daada304f0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"daf898f8ac\" \/>","referer":"https:\/\/china-journal.org\/2016\/03\/14\/filial-piety-in-chinese-culture\/","canFollow":"1","feedID":"45263281","statusMessage":"","customizeLink":"https:\/\/chinahistoryandculturejournal.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fchinahistoryandculturejournal.wordpress.com%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F","postID":"42","shortlink":"http:\/\/wp.me\/p5Jyhn-G","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/china-journal.org\/42","statsLink":"https:\/\/wordpress.com\/stats\/post\/42\/china-journal.org","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Hemingway Rewritten","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 26 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/chinahistoryandculturejournal.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchina-journal.org%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/china-journal.org\/wp-admin\/admin-ajax.php","nonce":"4061cb636f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/chinahistoryandculturejournal.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchina-journal.org%2F2016%2F03%2F14%2Ffilial-piety-in-chinese-culture%2F","blog_id":"84738213","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=84738213&v=wpcom&tz=0&user_id=0&subd=chinahistoryandculturejournal","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydUu1OwzAMfCHSbIIJ+IF4FJSm7uY2X9hJy94eV6OjQ1Wl8SvW2Xe2L9ZjUjaGDCHrjnUDA1pIX1XHD3qR8kUlV44YWDvsgfVngQInExoHtFFso/cCqQupm9i15hET3EO6Af4S8wm8lKVSa4kwHEdzVgQjYZb8RF+B7xcJZsCjyRj/weUekwwfetVGW1i1eDUYg3WluV2TILlzJUobHnWQk7G9/hABncepFamMHqTNlremEV1VG9LesHAkUnEAIpyGuGJbCnYyYVK4RmvLcPqdf4l3cjl0/nmqZdXaJRiKhcHN66oZ2JqvR/aQ1WO1u7jTRvIb9SlyVq0zSJpPhuT/5ldI7/5tf9i9PL8edk/77hvSiDIV'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "chinahistoryandculturejournal.wordpress.com";
+	</script>
+	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'84738213','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'84738213','v':'wpcom','tz':'0','user_id':'0','post':'42','subd':'chinahistoryandculturejournal'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3BsSjRjQ2xTcExndXBLb29YLFAzRXE5Z0t8N1hscXp5dyYtfmRqNmdscUFSZy1GV1VZNjBRbWh5ZllGVCY5aWd4dm9iN3F1blN2byV2bmJtZ2FRTkwtTWc4R3gvVUxBeEUua0RjamtZRERFa1U9P21HN35kWFd1W05aQ1tyYkY2cGdHZz09WFhqdCxuRVBJUEFpQW5bVlRJU0FIMmpuazM2LWQyT05mMWIrK3YwWUtnVSx1V3FQLnF6SH45SnhhcHMxdD84dEV0JUJRNiZyMjM5N25rQz1oZFs1aXFhVD0tb2JYY3RzXU40bys5YllSUU5KcEJvQno9ZlNqditwYkwmbXFkbDJdMk5iWW92RmJILk5PWV9OZXlzQz9fYy9aXTM9Ynk9Mjk1dF1Xd05wU2FRdFNH'}]);
+_stq.push([ 'clickTrackerInit', '84738213', '42' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

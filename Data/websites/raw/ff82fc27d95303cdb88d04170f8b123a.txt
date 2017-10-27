@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+
+<title>A Record of 709 &laquo; China Change</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://chinachange.org/xmlrpc.php" />
+
+<script type="text/javascript">
+  WebFontConfig = {"typekit":{"id":"rhm2ooj"}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active #logo{font-family:"liberation-sans-1","liberation-sans-2",sans-serif;font-style:normal;font-weight:700}.wf-active #site-description{font-size:14.1pt;font-style:normal;font-weight:700}.wf-active html{font-family:"droid-serif-1","droid-serif-2",serif;font-size:112%}.wf-active body{font-size:15.7px}.wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"droid-serif-1","droid-serif-2",serif;font-size:112%}.wf-active input[type="password"], .wf-active input[type="text"]{font-size:13.4px}.wf-active button, .wf-active html input[type="button"], .wf-active input[type="reset"], .wf-active input[type="submit"]{font-size:11.2px}.wf-active .posts .page, .wf-active .posts .post{font-size:13.4px}.wf-active .commentlist{font-family:"droid-serif-1","droid-serif-2",serif}.wf-active .commentlist .comment, .wf-active .commentlist > li{font-size:15.7px}.wf-active #commentform{font-family:"droid-serif-1","droid-serif-2",serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-weight:700;font-style:normal}.wf-active h1{font-size:35.2px;font-style:normal;font-weight:700}.wf-active h2{font-size:21.1px;font-style:normal;font-weight:700}.wf-active h3{font-size:19.4px;font-style:normal;font-weight:700}.wf-active h4{font-size:17.6px;font-style:normal;font-weight:700}.wf-active h5{font-size:15.8px;font-style:normal;font-weight:700}.wf-active h6{font-size:14.1px;font-style:normal;font-weight:700}.wf-active .title-header{font-family:"liberation-sans-1","liberation-sans-2",sans-serif;font-style:normal;font-weight:700}.wf-active .posts .page h2, .wf-active .posts .post h2{font-size:10.6px;font-weight:700;font-style:normal}.wf-active .posts .sticky h2{font-size:12.3px;font-style:normal;font-weight:700}.wf-active div.single h3{font-size:17.6px;font-style:normal;font-weight:700}.wf-active div.single h4{font-size:15.8px;font-style:normal;font-weight:700}.wf-active div.single h5{font-size:14.1px;font-style:normal;font-weight:700}.wf-active div.single h6{font-size:12.3px;font-style:normal;font-weight:700}.wf-active .widget h1, .wf-active .widget h2, .wf-active .widget h3, .wf-active .widget h4, .wf-active .widget h5, .wf-active .widget h6{font-size:8.8px;font-style:normal;font-weight:700}</style>
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=chinachange.org&amp;id=45895295&amp;t=1509095206&amp;back=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//chinachangedotorg.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="China Change &raquo; Feed" href="https://chinachange.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="China Change &raquo; Comments Feed" href="https://chinachange.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="China Change &raquo; A Record of&nbsp;709 Comments Feed" href="https://chinachange.org/2017/10/15/a-record-of-709/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyNUltuwyAQvFDppmoeykfVsyx4g0kWLwIsN7cvxI4ipy3qD8zADPsCpqCMDJmGDH5UgUfrhgRTMOJV8o7p+sReTUov8LuN3YUSnCkHNBd1Yy15JMZMnQqS8hNr2YxEKuc+YK4KT51DYvJF1rJNrrNU4hTJglWmr6bFh/09UIV9qaqZ2dworUOklFRZvRu9yn3J7advPoYwakCDXdEahJSvTP+pIolxyMoVyZrMZgeD5PnyDlqvWhLFYjA7GVZEnRhdbA9Rs9gC7a2zD9oyoamPa4wP1JLXLzFnAqnHWGMte8u1dKWkI2vy1yj6LVgWjVwFn/7jbbfZ7I7Hw/vh/A1vwzA2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chinachangedotorg.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Notes From Prison (Part Two of&nbsp;Two)' href='https://chinachange.org/2017/10/11/notes-from-prison-part-two-of-two/' />
+<link rel='next' title='Twenty-Eight Years After – An Interview With Wang&nbsp;Dan' href='https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://chinachange.org/2017/10/15/a-record-of-709/" />
+<link rel='shortlink' href='http://wp.me/p36zsH-47y' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Record of 709" />
+<meta property="og:url" content="https://chinachange.org/2017/10/15/a-record-of-709/" />
+<meta property="og:description" content="Xie Yanyi, October 15, 2017 &nbsp; Xie Yanyi (谢燕益) is one of the twenty or so 709 detainees during China’s sweeping, still ongoing crackdown on human rights lawyers and activists. He was held incom…" />
+<meta property="article:published_time" content="2017-10-16T01:31:49+00:00" />
+<meta property="article:modified_time" content="2017-10-16T01:31:49+00:00" />
+<meta property="og:site_name" content="China Change" />
+<meta property="og:image" content="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg" />
+<meta property="og:image:width" content="739" />
+<meta property="og:image:height" content="739" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@chinachange_org" />
+<meta name="twitter:text:title" content="A Record of&nbsp;709" />
+<meta name="twitter:image" content="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@chinachange_org" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=114" />
+<link rel='openid.server' href='https://chinachangedotorg.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://chinachangedotorg.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://chinachange.org/osd.xml" title="China Change" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#FFFFFF" />
+<meta name="application-name" content="China Change" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="News and Commentaries for a free and just China" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://chinachange.org/feed/;icon-uri=https://secure.gravatar.com/blavatar/f79e60a2266ebb41a2f2a629edc00a11?s=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="A Record of&nbsp;709 | China Change on WordPress.com" />
+<meta name="description" content="Xie Yanyi, October 15, 2017 &nbsp; Xie Yanyi (谢燕益) is one of the twenty or so 709 detainees during China’s sweeping, still ongoing crackdown on human rights lawyers and activists. He was held incommunicado  from, July 12, 2015 to January 18, 2017, in Tianjin. As a human rights lawyers, Xie Yanyi’s career spans from 2003&hellip;" />
+	<style type="text/css">
+			#site-title,
+		#site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #FFFFFF; }
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css" id="custom-colors-css">#wrap .navigation span a,#wrap .navigation span a:hover,#wrap .reply .comment-reply-link,#wrap .reply .comment-reply-link:hover,#wrap small #cancel-comment-reply-link,#wrap small #cancel-comment-reply-link:hover{color:#fff}#wrap a{color:#073b68}#site-description{color:#073b68}#main-nav ul{background-color:#0b1746}button,html input[type="button"],input[type="reset"],input[type="submit"]{background-color:#0b1746}#commentform #submit:hover{background-color:#0b1746}#wrap .navigation a,#wrap .comment-reply-link,#wrap #cancel-comment-reply-link{background-color:#0b1746}html{color:#0a0a0a}#wrap a:hover{color:red}button:hover,input[type="submit"]:hover{background-color:red}.home.page .posts .page{border-color:red}#wrap a.highlight,#wrap h2.heading a,#wrap .entry-meta a{color:red}#content .widget_pages>ul li.current_page_item>a:hover,#content .widget ul.menu li.current-menu-item>a:hover{color:red}#main-nav ul a:hover,#main-nav .menu-item:hover,#main-nav .page_item:hover,#main-nav .current-menu-item>a,#main-nav .current-menu-ancestor>a,#main-nav .current_page_item>a,#main-nav .current_page_ancestor>a{background-color:red}#wrap .navigation a:hover,#wrap a.comment-reply-link:hover,#wrap #cancel-comment-reply-link:hover{background-color:red}#wrap{background-color:#fff}.commentlist li.bypostauthor{background-color:#fff}#commentform #submit{color:#fff}#wrap .navigation a,#wrap .comment-reply-link,#wrap #cancel-comment-reply-link{color:#fff}#wrap .navigation a:hover,#wrap a.comment-reply-link:hover,#wrap #cancel-comment-reply-link:hover{color:#fff}.academica-featured-posts-gallery .thumb-placeholder{background-color:#fff}</style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&#038;csblog=36zsH&#038;cscache=6&#038;csrev=213" />
+		</head>
+<body class="post-template-default single single-post postid-15844 single-format-standard custom-background mp6 customizer-styles-applied column-double highlander-enabled highlander-light custom-colors">
+	<div id="wrap">
+		<div id="header" class="clearfix">
+
+			<div id="main-nav">
+				<ul id="menuhead" class="menu"><li id="menu-item-9060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-9060"><a href="https://chinachange.org/">Home</a></li>
+<li id="menu-item-9061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9061"><a href="https://chinachange.org/about/">About</a></li>
+<li id="menu-item-9062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9062"><a href="https://chinachange.org/authors-translated/">Authors Translated</a></li>
+<li id="menu-item-9081" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-9081"><a href="https://chinachange.org/2015/10/26/ilham-tohti-documentary/">Ilham Tohti Documentary</a></li>
+<li id="menu-item-9066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9066"><a href="https://chinachange.org/complete-archive/">Complete Archive</a></li>
+<li id="menu-item-9067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9067"><a href="https://chinachange.org/become-a-benefactor/">Become a Benefactor / 成為一名施助者</a></li>
+</ul>			</div><!-- end #main-nav -->
+
+			<div id="logo">
+				<h1 id="site-title">
+					<a href="https://chinachange.org" title="China Change - News and Commentaries for a free and just China" rel="home">
+						China Change					</a>
+				</h1>
+				<p id="site-description">News and Commentaries for a free and just China</p>
+			</div><!-- end #logo -->
+
+			<div id="search">
+				<form method="get" id="searchform" action="https://chinachange.org/">
+	<label for="s" class="assistive-text hidden">Search</label>
+	<input id="s" type="text" name="s" placeholder="Search">
+	<button id="searchsubmit" name="submit" type="submit">Search</button>
+</form>			</div><!-- end #search -->
+
+			
+<div id="social">
+	<ul>
+			</ul>
+</div>
+		</div><!-- end #header -->
+
+			<div id="slider-wrap">
+		<a href="https://chinachange.org/" title="China Change" rel="home">
+			<span class="assistive-text">China Change</span>
+			<img src="https://chinachangedotorg.files.wordpress.com/2013/06/cropped-copy-e.jpg" width="960" height="112" alt="" />
+		</a>
+	</div><!-- end #slider-wrap -->
+	
+<div id="content" class="clearfix">
+
+	
+	<div class="column column-title">
+		<div id="crumbs">
+	<p><a href="https://chinachange.org">Home</a> &raquo; <a href="https://chinachange.org/category/uncategorized/">Uncategorized</a> &raquo; <span class="current">A Record of&nbsp;709</span></p>
+</div><!-- end #crumbs -->		<h1 class="title-header">A Record of&nbsp;709</h1>	</div><!-- end .column-title -->
+
+		<div class="column column-narrow">
+			</div><!-- end .column-narrow -->
+	
+	<div class="column column-content single">
+
+		
+<div id="post-15844" class="post-15844 post type-post status-publish format-standard hentry category-uncategorized tag-709-crackdown tag-709-incident tag-china tag-forced-confession tag-hu-shigen tag-human-rights-lawyers tag-residential-surveillance tag-rule-of-law-2 tag-secret-detention tag-tianjin tag-torture tag-xie-yang tag-xie-yanyi tag-yuan-shanshan">
+
+	<div class="entry-content clearfix">
+		<p><span style="font-weight:400;">Xie Yanyi, October 15, 2017</span></p>
+<p>&nbsp;</p>
+<p><i style="font-size:14px;">Xie Yanyi (</i><i style="font-size:14px;">谢燕益</i><i style="font-size:14px;">) is one of the twenty or so 709 detainees during China’s sweeping, still ongoing crackdown on human rights lawyers and activists. He was held incommunicado  from, July 12, 2015 to January 18, 2017, in Tianjin. As a human rights lawyers, Xie Yanyi’s career spans from 2003 to the time when he was detained, representing dozens of cases involving religious freedom, freedom of speech, forced expropriation of land and property, corruption, local elections, political prisoners, and more. Meanwhile, he has been known for passionately advocating democratic transition in China. During the 553 days of disappearance, his wife gave birth to a baby girl, and his mother died without him knowing it. In September he posted a book titled</i><a style="font-size:14px;" href="http://www.rosechina.net/jd/szrd/2017-09-05/9209.html"> <i>“A Record of 709 Crackdown and 100 Questions about Peaceful Democracy in China”</i></a><i style="font-size:14px;"> in which he recounted his experience during the six-month secret detention and following year in Tianjin Second Detention Center. He is the second 709 lawyer, after lawyer Xie Yang in Hunan, who has spoken out about torture and other degrading treatments perpetrated on human rights lawyers and activists. On September 6, Xie Yanyi posted</i><a style="font-size:14px;" href="http://www.minzhuzhongguo.org/MainArtShow.aspx?AID=90983"> <i>an open letter</i></a><i style="font-size:14px;"> to Xi Jinping, the Communist Party, and fellow Chinese, calling for an end to the one-party dictatorship, releasing all political prisoners, and setting the course to transition China into a constitutional democracy. Predictably, he has been harassed and threatened by police. China Change is pleased to bring you translation of excerpts of Xie Yanyi’s recollections and reflections on 709 atrocities. <i>— </i></i>The Editors <span style="font-weight:400;"><i style="font-size:14px;">  </i></span></p>
+<p>&nbsp;</p>
+<div data-shortcode="caption" id="attachment_15853" style="width: 749px" class="wp-caption alignnone"><img data-attachment-id="15853" data-permalink="https://chinachange.org/2017/10/15/a-record-of-709/xie-yanyi/" data-orig-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=730" data-orig-size="739,739" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Xie Yanyi" data-image-description="" data-medium-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=730?w=300" data-large-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=730?w=730" class=" size-full wp-image-15853 aligncenter" src="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=730" alt="Xie Yanyi" srcset="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=730 730w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=150 150w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg?w=300 300w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi.jpg 739w" sizes="(max-width: 730px) 100vw, 730px"   /><p class="wp-caption-text">Xie Yanyi (谢燕益). Photo: online</p></div>
+<p>&nbsp;</p>
+<p><b>The Police Are Here</b></p>
+<p><b>I got home in the middle of the night on July 11, 2015 </b><span style="font-weight:400;">and fell asleep right away. The next morning, not long after I had gotten up, I heard a knocking at the door. I looked through the peephole and saw Captain Wang’s men from Domestic Security. I tidied up a bit and opened the door. They wanted me to go to the office of the neighborhood committee for a little chat. I went there with them, where Miyun District domestic security personnel had been joined by Beijing domestic security. They asked about the same old things. At a break in the conversation I went to relieve myself and discovered that people from Domestic Security were following me into the bathroom. It was then I realized the gravity of the situation. Our conversation continued until noon, when we had fast food in the office. We had just finished eating when ten or so plainclothes officers burst in. The first one flashed his badge at me. He said he was from the Tianjin Public Security Bureau and asked if I was Xie Yanyi. I said yes. I saw from his badge that he was surnamed Liu. Then he handcuffed me. I protested, but no one paid attention. They swarmed around me as I was led downstairs. We got into an SUV, where I sat in the backseat between two men. There were about two or three cars following behind us . We sped off. Soon we arrived at the Miyun Chengguan police station (密云城关派出所). There was an interrogation room equipped with an iron chair that the suspect could be buckled into. They made me sit there to begin my questioning. This was the first time in my life I had been handcuffed and interrogated. At first I was confused, but once I was sitting I calmed down. I had no idea that it was just the beginning of a long ordeal and contest.</span></p>
+<p><b>The Black Hood</b></p>
+<p><span style="font-weight:400;">At nightfall I was taken out of the police station. Not only did they handcuff me again, they also put a black hood over my head. I was escorted to an SUV. It sped off as soon as it hit the highway. I naively wondered if they were just doing this to frighten me. Maybe they’ll just drive in a circle and then bring me home? But the car kept going at top speed, and there was no sign of stopping. I was cramped, wrapped in place by the people on either side of me. And I was nervous. I felt like they had tied the hood too tightly and that it would suffocate me. I asked them politely if they could take it off, promising I wouldn’t act out if they did, but they said it was an order and they had to follow. I then begged them to loosen it a little so I could breathe, but they didn’t pay any attention to me. Then I reasoned with them, trying to win their sympathy, and asked again if they could loosen it a little. The man in the passenger seat shouted, “You won’t suffocate to death!” When those words fell on my ears, I realized that pleading was no use. I should instead stay as calm as possible.</span></p>
+<p><span style="font-weight:400;">About an hour later the car reached its destination. I couldn’t see anything and had no way of knowing our exact location. They had me get out of the car and squat down. Soon a few people came and did what seemed like a handover procedure. As they talked, I sensed I was being handed over to army troops. They changed my handcuffs but didn’t remove the hood. After we had gotten into another car, I turned to the soldier on my left and mentioned my difficulty breathing. Would he mind loosening the hood a little so that I could breathe through the gap? This soldier pulled the black hood up a little bit. I took the opportunity to thank all of them profusely for their kindness. In response, the soldier on my right pressed a little bit less against me. Not longer after our car entered a compound. We were let in by the gatekeeper, then drove up to a building. After a bit, someone called me out of the car. The men on either side of me took me into the building and told me to watch my step. We went up to the second floor and turned right into a room, where they told me to stand facing the wall. Someone came and took the hood off my head, then told me to strip naked. Then I was asked to squat twice. They searched my body to see if I had hidden anything.</span></p>
+<p><b>The Special Room</b></p>
+<p><span style="font-weight:400;">When they were done inspecting me they had me turn to face them, then starting taking photos. They took away my clothes and gave me two sets of soft, casual clothes. One man announced the daily schedule for me and informed me that the next day I was to study the prison rules and regulations posted on the wall. Everyone left except for two soldiers, who stood on either side of me. I asked them if I could rest. They said no, that according to the rules I had to wait until 10:30. So I sat down and read the rules. Then I sized up the room. It was not quite 20 square meters [66 square feet]. To the right of the entrance was a bathroom. A single bed stood against the outer wall of the bathroom. To the right of the bed was open space. Opposite the bed was a padded desk draped with a blue tablecloth. In front of that was a soft high-backed chair. At the far end of the room a heavy curtain was pulled over the window to keep out the light. The walls were completely padded. Even the corners of the desk, the foot of the bed, and the chair were padded and rounded. Around 10 they told me I could get ready for bed and gave me a toothbrush, a towel, and a spoon. Even the handles of the toothbrush and the spoon were rounded and made of rubber. If I wanted to use the bathroom or do anything else, I had to announce my intention and be granted permission before I could proceed. There were always two soldiers guarding me. When I slept at night one would watch me from the head of the bed, the other from the foot. It seemed all these measures were meant to keep me from killing or mutilating myself.</span></p>
+<p><b>The Interrogation Begins</b></p>
+<p><span style="font-weight:400;">On the first day, I got into bed as soon as it was time to rest. I couldn’t fall asleep right away, as my mind replayed the events of the day and I considered what fate could be in store for me. Everything felt like half-dream, half-reality. Just as I was about to drift off, someone charged into my room, booming, “Get up and clean up. The special investigation team (专案组) wants to see you!” I had no choice but to get out of bed and get dressed. I moved the toothbrush and other things from the desk to the bed, then sat down and waited for the special investigators. I thought, “The grueling interrogation is about to begin.”</span></p>
+<p><span style="font-weight:400;">Two men came in. One looked to be over 40 years old, tall and strong. He said his last name was Jiang (姜). The other man was a bit shorter, bespeckled, a little fat, around 30 years old. Later he would call himself Cao Jianguang (曹建光). The first night they questioned me until four or five in the morning. I had just collapsed into bed when the on-duty soldiers woke me up again. After breakfast the interrogators came back. A tall, skinny man wearing glasses had replaced one of the others from before. He said his last name was Wang (王), so I called him Old Wang. (Nearly a year passed before I learned from someone else that Old Wang isn’t surnamed Wang, but Yan [严], so now I call him Lieutenant Yan.) The first two, if I’m right, were from the Beijing Public Security Bureau, while Lieutenant Yan is from the Tianjin PSB. I would see more of him after I was transferred to Tianjin. </span></p>
+<p><span style="font-weight:400;">They also asked me to confess, but I had nothing to confess. It was unbearable in the beginning. I became aware that I might not get out in the short term, and that I needed a plan, so I thought of writing a letter to my wife. My wife had just told me she was pregnant. We already had two boys and were supporting a large family, but our shared faith doesn’t permit abortion. She had secretly taken out her birth control ring. Then I was taken away, and that was where our conversation ended. I told the special investigators that I wanted to write a letter to my wife. At first they said no, then added that they had to ask for instructions. That evening I started to fast. Besides protesting my illegal detention and demanding the letter, I also hoped to make my psychological crisis a physical one, to divert my attention from the mental pressure through the pain of hunger, and to give myself some happiness when I did eat again. I fasted for over 72 hours, until lunch on the fourth day. They gave me pen and paper. The guard added that if I fasted again they would feed me through a tube.</span></p>
+<p><span style="font-weight:400;">The interrogations continued as usual every day. Sometimes they would question me three times in one day, morning, afternoon, and night; or else twice in a day.</span></p>
+<p><b>Transfer to Tianjin</b></p>
+<p><b>Just before noon on September 8, 2015,</b><span style="font-weight:400;"> I was told to inventory the items they had confiscated from me and sign the list. That night I was informed that due to building renovations I was to be transferred. Right then we left the residential surveillance location in Beijing, and I was secretly transferred to a residential surveillance location in Tianjin. It must have been in a People’s Armed Police building, since I was guarded by armed police officers. (The place in Beijing must also have been a PAP building, too. I think it was in the Xiaotangshan area of Changping, Beijing. I remember when I was there often hearing the sound of fireworks nearby. Perhaps it wasn’t far from a cemetery or a crematorium?)</span></p>
+<p><span style="font-weight:400;">In Tianjin they took off the white gloves. They did all sorts of things to get me to confess: starving me, forbidding me to move my legs, beating me, intimidating me, forcing me to sleep in a fixed posture, disciplining me. For half a month I was made to sit on a block for 16 hours straight every day.</span></p>
+<p><span style="font-weight:400;">I was kept in Room 8, facing rooms 11 and 12. I saw these numbers once through the gap in my blinders when I was taken out for my room to be disinfected. </span></p>
+<p><b>What Happened October 1-10 Above Room 8?</b></p>
+<p><span style="font-weight:400;">At about 9 a.m. on October 1, I distinctly heard someone above me fall hard onto the floor. There was a soft groan, then no more sound. It seemed like someone had just been given an electric shock. From October 1 to 10, nearly every day I heard interrogations, howling, and moaning in the middle of the night in the room above me. That was when I decided that I absolutely had to control myself, find a way to get out as early as possible, and expose this torture.</span></p>
+<p><span style="font-weight:400;">I guarantee this is not a hallucination. I hope the day will come when people on the outside can see the site of this terrible torture with their own eyes: the room above Room 8 at the 709 residential surveillance location must be a special room. I often heard them moving all kinds of equipment, dragging it here and there. There was the incessant sound of installation and adjustment, lasting for two months straight at least. I don’t know what happened up there. Just before the 709 residential surveillance came to an end—that is, in the last few evenings before the 709 detainees were formally arrested in early or mid-January 2016—from Room 8 I heard people organizing files, stacking papers on top of each other. It often sounded like meetings were being held up there, too. </span></p>
+<p><b>Devils in White</b></p>
+<p><span style="font-weight:400;">After I was transferred to Tianjin, it was around October when they suddenly started giving me daily checkups. They would take my blood pressure and check my heart rate. I could tell they were nervous. Every other week or two they would bring in an electrocardiogram and check my heart. With this change I realized some among us must have started having health problems. There was a Director Zhou, and a doctor who I think was named Liu He, who examined me. Every doctor and nurse was expressionless and stony-faced, like robots. They did not interact with me beyond routine business, and I never felt a drop of good will from them. I had no way of knowing their names or identities. This was terrifying. They did whatever the higher-ups told them to do, regardless of how I felt about it. If I made a request of any kind, they either would ask the special investigators for instructions or simply not respond at all. You would think they were angels in white, but the more I saw them, the more they seemed like devils in white.</span></p>
+<p><b>Taking Medicine</b></p>
+<p><span style="font-weight:400;">While in Tianjin, nearly all of the 709 detainees, as I’ve since learned, were forced to take medicine. Every day a physician would bring the medicine, and every time they would shine a flashlight in my throat to make sure I’d swallowed. It was about four white pills each time. They said I had elevated transaminases and that it could be a problem with my liver. But I’m a vegetarian. I don’t smoke, I don’t drink. I’m in good health and haven’t had any health problems. I’m also not in the habit of taking medicine. I think everyone’s body is unique. Even if a certain indicator is high for someone else, for me that same reading could be just fine. I tried reasoning with them several times and refused to take the medicine. Then the physician, the discipline officer and the warden had to come force feed the pills to me. I had no choice but give in. After about two months the medicine stopped.</span></p>
+<div data-shortcode="caption" id="attachment_15859" style="width: 394px" class="wp-caption alignleft"><img data-attachment-id="15859" data-permalink="https://chinachange.org/2017/10/15/a-record-of-709/xie-yanyi-yuan-shanshan2/" data-orig-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=384&#038;h=512" data-orig-size="600,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Xie Yanyi, Yuan Shanshan2" data-image-description="" data-medium-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=384&#038;h=512?w=225" data-large-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=384&#038;h=512?w=600" class="  wp-image-15859 alignleft" src="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=384&#038;h=512" alt="Xie Yanyi, Yuan Shanshan2" width="384" height="512" srcset="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=384&amp;h=512 384w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=113&amp;h=150 113w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg?w=225&amp;h=300 225w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-yuan-shanshan2.jpg 600w" sizes="(max-width: 384px) 100vw, 384px" /><p class="wp-caption-text">For a few months in mid 2016, Xie Yanyi&#8217;s wife Yuan Shanshan (原珊珊) was constantly moving with her baby to evade police harassment. Watch <a href="http://news.sky.com/story/china-lawyers-call-for-an-end-to-suppression-10523865">Sky News Video</a>.</p></div>
+<p><b>Sitting on the Block</b></p>
+<p><span style="font-weight:400;">At first I had a high-backed chair in my room. Then it was swapped for a block with nothing to lean on when I sat down. I sat there for at least 12 hours a day, sometimes as much as 16 hours a day. When you’re sitting on the block you are not allowed to rest your hands in your lap for support, andthe on-duty soldiers carry out orders to the letter. You can all try sitting on a block, or a stool, without resting your hands, so that you only have the strength of your back to support you. An hour is fine. What about ten hours, a hundred hours, a thousand hours? Few of you will be able to imagine it. If you aren’t cooperative during an interrogation, all they have to do is to put you on that block, and you will succumb to their control.</span></p>
+<p><span style="font-weight:400;">I’ll give an example. Once I asked to revise an interrogation transcript. They beat me and boxed my ears. For more than ten days after they only gave me half rations, nothing more than a few bites of vegetables and one small steamed bun or a few mouthfuls of rice. For 16 hours, from morning to night, I had to sit, and when I slept I had to hold a posture as dictated by the guards. They asked me to sit on the block like a soldier: head up, chest out, back straight, hands on knees. Except for using the bathroom, I was not allowed to move at all from 6 a.m. to 10 p.m. In the end I sat so long that my legs tingled and went numb. When I had to relieve myself, I physically couldn’t. They don’t have to beat you and they don’t have to curse at you. All they have to do is make you keep sitting like that. You’ll either die or be crippled. </span></p>
+<p><b>Interrogation Questions</b></p>
+<p><span style="font-weight:400;">Day after day the interrogations went on. Starting with my lawsuit against Jiang Zemin (江泽民) for violating the constitution and popular will by staying on as chair of the Central Military Commission in 2003, to the 2005 signature campaign to help lawyer Zhu Jiuhu (朱久虎), to advocating for direct election of members of the Beijing Lawyers Association in 2008, to signing </span><i><span style="font-weight:400;">Charter 08</span></i><span style="font-weight:400;">, to the China Human Rights Lawyers Group, to human rights cases I had taken on over the years, to rescuing fellow lawyers, to petitions, to letters of appeal I had written, like the one calling for Tang Jitian (唐吉田) to have his right to practice law reinstated, and the one calling for the release of Chen Yongzhou (陈永洲) and the protection of his rights as a journalist; from raising funds at a seminar in Zhengzhou for the lawyers detained in Jiansanjiang (建三江), to Liu Jiacai’s (刘家财) incitement of subversion case, to Zhang Xiangzhong’s case (张向忠), to Falun Gong cases, to Xu Dong’s case (许东), to the Qing’an shooting (庆安), and on and on, and then to taking the position of legal advisor in Qin Yongmin’s organization Human Rights Observer (秦永敏，人权观察), to helping Qin Yongmin himself; from giving interviews to foreign media, to my participation in academic symposia in Hong Kong, to my compilation of </span><i><span style="font-weight:400;">Roads of Faith</span></i><span style="font-weight:400;"> (《信仰之路》), to the articles on peaceful democratic transition I had posted online, and even to a dinner I had organized in Beijing in early 2015—they asked me about all of these.</span></p>
+<p><span style="font-weight:400;">When they asked about other people—who was at a particular event, who had participated—my default answer was: I don’t know, I couldn’t quite remember. I insisted on this during the endless interrogations, but as long they didn’t get what they wanted they wouldn’t stop. When they had tried everything, when they had asked me repeatedly and I wouldn’t comply, they brought printouts from the internet, my communication history, online records, to verify with me one by one. They were the ones who brought up theoe names, but in the interrogation transcripts, they made it look as though I had given these names to them. Later, they didn’t even bother to play this trick; instead they would simply type up “transcripts” and have me sign them.</span></p>
+<p><span style="font-weight:400;">But early on and often I vowed to them that I wouldn’t hurt anyone. I insisted that my actions had nothing to do with anyone else, that I’d take full responsibility for all my deeds, that I respect the facts and the law, and that I would not shirk my own problems. </span></p>
+<p><span style="font-weight:400;">They took great pains with me, because they also had to report to their superiors. If I didn’t sign, that meant I didn’t comply, and that would be their failure. They told me if I made it difficult for them, they wouldn’t let me go. If I had a bad attitude, they had all sorts of ways to torment me. Once you’re in the detention center, if you don’t cooperate, they punish all the inmates in the same cell and don’t let them have daily yard time. In short, they had a thousand different ways to force me to submit, but one thing is certain: during more than a year and a half of interrogations , I didn’t identify a single person, and I didn’t give them a single piece of information that would implicate anyone else.</span></p>
+<p><span style="font-weight:400;">Their method is to turn everything upside-down inspecting your computer, your phone, your books, your possessions, your contacts, all records of your life. From elementary to high school, your parents, your family, your relatives, your friends, everything about you is in their grasp. It is a boundless war (超限战), meaning there is nothing they won’t do to get what they want. For example, they showed me photos of my newborn daughter, videos of my son in class and playing the horsehead fiddle; and they threatened to detain my wife, Yuan Shanshan (原珊珊). That nearly broke me.</span></p>
+<p><b>Walking</b></p>
+<p><span style="font-weight:400;">Walking was the only diversion I had.  Except for when they forbade me to move at all, every day I asked the two soldiers for permission to walk back and forth the two or three meters between my two minders. By my rough estimate, I must have walked at least a couple of thousand kilometers during my six months of secret detention. At first walking was one of the greatest pleasures, but later on I walked so much I hurt the ligaments in my knees. But still I told myself to keep walking. I was afraid that they would take away this one small freedom from me.</span></p>
+<p><b>Disappearing Money</b></p>
+<p><span style="font-weight:400;">In February or March 2016, Lieutenant Yan and Officer Li came and had me inventory my credit cards, bank cards, ID card, household registration, and personal records, and had me sign a statement about my confiscated possessions. They said as soon as I signed they would send everything back to my wife. I noticed right away they didn’t have a laundry list of the items, yet this document I had to sign stated that “all of the above-mentioned items were on my person [at the time of my detention].” I didn’t know whether to laugh or cry, but I objected immediately. It was summer when they detained me and I was only wearing shorts. I had had nothing on me besides my keys and some loose change. In any case, it makes no sense for anyone to carry his or her household registration and personal files. But if I didn’t sign they wouldn’t send anything back. My wife had to care for our three children and she doesn’t work. She needed those documents. I had no choice but to sign. When I got out, however, I saw that hundreds of thousands of </span><i><span style="font-weight:400;">yuan</span></i><span style="font-weight:400;"> had vanished from my bank account. I heard that Chen Guiqiu (陈桂秋), lawyer Xie Yang’s wife (谢阳), also saw all her savings evaporate overnight. To this day, the bank has been evading my inquiries about my account activities during my detention. </span></p>
+<p><b>Red Vests </b></p>
+<p><span style="font-weight:400;">All of the 709 detainees wore red vests in the detention center. Ordinary criminals wear blue vests; death row inmates and people convicted in certain corruption cases, like the 2015 Tianjin explosions, wear yellow; and inmates who are ill wear green. Red is for the highest level of inmates, the ones dealt with most strictly. My vest number was 166. I know that Wu Gan’s (吴淦) is 161 and Xing Qingxian’s (幸清贤) is 169. I was in cell C5. One of them was probably in C6, the other in C7. We were all close by, but red vests were forbidden from seeing each other and were questioned separately. I had to ask permission to do anything, including drinking water or using the toilet. The HD cameras set up in the cell monitored our every move. Every day when I had to relieve myself, the on-duty cellmate would go to the intercom by the door and report this to the discipline officer. Once the discipline officer approved, two cellmates would lead me to the bathroom, one in front of me and one behind. I never spent a cent on anything in the detention center, both in protest of the substandard meals and of the unsightly one-upmanship that went on among my fellow inmates. I went on eating my ration of cabbage every day. It was true that, several times, the detention center sent me food and supplies (I suppose they did the same for the other 709 detainees, too), and on those occasions I’d have a share for myself and distribute the rest among my cellmates. And the moldy peanuts my cellmates threw away were my favorite treat.</span></p>
+<p><b>Confession</b></p>
+<p><span style="font-weight:400;">People have asked me if I gave any oral or written confessions. In those 500 long days, I wrote at least two notes of repentance. For the first one I wrote the bare minimum. I didn’t use words like “confess” or “repent,” and I put the primacy of human rights, peaceful democracy, and the rule of law at the core of my self-criticism. They weren’t satisfied and forced me to write another note. In the second one I admitted that I had incited subversion by advocating for peaceful democracy in my writings. At last, when I had done what they had asked, they didn’t forget to make me title it “Note of Repentance.”</span></p>
+<p><span style="font-weight:400;">Let me explain my thinking at the time: First, I wanted to make things a bit easier in case I had to stand trial, the sooner to rejoin my family. Second, I told myself that I had to get out and bear witness to the torture we were suffering, to keep the public’s attention on my peers still in prison, to help others avoid this treatment, and to pave the way for this whole injustice to be reversed! Third of all, I was completely cut off from the outside world. They found all kinds of ways to keep me in submission: not letting the cell block out for exercise if I was uncooperative; telling me everyone else had been released except for me; showing me the videos of the trials of Zhai Yanmin (翟岩民), Hu Shigen (胡石根), Zhou Shifeng (周世锋), and Gou Hongguo (勾洪国), and of Wang Yu’s (王宇) televised interview, and showing me their confessions and notes of repentance; playing me videos of my kids; showing me the photo of my newborn daughter; and on and on.</span></p>
+<p><span style="font-weight:400;">Once they dressed me up and taped me reading a statement they had prepared. They promised me up and down that the video was only for their superiors, not for the public. They made me write things and videotape things. I once told them in no unclear terms that all of this wasn’t about my own needs but about their superiors’. To me, whether I was inside or outside prison I would shoulder my responsibility just the same, and neither was easy.</span></p>
+<p><b>Courtroom Dream</b></p>
+<p><span style="font-weight:400;">As I watched Hu Shigen’s trial, I was stunned, and inspired, by the look in his eyes. I also made plans for the worst. In the court, Mr. Hu admitted that he was guilty of subversion of state power, but he also used the opportunity to lay out his political theory, turning CCTV and many other  state media outlets into his podium. He expounded on </span><a href="https://chinachange.org/2016/09/11/what-is-hu-shigen-thought-and-the-topple-the-wall-movement-anyway/"><span style="font-weight:400;">the three factors of peaceful transition </span><span style="font-weight:400;">to a constitutional democracy</span> <span style="font-weight:400;">and the five proposals</span></a><span style="font-weight:400;">. I thought that if the day came for me to stand trial, I would do the same as Mr. Hu and present to the public the concept of peaceful democracy and the policies to implement it. It was just like they say, seek and you shall find, a result befitting my years of devotion to the effort to realize peaceful democracy in China. I imagined the scene in the courtroom. If my family could be there too, I would also tell my children, “Daddy loves you. Daddy can’t go fishing or catch grasshoppers with you anymore. Daddy is doomed to miss your childhood. But Daddy hopes you will remember that conscience has no price.”</span></p>
+<p><b>Troubled Interrogators</b></p>
+<p><span style="font-weight:400;">The interrogators, I sensed, were not at ease doing what they did. From the highest to the lowest, they were beholden to personal interest, force, and power. They had no moral sense, each ready to jump ship if he had to save himself. The 709 case, I would say, was a hot potato from the very start. I was questioned by people who called themselves Old Jiang and Cao Jianguang (both from Beijing), Old Wang (who turned out to be surnamed Yan), Liu Bo (Lieutenant Liu), Officer Li (Tianjin), and two or three others whose names I don’t know. There was also one from the Ministry of Public Security who might have been surnamed Liu, who recited the </span><a href="https://en.wikipedia.org/wiki/Heart_Sutra"><i><span style="font-weight:400;">Heart Sutra</span></i></a><span style="font-weight:400;"> for me. They said that, year in and year out, they dealt with cases involving the big tigers, the highest-level officials. They were clearly not just ordinary public security bureaucrats. The thing is, though these insiders looked and acted strong, they knew full well that they were breaking the law and that this time they were facing extraordinary opponents. I could sense that nearly every one of them wavered at one time or the other, feeling tormented themselves and not knowing what to do. Then there were the armed police who guarded me. Except for the cruelty of the imprisonment itself, I clearly sensed their conscience, their natural goodness, and their disapproval of the atrocities perpetrated against me. </span></p>
+<p><b>Residential Surveillance at a Designated Place</b></p>
+<p><span style="font-weight:400;">This coercive practice known as “Residential Surveillance at a Designated Place” is probably rooted in intraparty struggles and corruption investigations. In recent years it has spread and been legalized. In Party parlance this form of custody is known as “double designation” (双规) or “to be isolated and investigated.” It can be perverse or straightforward, lax or strict. It all depends on the demands and preferences of whoever’s in charge. It is essentially domestic discipline—extrajudicial punishment.</span></p>
+<div data-shortcode="caption" id="attachment_15873" style="width: 410px" class="wp-caption alignright"><img data-attachment-id="15873" data-permalink="https://chinachange.org/2017/10/15/a-record-of-709/xie-yanyi-returns-home-to-wife-and-children/" data-orig-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg?w=730" data-orig-size="400,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Xie Yanyi, returns home to wife and children" data-image-description="" data-medium-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg?w=730?w=300" data-large-file="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg?w=730?w=400" class=" size-full wp-image-15873 alignleft" src="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg?w=730" alt="Xie Yanyi, returns home to wife and children" srcset="https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg 400w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg?w=150 150w, https://chinachangedotorg.files.wordpress.com/2017/10/xie-yanyi-returns-home-to-wife-and-children.jpg?w=300 300w" sizes="(max-width: 400px) 100vw, 400px"   /><p class="wp-caption-text">Xie Yanyi was released in January 2017.</p></div>
+<p><span style="font-weight:400;">When you are under residential surveillance at a designated place, such as I was, there is no outside mechanism to monitor the process, no channel for relief, not even a legal mechanism to protect your health or your sanity. Your family and your lawyers are left in the dark, unable to meet or communicate with you. No one even knows if you’re alive or dead. In the process abuse and torture are inevitable. This is why cases continuously emerge of unusual deaths, mental illness, and bodily harm occurring during the residential surveillance. </span></p>
+<p><b>I Challenge You</b></p>
+<p><span style="font-weight:400;">Since I was released I’ve felt conflicted. I wanted to expose these crimes, but I didn’t want to hurt anyone, not even the perpetrators. After much consideration, I still decided to speak what I know, because even exposing the criminals would benefit their children and their grandchildren. I would like here to address the head of the Tianjin Public Security Bureau, Zhao Fei (天津市公安局局长赵飞), and his subordinates: I believe that yourselves and the special investigators all have the qualifications, as well as the duty, to stand up and explain the 709 case to your superiors, including the Supreme People’s Procuratorate, the Central Committee of the CCP, the Central Commission for Discipline Inspection, and the entire nation. What happened? What exactly did these lawyers and citizens do? Is what they have done legal or illegal? Reach into your conscience and tell us: Are their actions and conduct truly harmful to a country, a people, a society? Were they defending the rule of law and human rights, or were they committing crimes? Who exactly is afraid of them? Who ordered you to torture these lawyers and citizens? What were you trying to accomplish? Why did you pick Tianjin to handle the 709 case, as it went against procedural law? Who made that decision?</span></p>
+<p><span style="font-weight:400;">Director Zhao Fei, I demand that you stand up and tell your fellow countrymen why you let torture happen under your watch. What was going on in the room (the torture chamber) above Room 8 from October 1 to 10? What happened to Hu Shigen? What happened to Wang Quanzhang? What was the plan for 709 crackdown? Who planned the Cultural Revolution-style trials of public opinion and the media smear campaigns? How did you get government-appointed lawyers involved? Whose despicable idea was it to force some of us to confess and to televise the confessions? Who gave you the right to tape the 709 detainees? You didn’t even make exceptions for the young paralegals Zhao Wei (赵威) and Li Shuyun (李姝云). You labelled these 20-somethings subverters of state power. Who decided to turn everyone into an enemy of the state? Who decided to charge us with picking quarrels and provoking troubles first, then switch the charge to inciting subversion of state power, and finally to subversion of state power itself? As a law enforcer, did you give expert legal advice to your superiors? Who ordered the cruel and criminal treatment of the detainees—the secret detentions, the starvation, the sleeping postures, the ban on movement, the 16-hour sessions of sitting like a soldier? Who ordered that we be forced to sign the transcripts of our interrogations, deprived of our right to petition, deprived of our right to defense, forced to take medicine? Who ordered you to appoint lawyers for us against our will and devise all kinds of tactics to intimidate us? Who sent the procurators and special investigators to coax me and try to change my mind? When you confiscated my possessions, why didn’t you inventory my credit cards, my bank card, my ID and all the other items? Why haven’t you returned what you took from me? Who gave you the right to monitor the phones and online communications of citizens?</span></p>
+<p><b>Calm in the Storm </b></p>
+<p><span style="font-weight:400;">My time inside was hard to endure. The detention center is a bit better; residential surveillance is much worse. Truth be told, I was eager to leave my imprisonment the first three months, but then I slowly settled down. After I got to the detention center they continued to interrogate me regularly and try to persuade me to do their bidding. They even enlisted my cellmates and the discipline officer to change my mind. I told them that they were the ones who were fretting over gains and losses, and that, for me, it wouldn’t matter if things turned out to be one way or the other. At this age, I told them, I shoulder my responsibility when I’m on the outside, and I do the same when I was sitting in prison. Sitting in prison might even be a bit easier and quieter. </span></p>
+<p><span style="font-weight:400;">Having reached an equilibrium, I really look down on them: some of their ideas and ways of doing things are so low and so despicable. They aren’t worthy opponents in intelligence or ability. I pity them more and more. They deceive, they bluff and they fret. They put on an act in front of me. As for me, I have learned from experience the power of the Dao: the have-nots conquer the haves, the calm conquer the restless, the weak conquer the strong.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size:14px;"><em>Excerpted and translated from <a href="http://www.rosechina.net/jd/szrd/2017-09-05/9209.html">Chinese</a> by China Change. </em></span></p>
+<p>&nbsp;</p>
+<hr />
+<p>Related:</p>
+<p><a href="https://chinachange.org/2017/01/19/transcript-of-interviews-with-lawyer-xie-yang-1/"><i>Transcript of Interviews with Lawyer Xie Yang (1)</i></a> – Arrest, Questions About Chinese Human Rights Lawyers Group, January 19, 2017.</p>
+<p><a href="https://chinachange.org/2017/01/20/transcript-of-interviews-with-lawyer-xie-yang-2/"><i>Transcript of Interviews with Lawyer Xie Yang (2)</i></a> – Sleep Deprivation, January 20, 2017.</p>
+<p><a href="https://chinachange.org/2017/01/21/transcript-of-interviews-with-lawyer-xie-yang-3-dangling-chair-beating-threatening-lives-of-loved-ones-and-framing-others/"><i>Transcript of Interviews with Lawyer Xie Yang (3)</i></a> – Dangling Chair, Beating, Threatening Lives of Loved Ones, and Framing Others, January 21, 2017.</p>
+<p><a href="https://chinachange.org/2017/01/22/transcript-of-interviews-with-lawyer-xie-yang-4-admit-guilt-and-keep-your-mouth-shut/"><i>Transcript of Interviews with Lawyer Xie Yang (4) – Admit Guilt, and Keep Your Mouth Shut</i></a>, January 22, 2017</p>
+<p><a href="https://chinachange.org/2015/07/23/crime-and-punishment-of-chinas-rights-lawyers/"><em>Crime and Punishment of China’s Rights Lawyers</em></a>, Mo Zhixu, July 23, 2015.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sd-block sd-rating"><h3 class="sd-title">Rate this:</h3><div class="pd-rating" id="pd_rating_holder_6984108_post_15844"></div></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://chinachange.org/2017/10/15/a-record-of-709/" data-text="A Record of 709" data-via="chinachange_org" data-related="wordpressdotcom">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://chinachange.org/2017/10/15/a-record-of-709/" data-layout="button_count"></div></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button" href="https://chinachange.org/2017/10/15/a-record-of-709/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button" href="https://chinachange.org/2017/10/15/a-record-of-709/?share=email" target="_blank" title="Click to email"><span>Email</span></a></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?width=120&amp;url=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F&amp;title=A%20Record%20of%20709" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://chinachange.org/2017/10/15/a-record-of-709/" data-counter="right"></script></div></li><li class="share-telegram"><a rel="nofollow" data-shared="" class="share-telegram sd-button" href="https://chinachange.org/2017/10/15/a-record-of-709/?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button" href="whatsapp://send?text=A%20Record%20of%20709 https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>	</div><!-- end .entry-content -->
+
+	<div class="entry-meta">
+		<p class="tags"><strong>Tags:</strong> <a href="https://chinachange.org/tag/709-crackdown/" rel="tag">709 crackdown</a>, <a href="https://chinachange.org/tag/709-incident/" rel="tag">709 Incident</a>, <a href="https://chinachange.org/tag/china/" rel="tag">China</a>, <a href="https://chinachange.org/tag/forced-confession/" rel="tag">forced confession</a>, <a href="https://chinachange.org/tag/hu-shigen/" rel="tag">Hu Shigen</a>, <a href="https://chinachange.org/tag/human-rights-lawyers/" rel="tag">human rights lawyers</a>, <a href="https://chinachange.org/tag/residential-surveillance/" rel="tag">residential surveillance</a>, <a href="https://chinachange.org/tag/rule-of-law-2/" rel="tag">rule of law</a>, <a href="https://chinachange.org/tag/secret-detention/" rel="tag">secret detention</a>, <a href="https://chinachange.org/tag/tianjin/" rel="tag">Tianjin</a>, <a href="https://chinachange.org/tag/torture/" rel="tag">torture</a>, <a href="https://chinachange.org/tag/xie-yang/" rel="tag">Xie Yang</a>, <a href="https://chinachange.org/tag/xie-yanyi/" rel="tag">Xie Yanyi</a>, <a href="https://chinachange.org/tag/yuan-shanshan/" rel="tag">Yuan Shanshan</a></p><span class="by-author">By <span class="author vcard"><a class="url fn n" href="https://chinachange.org/author/yaxuecao/" title="View all posts by China Change" rel="author">China Change</a></span> </span>in <span class="category"><a href="https://chinachange.org/category/uncategorized/" rel="category tag">Uncategorized</a></span> on <span class="datetime"><a href="https://chinachange.org/2017/10/15/a-record-of-709/" title="9:31 pm" rel="bookmark"><time class="entry-date" datetime="2017-10-15T21:31:49+00:00" pubdate>October 15, 2017</time></a></span>.	</div><!-- end .entry-meta -->
+
+</div><!-- end #post-## -->
+		<div class="navigation clearfix">
+			<span class="alignleft"><a href="https://chinachange.org/2017/10/11/notes-from-prison-part-two-of-two/" rel="prev"><span class="meta-nav">&larr;</span> Notes From Prison (Part Two of&nbsp;Two)</a></span>			<span class="alignright"><a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/" rel="next">Twenty-Eight Years After – An Interview With Wang&nbsp;Dan <span class="meta-nav">&rarr;</span></a></span>		</div><!-- end .navigation -->
+
+		
+<div id="comments">
+
+	<hr />	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/10/15/a-record-of-709/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://chinachange.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="c2a89e5f6b" /><input type="hidden" name="_wp_http_referer" value="/2017/10/15/a-record-of-709/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='15844' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="48fbe7d0cc" /></p>
+<input type="hidden" name="genseq" value="1509095206" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="202"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+	</div><!-- end .column-content -->
+
+		<div class="column column-narrow column-last">
+		<div id="blog_subscription-2" class="widget clearfix widget_blog_subscription"><h3 class="heading"><label for="subscribe-field">Follow Blog via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="45895295"/>
+						<input type="hidden" name="source" value="https://chinachange.org/2017/10/15/a-record-of-709/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="8c46d6292a" />						<input type="submit" value="Follow" />
+					</p>
+				</form>
+			
+</div>		<div id="recent-posts-3" class="widget clearfix widget_recent_entries">		<h3 class="heading">The Latest</h3>		<ul>
+											<li>
+					<a href="https://chinachange.org/2017/10/25/twenty-eight-years-after-an-interview-with-wang-dan/">Twenty-Eight Years After – An Interview With Wang&nbsp;Dan</a>
+											<span class="post-date">October 25, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/15/a-record-of-709/">A Record of&nbsp;709</a>
+											<span class="post-date">October 15, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/11/notes-from-prison-part-two-of-two/">Notes From Prison (Part Two of&nbsp;Two)</a>
+											<span class="post-date">October 11, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/10/notes-from-prison-part-one-of-two/">Notes From Prison (Part One of&nbsp;Two)</a>
+											<span class="post-date">October 10, 2017</span>
+									</li>
+											<li>
+					<a href="https://chinachange.org/2017/10/09/china-pushes-human-rights-with-chinese-characteristics-at-the-un/">China Pushes &#8216;Human Rights With Chinese Characteristics&#8217; at the&nbsp;UN</a>
+											<span class="post-date">October 9, 2017</span>
+									</li>
+					</ul>
+		</div><div id="categories-3" class="widget clearfix widget_categories"><h3 class="heading">Categories</h3>		<ul>
+	<li class="cat-item cat-item-38024194"><a href="https://chinachange.org/category/academic-freedom-2/" >Academic Freedom</a>
+</li>
+	<li class="cat-item cat-item-172766179"><a href="https://chinachange.org/category/analyses-and-opinions/" >Analyses and Opinions</a>
+</li>
+	<li class="cat-item cat-item-35260749"><a href="https://chinachange.org/category/civil-society-2/" >Civil Society</a>
+</li>
+	<li class="cat-item cat-item-198600"><a href="https://chinachange.org/category/economy-development/" >Economy &amp; Development</a>
+</li>
+	<li class="cat-item cat-item-1342"><a href="https://chinachange.org/category/education/" >Education</a>
+</li>
+	<li class="cat-item cat-item-34931755"><a href="https://chinachange.org/category/elections-2/" >Elections</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="https://chinachange.org/category/environment/" >Environment</a>
+</li>
+	<li class="cat-item cat-item-2311"><a href="https://chinachange.org/category/government/" >Government</a>
+</li>
+	<li class="cat-item cat-item-7497"><a href="https://chinachange.org/category/hong-kong/" >Hong Kong</a>
+</li>
+	<li class="cat-item cat-item-44071434"><a href="https://chinachange.org/category/human-rights-civil-rights/" >Human Rights &amp; Civil Rights</a>
+</li>
+	<li class="cat-item cat-item-194373"><a href="https://chinachange.org/category/internet-freedom/" >Internet Freedom</a>
+</li>
+	<li class="cat-item cat-item-831"><a href="https://chinachange.org/category/interviews/" >Interviews</a>
+</li>
+	<li class="cat-item cat-item-54090356"><a href="https://chinachange.org/category/labor-rights-2/" >Labor rights</a>
+</li>
+	<li class="cat-item cat-item-10257"><a href="https://chinachange.org/category/lgbt/" >LGBT</a>
+</li>
+	<li class="cat-item cat-item-10057478"><a href="https://chinachange.org/category/political-transition/" >Political Transition</a>
+</li>
+	<li class="cat-item cat-item-17269"><a href="https://chinachange.org/category/press-freedom/" >press freedom</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="https://chinachange.org/category/religion/" >Religion</a>
+</li>
+	<li class="cat-item cat-item-2201"><a href="https://chinachange.org/category/reports/" >Reports</a>
+</li>
+	<li class="cat-item cat-item-211071"><a href="https://chinachange.org/category/rule-of-law/" >Rule of Law</a>
+</li>
+	<li class="cat-item cat-item-1495"><a href="https://chinachange.org/category/taiwan/" >Taiwan</a>
+</li>
+	<li class="cat-item cat-item-244845"><a href="https://chinachange.org/category/tibetan/" >Tibetan</a>
+</li>
+	<li class="cat-item cat-item-3295040"><a href="https://chinachange.org/category/uighurs/" >Uighurs</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://chinachange.org/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-35335758"><a href="https://chinachange.org/category/womens-rights-2/" >Women&#039;s rights</a>
+</li>
+		</ul>
+</div>	</div><!-- end .column-narrow -->
+	
+	
+</div><!-- end #content -->
+
+			<div id="footer" class="clearfix">
+								<div id="footer-column"><div id="text-13" class="widget clearfix widget_text">			<div class="textwidget"> <p style="font-size:21px;font-weight:bold;color:#073b68;"> Suggested Sites</p></div>
+		</div><div id="rss-2" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="https://www.nchrd.org/feed/" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="https://www.nchrd.org" title="">Chinese Human Rights Defenders</a></h3><ul><li><a class='rsswidget' href='https://www.nchrd.org/2017/10/re-education-camps-make-a-comeback-in-chinas-far-west/' title='Originally published by UCA News on October 24, 2017 In the Xinjiang Uyghur Autonomous Region, so called political re-education camps have been proliferating in the lead up to the 19th Communist Party Congress. The Chinese government’s aim is to streamline ideology in an area it perceives to be troubled by Islamic   (read more...)'>Re-education camps make a comeback in China’s far-west</a></li></ul></div><div id="rss-3" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="http://chinadigitaltimes.net/feed/" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="http://chinadigitaltimes.net" title="Covering China from Cyberspace">China Digital Times</a></h3><ul><li><a class='rsswidget' href='http://chinadigitaltimes.net/2017/10/voice-recognition-social-credit-tech-xis-second-term/' title='As Xi Jinping begins his second term with apparently peerless personal power, The Wall Street Journal’s Li Yuan identifies a number of trends likely to characterize the development'>Voice Recognition, Social Credit, and Tech in Xi’s Second Term</a></li></ul></div><div id="rss-4" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="https://www.cecc.gov/rss.xml" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="https://www.cecc.gov/rss.xml" title="">Congressional-Executive Commission on China</a></h3><ul><li><a class='rsswidget' href='https://www.cecc.gov/publications/annual-reports/2017-annual-report' title='Congressional-Executive Commission on China 2017 ANNUAL REPORT   I. Executive Summary &amp; Highlighted Policy Recommendations and Political Prisoner Cases Chapter Findings and Recommendations Political Prisoner Database II. Human Rights Freedom of Expression Worker Rights Criminal Justice Freedom of Religion Ethnic Minority Rights Population Control Freedom [&hellip;]'>2017 Annual Report </a></li></ul></div><div id="rss-5" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="http://www.hrichina.org/en/rss.xml" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="http://www.hrichina.org" title="">Human Rights in China 中国人权 | HRIC</a></h3><ul><li><a class='rsswidget' href='http://www.hrichina.org/en/dnb/commentary-ping-lun-197' title='封建官吏推動的現代化 — 論中共十九大 (On 19th party congress: Modernization forwarded by feudalistic bureaucrats)Inmediahk, October 27, 2017https://www.inmediahk.net/node/1052963 Friday, October 27, 2017 http://hric-newsbrief.blogspot.com/2017/10/commentary_27.html Commentary Government Accountability 政府问责 评论 [&hellip;]'>Commentary (评论)</a></li></ul></div><div id="rss-6" class="widget clearfix widget_rss"><h3 class="heading"><a class="rsswidget" href="http://www.chinaaid.org/feeds/posts/default?alt=rss" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="http://www.chinaaid.org/" title="ChinaAid is an international non-profit Christian human rights organization committed to promoting religious freedom and rule of law in China. We believe that religious freedom is the first freedom, which lays the foundation for all other basic human rights.">ChinaAid</a></h3><ul><li><a class='rsswidget' href='http://www.chinaaid.org/2017/10/breitbart-after-branding-christianity.html' title='Breitbartby Frances Martel24 Oct 2017The Chinese Communist Party (CPC) Congress this week has largely focused on the development of Chinese “exceptionalism,” the development of “socialism with Chinese characteristics,” and the imposition of uniform identity through a sense of cultural and national superiority.Far from the scope of free religious expression i [&hellip;]'>Breitbart: After Branding Christianity a ‘National Security’ Threat, China Moves to ‘Sinicize’ Religion</a></li></ul></div><div id="text-16" class="widget clearfix widget_text">			<div class="textwidget"><div style="height:200px;width:200px;"></div></div>
+		</div><div id="blog-stats-4" class="widget clearfix widget_blog-stats"><h3 class="heading"> Total Pageviews: </h3>		<ul>
+			<li>866,225 </li>
+		</ul>
+		</div><div id="text-15" class="widget clearfix widget_text"><h3 class="heading">Read in:</h3>			<div class="textwidget">216 countries and territories</div>
+		</div><div id="blog_subscription-3" class="widget clearfix widget_blog_subscription"><h3 class="heading"><label for="subscribe-field-2">Subscribe to China Change via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog-2">
+											<p>Enter your email address to subscribe to China Change and receive new articles by email.</p>
+<p>Join 2,202 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field-2"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="45895295"/>
+						<input type="hidden" name="source" value="https://chinachange.org/2017/10/15/a-record-of-709/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="8c46d6292a" />						<input type="submit" value="Subscribe to China Change" />
+					</p>
+				</form>
+			
+</div></div>
+				
+								<p class="copy">
+					<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+									</p>
+			</div><!-- end #footer -->
+		</div><!-- end #wrap -->
+
+		<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201743y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/chinachangedotorg.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"https:\/\/chinachange.org\/","postID":"15844","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="45895295" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://chinachange.org" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="China Change" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="efeac732b2" /><input type="hidden" name="_wp_http_referer" value="/2017/10/15/a-record-of-709/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
+PDRTJS_settings_6984108_post_15844={"id":6984108,"unique_id":"wp-post-15844","title":"A%20Record%20of%26nbsp%3B709","permalink":"https:\/\/chinachange.org\/2017\/10\/15\/a-record-of-709\/","item_id":"_post_15844"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_6984108_post_15844 == 'undefined' ){PDRTJS_6984108_post_15844 = new PDRTJS_RATING( PDRTJS_settings_6984108_post_15844 );}}
+//--><!]]></script><script type='text/javascript' charset='UTF-8' src='https://polldaddy.com/js/rating/rating.js'></script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/chinachange.org\/2017\/10\/15\/a-record-of-709\/":15844};
+	</script>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+					<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/2017/10/15/a-record-of-709/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type="text/javascript">
+			jQuery( document ).ready( function() {
+			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {
+			        IN.init();
+			    });
+			});
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( typeof IN != 'undefined' )
+					IN.parse();
+			});
+			</script>		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-telegram' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"45895295","siteName":"China Change","siteURL":"https:\/\/chinachange.org","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/f79e60a2266ebb41a2f2a629edc00a11?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/academica","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F","themeURL":"","xhrURL":"https:\/\/chinachange.org\/wp-admin\/admin-ajax.php","nonce":"daada304f0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"8c46d6292a\" \/>","referer":"https:\/\/chinachange.org\/2017\/10\/15\/a-record-of-709\/","canFollow":"1","feedID":"11500406","statusMessage":"","customizeLink":"https:\/\/chinachangedotorg.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fchinachangedotorg.wordpress.com%2F2017%2F10%2F15%2Fa-record-of-709%2F","postID":"15844","shortlink":"http:\/\/wp.me\/p36zsH-47y","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/chinachange.org\/15844","statsLink":"https:\/\/wordpress.com\/stats\/post\/15844\/chinachange.org","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Academica","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 2,202 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/chinachange.org\/wp-admin\/admin-ajax.php","nonce":"4061cb636f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/chinachangedotorg.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fchinachange.org%2F2017%2F10%2F15%2Fa-record-of-709%2F","blog_id":"45895295","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=45895295&v=wpcom&tz=-4&user_id=0&subd=chinachangedotorg","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9UNFOwzAM/CFSd4IJeEB8CsoSb3UbJ8FxNvb3pIKOCk19snW+O58Nl2xciopRYSzg8UwO81c3lgdYjbiaHOqJYoFAExb4rFhxsNEHlP9kHZAbJdcDWGc9Mjk7mzPGunApulB9YzXcJW4jNYI5XDumuLF9RM3WTfDRDEAvpIpilBgDRdzQWd98zcEKsC1N0zqTzihCc4gbtuXglFKcHW7dvWNK/su/xsf2Mbn+lm7NurPLWUm1YFjONQuwlW+iwqjmset/vnNMwhv8nIqaY7AkUAYrFE9LbaJ3ftvt+5fn133/tBu/ATDPzNA='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'45895295','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'45895295','v':'wpcom','tz':'-4','user_id':'0','post':'15844','subd':'chinachangedotorg'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlRktraSZvRSxBQTdSZy1GV1NuaFRQTllEfk9VbFtEaGFHTGhnNFlrY3h6dWcmRXpLfnlXYkljT1lSa0FQZDhKRDMmZlozLSx8ME5iZFN4Tmp5MVRTVHk5cTZzfCsyUmpZVTlGQ0RPY0V6bUFrTDdBdVJ+fmUxSTVscy1VN1tiMHw1NXFwWzhIMTNoX0RrV09nYTQ0Vkp1ZHpyZndGaXQ/LEM4UVdPaVByV2lUV25YUjR5W2smLXE9Z11uLnhLRD9EckxHSi8tMzN0cTdhLUJvaEQvd25jTDZVYnBbNTlqcXFoMjhzLEQuVmN1PWNSWHZNNF1NVUZnT2hdbmYt'}]);
+_stq.push([ 'clickTrackerInit', '45895295', '15844' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>	</body>
+</html>

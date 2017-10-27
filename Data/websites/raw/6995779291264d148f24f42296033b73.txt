@@ -1,0 +1,387 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="gb2312">
+	<title>Monthly salary of white collars rises to 7,599 yuan </title>
+	<meta name="description" content="Monthly salary of white collars rises to 7,599 yuan ">
+	<link rel="stylesheet" type="text/css" href="/css/master.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/css/layout.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/css/focus.css" media="all" />
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/date.js"></script>
+	<script type="text/javascript" src="/js/head.js"></script>
+	<script src="/js/slide.js" type="text/javascript"></script>
+<!--[886,1,277643] published at 2017-10-19 13:10:18 from #10 by ËïÌñ -->  
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+</head>
+<style>
+strong{
+font-weight: bold;
+}
+.content, .content p{color: #000;}
+a:hover{color:#069;}
+#yanse a {
+    color: #069;
+}
+.font14, .font14 a {
+    font-size: 16px;
+}
+</style>
+<body>
+<div id="navout">
+<div class="headertop">
+	<div class="floatrgt" id="imghover">
+		<span><a href="mailto:en@chinanews.com.cn" rel="mail"><img src="/images/head/mail.gif" alt="" /></a></span>
+		<span><a href="http://www.ecns.cn/rss/rss.xml" rel="rss"><img src="/images/head/rss.gif" alt="" /></a></span>
+
+        <script type="text/javascript"> 
+<!--
+function submitFun() {
+var hotword=document.getElementsByName('q')[0].value;
+if (hotword==''){
+alert('key word!');
+return false;
+}else{
+ window.open("http://search.ecns.cn/search.do?q="+encodeURIComponent(hotword));
+}
+}
+-->
+</script>
+
+		<span class="inputbox"><input class="inputwid" type="text" value="Search Ecns" onFocus="if (value =='Search Ecns'){value =''}" onBlur="if (value ==''){value='Search Ecns'}" name="q" id="q" /><a href="#" target="_self" onclick="submitFun()"><input class="search" type="image" src="/images/head/search.gif" alt="" /></a></span>
+
+		<span><a href="http://twitter.com/Echinanews" rel="twitter"><img src="/images/head/twitter.gif" alt="" /></a></span>
+		<span><a href="https://www.facebook.com/echinanews" rel="facebook"><img src="/images/head/facebook.gif" alt="" /></a></span>
+		<span><a href="http://e.weibo.com/EnglishCNS" rel="weibo"><img src="/images/head/weibo.gif" alt="" /></a></span>
+	</div>
+	<a href="/"><img src="/images/head/logo.gif" alt="" /></a>
+</div>
+
+<div class="mainnavbox posr">
+	<div class="mainnavins">
+	<span class="floatrgt"><span>
+	<!--[886,4,1] published at 2017-10-19 00:01:01 from #202 by system-->
+<script>
+var mynum=window.location.search;
+var url = window.location.href;//»ñÈ¡µ±Ç°Url
+
+function GetUrlRelativePath()//»ñÈ¡µ±Ç°Ïà¶ÔÂ·¾¶µÄ·½·¨
+¡¡¡¡{
+¡¡¡¡¡¡¡¡var url = document.location.toString();
+¡¡¡¡¡¡¡¡var arrUrl = url.split("//");
+
+¡¡¡¡¡¡¡¡var start = arrUrl[1].indexOf("/");
+¡¡¡¡¡¡¡¡var relUrl = arrUrl[1].substring(start);//stopÊ¡ÂÔ£¬½ØÈ¡´Óstart¿ªÊ¼µ½½áÎ²µÄËùÓÐ×Ö·û
+
+¡¡¡¡¡¡¡¡if(relUrl.indexOf("?") != -1){
+¡¡¡¡¡¡¡¡¡¡¡¡relUrl = relUrl.split("?")[0];
+¡¡¡¡¡¡¡¡}
+¡¡¡¡¡¡¡¡return relUrl;
+¡¡¡¡}
+if(mynum ==''){
+  	var sUserAgent = navigator.userAgent;
+  	var mobileAgents = ['Windows CE', 'iPod', 'Symbian', 'iPhone', 'BlackBerry', 'Android'];
+
+  	if (sUserAgent.indexOf('Android') > -1 && (sUserAgent.indexOf('ERD79') > -1 || sUserAgent.indexOf('MZ60') > -1 || sUserAgent.indexOf('GT-P7') > -1 || sUserAgent.indexOf('SCH-P7') > -1)) {
+
+  	} else {
+
+  		if (location.href.indexOf('?pc') == -1) {
+
+  			for (var i = 0; i < mobileAgents.length; i++) {
+
+  				if (sUserAgent.indexOf(mobileAgents[i]) > -1) {
+
+  					//location = 'http://www.ecns.cn/m/';	
+
+					url=GetUrlRelativePath(url);//»ñÈ¡µ±Ç°urlµÄÏà¶ÔÂ·¾¶
+					if(url.indexOf("/m/")==0)//ÒÔ/m/¿ªÍ·
+					{
+						//alert(url);
+					}
+					else
+					{	
+						var reg_fenye=/_[0-9]*.shtml$/;	
+						if(reg_fenye.test(url))//·ÖÒ³Ìø×ªµ½µÚÒ»Ò³
+						{
+							url=url.replace(reg_fenye,".shtml");//×¢ÒâÕâ¾ä£¬reg_fenye±ØÐëµ¥¶À¶¨Òå£¬²»ÄÜÐ´ÔÚ""ÖÐ£¬·ñÔòJavaScript½«Æäµ±×öÆÕÍ¨×Ö·û´®
+						}
+						//alert(url);
+						url='http://www.ecns.cn/m'+url;
+						location = url;		
+					}
+  					break;
+
+  				}
+
+  			}
+
+  		} 
+  	}
+
+  	//var ads = [];
+}
+
+</script>
+
+
+<script type="text/javascript" src='http://www.chinanews.com/pv/js/pvnoju.js'></script>
+
+Thursday Oct 19, 2017</span>  <a href="http://www.chinanews.com/">ÖÐÎÄ</a></span>
+	<ul class="mainnav inblock">
+	    <li><a href="/">Home</a></li><li><a href="/news/">News</a></li><li><a href="/business/">Business</a></li><li><a href="/travel/">Travel</a></li><li><a href="/photo/">Photo</a></li><li><a href="/video/">Video</a></li><li><a href="/learning-Chinese/">Learning Chinese</a></li><li><a href="/voices/">Voices</a></li>
+
+	</ul>
+	</div>
+	<div class="rgtbg">RIGHT BG</div>
+</div>
+</div>
+<div class="linebox mart30">LINE</div>
+<div class="bdybox">
+	<div class="bdylft floatlft marr20">
+		<h3 class="itemtit mart20 bitemblue"><div class="textfont"><i>Text:</i><em>A</em><em>A</em><em>A</em><a href="javascript:;" onClick="print()">Print</a></div><span>ECNS Wire</span></h3>
+		<h1 class="contitle" id="contitle">Monthly salary of white collars rises to 7,599 yuan </h1>
+		<div class="downinfo dottlne">
+		<div class="floatrgt bshare-custom icon-little" index="0"><!--[886,6,22] published at 2015-06-03 15:30:23 from #10 by ÕÔÇ« -->
+<a class="bshare-sinaminiblog" title="ÐÂÀËÎ¢²©" buttonindex="0" target="_self"></a>
+<a class="bshare-twitter" title="Twitter" href="javascript:void(0);" target="_self"></a>
+<a class="bshare-facebook" title="Facebook" href="javascript:void(0);" target="_self"></a>
+<a class="bshare-reddit" title="Reddit" href="javascript:void(0);" target="_self"></a>
+
+<a class="bshare-more bshare-more-icon more-style-addthis" title="More" buttonindex="0" target="_self"></a><span style="float: none;" class="BSHARE_COUNT bshare-share-count">1</span>
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#style=-1&amp;uuid=5a0d33a3-34f0-4c06-a681-8004a9bcb4ab&amp;pophcol=2&amp;lang=en">
+</script><a class="bshareDiv" onclick="javascript:return false;"></a>
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js">
+</script></div>
+		<span>2017-10-19 11:23</span><span><!-- laiyuan-->Ecns.cn<!-- laiyuan--></span><span>
+<!--editor--><em>Editor: Mo Hong'e</em><!--editor-->
+</span><span>
+<!--app--><a href="http://www.ecns.cn/app/ecns/index.shtml" style="color:#c30000; font-weight:bold; font-size:12px;">ECNS App Download</a><!--app-->
+</span></div>
+
+		<div class="content" id="yanse">
+
+<p>(ECNS) -- A report by China's recruitment website Zhaopin.com shows that the average monthly salary of white-collar employees in 37 cities had reached 7,599 yuan ($1,147), a slight year-on-year growth of 3 percent.</p>
+
+<p>The report is based on data from job offers and seekers published on the website this autumn.</p>
+
+<p>Beijing leads other cities with a monthly salary of 9,000 yuan, followed by Shanghai, Shenzhen and Hangzhou. Haikou City in South China's Hainan Province has seen the biggest rise in rank, from 13th to 7th.</p>
+
+<p>The ratio between supply and demand of human resources was 30.4, meaning that on average, more than 30 applicants have been competing for one position in those cities. Beijing remained No. 1 and Shenzhen No. 2 in terms of competition index, with Shenyang in Liaoning Province surpassing Chengdu and Shanghai to become No. 3.</p>
+
+<p>The report shows that many cities had introduced supportive policies to attract and retain talent, driving up monthly salaries.</p>
+
+<p>The report also shows that senior managers enjoyed the highest average salary, at 20,019 yuan a month, while IT or project managers took second place with 14,127 yuan, and those working in legal and compliance fields earned 9,252 yuan.</p><div id="function_code_page"></div>
+
+ <p style="text-align:center;"><a href="https://www.facebook.com/echinanews" target="_blank"><img src="http://www.ecns.cn/part/2015/07/2015-07-23/U435P886T30D169F196DT20150723092203.jpg"></a>¡¡¡¡<a href="http://twitter.com/Echinanews" target="_blank"><img src="http://www.ecns.cn/part/2015/07/2015-07-23/U435P886T30D169F203DT20150723092203.jpg"></a></p>
+		</div>
+
+<h3 class="itemtit mart20"><span>Related news</span></h3>
+		<ul class="newslst02 newslst04 font16 mart5">
+			<li><p><a href=http://www.ecns.cn/cns-wire/2017/07-27/267007.shtml>Salary and potential trump city size among job hunters: survey</a></p><span>2017-07-27</span></li><li><p><a href=http://www.ecns.cn/cns-wire/2017/02-13/245139.shtml>Blue-collar job market booms, masseuse salary up in Shanghai</a></p><span>2017-02-13</span></li><li><p><a href=http://www.ecns.cn/2017/01-07/240525.shtml>'Salary cap' eyed for soccer imports</a></p><span>2017-01-07</span></li><li><p><a href=http://www.ecns.cn/cns-wire/2016/12-28/239384.shtml>Beijing tops China monthly salary list at $1,414: report</a></p><span>2016-12-28</span></li><li><p><a href=http://www.ecns.cn/2016/12-23/238770.shtml>Salary disputes lead to 18 homicide cases, payment delays occur mostly at year-end</a></p><span>2016-12-23</span></li><li><p><a href=http://www.ecns.cn/business/2016/12-07/236687.shtml>Slower salary hikes reflect economy</a></p><span>2016-12-07</span></li>
+		</ul>
+
+		<script type="text/javascript" src="/js/article.js"></script>
+		<script type="text/javascript" src="/js/newstab.js"></script>
+		<script type="text/javascript" src="/js/scroll.js"></script>
+		<script type="text/javascript" src="/js/slidecont.js"></script>
+		<div class="overhid">
+		<div class="picshowtit mart30"><span class="picbutt"></span><a class="frt" href="/photo/">More</a><span>Photo</span></div>
+		<div class="picshowins posr" id="picshow01">
+			<span class="buttonlft" id="lft01"><img src="/images/bg/lftbutt02.gif" alt="" /></span>
+			<div class="wid641 imgctrl" id="ctrl01">
+			<div class="contctrl" id="contctrl">
+			<ul class="picshowlist inblock">
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-19/144532.shtml"><img src="/visual/2017/10-19/U491P886T1D277641F12DT20171019111700.jpg" width="190" height="127" alt="World's most expensive handbag up for sale" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-19/144532.shtml">World's most expensive handbag up for sale</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-19/144507.shtml"><img src="/visual/2017/10-19/U542P886T1D277627F12DT20171019101218.jpg" width="190" height="127" alt="China Post issues stamps marking 19th CPC National Congress" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-19/144507.shtml">China Post issues stamps marking 19th CPC National Congress</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-19/144522.shtml"><img src="/visual/2017/10-19/U542P886T1D277626F12DT20171019101118.jpg" width="190" height="127" alt="Delegates to 19th CPC National Congress receive interview" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-19/144522.shtml">Delegates to 19th CPC National Congress receive interview</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-19/144516.shtml"><img src="/visual/2017/10-19/U491P886T1D277585F12DT20171019085840.jpg" width="190" height="127" alt="Restored frescos of Pilu Temple on display in North China" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-19/144516.shtml">Restored frescos of Pilu Temple on display in North China</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-19/144500.shtml"><img src="/visual/2017/10-19/U491P886T1D277570F12DT20171019082813.jpg" width="190" height="127" alt="Harry Potter exhibition blends wizardry with history" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-19/144500.shtml">Harry Potter exhibition blends wizardry with history</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-19/144496.shtml"><img src="/visual/2017/10-19/U491P886T1D277569F12DT20171019080413.jpg" width="190" height="127" alt="Delegations to 19th CPC National Congress hold open discussions " /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-19/144496.shtml">Delegations to 19th CPC National Congress hold open discussions </a></h3></li>
+			</ul>
+			<ul class="picshowlist inblock">
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144493.shtml"><img src="/visual/2017/10-18/U491P886T1D277551F12DT20171018153528.jpg" width="190" height="127" alt="South African rancher protects rhinos by dehorning" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144493.shtml">South African rancher protects rhinos by dehorning</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144481.shtml"><img src="/visual/2017/10-18/U542P886T1D277548F12DT20171018152314.jpg" width="190" height="127" alt="My mom makes the most beautiful breakfast" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144481.shtml">My mom makes the most beautiful breakfast</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144489.shtml"><img src="/visual/2017/10-18/U491P886T1D277546F12DT20171018152142.jpg" width="190" height="127" alt="Design studio proposes world's tallest wooden tower in Central Park" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144489.shtml">Design studio proposes world's tallest wooden tower in Central Park</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144473.shtml"><img src="/visual/2017/10-18/U542P886T1D277541F12DT20171018143732.jpg" width="190" height="127" alt="Street food culture explored in Tianjin" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144473.shtml">Street food culture explored in Tianjin</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144464.shtml"><img src="/visual/2017/10-18/U491P886T1D277527F12DT20171018131621.jpg" width="190" height="127" alt="Taoism mountain welcomes young learners" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144464.shtml">Taoism mountain welcomes young learners</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144458.shtml"><img src="/visual/2017/10-18/U542P886T1D277525F12DT20171018130240.jpg" width="190" height="127" alt="Amazing dewdrops on garden plants" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144458.shtml">Amazing dewdrops on garden plants</a></h3></li>
+			</ul>
+			</div>
+			</div>
+			<span class="buttonrgt" id="rgt01"><img src="/images/bg/rgtbutt02.gif" alt="" /></span>
+		</div>
+		<div class="picshowins posr" id="picshow02">
+			<span class="buttonlft" id="lft02"><img src="/images/bg/lftbutt02.gif" alt="" /></span>
+			<div class="wid641 imgctrl" id="ctrl02">
+			<div class="contctrl" id="contctrl">
+			<ul class="picshowlist inblock">
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144454.shtml"><img src="/visual/2017/10-18/U491P886T1D277500F12DT20171018112044.jpg" width="190" height="127" alt="Scientists launch teacake 37,007 meters into space" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144454.shtml">Scientists launch teacake 37,007 meters into space</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144450.shtml"><img src="/visual/2017/10-18/U491P886T1D277497F12DT20171018104945.jpg" width="190" height="127" alt="Night charm of Three Gorges Dam" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144450.shtml">Night charm of Three Gorges Dam</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144437.shtml"><img src="/visual/2017/10-18/U542P886T1D277491F12DT20171018103859.jpg" width="190" height="127" alt="CPC opens 19th national congress" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144437.shtml">CPC opens 19th national congress</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144434.shtml"><img src="/visual/2017/10-18/U542P886T1D277490F12DT20171018103748.jpg" width="190" height="127" alt="Delegates to 19th CPC National Congress receive interview" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144434.shtml">Delegates to 19th CPC National Congress receive interview</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144439.shtml"><img src="/visual/2017/10-18/U491P886T1D277485F12DT20171018103727.jpg" width="190" height="127" alt="Healthier environment brings more wild birds to Qarhan Salt Lake" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144439.shtml">Healthier environment brings more wild birds to Qarhan Salt Lake</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144426.shtml"><img src="/visual/2017/10-18/U491P886T1D277436F12DT20171018083058.jpg" width="190" height="127" alt="Foreign journalists visit exhibition on China's achievements" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144426.shtml">Foreign journalists visit exhibition on China's achievements</a></h3></li>
+			</ul>
+			<ul class="picshowlist inblock">
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144422.shtml"><img src="/visual/2017/10-18/U491P886T1D277432F12DT20171018082845.jpg" width="190" height="127" alt="12 tiger cubs meet with public at wildlife zoo in China's Shandong" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144422.shtml">12 tiger cubs meet with public at wildlife zoo in China's Shandong</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144419.shtml"><img src="/visual/2017/10-18/U491P886T1D277429F12DT20171018080141.jpg" width="190" height="127" alt="Xi presides over preparatory meeting for 19th CPC National Congress " /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144419.shtml">Xi presides over preparatory meeting for 19th CPC National Congress </a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-18/144409.shtml"><img src="/visual/2017/10-18/U491P886T1D277428F12DT20171018075407.jpg" width="190" height="127" alt="19th CPC National Congress spokesperson holds press conference " /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-18/144409.shtml">19th CPC National Congress spokesperson holds press conference </a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144405.shtml"><img src="/visual/2017/10-17/U491P886T1D277403F12DT20171017161638.jpg" width="190" height="127" alt="Noodle maker finishes in just 6 seconds" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144405.shtml">Noodle maker finishes in just 6 seconds</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144391.shtml"><img src="/visual/2017/10-17/U542P886T1D277378F12DT20171017135114.jpg" width="190" height="127" alt="Dogs compete for tasty bite in Shenyang" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144391.shtml">Dogs compete for tasty bite in Shenyang</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144399.shtml"><img src="/visual/2017/10-17/U491P886T1D277369F12DT20171017133714.jpg" width="190" height="127" alt="Sichuan Opera-inspired calisthenics introduced to students" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144399.shtml">Sichuan Opera-inspired calisthenics introduced to students</a></h3></li>
+			</ul>
+			</div>
+			</div>
+			<span class="buttonrgt" id="rgt02"><img src="/images/bg/rgtbutt02.gif" alt="" /></span>
+		</div>
+		<div class="picshowins posr" id="picshow03">
+			<span class="buttonlft" id="lft03"><img src="/images/bg/lftbutt02.gif" alt="" /></span>
+			<div class="wid641 imgctrl" id="ctrl03">
+			<div class="contctrl" id="contctrl">
+			<ul class="picshowlist inblock">
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144371.shtml"><img src="/visual/2017/10-17/U542P886T1D277346F12DT20171017110708.jpg" width="190" height="127" alt="Poverty-stricken population decreases in SW China's city" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144371.shtml">Poverty-stricken population decreases in SW China's city</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144379.shtml"><img src="/visual/2017/10-17/U491P886T1D277345F12DT20171017111446.jpg" width="190" height="127" alt="Karst cave a world of wonders" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144379.shtml">Karst cave a world of wonders</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144366.shtml"><img src="/visual/2017/10-17/U491P886T1D277335F12DT20171017103338.jpg" width="190" height="127" alt="British artist with autism draws New York panorama from memory" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144366.shtml">British artist with autism draws New York panorama from memory</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144363.shtml"><img src="/visual/2017/10-17/U491P886T1D277333F12DT20171017103142.jpg" width="190" height="127" alt="Beijing police dogs get birthday treat" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144363.shtml">Beijing police dogs get birthday treat</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144341.shtml"><img src="/visual/2017/10-17/U542P886T1D277329F12DT20171017102434.jpg" width="190" height="127" alt="Beijing's new airport getting its roof" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144341.shtml">Beijing's new airport getting its roof</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144328.shtml"><img src="/visual/2017/10-17/U542P886T1D277327F12DT20171017102223.jpg" width="190" height="127" alt="Aerial view of Yangtze River Economic Belt" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144328.shtml">Aerial view of Yangtze River Economic Belt</a></h3></li>
+			</ul>
+			<ul class="picshowlist inblock">
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144359.shtml"><img src="/visual/2017/10-17/U491P886T1D277326F12DT20171017102818.jpg" width="190" height="127" alt="Researchers announce 2.25m high-yielding rice" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144359.shtml">Researchers announce 2.25m high-yielding rice</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144344.shtml"><img src="/visual/2017/10-17/U542P886T1D277324F12DT20171017101910.jpg" width="190" height="127" alt="Scientists detect gravitational waves from two neutron stars colliding" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144344.shtml">Scientists detect gravitational waves from two neutron stars colliding</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144319.shtml"><img src="/visual/2017/10-17/U542P886T1D277322F12DT20171017101642.jpg" width="190" height="127" alt="Grassroots delegates to attend 19th CPC National Congress" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144319.shtml">Grassroots delegates to attend 19th CPC National Congress</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-17/144345.shtml"><img src="/visual/2017/10-17/U491P886T1D277280F12DT20171017090903.jpg" width="190" height="127" alt="All 38 delegations arrive in Beijing for CPC congress " /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-17/144345.shtml">All 38 delegations arrive in Beijing for CPC congress </a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-16/144313.shtml"><img src="/visual/2017/10-16/U491P886T1D277240F12DT20171016164035.jpg" width="190" height="127" alt="Business opportunities hidden in steamed bread in Internet Plus era" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-16/144313.shtml">Business opportunities hidden in steamed bread in Internet Plus era</a></h3></li>
+				<li><a href="http://www.ecns.cn/visual/hd/2017/10-16/144310.shtml"><img src="/visual/2017/10-16/U491P886T1D277236F12DT20171016163249.jpg" width="190" height="127" alt="Three Gorges Project to raise water level to 175 meters" /></a><h3><a href="http://www.ecns.cn/visual/hd/2017/10-16/144310.shtml">Three Gorges Project to raise water level to 175 meters</a></h3></li>
+			</ul>
+			</div>
+			</div>
+			<span class="buttonrgt" id="rgt03"><img src="/images/bg/rgtbutt02.gif" alt="" /></span>
+		</div>
+		</div>
+		<script type="text/javascript" src="/js/lastline.js"></script>
+	</div>
+    <div class="overhid">
+		<h3 class="itemtit mart20"><span>Most popular in 24h</span></h3>
+		<ul class="newslst02 font16 mart5">
+			<li  class="font22" style="line-height:24px;"  ><em></em><a href=http://www.ecns.cn/2017/10-18/277547.shtml title="China envoy says handling China-U.S. ties with power shifting theory 'misleading'">China envoy says handling China-U.S. ties with power shifting theory 'misleading'</a><div class=clear></div></li><li  class="font20" style="line-height:22px;"  ><em></em><a href=http://www.ecns.cn/visual/hd/2017/10-18/144458.shtml title="Amazing dewdrops on garden plants">Amazing dewdrops on garden plants</a><div class=clear></div></li><li  class="font18" style="line-height:20px;"  ><em></em><a href=http://www.ecns.cn/2017/10-18/277552.shtml title="Highlights of Xi's report to 19th CPC National Congress">Highlights of Xi's report to 19th CPC National Congress</a><div class=clear></div></li><li  class="font16" style="line-height:20px;"  ><em></em><a href=http://www.ecns.cn/2017/10-18/277563.shtml title="CPC opens 19th National Congress, declaring 'new era' of Chinese socialism">CPC opens 19th National Congress, declaring 'new era' of Chinese socialism</a><div class=clear></div></li><li  class="font14" style="line-height:20px;"  ><em></em><a href=http://www.ecns.cn/2017/10-19/277565.shtml title="CPC creates Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era">CPC creates Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era</a><div class=clear></div></li>
+		</ul>
+		<h3 class="itemtit mart20"><a class="m" href="http://www.ecns.cn/top_news/">More</a><span>Top news</span></h3>
+		<ul class="newslst02 font16 mart5">
+			<li><em></em> <a href="/2017/10-19/277644.shtml">440 senior officials investigated for corruption</a><div class="clear"></div></li><li><em></em> <a href="/cns-wire/2017/10-19/277643.shtml">Monthly salary of white collars rises to 7,599 yuan </a><div class="clear"></div></li><li><em></em> <a href="/2017/10-19/277638.shtml">World's most powerful computer will boost nation, scientist says</a><div class="clear"></div></li><li><em></em> <a href="/2017/10-19/277628.shtml">China to make new breakthrough in quantum communication: CPC delegate</a><div class="clear"></div></li><li><em></em> <a href="/2017/10-19/277572.shtml">Report is road map to nation's dream</a><div class="clear"></div></li>
+		</ul>
+		<h3 class="itemtit mart20"><a class="m" href="http://www.ecns.cn/video/">More</a><span>Video</span></h3>
+		<div class="picshowins posr" id="picshowins">
+			<span class="buttonlft" id="buttonlft"><img src="/images/bg/lftbutt.gif" alt="" /></span>
+			<div class="widout imgctrl" id="imgctrl">
+			<ul class="picshowlist picwraper movielst inblock">
+				  
+
+		<li><a href="/video/2017/10-12/276807.shtml"><img src="/video/2017/10-12/U750P886T1D276807F305DT20171012152412.jpg" width="258" height="172" alt="" /></a><h3><a href="/video/2017/10-12/276807.shtml">Preview of the 19th CPC National Congress</a></h3><em><a href="/video/2017/10-12/276807.shtml"><img src="/images/bg/bo.png" alt="" /></a></em></li>
+
+		<li><a href="/video/2017/10-12/276806.shtml"><img src="/video/2017/10-12/U750P886T1D276806F305DT20171012152045.jpg" width="258" height="172" alt="" /></a><h3><a href="/video/2017/10-12/276806.shtml">China offers incentives to bring back overseas graduates</a></h3><em><a href="/video/2017/10-12/276806.shtml"><img src="/images/bg/bo.png" alt="" /></a></em></li>
+
+     
+			</ul>
+			</div>
+			<span class="buttonrgt" id="buttonrgt"><img src="/images/bg/rgtbutt.gif" alt="" /></span>
+		</div>
+
+	</div>
+</div>
+<script type="text/javascript" src="/js/webmap.js"></script>
+<div class="webmap">
+	<dl>
+		<dt><a href="/news/">News</a></dt>
+		<dd><a href="/news/politics/">Politics</a></dd>
+		<dd><a href="/news/economy/">Business</a></dd>
+		<dd><a href="/news/society/">Society</a></dd>
+		<dd><a href="/news/culture/">Culture</a></dd>
+		<dd><a href="/news/military/">Military</a></dd>
+		<dd><a href="/news/science/">Sci-tech</a></dd>
+		<dd><a href="/news/entertainment/">Entertainment</a></dd>
+		<dd><a href="/news/sports/">Sports</a></dd>
+		<dd><a href="/news/odds/">Odd</a></dd>
+		<dd><a href="/news/featured/">Features</a></dd>
+	</dl>
+	<dl>
+		<dt><a href="/business/">Biz</a></dt>
+		<dd><a href="/business/">Economy</a></dd>
+	</dl>
+	<dl>
+		<dt><a href="/travel/">Travel</a></dt>
+		<dd><a href="/travel/news/">Travel News</a></dd>
+		<dd><a href="/travel/types/">Travel Types</a></dd>
+		<dd><a href="/travel/events/">Events</a></dd>
+		<dd><a href="/travel/food/">Food</a></dd>
+		<dd><a href="/travel/hotel/">Hotel</a></dd>
+		<dd><a href="/travel/bc/">Bar & Club</a></dd>
+		<dd><a href="/travel/architecture/">Architecture</a></dd>
+		<dd><a href="/travel/galley/">Gallery</a></dd>
+	</dl>
+	<dl>
+		<dt><a href="/photo/">Photo</a></dt>
+		<dd><a href="/photo/cns-photo/">CNS Photo</a></dd>
+	</dl>
+	<dl>
+		<dt><a href="/video/">Video</a></dt>
+		<dd><a href="/video/">Video</a></dd>
+	</dl>
+	<dl>
+		<dt><a href="/learning-Chinese/">Learning Chinese</a></dt>
+        <dd><a href="/learning-Chinese/lac/">Learn About China</a></dd>
+		<dd><a href="/learning-Chinese/sc/">Social Chinese</a></dd>
+		<dd><a href="/learning-Chinese/bc/">Business Chinese</a></dd>
+		<dd><a href="/learning-Chinese/bw/">Buzz Words</a></dd>
+		<dd><a href="/learning-Chinese/lfn/">Bilingual</a></dd>
+		<dd><a href="/learning-Chinese/s/">Resources</a></dd>
+	</dl>
+	<dl>
+		<dt><a href="/news/cns-wire/">ECNS Wire</a></dt>
+		<dt><a href="/special/">Special Coverage</a></dt>
+		<dt><a href="/infographics/">Infographics</a></dt>
+                <dt><a href="/voices/">Voices</a></dt>
+	</dl>
+</div>
+<div class="linebox">LINE</div>
+
+<div class="bdybox linksbox">
+	<b>Media partners:</b><a target="_blank" href="http://english.peopledaily.com.cn/">People's Daily Online</a>  |  <a target="_blank" href="http://www.xinhuanet.com/english/home.htm">Xinhuanet</a>  |  <a target="_blank" href="http://www.china.org.cn/">China.org.cn</a>  |  <a target="_blank" href="http://www.chinadaily.com.cn/">ChinaDaily.com.cn</a>  |  <a target="_blank" href="http://english.cntv.cn/01/index.shtml">CNTV</a>  |  <a target="_blank" href="http://www.globaltimes.cn/index.html">Globaltimes.cn</a>  |  <a target="_blank" href="http://english.cri.cn/">CRIEnglish.com</a>  |  <a target="_blank" href="http://www.shanghaidaily.com/">ShanghaiDaily.com</a>  | 
+<a target="_blank" href="http://english.jschina.com.cn/">JSCHINA</a>  |
+<a target="_blank" href="http://english.chinamil.com.cn/">China Military Online</a>  |
+<a target="_blank" href="http://eng.taiwan.cn/">Taiwan.cn</a>  |  
+<a target="_blank" href="http://english.sina.com/">Sina English</a>  |  <a  target="_blank"href="http://english.caijing.com.cn/">Caijing</a>  |  <a target="_blank" href="http://english.caixin.com/">Caixin Online</a>  |  <a target="_blank" href="http://en.ce.cn/">CE.cn</a>  |  <a target="_blank"
+href="http://en.gmw.cn/">GMW.cn</a>  |  <a target="_blank" 
+href="http://www.womenofchina.cn/">Women of China</a><!--[886,11,30] published at 2015-03-30 16:40:18 from #10 by ÕÅÀöÈº-->
+</div>
+<div class="foottip">
+	<div class="bdybox tipins">
+	<a class="floatrgt" href="#" target="_self">Back to top</a>	<a href="/links.shtml">Links</a> | 
+	    <a href="/aboutus.shtml">About Us</a> | 
+		<a href="/jobs.shtml">Jobs</a> | 
+		<a href="/contactus.shtml">Contact Us</a> | 
+		<a href="/privacy-policy.shtml">Privacy Policy</a>
+	</div>
+</div>
+<div class="bdybox footbot">
+	<div class="floatrgt">
+		<div class="overhid floatlft">Copyright &copy;1999-2017
+ Chinanews.com. All rights reserved.<br />Reproduction in whole or in part without permission is prohibited.</div>
+		<span><!--<a href="#"><img src="images/footico.gif" alt="" /></a>-->
+<!--¿ÉÐÅÍøÕ¾Í¼Æ¬LOGO°²×°¿ªÊ¼-->
+<script src="http://kxlogo.knet.cn/seallogo.dll?sn=a13071211010041590hlyv000000&size=0"></script>
+<!--¿ÉÐÅÍøÕ¾Í¼Æ¬LOGO°²×°½áÊø-->
+</span>
+	</div>
+	<a href="/"><img src="/images/head/logo.gif" alt="" /></a>
+</div>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253145956'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/z_stat.php%3Fid%3D1253145956' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+
+
+</body>
+</html>

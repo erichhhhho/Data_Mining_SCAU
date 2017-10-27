@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1507635850815/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://apnews.com/1616c60ab01d43caae024d34cb98d532?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime(); 
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://1616c60ab01d43caae024d34cb98d532">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Chinese propaganda faces stiff competition from celebrities</title>
+    <meta id="adMetaTags" name="keywords" content="Beijing,AP Top News,Music,Hong Kong,Celebrity,Entertainment,Movies,International News,China,Asia Pacific,Entertainment industry,Soap operas"/>
+    <meta name="description" content="
+              HONG KONG (AP) — When the propaganda film, &#34;The Founding of an Army,&#34; hit theaters in China recently, the reaction wasn&#39;t quite what the ruling Communist Party might have hoped.
+ "/>
+    <link rel="canonical" href="https://apnews.com/1616c60ab01d43caae024d34cb98d532"/>
+    <link rel="amphtml" href="https://apnews.com/amp/1616c60ab01d43caae024d34cb98d532">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://apnews.com/1616c60ab01d43caae024d34cb98d532?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Chinese propaganda faces stiff competition from celebrities"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              HONG KONG (AP) — When the propaganda film, &#34;The Founding of an Army,&#34; hit theaters in China recently, the reaction wasn&#39;t quite what the ruling Communist Party might have hoped.
+ "/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Chinese propaganda faces stiff competition from celebrities"/>
+    <meta property="twitter:description" content="
+              HONG KONG (AP) — When the propaganda film, &#34;The Founding of an Army,&#34; hit theaters in China recently, the reaction wasn&#39;t quite what the ruling Communist Party might have hoped.
+ "/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"/>
+    <meta property="twitter:url" content=" https://apnews.com/1616c60ab01d43caae024d34cb98d532"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': '1616c60ab01d43caae024d34cb98d532',
+            'dimension4': "Chinese propaganda faces stiff competition from celebrities",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://apnews.com/1616c60ab01d43caae024d34cb98d532"
+        },
+        "headline": "Chinese propaganda faces stiff competition from celebrities",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg",
+            "height": "533",
+            "width": "800"
+        },
+        "datePublished": "2017-10-23 03:30:27",
+        "dateModified": "2017-10-23 03:30:27",
+        "author": {
+            "@type": "Person",
+            "name": "By YI-LING LIU"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this Saturday, Oct. 21, 2017 photo, Chinese women walk past advertisement featuring teen idol Lu Han, also known as China's Justin Bieber in Beijing, China. China works to stifle celebrities as it seeks to dictate the values the nation&#8217;s youth should embrace. It&#8217;s part of the most ambitious effort in years to shape the country&#8217;s booming entertainment industry. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party&#8217;s legitimacy, whether in movies about revolutionary heroes or through rap music.  (AP Photo/Ng Han Guan)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:1e24aa8c60ad48518d47ed5a09006ec6/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this Saturday, Oct. 21, 2017 photo, a magazine featuring Chinese President Xi Jinping with the headline "China becomes strong" is placed next to a magazine with popular Chinese actress Fan Bingbing at a news stand in Beijing, China. China works to stifle celebrities as it seeks to dictate the values the nation&#8217;s youth should embrace. It&#8217;s part of the most ambitious effort in years to shape the country&#8217;s booming entertainment industry. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party&#8217;s legitimacy, whether in movies about revolutionary heroes or through rap music. (AP Photo/Ng Han Guan)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:dc7d82661f274b21a1530102363a8e3a/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this Saturday, Oct. 21, 2017 photo, a woman walks past an advertisement featuring teen idol Lu Han, also known as China's Justin Bieber in Beijing, China. China works to stifle celebrities as it seeks to dictate the values the nation&#8217;s youth should embrace. It&#8217;s part of the most ambitious effort in years to shape the country&#8217;s booming entertainment industry. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party&#8217;s legitimacy, whether in movies about revolutionary heroes or through rap music. (AP Photo/Ng Han Guan)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:dc0f1054dfbe4499a8eed55bd53ac12c/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this Saturday, Oct. 21, 2017 photo, residents wait near security personnel resting near a billboard featuring a popular actor in Beijing, China. China works to stifle celebrities as it seeks to dictate the values the nation&#8217;s youth should embrace. It&#8217;s part of the most ambitious effort in years to shape the country&#8217;s booming entertainment industry. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party&#8217;s legitimacy, whether in movies about revolutionary heroes or through rap music. (AP Photo/Ng Han Guan)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:1e6d4ac0e9424754bb5dce05e3aa83e6/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Women chat near magazines featuring Chinese President Xi Jinping placed next the one featuring teen idol Lu Han, right, also known as China's Justin Bieber, at a news stand in Beijing, Sunday, Oct. 22, 2017. China is working to stifle celebrities as it seeks to dictate the values the nation's youth should embrace. It's part of the most ambitious effort in years to shape the country's booming entertainment industry. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party's legitimacy, whether in movies about revolutionary heroes or through rap music. The results have at best been mixed and at worst out of touch. (AP Photo/Andy Wong)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:32666e4c4f5f461ca4abf162e7bae0e1/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              A woman walks by magazines featuring Chinese President Xi Jinping placed next the one featuring teen idol Lu Han, right, also known as China's Justin Bieber, at a news stand in Beijing, Sunday, Oct. 22, 2017. China is working to stifle celebrities as it seeks to dictate the values the nation's youth should embrace. It's part of the most ambitious effort in years to shape the country's booming entertainment industry. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party's legitimacy, whether in movies about revolutionary heroes or through rap music. The results have at best been mixed and at worst out of touch. (AP Photo/Andy Wong)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+                        
+                        <li data-target="#imageCarousel" data-slide-to="0" 
+                            class="active" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="3" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="4" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="5" ></li>
+                        
+                    </ol>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By YI-LING LIU</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Oct. 23, 2017</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP" data-title="Chinese propaganda faces stiff competition from celebrities" data-image="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Chinese propaganda faces stiff competition from celebrities" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532"
+     data-member="" data-id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532" data-member=""
+     data-id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/1616c60ab01d43caae024d34cb98d532</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Chinese propaganda faces stiff competition from celebrities" is-share="false" url="https://apnews.com/1616c60ab01d43caae024d34cb98d532" id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" short-id="1616c60ab01d43caae024d34cb98d532" type="content" page="card"
+     card-type="" card-title="Chinese propaganda faces stiff competition from celebrities" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Beijing">Beijing</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-Music">Music</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/HongKong">Hong Kong</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Celebrity">Celebrity</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-entertainment">Entertainment</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-Movies">Movies</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/China">China</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-asiapac">Asia Pacific</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Entertainmentindustry">Entertainment industry</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Soapoperas">Soap operas</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-topnews"><span class="moreFrom">AP Top News</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Beijing">Beijing</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-Music">Music</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/HongKong">Hong Kong</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Celebrity">Celebrity</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-entertainment">Entertainment</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-Movies">Movies</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/China">China</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-asiapac">Asia Pacific</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Entertainmentindustry">Entertainment industry</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Soapoperas">Soap operas</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-topnews">AP Top News</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Chinese propaganda faces stiff competition from celebrities</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+                    
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Beijing">Beijing</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Music">Music</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/HongKong">Hong Kong</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Celebrity">Celebrity</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-entertainment">Entertainment</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Movies">Movies</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/China">China</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-asiapac">Asia Pacific</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Entertainmentindustry">Entertainment industry</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Soapoperas">Soap operas</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Chinese propaganda faces stiff competition from celebrities</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Beijing">Beijing</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Music">Music</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/HongKong">Hong Kong</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Celebrity">Celebrity</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-entertainment">Entertainment</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Movies">Movies</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/China">China</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-asiapac">Asia Pacific</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Entertainmentindustry">Entertainment industry</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Soapoperas">Soap operas</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Chinese propaganda faces stiff competition from celebrities</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By YI-LING LIU</h6>
+                    </div>
+                    <div>
+                        <h6>Oct. 23, 2017</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP" data-title="Chinese propaganda faces stiff competition from celebrities" data-image="https://storage.googleapis.com/afs-prod/media/media:eac31cd33b3a4ae6865d4b56a51ac7b1/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Chinese propaganda faces stiff competition from celebrities" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532"
+     data-member="" data-id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532" data-member=""
+     data-id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/1616c60ab01d43caae024d34cb98d532">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/1616c60ab01d43caae024d34cb98d532</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Chinese propaganda faces stiff competition from celebrities" is-share="false" url="https://apnews.com/1616c60ab01d43caae024d34cb98d532" id="urn:publicid:ap.org:1616c60ab01d43caae024d34cb98d532" short-id="1616c60ab01d43caae024d34cb98d532" type="content" page="card"
+     card-type="" card-title="Chinese propaganda faces stiff competition from celebrities" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>HONG KONG (AP) &#8212; When the propaganda film, "The Founding of an Army," hit theaters in China recently, the reaction wasn't quite what the ruling Communist Party might have hoped.</p>
+<p>Instead of an outpouring of nationalism and self-sacrifice for the state, it inspired mockery for trying to lure a younger audience by casting teen idols as revolutionary party leaders.</p>
+<p>Viewers more used to seeing the idols play love interests in light-hearted soap operas responded to the film by projecting "modern-day romantic narratives on the founding fathers of the nation," said Hung Huang, a well-known social commentator based in Beijing. "It was hilarious."</p><div class="ad-placeholder"></div>
+<p>While China's resurgent Communist Party once pushed its policies on an unquestioning public, it now struggles to compete for attention with the country's booming entertainment industry and the celebrity culture it has spawned.</p>
+<p>"Chinese people are increasingly ignoring party propaganda and are much more interested in movie stars, who represent a new lifestyle and more exciting aspirations," said Willy Lam, an expert on Chinese politics at the Chinese University of Hong Kong.</p>
+<p>President Xi Jinping, who will cement his authority with his expected endorsement to a second five-year term at this week's national party congress, has placed a priority on stamping out too much Western influence in Chinese society in part so the party can dictate the values the youth should embrace.</p>
+<p>Authorities have responded by targeting everything from gossip websites to soap opera story lines to celebrity salaries. Instead of selfish, rich stars, the state is promoting performers who are all about patriotism, purity and other values that support the party's legitimacy.</p>
+<p>The results have at best been mixed and at worst ham-fisted and out of touch.</p>
+<p>One problem is that the party's values often clash with what young Chinese want to watch, according to Hung. Among the more popular shows watched by Chinese youth are those that center on palace intrigue, martial arts fantasies, high school romances or single, independent women.</p>
+<p>"While the government could once dictate to young people what they should value and how they should lead their lives, they find themselves completely without the tools to do that now," she said.</p>
+<p>In the 1970s, the state was able to promote people seen as paragons of youthful devotion and selflessness, but Hung said that no longer works because young Chinese &#8212; like their counterparts in the West &#8212; now prefer to follow celebrity gossip and have the tools with which to do so.</p><div class="ad-placeholder"></div>
+<p>Just this month, teen idol Lu Han, also known as China's Justin Bieber, announced he had a girlfriend, triggering so many shares, responses and "likes" within a few hours that the country's popular Weibo microblog service briefly crashed.</p>
+<p>A recent commentary in The Global Times, a party newspaper with a nationalistic stance, railed against such celebrity worship, saying China had now surpassed the West in that regard.</p>
+<p>"It's unfair that these stars accrue such glory, unimaginable to those who have made a decisive contribution to the country," the commentary said.</p>
+<p>That was likely a reason the government-backed China Alliance of Radio, Film and Television moved last month to cap the pay of actors, whose salaries had hit historic highs as young Chinese and a burgeoning middle class increasingly spend on movie tickets and goods.</p>
+<p>In another move earlier this year, authorities closed 60 popular celebrity gossip and social media accounts and called on internet giants such as Tencent and Baidu to "actively propagate core socialist values, and create an ever-healthier environment for the mainstream public opinion."</p>
+<p>The tension between popular culture and state propaganda isn't new in China. In the 1980s, Deng Xiaoping's lieutenants railed against spiritual pollution. But it has gained new traction since Xi came to power in 2012 and officials began a wide-ranging crackdown on perceived societal ills from corruption to dissent to &#8212; now &#8212; entertainment.</p>
+<p>"Xi Jinping has been advocating a revision to traditional, Confucian moral standards," Lam said. "The definition of what is vulgar or morally problematic has been inflated and expanded so that it has become all-encompassing."</p>
+<p>Shows about the pursuit of great wealth and luxury that used to be tolerated under Xi's predecessor, aren't anymore.</p>
+<p>The government has demanded that broadcasters "resist celebrity worship" and limit the air time dedicated to film and TV stars.</p>
+<p>"The party does not want these entertainment programs to compete with news programs and 'morality shows,'" said Jian Xu, a Chinese media research fellow at Deakin University in Melbourne, Australia.</p>
+<p>One example of a state-approved show is "Touching China," which honors people who have "touched the nation with their tenacity, bravery and wisdom."</p>
+<p>The government has also tried to shape some celebrities into party-sanctioned role models.</p>
+<p>Thanks to their wholesome image and uplifting, patriotic lyrics, the TFboys, China's first home-grown boy band, have risen to fame because of "political opportunities" they've been given, Xu said. The band is pursued by adoring fans and has performed twice on the coveted Lunar New Year gala hosted by state broadcaster China Central Television; it has also been promoted by the Communist Youth League.</p>
+<p>Stars deviating from the party's image of purity and moral acceptability, however, have been punished. In a high-profile drug crackdown in 2014, authorities publicly chastised a succession of celebrities caught using drugs, including Jackie Chan's son, Jaycee Chan, and singer Li Daimo, forcing them to apologize on state television.</p>
+<p>Beijing may struggle to win over young Chinese, but it won't stop its carrot-and-stick approach to regulating the industry.</p>
+<p>"The government's method of punishment and praise is very obvious: If you work with me, you will reap the benefits, if you don't, you won't. If you're a good boy, you get candy, if you don't, you won't," Xu said.</p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-topnews" content-id="1616c60ab01d43caae024d34cb98d532">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1507635856232.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1507635862497/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1507635856232.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Chinese propaganda faces stiff competition from celebrities">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="1.280095,103.850949" id="latLong">
+<input type="hidden" value="?" id="region">
+<input type="hidden" value="singapore" id="city">
+<input type="hidden" value="SG" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Topnews, Music, Entertainment, Movies, Intlnews, Asiapac';
+    _sf_async_config.authors = 'By YI-LING LIU';
+    _sf_async_config.alias = window.location.href;
+
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

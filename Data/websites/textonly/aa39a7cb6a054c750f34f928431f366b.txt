@@ -1,0 +1,42 @@
+If you are new, please read our posting guidelines and search the subreddit for commonly answered questions.      
+Please post in English where possible. Chinese submissions should be accompanied by English translations and submitted with English titles as 99% of reddit users cannot read Chinese.
+When linking to news articles, please use the original title, or a straightforward and accurate one of your own. Editorialized, provocative, inaccurate, sensationalist, and/or misleading titles may result in the removal of the post. If you add an opinion byline, please ensure that it is immediately clear which part is opinion.
+Banks often serve large companies; they don’t have the ability to serve small and medium-sized enterprises (SMEs) well
+What Manchu resources. Books, audiovisual foremost, but also curious about presential classes or tutors, if only for reference
+Last week I started to notice a ton of my event based invocation chains started to break and eventually all of them were disconnected. I immediately started to suspect a total block of UDP connects within China but it looks like some applications run just fine. Then I realized all of these applications are from noticeable service providers. Would it be possible if all unregistered UDP connections are blocked? Do anyone know anything about this?
+For those who dont understand this is huge. All internet conncetions between your machine and another computer are done using one of two protocols UDP and TCP. TCP is the older standard which is most commonly used for websites and other http content. UDP is used by most modern apps such as skype or phone apps or bit torrent. Many VPNs use UDP because it is harder to detect UDP connection as being VPN connections unlike TCP which can easily be detected as being a VPN connection.
+By banning UDP connections they have effectively blocked most VPN providers but also most phone apps unless they are china based and approved. They have basically cut china off from half the global internet
+TCP is the older standard which is most commonly used for websites and other http content. UDP is used by most modern apps such as skype or phone apps or bit torrent
+TCP is used where a reliable connection is more important than speed. It might be slower than UDP as TCP is stateful and requires all the data packets need to be received by the client and in order.
+UDP is used where you want to transmit/receive the data as more quickly, but are willing to accept the possibility that some data is lost or scrambled along the way. This is useful like in the apps you stated where tasks are time critical, along with online multiplayer games.
+Many VPNs use UDP because it is harder to detect UDP connection as being VPN connections unlike TCP which can easily be detected as being a VPN connection.
+I thought it's mostly UDP because it's faster than TCP, and data loss isn't as much of an issue as speed for VPN tasks. 
+UDP is faster but TCP connections are more reliable since you never drop packets like you do with UDP. There is privacy concerns with TCP connections though since you do better deep packet inspection when there is two way connection back and forth with the TCP connection
+TCP is reliable and packets are in order. It is slower because of back and forth traffic like acknowledgements.  And TCP is connection based.....
+Thanks for the simple, clear explanation. If true, that really is huge, but I wouldn't have understood. 
+I don't want to get too technical, because you'll roll your eyes so far you'd see the back of your skull! However, this article shows the basic differences:
+I have great trouble with the statement about TCP being older and UDP being used more by modern software. Utter, utter rubbish. TCP is used if you care about each and every packet being received and acknowledged. UDP is if you don't care one way or another.
+My torrents still work. UDP isn't more modern, it is faster but drops packets. Things that need speed but don't care about packet loss use UDP. TCP waits for packets and assembles them in order.
+The most important annual assembly of CCP is coming. When it's over, maybe connections will be restored.
+I know because I was in Kunming at the time and I suddenly couldn't access gmail to get my plane tickets
+In 2012 you could still use gmail until the October conference.
+I know because I was in Kunming at the time and I suddenly couldn't access gmail to get my plane tickets
+Not likely. The trend for the last few years have been 'limiting foreign influences', it's highly unlikely that it would change right now.
+Every year at this time the internet becomes a headache to use, everyone speculates that it’s gonna be permanent, and then it goes back to normal in a couple of weeks.
+The Congress meets every 5 years. Every year it goes to shit during CNY and goes back to normal after.
+After this Congress we will know a lot more about the direction we are headed in this country. It's highly possible things won't go back to normal this time.
+http://www.scmp.com/news/china/policies-politics/article/1922677/china-blocks-vpn-services-let-users-get-round-its-great
+How’s Express running right now?  On my way back and working will be impossible if VPN is down. Thanks in advance 
+Expressvpn is working for me right now. I've had some connection issues, but it always does, just takes a minute or two. Once it's connected, stability and speed are fine. I'm in Tier 3 Dongbei, China mobile home broadband. 
+man its driving me feckin crazy like. I have a small side project that relies on Instagram/Youtube to work, without semi reliable access it kinda sucks. 
+Are TCP VPNs still accessible? I'm trying to set up an openVPN server in the US that can be accessed in China.
+This works flawlessly nearly every time because firewalls, even ones using deep packet inspection just see if as regular web traffic.
+However, after some point this morning I am having major difficulty even connecting to websites that are not Chinese if they're not running over http.  This means I can't easily hit my VPN server.  I'm in Beijing at the moment so I'm not sure if is an issue with the network in the apartment or if they suddenly stepped up censorship at some point this afternoon.
+My cell works fine over 2g because I'm using T-Mobile roaming which appears to block nothing. However, the speed makes me want to kill myself 
+Edit: Seems to have been a networking issue. VPN works fine again and normally allowed foreign sites are working again without the VPN.  
+for all of us technical noobs, it would be awesome if you could post a step-by-step tutorial on how to set this up, we would worship you
+The hardest part here was getting the client cert into the right format for SSLDroid and then adjusting the OpenVPN config settings ( you need to set it to localhost and the port number that SSLDroid is listening on). I haven't tried it on Windows yet.
+OpenVPN Client -> Localhost:stunnel client local port -> remote stunnel port -> stunnel server config tunneling this port to OpenVPN Server listening on localhost (or 0.0.0.0 ) on some port.
+Basically, the OpenVPN Server and Client both connect to localhost on a port where stunnel is listening while stunnel makes the connection between the client and server over TLS.
+Whatsapp has been blocked since a few weeks ago already, don't expect it to work again anytime soon in China.
+Rendered by PID 128545 on  app-186  at 2017-10-27 09:07:31.812338+00:00 running 2c9616a country code: SG.

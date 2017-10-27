@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" >
+<title>Xinjiang a &quot;Frontline Laboratory for Surveillance&quot; - China Digital Times (CDT)</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" media="all" href="http://chinadigitaltimes.net/wp-content/themes/cdt/style.css" />
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://chinadigitaltimes.net/wp-content/themes/cdt/js/galleria/galleria.classic.css" />
+
+<link rel="pingback" href="http://chinadigitaltimes.net/xmlrpc.php" />
+<script type="text/javascript" src="http://chinadigitaltimes.net/wp-content/themes/cdt/js/cufon-yui.js"></script>
+<script type="text/javascript" src="http://chinadigitaltimes.net/wp-content/themes/cdt/js/gp.font.js"></script>
+<script type="text/javascript">
+Cufon.replace('.gp', { fontFamily: 'gp' });
+Cufon.replace('#date', { fontFamily: 'gp' });
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://chinadigitaltimes.net/2017/10/xinjiang-becoming-frontline-laboratory-surveillance/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Xinjiang a &quot;Frontline Laboratory for Surveillance&quot; - China Digital Times (CDT)" />
+<meta property="og:description" content="Under Party Chief Chen Quanguo, a hardliner who was credited for quelling a wave of unrest in Tibet, Xinjiang is emerging as a &#8220;perfect police state,&#8221; according to a Guardian report earlier this year. A heavy security presence, together with a host of innovative and repressive technologies, is steadily tightening Beijing&#8217;s control over the region, which &hellip;" />
+<meta property="og:url" content="http://chinadigitaltimes.net/2017/10/xinjiang-becoming-frontline-laboratory-surveillance/" />
+<meta property="og:site_name" content="China Digital Times (CDT)" />
+<meta property="article:tag" content="facial recognition" />
+<meta property="article:tag" content="religious freedom" />
+<meta property="article:tag" content="security" />
+<meta property="article:tag" content="surveillance" />
+<meta property="article:tag" content="Xinjiang" />
+<meta property="article:section" content="Human Rights" />
+<meta property="article:published_time" content="2017-10-20T21:35:38-07:00" />
+<meta property="article:modified_time" content="2017-10-20T21:53:31-07:00" />
+<meta property="og:updated_time" content="2017-10-20T21:53:31-07:00" />
+<meta property="og:image" content="http://chinadigitaltimes.net/wp-content/uploads/2017/10/sub-buzz-7227-1508241808-3.jpg" />
+<meta property="og:image:width" content="715" />
+<meta property="og:image:height" content="477" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Under Party Chief Chen Quanguo, a hardliner who was credited for quelling a wave of unrest in Tibet, Xinjiang is emerging as a &#8220;perfect police state,&#8221; according to a Guardian report earlier this year. A heavy security presence, together with a host of innovative and repressive technologies, is steadily tightening Beijing&#8217;s control over the region, which [&hellip;]" />
+<meta name="twitter:title" content="Xinjiang a &quot;Frontline Laboratory for Surveillance&quot; - China Digital Times (CDT)" />
+<meta name="twitter:site" content="@CDT" />
+<meta name="twitter:image" content="http://chinadigitaltimes.net/wp-content/uploads/2017/10/sub-buzz-7227-1508241808-3.jpg" />
+<meta name="twitter:creator" content="@CDT" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/chinadigitaltimes.net\/","name":"China Digital Times (CDT)","potentialAction":{"@type":"SearchAction","target":"http:\/\/chinadigitaltimes.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/chinadigitaltimes.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='edd-styles-css'  href='http://chinadigitaltimes.net/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://chinadigitaltimes.net/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='http://chinadigitaltimes.net/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://chinadigitaltimes.net/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://chinadigitaltimes.net/wp-content/plugins/jetpack/css/jetpack.css?ver=5.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edd_cp = {"currency":"$","add_to_cart_text":"Add to Cart","ajax_enabled":"1","currency_position":"before","min_price_error":"Please enter a custom price higher than the minimum amount"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-content/plugins/edd-custom-prices/js/edd-cp-form.js?ver=1.5.4'></script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4'></script>
+<link rel='https://api.w.org/' href='http://chinadigitaltimes.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chinadigitaltimes.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://chinadigitaltimes.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel='shortlink' href='http://wp.me/p2pAV0-QPb' />
+<link rel="alternate" type="application/json+oembed" href="http://chinadigitaltimes.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fchinadigitaltimes.net%2F2017%2F10%2Fxinjiang-becoming-frontline-laboratory-surveillance%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://chinadigitaltimes.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fchinadigitaltimes.net%2F2017%2F10%2Fxinjiang-becoming-frontline-laboratory-surveillance%2F&#038;format=xml" />
+<meta name="generator" content="Easy Digital Downloads v2.8.8" />
+		<meta name="abstract" content="Covering China from Cyberspace">
+		<meta name="classification" content="1989, Announcements, Beijing Olympics 2008, Berkeley Conference, Biganzi (笔杆子), CDT Bookshelf, CDT Highlights, China &amp; the World, Chinese, Culture &amp; the Arts, Economy, Environment, Grass-Mud Horse Discourse, Hong Kong, Human Rights, Information Revolution, Law, Legitimizing Discourse, Level 2 Article, Level 3 Article, Level 4 Article, Main, Main Photo, media, News Focus, Podcast, Politics, Sci-Tech, Society, Sophia, Sophie, Taiwan, The Great Divide, Top Article, Translation, Uncategorized, Voice of Voiceless, 主页, 墙外媒体精选, 音视图片">
+		<meta name="copyright" content="Copyright China Digital Times (CDT) - All rights Reserved.">
+		<meta name="distribution" content="Global">
+		<meta name="language" content="en-US">
+		<meta name="publisher" content="China Digital Times (CDT)">
+		<meta name="rating" content="General">
+		<meta name="resource-type" content="Document">
+		<meta name="revisit-after" content="3">
+		<meta name="subject" content="1989, Announcements, Beijing Olympics 2008, Berkeley Conference, Biganzi (笔杆子), CDT Bookshelf, CDT Highlights, China &amp; the World, Chinese, Culture &amp; the Arts, Economy, Environment, Grass-Mud Horse Discourse, Hong Kong, Human Rights, Information Revolution, Law, Legitimizing Discourse, Level 2 Article, Level 3 Article, Level 4 Article, Main, Main Photo, media, News Focus, Podcast, Politics, Sci-Tech, Society, Sophia, Sophie, Taiwan, The Great Divide, Top Article, Translation, Uncategorized, Voice of Voiceless, 主页, 墙外媒体精选, 音视图片">
+		<meta name="template" content="CDT">
+		<meta name="google-site-verification" content="12y3hzdKylf1C2A-scKuW3MYNYso9x0PuDHJZnrwMCs">
+<meta name="apple-itunes-app" content="app-id=900386877">
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<meta name="twitter:partner" content="tfwp" /><!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-2966423-3', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+
+<meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Xinjiang a &#8220;Frontline Laboratory for Surveillance&#8221;" /><meta name="twitter:site" content="@CDT" /><meta name="twitter:description" content="Under Party Chief Chen Quanguo, a hardliner who was credited for quelling a wave of unrest in Tibet, Xinjiang is emerging as a &quot;perfect police state,&quot; according to a Guardian report earlier this year. A heavy security presence, together with a host of innovative and repressive technologies, is steadily tightening Beijing&#039;s control over the region, which&hellip;" /><meta name="twitter:image" content="http://chinadigitaltimes.net/wp-content/uploads/2017/10/sub-buzz-7227-1508241808-3.jpg" />
+<link rel="stylesheet" href="http://chinadigitaltimes.net/wp-content/themes/cdt/plugin-override.css" type="text/css" />
+<script type="text/javascript" src="http://chinadigitaltimes.net/wp-content/themes/cdt/js/galleria/galleria-1.2.5.js"></script>
+<script type="text/javascript" src="http://chinadigitaltimes.net/wp-content/themes/cdt/js/galleria/galleria.classic.js"></script>
+<script type="text/javascript" src="http://chinadigitaltimes.net/wp-content/themes/cdt/js/jquery.cycle.all.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$('.cdt_slides').cycle();
+		$('#ar_img').cycle();
+		
+		// Load the classic theme
+		//Galleria.loadTheme('http://chinadigitaltimes.net/wp-content/themes/cdt/js/galleria/galleria.classic.min.js');
+		// Initialize Galleria
+		$('#post_gallery').galleria();
+	});
+</script>
+</head>
+<body class="post-template-default single single-post postid-203061 single-format-standard">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+        <div id="logo" onclick="location.href='http://chinadigitaltimes.net';" style="cursor:pointer;">
+        </div><!--#logo-->
+        <div id="info">
+        	 
+
+            <div id="language_control">
+            	<a href="http://chinadigitaltimes.net">English</a>
+                 | 
+                <a href="http://chinadigitaltimes.net/chinese">中文</a>
+            </div><!--#language_control-->
+            <div id="date">
+		            	2017 10 27            </div><!--#date-->
+            <div id="header_social">
+            	<a href="https://chinadigitaltimes.net/about/follow-cdt-on-rss-and-twitter/"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/header-social-facebook.gif" alt="Facebook"/></a><a href="https://chinadigitaltimes.net/about/follow-cdt-on-rss-and-twitter/"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/header-social-twitter.gif" alt="Twitter"/></a><a href="https://chinadigitaltimes.net/about/follow-cdt-on-rss-and-twitter/"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/header-social-rss.gif" alt="RSS"/></a>            </div><!--#header_social-->
+            <div id="header_search">
+				<div class="search">
+<form role="search" method="get" id="searchform" action="http://chinadigitaltimes.net/">
+    <div>
+    	        <input type="text" name="s" id="s" onblur="if(this.value == '') this.value = 'Search';" onclick="if(this.value == 'Search') this.value = '';" value="Search" />
+        <input type="submit" id="searchsubmit" value="" />
+    </div>
+</form>
+</div><!--.search-->
+
+
+            </div><!--#header_search-->
+        </div><!--#info-->
+        <div id="access" role="navigation">
+            			<div class="menu-header"><ul id=\"menu-main-menu\" class=\"menu\"><li id="menu-item-123015" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-123015"><a href="http://chinadigitaltimes.net/china-news/main/politics/">&bull; Politics</a></li>
+<li id="menu-item-123014" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-123014"><a href="http://chinadigitaltimes.net/china-news/main/society/">&bull; Society</a></li>
+<li id="menu-item-202757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-202757"><a href="http://chinadigitaltimes.net/china-news/main/law/">&bull; Law</a></li>
+<li id="menu-item-123019" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123019"><a href="http://chinadigitaltimes.net/china-news/main/culture/">&bull; Culture</a></li>
+<li id="menu-item-123016" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123016"><a href="http://chinadigitaltimes.net/china-news/main/world/">&bull; World</a></li>
+<li id="menu-item-143796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-143796"><a href="http://chinadigitaltimes.net/china-news/translation/">&bull; Translation</a>
+<ul  class="sub-menu">
+	<li id="menu-item-143801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143801"><a href="http://chinadigitaltimes.net/china/directives-from-the-ministry-of-truth/">&bull; Ministry of Truth</a></li>
+	<li id="menu-item-127837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127837"><a href="http://chinadigitaltimes.net/space/Main_Page">&bull; Grass-Mud Horse Lexicon</a></li>
+	<li id="menu-item-166745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166745"><a href="http://chinadigitaltimes.net/china/longform/">&bull; Longform</a></li>
+	<li id="menu-item-143797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143797"><a href="http://chinadigitaltimes.net/china/sensitive-words-series/">&bull; Sensitive Words</a></li>
+	<li id="menu-item-143800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143800"><a href="http://chinadigitaltimes.net/china/word-of-the-week/">&bull; Word of the Week</a></li>
+	<li id="menu-item-143798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143798"><a href="http://chinadigitaltimes.net/china/drawing-the-news/">&bull; Drawing the News</a></li>
+	<li id="menu-item-143799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143799"><a href="http://chinadigitaltimes.net/china/netizen-voices/">&bull; Netizen Voices</a></li>
+</ul>
+</li>
+<li id="menu-item-123024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123024"><a href="#">&bull; More</a>
+<ul  class="sub-menu">
+	<li id="menu-item-125272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125272"><a href="http://chinadigitaltimes.net/china-news/focus/environmental-crisis/">&bull; Environment</a></li>
+	<li id="menu-item-123034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123034"><a href="http://chinadigitaltimes.net/china-news/focus/information-revolution/">&bull; Information Revolution</a></li>
+	<li id="menu-item-182054" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-182054"><a href="http://chinadigitaltimes.net/china-news/focus/human-rights/">&bull; Human Rights</a></li>
+	<li id="menu-item-202758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-202758"><a href="http://chinadigitaltimes.net/china-news/main/economy/">&bull; Economy</a></li>
+	<li id="menu-item-123035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123035"><a href="http://chinadigitaltimes.net/china-news/focus/the-great-divide/">&bull; The Great Divide</a></li>
+	<li id="menu-item-123032" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-123032"><a href="http://chinadigitaltimes.net/china-news/main/sci-tech/">&bull; Sci-Tech</a></li>
+	<li id="menu-item-125270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125270"><a href="http://chinadigitaltimes.net/china-news/main/hong-kong/">&bull; Hong Kong</a></li>
+	<li id="menu-item-123033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123033"><a href="http://chinadigitaltimes.net/china-news/main/taiwan/">&bull; Taiwan</a></li>
+	<li id="menu-item-123036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123036"><a href="http://chinadigitaltimes.net/china-news/main/cdt-bookshelf/">&bull; CDT Bookshelf</a></li>
+</ul>
+</li>
+</ul></div>        </div><!-- #access -->
+	</div><!-- #header -->
+	<div id="main">
+    <div id="content" role="main">
+	    
+        <div class="post">
+        	<h1 class="title">
+								Xinjiang a &#8220;Frontline Laboratory for Surveillance&#8221;							</h1>
+                          
+            <div class="clear"></div>
+            
+            
+			             <div class="entry">
+            	<p>Under Party Chief Chen Quanguo, a hardliner who was credited for quelling a wave of unrest in Tibet, <a href="http://chinadigitaltimes.net/china/xinjiang/" class="st_tag internal_tag" rel="tag" title="Posts tagged with Xinjiang">Xinjiang</a> is emerging as a &#8220;<a href="http://chinadigitaltimes.net/2017/06/perfect-police-state-emerging-xinjiang/">perfect police state</a>,&#8221; according to a Guardian report earlier this year. A heavy <a href="http://chinadigitaltimes.net/china/security/" class="st_tag internal_tag" rel="tag" title="Posts tagged with security">security</a> presence, together with a host of innovative and repressive technologies, is steadily tightening Beijing&#8217;s control over the region, which since 2014 has been the focus of a national crackdown on terror in response to rising <a href="http://chinadigitaltimes.net/china/xinjiang-violence/">incidents of violence in the region</a> and <a href="http://chinadigitaltimes.net/china/kunming-attack-2014/">elsewhere in China</a>. Megha Rajagopalan from BuzzFeed News now writes about the <a href="https://www.buzzfeed.com/meghara/the-police-state-of-the-future-is-already-here?utm_term=.qdqyWxPXgb#.kq33ogJWqN"><strong>specific strategies and technologies used by Beijing to enforce strict security measures</strong></a> in Xinjiang, and how such security demands have created business opportunities for many companies.</p>
+<blockquote><p>The ubiquity of government <a href="http://chinadigitaltimes.net/china/surveillance/" class="st_tag internal_tag" rel="tag" title="Posts tagged with surveillance">surveillance</a> in Xinjiang affects the most prosaic aspects of daily life, those interviewed for this story said. D., a stylish young Uighur woman in Turkey, said that even keeping in touch with her grandmother, who lives in a small Xinjiang village, had become impossible.</p>
+<p>Whenever D. called her grandmother, police would barge in hours later, demanding the elderly woman phone D. back while they were in the room.</p>
+<p>[&#8230;] China’s government has invested billions of renminbi into top-of-the-line surveillance technology for Xinjiang, from <a href="http://chinadigitaltimes.net/china/facial-recognition/" class="st_tag internal_tag" rel="tag" title="Posts tagged with facial recognition">facial recognition</a> cameras at petrol stations to surveillance drones that patrol the border.</p>
+<p>[&#8230;] Security has become a big business opportunity for hundreds of companies, mostly Chinese, seeking to profit from the demand for surveillance equipment in Xinjiang.</p>
+<p>Researchers have found that China is pouring money into its budget for surveillance. Zenz, who has closely watched Xinjiang’s government spending on security personnel and systems, said its investment in information technology transfer, computer services, and software will quintuple this year from 2013. The growth in the security industry there reflects the state-backed surveillance boom, he said.</p>
+<p>Other equipment, like high-resolution cameras and facial recognition technology, is ubiquitous. [&#8230;] [<a href="https://www.buzzfeed.com/meghara/the-police-state-of-the-future-is-already-here?utm_term=.qdqyWxPXgb#.kq33ogJWqN"><strong>Source</strong></a>]</p></blockquote>
+<p>China has become one of the earliest adopters and developers of facial recognition technology. The <a href="https://chinadigitaltimes.net/2017/06/losing-face-facial-recognition/">wide adoption of such technology in public spaces </a>ranging from shopping centers to university dormitories<a href="http://chinadigitaltimes.net/2017/09/facial-recognition-adoption-raises-eyebrows/"> has created convenience for many but also raised concerns about privacy and safety</a>.</p>
+<p>Security forces have been using a range of techniques in Xinjiang to monitor targeted groups, including minority Muslim Uyghurs, as <a href="https://www.hrw.org/news/2017/05/15/china-police-dna-database-threatens-privacy">Human Rights Watch reported in June</a>. Oiwan Lam from Hong Kong Free Press also reported in June that<strong> </strong><a href="https://www.hongkongfp.com/2017/07/22/web-cleansing-chinas-xinjiang-residents-forced-install-surveillance-apps-mobile-phones/">Xinjiang residents are forced to install surveillance apps on their mobile phones</a>.</p>
+<p>&nbsp;</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-203061" class="share-twitter sd-button share-icon no-text" href="http://chinadigitaltimes.net/2017/10/xinjiang-becoming-frontline-laboratory-surveillance/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-203061" class="share-facebook sd-button share-icon no-text" href="http://chinadigitaltimes.net/2017/10/xinjiang-becoming-frontline-laboratory-surveillance/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-203061" class="share-google-plus-1 sd-button share-icon no-text" href="http://chinadigitaltimes.net/2017/10/xinjiang-becoming-frontline-laboratory-surveillance/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>            </div><!--entry-->
+                            <div class="meta">
+                    <div>October 20, 2017 9:35 PM</div>
+                    <div class="author">Posted By: <a href="http://chinadigitaltimes.net/author/jh2016/" title="Posts by 黑咖啡" rel="author">黑咖啡</a></div><!--.author-->
+                    <div class="category">Categories: <a href="http://chinadigitaltimes.net/china-news/focus/human-rights/" rel="category tag">Human Rights</a>, <a href="http://chinadigitaltimes.net/china-news/main/politics/" rel="category tag">Politics</a>, <a href="http://chinadigitaltimes.net/china-news/main/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="http://chinadigitaltimes.net/china-news/main/society/" rel="category tag">Society</a></div><!--.category-->
+                    <div class="tags">Tags: <a href="http://chinadigitaltimes.net/china/facial-recognition/" rel="tag">facial recognition</a>, <a href="http://chinadigitaltimes.net/china/religious-freedom/" rel="tag">religious freedom</a>, <a href="http://chinadigitaltimes.net/china/security/" rel="tag">security</a>, <a href="http://chinadigitaltimes.net/china/surveillance/" rel="tag">surveillance</a>, <a href="http://chinadigitaltimes.net/china/xinjiang/" rel="tag">Xinjiang</a></div><!--.tags-->
+                </div><!--.meta-->
+                <div class="related">
+                						
+<!-- Generated by Simple Tags 2.4.7 - http://wordpress.org/extend/plugins/simple-tags -->
+	<h4>Related Stories</h4>
+	<ul class="st-related-posts">
+	<li><span class="related_date">2017.10.23 </span> <a href="http://chinadigitaltimes.net/2017/10/beijings-pursuit-guo-wengui-confounds-trump-white-house/" title="Pursuit of Guo Wengui Confounds White House 2017.10.23">Pursuit of Guo Wengui Confounds White House</a></li>
+	<li><span class="related_date">2017.10.17 </span> <a href="http://chinadigitaltimes.net/2017/10/carrot-stick-social-credit/" title="How Tech Firms Partner with Beijing to Shame Citizens 2017.10.17">How Tech Firms Partner with Beijing to Shame Citizens</a></li>
+	<li><span class="related_date">2017.10.10 </span> <a href="http://chinadigitaltimes.net/2017/10/xinjiang-household-knives-must-ided/" title="In Xinjiang, Household Knives Must Be ID&#8217;ed 2017.10.10">In Xinjiang, Household Knives Must Be ID&#8217;ed</a></li>
+	<li><span class="related_date">2017.10.07 </span> <a href="http://chinadigitaltimes.net/2017/10/pope-francis-not-understand-ccp/" title="&#8220;Pope Francis Does Not Understand the CCP&#8221; 2017.10.07">&#8220;Pope Francis Does Not Understand the CCP&#8221;</a></li>
+	<li><span class="related_date">2017.10.06 </span> <a href="http://chinadigitaltimes.net/2017/10/trump-pressed-human-rights-ahead-china-visit/" title="Trump Pressed on Human Rights Ahead of China Visit 2017.10.06">Trump Pressed on Human Rights Ahead of China Visit</a></li>
+	<li><span class="related_date">2017.09.28 </span> <a href="http://chinadigitaltimes.net/2017/09/authorities-confiscate-qurans-prayer-mats-xinjiang/" title="Qurans, Prayer Mats Confiscated in Xinjiang 2017.09.28">Qurans, Prayer Mats Confiscated in Xinjiang</a></li>
+	<li><span class="related_date">2017.09.08 </span> <a href="http://chinadigitaltimes.net/2017/09/facial-recognition-adoption-raises-eyebrows/" title="Facial Recognition Adoption Raises Eyebrows 2017.09.08">Facial Recognition Adoption Raises Eyebrows</a></li>
+	<li><span class="related_date">2017.08.31 </span> <a href="http://chinadigitaltimes.net/2017/08/gao-yu-tweets-show-state-surveillance-intimidation/" title="Gao Yu Tweets Show Continued Surveillance 2017.08.31">Gao Yu Tweets Show Continued Surveillance</a></li>
+	<li><span class="related_date">2017.08.24 </span> <a href="http://chinadigitaltimes.net/2017/08/canadian-journalist-briefly-detained-xinjiang/" title="Canadian Journalist Briefly Detained in Xinjiang 2017.08.24">Canadian Journalist Briefly Detained in Xinjiang</a></li>
+	<li><span class="related_date">2017.08.16 </span> <a href="http://chinadigitaltimes.net/2017/08/china-lashes-u-s-religious-freedom-report/" title="China Lashes Out at U.S. After Religious Freedom Report 2017.08.16">China Lashes Out at U.S. After Religious Freedom Report</a></li>
+	<li><span class="related_date">2017.07.20 </span> <a href="http://chinadigitaltimes.net/2017/07/xinjiang-residents-forced-install-spyware-phones/" title="Xinjiang Residents Forced to Install Spyware on Phones 2017.07.20">Xinjiang Residents Forced to Install Spyware on Phones</a></li>
+	<li><span class="related_date">2017.07.14 </span> <a href="http://chinadigitaltimes.net/2017/07/repressive-policies-toward-uyghurs-continue-worsen/" title="Repressive Policies toward Uyghurs Continue to Worsen 2017.07.14">Repressive Policies toward Uyghurs Continue to Worsen</a></li>
+	<li><span class="related_date">2017.06.30 </span> <a href="http://chinadigitaltimes.net/2017/06/losing-face-facial-recognition/" title="Facial Recognition Spreads in Shopping, Surveillance 2017.06.30">Facial Recognition Spreads in Shopping, Surveillance</a></li>
+	<li><span class="related_date">2017.06.23 </span> <a href="http://chinadigitaltimes.net/2017/06/perfect-police-state-emerging-xinjiang/" title="The &#8216;Perfect Police State&#8217; is Emerging in Xinjiang 2017.06.23">The &#8216;Perfect Police State&#8217; is Emerging in Xinjiang</a></li>
+	<li><span class="related_date">2017.05.26 </span> <a href="http://chinadigitaltimes.net/2017/05/surveilled-activists-fear-implications-draft-intelligence-law/" title="Activists Fear Draft Intelligence Law 2017.05.26">Activists Fear Draft Intelligence Law</a></li>
+	<li><span class="related_date">2017.05.25 </span> <a href="http://chinadigitaltimes.net/2017/05/two-chinese-nationals-kidnapped-balochistan-pakistan/" title="Two Chinese Nationals Kidnapped in Pakistan 2017.05.25">Two Chinese Nationals Kidnapped in Pakistan</a></li>
+	<li><span class="related_date">2017.05.18 </span> <a href="http://chinadigitaltimes.net/2017/05/draft-intelligence-law-increases-surveillance-capabilities/" title="Draft Intelligence Law Expands Surveillance 2017.05.18">Draft Intelligence Law Expands Surveillance</a></li>
+	<li><span class="related_date">2017.05.16 </span> <a href="http://chinadigitaltimes.net/2017/05/china-expected-expand-dna-collection-xinjiang/" title="China Expected to Expand DNA Collection in Xinjiang 2017.05.16">China Expected to Expand DNA Collection in Xinjiang</a></li>
+	<li><span class="related_date">2017.05.06 </span> <a href="http://chinadigitaltimes.net/2017/05/party-sets-special-bureau-xinjiang/" title="Party Sets Up Special Bureau for Xinjiang 2017.05.06">Party Sets Up Special Bureau for Xinjiang</a></li>
+	<li><span class="related_date">2017.04.27 </span> <a href="http://chinadigitaltimes.net/2017/04/xinjiang-authorities-ban-extreme-muslim-baby-names/" title="Ban on &#8220;Extreme&#8221; Muslim Baby Names in Xinjiang 2017.04.27">Ban on &#8220;Extreme&#8221; Muslim Baby Names in Xinjiang</a></li>
+</ul>
+
+          
+                </div><!--.related-->
+                    </div><!--.post-->
+	    </div><!--#content-->
+		<div id="sidebar_container">
+                        
+		            <div id="sidebar" class="widget-area" role="complementary">
+            <div id="listcategorypostswidget-5" class="widget-container widget_listcategorypostswidget"><h3 class="widget-title">CDT Highlights</h3><ul><li ><a href="http://chinadigitaltimes.net/2017/10/leader-week-reigning-emperor/" title="Leader of the Week: Reigning Emperor">Leader of the Week: Reigning Emperor</a>  </li><li ><a href="http://chinadigitaltimes.net/2017/10/nickname-week-big-spender/" title="Nickname of the Week: Big Spender">Nickname of the Week: Big Spender</a>  </li><li ><a href="http://chinadigitaltimes.net/2017/10/bird-week-thorn-bird/" title="Bird of the Week: Thorn Bird">Bird of the Week: Thorn Bird</a>  </li><li ><a href="http://chinadigitaltimes.net/2017/10/minitrue-delete-articles-related-korean-film-taxi-driver/" title="Minitrue: Delete References to Korean Film &#8220;A Taxi Driver&#8221;">Minitrue: Delete References to Korean Film &#8220;A Taxi Driver&#8221;</a>  </li><li ><a href="http://chinadigitaltimes.net/2017/10/translation-specter-haunting-china-guo-wenguiphobia/" title="Translation: &#8220;The Specter of Guo Wenguiphobia&#8221;">Translation: &#8220;The Specter of Guo Wenguiphobia&#8221;</a>  </li></ul><a href="http://chinadigitaltimes.net/china-news/cdt-highlights/" > </a></div><div id="text-8" class="widget-container widget_text"><h3 class="widget-title">CDT for iPhone &#038; iPad</h3>			<div class="textwidget"><a href="https://itunes.apple.com/us/app/china-digital-times-mobile/id900386877?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:210px;height:60px;background-size:contain;"></a></div>
+		</div><div id="twitter_timeline-3" class="widget-container widget_twitter_timeline"><h3 class="widget-title">CDT Chinese Highlights</h3><a class="twitter-timeline" data-width="210" data-height="300" data-theme="light" data-link-color="#285287" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" data-chrome="noheader nofooter transparent" data-widget-id="591670415296040960">My Tweets</a></div><div id="twitter_timeline-5" class="widget-container widget_twitter_timeline"><h3 class="widget-title">CDT on Twitter</h3><a class="twitter-timeline" data-width="210" data-height="300" data-theme="light" data-link-color="#285287" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" data-chrome="noheader nofooter transparent" data-widget-id="631564925656129536">My Tweets</a></div><div id="media_image-7" class="widget-container widget_media_image"><a href="http://chinadigitaltimes.net/china-digital-times-ebooks/" class="" rel="" target=""><img width="210" height="200" src="http://chinadigitaltimes.net/wp-content/uploads/2014/09/CDT-ebook-button.jpg" class="image wp-image-177346 alignnone attachment-full size-full" alt="" style="max-width: 100%; height: auto;" data-attachment-id="177346" data-permalink="http://chinadigitaltimes.net/cdt-ebook-button/" data-orig-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/CDT-ebook-button.jpg" data-orig-size="210,200" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="CDT-ebook-button" data-image-description="" data-medium-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/CDT-ebook-button.jpg" data-large-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/CDT-ebook-button.jpg" /></a></div><div id="advancedrandomposts-5" class="widget-container widget_advancedrandomposts"><h3 class="widget-title">From the Archives</h3><ul class="advanced-random-posts"><li><a href="http://chinadigitaltimes.net/2012/10/villagers-clash-with-police-over-coal-plant/" title="Villagers Clash With Police Over Coal Plant" >Villagers Clash With Police Over Coal Plant</a></li>
+<li><a href="http://chinadigitaltimes.net/2009/03/chinas-factories-get-desperate-as-orders-drop/" title="China's Factories Get Desperate as Orders Drop" >China's Factories Get Desperate as Orders Drop</a></li>
+<li><a href="http://chinadigitaltimes.net/2016/03/water-diplomacy-china-offers-downstream-drought-relief/" title="China Offers Drought Relief Downstream" >China Offers Drought Relief Downstream</a></li>
+</ul></div><div id="top-posts-3" class="widget-container widget_top-posts"><h3 class="widget-title">Popular Posts</h3><ul>				<li>
+										<a href="http://chinadigitaltimes.net/2016/06/photo-2016-%e5%85%ad%ef%bc%8e%e5%9b%9b-%e7%87%ad%e5%85%89%e6%99%9a%e6%9c%83-xexex/" class="bump-view" data-bump-view="tp">
+						Photo:  2016 六．四 燭光晚會, by XexeX					</a>
+									</li>
+							<li>
+										<a href="http://chinadigitaltimes.net/2015/08/sensitive-words-interview-with-xis-first-wife/" class="bump-view" data-bump-view="tp">
+						Sensitive Words: &quot;Interview&quot; with Xi&#039;s First Wife					</a>
+									</li>
+							<li>
+										<a href="http://chinadigitaltimes.net/2017/10/xi-launches-second-term-thoughts-charter-no-heir-sight/" class="bump-view" data-bump-view="tp">
+						Xi&#039;s Second Term: Name in Charter, No Heir in Sight					</a>
+									</li>
+			</ul></div>            </div><!-- #sidebar .widget-area -->
+		  
+        <div id="sidebar_links">
+			<div id="text-9" class="widget-container widget_text"><h3 class="widget-title">Support CDT</h3>			<div class="textwidget"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="BBDW4J62J6WW4">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+		</div><div id="media_image-10" class="widget-container widget_media_image"><h3 class="widget-title">CDT STORE</h3><a href="http://www.zazzle.com/chinadigitaltimes?rf=238966620827021256" class="" rel="" target=""><img width="378" height="378" src="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM.png" class="image wp-image-177414 aligncenter attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM.png 378w, http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM-150x150.png 150w, http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM-300x300.png 300w, http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM-70x70.png 70w" sizes="(max-width: 378px) 100vw, 378px" data-attachment-id="177414" data-permalink="http://chinadigitaltimes.net/screen-shot-2014-09-19-at-8-43-16-pm/" data-orig-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM.png" data-orig-size="378,378" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Screen Shot 2014-09-19 at 8.43.16 PM" data-image-description="" data-medium-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM-300x300.png" data-large-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-19-at-8.43.16-PM.png" /></a></div><div id="text-11" class="widget-container widget_text">			<div class="textwidget"><style type="text/css" scoped>@font-face{font-family:"GothamBookRegular"; src:url("https://product.givingassistant.org/branding/fonts/gotham-book.eot"); src:url("https://product.givingassistant.org/branding/fonts/gotham-book.eot") format("embedded-opentype"), url("https://product.givingassistant.org/branding/fonts/gotham-book.woff") format("woff"), url("https://product.givingassistant.org/branding/fonts/gotham-book.ttf") format("truetype"); }@font-face{font-family:"GothamBoldRegular"; src:url("https://product.givingassistant.org/branding/fonts/gotham-bold.eot"); src:url("https://product.givingassistant.org/branding/fonts/gotham-bold.eot") format("embedded-opentype"), url("https://product.givingassistant.org/branding/fonts/gotham-bold.woff") format("woff"), url("https://product.givingassistant.org/branding/fonts/gotham-bold.ttf") format("truetype");}</style><div style="height:167px; width:200px; position:relative; text-decoration:none !important; margin-bottom:15px;"><a href="https://givingassistant.org/np#china-digital-times-inc"><img alt="Givva" title="Donate to China Digital Times Inc." style="position:absolute; left:0; top:0;" src="https://product.givingassistant.org/ngo/badges/v1/Giving_Assistant_sm_Color_Background.png"/></a><div style="z-index:100; color:white; font-size:11px; font-family:GothamBookRegular; display:inline-block; padding:0 15px; position:absolute; top:60px; text-align:center; line-height:14px;">Use <a href="https://givingassistant.org/" style="color:inherit; text-decoration:inherit;"><b style="font-family:GothamBoldRegular;">Giving Assistant</b></a> to save money and support <b style="font-family:GothamBoldRegular;">China Digital Times Inc.</b></div> </div>
+		</div><div id="media_image-9" class="widget-container widget_media_image"><a href="https://smile.amazon.com/ch/45-5274376" class="" rel="" target=""><img width="604" height="504" src="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-4.17.22-PM.png" class="image wp-image-177354 alignnone attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-4.17.22-PM.png 604w, http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-4.17.22-PM-300x250.png 300w" sizes="(max-width: 604px) 100vw, 604px" data-attachment-id="177354" data-permalink="http://chinadigitaltimes.net/screen-shot-2014-09-18-at-4-17-22-pm/" data-orig-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-4.17.22-PM.png" data-orig-size="604,504" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Screen Shot 2014-09-18 at 4.17.22 PM" data-image-description="" data-medium-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-4.17.22-PM-300x250.png" data-large-file="http://chinadigitaltimes.net/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-4.17.22-PM.png" /></a></div><div id="text-5" class="widget-container widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CDT English Square -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:210px;height:210px"
+     data-ad-client="ca-pub-5188051657696948"
+     data-ad-slot="6603212511"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+ </div>
+		</div>        </div><!--sidebar_links-->
+        </div><!--#sidebar_container--> 
+	</div><!--#main-->
+    <div class="clear"></div>
+	<div id="footer" role="contentinfo">
+        <div id="footer_logo" onclick="location.href='http://chinadigitaltimes.net';" style="cursor:pointer;">
+        </div><!--#footer_logo-->
+        <div id="footer_links">
+                        <div class="menu-footer-links"><ul id="menu-footer-links" class="menu"><li id="menu-item-123037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123037"><a href="http://chinadigitaltimes.net/about/">About Us</a></li>
+<li id="menu-item-123038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123038"><a href="http://chinadigitaltimes.net/contact/">Contact Us</a></li>
+</ul></div>        </div><!--#footer_links-->
+        <div id="footer_newsletter">
+        <div id="newsletter_title">Subscribe to Us</div><!--#newsletter_title-->      	
+
+        <!-- Begin MailChimp Signup Form -->
+<form action="http://chinadigitaltimes.us4.list-manage.com/subscribe/post?u=17daa75df533f6c6ff72e51ab&id=b418522bb1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+	<input type="email" value="" name="EMAIL" id="mce-EMAIL" size="25" style="display:block;" placeholder="you@domain.com" required>
+	<input type="submit" value="Sign Up" name="subscribe" style="height: 20px;" id="mc-embedded-subscribe">
+</form>
+
+<!--End mc_embed_signup-->        </div><!--#footer_newsletter-->
+        <div id="footer_store">
+        <a href="http://www.zazzle.com/chinadigitaltimes/gifts" target="_blank">CDT Online Store</a>
+        </div><!--#footer_store-->
+        <div id="footer_social">
+        <!--#social_title-->
+            <ul>
+            	                	<li><a href="https://plus.google.com/b/102352597823180899622/" target="_blank"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/foot_icon_gplus.png" /></a></li>
+                            	                	<li><a href="https://www.facebook.com/ChinaDigitalTimes" target="_blank"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/foot_icon_fb.png" /></a></li>
+                            	                	<li><a href="https://twitter.com/cdt" target="_blank"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/foot_icon_twitter.png" /></a></li>
+                            	                	<li><a href="https://chinadigitaltimes.tumblr.com/" target="_blank"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/foot_icon_tu.png" /></a></li>
+                            	                	<li><a href="https://chinadigitaltimes.net/feed/" target="_blank"><img src="https://chinadigitaltimes.net/wp-content/themes/cdt/images/foot_icon_rss.png" /></a></li>
+                            </ul>
+        </div><!--#footer_social-->
+	</div><!--#footer-->
+    <div id="copy">
+    China Digital Times is supported by the Berkeley Counter-Power Lab | 2011 Copyright &copy; China Digital Times | Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>
+    </div><!--copy-->
+</div><!--#wrapper-->
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/chinadigitaltimes.net\/2017\/10\/xinjiang-becoming-frontline-laboratory-surveillance\/":203061};
+	</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/chinadigitaltimes.net\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"0","checkout_page":"https:\/\/chinadigitaltimes.net\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.8.8'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201743'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Octaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-content/plugins/jetpack/_inc/twitter-timeline.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://chinadigitaltimes.net/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=5.4'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+</script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201743.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.4',blog:'35652790',post:'203061',tz:'-7',srv:'chinadigitaltimes.net'} ]);
+	_stq.push([ 'clickTrackerInit', '35652790', '203061' ]);
+</script>
+</body>
+</html>

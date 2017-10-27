@@ -1,0 +1,1983 @@
+<!--[if !IE]> This has been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: produs--i-047dc1b6486a5dcce <![endif]-->
+<!--[if !IE]> Cached on Fri, 27 Oct 2017 08:45:23 GMT and will expire on Fri, 27 Oct 2017 08:50:22 GMT <![endif]-->
+<!--[if !IE]> token: a0421a86-5ae1-498e-aa67-298476aa1d8f <![endif]-->
+<!--[if !IE]> App Server /produs--i-0b23f8e1bc5679d2e/ <![endif]-->
+
+<!doctype html><html lang="en"><head>
+<title>Photos of the week | Reuters.com</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="utf-8"><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="//s1.reutersmedia.net"/><link rel="dns-prefetch" href="//s2.reutersmedia.net"/><link rel="dns-prefetch" href="//s3.reutersmedia.net"/><link rel="dns-prefetch" href="//s4.reutersmedia.net"/><link rel="dns-prefetch" href="//static.reuters.com"/><link rel="dns-prefetch" href="//www.googletagservices.com"/><link rel="dns-prefetch" href="//www.googletagmanager.com"/><link rel="dns-prefetch" href="//www.google-analytics.com"/><link rel="dns-prefetch" href="//static.chartbeat.com"/><meta name="robots" content="INDEX, FOLLOW">
+
+<!-- Segment -->
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ");
+  }}();
+    </script>
+
+<!-- Page hiding snippet  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',2000,{'GTM-W9SLGS':true});
+</script> 
+
+<!-- Data Layer Object Declaration -->
+<script>window.dataLayer = window.dataLayer || [];</script>
+
+<!-- New Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+    {'gtm.start': new Date().getTime(),event:'gtm.js'}
+    );var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W9SLGS');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="SVDMcE-27ZUUuh-EcZzejAJ0YIFjxD9H_nwAX6YVTw4" />
+<meta name="google-site-verification" content="H9ahVdRxjlM56O9Un526uBCSaj_izzkfUjOCS--Zpco" /><meta name="msvalidate.01" content="2055F771212E9574BFD5AF29D47FBA04" /><script type="text/javascript" >
+
+// Rubicon Initialize
+(function() {
+    var account_id = 11384;
+    var rct = document.createElement('script');
+        rct.type = 'text/javascript';
+        rct.async = true;
+        rct.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//ads.rubiconproject.com/header/' + account_id + '.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.appendChild(rct);
+})();
+
+</script><script type="text/javascript" src="//reuters-d.openx.net/w/1.0/jstag?nc=4735792-reuters"></script><div class="linebreak"></div>
+	<style>
+@font-face { font-family: 'knowledge-reg'; src: url('//static.reutersmedia.net/resources_v2/fonts/Knowledge-Regular.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'knowledge-light'; src: url('//static.reutersmedia.net/resources_v2/fonts/Knowledge-Light.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'knowledge-medium'; src: url('//static.reutersmedia.net/resources_v2/fonts/Knowledge-Medium.woff') format('woff'); font-weight: normal; font-style: normal; }
+</style>
+<script type="text/javascript" src="//www.reuters.com/reuters_bootstrap.js"></script><script type="text/javascript" src="//www.reuters.com/reuters_gpt_bootstrap.js"></script>
+<script type="text/javascript">var abp;</script><script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/px.js?ch=1"></script><script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/px.js?ch=2"></script>
+<script type="text/javascript">
+var parallelMediaHosts = new Array();
+parallelMediaHosts.push("s1.reutersmedia.net");parallelMediaHosts.push("s2.reutersmedia.net");parallelMediaHosts.push("s3.reutersmedia.net");parallelMediaHosts.push("s4.reutersmedia.net");</script>
+
+<meta name="DCSext.DartZone" content="us.reuters/pictures/article" />
+<meta name="analyticsAttributes.channel" content="Slideshow - Slideshow Page" />
+<meta name="analyticsAttributes.contentType" content="Slideshow" />
+<meta name="analyticsAttributes.contentChannel" content="Picture - Slideshow" />
+<meta name="analyticsAttributes.topicChannel" content="Picture" />
+<meta name="analyticsAttributes.topicSubChannel" content="Slideshow" />
+
+<link rel="canonical" href="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09" />
+                <meta name="twitter:card" content="gallery" />
+        <meta name="twitter:image0" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS" />
+            <meta name="twitter:image1" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388581&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC16D7F13370_RTRMADP_0_USA-PROTESTS" />
+            <meta name="twitter:image2" content="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388577&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC12B2199BD0_RTRMADP_0_KENYA-ELECTION" />
+            <meta name="twitter:image3" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388576&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRP10353494_RTRMADP_0_BASKETBALL-NBA-CLE-BOS" />
+            <meta name="description" content="Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin">
+<meta name="title" content="Photos of the week | Pictures | Reuters.com" />
+<meta name="author" content="Canice Leung">
+<meta name="keywords" content="PICTURES REPORT" />
+<meta name="news_keywords" content="PICTURES REPORT" />
+<link rel="image_src" href="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545&fw=810&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS" />
+<meta name="analyticsAttributes.articleDate" content="2017-10-20" />
+<meta name="analyticsAttributes.author" content="Canice Leung" />
+<meta name="analyticsAttributes.canonicalUrl" content="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09" />
+<meta name="analyticsAttributes.contentTitle" content="Photos of the week | Pictures | Reuters" />
+<meta name="analyticsAttributes.edition" content="U.S." />
+<meta name="analyticsAttributes.keywords" content="PICTURES REPORT" />
+<meta name="analyticsAttributes.keywordSlug" content="PICTURES REPORT" />
+<meta name="analyticsAttributes.slideshowCurrentSlideNumber" content="1" />
+<meta name="analyticsAttributes.slideshowTotalSlides" content="20" />
+
+<meta property="og:description" content="Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin" />
+<meta property="og:image" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545&fw=810&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="U.S." />
+<meta property="og:title" content="Photos of the week | Pictures | Reuters" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09" />
+<meta property="article:author" content="Canice Leung" />
+<meta property="article:modified_time" content="2017-10-20T21:50:36+0000" /> 
+<meta property="article:published_time" content="2017-10-20T21:50:36+0000" />
+<meta property="article:publisher" content="https://www.facebook.com/Reuters" />
+<meta property="article:section" content="RCOMUS_24" /> 
+<meta property="article:tag" content="PICTURES REPORT" />
+
+<meta name="twitter:description" content="Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin" />
+<meta name="twitter:image" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545&fw=810&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS" />
+<meta name="twitter:title" content="Photos of the week | Pictures | Reuters" />
+<meta name="twitter:card" content="gallery" />
+    <meta name="twitter:image0" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS" />
+<meta name="twitter:image1" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388581&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC16D7F13370_RTRMADP_0_USA-PROTESTS" />
+<meta name="twitter:image2" content="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388577&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC12B2199BD0_RTRMADP_0_KENYA-ELECTION" />
+<meta name="twitter:image3" content="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388576&w=&fh=545px&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRP10353494_RTRMADP_0_BASKETBALL-NBA-CLE-BOS" />
+<meta name="twitter:site" content="@Reuters" />
+<meta name="twitter:creator" content="@Reuters" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://mobile.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09" />
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09"
+    },
+    "description": "Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin",
+    "headline": "Photos of the week",
+    "url": "https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09",
+    "thumbnailUrl": "//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545&fw=810&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS",
+    "dateCreated": "2017-10-20T21:50:36+0000",
+    "dateModified": "2017-10-20T21:50:36+0000",
+    "articleSection": "RCOMUS_24", 
+    "creator": ["Canice Leung"],
+    "keywords": ["PICTURES REPORT", "Slideshow"],
+    "about": "Slideshow",
+    "author": ["Canice Leung"],
+    "datePublished": ["10/20/2017"],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Reuters",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png",
+          "width": "200",
+          "height": "200"
+        }
+    },
+    "image": {
+        "@type": "ImageObject", 
+        "author": "Canice Leung", 
+        "contentLocation": "KRASNOYARSK", 
+        "contentUrl": "//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545&fw=810&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS", 
+        "description": "Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin", 
+        "height":"300px", 
+        "width":"250px", 
+        "url":"https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09", 
+        "name": "Photos of the week" 
+    },
+    "associatedMedia": {
+        "@type": "ImageObject", 
+        "author": "Canice Leung", 
+        "contentLocation": "KRASNOYARSK", 
+        "contentUrl": "//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=&fh=545&fw=810&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS", 
+        "description": "Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin", 
+        "name": "Photos of the week" 
+    }
+}
+</script>		
+<script>
+if (abp == false || abp == '0'){ adBlocked = '0'; } else { adBlocked = '1'; }	
+analytics.page('Slideshow', {		
+    article_keyword_slug: 'PICTURES REPORT',		
+    content_type: 'Slideshow',		
+    edition: 'U.S.',		
+    canonical_url: 'https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09',		
+    content_channel: 'Picture - Slideshow',  		
+    content_title: 'Photos of the week',		
+    content_type_channel: 'Slideshow - Slideshow Page',		
+    content_author: 'Canice Leung',		
+    content_date: '2017-10-20',		
+    keywords: 'PICTURES REPORT',		
+    topic_channel: 'Picture',		
+    topic_sub_channel: 'Slideshow',
+    ad_blocked: adBlocked,
+    platform: 'Desktop',	
+    page_view_type: 'Page Load'		
+});
+if (document.referrer.indexOf('/article/') > -1) {
+    analytics.track('article.recirculation', {
+        article_keyword_slug: 'PICTURES REPORT',		
+        content_type: 'Slideshow',		
+        edition: 'U.S.',		
+        canonical_url: 'https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09',		
+        content_channel: 'Picture - Slideshow',  		
+        content_title: 'Photos of the week',		
+        content_type_channel: 'Slideshow - Slideshow Page',		
+        content_author: 'Canice Leung',		
+        content_date: '2017-10-20',		
+        keywords: 'PICTURES REPORT',		
+        topic_channel: 'Picture',		
+        topic_sub_channel: 'Slideshow',
+        ad_blocked: adBlocked
+    });
+}
+window.article_platform = 'Desktop';
+window.article_edition = 'U.S.';
+</script>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://s3.reutersmedia.net/resources_v2/images/favicon/favicon.ico" />
+<link rel="icon" type="image/png" href="https://s3.reutersmedia.net/resources_v2/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://s1.reutersmedia.net/resources_v2/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://s3.reutersmedia.net/resources_v2/images/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="stylesheet" type="text/css" href="https://s2.reutersmedia.net/resources_v2/css/core.css" />
+<link rel="stylesheet" type="text/css" href="https://s4.reutersmedia.net/resources_v2/css/core-modules.css" />
+    <script src="https://s3.reutersmedia.net/resources_v2/js/libraries/jquery-2.2.4.min.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/resources_v2/css/core-slideshow.css" />
+<script src="https://s2.reutersmedia.net/resources_v2/js/libraries/cookie.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/core.js" type="text/javascript"></script>
+<script src="https://s4.reutersmedia.net/resources_v2/js/libraries/slideshow.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/search.js" type="text/javascript"></script>
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/reuters-network/loader.js');
+</script>
+
+<script type='text/javascript'>
+        var _sf_async_config = _sf_async_config || {};
+        _sf_async_config.uid = 52639; 
+        _sf_async_config.domain = 'reuters.com';  
+        _sf_async_config.topStorageDomain = 'reuters.com'; 
+        _sf_async_config.path = document.querySelector("link[rel='canonical']").getAttribute("href").replace('http://www.', '').replace('https://www.', ''); 
+        _sf_async_config.flickerControl = false;
+        var _sf_startpt = (new Date()).getTime();
+    </script><script async src='//static.chartbeat.com/js/chartbeat_mab.js'></script></head>
+<body class="BETAUS slideshow">
+    <!-- New Google Tag Manager (noscript) -->
+         <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+    <!-- End Google Tag Manager (noscript) -->
+
+<section id="breakingNewsContainer" class="hidden"><div id="breakingNews" class="group wrap"><div class="breaking-content"><div class="breaking-news-type"></div><div class="breaking-news-content"></div></div><div class="close-btn">X</div></div></section>
+
+    <header id="headerMain">
+        <div class="container group">
+            <div class="edition-container group">
+                <div class="edition-label">Edition:</div>
+                <div class="edition-selector">
+                    <div class="edition">United States</div>
+                    <div class="edition-arrow"></div>
+                </div>
+            </div>
+            <div class="reuters-nav-main">
+                <h2 class="reuters-logo">
+                    <a href="/" title="Reuters"></a>
+                </h2>
+            </div>
+            <div id="utilities" class="utilities"></div>
+        </div>
+    </header>
+    <nav id="headerNav">
+        <div class="container group">
+            <div class="header-mini-logo">
+                    <a href="/" title="Reuters"></a>
+            </div>
+            <ul class="horizontal-list nav-list">
+                <li class="nav-item home-tab active-icon
+                                                no-subnav" id="nav-item-1">
+                                            <a href="/home" class="nav-link-sec">
+                                                <div class="home-icon"></div>
+                                                <span class="text"></span>
+                                            </a>
+                                        </li>
+                <li class="nav-item" id="nav-item-2">
+                                       <a href="/finance" class="nav-link-sec">Business</a>
+                                <div class="subnav" id="subnav-2">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/finance" class="nav-link-subsec">Business Home</a></li>
+                                        <li><a href="/legal" class="nav-link-subsec">Legal</a></li>
+                                        <li><a href="/finance/deals" class="nav-link-subsec">Deals</a></li>
+                                        <li><a href="/subjects/aerospace-and-defense" class="nav-link-subsec">Aerospace & Defense</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/subjects/banks" class="nav-link-subsec">Finance</a></li>
+                                        <li><a href="/subjects/autos" class="nav-link-subsec">Autos</a></li>
+                                        <li><a href="/finance/summits" class="nav-link-subsec">Reuters Summits</a></li>
+                                        <li><a href="/news/subjects/ADventures" class="nav-link-subsec">ADventures</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/data-dive" class="nav-link-subsec">Data Dive</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-3">
+                                       <a href="/finance/markets" class="nav-link-sec">Markets</a>
+                                <div class="subnav" id="subnav-3">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/finance/markets" class="nav-link-subsec">Markets Home</a></li>
+                                        <li><a href="/finance/markets/us" class="nav-link-subsec">U.S. Markets</a></li>
+                                        <li><a href="/finance/markets/europe" class="nav-link-subsec">European Markets</a></li>
+                                        <li><a href="/finance/markets/asia" class="nav-link-subsec">Asian Markets</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/finance/global-market-data" class="nav-link-subsec">Global Market Data</a></li>
+                                        <li><a href="/finance/markets/indices" class="nav-link-subsec">Stocks</a></li>
+                                        <li><a href="/finance/bonds" class="nav-link-subsec">Bonds</a></li>
+                                        <li><a href="/finance/currencies" class="nav-link-subsec">Currencies</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/finance/commodities" class="nav-link-subsec">Commodities</a></li>
+                                        <li><a href="/finance/futures" class="nav-link-subsec">Futures</a></li>
+                                        <li><a href="/finance/funds" class="nav-link-subsec">Funds</a></li>
+                                        <li><a href="/finance/EarningsUS" class="nav-link-subsec">Earnings</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/finance/markets/dividends" class="nav-link-subsec">Dividends</a></li>
+                                        <li><a href="/finance/exchange-traded-funds" class="nav-link-subsec">Exchange-Traded Funds</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-4">
+                                       <a href="/news/world" class="nav-link-sec">World</a>
+                                <div class="subnav" id="subnav-4">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/news/world" class="nav-link-subsec">World Home</a></li>
+                                        <li><a href="/news/us" class="nav-link-subsec">U.S.</a></li>
+                                        <li><a href="/subjects/specialReports" class="nav-link-subsec">Special Reports</a></li>
+                                        <li><a href="//www.reuters.com/investigates/" class="nav-link-subsec">Reuters Investigates</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/subjects/euro-zone" class="nav-link-subsec">Euro Zone</a></li>
+                                        <li><a href="/subjects/middle-east" class="nav-link-subsec">Middle East</a></li>
+                                        <li><a href="/places/china" class="nav-link-subsec">China</a></li>
+                                        <li><a href="/places/japan" class="nav-link-subsec">Japan</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/places/mexico" class="nav-link-subsec">Mexico</a></li>
+                                        <li><a href="/places/brazil" class="nav-link-subsec">Brazil</a></li>
+                                        <li><a href="/places/africa" class="nav-link-subsec">Africa</a></li>
+                                        <li><a href="/places/russia" class="nav-link-subsec">Russia</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/places/india" class="nav-link-subsec">India</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-5">
+                                       <a href="/politics" class="nav-link-sec">Politics</a>
+                                <div class="subnav" id="subnav-5">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/politics" class="nav-link-subsec">Politics Home</a></li>
+                                        <li><a href="http://polling.reuters.com" class="nav-link-subsec">Polling Explorer</a></li>
+                                        <li><a href="http://live.reuters.com/Event/Live_US_Politics" class="nav-link-subsec">Live: U.S. Politics</a></li>
+                                        <li><a href="/subjects/supreme-court" class="nav-link-subsec">Supreme Court</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-6">
+                                       <a href="/news/technology" class="nav-link-sec">Tech</a>
+                                <div class="subnav" id="subnav-6">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/news/technology" class="nav-link-subsec">Technology Home</a></li>
+                                        <li><a href="/news/science" class="nav-link-subsec">Science</a></li>
+                                        <li><a href="/bizfinance/technology/Top100Innovators" class="nav-link-subsec">Top 100 Global Innovators</a></li>
+                                        <li><a href="/news/media" class="nav-link-subsec">Media</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/energy-environment" class="nav-link-subsec">Energy and Environment</a></li>
+                                        <li><a href="/innovation" class="nav-link-subsec">Innovation</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-7">
+                                       <a href="/commentary" class="nav-link-sec">Commentary</a>
+                                <div class="subnav" id="subnav-7">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/commentary" class="nav-link-subsec">Commentary Home </a></li>
+                                        <li><a href="/tools/podcasts/" class="nav-link-subsec">Podcasts</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-8">
+                                       <a href="/breakingviews" class="nav-link-sec">Breakingviews</a>
+                                <div class="subnav" id="subnav-8">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/breakingviews" class="nav-link-subsec">Breakingviews Home</a></li>
+                                        <li><a href="/video/breakingviews" class="nav-link-subsec">Breakingviews Video</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-9">
+                                       <a href="/finance/personal-finance" class="nav-link-sec">Money</a>
+                                <div class="subnav" id="subnav-9">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/finance/personal-finance" class="nav-link-subsec">Money Home</a></li>
+                                        <li><a href="/finance/personal-finance/retirement" class="nav-link-subsec">Retirement</a></li>
+                                        <li><a href="/subjects/us-lipper-awards" class="nav-link-subsec">Lipper Awards</a></li>
+                                        <li><a href="/finance/personal-finance/analyst-research" class="nav-link-subsec">Analyst Research</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="https://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" class="nav-link-subsec">Stock Screener</a></li>
+                                        <li><a href="https://funds.us.reuters.com/US/screener/screener.asp" class="nav-link-subsec">Fund Screener</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-10">
+                                       <a href="/news/lifestyle" class="nav-link-sec">Life</a>
+                                <div class="subnav" id="subnav-10">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/news/health" class="nav-link-subsec">Health</a></li>
+                                        <li><a href="/news/sports" class="nav-link-subsec">Sports</a></li>
+                                        <li><a href="/news/entertainment/arts" class="nav-link-subsec">Arts</a></li>
+                                        <li><a href="/news/entertainment" class="nav-link-subsec">Entertainment</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/news/oddlyEnough" class="nav-link-subsec">Oddly Enough</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item pictures-tab active-icon active-text
+                                               " id="nav-item-11">
+                                            <a href="/news/pictures" class="nav-link-sec">
+                                                <div class="pictures-icon"></div>
+                                                <span class="text">Pictures</span>
+                                            </a>
+                                        <div class="subnav" id="subnav-11">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/news/pictures" class="nav-link-subsec">Pictures Home</a></li>
+                                        <li><a href="http://widerimage.reuters.com" class="nav-link-subsec">The Wider Image</a></li>
+                                        <li><a href="http://widerimage.reuters.com/photographer" class="nav-link-subsec">Photographers</a></li>
+                                        <li><a href="/focus-360/" class="nav-link-subsec">Focus 360</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item video-tab active-icon active-text
+                                                no-subnav" id="nav-item-12">
+                                            <a href="/video" class="nav-link-sec">
+                                                <div class="video-icon"></div>
+                                                <span class="text">Video</span>
+                                            </a>
+                                        </li>
+                <li class="nav-item search-tab active-icon no-subnav"><div class="search-icon"></div></li>
+            </ul>
+            <div id="searchBar">
+                <form id="searchForm" class="search-form" name="searchbox" method="get" action="/search/news" autocomplete="off">
+                    <input id="searchfield" class="search-field" name="blob" type="text" value="" onfocus="this.value = this.value;"  size="30" maxlength="128">
+                    <span class="search-line"></span>
+                    <input type="submit" id="search-submit-button" class="search-submit-button" value="" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }">
+                    <div class="search-close-button"></div>
+                </form>
+            </div>
+            </div>
+    </nav>
+    <div class="nav-white-space"></div>
+    <div class="edition-header">
+        <div class="container">
+            <div class="selection-header"></div>
+            <ul class="edition-list">
+                <li>
+                    <div class="item"><a href="//af.reuters.com">Africa</a></div>
+                    <div class="item"><a href="//lta.reuters.com">América Latina</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//ara.reuters.com">عربي</a></div>
+                    <div class="item"><a href="//ar.reuters.com">Argentina</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//br.reuters.com">Brasil</a></div>
+                    <div class="item"><a href="//ca.reuters.com">Canada</a></div>
+                </li>   
+                <li>
+                    <div class="item"><a href="//cn.reuters.com" class="">中国</a></div>
+                    <div class="item"><a href="//de.reuters.com" class="">Deutschland</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//es.reuters.com">España</a></div>
+                    <div class="item"><a href="//fr.reuters.com">France</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//in.reuters.com" class="">India</a></div>
+                    <div class="item"><a href="//it.reuters.com">Italia</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//jp.reuters.com" class="">日本</a></div>
+                    <div class="item"><a href="//mx.reuters.com">México</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//ru.reuters.com">РОССИЯ</a></div>
+                    <div class="item"><a href="//uk.reuters.com" class="">United Kingdom</a></div>
+                </li> 
+                <li><div class="item"><a href="//www.reuters.com" class="active">United States</a></div></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div id="content">
+            <div id="overlayForSearch"></div><section>
+	<div class="group" id="bannerStrip">
+		<script type="text/javascript">
+    (function() {
+        function loadHorizon() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+            if (typeof oldOnLoad === 'function') {
+                oldOnLoad();
+            }
+            Sailthru.setup({
+                domain: 'horizon.reuters.com',
+                spider: true,
+                concierge: false,
+                useStoredTags: false
+            });
+        };
+    })();
+</script><div class="linebreak"></div>
+	</div>
+	</section><div class="section mainSlideshow bleeding">
+	<div class="sectionContent">
+<div class="group wrap">
+<div id="div_gpt_lb"><script>
+gatherAd('div_gpt_lb', [[728, 90],[970,250],[970,180],[970,90],[1,1]], 'us.reuters/pictures/slideshow', 'yes', 'leaderboard');
+</script>
+</div><div class="wrap group">
+    <div class="section-back">
+        <span class="section-text"><a href="/news/pictures">Pictures</a></span>
+        <span class="divider">|</span>
+        <span class="timestamp">Fri Oct 20, 2017 | 5:50pm EDT</span>
+    </div>
+    <div class="current-channel-header">
+        <h1 class="current-channel-title">Photos of the week</h1>
+    </div>
+</div>
+<div class="current-channel-container">
+    <div class="group wrap">
+        <div class="slide-container slideshow-slide-container"
+             data-slide-ad-position="999999999999"
+             data-slide-ad-timer="3">
+            <div class="slide-list-container">
+                <div class="slider slide-list center">
+
+                    <div class="slide" data-slide-id="1206388582">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS" alt='Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Wednesday, October 18, 2017</span>
+                                            </div>
+                                            Anfisa, a 12-year-old female chimpanzee, picks its nose at the Royev Ruchey Zoo in a suburb of the Siberian city of Krasnoyarsk, Russia October 18, 2017. REUTERS/Ilya Naymushin</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388582"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388582"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">1</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388581">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388581&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC16D7F13370_RTRMADP_0_USA-PROTESTS" alt='A man walks with a bloody lip as demonstrators yell at him outside the location where Richard Spencer, an avowed white nationalist and spokesperson for the so-called alt-right movement, is delivering a speech on the campus of the University of Florida in Gainesville, Florida, October 19, 2017. REUTERS/Shannon Stapleton' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A man walks with a bloody lip as demonstrators yell at him outside the location where Richard Spencer, an avowed white nationalist and spokesperson for the so-called alt-right movement, is delivering a speech on the campus of the University of...<span class="extended-txt-btn">more</span>
+                                                    </p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Thursday, October 19, 2017</span>
+                                            </div>
+                                            A man walks with a bloody lip as demonstrators yell at him outside the location where Richard Spencer, an avowed white nationalist and spokesperson for the so-called alt-right movement, is delivering a speech on the campus of the University of Florida in Gainesville, Florida, October 19, 2017. REUTERS/Shannon Stapleton</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388581"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388581"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388581&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC16D7F13370_RTRMADP_0_USA-PROTESTS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">2</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388577">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388577&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC12B2199BD0_RTRMADP_0_KENYA-ELECTION" alt='An opposition politician of the National Super Alliance (NASA) coalition, reacts after a gas canister fired by policemen hits his car during a protest along a street in Nairobi, Kenya October 13, 2017. REUTERS/Baz Ratner' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>An opposition politician of the National Super Alliance (NASA) coalition, reacts after a gas canister fired by policemen hits his car during a protest along a street in Nairobi, Kenya October 13, 2017. REUTERS/Baz Ratner</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Friday, October 13, 2017</span>
+                                            </div>
+                                            An opposition politician of the National Super Alliance (NASA) coalition, reacts after a gas canister fired by policemen hits his car during a protest along a street in Nairobi, Kenya October 13, 2017. REUTERS/Baz Ratner</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388577"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388577"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388577&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC12B2199BD0_RTRMADP_0_KENYA-ELECTION"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">3</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388576">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388576&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRP10353494_RTRMADP_0_BASKETBALL-NBA-CLE-BOS" alt='Boston Celtics forward Gordon Hayward sits on the court after injuring his ankle during the first half against the Cleveland Cavaliers in Cleveland, Ohio, October 17, 2017. Mandatory Credit: Ken Blaze-USA TODAY Sports' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Boston Celtics forward Gordon Hayward sits on the court after injuring his ankle during the first half against the Cleveland Cavaliers in Cleveland, Ohio, October 17, 2017. Mandatory Credit: Ken Blaze-USA TODAY Sports</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Tuesday, October 17, 2017</span>
+                                            </div>
+                                            Boston Celtics forward Gordon Hayward sits on the court after injuring his ankle during the first half against the Cleveland Cavaliers in Cleveland, Ohio, October 17, 2017. Mandatory Credit: Ken Blaze-USA TODAY Sports</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388576"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388576"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388576&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRP10353494_RTRMADP_0_BASKETBALL-NBA-CLE-BOS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">4</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388593">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388593&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1B19F48500_RTRMADP_0_VIETNAM-FLOODS" alt='People watch as Hoa Binh hydroelectric power plant opens the floodgates after a heavy rainfall caused by a tropical depression in Hoa Binh province, outside Hanoi, Vietnam October 12, 2017. REUTERS/Kham' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>People watch as Hoa Binh hydroelectric power plant opens the floodgates after a heavy rainfall caused by a tropical depression in Hoa Binh province, outside Hanoi, Vietnam October 12, 2017. REUTERS/Kham</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Thursday, October 12, 2017</span>
+                                            </div>
+                                            People watch as Hoa Binh hydroelectric power plant opens the floodgates after a heavy rainfall caused by a tropical depression in Hoa Binh province, outside Hanoi, Vietnam October 12, 2017. REUTERS/Kham</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388593"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388593"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388593&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1B19F48500_RTRMADP_0_VIETNAM-FLOODS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">5</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388592">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388592&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1A613DAE50_RTRMADP_0_STORM-OPHELIA-BRITAIN" alt='The sky turns red over buildings in Canary Wharf as dust from the Sahara carried by storm Ophelia filters sunlight over London, Britain, October 16, 2017. REUTERS/Tom Jacobs' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>The sky turns red over buildings in Canary Wharf as dust from the Sahara carried by storm Ophelia filters sunlight over London, Britain, October 16, 2017. REUTERS/Tom Jacobs</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Monday, October 16, 2017</span>
+                                            </div>
+                                            The sky turns red over buildings in Canary Wharf as dust from the Sahara carried by storm Ophelia filters sunlight over London, Britain, October 16, 2017. REUTERS/Tom Jacobs</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388592"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388592"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388592&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1A613DAE50_RTRMADP_0_STORM-OPHELIA-BRITAIN"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">6</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388596">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388596&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC183737D9A0_RTRMADP_0_USA-TRUMP" alt='U.S. Secretary of State Rex Tillerson listens as President Donald Trump holds a cabinet meeting at the White House in Washington, October 16, 2017. REUTERS/Kevin Lamarque' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>U.S. Secretary of State Rex Tillerson listens as President Donald Trump holds a cabinet meeting at the White House in Washington, October 16, 2017. REUTERS/Kevin Lamarque</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Monday, October 16, 2017</span>
+                                            </div>
+                                            U.S. Secretary of State Rex Tillerson listens as President Donald Trump holds a cabinet meeting at the White House in Washington, October 16, 2017. REUTERS/Kevin Lamarque</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388596"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388596"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388596&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC183737D9A0_RTRMADP_0_USA-TRUMP"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">7</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388580">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388580&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC161A205360_RTRMADP_0_INDONESIA-DOGFIGHTING" alt='A dog and wild boar fight during a contest, known locally as &#039;adu bagong&#039; (boar fighting), in Cikawao village of Majalaya, West Java province, Indonesia, September 24, 2017. REUTERS/Beawiharta' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A dog and wild boar fight during a contest, known locally as 'adu bagong' (boar fighting), in Cikawao village of Majalaya, West Java province, Indonesia, September 24, 2017. REUTERS/Beawiharta</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Tuesday, October 17, 2017</span>
+                                            </div>
+                                            A dog and wild boar fight during a contest, known locally as 'adu bagong' (boar fighting), in Cikawao village of Majalaya, West Java province, Indonesia, September 24, 2017. REUTERS/Beawiharta</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388580"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388580"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388580&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC161A205360_RTRMADP_0_INDONESIA-DOGFIGHTING"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">8</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388584">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388584&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1A1A503390_RTRMADP_0_INDIA-PROTEST" alt='A Tibetan exile is detained by police during a protest against a second five-year term for Chinese President Xi Jinping, as the Chinese Communist Party Congress takes place in Beijing, outside the Chinese embassy in New Delhi, India October 18, 2017. REUTERS/Adnan Abidi' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A Tibetan exile is detained by police during a protest against a second five-year term for Chinese President Xi Jinping, as the Chinese Communist Party Congress takes place in Beijing, outside the Chinese embassy in New Delhi, India October 18, 2017....<span class="extended-txt-btn">more</span>
+                                                    </p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Wednesday, October 18, 2017</span>
+                                            </div>
+                                            A Tibetan exile is detained by police during a protest against a second five-year term for Chinese President Xi Jinping, as the Chinese Communist Party Congress takes place in Beijing, outside the Chinese embassy in New Delhi, India October 18, 2017. REUTERS/Adnan Abidi</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388584"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388584"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388584&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1A1A503390_RTRMADP_0_INDIA-PROTEST"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">9</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388578">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388578&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1140127430_RTRMADP_0_FRANCE-REFORM-PROTEST-STEEL-WORKERS" alt='A French CRS riot policewoman faces French steel workers from the French CGT trade union during a demonstration in Paris, France, October 13, 2017. REUTERS/Charles Platiau' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A French CRS riot policewoman faces French steel workers from the French CGT trade union during a demonstration in Paris, France, October 13, 2017. REUTERS/Charles Platiau</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Friday, October 13, 2017</span>
+                                            </div>
+                                            A French CRS riot policewoman faces French steel workers from the French CGT trade union during a demonstration in Paris, France, October 13, 2017. REUTERS/Charles Platiau</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388578"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388578"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388578&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1140127430_RTRMADP_0_FRANCE-REFORM-PROTEST-STEEL-WORKERS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">10</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388591">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388591&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1C66250A00_RTRMADP_0_PORTUGAL-FIRE" alt='A burnt house is seen following a forest fire in Vila Nova, near Vouzela, Portugal, October 16, 2017. REUTERS/Pedro Nunes' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A burnt house is seen following a forest fire in Vila Nova, near Vouzela, Portugal, October 16, 2017. REUTERS/Pedro Nunes</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Monday, October 16, 2017</span>
+                                            </div>
+                                            A burnt house is seen following a forest fire in Vila Nova, near Vouzela, Portugal, October 16, 2017. REUTERS/Pedro Nunes</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388591"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388591"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388591&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1C66250A00_RTRMADP_0_PORTUGAL-FIRE"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">11</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388589">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388589&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1FE37DFC10_RTRMADP_0_IVORYCOAST-CRASH" alt='People pull the wreckage of a propeller-engine cargo plane after it crashed in the sea near the international airport in Ivory Coast&#039;s main city, Abidjan, October 14, 2017. REUTERS/Ange Aboa' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>People pull the wreckage of a propeller-engine cargo plane after it crashed in the sea near the international airport in Ivory Coast's main city, Abidjan, October 14, 2017. REUTERS/Ange Aboa</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Saturday, October 14, 2017</span>
+                                            </div>
+                                            People pull the wreckage of a propeller-engine cargo plane after it crashed in the sea near the international airport in Ivory Coast's main city, Abidjan, October 14, 2017. REUTERS/Ange Aboa</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388589"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388589"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388589&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1FE37DFC10_RTRMADP_0_IVORYCOAST-CRASH"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">12</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388594">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388594&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1CF3B7F400_RTRMADP_0_MYANMAR-ROHINGYA-BANGLADESH" alt='A foot of a newborn Rohingya baby is pictured at a medical center in Kutupalong refugee camp in Cox&#039;s Bazar, Bangladesh, October 15, 2017. REUTERS/Zohra Bensemra' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A foot of a newborn Rohingya baby is pictured at a medical center in Kutupalong refugee camp in Cox's Bazar, Bangladesh, October 15, 2017. REUTERS/Zohra Bensemra</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Sunday, October 15, 2017</span>
+                                            </div>
+                                            A foot of a newborn Rohingya baby is pictured at a medical center in Kutupalong refugee camp in Cox's Bazar, Bangladesh, October 15, 2017. REUTERS/Zohra Bensemra</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388594"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388594"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388594&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1CF3B7F400_RTRMADP_0_MYANMAR-ROHINGYA-BANGLADESH"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">13</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388587">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388587&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC15208DAF00_RTRMADP_0_MYANMAR-FIRE" alt='Police officers stand guard during a fire at Kandawgyi Palace hotel in Yangon, Myanmar October 19, 2017 . REUTERS/Soe Zeya Tun' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Police officers stand guard during a fire at Kandawgyi Palace hotel in Yangon, Myanmar October 19, 2017 . REUTERS/Soe Zeya Tun</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Wednesday, October 18, 2017</span>
+                                            </div>
+                                            Police officers stand guard during a fire at Kandawgyi Palace hotel in Yangon, Myanmar October 19, 2017 . REUTERS/Soe Zeya Tun</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388587"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388587"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388587&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC15208DAF00_RTRMADP_0_MYANMAR-FIRE"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">14</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388585">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388585&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1552C2D750_RTRMADP_0_MIDEAST-CRISIS-IRAQ-KURDS-KIRKUK" alt='Iraqi boys gather on the road as they welcome Iraqi security forces members advancing in military vehicles in Kirkuk, Iraq October 16, 2017. REUTERS/Stringer' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Iraqi boys gather on the road as they welcome Iraqi security forces members advancing in military vehicles in Kirkuk, Iraq October 16, 2017. REUTERS/Stringer</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Monday, October 16, 2017</span>
+                                            </div>
+                                            Iraqi boys gather on the road as they welcome Iraqi security forces members advancing in military vehicles in Kirkuk, Iraq October 16, 2017. REUTERS/Stringer</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388585"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388585"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s3.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388585&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1552C2D750_RTRMADP_0_MIDEAST-CRISIS-IRAQ-KURDS-KIRKUK"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">15</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388583">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388583&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1718C64370_RTRMADP_0_RELIGION-DIWALI" alt='A devotee lights oil lamps at a religious ceremony during Diwali, or Deepavali, festival at a Hindu temple in Colombo, Sri Lanka October 18, 2017. REUTERS/Dinuka Liyanawatte' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A devotee lights oil lamps at a religious ceremony during Diwali, or Deepavali, festival at a Hindu temple in Colombo, Sri Lanka October 18, 2017. REUTERS/Dinuka Liyanawatte</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Wednesday, October 18, 2017</span>
+                                            </div>
+                                            A devotee lights oil lamps at a religious ceremony during Diwali, or Deepavali, festival at a Hindu temple in Colombo, Sri Lanka October 18, 2017. REUTERS/Dinuka Liyanawatte</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388583"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388583"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388583&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC1718C64370_RTRMADP_0_RELIGION-DIWALI"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">16</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388579">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388579&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14CCC5A110_RTRMADP_0_CHINA-CONGRESS" alt='Former Chinese President Jiang Zemin attends the opening session of the 19th National Congress of the Communist Party of China at the Great Hall of the People in Beijing, China October 18, 2017. REUTERS/Jason Lee' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Former Chinese President Jiang Zemin attends the opening session of the 19th National Congress of the Communist Party of China at the Great Hall of the People in Beijing, China October 18, 2017. REUTERS/Jason Lee</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Wednesday, October 18, 2017</span>
+                                            </div>
+                                            Former Chinese President Jiang Zemin attends the opening session of the 19th National Congress of the Communist Party of China at the Great Hall of the People in Beijing, China October 18, 2017. REUTERS/Jason Lee</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388579"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388579"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388579&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14CCC5A110_RTRMADP_0_CHINA-CONGRESS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">17</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388590">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388590&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC17681A1650_RTRMADP_0_IRAN-NUCLEAR" alt='A man displays a picture of U.S. President Donald Trump on his phone in Tehran, Iran October 13, 2017. Nazanin Tabatabaee Yazdi/TIMA via REUTERS' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>A man displays a picture of U.S. President Donald Trump on his phone in Tehran, Iran October 13, 2017. Nazanin Tabatabaee Yazdi/TIMA via REUTERS</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Friday, October 13, 2017</span>
+                                            </div>
+                                            A man displays a picture of U.S. President Donald Trump on his phone in Tehran, Iran October 13, 2017. Nazanin Tabatabaee Yazdi/TIMA via REUTERS</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388590"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388590"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388590&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC17681A1650_RTRMADP_0_IRAN-NUCLEAR"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">18</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388588">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388588&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC16A10BA8F0_RTRMADP_0_CALIFORNIA-FIRE" alt='Firefighters battle a wildfire near Santa Rosa, California, October 14, 2017. REUTERS/Jim Urquhart' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Firefighters battle a wildfire near Santa Rosa, California, October 14, 2017. REUTERS/Jim Urquhart</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Sunday, October 15, 2017</span>
+                                            </div>
+                                            Firefighters battle a wildfire near Santa Rosa, California, October 14, 2017. REUTERS/Jim Urquhart</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388588"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388588"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388588&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC16A10BA8F0_RTRMADP_0_CALIFORNIA-FIRE"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">19</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide" data-slide-id="1206388586">
+                        <div class="slide-image">
+                        <div class="slide-image-enclosure ">
+                            <img data-lazy="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388586&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC12BCA81810_RTRMADP_0_MALTA-CARBOMB" alt='Forensic experts walk in a field after a powerful bomb blew up a car (foreground) and killed investigative journalist Daphne Caruana Galizia in Bidnija, Malta, October 16, 2017. REUTERS/Darrin Zammit Lupi' /></div></div>
+                        <div class="slide-desc">
+                            <div class="grid8 slide-desc-main-container">
+                                <div class="slide-desc-main">
+                                    <div class="slide-desc-txt">
+                                        <p>Forensic experts walk in a field after a powerful bomb blew up a car (foreground) and killed investigative journalist Daphne Caruana Galizia in Bidnija, Malta, October 16, 2017. REUTERS/Darrin Zammit Lupi</p>
+                                            </div>
+                                    <div class="slide-desc-txt extended-txt-container">
+
+                                        <div class="extended-txt">
+                                            <div class="slide-desc-info slide-desc-byline">
+                                                <span class="slide-desc-credit">Reuters</span> /
+                                                <span class="slide-desc-date">Monday, October 16, 2017</span>
+                                            </div>
+                                            Forensic experts walk in a field after a powerful bomb blew up a car (foreground) and killed investigative journalist Daphne Caruana Galizia in Bidnija, Malta, October 16, 2017. REUTERS/Darrin Zammit Lupi</div>
+                                        <span class="close-extended-txt-btn">Close</span>
+                                    </div>
+                                    <div class="slide-desc-share">
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388586"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09/1206388586"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s2.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388586&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC12BCA81810_RTRMADP_0_MALTA-CARBOMB"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid2 slide-desc-more">
+                                <span class="slide-desc-slidenum"><span class="slide-desc-curnum">20</span> / <span class="slide-desc-totalnum">20</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slide slide-end-screen" data-slide-id="end-screen">
+                                <div class="end-screen group" style="background: url('//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=1100&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS'); background-size: 1100px;">
+                                    <div class="end-screen-overlay"></div>
+                                    
+                                    <div class="share-slideshow">
+                                        <span class="end-screen-label">Share this Slideshow</span>
+                                        <div class="reuters-share"
+                                                data-share-id="USRTS1HE09"
+                                                data-share-media-id="1206388582"
+                                                data-share-url="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09"
+                                                data-share-title="Photos of the week"
+                                                data-share-desc="Our top photos from the past week."
+                                                data-share-img="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206388582&w=780&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T215036Z_7784_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS"
+                                                data-share="twitter,facebook,linkedin,reddit,mailSlide"></div>
+                                    </div> 
+                                    <div class="replay-slideshow">
+                                        <div class="reuters-static-btn shr-replay">
+                                            <span class="reuters-static-enc"><a href="https://www.reuters.com/news/picture/photos-of-the-week-idUSRTS1HE09"><i class="btn-ico"></i>
+                                                <span class="shr-txt end-screen-label">View Again</span>
+                                            </a></span>
+                                        </div>
+                                    </div>                    
+                                    <div class="end-screen-right">
+                                            <div class="view-next">
+                                                <div class="reuters-static-btn shr-next">
+                                                    <span class="reuters-static-enc"><a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1HBDT"><i class="btn-ico"></i>
+                                                        <span class="next-screen-label">View Next</span>
+                                                    </a></span>
+                                                </div>
+                                            </div>  
+                                            <div class="next-slideshow">                                              
+                                                <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1HBDT">
+                                                    <img src="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206336595&w=400&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T131756Z_7777_MRPRC12B7403FC0_RTRMADP_0_USA-BUSH-WEST-POINT" alt="Editors Choice Pictures">
+                                                </a>
+                                            </div>
+                                            <h2 class="slideshow-title">
+                                                    <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1HBDT">
+                                                        Editors Choice Pictures</a>
+                                            </h2>
+                                        </div>
+                                    </div>
+                                <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1HBDT" class="arrow-end-next">
+                                    <div class="arrow-right-ico"></div>
+                                </a>
+                            </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="div_gpt_mpu" class="mod-slideshow-ad"><script>
+gatherAd('div_gpt_mpu', [[300, 250]], 'us.reuters/pictures/slideshow', 'yes', 'mpu');
+</script>
+</div>
+</div>
+
+</div>
+</div>
+<section class="sec-slideshow-next">
+	<div class="group wrap" id="">
+		<header class="module-header next-slideshow-header">
+<h4 class="module-heading">Next Slideshows <span class="ico-next-slideshow"></span></h4>
+</header><div class="linebreak"></div>
+	<div class="module">
+		
+		<div class="moduleBody">
+		<div class="mod-slideshow-next">
+          <div class="mod-slideshow-photo ">
+              <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1HBDT">
+                  <div class="slideshowOverlay"></div>
+                  <img
+                                
+                                        src="//s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206336595&w=490&fh=&fw=&ll=&pl=&sq=&r=2017-10-20T131756Z_7777_MRPRC12B7403FC0_RTRMADP_0_USA-BUSH-WEST-POINT"
+                                
+                                border="0" alt="Editors Choice Pictures"
+                                 />
+		</a>
+          </div>
+          <div class="mod-slideshow-info">
+              <h3 class="mod-slideshow-title">
+                  <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1HBDT">
+                      Editors Choice Pictures</a>
+              </h3>
+              <p class="mod-slideshow-blurb">
+                  Our top photos from the last 24 hours.</p>
+              <span class="timestamp">Oct 20 2017</span></div> 
+
+      </div>
+
+<div class="mod-slideshow-next">
+          <div class="mod-slideshow-photo ">
+              <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1H59W">
+                  <div class="slideshowOverlay"></div>
+                  <img
+                                
+                                        src="//s2.reutersmedia.net/resources/r/?m=02&d=20171019&t=2&i=1206173372&w=490&fh=&fw=&ll=&pl=&sq=&r=2017-10-19T121006Z_7749_MRPRC15208DAF00_RTRMADP_0_MYANMAR-FIRE"
+                                
+                                border="0" alt="Editors Choice Pictures"
+                                 />
+		</a>
+          </div>
+          <div class="mod-slideshow-info">
+              <h3 class="mod-slideshow-title">
+                  <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1H59W">
+                      Editors Choice Pictures</a>
+              </h3>
+              <p class="mod-slideshow-blurb">
+                  Our top photos from the last 24 hours.</p>
+              <span class="timestamp">Oct 19 2017</span></div> 
+
+      </div>
+
+<div class="mod-slideshow-next">
+          <div class="mod-slideshow-photo ">
+              <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1GZXJ">
+                  <div class="slideshowOverlay"></div>
+                  <img
+                                
+                                        src="//s4.reutersmedia.net/resources/r/?m=02&d=20171018&t=2&i=1206067272&w=490&fh=&fw=&ll=&pl=&sq=&r=2017-10-18T190508Z_7738_MRPRC14191C48B0_RTRMADP_0_RUSSIA-ANIMALS"
+                                
+                                border="0" alt="Editors Choice Pictures"
+                                 />
+		</a>
+          </div>
+          <div class="mod-slideshow-info">
+              <h3 class="mod-slideshow-title">
+                  <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1GZXJ">
+                      Editors Choice Pictures</a>
+              </h3>
+              <p class="mod-slideshow-blurb">
+                  Our top photos from the last 24 hours.</p>
+              <span class="timestamp">Oct 18 2017</span></div> 
+
+      </div>
+
+<div class="mod-slideshow-next">
+          <div class="mod-slideshow-photo ">
+              <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1GT4M">
+                  <div class="slideshowOverlay"></div>
+                  <img
+                                
+                                        src="//s3.reutersmedia.net/resources/r/?m=02&d=20171017&t=2&i=1205841640&w=490&fh=&fw=&ll=&pl=&sq=&r=2017-10-17T115503Z_7708_MRPRC1A641B4900_RTRMADP_0_STORM-OPHELIA-BRITAIN"
+                                
+                                border="0" alt="Editors Choice Pictures"
+                                 />
+		</a>
+          </div>
+          <div class="mod-slideshow-info">
+              <h3 class="mod-slideshow-title">
+                  <a href="https://www.reuters.com/news/picture/editors-choice-pictures-idUSRTS1GT4M">
+                      Editors Choice Pictures</a>
+              </h3>
+              <p class="mod-slideshow-blurb">
+                  Our top photos from the last 24 hours.</p>
+              <span class="timestamp">Oct 17 2017</span></div> 
+
+      </div>
+
+</div>
+		</div>
+		</div>
+	</section><section class="wrap morepicturesSection">
+	<div class="group" id="">
+		<div class="column1 col col-10">
+		<section  class="module  ">
+		
+		<header class="module-header">
+				<h4 class="module-heading">
+					MORE IN <span class="title-last">PICTURES</span>
+					</h4>
+                </header>
+		<section class="module-content">
+		<div class="slideshow-container">
+        <div class="group slideshow-row">
+            <div id="USRTX3IDMY" class="photo-container">
+                <a class="thumb-link" href="/news/picture/flashback-jfk-assassination-idUSRTX3IDMY">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s3.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207204066&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T235006Z_28344_MRPRC176E141980_RTRMADP_0_USA-TRUMP-JFK"
+                                
+                                border="0" alt="Flashback: JFK assassination"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/flashback-jfk-assassination-idUSRTX3IDMY">Flashback: JFK assassination</a></h3>
+                        <p class="slide-blurb">Images from the assassination of President John F. Kennedy in Dallas on November 22, 1963.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            <div id="USRTX3IBL0" class="photo-container">
+                <a class="thumb-link" href="/news/picture/clashes-in-kenyas-election-re-run-idUSRTX3IBL0">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s3.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207194705&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T221506Z_28342_MRPRC1605A2BC30_RTRMADP_0_KENYA-ELECTION"
+                                
+                                border="0" alt="Clashes in Kenya's election re-run"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/clashes-in-kenyas-election-re-run-idUSRTX3IBL0">Clashes in Kenya's election re-run</a></h3>
+                        <p class="slide-blurb">Kenyan opposition supporters clash with police in pockets of the country, seeking to derail an election re-run.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            <div id="USRTX3ICC7" class="photo-container">
+                <a class="thumb-link" href="/news/picture/photos-of-the-week-idUSRTX3ICC7">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s1.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207186720&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T212504Z_28341_MRPRC17BF85B1D0_RTRMADP_0_MIDEAST-CRISIS-SYRIA"
+                                
+                                border="0" alt="Photos of the week"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/photos-of-the-week-idUSRTX3ICC7">Photos of the week</a></h3>
+                        <p class="slide-blurb">Our top photos from the last week.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            </div>
+            <div class="group slideshow-row">
+            <div id="USRTX3I7K7" class="photo-container">
+                <a class="thumb-link" href="/news/picture/celebrity-style-grace-jones-idUSRTX3I7K7">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s4.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207172498&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T192500Z_28340_MRPRC1E15E4C080_RTRMADP_0_FILM-GRACEJONES"
+                                
+                                border="0" alt="Celebrity style: Grace Jones"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/celebrity-style-grace-jones-idUSRTX3I7K7">Celebrity style: Grace Jones</a></h3>
+                        <p class="slide-blurb">The fashion of Jamaican-American singer, model and actor Grace Jones.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            <div id="USRTX3I4QJ" class="photo-container">
+                <a class="thumb-link" href="/news/picture/marawi-all-but-destroyed-idUSRTX3I4QJ">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s4.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207157001&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T171005Z_28335_MRPRC124714B420_RTRMADP_0_PHILIPPINES-MILITANTS"
+                                
+                                border="0" alt="Marawi all but destroyed"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/marawi-all-but-destroyed-idUSRTX3I4QJ">Marawi all but destroyed</a></h3>
+                        <p class="slide-blurb">With vehicles crushed and overturned and buildings reduced to skeletons of mangled steel and rubble, the Philippine city of Marawi resembles the aftermath of a war that lasted years, rather than months.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            <div id="USRTX3I1UJ" class="photo-container">
+                <a class="thumb-link" href="/news/picture/best-of-the-world-series-idUSRTX3I1UJ">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s4.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207145052&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T155016Z_28332_MRP10369322_RTRMADP_0_BASEBALL-MLB-LAD-HOU"
+                                
+                                border="0" alt="Best of the World Series"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/best-of-the-world-series-idUSRTX3I1UJ">Best of the World Series</a></h3>
+                        <p class="slide-blurb">Highlights as the Los Angeles Dodgers take on the Houston Astros in the World Series.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            </div>
+            <div class="group slideshow-row">
+            <div id="USRTX3IAG9" class="photo-container">
+                <a class="thumb-link" href="/news/picture/royal-cremation-for-thai-king-idUSRTX3IAG9">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s2.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207143359&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T154016Z_28331_MRPRC195E98BFA0_RTRMADP_0_THAILAND-KING"
+                                
+                                border="0" alt="Royal cremation for Thai king"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/royal-cremation-for-thai-king-idUSRTX3IAG9">Royal cremation for Thai king</a></h3>
+                        <p class="slide-blurb">King Bhumibol, who died last year aged 88, will be cremated on a royal pyre within a cremation complex of gold pavilions in front of Bangkok's Grand Palace.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            <div id="USRTX3I5UQ" class="photo-container">
+                <a class="thumb-link" href="/news/picture/future-of-driving-at-tokyo-motor-show-idUSRTX3I5UQ">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s3.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207141816&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T153016Z_28330_MRPRC1900F6DEE0_RTRMADP_0_AUTOSHOW-TOKYO"
+                                
+                                border="0" alt="Future of driving at Tokyo Motor Show"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/future-of-driving-at-tokyo-motor-show-idUSRTX3I5UQ">Future of driving at Tokyo Motor Show</a></h3>
+                        <p class="slide-blurb">Forward-looking vehicle concepts and designs from the Tokyo Motor Show.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            <div id="USRTX3FOCH" class="photo-container">
+                <a class="thumb-link" href="/news/picture/today-in-sports-idUSRTX3FOCH">
+                    <div class="photo-thumb">
+                        <div class="slideshowOverlay"></div>
+                        <img
+                                
+                                        src="//s2.reutersmedia.net/resources/r/?m=02&d=20171026&t=2&i=1207137833&w=300&fh=&fw=&ll=&pl=&sq=&r=2017-10-26T151015Z_28329_MRPRC17ADF8D440_RTRMADP_0_SOCCER-ENGLAND-CHE-EVE"
+                                
+                                border="0" alt="Today in Sports"
+                                 />
+		</div>
+                </a>
+                <div class="slide-details">
+                    <header class="photo-header">
+                        <h3 class="photo-heading"><a href="/news/picture/today-in-sports-idUSRTX3FOCH">Today in Sports</a></h3>
+                        <p class="slide-blurb">Our top sports photography of the day.</p>
+                    </header>
+                <time class="article-time"><span class="timestamp">Thursday, October 26, 2017</span></time>
+                </div>
+            </div>
+
+            </div>
+            </div>
+
+</section>
+		</section>
+
+<div class="control-nav center">
+					<a class="control-nav-button" href="/news/pictures/archive?page=2&pageSize=9">
+						View More</a>
+				</div>
+			</div>
+
+	<div class="column2 col col-4">
+		<div class="header-no-margin"><header class="module-header ">
+                        <h4 class="module-heading">
+                                    Trending <span class="title-last">Collections</span>
+                                    </h4>
+                            </header>
+                <script type="text/javascript">
+        var video_btn_url = '<img src="https://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" border="0" height="11px" width="43px" alt="Video" />';
+        var _raw_json_note = "*Page views over the last 15 minutes";
+	var max_json_num = 5;
+	var filter_str = "";
+	var filter_arr = [];
+        filter_arr = filter_str.split(",");
+ 
+	var mostPopularSlideshow= [{"pages":[{"path":"reuters.com\/news\/picture\/royal-cremation-for-thai-king-idUSRTX3IAG9","stats":{"internal":18,"crowd":0,"direct":0,"toprefs":[{"visitors":27,"domain":"Facebook"},{"visitors":4,"domain":"Google Search"},{"visitors":2,"domain":"Google Chrome Suggestions"}],"recirc":2,"platform":{"a":0,"d":43,"t":0,"f":0,"g":0,"m":13},"visits":56,"platform_engaged":{"a":0,"d":3,"t":0,"f":0,"g":0,"m":9},"search":4,"engaged_visit":{"hist":[6,2,1,0,2,1,0,0,0,0],"avg":1.8595,"median":2.0},"links":2,"write":0,"new":44,"read":12,"domload":{"hist":[0,1,5,6,5,30,7,1,2,3,0],"avg":10534.3165,"median":7500.0},"idle":44,"social":32,"scroll":{"hist":[47,44,32,15,4,2,1,1,1,0],"avg":1.393,"median":1.0},"people":56,"article":56,"engaged_time":{"hist":[11,17,9,4,2,9,4,0,0,0,0,0],"avg":36.03,"median":22.5},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":8,"visit":{"hist":[8,3,1,2,2,6,3,3,6,22],"avg":34.426,"median":22.5},"subscr":0},"title":"Royal cremation for Thai king | Reuters.com","sections":["slideshow"],"authors":["reuters","dave lucas"]},{"path":"reuters.com\/news\/picture\/flashback-jfk-assassination-idUSRTX3IDMY","stats":{"internal":9,"crowd":0,"direct":0,"toprefs":[],"recirc":6,"platform":{"a":0,"d":8,"t":0,"f":0,"g":0,"m":1},"visits":9,"platform_engaged":{"a":0,"d":1,"t":0,"f":0,"g":0,"m":1},"search":0,"engaged_visit":{"hist":[0,0,1,0,0,0,1,0,0,0],"avg":2.0875,"median":5.0},"links":0,"write":0,"new":2,"read":2,"domload":{"hist":[0,0,2,0,1,1,0,0,0,1,0],"avg":27698.8335,"median":10000.0},"idle":7,"social":0,"scroll":{"hist":[7,9,8,5,0,0,0,0,0,0],"avg":1.3665,"median":1.0},"people":9,"article":9,"engaged_time":{"hist":[0,0,1,0,0,5,2,0,1,0,0,0],"avg":115.3335,"median":120.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":0,"visit":{"hist":[0,0,1,0,0,0,1,1,0,6],"avg":50.5125,"median":30.0},"subscr":0},"title":"Flashback: JFK assassination | Reuters.com","sections":["slideshow"],"authors":["canice leung","reuters"]},{"path":"reuters.com\/news\/picture\/funeral-for-a-king-idUSRTX3I59G","stats":{"internal":2,"crowd":0,"direct":0,"toprefs":[{"visitors":3,"domain":"Google Search"},{"visitors":1,"domain":"Facebook"}],"recirc":5,"platform":{"a":0,"d":4,"t":0,"f":0,"g":0,"m":2},"visits":6,"platform_engaged":{"a":0,"d":2,"t":0,"f":0,"g":0,"m":2},"search":3,"engaged_visit":{"hist":[2,0,0,1,0,1,0,0,0,0],"avg":1.25,"median":2.0},"links":0,"write":0,"new":6,"read":4,"domload":{"hist":[0,1,1,0,0,2,2,1,2,0,0],"avg":19486.3,"median":21500.0},"idle":2,"social":1,"scroll":{"hist":[6,6,4,1,0,0,0,0,0,0],"avg":1.0,"median":1.0},"people":6,"article":6,"engaged_time":{"hist":[1,2,1,0,0,1,1,0,0,0,0,0],"avg":26.2,"median":15.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":2,"visit":{"hist":[2,0,0,1,1,1,0,0,0,1],"avg":6.931,"median":4.5},"subscr":0},"title":"Funeral for a king | Reuters.com","sections":["slideshow"],"authors":["canice leung","reuters"]},{"path":"reuters.com\/news\/picture\/marawi-all-but-destroyed-idUSRTX3I4QJ","stats":{"internal":2,"crowd":0,"direct":0,"toprefs":[{"visitors":3,"domain":"Google Search"}],"recirc":1,"platform":{"d":4,"m":1},"visits":5,"platform_engaged":{"d":0,"m":1},"search":3,"engaged_visit":{"hist":[0,0,0,0,1,0,0,0,0,0],"avg":4.76,"median":5.0},"links":0,"write":0,"new":2,"read":1,"domload":{"hist":[0,1,0,0,0,4,0,0,0,1,0],"avg":32232.2,"median":8000.0},"idle":4,"social":0,"scroll":{"hist":[5,5,3,1,0,0,0,0,0,0],"avg":1.0,"median":1.0},"people":5,"article":5,"engaged_time":{"hist":[0,1,2,1,0,1,0,0,0,0,0,0],"avg":38.8,"median":30.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":1,"visit":{"hist":[0,0,1,0,2,1,0,0,1,0],"avg":6.806,"median":5.0},"subscr":0},"title":"Marawi all but destroyed | Reuters.com","sections":["slideshow"],"authors":["jeremy schultz","reuters"]},{"path":"reuters.com\/news\/picture\/editors-choice-pictures-idUSRTX3IAML","stats":{"internal":3,"crowd":0,"direct":0,"toprefs":[],"recirc":2,"platform":{"a":0,"d":3,"t":0,"f":0,"g":0,"m":1},"visits":4,"platform_engaged":{"a":0,"d":1,"t":0,"f":0,"g":0,"m":0},"search":0,"engaged_visit":{"hist":[1,0,0,0,0,0,0,0,0,0],"avg":0.125,"median":0.5},"links":0,"write":0,"new":2,"read":1,"domload":{"hist":[0,0,2,0,0,1,0,0,0,0,0],"avg":5664.25,"median":9500.0},"idle":3,"social":1,"scroll":{"hist":[3,2,3,1,1,1,0,0,0,0],"avg":1.9,"median":2.0},"people":4,"article":4,"engaged_time":{"hist":[0,2,0,0,1,0,1,0,0,0,0,0],"avg":64.25,"median":120.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":1,"visit":{"hist":[1,0,0,0,0,0,1,0,0,2],"avg":36.9075,"median":30.0},"subscr":0},"title":"Editors Choice Pictures | Reuters.com","sections":["slideshow"],"authors":["reuters","jeremy schultz"]},{"path":"reuters.com\/news\/picture\/photos-of-the-week-idUSRTX3ICC7","stats":{"internal":4,"crowd":0,"direct":0,"toprefs":[],"recirc":0,"platform":{"a":0,"d":3,"t":0,"f":0,"g":0,"m":1},"visits":4,"platform_engaged":{"a":0,"d":1,"t":0,"f":0,"g":0,"m":1},"search":0,"engaged_visit":{"hist":[2,0,0,0,0,0,0,0,0,0],"avg":1.0,"median":1.0},"links":0,"write":0,"new":1,"read":2,"domload":{"hist":[0,0,2,0,0,0,0,0,0,1,0],"avg":53014.75,"median":16500.0},"idle":2,"social":0,"scroll":{"hist":[4,4,3,1,0,0,0,0,0,0],"avg":1.043,"median":1.0},"people":4,"article":4,"engaged_time":{"hist":[1,1,0,1,1,0,0,0,0,0,0,0],"avg":23.5,"median":52.5},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":0,"visit":{"hist":[2,0,0,0,0,0,0,0,0,2],"avg":22.1325,"median":30.0},"subscr":0},"title":"Photos of the week | Reuters.com","sections":["slideshow"],"authors":["canice leung","reuters"]},{"path":"reuters.com\/news\/picture\/editors-choice-pictures-idUSRTX3I4CM","stats":{"internal":2,"crowd":0,"direct":0,"toprefs":[],"recirc":0,"platform":{"a":0,"d":3,"t":0,"f":0,"g":0,"m":0},"visits":3,"platform_engaged":{"a":0,"d":1,"t":0,"f":0,"g":0,"m":0},"search":0,"engaged_visit":{"hist":[0,1,0,0,0,0,0,0,0,0],"avg":0.875,"median":1.0},"links":0,"write":0,"new":1,"read":1,"domload":{"hist":[0,0,0,0,1,0,0,0,0,1,0],"avg":19278.25,"median":23500.0},"idle":2,"social":1,"scroll":{"hist":[3,3,3,0,0,0,0,0,0,0],"avg":1.0,"median":1.0},"people":3,"article":3,"engaged_time":{"hist":[1,0,0,1,0,1,0,0,0,0,0,0],"avg":38.5,"median":82.5},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":1,"visit":{"hist":[0,1,0,0,0,1,0,0,0,1],"avg":14.1325,"median":18.0},"subscr":0},"title":"Editors Choice Pictures | Reuters.com","sections":["slideshow"],"authors":["jeremy schultz"]},{"path":"reuters.com\/news\/picture\/future-of-driving-at-tokyo-motor-show-idUSRTX3I5UQ","stats":{"internal":2,"crowd":0,"direct":0,"toprefs":[],"recirc":0,"platform":{"d":2,"m":0},"visits":2,"platform_engaged":{"d":0,"m":0},"search":0,"engaged_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0.0,"median":0.0},"links":0,"write":0,"new":1,"read":0,"domload":{"hist":[0,0,0,0,0,1,1,0,0,1,0],"avg":71602.0,"median":30000.0},"idle":2,"social":0,"scroll":{"hist":[2,2,2,1,0,0,0,0,0,0],"avg":1.286,"median":1.0},"people":2,"article":2,"engaged_time":{"hist":[2,0,0,0,0,0,0,0,0,0,0,0],"avg":0.0,"median":0.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":0,"visit":{"hist":[0,1,0,0,0,0,0,0,0,1],"avg":37.0,"median":30.0},"subscr":0},"title":"Future of driving at Tokyo Motor Show | Reuters.com","sections":["slideshow"],"authors":["jeremy schultz"]},{"path":"reuters.com\/news\/picture\/ophelia-turns-london-sky-red-idUSRTS1GOVO","stats":{"internal":1,"crowd":0,"direct":0,"toprefs":[],"recirc":0,"platform":{"d":1,"m":0},"visits":1,"platform_engaged":{"d":0,"m":0},"search":0,"engaged_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0.0,"median":0.0},"links":0,"write":0,"new":0,"read":0,"domload":{"hist":[0,0,0,0,0,0,0,0,0,0,0],"avg":16542.0,"median":17000.0},"idle":1,"social":0,"scroll":{"hist":[1,1,1,1,0,0,0,0,0,0],"avg":1.5,"median":2.0},"people":1,"article":1,"engaged_time":{"hist":[1,0,0,0,0,0,0,0,0,0,0,0],"avg":0.0,"median":0.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":0,"visit":{"hist":[0,0,0,0,0,0,0,1,0,0],"avg":13.23,"median":15.0},"subscr":0},"title":"Ophelia turns London sky red | Reuters.com","sections":["slideshow"],"authors":["jeremy schultz"]},{"path":"reuters.com\/news\/picture\/quinceanera-for-kids-with-cancer-idUSRTX3HW2Y","stats":{"internal":1,"crowd":0,"direct":0,"toprefs":[],"recirc":0,"platform":{"d":1,"m":0},"visits":1,"platform_engaged":{"d":1,"m":0},"search":0,"engaged_visit":{"hist":[1,0,0,0,0,0,0,0,0,0],"avg":0.25,"median":1.0},"links":0,"write":0,"new":0,"read":1,"domload":{"hist":[0,0,0,0,0,1,0,0,0,0,0],"avg":13065.0,"median":14000.0},"idle":0,"social":0,"scroll":{"hist":[1,1,1,0,0,0,0,0,0,0],"avg":1.0,"median":1.0},"people":1,"article":1,"engaged_time":{"hist":[0,1,0,0,0,0,0,0,0,0,0,0],"avg":15.0,"median":15.0},"writing_visit":{"hist":[0,0,0,0,0,0,0,0,0,0],"avg":0,"median":0},"num_refs":0,"visit":{"hist":[1,0,0,0,0,0,0,0,0,0],"avg":0.25,"median":1.0},"subscr":0},"title":"Quinceanera for kids with cancer | Reuters.com","sections":["slideshow"],"authors":["canice leung"]}]}];
+	</script>
+
+
+<div id="mostPopularRead"><div id="most-popular" class="most-popular-collection"><div class="moduleBody"><ul></ul></div><div id="most-popular-remark"></div></div>
+<script type="text/javascript">
+    if (mostPopularSlideshow.length != 0) {
+        ssCnt = mostPopularSlideshow[0].pages.length;
+        if (ssCnt > 4) { ssCnt = 5; }
+        
+        function createSSTrending(ss) {
+            var ssObj = mostPopularSlideshow[0];
+            var ssRank = ss + 1;
+            var ssLink = ssObj.pages[ss].path;
+ var articleId =null;
+if(ssLink.includes('='))
+articleId = ssLink.substring(ssLink.indexOf('=') + 1);
+else
+articleId = ssLink.substring(ssLink.lastIndexOf('-id') + 3);
+if(!articleId)
+return;
+            var chartbeatURL = '/assets/jsonArticle?isSlideshow=true&articleId=' + articleId;
+            $("#most-popular ul").append('<li id="ssTrending-'+ssRank+'"><div class="most-popular-title"><div class="most-popular-img photo-thumb"><div class="slideshowOverlay"></div><a href="http://www.'+ssLink+'"></a></div><a href="http://www.'+ssLink+'" class="photo-title"></a></div></li>');
+            $.getJSON(chartbeatURL, function (ssPhoto) {
+                var ssTitle = ssPhoto.headline;
+                var ssIMG = ssPhoto.image[0].url;
+                var ssTrendingIMG = ssIMG.replace('&w=60&', '&w=280&');
+                $('#most-popular #ssTrending-' + ssRank + ' .photo-title').append(ssTitle);
+                $('#most-popular #ssTrending-' + ssRank + ' .photo-thumb a').append('<img src="' + ssTrendingIMG + '" alt="">');
+                if ($('#ssTrending-' + ssRank + ' img').height() > $('#ssTrending-' + ssRank + ' img').width()) {
+                    $('#ssTrending-' + ssRank + ' .most-popular-img').addClass('photo-portrait')
+                }
+            });
+        }
+        for (var ssNum = 0; ssNum < ssCnt; ssNum++) {
+            createSSTrending(ssNum);
+        }
+    }
+</script></div>
+</div><section class="mod-editors-pick module epnc">
+			<header class="module-header">
+				<h4 class="module-heading">
+				<a href="http://www.reuters.com/news/picture/editors-choice-pictures-idUSRTX3AZCY">
+				<span class="title-last">Pictures</span>
+				</a></h4>
+			</header>
+        	<section class="module-content">
+                <article>
+                    <a href="http://www.reuters.com/news/picture/editors-choice-pictures-idUSRTX3AZCY"><div class="story-photo lazy-photo">
+                        <img border="0" alt="" src="" org-src="https://static.reuters.com/resources/media/global/assets/images/20170711/20170711_6752870220170711141131.jpg"></a>
+                    </div>
+                    <div class="story-content">
+                        <h2 class="story-title"><a href="http://www.reuters.com/news/picture/editors-choice-pictures-idUSRTX3AZCY">Photos of the day</a></h2>
+                    </div>
+                </article>
+        	</section>
+            
+            </section>
+        	<script>
+			 	$(document).ready(function () {
+					if(window.location.href.indexOf("http://www.reuters.com/news/picture/editors-choice-pictures-idUSRTX3AZCY") > -1) {
+					   $('.epnc').hide();
+					}
+				});
+			</script>
+        	
+        
+		<section class="mod-editors-pick module epc">
+                <header class="module-header">
+                  <h4 class="module-heading">
+				<a href="http://www.reuters.com/podcasts/keeping-score">
+				<span class="title-last">Podcast</span>
+                <div class="ad-sponsored-logo"><div id="adSponsorFeature"></div>              
+<script>
+$(document).ready(function() {
+displayAd("adSponsorFeature", TR3.extractDartZone(), [[186,24],[130,17]], "type=bvmodule_article;" +adParams2 );
+});
+</script>
+<style>
+.module-header .ad-sponsored-logo{
+width: 124px;
+}
+.module-header .ad-sponsored-logo iframe{
+margin-bottom: 5px;
+}
+</style></div>
+				</a></h4>
+                </header>
+        	<section class="module-content">
+                <article>
+                    <a href="http://www.reuters.com/article/us-keepingscore-17aug-idUSKCN1AX2G0"><div class="story-photo lazy-photo">
+                        <img border="0" alt="" src="" org-src="http://s1.reutersmedia.net/resources/media/global/assets/images/20160909/20160909_8706546120160909164858.jpg"></a>
+                    </div>
+                    <div class="story-content">
+                        <h2 class="story-title"><a href="http://www.reuters.com/article/us-keepingscore-17aug-idUSKCN1AX2G0">Weekly sports business analysis</a></h2>
+                    </div>
+                </article>
+        	</section>
+            
+            </section>
+        	<script>
+			 	$('.epnc').hide();
+				$(document).ready(function () {
+					if(window.location.href.indexOf("http://www.reuters.com/article/us-keepingscore-17aug-idUSKCN1AX2G0") > -1) {
+					   $('.epc').hide();
+					}
+				});
+			</script>
+<div id="div_gpt_mpulow" class="mod-slideshow-ad"><script>
+gatherAd('div_gpt_mpulow', [[300, 250]], 'us.reuters/pictures/slideshow', 'yes', 'mpulow');
+</script>
+</div></div>
+
+</div>
+	</section></div>
+<footer>
+<section class="footer">
+	<div class="group wrap" id="">
+		<script>
+
+callAds();
+</script>
+<div id="section-follow-buttons"><span class="footer-follow">Follow Reuters: </span>
+<ul>
+    <li id="foot-twitter"><a href="//www.twitter.com/reuters" target="_blank"><span class="follow-button follow-twitter">Follow Us On Twitter</span></a></li>
+    <li id="foot-facebook"><a href="//www.facebook.com/Reuters" target="_blank"><span class="follow-button follow-facebook">Follow Us On Facebook</span></a></li>
+    <li id="foot-rssfeed"><a href="//www.reuters.com/tools/rss" target="_blank"><span class="follow-button follow-rss">Follow Us On RSS</span></a></li>
+    <li id="foot-instagram"><a href=" //instagram.com/reuters/" target="_blank"><span class="follow-button follow-instagram">Follow Us On Instagram</span></a></li>
+    <li id="foot-youtube"><a href="//www.youtube.com/user/ReutersVideo" target="_blank"><span class="follow-button follow-youtube">Follow Us On YouTube</span></a></li>
+    <li id="foot-linkedin"><a href="//www.linkedin.com/company/thomson-reuters/1400" target="_blank"><span class="follow-button follow-linkedin">Follow Us On LinkedIn</span></a></li>
+</ul></div><div class="footer-more-links"><span class="footer-more">Subscribe: </span>
+<a href="//www.reuters.com/tools/rss">Feeds</a> | <a href="//newslink.reuters.com/join/subscribe">Newsletters</a> | <a href="/tools/podcasts">Podcasts</a> | <a href="/tools/mobile">Apps</a> </div></div>
+	</section><section class="footer-body">
+	<div class="group wrap" id="">
+		<div class="footer-services-link"><a href="//plus.reuters.com/en.html " target="_blank">Reuters Plus</a> | <a href="//agency.reuters.com" target="_blank">Reuters News Agency</a> | <a href="//agency.reuters.com/en/platforms-delivery/reuters-brand-attribution-guidelines.html" target="_blank">Brand Attribution Guidelines</a>  | <a href="//thomsonreuters.com/en/careers.html" target="_blank">Careers</a></div><div class="disclaimer"><div class="footer-summary">
+<p>Reuters, the news and media division of <a href="//thomsonreuters.com/" target="_blank">Thomson Reuters</a>, is the world’s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted business, financial, national, and international news to professionals via Thomson Reuters desktops, the world's media organizations, and directly to consumers at Reuters.com and via Reuters TV.  Learn more about Thomson Reuters products:</p>
+</div>
+</div><div class="product-container">
+  <a href="//financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html" target="_blank">
+    <div class="product">
+      <div class="prod-title">Eikon</div>
+        <div class="prod-content">Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface 
+        </div>
+    </div>
+  </a>
+  <a href="//financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-enterprise-data-management.html" target="_blank">  
+    <div class="product">
+      <div class="prod-title">Elektron</div>
+        <div class="prod-content">Everything you need to empower your workflow and enhance your enterprise data management 
+      </div>
+    </div>
+  </a>
+  <a href="//risk.thomsonreuters.com/products/world-check" target="_blank">  
+    <div class="product">
+      <div class="prod-title">World-Check</div>
+      <div class="prod-content">Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks 
+      </div>
+    </div>
+  </a>  
+  <a href="//legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research/" target="_blank">
+    <div class="product">
+      <div class="prod-title">Westlaw</div>
+      <div class="prod-content">Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology   
+      </div>
+    </div>
+  </a>
+  <a href="//tax.thomsonreuters.com/products/brands/onesource/" target="_blank">  
+    <div class="product">
+      <div class="prod-title">ONESOURCE</div>
+      <div class="prod-content">The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs
+      </div>
+    </div>
+  </a>
+  <a href="//tax.thomsonreuters.com/products/brands/checkpoint/" target="_blank">  
+    <div class="product prod-last">
+      <div class="prod-title">CHECKPOINT</div>
+      <div class="prod-content">The industry leader for online information for tax, accounting and finance professionals 
+      </div>
+    </div>
+  </a>  
+</div><div class="linebreak"></div>
+	<div class="footer-policy-links"><p> All quotes delayed a minimum of 15 minutes. <a href="/info/disclaimer">See here for a complete list</a> of exchanges and delays.</p>
+<div class="footer-policies"><ul>
+    
+<li class="h-links">
+<div class="reuters-copyright"><script type="text/javascript">var year = new Date();document.write('<a href="//thomsonreuters.com/copyright/">&copy;  ' + year.getFullYear() + ' Reuters. All Rights Reserved.</a>');</script></div>
+</li>
+<li class="h-links"><a href="//reuters.zendesk.com/" target="_blank">Site Feedback</a></li>
+<li class="h-links"><a href="https://reuters.zendesk.com/anonymous_requests/new" target="_blank">Corrections</a></li>
+<li class="h-links"><a href="/advertising-guidelines">Advertising Guidelines</a></li>
+<li class="h-links"><a href="//info.evidon.com/pub_info/285" target="_blank">Cookies</a></li>
+<li class="h-links"><a href="//www.reuters.com/terms-of-use">Terms of Use</a></li>
+<li class="h-links h-links-last"><a href="https://www.thomsonreuters.com/en/privacy-statement.html" target="_blank">Privacy Policy</a></li>
+
+</ul></div></div></div>
+	</section>
+</footer>
+
+<script src="https://s4.reutersmedia.net/resources_v2/js/core-header.js" type="text/javascript"></script>
+<script src="https://s3.reutersmedia.net/resources_v2/js/core-login.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/core-tracking.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/rcom-social-share.js" type="text/javascript"></script>
+    <script src="https://s2.reutersmedia.net/resources_v2/js/libraries/core-lib.js" type="text/javascript"></script>
+	<script src="https://s4.reutersmedia.net/resources_v2/js/core-modules.js" type="text/javascript"></script>
+<script src="https://s3.reutersmedia.net/resources_v2/js/libraries/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
+    <script src="https://s4.reutersmedia.net/resources_v2/js/rcom-slideshow.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="//www.reuters.com/reuters_gpt_bootstrap_footer.js"></script>
+
+<script type="text/javascript">
+	$(document).ready( function() {
+		var sclTracking = new rcom_scrollTracker("Slideshow");
+		if( inAppleMobileDevice() ) {document.addEventListener("scroll", sclTracking, false);} else {$(window).scroll( sclTracking );}
+	});
+</script>
+
+<section>
+	<div class="group" id="">
+		<script type='text/javascript'>
+        var _sf_startpt = (new Date()).getTime();
+        var _sf_async_config = _sf_async_config || {};
+        
+        _sf_async_config.playerdomain = 'queso-cdn.prod.reuters.tv';
+        _sf_async_config.sections = 'Slideshow'; 
+        _sf_async_config.autoDetect = false;
+        
+        _sf_async_config.authors = 'Canice Leung'; 
+        _sf_async_config.type = 'Slideshow'; 
+
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
+</div>
+	</section>
+</body>
+</html>

@@ -1,0 +1,1209 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<base href="http://www.theasianbanker.com/">
+<meta name="description" content="Shengqiang Chen, chief executive officer of JD Finance, the financial subsidiary of JD.com, one of the largest e-commerce companies in China, discusses the company’s relationship with banks and retailers, how it has evolved as a financial technology organisation, and its future plans.">
+<meta name="keywords" content="JD Finance, JD.com, fintech, techfin, regulation, payments, SME<div id='keywords' style='display:none;'>JD Finance,JD.com,fintech,techfin,regulation,payments,SME </div>">
+<meta name="author" content="Emmanuel Daniel">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@theasianbanker">
+<meta name="twitter:title" content="JD Finance’s Chen: “I serve financial institutions, not do financial services”">
+<meta name="twitter:description" content=" Shengqiang Chen, chief executive officer of JD Finance, the financial subsidiary of JD.com, one of the largest e-commerce companies in China, discusses the company’s relationship with banks and retailers, how it has evolved as a financial technology organisation, and its future plans.">
+<meta name="twitter:image" content="http://www.theasianbanker.com/uploads/JDcom_Headquarters.jpg">
+
+<!-- Open graph tags -->
+<meta property="og:title" content="JD Finance’s Chen: “I serve financial institutions, not do financial services”"/>
+<meta property="og:image" content="http://www.theasianbanker.com/uploads/JDcom_Headquarters.jpg"/>
+<meta property="og:image:url" content="http://www.theasianbanker.com/uploads/JDcom_Headquarters.jpg"/>
+<meta property="og:url" content="http://www.theasianbanker.com//updates-and-articles/jd-finances-chen-i-serve-financial-institutions-not-do-financial-services"/>
+<meta property="og:description" content="Shengqiang Chen, chief executive officer of JD Finance, the financial subsidiary of JD.com, one of the largest e-commerce companies in China, discusses&#8230;"/>
+<meta property="og:site_name" content="The Asian Banker"/>
+
+
+<title> JD Finance’s Chen: “I serve financial institutions, not do financial services” | The Asian Banker</title>
+
+
+<meta name="globalsign-domain-verification" content="v2S3UsNdrTlh2p1txImSy0o5gYuIZvjQNvCfsyu1lq" />
+
+
+<!-- Favicons - Touch Icons -->
+<link rel="icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/templates/shared/tab-main-2017/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/templates/shared/tab-main-2017/images/apple-touch-icon-114x114.png">
+<!-- Font Awesome Styles -->
+<link type="text/css" rel="stylesheet" href="/assets/templates/shared/tab-main-2017/css/font-awesome.css" media="screen">
+<!-- OWL Carousel Styles -->
+<link type="text/css" rel="stylesheet" href="/assets/templates/shared/tab-main-2017/css/owl.carousel.css" media="screen">
+<!-- Sinister Styles -->
+<link type="text/css" rel="stylesheet" href="/assets/templates/shared/tab-main-2017/css/sinister.css" media="screen">
+<!-- Flexslider -->
+<link type="text/css" rel="stylesheet" href="/assets/templates/shared/tab-main-2017/css/flexslider.css" media="screen">
+<!-- Animate Styles -->
+<link type="text/css" rel="stylesheet" href="/assets/templates/shared/tab-main-2017/css/animate.min.css" media="screen">
+<!-- Bootstrap Styles -->
+<link type="text/css" rel="stylesheet" href="/assets/templates/shared/tab-main-2017/css/bootstrap.css" media="screen">
+<!-- Signup page style -->
+<link type="text/css" rel="stylesheet" href="/assets/css/tab-new-2017/signup.css" media="screen">
+<!-- General Styles -->
+<link href="/uploads/css/tab-main-style.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/jquery.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+
+</head>
+<body>
+     <!-- Page Loading -->
+<div id="mask">
+	<div id="loader"></div>
+</div>
+
+<div id="wrapper" class="container-full" style="margin: 0 auto; max-width: 1170px;">
+    <div class="container ad">
+    
+ <!--
+ <div class="slider-post clearfix">
+		<div id="video-post" class="owl-carousel video-widget" style="height: auto">
+		    <div class="item">
+		        <div class="ImageWrapper chrome-fix">
+		           <a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'summit-leadership']);" href="http://forums.theasianbanker.com/future-of-finance-summit/leadership-in-the-digital-economy" target="_blank"><img src="/uploads/banner-ad/ban-fofsummit-1979x156-leadership.jpg" alt="" class="img-responsive" usemap="#Map"></a>
+				</div>
+			</div>
+								    
+			<div class="item">
+			    <div class="ImageWrapper chrome-fix">
+				<a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'summit-markets']);" href="http://forums.theasianbanker.com/future-of-finance-summit/markets-disrupted-rethinking-risk,-regulations-and-post-trade" target="_blank"><img src="/uploads/banner-ad/ban-fofsummit-1979x156-markets.jpg" alt="" class="img-responsive" usemap="#Map"></a>
+                </div>
+			</div>
+			
+				<div class="item">
+			    <div class="ImageWrapper chrome-fix">
+				<a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'summit-frictionless']);" href="http://forums.theasianbanker.com/future-of-finance-summit/frictionless-payments-transactions-and-supply-chain" target="_blank"> <img src="/uploads/banner-ad/ban-fofsummit-1979x156-frictionless.jpg" alt="" class="img-responsive" usemap="#Map"></a>
+                </div>
+			</div>
+			
+				<div class="item">
+			    <div class="ImageWrapper chrome-fix">
+				<a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'summit-cybersecurity']);" href="http://forums.theasianbanker.com/future-of-finance-summit/cybersecurity-thinking-global-acting-local" target="_blank"> <img src="/uploads/banner-ad/ban-fofsummit-1979x156-cybersecurity.jpg" alt="" class="img-responsive" usemap="#Map"></a>
+                </div>
+			</div>
+			
+				<div class="item">
+			    <div class="ImageWrapper chrome-fix">
+				<a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'summit-p2p']);" href="http://forums.theasianbanker.com/future-of-finance-summit/the-peer-to-peer-conference-the-power-of-networks" target="_blank"><img src="/uploads/banner-ad/ban-fofsummit-1979x156-p2p.jpg" alt="" class="img-responsive" usemap="#Map"></a>
+                </div>
+			</div>
+			
+				<div class="item">
+			    <div class="ImageWrapper chrome-fix">
+				<a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'summit-futurewealth']);" href="http://forums.theasianbanker.com/future-of-finance-summit/futurewealth-asia-money,-wealth-and-funding-great-business-ideas" target="_blank"> <img src="/uploads/banner-ad/ban-fofsummit-1979x156-futurewealth.jpg" alt="" class="img-responsive" usemap="#Map"></a>
+                </div>
+			</div>
+
+		</div>
+	</div>
+	<map name="Map" id="Map">
+  <area shape="rect" coords="893,0,1146,84" href="http://forums.theasianbanker.com/future-of-finance-summit" />
+</map> 
+  -->     
+<!--         
+  <a href="http://forums.theasianbanker.com/future-of-finance-summit/" target="_blank"><img src="/assets/ads_banner/fof_summit_logo.png" style="margin:auto; width:100%; max-width:1170px; height:auto;" border="0"> </a> 
+-->
+	</div>
+<!--
+<div class="floating-ad">	
+<a onclick="_gaq.push(['_trackEvent', 'Ad banner', 'click', 'Moodys']);" target="_blank" href="http://www.moodysanalytics.com/Microsites/Global-Marketing/2017/A-Summary-of-BCBS-Interest-Rate-Risk-in-the-Banking-Book-Directive"><img alt="Sponsors" src="assets/ads_banner/moody-180x150-0217.jpg" border="0" style="width:100%; height:400px;"></a>
+</div>
+-->
+
+<header class="header subpage" style="padding:0;">
+		<div class="container">
+	
+			
+			<div class="navbar navbar-default j-menu clearfix" role="navigation" style="min-height:38px;">
+		        <div class="container-fluid">
+					<div class="navbar-header">
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+			            </button>
+			            <a class="navbar-brand" href="http://www.theasianbanker.com" ><i class="fa fa-home"></i></a>
+					</div><!-- end navbar-header -->
+
+					<nav class="navbar-collapse collapse">
+						<ul class="nav navbar-nav">
+							<li class="dropdown nblue yamm-fw"><a data-toggle="dropdown" class="dropdown-toggle">Topics <b class="caret"></b></a>
+								<ul class="dropdown-menu nblue scroller">
+									<li>
+										<ul class="dm-col-6">
+											<li><span>Topics</span>
+											   <ul>
+													<li><a href="http://financialmarkets.theasianbanker.com/" target="_blank">Financial Markets</a></li>
+													<li><a href="http://tech.theasianbanker.com/" target="_blank">Financial Technology Working Group</a></li>
+													<li><a href="http://www.peer2peeraudit.com/" target="_blank">Peer to Peer Audit</a></li>
+													<li><a>Private Wealth Management</a></li>
+													<li><a href="http://retailfinance.theasianbanker.com/" target="_blank">Retail Finance Working Group</a></li>
+													<li><a href="http://riskandregulation.theasianbanker.com/" target="_blank">Risk and Regulation Working Group</a></li>
+													<li><a href="http://transactionbanking.theasianbanker.com/" target="_blank">Transaction Banking Working Group</a></li>
+												</ul>
+											</li>
+											<li><span>Other Resources</span>
+												<ul>
+													<li><a href="http://bankquality.com/" target="_blank">Bankquality.com</a></li>
+													<li><a href="http://www.thebankingconversation.com/" target="_blank">Thebankingconversation.com</a></li>
+												</ul>
+											</li>	
+										</ul>			
+									</li>
+								</ul>
+							</li><!-- end mega menu -->
+							
+							<li class="dropdown nblue"><a href="http://live.theasianbanker.com/" target="_blank">TABLive</a></li><!-- end mega menu -->
+
+							<li class="dropdown nblue yamm-fw"><a data-toggle="dropdown" class="dropdown-toggle">Awards <b class="caret"></b></a>
+								<ul class="dropdown-menu nblue scroller">
+									<li><a href="http://www.asianbankerawards.com/" target="_blank">The Asian Banker Awards Programmes</a></li>
+									<li><ul class="dm-col-3">	
+											<li><span>Leadership Achievement</span>
+														<ul>
+															<li><a href="http://www.asianbankerawards.com/bankers-choice/" target="_blank">The Bankers Choice Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/leadership/" target="_blank">The Leadership Achievement Awards</a></li>
+														</ul>
+												<span>Financial Markets</span>
+														<ul>
+															<li><a href="http://www.asianbankerawards.com/financialmarkets/" target="_blank">Financial Markets Awards</a></li>
+															<li><a href="http://www.peer2peeraudit.com">Peer To Peer</a></li>
+															<li><a href="http://www.asianbankerawards.com/the-peer2peer-audit-awards/" target="_blank">Peer2Peer Audit Awards</a></li>
+														</ul>	
+											</li>
+											<li><span>Banking </span>
+														<ul>
+															<li><a href="http://www.asianbankerawards.com/retailfinancial/" target="_blank">Excellence in Retail FS Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/regulation&supervision/" target="_blank">Regulation and Supervision Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/riskmanagement/" target="_blank">Risk Management Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/technology/" target="_blank">Technology Innovation Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/transactionbanking/index.php" target="_blank">Transaction Banking Awards</a></li>
+														</ul>
+												<span>Communities & Entertainment Activities</span>
+														<ul>
+															<li><a href="http://www.theasianbanker.com/talentbank-asia" target="_blank">Talent Bank Asia</a></li>
+														</ul>
+											</li>
+											<li><span>Country/Regional Awards</span>
+														
+														<ul>
+															<li><a href="http://www.asianbankerawards.com/chinaawards/" target="_blank">China Country Awards</a></li>
+															<li><a href="http://asianbankerawards.com/china-private-banking/" target="_blank">China Private Banking and Wealth Management Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/IndonesiaCountryAwards/" target="_blank">Indonesia Country Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/Korea_Country_awards/index.php" target="_blank">Korea Country Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/Middle-East-and-Africa-Awards/" target="_blank">Middle East and Africa Regional Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/PhilippineCountryAwards/" target="_blank">Philippine Country Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/TaiwanCountryAwards/" target="_blank">Taiwan Country Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/thailand-awards/" target="_blank">Thailand Country Awards</a></li>
+														    <li><a href="http://www.asianbankerawards.com/VietnamCountryAwards/" target="_blank">Vietnam Country Awards</a></li>
+															<li><a href="http://www.asianbankerawards.com/West-Africa-Country-Awards/" target="_blank">West Africa Country Awards</a></li>
+														</ul>
+											</li>
+											
+										</ul>
+									</li>	
+								</ul>					
+							</li>
+							<li class="dropdown nblue yamm-fw"><a href="http://www.theasianbanker.com/" data-toggle="dropdown" class="dropdown-toggle">Diary<b class="caret"></b></a>
+								<ul class="dropdown-menu nblue scroller">
+									
+										<li><a href="http://www.theasianbanker.com/diary-of-activities" target="_blank">Diary of Activities</a></li>
+											<li><ul class="dm-col-4">		
+													<li><span>Signature Conferences</span>
+														<ul>
+														    
+														    <li><a href="http://forums.theasianbanker.com/future-of-finance-summit/" target="_blank">The Future of Finance Summit</a></li>
+															<li><a href="http://forums.theasianbanker.com/future-of-finance-summit/futurewealth-asia-money,-wealth-and-funding-great-business-ideas" target="_blank">FutureWealth Asia</a></li>
+															<li><a href="http://forums.theasianbanker.com/future-of-finance-summit/leadership-in-the-digital-economy">Leadership in the Digital Economy</a></li>
+															<li><a href="http://forums.theasianbanker.com/future-of-finance-summit/markets-disrupted-rethinking-risk,-regulations-and-post-trade">Market Disrupted - Rethinking Risk, Regulation and Post Trade</a></li>
+															<li><a href="http://forums.theasianbanker.com/future-of-finance-summit/frictionless-payments-transactions-and-supply-chain">Frictionless – Payments, Transactions and Supply Chain</a></li>
+															<li><a href="http://forums.theasianbanker.com/future-of-finance-summit/cybersecurity-thinking-global-acting-local">Cybersecurity - Thinking Global, Acting Local </a></li>
+															<li><a href="http://forums.theasianbanker.com/future-of-finance-summit/the-peer-to-peer-conference-the-power-of-networks">Peer 2 Peer - The Power of Networks</a></li>
+														</ul>
+													</li>
+												
+													<li><span>Topical Conferences</span>
+														<ul>
+															<li><a href="http://forums.theasianbanker.com/bank-managers-challenge-convention/" target="_blank">Bank Manager's Challenge & Convention</a></li>
+															<li><a href="http://forums.theasianbanker.com/fsiif-africa-2016" target="_blank">FSI Investment Forum (FSIIF) Africa</a></li>
+															<li><a href="http://forums.theasianbanker.com/excellence/" target="_blank">Excellence in Retail Financial Services</a></li>
+															<li><a href="http://forums.theasianbanker.com/renminbiworld" target="_blank">Renminbi World</a></li>
+															<li><a href="http://forums.theasianbanker.com/financial-crime-360/" target="_blank">Financial Crime 360</a></li>
+														</ul>
+													</li>
+													<li><span>Country Level Conferences</span>
+														<ul>
+														    <li><a href="http://forums.theasianbanker.com/china-private-wealth-2017" target="_blank">China Private Wealth Dialogue</a></li>
+															<li><a href="http://forums.theasianbanker.com/thefofchina2017" target="_blank">The Future of Finance, China</a></li>
+															<li><a href="http://forums.theasianbanker.com/thefofindonesia2017" target="_blank">The Future of Finance, Indonesia</a></li>
+															<li><a href="http://forums.theasianbanker.com/fofmea2017" target="_blank">The Future of Finance, Middle East and Africa</a></li>
+															<li><a href="http://forums.theasianbanker.com/thefofphilippines2017" target="_blank">The Future of Finance, Phillippines</a></li>
+															<li><a href="http://forums.theasianbanker.com/thefofthailand2017" target="_blank">The Future of Finance, Thailand</a></li>
+															<li><a href="http://forums.theasianbanker.com/thefofvietnam2018" target="_blank">The Future of Finance, Vietnam</a></li>
+															<li><a href="http://forums.theasianbanker.com/thefofwestafrica2017/" target="_blank">The Future of Finance, West Africa</a></li>
+														</ul>
+													</li>
+													<li><span>Innovation Tours</span>
+														<ul>
+														<li><a href="http://forums.theasianbanker.com/innovation-tours" target="_blank">The Asian Banker Innovation Tours</a></li>
+															<li><a href="http://forums.theasianbanker.com/futurebank" target="_blank">FutureBank Innovation Tour</a></li>
+															<li><a href="http://forums.theasianbanker.com/the-asian-banker-china-innovation-tour/" target="_blank">China Innovation Tour</a></li>
+															<li><a href="http://forums.theasianbanker.com/japan-innovation-tour-2017" target="_blank">Japan Innovation Tour</a></li>
+															<li><a href="http://forums.theasianbanker.com/the-asian-banker-silicon-valley-innovation-tour" target="_blank">Silicon Valley Innovation Tour</a></li>
+															<li><a href="http://forums.theasianbanker.com/singapore-innovation-tour-2017" target="_blank">Singapore Innovation Tour</a></li>
+															<li><a href="http://forums.theasianbanker.com/switzerland-wealth-innovation-tour" target="_blank">Switzerland Wealth Innovation Tour</a></li>
+															<li><a href="http://forums.theasianbanker.com/the-uk-digital-finance-leadership-programme" target="_blank">The UK Digital Finance Leadership Programme </a></li>
+															<li><a href="http://forums.theasianbanker.com/study-tour-and-dialogue-2015" target="_blank">The Asian Banks Study Tour and Dialogue</a></li>
+														</ul>
+													</li>
+													<li><span>Training Programmes</span>
+														<ul>
+															<li><a href="http://forums.theasianbanker.com/bank-managers-challenge-convention/" target="_blank">Bank Managers' Challenge and Convention</a></li>
+															
+														</ul>
+													</li>
+													<li><span><a href="http://www.thebankingacademy.com/" target="_blank">The Banking Academy</a></span>
+														<ul>
+															<li><a href="http://www.asianbankerforums.com/RBLP/" target="_blank">Retail Banking Leadership Programme</a></li>
+														</ul>
+													</li>
+													<li><span>Membership Council Program</span>
+														<ul>
+															<li><a href="http://asianbankerforums.com/ISME/" target="_blank">The International Small Business Banking Council</a></li>
+															
+														</ul>
+													</li>
+													<li><span>Communities & Entertainment Activities</span>
+														<ul>
+															<li><a href="http://www.theasianbanker.com/talentbank-asia" target="_blank">TalentBank Asia</a></li>
+															
+														</ul>
+													</li>
+												</ul>
+											</li>
+								</ul>				
+							</li><!-- end mega menu -->
+							<li class="dropdown nblue yamm-fw"><a data-toggle="dropdown" class="dropdown-toggle">Directories <b class="caret"></b></a>
+								<ul class="dropdown-menu nblue scroller">
+									<li>
+										<ul class="dm-col-6">	
+											<li><span>Directories</span>
+												<ul>
+													<li><a href="http://www.theasianbanker.com/databook/ab700/banking-industry-directory/" target="_blank">Banking Industry Directory</a></li>
+													<li><a href="http://www.theasianbanker.com/databook/ab700/" target="_blank">Asian Banker 700</a></li>
+													<li><a href="http://listofleadingpractitioners.theasianbanker.com/" target="_blank">The List of Leading Practitioners</a></li>
+													<li><a href="http://www.theasianbanker.com/publication/online/directories-online" target="_blank">Transaction Banking Directory</a></li>
+													<li><a href="http://tech.theasianbanker.com/fintech-directory" target="_blank">Financial Technology Directory</a></li>
+												</ul>
+											</li>		
+											<li><span>Other Useful Resources</span>
+												<ul>
+												<li><a href="http://www.theasianbanker.com/publication/other-useful-resources" target="_blank">Financial Services and Related Research Sources</a></li>
+													<li><a href="http://www.theasianbanker.com/publication/virtual-currency-services" target="_blank">Virtual Currencies Services</a></li>
+													<li><a href="http://www.peer2peeraudit.com/p2p-directory" target="_blank">P2P Lending Companies</a></li>
+												</ul>
+											</li>
+										</ul>		
+									</li>
+								</ul>
+							</li><!-- end mega menu -->
+							<li class="dropdown nblue">
+								<a href="http://www.theasianbanker.com/jobs-in-finance" target="_blank">Jobs in Finance </a>
+								
+							</li>
+							<li class="dropdown nblue">
+								<a href="http://www.theasianbanker.com/tab-about-us" target="_blank">About Us </a>
+							</li>
+						</ul><!-- end nav navbar-nav -->
+						<ul class="nav navbar-nav navbar-right" style="max-width: 400px;position: absolute;right:15px;">
+							<li style="float:right;">
+						    <form id="as0_advsea-form" name="advsearchform" class="searchbox" action="/updates/advanced-search-results" method="GET">
+                                <input name="id" value="2017" type="hidden">
+                                <input name="asId" value="as0" type="hidden">
+                                <input class="searchbox-input" style="width: 400px;font-size: larger;" onkeyup="buttonUp();" placeholder="Search" name="search" type="search"  >
+						        <input type="submit" class="searchbox-submit" value="GO">
+						        <span class="searchbox-icon"><i class="fa fa-search"></i></span>
+						    </form>
+							</li>
+						</ul><!-- end nav navbar-nav navbar-right -->
+					</nav><!--/.nav-collapse -->
+				</div><!--/.container-fluid -->
+			</div><!-- end navbar navbar-default clearfix -->
+
+
+<div class="row" style="margin-bottom: -25px;">
+	<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 no-padding">
+		<div class="logo-wrapper clearfix" style="margin-top:10px;">
+			<a href="http://www.theasianbanker.com" title="The Asian Banker"><img src="/assets/templates/shared/images/logo.png" alt=""></a>
+		</div><!-- end logo-wrapper -->
+	</div><!-- end col -->
+	<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 text-right socialmedia">
+		<div class="social-icons clearfix">&nbsp;</div>
+		<div class="social-icons clearfix">
+			<span class="social-facebook" style="background:#3b5998;font-size: 20px;width: 34px;height: 34px;line-height: 34px;"><a data-toggle="tooltip" data-placement="bottom" title="Facebook" href="https://www.facebook.com/TheAsianBanker"><i class="fa fa-facebook" style="color:#fff;"></i></a></span>
+			<span class="social-twitter" style="background:#00aced;font-size: 20px;width: 34px;height: 34px;line-height: 34px;"><a data-toggle="tooltip" data-placement="bottom" title="Twitter" href="https://twitter.com/theasianbanker"><i class="fa fa-twitter" style="color:#fff;"></i></a></span>
+			<span class="social-linkedin" style="background:#4875B4;font-size: 20px;width: 34px;height: 34px;line-height: 34px;"><a data-toggle="tooltip" data-placement="bottom" title="Linkedin" href="https://www.linkedin.com/company/the-asian-banker"><i class="fa fa-linkedin" style="color:#fff;"></i></a></span>
+			<span class="social-instagram" style="background:#4E433C;font-size: 20px;width: 34px;height: 34px;line-height: 34px;"><a data-toggle="tooltip" data-placement="bottom" title="Instagram" href="https://instagram.com/theasianbankerofficial/"><i class="fa fa-instagram" style="color:#fff;"></i></a></span>
+		<!--	<span class="social-flickr" style="background:#FE0883;font-size: 20px;width: 34px;height: 34px;line-height: 34px;"><a data-toggle="tooltip" data-placement="bottom" title="Flickr" href="https://www.flickr.com/photos/132134725@N05/"><i class="fa fa-flickr" style="color:#fff;"></i></a></span> -->
+		</div>
+		<div style="font-size:medium; text-transform:uppercase;">
+		    <a href="javascript:;" class="loginmodal">Login</a>
+		</div><!-- end banner-wrapper -->
+        <!-- Login Modal -->
+        
+<div class="modal fade bs-example-modal-sm" id="loginmodal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        
+            
+	<link rel="stylesheet" href="/assets/templates/shared/tab-main-2017/multilogin/assets/css/form-elements.css">
+    <link rel="stylesheet" href="/assets/templates/shared/tab-main-2017/multilogin/assets/css/style.css">
+
+    <!-- Top content -->
+    <div class="top-content" style="background: #208ab3;background: -webkit-linear-gradient(#208ab3, #063461);background: -o-linear-gradient(#208ab3, #063461);background: -moz-linear-gradient(#208ab3, #063461);background: linear-gradient(#208ab3, #063461);">
+    	
+        <div class="container" style="min-height:750px !important; height:auto !important;">
+                <div class="row">
+                    	<br>
+
+                    <div class="col-sm-12 login">
+                    	<div class="">
+                        	<div class="form-top">
+                        		<div class="form-top-left">
+                        			<h3>Login</h3>
+                            		<p>Enter username and password to log on:</p>
+                        		</div>
+                        		<div class="form-top-right">
+                        			<i class="fa fa-key"></i>
+                        		</div>
+                            </div>
+                            <div class="form-bottom">
+                                <div class="loginMessage"></div>	                                
+			                    <form name="frmRegister" action="updates-and-articles/jd-finances-chen-i-serve-financial-institutions-not-do-financial-services" method="post" id="foo" class="frmlogin">
+				                    <input class="loginLoginValue" type="hidden" name="service" value="login" />
+				                    <input name="standalone" type="hidden" value="0" />
+				                    <input class="returnUrl" type="hidden" name="returnUrl" value="/updates-and-articles/jd-finances-chen-i-serve-financial-institutions-not-do-financial-services" />
+			                    	<div class="form-group">
+			                    		<!-- <label class="sr-only" for="form-username">Username</label>-->
+			                        	<!-- <input type="text" name="form-username" class="form-username form-control" placeholder="Username"  id="form-username"> -->
+			                        	<input type="text" name="username" class="loginUsername form-username form-control"  id="txtLogin" value="" placeholder="Username" required>
+			                        </div>
+			                        <div class="form-group">
+			                        	<!-- <label class="sr-only" for="form-password">Password</label>-->
+			                        	<!-- <input type="password" name="form-password" class="form-password form-control" placeholder="Password"  id="form-password"> -->
+			                        	<input type="password" name="password" class="loginPassword form-password form-control" id="txtPassword"  value="" placeholder="Password" required>
+			                        </div>
+			                        <!-- <button type="submit" class="btn">Sign in!</button> -->
+									<input id="txtchklogin" name="chklogin" type="hidden" value="0" />
+									<input class="loginRememberme" type="checkbox" name="rememberme" checked="checked" />Remember me
+									<button class="btn" onClick="myfunc();" type="submit" name="modalLogin">Sign in!</button>				                        
+			                    </form>
+			                    <!--<p>Don't have account ? <a href="javascript:;" class="showsignup">Signup</a> now</p><br>-->
+                                <p style="float: left">Don't have account ? <a href="javascript:;" class="showsignup">Signup</a> now</p>
+                                <p style="float: right"><a href="/forgot-password" target="_blank">Forgot password?</a></p>
+                                <br>
+		                    </div>
+	                    </div>
+	                
+                    </div>
+                    
+                    <div class="col-sm-12 signup" style="display: none;">
+                    	
+                    	<div class="">
+                    		<div class="form-top">
+                        		<div class="form-top-left">
+                        			<h3>Sign up now</h3>
+                            		<p>Fill in the form below to get instant access:</p>
+                        		</div>
+                        		<div class="form-top-right">
+                        			<i class="fa fa-pencil"></i>
+                        		</div>
+                            </div>
+                            	                            
+                            <div class="form-bottom">
+                                <div class="signupMessage"></div>
+                		        <form role="form" action="" id="regform" method="post" class="registration-form">
+                		        	<div class="form-group">
+                		        		<label class="sr-only" for="form-first-name">Full name</label>
+                		            	<input name="fullname" placeholder="Full name" class="form-control" id="form-first-name" type="text" required>
+                		            </div>
+                		            <div class="form-group">
+                		            	<label class="sr-only" for="form-email">Email</label>
+                		            	<input name="email" placeholder="Email" class="form-control" id="form-email" type="email" required>
+                		            </div>
+                		            <div class="form-group">
+                		            	<label class="sr-only" for="form-last-name">Company</label>
+                		            	<input name="company" placeholder="Company" class="form-control" id="form-company" type="text" required>
+                		            </div>
+                		            <div class="form-group">
+                		            	<label class="sr-only" for="form-last-name">Job title</label>
+                		            	<input name="jobtitle" placeholder="Job title" class="form-control" id="form-title" type="text" required>
+                		            </div>
+                		            <div class="form-group">
+                		            	<label class="sr-only" for="form-last-name">Country</label>
+                                         <select name="country" class="form-control" required>
+                                        	<option value="" selected="selected">Select a Country</option>
+                                        	<option value="United States">United States</option>
+                                        	<option value="United Kingdom">United Kingdom</option>
+                                        	<option value="Afghanistan">Afghanistan</option>
+                                        	<option value="Albania">Albania</option>
+                                        	<option value="Algeria">Algeria</option>
+                                        	<option value="American Samoa">American Samoa</option>
+                                        	<option value="Andorra">Andorra</option>
+                                        	<option value="Angola">Angola</option>
+                                        	<option value="Anguilla">Anguilla</option>
+                                        	<option value="Antarctica">Antarctica</option>
+                                        	<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+                                        	<option value="Argentina">Argentina</option>
+                                        	<option value="Armenia">Armenia</option>
+                                        	<option value="Aruba">Aruba</option>
+                                        	<option value="Australia">Australia</option>
+                                        	<option value="Austria">Austria</option>
+                                        	<option value="Azerbaijan">Azerbaijan</option>
+                                        	<option value="Bahamas">Bahamas</option>
+                                        	<option value="Bahrain">Bahrain</option>
+                                        	<option value="Bangladesh">Bangladesh</option>
+                                        	<option value="Barbados">Barbados</option>
+                                        	<option value="Belarus">Belarus</option>
+                                        	<option value="Belgium">Belgium</option>
+                                        	<option value="Belize">Belize</option>
+                                        	<option value="Benin">Benin</option>
+                                        	<option value="Bermuda">Bermuda</option>
+                                        	<option value="Bhutan">Bhutan</option>
+                                        	<option value="Bolivia">Bolivia</option>
+                                        	<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+                                        	<option value="Botswana">Botswana</option>
+                                        	<option value="Bouvet Island">Bouvet Island</option>
+                                        	<option value="Brazil">Brazil</option>
+                                        	<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+                                        	<option value="Brunei Darussalam">Brunei Darussalam</option>
+                                        	<option value="Bulgaria">Bulgaria</option>
+                                        	<option value="Burkina Faso">Burkina Faso</option>
+                                        	<option value="Burundi">Burundi</option>
+                                        	<option value="Cambodia">Cambodia</option>
+                                        	<option value="Cameroon">Cameroon</option>
+                                        	<option value="Canada">Canada</option>
+                                        	<option value="Cape Verde">Cape Verde</option>
+                                        	<option value="Cayman Islands">Cayman Islands</option>
+                                        	<option value="Central African Republic">Central African Republic</option>
+                                        	<option value="Chad">Chad</option>
+                                        	<option value="Chile">Chile</option>
+                                        	<option value="China">China</option>
+                                        	<option value="Christmas Island">Christmas Island</option>
+                                        	<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+                                        	<option value="Colombia">Colombia</option>
+                                        	<option value="Comoros">Comoros</option>
+                                        	<option value="Congo">Congo</option>
+                                        	<option value="Congo, The Democratic Republic of The">Congo, The Democratic Republic of The</option>
+                                        	<option value="Cook Islands">Cook Islands</option>
+                                        	<option value="Costa Rica">Costa Rica</option>
+                                        	<option value="Cote D'ivoire">Cote D'ivoire</option>
+                                        	<option value="Croatia">Croatia</option>
+                                        	<option value="Cuba">Cuba</option>
+                                        	<option value="Cyprus">Cyprus</option>
+                                        	<option value="Czech Republic">Czech Republic</option>
+                                        	<option value="Denmark">Denmark</option>
+                                        	<option value="Djibouti">Djibouti</option>
+                                        	<option value="Dominica">Dominica</option>
+                                        	<option value="Dominican Republic">Dominican Republic</option>
+                                        	<option value="Ecuador">Ecuador</option>
+                                        	<option value="Egypt">Egypt</option>
+                                        	<option value="El Salvador">El Salvador</option>
+                                        	<option value="Equatorial Guinea">Equatorial Guinea</option>
+                                        	<option value="Eritrea">Eritrea</option>
+                                        	<option value="Estonia">Estonia</option>
+                                        	<option value="Ethiopia">Ethiopia</option>
+                                        	<option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option>
+                                        	<option value="Faroe Islands">Faroe Islands</option>
+                                        	<option value="Fiji">Fiji</option>
+                                        	<option value="Finland">Finland</option>
+                                        	<option value="France">France</option>
+                                        	<option value="French Guiana">French Guiana</option>
+                                        	<option value="French Polynesia">French Polynesia</option>
+                                        	<option value="French Southern Territories">French Southern Territories</option>
+                                        	<option value="Gabon">Gabon</option>
+                                        	<option value="Gambia">Gambia</option>
+                                        	<option value="Georgia">Georgia</option>
+                                        	<option value="Germany">Germany</option>
+                                        	<option value="Ghana">Ghana</option>
+                                        	<option value="Gibraltar">Gibraltar</option>
+                                        	<option value="Greece">Greece</option>
+                                        	<option value="Greenland">Greenland</option>
+                                        	<option value="Grenada">Grenada</option>
+                                        	<option value="Guadeloupe">Guadeloupe</option>
+                                        	<option value="Guam">Guam</option>
+                                        	<option value="Guatemala">Guatemala</option>
+                                        	<option value="Guinea">Guinea</option>
+                                        	<option value="Guinea-bissau">Guinea-bissau</option>
+                                        	<option value="Guyana">Guyana</option>
+                                        	<option value="Haiti">Haiti</option>
+                                        	<option value="Heard Island and Mcdonald Islands">Heard Island and Mcdonald Islands</option>
+                                        	<option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option>
+                                        	<option value="Honduras">Honduras</option>
+                                        	<option value="Hong Kong">Hong Kong</option>
+                                        	<option value="Hungary">Hungary</option>
+                                        	<option value="Iceland">Iceland</option>
+                                        	<option value="India">India</option>
+                                        	<option value="Indonesia">Indonesia</option>
+                                        	<option value="Iran, Islamic Republic of">Iran, Islamic Republic of</option>
+                                        	<option value="Iraq">Iraq</option>
+                                        	<option value="Ireland">Ireland</option>
+                                        	<option value="Israel">Israel</option>
+                                        	<option value="Italy">Italy</option>
+                                        	<option value="Jamaica">Jamaica</option>
+                                        	<option value="Japan">Japan</option>
+                                        	<option value="Jordan">Jordan</option>
+                                        	<option value="Kazakhstan">Kazakhstan</option>
+                                        	<option value="Kenya">Kenya</option>
+                                        	<option value="Kiribati">Kiribati</option>
+                                        	<option value="Korea, Democratic People's Republic of">Korea, Democratic People's Republic of</option>
+                                        	<option value="Korea, Republic of">Korea, Republic of</option>
+                                        	<option value="Kuwait">Kuwait</option>
+                                        	<option value="Kyrgyzstan">Kyrgyzstan</option>
+                                        	<option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option>
+                                        	<option value="Latvia">Latvia</option>
+                                        	<option value="Lebanon">Lebanon</option>
+                                        	<option value="Lesotho">Lesotho</option>
+                                        	<option value="Liberia">Liberia</option>
+                                        	<option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option>
+                                        	<option value="Liechtenstein">Liechtenstein</option>
+                                        	<option value="Lithuania">Lithuania</option>
+                                        	<option value="Luxembourg">Luxembourg</option>
+                                        	<option value="Macao">Macao</option>
+                                        	<option value="Macedonia, The Former Yugoslav Republic of">Macedonia, The Former Yugoslav Republic of</option>
+                                        	<option value="Madagascar">Madagascar</option>
+                                        	<option value="Malawi">Malawi</option>
+                                        	<option value="Malaysia">Malaysia</option>
+                                        	<option value="Maldives">Maldives</option>
+                                        	<option value="Mali">Mali</option>
+                                        	<option value="Malta">Malta</option>
+                                        	<option value="Marshall Islands">Marshall Islands</option>
+                                        	<option value="Martinique">Martinique</option>
+                                        	<option value="Mauritania">Mauritania</option>
+                                        	<option value="Mauritius">Mauritius</option>
+                                        	<option value="Mayotte">Mayotte</option>
+                                        	<option value="Mexico">Mexico</option>
+                                        	<option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+                                        	<option value="Moldova, Republic of">Moldova, Republic of</option>
+                                        	<option value="Monaco">Monaco</option>
+                                        	<option value="Mongolia">Mongolia</option>
+                                        	<option value="Montserrat">Montserrat</option>
+                                        	<option value="Morocco">Morocco</option>
+                                        	<option value="Mozambique">Mozambique</option>
+                                        	<option value="Myanmar">Myanmar</option>
+                                        	<option value="Namibia">Namibia</option>
+                                        	<option value="Nauru">Nauru</option>
+                                        	<option value="Nepal">Nepal</option>
+                                        	<option value="Netherlands">Netherlands</option>
+                                        	<option value="Netherlands Antilles">Netherlands Antilles</option>
+                                        	<option value="New Caledonia">New Caledonia</option>
+                                        	<option value="New Zealand">New Zealand</option>
+                                        	<option value="Nicaragua">Nicaragua</option>
+                                        	<option value="Niger">Niger</option>
+                                        	<option value="Nigeria">Nigeria</option>
+                                        	<option value="Niue">Niue</option>
+                                        	<option value="Norfolk Island">Norfolk Island</option>
+                                        	<option value="Northern Mariana Islands">Northern Mariana Islands</option>
+                                        	<option value="Norway">Norway</option>
+                                        	<option value="Oman">Oman</option>
+                                        	<option value="Pakistan">Pakistan</option>
+                                        	<option value="Palau">Palau</option>
+                                        	<option value="Palestinian Territory, Occupied">Palestinian Territory, Occupied</option>
+                                        	<option value="Panama">Panama</option>
+                                        	<option value="Papua New Guinea">Papua New Guinea</option>
+                                        	<option value="Paraguay">Paraguay</option>
+                                        	<option value="Peru">Peru</option>
+                                        	<option value="Philippines">Philippines</option>
+                                        	<option value="Pitcairn">Pitcairn</option>
+                                        	<option value="Poland">Poland</option>
+                                        	<option value="Portugal">Portugal</option>
+                                        	<option value="Puerto Rico">Puerto Rico</option>
+                                        	<option value="Qatar">Qatar</option>
+                                        	<option value="Reunion">Reunion</option>
+                                        	<option value="Romania">Romania</option>
+                                        	<option value="Russian Federation">Russian Federation</option>
+                                        	<option value="Rwanda">Rwanda</option>
+                                        	<option value="Saint Helena">Saint Helena</option>
+                                        	<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+                                        	<option value="Saint Lucia">Saint Lucia</option>
+                                        	<option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+                                        	<option value="Saint Vincent and The Grenadines">Saint Vincent and The Grenadines</option>
+                                        	<option value="Samoa">Samoa</option>
+                                        	<option value="San Marino">San Marino</option>
+                                        	<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+                                        	<option value="Saudi Arabia">Saudi Arabia</option>
+                                        	<option value="Senegal">Senegal</option>
+                                        	<option value="Serbia and Montenegro">Serbia and Montenegro</option>
+                                        	<option value="Seychelles">Seychelles</option>
+                                        	<option value="Sierra Leone">Sierra Leone</option>
+                                        	<option value="Singapore">Singapore</option>
+                                        	<option value="Slovakia">Slovakia</option>
+                                        	<option value="Slovenia">Slovenia</option>
+                                        	<option value="Solomon Islands">Solomon Islands</option>
+                                        	<option value="Somalia">Somalia</option>
+                                        	<option value="South Africa">South Africa</option>
+                                        	<option value="South Georgia and The South Sandwich Islands">South Georgia and The South Sandwich Islands</option>
+                                        	<option value="Spain">Spain</option>
+                                        	<option value="Sri Lanka">Sri Lanka</option>
+                                        	<option value="Sudan">Sudan</option>
+                                        	<option value="Suriname">Suriname</option>
+                                        	<option value="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option>
+                                        	<option value="Swaziland">Swaziland</option>
+                                        	<option value="Sweden">Sweden</option>
+                                        	<option value="Switzerland">Switzerland</option>
+                                        	<option value="Syrian Arab Republic">Syrian Arab Republic</option>
+                                        	<option value="Taiwan, Province of China">Taiwan, Province of China</option>
+                                        	<option value="Tajikistan">Tajikistan</option>
+                                        	<option value="Tanzania, United Republic of">Tanzania, United Republic of</option>
+                                        	<option value="Thailand">Thailand</option>
+                                        	<option value="Timor-leste">Timor-leste</option>
+                                        	<option value="Togo">Togo</option>
+                                        	<option value="Tokelau">Tokelau</option>
+                                        	<option value="Tonga">Tonga</option>
+                                        	<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+                                        	<option value="Tunisia">Tunisia</option>
+                                        	<option value="Turkey">Turkey</option>
+                                        	<option value="Turkmenistan">Turkmenistan</option>
+                                        	<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+                                        	<option value="Tuvalu">Tuvalu</option>
+                                        	<option value="Uganda">Uganda</option>
+                                        	<option value="Ukraine">Ukraine</option>
+                                        	<option value="United Arab Emirates">United Arab Emirates</option>
+                                        	<option value="United Kingdom">United Kingdom</option>
+                                        	<option value="United States">United States</option>
+                                        	<option value="United States Minor Outlying Islands">United States Minor Outlying Islands</option>
+                                        	<option value="Uruguay">Uruguay</option>
+                                        	<option value="Uzbekistan">Uzbekistan</option>
+                                        	<option value="Vanuatu">Vanuatu</option>
+                                        	<option value="Venezuela">Venezuela</option>
+                                        	<option value="Vietnam">Vietnam</option>
+                                        	<option value="Virgin Islands, British">Virgin Islands, British</option>
+                                        	<option value="Virgin Islands, U.S.">Virgin Islands, U.S.</option>
+                                        	<option value="Wallis and Futuna">Wallis and Futuna</option>
+                                        	<option value="Western Sahara">Western Sahara</option>
+                                        	<option value="Yemen">Yemen</option>
+                                        	<option value="Zambia">Zambia</option>
+                                        	<option value="Zimbabwe">Zimbabwe</option>
+                                          </select>			            	
+                		            </div>			            
+                		            <button type="submit" class="btn btnsignup">Sign me up!</button>
+                		        </form>				                    
+			                    <p>Already have account ? <a href="javascript:;" class="showlogin">Login</a> here</p>
+		                    </div>
+                    	</div>
+                    	
+                    </div>
+                </div>
+
+                <div class="social-login text-center">
+                	<h3>...or login with:</h3>
+                	<div class="social-login-buttons">
+                    	<a class="btn btn-link-1 btn-link-1-facebook" onClick='window.top.location.href = "https://www.facebook.com/dialog/oauth?client_id=735100886510838&amp;redirect_uri=http%3A%2F%2Fwww.theasianbanker.com%2Ffb-user-login&amp;state=d74c18002fee2f1f78d10020dd1437c2&amp;sdk=php-sdk-3.2.3&amp;scope=email%2Cpublic_profile"' href="javascript:;">
+                    		<i class="fa fa-facebook"></i> Facebook
+                    	</a>
+                    	<a class="btn btn-link-1 btn-link-1-twitter" onClick='window.top.location.href = "http://www.theasianbanker.com/process-linkedin-login"' href="javascript:;">
+                    		<i class="fa fa-linkedin"></i> Linkedin
+                    	</a>
+                	</div>
+                </div>
+                
+        </div>
+        
+    </div>
+
+
+        
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->  
+		
+	</div><!-- end col -->
+</div><!-- end row -->
+
+
+		</div><!-- end container -->
+	</header><!-- end header -->
+   
+
+    <div class="col-md-8 col-md-offset-1 col-sm-7 col-sm-offset-1 article">
+         
+        <div class="content">  
+             
+             <ul class="article-date">
+    <li><span class="fa fa-calendar"> </span> October 25, 2017</li>
+    <li><span class="fa fa-eye"> </span>  927 Views </li>
+    
+    <li><a href="" onclick="javascript:window.print();"><span class="fa fa-print"> </span> Print</a></li>
+</ul>
+<span><a style='' href='http://www.theasianbanker.com/category-post-updates?postsubcategory=Interviews'>Interviews</a><p id="category_key" style="display:none;">Interviews,</p><p id="category_label" style="display:none;">Interviews,</p></span>
+<h3 style="margin-top:2px;">JD Finance’s Chen: “I serve financial institutions, not do financial services” </h3>
+<img src="/uploads/JDcom_Headquarters.jpg" style="width:100%; height:auto;">
+<p class="caption"></p> <!--  -->
+<p>By <a style='' href='http://www.theasianbanker.com/user-post-updates?authorid=Emmanuel+Daniel'>Emmanuel Daniel</a> </p>
+<p class="article-description">Shengqiang Chen, chief executive officer of JD Finance, the financial subsidiary of JD.com, one of the largest e-commerce companies in China, discusses the company’s relationship with banks and retailers, how it has evolved as a financial technology organisation, and its future plans.</p>
+
+<ul>
+<li>Shengqiang Chen shares how JD Finance’s strategy evolved as a fintech player in China</li>
+<li>Chen believes that by offering various financial products, JD Finance is able to get the trust of banks</li>
+<li>JD Finance aims to elevate itself as a global tech company, being able to provide what clients from different countries need</li>
+</ul>
+<p><strong>Emmanuel Daniel (ED): All of us have seen how JD Finance has grown out of JD itself. Under your leadership, we want to get a sense of the personality that you are putting into JD Finance that might be different from JD itself.</strong></p>
+<p><strong>Shengqiang Chen (SC):</strong> We have gone through two different periods in terms of strategy. JD Finance was established on October 18th 2013, before that time I was chief financial officer (CFO) of JD.com. Then I became chief executive officer (CEO) of JD Finance, and we started doing internet finance with our own money. That was phase one of JD Finance. In 2015, I started considering the future of JD Finance. In September of 2015, we gave it a new definition—a financial technology (fintech) company. Back then, no one used the term in China. But how we understood a fintech company then was no different from phase one. We thought fintech meant using technologies to do financial business. We didn’t start genuine transformation until 2016. In 2016, we stepped into phase two—to be a fintech company, a tech company that serves the financial institutions instead of developing technology to conduct financial business, which is our current positioning.</p>
+<p><strong>JD Finance’s evolution as a financial technology company</strong></p>
+<p><strong>ED: Something that we found happening in China is that many of the so-called fintech companies want to be seen as respectable in the financial industry. The peer-to-peer players, the peer-to-peer investment companies and lending companies, and payment companies, all of them call themselves fintech. In fact, one of the reasons why I wanted to meet you is that you’ve made comments about fintech and you are very critical about it. This year we’ll be publishing our own assessment of fintech players. Of course, there are at least three different types of fintech players. The disruptors, the ones that are not asking permissions from the banks to revolutionise the industries; the partners; and the IT companies but called fintech. And 80% of these players are just IT companies. </strong></p>
+<p><strong>But in the space of collaboration, it’s very interesting that some of the players, especially peer-to-peer are looking for opportunities to work with the banks. So the purpose of meeting you is to get a sense how do you position JD. Actually, the sense we get is that Alibaba has built a very strong mutual funds business when it first entered the financial space, whereas in your case the payment part is stronger. Maybe you can explain to us a little bit about the DNA of JD Finance, its origins, and where you are taking it to.</strong></p>
+<p><strong>SC:</strong> Let’s start from the clarification of the industry, as you’ve mentioned, dividing the industry into three categories. In my definition, the first is the “techfin”, the companies which conduct or mainly conduct financial business and will continue the financial business in the future; the second is the “fintech”, the companies which intend to serve financial institutions with new technologies; the third is the traditional IT companies which serve financial companies but with different models. For those IT companies, the handover of the system means the end of the transaction; while it means the beginning to us.</p>
+<p>As I’ve mentioned during an event in September, we define ourselves as a fintech company. The premise of that is we provide enterprise services to financial institutions instead of conducting financial business. The purpose of our own financial business sector is to prove to the financial institutions our capability. In the future, we will hand over those businesses to financial institutions, and we will provide them with customers, technologies, and risk control system. We are more like a partner to the financial institutions instead of a vendor. The relationship between financial IT companies like IBM is more like a seller to buyer relationship.</p>
+<p style="text-align: center;"><img src="/uploads/ED_and_Chen.jpg" alt="" width="800" height="475" /></p>
+<p style="text-align: center;"><em>Emmanuel Daniel, chairman of The Asian Banker, and Shengqiang Chen, CEO of JD Finance</em></p>
+<p><strong>ED: I know that you worked with one of the big four banks—ICBC. The banks themselves are trying to do what you are doing, at the same time they collaborate with you. Because I’ve seen what the banks are doing on the inside, they are beginning to look like you. There’s a phrase in English: “Keep your friends close, but keep your enemies closer.” I have the sense that banks are collaborating with you just to make sure that they are in touch with what you are doing. Do you think that this collaborating relationship with banks is a temporary position because the regulators themselves do not know how to regulate you? </strong></p>
+<p><strong>SC:</strong> It’s all about why you started your business and what you want as well as what the banks want; the answers will decide whether we are friends or enemies. So, the definition of your company is very important and it explains everything. If you plan to keep doing financial business, you will definitely be an enemy to the financial institutions. But I don’t want to do financial business in the future, and I am not saying that because I want to collaborate with financial institutions right now.</p>
+<p>Last year, I explained to the team why we do fintech. The biggest barrier for the development of finance is capital: how much money you have, leveraging that money, and how much loan you can issue. Technology is only a tool to increase efficiency and decrease cost and risk; it’s not the biggest barrier for finance. For a company like us, we don’t need to finance and earn capital gain. We are good at technologies, and data, and the new understanding of finance. Only if we conduct what we are good at will we have a future.</p>
+<p>The industry doesn’t lack financial companies with strong tech ability, but lack one that has clients and can bring the clients and technology to the banks, because most companies with clients want to conduct financial business themselves for profit maximisation. But doing so creates a clear upper limit. Only by collaborating with financial institutions (FIs) that you can get the opportunity to break the upper limit. So, it’s a long-term competition and a long-term collaboration. Whether we can win the competition and whether the collaboration could last depends on whether we can bring true values to the banks.</p>
+<p>On October 16th 2013, I was in Richard Liu’s (founder of JD.com) home in New York, and I asked what his requirements were for me in terms of JD Finance. He said there are two requirements. The first is to do the things with long-term value, which means the most difficult things in the industry, so we chose risk pricing as the core of JD Finance. The second is to share, if we can make a $15.08 (RMB100) profit, we can only keep $10.56 (RMB70) and share the rest with our partners or staff.</p>
+<p>So, the end of our collaboration with FIs is the maximum profit of the whole industry. We can help FIs to increase profit and efficiency, and decrease cost. What we are good at is different from what FIs are good at. We can better understand the millennials who are actually the potential growth of banks’ customer end business.</p>
+<p>As for the business end, banks often serve large companies. They don’t have the ability to serve small and medium-sized enterprises (SMEs) well. Because for the big banks, it takes the same procedures and cost to issue a one-million loan and a one-billion loan. They can’t cover the cost when issuing loans to SMEs. But we can, as we have almost no marginal cost or variable cost by using technologies instead of human to operate. So, we are different in models, which makes us capable to serve them. If we are willing to give up the financial business, we can be good partners.</p>
+<p><strong>ED: Actually, I was about to ask you about your own personal journey, from a CFO to a CEO, and your answers are actually telling me the story. Let me ask you very directly, was there ever any temptation to apply for a banking licence?</strong></p>
+<p><strong>SC:</strong> Actually, we will apply for the banking licence for the use of defence instead of attack. If some of my businesses that require banking licences, I will apply for one, but that doesn't necessarily mean I will conduct banking business.</p>
+<p><strong>ED: And also the People’s Bank of China (PBOC) and China Banking Regulatory Commission (CBRC) are thinking of special banking licence for internet banks, maybe that is different from the regular banking licence. </strong></p>
+<p><strong>SC:</strong> Maybe.</p>
+<p><strong>Strengthening JD Finance relationship with banks and retailers</strong></p>
+<p><strong>ED: You've actually positioned JD Finance separately from JD.com and separately from banks, so you are in between JD.com and banks. The advantage that JD.com has is it's got a lot of information on customers, while banks have a lot of information of customer finance, but not customer lifestyle. At the same time, banks have gone through a full experience on how to outsource their IT, long before the internet revolution. The banks looking at JD finance are very attractive to your technology but also jealous of the customer relationship that JD has. How would you describe your working relationship today based on what you want to achieve?</strong></p>
+<p><strong>SC:</strong> Our large customer base is actually also for the banks, because they can provide the financial services to our customers. I don’t want to do financial service, I want to serve the financial institutions, to provide them with JD’s clients, operating ability and our understanding of the clients.</p>
+<p><strong>ED: Give us an example of your working relationship right now. One of the problems is that the big banks in China also have a very large IT team, so the thinking of the IT department of banks is like an IT company. </strong></p>
+<p><strong>SC:</strong> As I’ve mentioned, it’s very important to define the industry. There are three types of companies. The first is techfin; the second is fintech; the third is the traditional IT companies like IBM. Some domestic banks have IT departments large enough to become IT companies, including ICBC. But the difference between them and us is that, they can only provide the system, but we can provide a series of things, including the system, customer, and operating abilities.</p>
+<p><strong>ED: But you are not about to hand over your own customer knowledge to the banks.</strong></p>
+<p><strong>SC</strong>: The final target is we will share the clients together, which means the banks can provide their financial products and services to JD's clients.</p>
+<p><strong>ED: But you almost have the same product sets now, you have a credit card, you have mutual funds, you bought a security company, and you are beginning to look like a bank.</strong></p>
+<p><strong>SC</strong>: Because we have to prove that we can serve our clients well. If we just ask ICBC to collaborate with us and use our risk control system, they wouldn’t even look at us. Only if we prove to them by issuing loans and collecting the money back will make them trust our capacity. And in the future, we will gradually withdraw from the financial business.</p>
+<p><strong>ED: I'm still not convinced. It’s a proof of concept, understand, but you are mirroring the business of the banks. Actually, long before JD, banks had a history of trying to use third-party partnership like this before. And I'm actually thinking about the previous experience of banks. Let me ask you this question: Do you think that the origination model might work better for you because you have a strong understanding of the customer? The only part of the banking that you probably don't like is the capital requirement. And if you are able to originate the products and pass the asset to the bank so you don't have to have the capital, would that be more attractive to you?</strong></p>
+<p><strong>SC:</strong> Actually this is one of our models. We have different models while collaborating with different banks as they have different demands. Our products are like Legos, banks can build different Legos according to their demands.</p>
+<p><strong>Positioning JD Finance in an era of globalisation</strong></p>
+<p><strong>ED: Describe a little bit to me about the relationship between JD Finance and retailers, like Walmart, like in Thailand you have a new relationship with the Central Group.</strong></p>
+<p><strong>SC</strong>: We are partners with the domestic retailers heading to a win-win relationship. In Thailand, we set up a joint-venture company with the Central Group, and it will provide fintech services in Thailand.</p>
+<p><strong>ED: Are you growing this model increasingly with other traditional retailers not only in China and Thailand? Are you also thinking about different countries as well?</strong></p>
+<p><strong>SC</strong>: Globalisation will be one of our key strategies next year, which is influenced by the development of China. Five or ten years ago, when we look at Chinese internet companies, for every company you can find its US counterpart because they are all copying from the US. But this has completely changed. China has developed into a world leading position in terms of innovation of business models and technologies, the activeness of innovation, the environment of innovation, venture capital, efficiency, and the tech staff.</p>
+<p>JD’s drone could fly 240 kms, which could lead the world. Our driverless truck only needs one manual intervention every 500 kms. China is leading the world in terms of technology. In China, we are living extremely convenient lives. There are only foreign currencies in my wallet because I don’t need cash to survive in China. I can use my phone to call cabs or order takeaways. The current China can not only output capital, it can also output business models and technology. It’s time for a Chinese global company. So, we don't regard us as a Chinese company, instead we regard ourselves as a global tech company.</p>
+<p><strong>ED: Yes, you have an innovation centre in Silicon Valley…</strong></p>
+<p><strong>SC</strong>: Yes, and in the future we will not only have an innovation centre in Silicon Valley, but also in Europe and Israel.</p>
+<p><strong>ED: Which are your desirable countries that you want to succeed in?</strong></p>
+<p><strong>SC</strong>: I don't have any desirable countries to succeed in actually. It’s like when people ask about which one of the many business lines is the most important to me, I can't answer that. I provide what the clients need and that's it. It’s the same for the countries. We provide what the country needs instead of categorising the countries and deciding which countries are more important and deserve more efforts. We need to have different strategies for different countries, as the financial environment and regulations differ, instead of using the same model for every country. We want to act like start-ups when globalising and design products according to the local demand of other countries. What we can provide is to enable the globalisation team by giving them our experience, system, data, and ability.</p>
+<p><strong>ED: How did your relationship with Walmart in China come about?</strong></p>
+<p><strong>SC</strong>: Our partnership with Walmart hasn't started for very long time. At the beginning the partnership is more on the e-commerce side, and it might shift to JD Finance in a later stage.</p>
+<p><strong>ED: What is the purpose of running JD Finance separately from JD now? Is it because of listing requirements or is it because of business strategy?</strong></p>
+<p><strong>SC</strong>: Because we might apply for a banking licence as a defence. Being an America-listed company might have some negative influence on it due to the regulations.</p>
+<p><strong>ED: With your instinct as a finance person, one of the concerns we have when we talk to a lot of start-ups, or peer-to-peer lenders in China is that they grow their loan book very fast, in two years, it can become $10 billion. How do you think about customer risk or consumer risk? And what is so special about JD Finance that you think you control consumer risk very well? </strong></p>
+<p><strong>SC</strong>: In the financial industry, the risks are delayed compared to the gains. It’s easy to issue ten-billion loans, but it’s difficult to collect the money back. And it’s very important whether your loans go to enterprises in need or inclusive finance, or you are just earning high interest. Since the very beginning, we regard the risk pricing as our core capacity. We have 4,000 staff in total – Among them 2,000 are related to technology, data, and risk control; 800 are customer service; and only 1,200 are business staff and supporting teams. And it is because our risk pricing ability that the FIs collaborate with us. Take the Xiao Bai Xin Yong（小白信用）as an example. It’s an individual credit product. It covers over 300 million users, and our system have over 30,000 variables for each of them when rating their credit. The system will decide different loan amount, interest rate, and maturity for each individual. There are only a few organisations able to do that globally. Additionally, we are keeping the interest rate at a relatively low level, instead of covering high bad debt rate by charging high interest rate.</p>
+<p><strong>ED: What is your criticism about the way the traditional banks manage their customer data today?</strong></p>
+<p><strong>SC</strong>: I think traditional banks have the financial data of their existing clients, but they lack the data and the technology which can help them better understand the clients. For example, when I'm using my phone, it takes technology to tell whether it's me using the phone or not. We can tell whether it's the owner using the phone or not by analysing the way he slides and the pressure to the screen. So down here on earth, we are a tech company. We were established in 2013, and started to do risk control model using advanced technologies like AI in 2014. As mentioned, we have over 30,000 variables for each individual, which can’t be done by human.</p>
+<p><strong>ED: You've answered most of my questions, but what's interesting is, this is a journey, so the answers that you give me today, I'll be very curious to know how that's going to be evolving in the next few years.</strong></p>
+<p><strong>SC</strong>: What I mentioned today, most of them are already realised. JD is more of a doer than a talker. I only started to make public comments since last year, and you are the second media that has ever interviewed me, the first was Bloomberg.</p>
+<p><strong>ED: Thank you for that. You just bought a security company, what are you learning from the security industry?</strong></p>
+<p><strong>SC</strong>: It's a rumour.</p>
+<p><strong>ED: Is security your next thing?</strong></p>
+<p><strong>SC</strong>: We have our own security department, but our emphasis is on the technology part.</p>
+<p><strong>ED: We take a very serious view of the business itself; we are not a news company, we actually run rankings. We are very afraid when certain businesses grow too fast, we want to understand whether it's based on sustainable models, something you mentioned what you do with data, I took note of it. Thank you very much.</strong></p>
+<p><strong>SC</strong>: Thank you. </p>
+
+Categories: <a style='' href='http://www.theasianbanker.com/category-post-updates?postcategory=Financial Technology'>Financial Technology</a>, <a style='' href='http://www.theasianbanker.com/category-post-updates?postcategory=Innovation'>Innovation</a>, <a style='' href='http://www.theasianbanker.com/category-post-updates?postcategory=technology'>Technology & Operations</a><p id="category_key" style="display:none;">Financial Technology,Innovation,technology,</p><p id="category_label" style="display:none;">Financial Technology,Innovation,Technology & Operations,</p> <br>
+Keywords: <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=JD Finance'>JD Finance</a>, <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=JD.com'>JD.com</a>, <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=fintech'>fintech</a>, <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=techfin'>techfin</a>, <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=regulation'>regulation</a>, <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=payments'>payments</a>, <a style='text-decoration: none;color:#0000FF;' href='http://www.theasianbanker.com/tags-post-updates?tag=SME'>SME</a><div id='keywords' style='display:none;'>JD Finance,JD.com,fintech,techfin,regulation,payments,SME </div> <br>
+
+<div id="articleEnd"><div id="addThisBox"> </div></div>
+
+<div class="fb-comments" data-href="http://www.theasianbanker.com/updates-and-articles/jd-finances-chen-i-serve-financial-institutions-not-do-financial-services" data-numposts="10" data-colorscheme="light" data-width="650px"></div>
+<div id="addCommentBox">
+</div>
+
+<a href="tencents-lai-we-build-new-applications-to-cure-the-pain-points-of-users" id="next" style="display: none;">next</a>
+
+<div class="col-md-12 col-sm-12 relatednews" style="background:#fcfcfc; padding:5px">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        
+        <div class="category-title blue">From Our Sponsors</div>
+        <div class="row" style="margin-bottom:10px;">
+            <ul class="sponsored-links">
+                <li><a href="http://www.CompassPlus.com" target="_blank">Compass Plus</a></li>
+                <li><a href="http://www.crmnext.com" target="_blank">CRM Next </a></li>
+                <li><a href="https://www.db.com/singapore/" target="_blank">Deutsche Bank</a></li> 
+                <li><a href=" http://www.dovetailsystems.com/" target="_blank">Dovetail</a></li> 
+                <li><a href="http://www.dh.com/" target="_blank">D+H</a></li> 
+                <li><a href="http://emerico.biz/" target="_blank">Emerico</a></li> 
+                <li><a href="http://www.i-exceed.com" target="_blank">i-exceed</a></li> 
+                <li><a href="http://moxtra.com/" target="_blank">Moxtra</a></li> 
+                <li><a href="http://www.securemetric.com" target="_blank">Securemetric</a></li> 
+                <li><a href="https://www.tcs.com/" target="_blank">TCS</a></li> 
+            </ul>
+        </div>
+        
+        <div class="category-title blue">From the Web</div>
+        <div class="row" style="margin-top:10px;">
+            <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top:25px;">
+                <div id="content-wrapper">
+                    <div class="widget clearfix">
+                        <div class="row morefromweb">
+                          <article class="post-wrap mini-post-wrap col-md-4 col-sm-4 clearfix bbox">
+	
+	<div class="thumb">
+		<div class="imht imageWrapper BackgroundRR">
+			<img src="" alt="" class="img-responsive">
+		</div>
+	</div><!-- end thumb -->
+	<div class="title">
+		<h4><a href="http://www.ft.com/cms/s/0/96110e16-04f1-11e7-ace0-1ce02ef0def9.html?ftcamp=published_links%2Frss%2Fcompanies_financials%2Ffeed%2F%2Fproduct" title="Corzine tells court PwC sustained trust in MF Global" target="_blank">Corzine tells court PwC sustained trust in MF Global</a></h4>
+	</div><!-- end title -->
+	<div class="bpara">Accounting giant counters that blame for brokerage’s collapse lies with former CEO</div>
+</article>
+									<article class="post-wrap mini-post-wrap col-md-4 col-sm-4 clearfix bbox">
+	
+	<div class="thumb">
+		<div class="imht imageWrapper BackgroundRR">
+			<img src="" alt="" class="img-responsive">
+		</div>
+	</div><!-- end thumb -->
+	<div class="title">
+		<h4><a href="https://www.wsj.com/articles/long-deposed-yugoslav-princess-files-bid-for-slovenian-castle-1489055456?mod=fox_australian" title="Deposed Yugoslav Princess Files Bid for Slovenian Castle" target="_blank">Deposed Yugoslav Princess Files Bid for Slovenian Castle</a></h4>
+	</div><!-- end title -->
+	<div class="bpara">The Slovenian government has turned Brdo Castle into a prominent stage for international diplomacy,&#8230;</div>
+</article>
+									<article class="post-wrap mini-post-wrap col-md-4 col-sm-4 clearfix bbox">
+	
+	<div class="thumb">
+		<div class="imht imageWrapper BackgroundRR">
+			<img src="http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20170311_FNC136.png" alt="" class="img-responsive">
+		</div>
+	</div><!-- end thumb -->
+	<div class="title">
+		<h4><a href="http://www.economist.com/news/finance-and-economics/21718520-netherlands-more-risk-most-brexit-and-protectionism-retreat?fsrc=rss" title="The retreat of globalisation threatens the Dutch economy" target="_blank">The retreat of globalisation threatens the Dutch economy</a></h4>
+	</div><!-- end title -->
+	<div class="bpara">AS ANY football fan knows, little delights the Dutch more than beating the Germans. So, as the&#8230;</div>
+</article>
+									
+                          
+                         <!--  <a href="#" class="hovwhite comment-reply btn btn-sm btn-primary " style="float: right; right:30px; margin-top:-5px;">View More</a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>          
+</div>
+           
+        </div>
+        <div id="loading"></div>
+        <div id="articleEnd"><div id="addThisBox"> 
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e92c4004311f5ba"></script>
+
+
+<script type="text/javascript">
+var addthis_share = addthis_share || {}
+addthis_share = {
+	passthrough : {
+		twitter: {
+			via: "theasianbanker",
+			text: "JD Finance’s Chen: “I serve financial institutions, not do financial services”",
+			html: "<img src='http://www.theasianbanker.com/uploads/JDcom_Headquarters.jpg'>"
+		}
+	}
+}
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_native_toolbox"></div>
+
+
+</div></div>
+    </div>
+    
+    <!-- side content swapcool-->
+    <div id="sidepanel" class="col-md-3 col-sm-4 col-xs-12" style="font-size:.9em">
+    	<div class="widget clearfix col-sm-12 col-md-12 col-xs-6" style="margin-top:1px; margin-bottom:35px;">
+			  <div class="category-title blue">Diary of Activities</div>
+							<div style="border:none;">
+
+
+<div class="ditto_summaryPost" style="margin: 5px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px 0; line-height: 1.2em;">
+
+<a href="http://forums.theasianbanker.com/the-uk-digital-finance-leadership-programme/" target="_blank" style="color: #1b1b1b;font-size: 1em; font-weight: bold; text-decoration:none;">The UK Digital Finance Leadership Programme </a>
+
+
+<br>
+<span style="color:#666;">30 October - 03 November 2017 | London 
+</span>
+<br>
+</div> 
+
+
+<div class="ditto_summaryPost" style="margin: 5px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px 0; line-height: 1.2em;">
+
+<a href="http://forums.theasianbanker.com/switzerland-wealth-innovation-tour" target="_blank" style="color: #1b1b1b;font-size: 1em; font-weight: bold; text-decoration:none;">Switzerland Wealth Innovation Tour 2017</a>
+
+
+<br>
+<span style="color:#666;">13 - 17 November 2017 | Switzerland 
+</span>
+<br>
+</div> 
+
+
+<div class="ditto_summaryPost" style="margin: 5px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px 0; line-height: 1.2em;">
+
+<span style="color: #1b1b1b;font-size: 1em; font-weight: bold; text-decoration:none;">Middle East Africa, Risk and Transaction Banking Dialogue</span>
+
+
+<br>
+<span style="color:#666;">22 November 2017 | UAE 
+</span>
+<br>
+</div> 
+
+
+<div class="ditto_summaryPost" style="margin: 5px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px 0; line-height: 1.2em;">
+
+<a href="http://forums.theasianbanker.com/china-private-wealth-2017" target="_blank" style="color: #1b1b1b;font-size: 1em; font-weight: bold; text-decoration:none;">China Private Wealth</a>
+
+
+<br>
+<span style="color:#666;">06 December 2017 | China 
+</span>
+<br>
+</div> 
+
+
+<div class="ditto_summaryPost" style="margin: 5px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px 0; line-height: 1.2em;">
+
+<a href="http://forums.theasianbanker.com/thefofvietnam2018" target="_blank" style="color: #1b1b1b;font-size: 1em; font-weight: bold; text-decoration:none;">The Future of Finance, Vietnam</a>
+
+
+<br>
+<span style="color:#666;">12 January 2018 | Vietnam 
+</span>
+<br>
+</div> 
+
+</div>
+
+							
+							<div class="row"> <a href="http://www.theasianbanker.com/diary-of-activities" class="hovwhite comment-reply btn btn-sm btn-primary " style="float: right; right:20px; margin-top:10px; margin-bottom:30px;">View More</a></div>
+		</div>
+		<div class="widget clearfix col-sm-12 col-md-12 col-xs-6" style="margin-top:1px; margin-bottom:35px;">
+			<div class="category-title blue">
+			TAB Live
+			</div>
+		    <div class="ditto_summaryPost" style="margin: 12px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px; line-height: 1.1em;">
+<div class="thumb" style="margin-bottom:5px;">
+	<div class="imht imageWrapper BackgroundRR">
+	<img src='http://www.theasianbanker.com/uploads/20171011-A-long-history-and-broad-understanding-of-wealth-management-in-Switzerland.jpg' alt='' class='img-responsive'>
+	</div>
+	</div>
+
+<a href="http://live.theasianbanker.com/video/a-long-history-and-broad-understanding-of-wealth-management-in-switzerland" target="_blank"><strong>A long history and broad understanding of wealth management in Switzerland</strong></a><br>
+<span style="color:#666;">11 October 2017</span>
+</div>
+<div class="ditto_summaryPost" style="margin: 12px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px; line-height: 1.1em;">
+<div class="thumb" style="margin-bottom:5px;">
+	<div class="imht imageWrapper BackgroundRR">
+	<img src='http://www.theasianbanker.com/uploads/20170913-people-expect-to-have-access-and-control-to-their-own-identities-John%20Donovan-.jpg' alt='' class='img-responsive'>
+	</div>
+	</div>
+
+<a href="http://live.theasianbanker.com/video/forgerocks-donovan-people-expect-to-have-access-and-control-to-their-own-identities" target="_blank"><strong>ForgeRock's Donovan: "People expect to have access and control to their own identities"</strong></a><br>
+<span style="color:#666;">13 September 2017</span>
+</div>
+<div class="ditto_summaryPost" style="margin: 12px 0; border-bottom: 1px dotted rgb(102, 102, 102); font-size:1em; padding: 8px; line-height: 1.1em;">
+<div class="thumb" style="margin-bottom:5px;">
+	<div class="imht imageWrapper BackgroundRR">
+	<img src='http://www.theasianbanker.com/uploads/20171017_African_Fintech_Networks_%20Agbo_Madak.jpg' alt='' class='img-responsive'>
+	</div>
+	</div>
+
+<a href="http://live.theasianbanker.com/video/african-fintech-networks-agbo-madaki:-we-provide-developers-a-platform-to-showcase-what-they-have" target="_blank"><strong>African Fintech Network's Agbo-Madaki: "We provide developers a platform to showcase what they have"</strong></a><br>
+<span style="color:#666;">21 August 2017</span>
+</div>
+		</div>
+    </div>
+     
+ <footer class="footer col-md-12 col-sm-12" style="padding-bottom: 10px;">
+	<div class="container">
+		<div class="col-md-12 col-sm-12">	
+				<div class="widget clearfix">
+						<div class="about-widget clearfix">
+							
+							<div class="social-icons clearfix" style="text-align:center;">
+								<span class="social-facebook" style="width: 39px;height: 39px;line-height: 39px;font-size: 30px;"><a data-toggle="tooltip" data-placement="bottom" title="Facebook" href="https://www.facebook.com/TheAsianBanker"><i class="fa fa-facebook"></i></a></span>
+								<span class="social-twitter" style="width: 39px;height: 39px;line-height: 39px;font-size: 30px;"><a data-toggle="tooltip" data-placement="bottom" title="Twitter" href="https://twitter.com/theasianbanker"><i class="fa fa-twitter"></i></a></span>
+								<span class="social-linkedin" style="width: 39px;height: 39px;line-height: 39px;font-size: 30px;"><a data-toggle="tooltip" data-placement="bottom" title="Linkedin" href="https://www.linkedin.com/company/the-asian-banker"><i class="fa fa-linkedin"></i></a></span>
+								<span class="social-youtube" style="width: 39px;height: 39px;line-height: 39px;font-size: 30px;"><a data-toggle="tooltip" data-placement="bottom" title="YouTube" href="https://www.youtube.com/user/theasianbanker"><i class="fa fa-youtube-play"></i></a></span>
+								<span class="social-instagram" style="width: 39px;height: 39px;line-height: 39px;font-size: 30px;"><a data-toggle="tooltip" data-placement="bottom" title="Instagram" href="https://instagram.com/theasianbankerofficial/"><i class="fa fa-instagram"></i></a></span>
+<!--								<span class="social-flickr" style="width: 39px;height: 39px;line-height: 39px;font-size: 30px;"><a data-toggle="tooltip" data-placement="bottom" title="Flickr" href="https://www.flickr.com/photos/132134725@N05/"><i class="fa fa-flickr"></i></a></span>
+	-->						    
+							</div><!-- end social icons -->
+						</div><!-- end about widget -->
+					</div><!-- end widget -->
+		</div>
+		<div class="col-md-12">	
+			 <div class="col-md-12 text-center" style="cursor:pointer;">
+			     <a class="footer_link" href="http://www.theasianbanker.com/tab-about-us">About us</a> | 
+			     <a href="http://www.theasianbanker.com/tab-contact-us">Contact us</a> | 
+			     <a href="mailto:editor@theasianbanker.com">Feedback</a> | 
+			     <a href="mailto:efoong@theasianbanker.com">Advertise with Us</a> | 
+			     <a href="http://www.theasianbanker.com/tab-privacy-policy">Privacy Policy</a> | 
+			     <a href="http://www.theasianbanker.com/publication/copyright-request/">Copyrights Requests</a> | 
+			     <a href="http://www.theasianbanker.com/publication/jobs/">Jobs and Internships with us</a> | 
+			     <a href="http://www.theasianbanker.com/site-map">Site Map</a> | 
+			     <a href="http://www.theasianbanker.com/legal-notice/">Legal Notice</a>
+			</div>
+		
+		</div>
+		<div class="col-md-12">	
+
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+			<p style="text-align:center; color: white; font-size: 12px;"><i class="fa fa-copyright">&nbsp;</i>Copyright 2017, The Asian Banker. All Rights Reserved.</p>
+			</div>
+            <!-- end col -->
+		</div>
+	</div><!-- end container -->
+</footer><!-- end footer -->
+
+<script>
+    window.onload = function () {
+        if($('area').length){
+            var ImageMap = function (map) {
+                
+                var n,
+                    areas = map.getElementsByTagName('area'),
+                    len = areas.length,
+                    coords = [],
+                    previousWidth = 1130;
+                for (n = 0; n < len; n++) {
+                    coords[n] = areas[n].coords.split(',');
+                }
+                this.resize = function () {
+                    var n, m, clen,
+                        x = document.body.clientWidth / previousWidth;
+                    for (n = 0; n < len; n++) {
+                        clen = coords[n].length;
+                        for (m = 0; m < clen; m++) {
+                            coords[n][m] *= x;
+                        }
+                        areas[n].coords = coords[n].join(',');
+                    }
+                    previousWidth = document.body.clientWidth;
+                    return true;
+                };
+                window.onresize = this.resize;
+            },
+            imageMap = new ImageMap(document.getElementById('Map'));
+            imageMap.resize();
+        }
+    }
+</script>
+
+</div><!-- end wrapper -->
+
+<!-- <div class="dmtop fa fa-chevron-up">Scroll to Top</div> -->
+<div class="divline"></div>
+<!-- fancybox -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" rel="stylesheet">
+
+<script src="/assets/templates/shared/tab-main-2017/multilogin/assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/bootstrap.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/retina.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/tickerme.min.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/custom.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/home-scripts.js"></script>
+<script type="text/javascript" src="/assets/templates/shared/tab-main-2017/js/thumbnail-slider.js"></script>
+<script type="text/javascript"  src="/assets/templates/shared/tab-main-2017/js/tab.js"></script>
+
+<!-- sweetalerts -->
+<script type="text/javascript" src="/assets/tab_redesign/libs/sweetalert/dist/sweetalert.min.js"></script>
+<link href="/assets/tab_redesign/libs/sweetalert/dist/sweetalert.css" rel="stylesheet">
+<!-- Fotorama -->
+<link href="/assets/templates/forums/shared/fotorama-4.6.2/fotorama.css" rel="stylesheet">
+<script src="/assets/templates/forums/shared/fotorama-4.6.2/fotorama.js"></script>
+</body>
+</html>
+
+<script> 
+$(document).ready(function() {
+    // Init fancybox
+    $(".content img").wrap(function() {
+        return '<a class="figure" rel="group" href="' + $(this).attr('src') + '">';
+	});
+    $(".figure").fancybox({
+        'titleShow'     : false,
+        'transitionIn'	: 'elastic',
+        'transitionOut'	: 'elastic',
+        'easingIn'      : 'easeOutBack',
+        'easingOut'     : 'easeInBack'        
+    });
+    
+    $('#Carousel').carousel({
+        interval: 5000
+    });
+});
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=503414959796410&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script src="/assets/js/jquery.clever-infinite-scroll.js"></script>
+<script>
+$(document).ready(function() {
+	var page = 0;
+	$('.article').cleverInfiniteScroll({
+	  contentsWrapperSelector: '.article',
+	  contentSelector: '.content',
+	  nextSelector: '#next',
+	  loadImage: 'https://dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/loader.gif'
+	});
+});
+function showmodal(){
+    $(".modal").modal("show");
+    $(".modal iframe").attr({
+    	"src": "http://www.theasianbanker.com/multilogin-2017"
+    });	    
+}
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8898907-14', 'auto');
+ga('create', 'UA-70744778-1', 'auto', 'myTracker');
+ga('send', 'pageview');
+ga('myTracker.send', 'pageview');
+</script>
+
+
+

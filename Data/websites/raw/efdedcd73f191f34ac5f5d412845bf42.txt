@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+ <!-- data-info:v:2.0.6508.34796;a:cba82b47-a178-424e-8d2b-d667d0fe2eda;cn:12;az:{did:5f46f41407bf434ca0465c7153fafe3d, rid: 12, sn: easia-prod-entertainment, dt: 2017-10-27T08:06:53.2912175Z, bt: 2017-10-26T19:20:09.7896567Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:AAtZIqD,vk:news,n:ar,l:en-us,ck:newsworld};xd:BByEbzA;ovc:f;al:;fxd:f;xdpub:2017-04-19 16:25:27Z;xdmap:2017-10-27 08:55:53Z;axd:;f:muidflt26cf,muidflt29cf,muidflt49cf,muidflt59cf,muidflt298cf,muidflt313cf,bingmsncombined2cf,bingmsncombined3cf -->
+ <meta name="application-name" content="China Shuts Down Tens Of Thousands Of Factories In Widespread Pollution Crackdown"/><meta name="cq" content="passed"/>
+ <link rel="canonical" href="https://www.forbes.com/sites/trevornace/2017/10/24/china-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown/" />
+ 
+
+ <title>China Shuts Down Tens Of Thousands Of Factories In Widespread Pollution Crackdown</title>
+ <meta name="description" content="China has implemented an unprecedented pollution crackdown in recent months as the country shuts down tens of thousands of factories."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eas-s-msn-com.akamaized.net/en-us/news/_sc/css/f5956224-13333d0e/direction=ltr.locales=en-us.themes=gray.dpi=resolution1x/63-8adadc-71ecad1c/21-f61252-b12c00e0/9f-41f5a3-3246438c/4f-6cbef7-68ddb2ab/86-c5284f-16c6af35/9a-1298e6-f94d3276/1d-35c95d-a648eab2?ver=2.0.6508.34796&amp;fdhead=muidflt26cf,muidflt29cf,muidflt49cf,muidflt59cf,muidflt298cf,muidflt313cf,bingmsncombined2cf,bingmsncombined3cf&amp;csopd=20171024214425&amp;csopdb=20171024213247" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function s(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==w&&(v=!0);h(n,i,r)}function h(n,t,i,r){var u;if(!n||!f[n]){if(u=tt(n,t),!u){e.push(r||{i:n,d:t,f:i});return}var o=typeof i=="function",s=n!="dap"&&n!="adLoad",h=t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom"),c=v&&o&&s&&h;c?nt(n,i,u,!0):g(o,n,i,u)}}function g(n,t,i,r){var u;u=n?i.apply(null,r):i;c(t,u)}function nt(n,t,i,r){if(r)setTimeout(function(){var r=t.apply(null,i);c(n,r)},1);else{var u=t.apply(null,i);c(n,u)}}function c(t,i){t&&(i?(f[t]=i,y()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function y(){var r,u,n,t;if(e.length&&!i){do for(r=e,u=r.length,e=[],i=1,t=0;t<u;t++)n=r[t],h(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function tt(i,r){for(var s,v,h,u=[],c=r?r.length:0,e=0;e<c;e++){var l=r[e],a=f[l],y=typeof a!="undefined";if(!y){if(s=d.exec(l),s)if(v=s[1],h=n[v],h!==t){u.push(h);continue}else o||(o=setTimeout(it,k));break}u.push(a)}return c==u.length?u:0}function it(){o=0;y()}function rt(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);ut(n.js);r&&h(t,i,r)}function ut(n){if(typeof n=="string")p(n);else if(n)for(var t=0;t<n.length;t++)p(n[t])}function p(n){if(!a[n]){a[n]=1;var i=u.getElementsByTagName("script")[0],t=u.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function ft(n){return b?n?r.now():Math.round(r.now()):new Date-l}var w=n._jsLoaderAsyncCanary||"c.dom",r=n.performance,l=((r||{}).timing||{}).navigationStart||+new Date,b=r&&typeof r.now=="function",u=n.document,f={date:Date,document:u,image:n.Image,localStorage:n.localStorage,location:u&&u.location,navigator:navigator,pageStart:l,pageTime:ft,screen:n.screen,window:n},e=[],i,k=50,o,a={},v=!1,d=/^window\.(.+)$/;s.amd={jQuery:1};s.is=function(n){return typeof f[n]!="undefined"};n.define=s;n.require=rt})(window);define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i});define("httpsFailTest",["jquery","logging","document"],function(n,t,i){function h(){var n="[httpsFailTest] Failed to load gif url:"+e,i,r;t.error(n);i=Math.random()*100<=10;i&&(r=new Image,r.src=s+encodeURIComponent(n))}var u="en-us",f="homepage",c=i.location.host,e="https://"+i.location.host,s="http://"+i.location.host,r=i.location.pathname.split("/"),o;return r.length>=3&&r[2]!==""&&(f=r[2]),r.length>=2&&r[1]!==""&&(u=r[1]),e+="/"+u+"/"+f+"/_testing.gif",s+="/"+u+"/"+f+"/_logging.gif?errorMessage=",i.location.protocol==="http:"&&(o=new Image,o.onerror=h,o.src=e),{}});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eas-s-msn-com.akamaized.net/en-us/news/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}</style>
+</head>
+
+<body class="ap content center-content gray">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-us/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="https://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="cba82b47a178424e8d2bd667d0fe2eda">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+ 
+
+ <div class="articlecontent">
+<h1>China Shuts Down Tens Of Thousands Of Factories In Widespread Pollution Crackdown</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="http://forbes.com/"  title="forbes logo"><img alt="Forbes logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA6rtr1.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="Forbes logo" /> Forbes</a>
+ </span>
+ <span>
+ <span class="time">2 days ago</span>
+         <span class="authorname-txt" 
+              
+              
+              >
+                <span class="truncate" >Trevor Nace, Contributor</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+ <p></p><div class="wp-caption alignnone">
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Provided by Forbes Media LLC" data-caption="" >
+ <img alt="smoke coming from it" height="200" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAtZBsE.img?h=200&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=780&amp;y=422" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Provided by Forbes Media LLC</span>
+ 
+</span>
+</span>
+<p class="wp-caption-text">Buildings in China are shrouded in smog</p></div><p>China has implemented an unprecedented pollution crackdown in recent months as the country shuts down tens of thousands of factories. The effort is part of a national effort to address China’s infamous pollution and has affected wide swaths of China’s manufacturing sector.</p><p>In total, it is estimated that 40 percent of all China’s factories have been shut down at some point in order to be inspected by environmental bureau officials. As a result of these inspections over 80,000 factories have been hit with fines and criminal offenses as a result of their emissions.</p><p>Safety officials have been moving from province to province (30 in total so far) shutting down factories as well as electricity and gas as they inspect the factories for meeting emissions requirements. This has resulted in late and missed orders, increased costs, and could ultimately result in higher prices on US shelves.</p><p>China’s government has recently taken a more proactive approach in regulating environmental laws, something that was largely overlooked in past decades. The crackdown has resulted in everything from hefty fines to jail time for the more egregious violators. This has temporarily stopped production from wide swaths of factories along China’s east coast and forced some factory owners to move supply chains to other countries.</p><p>China recently <a href="http://news.xinhuanet.com/english/2017-10/23/c_136700303.htm">announced their plan</a> to reduce the concentration of hazardous fine particulate matter from 47 micrograms per cubic meter to 35 micrograms by the year 2035. The recent crackdown appears to be at least partially in response to the new plan.</p><p>China’s crackdown on polluting factories will result in cleaner air and a whole host of health benefits. However, there are certainly critics that point to a potential decline in China’s industrial sector and GDP growth. Ultimately, factories will have to comply and find ways to both meet production goals and environmental laws.</p><p>For the average Chinese citizen, this will mean one step closer to swapping a polluted grey sky with blue skies. In this, China follows the realization the United States made in the early 1960′s when implementing the Clean Air Act.</p><p>Environmental regulations are an essential part of governing, where population health is put before capitalism. There have been <a href="https://www.epa.gov/clean-air-act-overview/clean-air-act-and-economy">hundreds of studies</a> that point to the overall positive effect of smart environmental regulations. From increased worker health (less sick days) to less government subsidized healthcare (Medicaid/Medicare) to increased employment.</p><p><strong>MORE FROM</strong><a href="https://www.forbes.com/sites/trevornace/">Trevor Nace, Contributor</a></p><p></p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-us"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+ <div class="morefromcategory">
+<h3> <h2>
+ <span>More in News</span>
+ </h2>
+</h3>
+<ul>
+ <li >
+ 
+ <a href="/en-us/news/us/strippers-surveillance-and-assassination-plots-the-wildest-jfk-files/ar-AAu6xIJ">
+<img alt="Part of a file, dated Nov. 24, 1963, quoting FBI director J. Edgar Hoover as he talks about the death of Lee Harvey Oswald, released for the first time Thursday." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6KQk.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Part of a file, dated Nov. 24, 1963, quoting FBI director J. Edgar Hoover as he talks about the deat... - AP Photo/Jon Elswick" width="96" /> <h4>Strippers, surveillance and assassination plots: The wildest JFK Files</h4>
+ <span>
+<img alt="The Washington Post Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB6Dp75.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="The Washington Post" width="16" /> The Washington Post
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/news/us/third-woman-says-she-was-groped-by-george-hw-bush/ar-AAu6cWm">
+<img alt="Third woman says she was groped by George H.W. Bush" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6sBu.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=497&amp;y=346" title="Third woman says she was groped by George H.W. Bush - Provided by The Hill" width="96" /> <h4>Third woman says she was groped by George H.W. Bush</h4>
+ <span>
+<img alt="The Hill Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB6QDrH.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> The Hill
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/news/politics/us-soldiers-were-separated-from-unit-in-niger-ambush-officials-say/ar-AAu6qGZ">
+<img alt="In this image provided by the U.S. Air Force, a U.S. Army carry team transfers the remains of Army Staff Sgt. Dustin Wright of Lyons, Ga., late Thursday, Oct. 5, 2017, upon arrival at Dover Air Force Base, Del. Wright, 29, of Lyons, Ga., was one of four U.S. troops and four Niger forces killed in an ambush by dozens of Islamic extremists on a joint patrol of American and Niger Force." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAtjqZB.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2690&amp;y=1291" title="In this image provided by the U.S. Air Force, a U.S. Army carry team transfers the remains of Army S... - Staff Sgt. Aaron J. Jenne/U.S. Air Force via AP" width="96" /> <h4>U.S. Soldiers Were Separated From Unit in Niger Ambush, Officials Say</h4>
+ <span>
+<img alt="The New York Times Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA3l3r5.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> The New York Times
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/news/us/ap-explains-long-secret-jfk-assassination-files-released/ar-AAu3XeE">
+<img alt="In this April 30, 1963 file photo, President John F. Kennedy listens while Grand Duchess Charlotte of Luxembourg speaks outside the White House in Washington." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6Au2.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=835&amp;y=733" title="In this April 30, 1963 file photo, President John F. Kennedy listens while Grand Duchess Charlotte o... - AP Photo/William J. Smith" width="96" /> <h4>Long-secret JFK assassination files released. Any bombshells?</h4>
+ <span>
+<img alt="Associated Press Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA42Hq5.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Associated Press
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/news/us/man-shot-by-chicago-police-officer-is-awarded-dollar447-million/ar-AAu6C28">
+<img alt="Michael LaPorta talks with Nicolette Ward, one of his attorneys, outside the Dirksen U.S. Courthouse in Chicago after he was awarded $44.7 million in a federal lawsuit against the city of Chicago, on Thursday, Oct. 26, 2017." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6wP2.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Michael LaPorta talks with Nicolette Ward, one of his attorneys, outside the Dirksen U.S. Courthouse... - Abel Uribe/Chicago Tribune/TNS" width="96" /> <h4>Man shot by Chicago police officer is awarded $44.7 million</h4>
+ <span>
+<img alt="Tribune News Service Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB857LO.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Tribune News Service
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/news/us/i-hope-someone-truly-shoots-you-online-conspiracy-theorists-harass-vegas-victims/ar-AAu66jn">
+<img alt="Braden Matejka, 30, (L) and his girlfriend Amanda Homulos, 23, from British Columbia, Canada sit outside Sunrise Hospital &amp;amp; Medical Center after he was discharged after being shot at the Route 91 music festival mass shooting next to the Mandalay Bay Resort and Casino in Las Vegas, Nevada, U.S. October 4, 2017." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu63So.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2082&amp;y=1002" title="Braden Matejka, 30, (L) and his girlfriend Amanda Homulos, 23, from British Columbia, Canada sit out... - REUTERS/Lucy Nicholson" width="96" /> <h4>&#39;I hope someone truly shoots you&#39;: Conspiracy theorists harass Vegas victims</h4>
+ <span>
+<img alt="The Guardian Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBbFELd.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> The Guardian
+</span>
+ </a>
+
+</li>
+ </ul>
+</div>
+
+
+<script>
+    require(["refreshPdpModules", "c.dom", "c.sso"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+    require(["refreshPdpModules", "c.dom", "c.pdp"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+
+    require(["jquery", "binding", "LocaleSettings", "c.pdpready"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+    require(["jquery", "binding", "LocaleSettings", "finance.ajax.done"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+
+    define("LocaleSettings", ["utils"], function()
+    {
+        var settings = {};
+        settings.numberGroupSizes = "3".split(" ");
+settings.numberDecimalSeparator = ".";
+settings.numberDecimalDigits = "2";
+settings.numberGroupSeparator = ",";
+settings.currencyGroupSizes = "3".split(" ");
+settings.currencyGroupSeparator = ",";
+settings.currencyDecimalSeparator = ".";
+settings.currencyDecimalDigits = parseInt("2");
+settings.currencySymbol = "$";
+settings.currencyPositivePattern = parseInt("0");
+settings.currencyNegativePattern = parseInt("0");
+settings.percentGroupSizes = "3".split(" ");
+settings.percentGroupSeparator = ",";
+settings.percentDecimalSeparator = ".";
+settings.percentDecimalDigits = parseInt("2");
+settings.percentSymbol = "%";
+settings.percentPositivePattern = parseInt("0");
+settings.percentNegativePattern = parseInt("0");
+settings.shortTimePattern = "h:mm tt";
+settings.monthYearPattern = "MMM yyyy";
+settings.monthDatePattern = "MMM d";
+settings.dayDatePattern = "ddd MMM d";
+settings.negativeSign = "-";
+settings.defaultDatePattern = " MMMM d, yyyy";
+settings.monthDayYearPattern = "M/d/yyyy";
+settings.longTimePattern = "h:mm:ss tt";
+settings.dateSeparator = "/";
+settings.timeSeparator = ":";
+settings.indexdetailsurl = "/en-us/money/indexdetails";
+settings.stockdetailsurl = "/en-us/money/stockdetails";
+settings.funddetailsurl = "/en-us/money/funddetails";
+settings.etfdetailsurl = "/en-us/money/etfdetails";
+settings.commoditydetailsurl = "/en-us/money/markets/commoditydetails";
+settings.watchlisturl = "/en-us/money/watchlist";
+settings.commoditiesNewsurl = "/en-us/money/commoditiesnews";
+settings.homeequityAjaxUrl = "/en-us/money/rates/gethomeequityrates";
+settings.autoloansAjaxUrl = "/en-us/money/rates/getautoloansrates";
+settings.savingsAjaxUrl = "/en-us/money/rates/getsavingsrates";
+settings.creditcardsAjaxUrl = "/en-us/money/rates/getcreditcardsrates";
+settings.currencyConverterUrl = "/en-us/money/currencyconverter";
+settings.serpUrl = "/en-us/money/serp";
+settings.milestoneDigits = "".split(",");
+settings.milestoneWords = "".split(",");
+settings.isUserAuthenticated = "False";
+settings.currenciesUrl = "/en-us/money/currencydetails";
+settings.marketDetailsUrl = "/en-us/money/marketdetails";
+settings.homepageScreenersUrl = "/en-us/money/homepagescreeners";
+settings.screenerAddFilterUrl = "/en-us/money/getscreenerfilters";
+settings.filterResponseUrl = "/en-us/money/getfilterresponse";
+settings.presetScreensUrl = "/en-us/money/getpresetscreens";
+settings.realTimeQuotesUrl = "/en-us/money/realtimequotes";
+settings.autosuggestControllerUrl = "/en-us/money/autosuggest";
+settings.searchresultsPageUrl = "/en-us/money/searchresults";
+settings.heroChartUrl = "/en-us/money/stockdetails/herochart";
+settings.stockDetailsFilmstripUrl = "/en-us/money/stockdetailsfilmstrippartialpage?symbol=AATZIQD";
+settings.locale = "en-us";
+settings.language = "en";
+settings.country = "us";
+
+        settings.PostAjaxComplete = function(alwaysReset)
+        {
+            var pagingSection = binding.get("pagingSection", ".pagingsection");
+            //<![CDATA[
+            if (pagingSection && typeof pagingSection.teardown === "function" && typeof pagingSection.setup === "function")
+            {
+                pagingSection.teardown();
+                pagingSection.setup();
+                if (alwaysReset)
+                {
+                    binding("pagingSection", ".pagingsection").all();
+                }
+            } else
+            {
+                binding("pagingSection", ".pagingsection").all();
+            }
+            //]]>
+        };
+
+        return settings;
+    });
+</script>
+
+<style>
+    .bingNewsContainer h2::after,
+    [data-aop="financeportfoliobingnewsmodule"] h3::after,
+    .bingNewsContainer #pdp-module h3::after
+    {
+        content: "News from the Web";
+}
+</style>
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+     <div  class="ad"  id="rectangle1_article_newsworld_714514d1-0562-466a-aeda-7bc7ba2dcffe">
+        <div>
+            <div  id="rectangle1_article_newsworld_container_714514d1-0562-466a-aeda-7bc7ba2dcffe">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN34&amp;PVGUID=cba82b47a178424e8d2bd667d0fe2eda&amp;PROVIDERID=7GYW5ZA", 300, 600, "rectangle1_article_newsworld_container_714514d1-0562-466a-aeda-7bc7ba2dcffe");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+    <div  class="ad"  id="rectangle2_article_newsworld_55065430-5eaa-4df8-9ea9-c57bccc3b2dc">
+        <div>
+            <div  id="rectangle2_article_newsworld_container_55065430-5eaa-4df8-9ea9-c57bccc3b2dc">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN32&amp;PVGUID=cba82b47a178424e8d2bd667d0fe2eda&amp;PROVIDERID=7GYW5ZA", 300, 250, "rectangle2_article_newsworld_container_55065430-5eaa-4df8-9ea9-c57bccc3b2dc");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <section class="morefromproviderrr"  data-aop="morefromprovidervnext_morefromprovidervnext" >
+ 
+<h3> <h2>
+ <span>More From Forbes</span>
+ </h2>
+</h3>
+ 
+<ul>
+ <li   >
+<a href="https://www.forbes.com/sites/kathleenchaykowski/2017/10/27/facebooks-marketplace-partners-with-auto-dealers-to-boost-used-car-sales/"  target="_blank">
+ <img alt="" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6UgL.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="A preview of Facebook’s Marketplace tab with new auto-focused features." width="88" />
+<div class="headline-container">
+  <span class="truncate">Facebook&#39;s Marketplace Partners With Auto Dealers To Boost Used Car Sales</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Forbes Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2XNwp.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Forbes
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.forbes.com/sites/mitchwallace/2017/10/27/heres-how-i-installed-a-4tb-external-hard-drive-on-my-ps4/"  target="_blank">
+ <img alt="" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6Ixs.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Provided by Forbes Media LLC" width="88" />
+<div class="headline-container">
+  <span class="truncate">Here&#39;s How I Installed A 4TB External Hard Drive On My PS4</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Forbes Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2XNwp.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Forbes
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.forbes.com/sites/brucedorminey/2017/10/27/nasa-says-dwarf-planet-ceres-likely-harbors-salty-mud/"  target="_blank">
+ <img alt="" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu6L3r.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Provided by Forbes Media LLC" width="88" />
+<div class="headline-container">
+  <span class="truncate">NASA Says Dwarf Planet Ceres Likely Harbors Salty Mud</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Forbes Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2XNwp.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Forbes
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="http://forbes.com/"  data-aop="provider_logo_secondary" >
+                   <img alt="Forbes" height="100" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA6rr3Z.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f" width="100" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    Forbes
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="http://forbes.com/"  data-aop="provider_promotext" >
+                       View the full site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+ <div class="nextcontentitem">
+<h3> <h2>
+ <span>Microsoft Store Offers - Sponsored</span>
+ </h2>
+</h3>
+<ul>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L1_XBOXDESIGNLAB_FREEMETALLIC&amp;url=https://xboxdesignlab.xbox.com/en-US" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAu40qE.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Xbox Design Lab controller metallic finishes and triggers - Microsoft" width="96" /> <h4>FREE metallic finishes on Design Lab controllers</h4>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L2_XBOXONEX_&amp;url=https://www.microsoft.com/en-us/store/d/xbox-one-x-1tb-console/8NQ33JVV1S9V?WT.mc_id=XB1X_PO_092017" target="_blank">
+<img alt="Xbox One X" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAse7Nm.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Spotlight-Xbox One X - Microsoft Store" width="96" /> <h4>Pre-order Xbox One X (limited-quantities)</h4>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L3_ALCATEL_199&amp;url=https://www.microsoft.com/en-us/store/d/alcatel-idol-4s-unlocked/8r7wv7wmjtz1" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAm2TlN.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Alcatel IDOL 4S - Unlocked - Microsoft" width="96" /> <h4>Alcatel IDOL 4S with VR headset, $199</h4>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L4_LITTLEBITS_CLOUDBIT&amp;url=https://www.microsoft.com/en-us/store/d/littlebits-cloudbit-starter-kit/8wncrhw21cbv" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhwYBS.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="littleBits cloudBit Starter Kit - Microsoft" width="96" /> <h4>littleBits cloudBit Starter Kit, sale $39.99</h4>
+ </a>
+
+</li>
+ </ul>
+</div>
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/default.aspx">&#169; 2017 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Legal</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="https://newsletters.msn.com/">Newsletter</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=cba82b47a178424e8d2bd667d0fe2eda&amp;rnd=636446913607172016&amp;rf=&amp;tp=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%252Far-AAtZIqD&amp;di=17930&amp;lng=en-us&amp;cv.product=prime&amp;pn=article&amp;activityId=cba82b47a178424e8d2bd667d0fe2eda&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=newsworld&amp;st.sdpt=&amp;subcvs=news" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636446913607172016&amp;c7=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%252Far-AAtZIqD&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=17930&amp;pi=&amp;ps=&amp;su=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%252Far-AAtZIqD&amp;pageid=articlevnext&amp;mkt=en-us&amp;pn=article&amp;pp=False&amp;cv.product=prime&amp;cv.partner=Forbes&amp;cv.publcat=Forbes%2BMedia%2BLLC&amp;st.dpt=newsworld&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636446913607172016&amp;rf=&amp;rid=cba82b47a178424e8d2bd667d0fe2eda&amp;cvs=Browser&amp;subcvs=news&amp;cv.entityId=AAtZIqD&amp;cv.entitySrc=ar&amp;provid=AA28KI&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=cba82b47a178424e8d2bd667d0fe2eda&amp;pm=" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//c.bing.com/c.gif?Red3=MSNLI_pd&rid=cba82b47-a178-424e-8d2b-d667d0fe2eda&lng=en-us&dgk=downlevel.pc&imd=0&pn=articlepage&rf=&tp=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fworld%2Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%2Far-AAtZIqD';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//c.bing.com/c.gif?Red3=MSNLI_pd&amp;rid=cba82b47-a178-424e-8d2b-d667d0fe2eda&amp;lng=en-us&amp;dgk=downlevel.pc&amp;imd=0&amp;pn=articlepage&amp;rf=&amp;tp=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fworld%2Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%2Far-AAtZIqD&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//c.bing.com/c.gif?Red3=MSAOL_Video_pd&rid=cba82b47-a178-424e-8d2b-d667d0fe2eda&lng=en-us&dgk=downlevel.pc&imd=0&pn=articlepage&rf=&tp=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fworld%2Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%2Far-AAtZIqD';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//c.bing.com/c.gif?Red3=MSAOL_Video_pd&amp;rid=cba82b47-a178-424e-8d2b-d667d0fe2eda&amp;lng=en-us&amp;dgk=downlevel.pc&amp;imd=0&amp;pn=articlepage&amp;rf=&amp;tp=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fworld%2Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%2Far-AAtZIqD&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["document", "c.deferred"], function (document)
+        {
+            var iframe = document.createElement("iframe");
+            var protocolWithColon = "True" === "True" ? document.location.protocol : protocol + ":";
+
+            iframe.src = protocolWithColon + "//" + "cdn.adaptv.advertising.com/msft/msftsync.html";
+            iframe.width = 0;
+            iframe.height = 0;
+            iframe.setAttribute("style", "display: block; border: 0");
+
+            document.body.appendChild(iframe);
+        });
+    </script>
+    <noscript>
+        <iframe src="cdn.adaptv.advertising.com/msft/msftsync.html" height="0" width="0" style="display: block; border: 0"></iframe>
+    </noscript>
+    <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//c.bing.com/c.gif?Red3=MSAN_Video_pd&rid=cba82b47-a178-424e-8d2b-d667d0fe2eda&lng=en-us&dgk=downlevel.pc&imd=0&pn=articlepage&rf=&tp=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fworld%2Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%2Far-AAtZIqD';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//c.bing.com/c.gif?Red3=MSAN_Video_pd&amp;rid=cba82b47-a178-424e-8d2b-d667d0fe2eda&amp;lng=en-us&amp;dgk=downlevel.pc&amp;imd=0&amp;pn=articlepage&amp;rf=&amp;tp=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fworld%2Fchina-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown%2Far-AAtZIqD&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

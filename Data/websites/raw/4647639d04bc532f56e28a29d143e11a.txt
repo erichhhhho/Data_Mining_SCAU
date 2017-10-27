@@ -1,0 +1,1678 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>China Refuses to Admit It Has a Rape Problem. I Would Know. &#8211; Foreign Policy</title>
+
+        <meta name="wapoGroupsX" content="default">
+        <meta name="google-site-verification" content="7Z5A6Xlt7BhqqooipJUtw0cu2IjSQ-_RnNbEA2c6pfc">
+        <meta name="apple-itunes-app" content="app-id=1034756405">
+
+                    <meta property="og:title" content="China Refuses to Admit It Has a Rape Problem. I Would Know.">
+            <meta property="og:image" content="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg">
+            <meta property="og:url" content="https://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/">
+            <meta property="og:description" content="The Communist Party wants to blame Hollywood and &quot;loose women,&quot; instead of acknowledging its own epidemic levels of sexual assault.">
+            <meta property="og:site_name" content="Foreign Policy">
+            <meta property="fb:app_id" content="107151292643652" />
+            <meta property="og:type" content="article" />
+
+            <!-- CANONICAL -->
+            <link rel="canonical" href="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/">
+
+            <!-- Twitter Tags -->
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@ForeignPolicy">
+            <meta name="twitter:title" content="China Refuses to Admit It Has a Rape Problem. I Would Know.">
+            <meta name="twitter:description" content="The Chinese Communist Party blames America for China&#039;s sexual revolution. I was caught in the middle.">
+            <meta name="twitter:image" content="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg">
+            <meta property="twitter:domain" value="foreignpolicy.com"/>
+
+            <!-- SailThru meta Tags -->
+            <meta name="sailthru.title" content="China Refuses to Admit It Has a Rape Problem. I Would Know." />
+            <meta name="sailthru.date" content="2017-10-26 17:00:20" />
+            <meta name="sailthru.description" content="In the fall of 2004, when I was 19, I studied abroad in the beautiful coastal Chinese city of Xiamen. One Friday evening, I attended&hellip;" />
+            <meta name="sailthru.image.full" content="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg">
+            <meta name="sailthru.image.thumb" content="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg?w=350&#038;h=350&#038;crop=1">
+            <meta name="sailthru.tags" content="Argument, China, gender, Sex, United States" />
+            <meta name="sailthru.author" content="Bethany Allen-Ebrahimian" />
+            <meta name="sailthru.section" content="Argument" />
+
+        
+        <meta
+    name="application-name"
+    content="Foreign Policy">
+<meta
+    name="apple-mobile-web-app-title"
+    content="Foreign Policy">
+<meta name="theme-color" content="#eb372e">
+<meta name="msapplication-TileColor" content="#eb372e">
+<meta
+    name="msapplication-TileImage"
+    content="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon-256.png">
+<link
+    rel="apple-touch-icon"
+    sizes="192x192"
+    type="image/png"
+    href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon-192.png">
+<link
+    rel="icon"
+    sizes="192x192"
+    type="image/png"
+    href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon-192.png">
+<link
+    rel="icon"
+    sizes="16x16 32x32"
+    type="image/x-icon"
+    href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon.ico">
+        <meta name="msvalidate.01" content="CA23132DC6FC7456FB304159D5D7B6C8" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=foreignpolicy.com&amp;id=71129472&amp;t=1509094540&amp;back=http%3A%2F%2Fforeignpolicy.com%2F2017%2F10%2F25%2Fchina-refuses-to-admit-it-has-a-rape-problem-i-would-know%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//validate.onecount.net' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.taboola.com' />
+<link rel='dns-prefetch' href='//ak.sail-horizon.com' />
+<link rel='dns-prefetch' href='//c.jsrdn.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//foreignpolicymag.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Foreign Policy &raquo; China Refuses to Admit It Has a Rape Problem. I Would Know. Comments Feed" href="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJzVVVlPwzAM/kOE7GAwHhA/Bbmpm3hL4qjONo1fT7pyjaNIiDzwUtnWdzhHHX1IynDMGLMOO5X8zlIUfUiGg5JAHo8fsksjcqG/pnnaougN5gRmq07ZFNxwj6UeEuQBEbAlQI+hwKZoIV2/sIbQFa9Jm7H9pkk9iqjyDbQLKrti9EN7YWhlXIcuwPPKSCUdOVNhy2vwSXO00ntKuitLJhtVYk/mqBaz+Y0GEcyiW5KsJR99gTYgqB8CUPwDsWGvOBauaHHQY1tD2SG02FdR5lBlL4yDGNHXkG482xq6iUu5xrUogXClmyGeWhTHhxriASw8Uqzzs2Touv/WdIAItopypiQ1dDvm/NvJUY6ozNxnUYeDi5geMS7UfjH5JlBrT2g2BF6NA/x9MkW2yMqzKdYczxLVeaB+itrjMBtKaE8Pylv63crdlbaeG/AD4D7czVez9e1quVyuN09qyeSj' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZdVrKOPT4FubmZ6UWJJql5uZh5QsX2uraGJmZmpkbGluUUWACWqILk='></script>
+<script type='text/javascript' src='https://validate.onecount.net/js/all.min.js#d98c7c783d091f556b12685e1604e895b8253f83'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/js/fp_s_code.js?m=1506688867h'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydzFEOwiAMANALid1MxvgxHmXBWgcEKKHNdLfXM3CA9+DTDHJVqgoaqJDAERu8uVPcq2mcI57mNs0riHqNCEkgaMmLhHhck1xgZOgkjetr2G+t8/fcPCKJDC975qfPf/4o93mZrHXO2TX9ALd3Y10='></script>
+<script type='text/javascript' src='//www.googletagservices.com/tag/js/gpt.js?ver=0.5'></script>
+<script type='text/javascript' src='//c.jsrdn.com/s/cs.js?p=22420'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FPSharesEndpoint = {"endpoint":"http:\/\/foreignpolicy.com\/_share_count\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydzFEKwjAQRdENOU4rmOZHXEsIYzOhTULeGHH3tlvw78KFw59GsRaTYmxJdgEPbfyqXXQt1Oqm8Uu3aV4YFkwjZzDC0LIeE0ZIoQuuGRf+hwo9Jh1CkLPooN6bndxzf8z3yTnvvVvyDy0yO/8='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://foreignpolicymag.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/" />
+<link rel='shortlink' href='http://atfp.co/2yE1M3o' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=http%3A%2F%2Fforeignpolicy.com%2F2017%2F10%2F25%2Fchina-refuses-to-admit-it-has-a-rape-problem-i-would-know%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=http%3A%2F%2Fforeignpolicy.com%2F2017%2F10%2F25%2Fchina-refuses-to-admit-it-has-a-rape-problem-i-would-know%2F&amp;for=wpcom-auto-discovery" /><link rel='openid.server' href='http://foreignpolicymag.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://foreignpolicymag.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://foreignpolicy.com/osd.xml" title="Foreign Policy" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Foreign Policy" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="the Global Magazine of News and Ideas" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://foreignpolicy.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /> 		<script type="text/javascript">
+		var _ipw_custom = {
+			wordAds: '1',
+			adSafe: '1',
+			domain: 'foreignpolicy.com',
+			pageURL: 'http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/'
+		};
+		</script>
+ 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script><link rel="amphtml" href="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+
+                <script>
+            window.googletag && googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                GCN.onecount.functions.dfp_sb_ad_capture(event || window.event);
+            });
+        </script>
+        <script type="text/javascript">googletag.pubads().setTargeting("tags", ["Argument","China","gender","Sex","United States","Argument"]);</script>        <script>GCN.onecount.setTargeting();</script>
+            </head>
+    <body class="post-template-default single single-post postid-928351 single-format-standard site-root mp6 customizer-styles-applied highlander-enabled highlander-light">
+
+        <div id="site-wrapper">            <header class="site-header">
+                <a href="http://foreignpolicy.com/" class="logo">
+    <svg class="site-icon -inline -textonly" width="75" height="47.5" viewBox="0 0 75 47.5"><path fill="#EE3524" d="M39.4,8.7H40V0.5H0v0.8c4.5,0.2,7.4,0.8,7.4,4.9v36c0,4.2-2.9,4.8-7.4,4.9V48h26.2v-0.8c-5.2-0.3-9-0.8-9-4.9
+		V25.2h8.7c3,0,4.2,2.2,4.9,6.2h0.5V18h-0.5c-0.7,4-1.9,6.2-4.9,6.2h-8.7V1.3h13.3C35.9,1.3,37.7,2.8,39.4,8.7 M52.9,25.2h6.2
+		c11.1,0,15.9-5.8,15.9-13.1c0-6.4-4.5-11.7-17.3-11.7H40.9l0,41.8c0,4.2-2.9,4.8-7.4,4.9V48h27.3v-0.8c-5.2-0.3-9-0.8-9-4.9V1.5
+		h3.4c6.1,0,9.5,5.5,9.5,12c0,7.5-3.5,10.8-9.6,10.8h-2.4V25.2z"/></svg><!--hide-mobile-->
+<!--svg class="site-icon -inline -textonly hide-desktop" width="75" height="47.5" viewBox="0 0 75 47.5"><path fill="#FFFFFF" d="M39.4,8.7H40V0.5H0v0.8c4.5,0.2,7.4,0.8,7.4,4.9v36c0,4.2-2.9,4.8-7.4,4.9V48h26.2v-0.8c-5.2-0.3-9-0.8-9-4.9
+		V25.2h8.7c3,0,4.2,2.2,4.9,6.2h0.5V18h-0.5c-0.7,4-1.9,6.2-4.9,6.2h-8.7V1.3h13.3C35.9,1.3,37.7,2.8,39.4,8.7 M52.9,25.2h6.2
+		c11.1,0,15.9-5.8,15.9-13.1c0-6.4-4.5-11.7-17.3-11.7H40.9l0,41.8c0,4.2-2.9,4.8-7.4,4.9V48h27.3v-0.8c-5.2-0.3-9-0.8-9-4.9V1.5
+		h3.4c6.1,0,9.5,5.5,9.5,12c0,7.5-3.5,10.8-9.6,10.8h-2.4V25.2z"/></svg--></a>
+
+                <div class="header-nav-wrapper">
+                    <nav class="header-nav">
+                        <ul class="header-menu -top">
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">News</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/category/report/" class="navlink">Report</a></li>
+                                    <li class="header-menu-item"><a href="/category/dispatch/" class="navlink">Dispatch</a></li>
+                                    <li class="header-menu-item"><a href="/channel/the-cable/" class="navlink">The Cable</a></li>
+                                    <li class="header-menu-item"><a href="/category/situation-report/" class="navlink">Situation Report</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Opinion</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/category/voice/" class="navlink">Voices</a></li>
+                                    <li class="header-menu-item"><a href="/category/argument/" class="navlink">Argument</a></li>
+                                    <li class="header-menu-item"><a href="/channel/best-defense/" class="navlink">Best Defense</a></li>
+                                    <li class="header-menu-item"><a href="/channel/shadow-govt/" class="navlink">Shadow Goverment</a></li>
+                                    <li class="header-menu-item"><a href="/channel/elephants-in-the-room/" class="navlink">Elephants in the Room</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Regions</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/channel/americas-2/" class="navlink">Americas</a></li>
+                                    <li class="header-menu-item"><a href="/channel/africa-3/" class="navlink">Africa</a></li>
+                                    <li class="header-menu-item"><a href="/channel/asia-2/" class="navlink">Asia</a></li>
+                                    <li class="header-menu-item"><a href="/channel/europe-2/" class="navlink">Europe</a></li>
+                                    <li class="header-menu-item"><a href="/channel/middle-east/" class="navlink">Middle East</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Channels</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/channel/tea-leaf-nation/" class="navlink">Tea Leaf Nation</a></li>
+                                    <li class="header-menu-item"><a href="/channel/peace-channel/" class="navlink">Peace Channel</a></li>
+                                    <li class="header-menu-item"><a href="/channel/lawfare/" class="navlink">Lawfare</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Features</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/tag/longform/" class="navlink">Longform</a></li>
+                                    <li class="header-menu-item"><a href="/category/photo-essay/" class="navlink">Photo Essays</a></li>
+                                    <li class="header-menu-item"><a href="/category/podcast/" class="navlink">Podcasts</a></li>
+                                    <li class="header-menu-item"><a href="/tag/special-projects/" class="navlink">Special Projects</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item">
+                                <a href="/the-magazine/" class="navlink">The Magazine</a>
+                            </li>
+                        </ul>
+
+                        <span class="close-nav">
+                            <img draggable="false" class="emoji" alt="❌" src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/close.svg" />&nbsp;&nbsp;Close
+                        </span>
+
+                        <div class="header-mobile-subnav">
+
+                            <ul class="manage-account account">
+                                <li class="header-menu-item"><a href="/manage" class="navlink navlink-border">Manage Your Account</a></li>
+                            </ul>
+
+                                                        <div class="expando-search">
+    <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 18 18">
+<g><defs><rect id="SVGID_1_" x="0.2" y="0" width="17.8" height="17.8"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_"  style="overflow:visible;"/></clipPath><circle class="search-icon" cx="7.5" cy="7.3" r="6.5"/><line class="search-icon" x1="12.1" y1="11.9" x2="17.5" y2="17.3"/></g></svg>
+    </div>
+        <form role="search" method="get" id="searchform" class="searchform" action="/">
+    	<input class="search" type="search" name="s" />
+    	<input type="submit" style="display:none" />
+    </form>
+</div>
+
+                            <span>
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="http://fpgroup.foreignpolicy.com/" class="navlink">About FP</a></li>
+                                    <li class="header-menu-item"><a href="/staff/" class="navlink">Meet The Staff</a></li>
+                                    <li class="header-menu-item"><a href="/reprint-permissions/" class="navlink">Reprint Permissions</a></li>
+                                    <li class="header-menu-item"><a href="http://fpgroup.foreignpolicy.com/" class="navlink">Advertising</a></li>
+                                </ul>
+
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="/writers-guidelines/" class="navlink">Writers’ Guidelines</a></li>
+                                    <li class="header-menu-item"><a href="http://fpgroup.foreignpolicy.com/news" class="navlink">Press Room</a></li>
+                                    <li class="header-menu-item"><a href="/employment-opportunities/" class="navlink">Work At FP</a></li>
+                                    <li class="header-menu-item"><a href="/subscription-services/" class="navlink">Subscription Services</a></li>
+                                </ul>
+                            </span>
+                            <span>
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&utm_medium=homepage%20footer&utm_term=academic%20services&utm_content=50%25%20off&utm_campaign=premium&g=0&form=161&pc=5EAH" class="navlink">Academic Program – FP Premium</a></li>
+                                    <li class="header-menu-item"><a href="/magazine/" class="navlink">FP Archive</a></li>
+                                    <li class="header-menu-item"><a href="/buy-back-issues/" class="navlink">Buy Back Issues</a></li>
+                                    <li class="header-menu-item"><a href="/privacy/" class="navlink">Privacy Policy</a></li>
+                                </ul>
+
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="/contact-us/" class="navlink">Contact Us</a></li>
+                                </ul>
+
+                                <span class="powered-by-wpcom--parent">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+                            </span>
+                        </div>
+
+                    </nav>
+                </div>
+                <div class="header-subnav-wrapper">
+                    <nav class="header-subnav">
+                        <ul class="header-menu -top">
+                            <li class="header-menu-item">
+                                <a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&#038;utm_medium=link%20launched%2010%2F23%2F17&#038;utm_term=upper%20right%20hand%20corner%20link&#038;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&#038;utm_campaign=premium&#038;g=0&#038;form=259&#038;pc=2dth" class="navlink -top -user -emph"><span class="subscribe--long">Subscribe to Premium for 20% Off</span><span class="subscribe--short">Subscribe</span></a>                            </li>
+                            <li class="header-menu-item">
+                                <a href="https://fp-reg.onecount.net/onecount/login/loginlogout.php?sid=hsjsckecai0icl3d5i8jlfea64&return=http%3A%2F%2Fforeignpolicy.com%2F" class="navlink -top -user -signin FP-paywall--login">Sign In</a>
+                            </li>
+                        </ul>
+
+                                                <div class="expando-search">
+    <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 18 18">
+<g><defs><rect id="SVGID_1_" x="0.2" y="0" width="17.8" height="17.8"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_"  style="overflow:visible;"/></clipPath><circle class="search-icon" cx="7.5" cy="7.3" r="6.5"/><line class="search-icon" x1="12.1" y1="11.9" x2="17.5" y2="17.3"/></g></svg>
+    </div>
+        <form role="search" method="get" id="searchform" class="searchform" action="/">
+    	<input class="search" type="search" name="s" />
+    	<input type="submit" style="display:none" />
+    </form>
+</div>
+                    </nav>
+                </div>
+
+                <button class="hamburger-button">
+    <span class="line"></span>
+</button>
+
+                                <div class="header-alt-layout__title">
+                    <p class="header-alt-title">
+                        <span class="department-title">
+                            Argument:
+                        </span> 
+                        <span class="header-alt-title__desktop">
+                            China Refuses to Admit It Has a Rape Problem. I Would Know.                        </span>
+                        <span class="header-alt-title__mobile">
+                            China Refuses to Admit It Has a Rape Probl...                        </span>
+                    </p>
+                    <div class="header-social-shares">
+                        <span class="share-title">SHARE:</span>
+                        <a data-endpoint="facebook" data-title="China Refuses to Admit It Has a Rape Problem. I Would Know." data-text="The Communist Party wants to blame Hollywood and &quot;loose women,&quot; instead of acknowledging its own epidemic levels of sexual assault." data-url="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/" onclick="socialshares.share(this);">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/facebook_blue.svg" alt="Share on Facebook" class="facebook-button" />
+                        </a>
+                        <a data-endpoint="twitter" data-title="The Chinese Communist Party blames America for China&#039;s sexual revolution. I was caught in the middle." data-text="The Chinese Communist Party blames America for China&#039;s sexual revolution. I was caught in the middle." data-url="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/" onclick="socialshares.share(this);">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/twitter_blue.svg" alt="Share on Twitter" class="twitter-button" />
+                        </a>
+                        <a href="#" title="Print" onclick="window.print();">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/print_black.svg" alt="Print this page" class="print-button" />
+                        </a>
+                        <a href="mailto:?subject=Check%20out%20this%20story%20on%20Foreign%20Policy&amp;body=China Refuses to Admit It Has a Rape Problem. I Would Know.%20-%20http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/%2F" title="Share via Email">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/email_black.svg" alt="Share via Email" class="email-button" />
+                        </a>
+                    </div>
+                </div>
+                
+            </header>
+
+<div class="home-ad-region-1 _970">
+
+			<div id="div-gpt-ad-1452807828370-0">
+
+				<script type="text/javascript">
+
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-ad-1452807828370-0" );
+
+					} );
+
+				</script>
+
+			</div>
+
+		</div><script type="text/javascript">googletag.cmd.push( function() { window.FP_gtagBannerSlots = {}; googletag.defineSlot("/7971222/global_superleaderboard_top", [[970, 90], [728, 90]], "div-gpt-ad-1452807828370-0").addService(googletag.pubads());googletag.defineSlot("/7971222/homepage_fp2_leaderboard_top", [728, 90], "div-gpt-ad-1398442674485-0").addService(googletag.pubads());googletag.defineSlot("/7971222/default_fp2_bigbox_ATF", [[300, 250],[300, 600]], "div-gpt-ad-1385102181603-0").addService(googletag.pubads());googletag.defineSlot("/7971222/default_fp2_bigbox_BTF", [[300, 250],[300, 600]], "div-gpt-ad-1385071228815-0").addService(googletag.pubads());googletag.defineSlot("/7971222/default_fp2_bigbox_CENTER", [300, 250], "div-gpt-ad-1390433129530-0").addService(googletag.pubads());googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices(); } ); </script>
+<div class="post-content" data-whitelist="">
+
+	<article class="article" data-post-id="928351" data-post-url="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/" data-lfcollectionmeta="eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkNoaW5hIFJlZnVzZXMgdG8gQWRtaXQgSXQgSGFzIGEgUmFwZSBQcm9ibGVtLiBJIFdvdWxkIEtub3cuIiwidXJsIjoiaHR0cDpcL1wvZm9yZWlnbnBvbGljeS5jb21cLzIwMTdcLzEwXC8yNVwvY2hpbmEtcmVmdXNlcy10by1hZG1pdC1pdC1oYXMtYS1yYXBlLXByb2JsZW0taS13b3VsZC1rbm93XC8iLCJzdHJlYW1fdHlwZSI6ImxpdmVjb21tZW50cyIsImNoZWNrc3VtIjoiZmRhMWIxNjlhYjU2OTE3MDlmNjQzNjVkYWRhNjYwY2IiLCJhcnRpY2xlSWQiOiJmb3JlaWducG9saWN5X3dwXzkyODM1MSJ9.uUKy_CPpht8q55HnA9rWx3XX7HWpWvGyhsGpqoNansI" data-lfchecksum="fda1b169ab5691709f64365dada660cb" data-lfarticleid="foreignpolicy_wp_928351">
+
+		<a
+    href="http://foreignpolicy.com/category/argument/"
+    class="department-name">
+    <h3 class="department">Argument</h3></a>
+<span
+    class="hed-heading"
+    href="http://foreignpolicy.com/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/">
+    <h1 class="hed">China Refuses to Admit It Has a Rape Problem. I Would Know.</h1>
+</span>
+<h2 class="dek-heading">The Communist Party wants to blame Hollywood and &quot;loose women,&quot; instead of acknowledging its own epidemic levels of sexual assault.</h2>
+<div class="meta-data ">
+    <address class="author-list">
+    <span class="pre">By</span>
+    <a
+        href="http://foreignpolicy.com/author/bethany-allen-ebrahimian/"
+        rel="author"
+        class="author">
+    Bethany Allen-Ebrahimian</a></address>
+    <span class="separator">|</span>
+    <time
+    pubdate
+    datetime="2017-10-25"
+    title="October 25th, 2017"
+    class="date-time">
+October 25, 2017, 11:48 AM</time>
+</div>
+<figure class="figure-image ">
+        <a
+        style="padding-bottom:66.666666666667%"
+        href="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg?w=1338&#038;h=1024&#038;crop=0,0,0,131"
+        class="image-attachment -ratioscale ">
+        <img
+            data-srcset="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg?w=1338&amp;h=1024&amp;crop=0,0,0,131"
+            data-src="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg?w=1338&#038;h=1024&#038;crop=0,0,0,131"
+            alt="A couple walk pass a condom vending machine July 16, 2002, on a street in Beijing, China. (Getty Images)"
+            style="height:auto;"
+            class="image -fit -lazy">
+        <noscript>
+            <img
+                src="https://foreignpolicymag.files.wordpress.com/2017/10/gettyimages-1127267.jpg?w=1338&#038;h=1024&#038;crop=0,0,0,131"
+                alt="A couple walk pass a condom vending machine July 16, 2002, on a street in Beijing, China. (Getty Images)"
+                class="image -fit-3-2">
+        </noscript>
+    </a>
+            <div class="caption">
+            A couple walk pass a condom vending machine July 16, 2002, on a street in Beijing, China. (Getty Images)            <span class="attribution"></span>
+        </div>
+    </figure>
+		
+		<div class="post-content-main shares-position">
+						<p>In the fall of 2004, when I was 19, I studied abroad in the beautiful coastal Chinese city of Xiamen. One Friday evening, I attended an English meetup at a local university, hoping to make some Chinese friends. To my surprise, a group of Chinese men — young, but older than I was — flocked to me, asking me repeatedly if I had any boyfriends, if my dating life resembled the popular American sitcom <em>Friends</em>, and if I was “open,” which I later learned was a poor translation for a Chinese phrase that meant “sexually liberal.” I was not.</p>
+<p>The next day, one of them asked me to go swimming at a local hot springs with a group of his friends. It sounded fun. I said yes. But as it turned out, there were no friends, and I had no cellphone. Later that day, he raped me. That moment marked a new era for me — the Before Christ and Anno Domini that split my soul and altered the trajectory of my life</p>
+<p><span class="pull-quote">Unwittingly, I had walked into the middle of a struggle to redefine Chinese identity, in a nation at times unable to come to terms with its own sexual revolution — or the epidemic of violence behind its closed doors.</span></p>
+<p>China’s repressed struggle became visible last week as America belatedly dealt with longstanding sexual assault allegations against Hollywood mogul Harvey Weinstein. Investigations by the <em>New York Times</em> and the <em>New Yorker</em> revealed Weinstein’s decades of abuse and assault against dozens of women in which a male-dominated media industry was complicit. The allegations triggered a society-wide reckoning, as women across the country and around the world who have experienced sexual assault posted the deceptively simple five letters “me too” on their Facebook and Twitter accounts. It was a stunning public display that seemed to shed light on a universal experience.</p>
+<p>It was just at this point that Chinese state-run media decided to wade into this shared public moment of confession and vulnerability in order to win points for its supposed civilizational superiority.</p>
+<p>On Oct. 16, the government-run English-language newspaper <em>China Daily</em> published an opinion article called “Weinstein case demonstrates cultural differences,” that posed the question: “What prevents sexual harassment from being a common phenomenon in China, as it is in most Western societies?” Sexual violence wasn’t universal, the author &#8212; Sava Hassan, a &#8220;Canadian Egyptian educator&#8221; who taught in China &#8212; argued. “It is a well-known fact that China is a traditional society based upon commendable values and virtues that respect the dignity and humanity of its citizens, regardless of their gender,” it <a href="http://webcache.googleusercontent.com/search?q=cache:d2ynVEgER4oJ:www.chinadaily.com.cn/opinion/2017-10/16/content_33316475.htm+&amp;cd=4&amp;hl=en&amp;ct=clnk&amp;gl=it">explained</a>. “Chinese authority deals harshly with those who disrespect themselves by behaving inappropriately toward others.” (The article has since been <a href="http://www.chinadaily.com.cn/opinion/2017-10/16/content_33316475.htm">removed</a> from the site.)</p>
+<p>The idea that Chinese society is somehow inherently less sexist than other societies is, of course, ludicrous. But it’s part of a worldview, heavily promoted by the Chinese Communist Party, that sees violence and social instability as an ideological or even civilizational flaw. And with Western democracy as its primary competitor, the party takes every opportunity, no matter how vulgar, to demonstrate China’s superiority over what it presents as a chaotic, violent, and debauched West.</p>
+<p>That explains both the tasteless <em>China Daily</em> piece — and what happened to me.</p>
+<p>Up until the early 20th century, Chinese family structure and sexual values remained — to use the party’s own term — “feudal.” Women fell under the authority of their male relatives, and female chastity was highly prized, while men could keep concubines. After 1949, the party prioritized marriage reform as part of its goal to create a New China by sweeping away Western imperialism and feudal traditions alike. The very first law passed in the newly established People’s Republic was the marriage law of 1950, which encouraged love-based matches, made concubinage and child marriage illegal, and gave men and women equal rights in divorce proceedings.</p>
+<p>This was no Western-style sexual revolution; Chinese society remained deeply conservative, and the Communist state preferred to keep it that way. Sex before marriage was <a href="https://www.theguardian.com/world/2014/jan/20/china-unmarried-motherhood-remains-final-taboo">illegal</a>, sex education was largely nonexistent, and publications about sex or romance were prohibited as bourgeois. Behind closed doors, the abuse of women was still common. Coercion by their superiors in the Communist hierarchy often appears in memoirs, and sexual assault on the young women traveling as Red Guards or “sent down to the countryside” from the city during the Cultural Revolution seems to have been frequent. Actress Bai Ling has <a href="https://broadly.vice.com/en_us/article/bmwqav/bai-ling-broadly-profile">talked</a> of her sexual abuse while serving in a People’s Liberation Army “entertainment unit” as a teenager.</p>
+<p>But with the economic reforms after 1978, industrialization and urbanization radically altered the nature of relationships. Factories sprouted up in cities across the eastern coast. The flow of rural migrants into urban areas in search of work removed them from direct family and village oversight. New education and career opportunities kept young people single longer and threw them together in confined urban spaces away from families. Young people in China began to do what young people in similar situations elsewhere in the world have always done — flirt, date, have sex. In 1989, just 15.5 percent of China’s populace had sex before marriage, <a href="http://www.bbc.com/news/magazine-35525566">according</a> to Chinese sexologist Li Yinhe; by 2012, that number had risen to more than <a href="http://www.economist.com/news/china/21678839-china-midst-sexual-revolution-time-start-educating-young-dream-bed">70 percent</a>.</p>
+<p>Chinese attitudes towards sex in some ways lurched into modernity, while in other ways remained deeply traditional. Prostitution flourished but women were still expected to be virgins when they married. Discussion of sexually transmitted diseases remained taboo; the government was complicit in the <a href="http://www.nytimes.com/2002/11/29/opinion/china-s-deadly-cover-up.html">cover-up</a> of an AIDS epidemic in the 1990s. Rules against unmarried couples sharing hotel rooms were finally lifted in the 2000s, years after they’d stopped being enforced, although the rare children born outside of marriage faced <a href="https://www.theguardian.com/world/2014/jan/20/china-unmarried-motherhood-remains-final-taboo">massive state</a> stigma. To help keep the population under control, the state encouraged the use of contraception, and grocery stores put brightly-wrapped condom packages in the checkout aisles next to mints and gum. But public discussion and debate over these sweeping changes remained stunted. Even the phrase &#8220;cohabitation&#8221; could embarrass polite company.</p>
+<p>With China’s opening also came first a trickle, and then a flood, of foreign popular culture. Japanese fashion, Hong Kong magazines, and Hollywood films exposed a mass Chinese audience to ideas of young love, romantic choice, and sexual freedom. When a slightly censored version of <em>The Bridges of Madison County</em>, a movie that portrayed a passionate extramarital affair, <a href="http://articles.baltimoresun.com/1996-04-28/news/1996119047_1_love-in-marriage-bridges-of-madison-madison-county">opened</a> in Beijing in 1996, it sold 1.3 million tickets on its first weekend there.</p>
+<p>But it wasn’t easy for many Chinese to adapt to the shredding of the asceticism of the early Communist era. The party had long linked China’s success, and its own legitimacy, to an essential struggle against imperialism, capitalism, and Western bourgeois values. China’s economic distinctiveness relative to the West was swiftly disintegrating. Would its sense of moral distinctiveness vanish as well?</p>
+<p>The problem is that the economic changes were helping cause the moral and behavioral ones — and the state preferred to lionize the former while officially opposing the latter. So rather than acknowledge the ways that urbanization, industrialization, and globalization were undermining traditional ways of life, Chinese authorities conveniently blamed their country’s new bedroom behaviors on an insidious, foreign enemy. As early as 1990, state media <a href="http://articles.chicagotribune.com/1990-07-18/news/9002280591_1_tiananmen-square-new-china-news-agency-executions">blamed</a> the proliferation of pornography within China on “Western cultural infiltration.” A rash of recent laws prohibit television and movies from depicting cleavage, <a href="http://english.sina.com/china/2014/1112/754026.html">one-night stands</a>, and “<a href="http://news.xinhuanet.com/english/2016-08/29/c_135642868.htm">admiration for Western lifestyles</a>.”</p>
+<p>But these chastisements did little to alter anyone’s behavior, and it wasn’t long before China’s free market economy had exploited, for its own ends, the association between sex and the West. <span class="pull-quote">Pictures of foreign women — typically blonde Caucasians, like me — came to regularly grace packages of lingerie, sex toys, and knockoff condom brands.</span> Inevitably, the connection entered the Chinese vernacular. I’ve heard Chinese men describe the Chinese women who frequent Shanghai nightclubs as “more Westernized than the West.”</p>
+<p>But perhaps nothing clinched the deal like <em>Friends</em>. The American sitcom became an unparalleled sensation across China, so popular that its characters and storylines remain a lingua franca between young Chinese and visiting Americans to this day; there’s even a <em>Friends</em>-themed <a href="https://www.buzzfeed.com/jamiefullerton/ten-years-after-friends-ended-central-perk-is-goi-hagd?utm_term=.fv73xADMb#.nep7d2a1x">coffee shop</a> in Beijing. In the show’s 10 seasons, the six main characters had a combined total of <a href="http://splitsider.com/2011/07/the-sexual-proclivities-of-friends/">85 sexual partners</a> who appeared on screen. The sitcom — and by association, American culture and the entire West writ large — came to embody the sexual freedoms that had revolutionized the Chinese bedroom.</p>
+<p>The perceived image of white women in China &#8220;fused the sexual and the political,&#8221; noted Louisa Schein, a professor of anthropology at Rutgers University, in her 1994 <a href="https://www.jstor.org/stable/466836">article</a>, “The Consumption of Color and the Politics of White Skin in Post-Mao China.&#8221; When Chinese looked at the bodies of Western women, they saw freedom, democracy, abandon, critique of morality, or any number of different ideas, wrote Schein. The white woman thus served as an important element in the “recuperation of the East-West binarism&#8221; &#8212; a stable, essential Chinese society and an inferior, borrowed Western culture &#8212; a duality that provided an “antidote” to the rapid, chaotic influx of modernity and change.</p>
+<p>In other words, the images Chinese saw in illicit magazines and on television and, later, the internet, made it easy to write off these sweeping social changes as a kind of Western sexual imperialism. The result was a workable solution to the problem of Chinese identity in a post-communist society — Chinese may choose to participate in casual relationships, but in doing so, they would be indulging in a type of freedom that is inherently Western. The same cognitive dissonance worked for the Communist Party as well. Sexual freedom was permitted, but any resulting social ills were understood to be the fault of the West, not the Chinese government.</p>
+<p>Of course, when I was 19, I knew nothing of this. I’d just stepped off a plane from my small Christian university in a West Texas town, where there were hundreds of churches but just a handful of clubs. <span class="pull-quote">That Friday evening at English Corner, the Chinese men around me entertained a notion of American womanhood that bore little resemblance to me, or most other young American women for that matter.</span> When they looked at me, they saw Rachel, or Phoebe, or Monica. They saw the living embodiment of sexual revolution. They saw a West that existed only in their own minds, a West without values or dignity.</p>
+<p>The next day, in a last-ditch effort to save myself, I told the attacker I was a virgin. He didn’t believe me. He simply couldn’t.</p>
+<p>This was far from an isolated incident for me, though it was by far the worst. In the four years I lived in China over the past decade and a half, I lost count of the number of Chinese men who assumed that because I was American, they could touch me, say lewd things to me, or take me home with them; they often said as much. &#8220;Many Chinese people, older and conservative-minded especially, &#8221; said Lijia Zhang, journalist and author of the novel <em>Lotus</em>, &#8220;think all Western people are sexually loose, women in particular.&#8221;</p>
+<p>American television didn’t cause this behavior, of course; it’s simply become a new way to excuse it.  It may come as no surprise that Chinese society, stubbornly <a href="http://www.nytimes.com/2016/10/16/opinion/why-chinese-women-still-cant-get-a-break.html?_r=0">patriarchal</a>, and its governing party, obsessed with stability, have both been unable to acknowledge the epidemic of violence against women that flourishes within the country. In a 2013 U.N. Population Fund <a href="http://www.partners4prevention.org/resource/research-gender-based-violence-and-masculinities-china-quantitative-findings">survey</a> of one Chinese county, fully one in five male respondents admitted to having committed rape. Two percent admitted they had participated in a gang rape; 44 percent of men said they had engaged in physical violence against an intimate partner.</p>
+<p>&#8220;This is endemic to the Chinese system, it’s a severe problem,&#8221; said Leta Hong Fincher, author of the forthcoming book <em>Betraying Big Brother: The Rise of China&#8217;s Feminist Resistance</em>. The Chinese government does not release statistics on sexual assault, viewing it as a politically sensitive social problem, Hong Fincher explained. &#8220;China doesn’t want to admit how bad the problems are with sexual violence &#8230; and of course there’s an ideological component to that.&#8221;</p>
+<p>Violent cases tend to trigger the Chinese government’s instincts for self-preservation rather than criminal justice. In May 2013, after a 22-year-old woman was <a href="http://qz.com/82530/chinese-womans-death-after-allegations-of-gang-rape-sparks-unrest-in-beijing/">allegedly gang raped</a> by security guards in Beijing and then fell to her death from a window, local authorities denied any foul play. Her family and hundreds of others protested in the southern quarter of the capital city. Riot police swarmed the protests; photos and discussion of the protests <a href="http://beijingcream.com/2013/05/south-beijing-teeming-with-police-in-response-to-massive-protest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=south-beijing-teeming-with-police-in-response-to-massive-protest">circulated</a> online but were swiftly removed by censors.</p>
+<p>The denial at work is delicately intertwined with nationalism and political ideology. After the brutal gang rape and murder of a young woman on a bus in Delhi, India, in late 2012, state news agency Xinhua syndicated an <a href="http://news.xinhuanet.com/world/2013-01/07/c_124194601.htm">article</a> titled “A Case of Gang Rape Reflects the True India.” The episode, the piece crowed, had shocked the globe and “pulled back the veil of democracy.” When <em>India’s Daughter</em>, the 2015 <a href="http://nymag.com/thecut/2015/03/powerful-rape-documentary-banned-in-india.html">documentary</a> about that rape, was released, it wasn’t censored but rather was widely <a href="http://v.ifeng.com/vblog/others/201507/04c09b39-f3ce-431e-957c-d94305b30000.shtml">available</a> on Chinese streaming websites. At the time, I had a Chinese colleague who, like many of the young Chinese men of his generation, evinced a confident and unquestioned nationalism. After watching the film, he expressed to me his gratitude that he hailed from a better, safer country. Something like that could never happen in China, he smugly told me.</p>
+<p>I bit my tongue, but my hands shook as I turned back to my computer.</p>
+<p>Others have been braver and bolder than me. Feminist activist Li Tingting and four fellow Chinese activists attracted global attention when Chinese authorities detained them for more than a month after their March 2015 attempt to raise awareness about sexual assault on public transit. Still, there’s little chance that the #MeToo campaign will trend in China anytime soon. Chinese social media is its own isolated ecosystem, by design. Twitter and Facebook are both blocked in China, precisely so that outside ideas and movements can’t spread.</p>
+<p>So women will continue to pay the price for China’s inability to take responsibility for its own changing society, and for the party’s ideological insecurity both toward the wider world and within the country that it governs. I paid this price with my own body. But I will bite my tongue no more.</p>
+<div data-fp-lazy-load-image></div>		</div>
+		
+		
+<section class="bio-no-photo"><!--id="author-bio" -->
+	<p class="last-author">
+		<b>Bethany Allen-Ebrahimian</b> is a contributing writer at Foreign Policy.&nbsp;<a href="http://www.twitter.com/BethanyAllenEbr" target="_blank">@BethanyAllenEbr</a>	</p>
+</section>
+<div class="the-comments" id="clickHere--928351"><a href="javascript:void(0);" class="FP--lf-load" />Show<br />Comments</a></div>
+<div class="comments">
+		<div id="usr-comm-list"></div>
+	</div>
+<div class="the-tags">
+    <span class="title">Tags:</span>
+    <a
+        href="http://foreignpolicy.com/tag/argument/"
+        class="tag">
+        Argument</a><span class="separator">,</span><a
+        href="http://foreignpolicy.com/tag/china/"
+        class="tag">
+        China</a><span class="separator">,</span><a
+        href="http://foreignpolicy.com/tag/gender/"
+        class="tag">
+        gender</a><span class="separator">,</span><a
+        href="http://foreignpolicy.com/tag/sex/"
+        class="tag">
+        Sex</a><span class="separator">,</span><a
+        href="http://foreignpolicy.com/tag/united-states/"
+        class="tag">
+        United States</a></div>
+		<div class="taboola">
+			<div class="taboola--inner border-top">
+				<p class="taboola--heading">Trending Now <a href="http://www.taboola.com/" class="taboola--subheading" target="_blank">Sponsored Links by Taboola</a></p>
+				<div id="taboola-below-article-thumbs"></div>
+				<div class="taboola--subheading taboola--subheading__right">By Taboola</div>
+			</div>
+		</div>
+
+		<div class="taboola taboola__fp">
+			<div class="taboola--inner">
+				<p class="taboola--heading heading__red">More from Foreign Policy</p>
+				<div id="taboola-below-article-thumbs_fp"></div>
+				<div class="taboola--subheading taboola--subheading__right">By Taboola</div>
+			</div>
+		</div>
+
+		<div class="fp-trending-wrapper trending-articles--no-video">
+    <div class="trending-articles">
+        <p><span class="heading">Trending</span></p>
+    
+        <ol>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">1</div>
+            <div class="title">
+                <a href="/2017/10/26/state-department-scraps-sanctions-office/">State Department Scraps Sanctions Office</a>
+                <span class="fp-trending-shares">2550&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">2</div>
+            <div class="title">
+                <a href="/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/">China Refuses to Admit It Has a Rape Problem. I Would Know.</a>
+                <span class="fp-trending-shares">2982&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">3</div>
+            <div class="title">
+                <a href="/2017/10/26/china-is-eyeballing-a-major-strategic-investment-in-saudi-arabias-oil/">China Is Eyeballing a Major Strategic Investment in Saudi Arabia’s Oil</a>
+                <span class="fp-trending-shares">329&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">4</div>
+            <div class="title">
+                <a href="/2017/10/26/the-poet-laureate-of-hybrid-war/">The Poet Laureate of Hybrid War</a>
+                <span class="fp-trending-shares">299&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">5</div>
+            <div class="title">
+                <a href="/2017/10/26/ukraine-expects-trump-to-approve-arms-deliveries/">Ukraine Expects Trump to Approve Arms Deliveries</a>
+                <span class="fp-trending-shares">190&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">6</div>
+            <div class="title">
+                <a href="/2017/10/20/how-the-muslim-world-lost-the-freedom-to-choose/">How the Muslim World Lost the Freedom to Choose</a>
+                <span class="fp-trending-shares">16428&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">7</div>
+            <div class="title">
+                <a href="/2017/10/19/the-resistible-rise-of-xi-jinping/">The Resistible Rise of Xi Jinping</a>
+                <span class="fp-trending-shares">2089&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">8</div>
+            <div class="title">
+                <a href="/2017/10/26/u-s-troops-are-on-the-ground-in-africa-but-diplomacy-missing-in-action-niger-ambush-diplomats-sahel-terrorism-threats-africa/">U.S. Troops Are on the Ground in Africa, but Diplomacy Is Missing in Action</a>
+                <span class="fp-trending-shares">186&nbsp;Shares</span>
+            </div>
+        </li>
+                <li class="fp-trending-content">
+                        <div class="fp-trending-count">9</div>
+            <div class="title">
+                <a href="/2017/10/23/what-the-end-of-isis-means/">What the End of ISIS Means</a>
+                <span class="fp-trending-shares">396&nbsp;Shares</span>
+            </div>
+        </li>
+                </ol>
+        <!--<p><span class="more"><a href="#">More</a></span></p>-->
+    </div>
+</div>
+
+	</article>
+
+	
+<div class="sidebar">
+	<div>
+		<div class="ad-container _300">
+
+				<div id="div-gpt-ad-1390433129530-0">
+
+					<script type="text/javascript">
+
+						googletag.cmd.push( function() {
+
+							googletag.display( "div-gpt-ad-1390433129530-0" );
+
+						} );
+
+					</script>
+
+				</div>
+
+			</div>
+		<div class="sidebar-list">
+    <h2 class="title">The Latest</h2>
+<div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="http://foreignpolicy.com/2017/10/26/state-department-scraps-sanctions-office/">
+    <h3 class="hed">State Department Scraps Sanctions Office</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">The Trump administration is three weeks late on Russia sanctions. But it’s killed the office that coordinates them. </p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="http://foreignpolicy.com/category/report/"
+        class="department-name -excerpt">
+        Report    </a>
+    <span class="separator">|</span>
+    <address class="author-list -excerpt">
+    <a
+        href="http://foreignpolicy.com/author/robbie-gramer/"
+        rel="author"
+        class="author">
+    Robbie Gramer</a><span class="separator">,</span> <a
+        href="http://foreignpolicy.com/author/dan-de-luce/"
+        rel="author"
+        class="author">
+    Dan De Luce</a></address>
+
+</div>
+</div>
+<div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="http://foreignpolicy.com/2017/10/26/rational-security-on-the-e-r-the-how-many-elephants-make-a-stampede-edition/">
+    <h3 class="hed">Rational Security on The E.R.: The “How Many Elephants Make a Stampede” Edition</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Trump’s GOP critics decide: should they stay or should they go? </p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="http://foreignpolicy.com/category/podcast/"
+        class="department-name -excerpt">
+        Podcast    </a>
+    <span class="separator">|</span>
+    <address class="author-list -excerpt">
+    <a
+        href="http://foreignpolicy.com/author/benjamin-wittes/"
+        rel="author"
+        class="author">
+    Benjamin Wittes</a></address>
+
+</div>
+</div>
+<div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="http://foreignpolicy.com/2017/10/26/u-s-troops-are-on-the-ground-in-africa-but-diplomacy-missing-in-action-niger-ambush-diplomats-sahel-terrorism-threats-africa/">
+    <h3 class="hed">U.S. Troops Are on the Ground in Africa, but Diplomacy Is Missing in Action</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Nikki Haley’s trip to the continent won’t solve the problem.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="http://foreignpolicy.com/category/report/"
+        class="department-name -excerpt">
+        Report    </a>
+    <span class="separator">|</span>
+    <address class="author-list -excerpt">
+    <a
+        href="http://foreignpolicy.com/author/robbie-gramer/"
+        rel="author"
+        class="author">
+    Robbie Gramer</a></address>
+
+</div>
+</div>
+</div>
+	</div>
+
+	<div class="channel-sidebar-big-box-ad _300">
+
+				<div id="div-gpt-ad-1385102181603-0">
+
+					<script type="text/javascript">
+
+						googletag.cmd.push( function() {
+
+							googletag.display( "div-gpt-ad-1385102181603-0" );
+
+						} );
+
+					</script>
+
+				</div>
+
+			</div>
+	<div class="sidebar-list">
+    <h2 class="title">Voices</h2>
+    <div class="voice-box">
+        <div class="sketch">
+            <a
+            style="padding-bottom:115%;"
+            href="http://foreignpolicy.com/author/micah-zenko/"
+        class="image-attachment -ratioscale">
+        <img
+            data-srcset="https://foreignpolicymag.files.wordpress.com/2014/12/micah_zenko.jpg 500w, https://foreignpolicymag.files.wordpress.com/2014/12/micah_zenko.jpg?w=130 130w"
+            data-src="https://foreignpolicymag.files.wordpress.com/2014/12/micah_zenko.jpg?w=500"
+            alt="http://Micah_Zenko"
+            class="image -lazy -fit">
+        <noscript>
+            <img
+                src="https://foreignpolicymag.files.wordpress.com/2014/12/micah_zenko.jpg?w=500"
+                alt="http://Micah_Zenko"
+                class="image -fit">
+        </noscript>
+    </a>
+            </div>
+                <address class="author-list -excerpt">
+            <a href="http://foreignpolicy.com/author/micah-zenko/" rel="author" class="author">
+    Micah Zenko</a>        </address>
+        <a
+    class="hed-heading -excerpt"
+    href="http://foreignpolicy.com/2017/10/24/the-right-way-to-honor-the-troops/">
+    <h3 class="hed">The Right Way to Honor the Troops</h3>
+</a>
+    </div>
+        <div class="voice-box">
+        <div class="sketch">
+            <a
+            style="padding-bottom:115%;"
+            href="http://foreignpolicy.com/author/stephen-m-walt/"
+        class="image-attachment -ratioscale">
+        <img
+            data-srcset="https://foreignpolicymag.files.wordpress.com/2015/04/stephen_walt.jpg 500w, https://foreignpolicymag.files.wordpress.com/2015/04/stephen_walt.jpg?w=130 130w"
+            data-src="https://foreignpolicymag.files.wordpress.com/2015/04/stephen_walt.jpg?w=500"
+            alt="http://Stephen_Walt"
+            class="image -lazy -fit">
+        <noscript>
+            <img
+                src="https://foreignpolicymag.files.wordpress.com/2015/04/stephen_walt.jpg?w=500"
+                alt="http://Stephen_Walt"
+                class="image -fit">
+        </noscript>
+    </a>
+            </div>
+                <address class="author-list -excerpt">
+            <a href="http://foreignpolicy.com/author/stephen-m-walt/" rel="author" class="author">
+    Stephen M. Walt</a>        </address>
+        <a
+    class="hed-heading -excerpt"
+    href="http://foreignpolicy.com/2017/10/23/what-the-end-of-isis-means/">
+    <h3 class="hed">What the End of ISIS Means</h3>
+</a>
+    </div>
+        <div class="voice-box">
+        <div class="sketch">
+            <a
+            style="padding-bottom:115%;"
+            href="http://foreignpolicy.com/author/max-boot/"
+        class="image-attachment -ratioscale">
+        <img
+            data-srcset="https://foreignpolicymag.files.wordpress.com/2014/07/boot.jpg 500w, https://foreignpolicymag.files.wordpress.com/2014/07/boot.jpg?w=130 130w"
+            data-src="https://foreignpolicymag.files.wordpress.com/2014/07/boot.jpg?w=500"
+            alt="http://boot"
+            class="image -lazy -fit">
+        <noscript>
+            <img
+                src="https://foreignpolicymag.files.wordpress.com/2014/07/boot.jpg?w=500"
+                alt="http://boot"
+                class="image -fit">
+        </noscript>
+    </a>
+            </div>
+                <address class="author-list -excerpt">
+            <a href="http://foreignpolicy.com/author/max-boot/" rel="author" class="author">
+    Max Boot</a>        </address>
+        <a
+    class="hed-heading -excerpt"
+    href="http://foreignpolicy.com/2017/10/23/trump-is-tarnishing-the-military-brass/">
+    <h3 class="hed">Trump Is Tarnishing the Military Brass</h3>
+</a>
+    </div>
+    </div>
+
+	<div class="channel-sidebar-big-box-ad _300">
+
+				<div id="div-gpt-ad-1385071228815-0">
+
+					<script type="text/javascript">
+
+						googletag.cmd.push( function() {
+
+							googletag.display( "div-gpt-ad-1385071228815-0" );
+
+						} );
+
+					</script>
+
+				</div>
+
+			</div></div>
+
+
+</div>
+            <footer class="site-footer-wrapper">
+                <div class="site-footer">
+                    <div class="logo">
+                            <a
+            style="padding-bottom:42%;"
+            href="http://foreignpolicy.com/"
+        class="image-attachment -ratioscale">
+        <img
+            data-srcset=""
+            data-src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/FP.svg"
+            alt=""
+            class="image -lazy -fit">
+        <noscript>
+            <img
+                src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/FP.svg"
+                alt=""
+                class="image -fit">
+        </noscript>
+    </a>
+                        </div>
+                    <nav class="nav">
+                        <ul id="menu-footer-column-1" class="footer-menu"><li id="menu-item-660877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660877 footer-menu-item"><a href="http://fpgroup.foreignpolicy.com" class="navlink">About FP</a></li>
+<li id="menu-item-783354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783354 footer-menu-item"><a href="http://foreignpolicy.com/staff/" class="navlink">Meet the Staff</a></li>
+<li id="menu-item-660950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660950 footer-menu-item"><a href="http://foreignpolicy.com/reprint-permissions/" class="navlink">Reprint Permissions</a></li>
+<li id="menu-item-660880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660880 footer-menu-item"><a href="http://fpgroup.foreignpolicy.com" class="navlink">Advertising</a></li>
+</ul><ul id="menu-footer-column-2" class="footer-menu"><li id="menu-item-660955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660955 footer-menu-item"><a href="http://foreignpolicy.com/writers-guidelines/" class="navlink">Writer&#8217;s Guidelines</a></li>
+<li id="menu-item-660882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660882 footer-menu-item"><a href="http://fpgroup.foreignpolicy.com/news" class="navlink">Press Room</a></li>
+<li id="menu-item-927639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927639 footer-menu-item"><a href="/employment-opportunities/" class="navlink">Work At FP</a></li>
+<li id="menu-item-660957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660957 footer-menu-item"><a href="http://foreignpolicy.com/subscription-services/" class="navlink">Subscription Services</a></li>
+</ul><ul id="menu-footer-column-3" class="footer-menu"><li id="menu-item-927960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927960 footer-menu-item"><a href="https://fpguide.foreignpolicy.com" class="navlink">Graduate Guides</a></li>
+<li id="menu-item-927640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927640 footer-menu-item"><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&#038;utm_medium=homepage%20footer&#038;utm_term=academic%20services&#038;utm_content=50%25%20off&#038;utm_campaign=premium&#038;g=0&#038;form=161&#038;pc=5EAH" class="navlink">Academic Program &#8211; FP Premium</a></li>
+<li id="menu-item-660886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660886 footer-menu-item"><a href="/magazine" class="navlink">FP Archive</a></li>
+<li id="menu-item-660961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660961 footer-menu-item"><a href="http://foreignpolicy.com/buy-back-issues/" class="navlink">Buy Back Issues</a></li>
+</ul><ul id="menu-footer-column-4" class="footer-menu"><li id="menu-item-927961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927961 footer-menu-item"><a href="http://foreignpolicy.com/privacy/" class="navlink">Privacy Policy</a></li>
+<li id="menu-item-660967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660967 footer-menu-item"><a href="http://foreignpolicy.com/contact-us/" class="navlink">Contact Us</a></li>
+</ul>                        <span class="powered-by-wpcom--parent">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=foreignpolicy.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+                    </nav>
+                </div>
+            </footer>
+
+        </div><!-- end site-wrapper -->
+
+
+                                    <div
+                data-campaign="HSBC ROS nd Econ"
+                data-stay-closed="false"
+                data-mobile-ad="div-gpt-ad-1453402331387-0"
+                data-refresh="30000"
+                data-closeable="false"
+                class="FP-mobile-ad FP-mobile-ad_fixedbottom"></div>
+        
+
+        <!-- Container for wapolabs identity modals -->
+        <div style="display: none;" id="wapolabs_wrapperLoginStatus"></div>
+                <script id="fp-login-tpl-anon" type="text/template">
+            <li><a target="_blank" class="FP-paywall--login" href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi">log in</a></li>
+            <li><a target="_blank" href="http://foreignpolicy.com/fp-all-access-faq/">Help</a></li>
+        </script>
+        <script id="fp-login-tpl-auth" type="text/template">
+            <li><a href="http://foreignpolicy.com/my-fp-alerts/">My FP</a></li>
+            <li class="fp-login--indt"><a target="_blank" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?g=0&#038;form=121">Edit Profile</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#manage-alerts">Manage Custom Alerts</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#recommended">My Personalized Articles</a></li>
+            <li><a target="_blank" href="http://foreignpolicy.com/fp-all-access-faq/">FAQ&#039;s</a></li>
+            <li><a class="fp-logout FP-paywall--logout" href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi">Log Out</a></li>
+        </script>
+        <script id="fp-login-tpl-sub" type="text/template">
+            <li><a href="http://foreignpolicy.com/my-fp-alerts/">My FP</a></li>
+            <li class="fp-login--indt"><a target="_blank" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?g=0&#038;form=121">Edit Profile</a></li>
+            <li class="fp-login--indt"><a target="_blank" href="https://subscribe.foreignpolicy.com/FRP/?f=custcare">Manage Subscription</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#manage-alerts">Manage Custom Alerts</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#recommended">My Personalized Articles</a></li>
+            <li class="fp-login--indt fp-login--prem"><a href="http://foreignpolicy.com/foreign-policy-in-the-trump-administration/">My Reports</a></li>
+            <li><a href="http://foreignpolicy.com/all-access-ebooks/">Ebooks</a></li>
+            <li><a target="_blank" href="http://foreignpolicy.com/fp-all-access-faq/">FAQ&#039;s</a></li>
+            <li><a class="fp-logout FP-paywall--logout" href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi">Log Out</a></li>
+        </script>
+        <script id="template-mobile-regwall" type="text/template">
+            <div id="paywall_bg" class="mobile-regwall">
+    <div id="paywallWrapper">
+        <h1 class="medium_header" style="color: #fff;">
+            Please Log In / Register
+        </h1>
+        <h2>Returning Users</h2>
+        <a
+            href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi"
+            class="overlay-button-large m-regwall-link FP-paywall--login"
+            data-gael="MobiRegwallLogin">Log in</a>
+        <h2>Not Registered?</h2>
+        <p>
+            Access up to 5 articles a month free. <br>Subscribers &mdash; Register to
+            activate <cite class="FP-cite">FP</cite> <span class="FP-all-access">
+            All Access <span>&raquo;</span></span> status.
+        </p>
+        <a
+            href="http://fp-reg.onecount.net/onecount/flexreg/displayform.php?form=137&#038;brand=fp"
+            class="overlay-button-large m-regwall-link"
+            data-gael="MobiRegwallReg">Register</a>
+        <h2>Want Unlimited Access?</h2>
+        <a
+            href="javascript:void(0);"
+            class="overlay-button-large m-regwall_sublink"
+            data-gael="MobiRegwallSub">Subscribe &mdash; 20% Off</a>
+        <a href="http://foreignpolicy.com/" class="paywall_close_btn" data-gael="MobiRegwallClose">
+            <img
+                src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/articlecounter-close.png"
+                class="paywall_close simplemodal-close"
+                alt="[X]">
+        </a>
+    </div>
+</div>
+        </script>
+        <script id="fp-overlay-expiration-tpl" type="text/template">
+            
+        
+<div id="paywall_bg" class="discount_promo_overlay {{ className }}">
+  <div id="discount_promo" class="discount_promo_expiration">
+    <a class="discount_promo_close" href="javascript:void(0);">
+      Continue to ForeignPolicy.com<span class="icons-modal_close_red"></span>
+    </a>
+    <h2 class="discount_promo_header">{{ header }} <span class="fp_red">For a Limited Time Only</span></h2>
+    <p class="discount_promo_body">{{ body }}</p>
+    <div id="pricingTable">
+      <p class="table_row">
+        <span class="table_left">&nbsp;</span>
+        <span class="table_center"><strong>FP All Access</strong></span>
+        <span class="table_right"><strong>Limited Access</strong></span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Cost</span>
+        <span class="table_center">
+          {{ price }}
+          <span class="pricing-stamp">{{ stamp }}</span>
+        </span>
+        <span class="table_right">Free</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Articles Per Month</span>
+        <span class="table_center">Unlimited</span>
+        <span class="table_right">5</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Print Magazine Subscription</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Morning Brief &amp; Situation Report</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Online Editorial Events</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">FP E-Books</span>
+        <span class="table_center">Free</span>
+        <span class="table_right">$4.99/each</span>
+      </p>
+    </div>
+    <a class="discount_promo_button discount_expiration_button" href="{{ url }}">
+      {{ button }}
+    </a>
+  </div>
+</div>
+
+    
+          </script>
+                <script id="template-ip-access" type="text/template">
+            <div class="overlay-container-dark overlay-the-week">
+    <button class="overlay-close">
+        Close this window <span></span>
+    </button>
+    <div class="overlay-content">
+        <h1 class="overlay-title">Welcome to <cite>ForeignPolicy.com</cite></h1>
+        <div class="overlay-body">
+            <p>
+                Your FP All Access subscription is provided by US Department of State, Bunche Library.
+            </p>
+            <p>
+                Click <a class="overlay-close-link" href="javascript:void(0);">here</a>
+                to access <cite>ForeignPolicy.com</cite>.
+            </p>
+        </div>
+    </div>
+</div>        </script>
+        <script id="template-paywall-a" type="text/template">
+            <div id="paywall_bg">
+  <div id="paywallWrapper">
+    <h1 class="medium_header" style="color: #fff;">
+      You've Hit Your Article Limit &mdash; Subscribe to Read More
+    </h1>
+    <p class="paywall_text">
+      For a limited time, you can receive unlimited access to everything
+      <cite>Foreign Policy</cite> publishes at 20% off the Premium Price!
+    </p>
+
+    <div id="pricingTable">
+      <p class="table_row">
+        <span class="table_left">&nbsp;</span>
+        <span class="table_center"><strong><span class="overlay-nobrk">
+                    <cite class="FP-cite">FP</cite>
+                    <span class="FP-all-access">
+                        All Access
+                        <span>&raquo;</span>
+                    </span>
+                </span></strong></span>
+        <span class="table_right"><cite class="FP-cite">FP</cite> <strong>&nbsp;Premium</strong></span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Cost</span>
+        <span class="table_center">
+          $5.99/month
+        </span>
+        <span class="table_right paywall--x">
+          $9.99
+          <span class="pricing_stamp">
+            <span>Take 20%<br> Off!</span>
+          </span>
+        </span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Articles</span>
+        <span class="table_center">Unlimited</span>
+        <span class="table_right">Unlimited</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Newsletters</span>
+        <span class="table_center">All newsletters</span>
+        <span class="table_right">All newsletters</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Custom Alerts</span>
+        <span class="table_center table_middot">&middot;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Digital Magazine</span>
+        <span class="table_center table_middot">&middot;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Print Magazine</span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">45-Year Print Archive</span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">
+          Exclusive Discounts to <cite>FP</cite> Signature Events
+          <span>Including <cite>FP's</cite> Top 100 Global Thinkers</span>
+        </span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">
+          <cite>FP Insights</cite>
+          <span>
+            FP Insights is a tool that surfaces the topics,
+            people and places that are being written about from thousands
+            of sources from around the world. A <cite>Foreign Policy</cite>
+            exclusive, available only to FP Premium subscribers.
+          </span>
+        </span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+    </div>
+
+    <a href="javascript:void(0);" data-action="Sub" class="sub_btn">
+    Subscribe to <span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;Premium</span>    </a>
+
+    <a href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi" data-action="Log" class="already_sub_link FP-paywall--login">
+      Existing subscribers, click here to login or to register with your subscriber e-mail
+    </a>
+
+    <a href="javascript:void(0);" data-action="Close" class="paywall_close_btn">
+      <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/articlecounter-close.png" class="paywall_close simplemodal-close" alt="[X]">
+    </a>
+
+  </div>
+</div>
+        </script>
+        <script id="template-paywall-b" type="text/template">
+            <div id="paywall_bg">
+  <div id="paywallWrapper">
+    <h1 class="medium_header" style="color: #fff;">Subscribe Now and Get One Month Free!</h1>
+    <p class="paywall_text paywall_text_b paywall_text_b_first">
+      You may have hit your article limit for this month, but we're giving you a special
+      offer so you can continue reading absolutely free.
+    </p>
+    <p class="paywall_text paywall_text_b">
+      Receive unlimited access to everything <cite>Foreign Policy</cite> publishes
+      for an entire month in this exclusive, one time offer!
+    </p>
+    
+    <div id="pricingTable">
+      <p class="table_row">
+        <span class="table_left">&nbsp;</span>
+        <span class="table_center"><strong><span class="overlay-nobrk">
+                    <cite class="FP-cite">FP</cite>
+                    <span class="FP-all-access">
+                        All Access
+                        <span>&raquo;</span>
+                    </span>
+                </span></strong></span>
+        <span class="table_right"><strong>Limited Access</strong></span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Cost</span>
+        <span class="table_center">
+          $4.99/month
+          <span class="pricing_stamp">
+            <span>One month free!</span>
+          </span>
+        </span>
+        <span class="table_right">Free</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Articles Per Month</span>
+        <span class="table_center">Unlimited</span>
+        <span class="table_right">5</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Print Magazine Subscription</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Morning Brief &amp; Situation Report</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Online Editorial Events</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">FP E-Books</span>
+        <span class="table_center">Free</span>
+        <span class="table_right">$4.99/each</span>
+      </p>
+    </div>
+    
+    <a href="https://subscribe.foreignpolicy.com/subscribe2/?utm_source=registered%20user%20&utm_medium=article%20limit&utm_term=takeover%20&utm_content=launched%208%2F19&utm_campaign=one%20free%20month&p=FRP&f=freemonth" data-action="Sub" class="sub_btn">Subscribe Now</a>
+
+    <a href="https://id.foreignpolicy.com/identity/public/login/options?next_url=http://www.foreignpolicy.com/&amp;previous_url=http://www.foreignpolicy.com/&amp;KeepThis=true&amp;TB_iframe=true&amp;height=600&amp;width=900&amp;modal=true" data-action="Log" class="already_sub_link">
+      Existing subscribers, click here to login or to register with your subscriber e-mail
+    </a>
+    
+    <a href="javascript:void(0);" data-action="Close" class="paywall_close_btn">
+      <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/articlecounter-close.png" class="paywall_close simplemodal-close" alt="[X]">
+    </a>
+
+  </div>
+</div>        </script>
+
+                    <script
+        id="marketing-takeover__anon"
+        data-template="default"
+        data-close-text="Close this button to continue to foreignpolicy.com"
+        type="text/template"><p><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth"><img src="https://foreignpolicymag.files.wordpress.com/2017/10/redesign_promo3-1.jpg?w=1024&#038;h=512" alt="" width="1024" height="512" class="no-lazy-load" /></a></p>
+<p>Welcome to the redesigned foreignpolicy.com. Come for the new, engaging homepage, faster-loading articles, and more intuitive navigation. Stay for the award-winning analysis, reporting, and commentary on everything that matters in international politics. We invite you to check out FP’s depth and breadth of global coverage.</p>
+<p><span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;<b>Premium</b></span> subscribers receive:</p>
+<ul>
+<li>Unlimited content on foreignpolicy.com</li>
+<li><em>FP Mobile App</em> — See the latest story and launch it right from your today screen, share stories to Twitter, Facebook, and other apps, star a story to read it later, and more&#8230;</li>
+<li>Exclusive never before available access to the <em>FP Print Archive</em> — Search and browse 47 years of award-winning <em>FP</em> content.</li>
+<li><em>All 4 Newsletters</em> — Including the daily Situation Report and Morning Brief!</li>
+<li><em>Foreign Policy Magazine</em> &#8211; Both the print &amp; digital replica editions, delivered to your mailbox &amp; inbox&#8230;</li>
+</ul>
+<p><a class="js-takeover-action" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth" target="_blank" rel="noopener noreferrer">Click Here to subscribe for 20% off!</a></p>
+<div></div></script>
+        <script
+        id="marketing-takeover__print"
+        data-template="default"
+        data-close-text="Close this button to continue to foreignpolicy.com"
+        type="text/template"><p><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth"><img src="https://foreignpolicymag.files.wordpress.com/2017/10/redesign_promo3-1.jpg?w=1024&#038;h=512" alt="" width="1024" height="512" class="no-lazy-load" /></a></p>
+<p>Welcome to the redesigned foreignpolicy.com. Come for the new, engaging homepage, faster-loading articles, and more intuitive navigation. Stay for the award-winning analysis, reporting, and commentary on everything that matters in international politics. We invite you to check out FP’s depth and breadth of global coverage.</p>
+<p><span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;<b>Premium</b></span> subscribers receive:</p>
+<ul>
+<li>Unlimited content on foreignpolicy.com</li>
+<li><em>FP Mobile App</em> — See the latest story and launch it right from your today screen, share stories to Twitter, Facebook, and other apps, star a story to read it later, and more&#8230;</li>
+<li>Exclusive never before available access to the <em>FP Print Archive</em> — Search and browse 47 years of award-winning <em>FP</em> content.</li>
+<li><em>All 4 Newsletters</em> — Including the daily Situation Report and Morning Brief!</li>
+<li><em>Foreign Policy Magazine</em> &#8211; Both the print &amp; digital replica editions, delivered to your mailbox &amp; inbox&#8230;</li>
+</ul>
+<p><a class="js-takeover-action" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth" target="_blank" rel="noopener noreferrer">Click Here to subscribe for 20% off!</a></p>
+<div></div></script>
+    
+        <script>
+window._gaq = [['_setAccount', 'UA-6874192-41']];
+//~ONECount tracking override
+if ('undefined' !== typeof realReferer && '' !== document.referrer && realReferer !== document.referrer) {
+    _gaq.push(['_setReferrerOverride', realReferer]);
+}
+_gaq.push(['_trackPageview'], ['_trackPageLoadTime']);
+(function(){
+    var ga = document.createElement( 'script' ); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ( 'https:' == document.location.protocol ? 'https://ssl' : 'http://www' ) + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName( 'script' )[0]; s.parentNode.insertBefore( ga, s );
+})();
+</script>
+        <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "18406752" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=18406752&cv=2.0&cj=1">
+</noscript>
+
+
+                        <script>
+            (function() {
+                function loadHorizon() {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+                    var x = document.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                }
+                loadHorizon();
+                var oldOnLoad = window.onload;
+                window.onload = function() {
+                    if (typeof oldOnLoad === 'function') {
+                        oldOnLoad();
+                    }
+                    Sailthru.setup({
+                        domain: 'horizon.foreignpolicy.com'
+                    });
+                };
+            })();
+        </script>
+
+                <script>
+        window.onload = function() {
+
+            var userStatus = FP.Singletons.User.isStatus().then(function (is) {
+                
+                var userStatus = 'anon';
+
+                if(is.sub) {
+                    userStatus = 'paid';
+                } else if(is.prem) { 
+                    userStatus = 'paid';
+                } else if(is.reg) {
+                    userStatus = 'lgdin';
+                }
+
+                var _sf_async_config = _sf_async_config || {};
+                /** CONFIGURATION START **/
+                _sf_async_config.uid = 62828;
+                _sf_async_config.domain = 'foreignpolicy.com';
+                _sf_async_config.useCanonical = true;
+                _sf_async_config.sections = "Argument";
+                _sf_async_config.authors = "Bethany Allen-Ebrahimian";
+                _cbq = window._cbq = (window._cbq || []);
+                _cbq.push(['_acct', userStatus]);
+                /** CONFIGURATION END **/
+                (function() {
+                    function loadChartbeat() {
+                        var e = document.createElement('script');
+                        e.setAttribute('language', 'javascript');
+                        e.setAttribute('type', 'text/javascript');
+                        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                        document.body.appendChild(e);
+                    }
+                    var oldonload = window.onload;
+                    window.onload = (typeof window.onload != 'function') ?
+                        loadChartbeat : function() {
+                            oldonload();
+                            loadChartbeat();
+                        };
+                })();
+
+            });
+            
+        }
+        </script>
+        
+        
+        <script type="text/javascript" language="JavaScript"><!--
+s.pageName="fp - china_refuses_to_admit_it_has_a_rape_problem._i_would_know.";
+
+s.channel="Argument";
+
+s.hier1="";
+s.hier2="";
+
+s.prop2="Argument";
+
+s.prop3="post";
+
+s.prop6="";
+
+s.prop12="928351";
+
+s.prop13="China Refuses to Admit It Has a Rape Problem. I Would Know.";
+
+s.prop14="";
+s.prop15="";
+s.prop23="";
+
+s.prop25="";
+
+
+s.prop32="wordpress-http";
+
+
+
+s.prop34="Web";
+
+s.prop35="Argument | China | gender | Sex | United States | Argument";
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+		//--></script><noscript><img src="http://wpni.112.2o7.net/b/ss/wpniforeignpolicyprod/1/H.24--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+
+
+        
+<div class="special-offer-popup clearfix">
+	<header>
+		<p class="paywall-counter">
+			You have read <span id="paywall-counter">0</span> <span>of 5</span> free articles		</p>
+
+		<button>X</button>
+	</header>
+	<div>
+		<ul>
+			<li>Unlimited access to ForeignPolicy.com</li>
+			<li>Subscriber-only newsletters</li>
+			<li>The Entire 46 Year Printed Archive &mdash; Every Issue Ever Printed</li>
+			<li>FP Insights Tool</li>
+		</ul>
+					<a class="fp-data-ab-test-manual" href="https://subscribe.foreignpolicy.com/FRP/?utm_source=web&#038;utm_medium=slideout%202&#038;utm_term=slideout%202&#038;utm_content=cambey%2020%20off%20annual&#038;utm_campaign=fp%20all%20access&#038;f=paidyear">
+				<img src="https://foreignpolicymag.files.wordpress.com/2016/06/global-thinkers-2015_min.jpg" alt="Global Thinkers 2015 Issue Cover">
+			</a>
+				<a id="special-offer-subscribe" class="button subscribe fp-data-ab-test-manual" href="https://subscribe.foreignpolicy.com/FRP/?utm_source=web&#038;utm_medium=slideout%202&#038;utm_term=slideout%202&#038;utm_content=cambey%2020%20off%20annual&#038;utm_campaign=fp%20all%20access&#038;f=paidyear">
+		Subscribe to <span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;Premium</span> at 20% Off		</a>
+	</div>
+</div>
+
+
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","publisher":{"@type":"Organization","name":"Foreign Policy","logo":{"@type":"ImageObject","height":60,"url":"https:\/\/foreignpolicymag.files.wordpress.com\/2016\/04\/logo.png","width":74}},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/foreignpolicy.com\/2017\/10\/25\/china-refuses-to-admit-it-has-a-rape-problem-i-would-know\/"},"headline":"China Refuses to Admit It Has a Rape Problem. I Would Know.","description":"The Communist Party wants to blame Hollywood and \"loose women,\" instead of acknowledging its own epidemic levels of sexual assault.","datePublished":"2017-10-25T11:48:04+00:00","dateModified":"2017-10-26T17:00:20+00:00","author":{"@type":"Person","name":"Bethany Allen-Ebrahimian"},"image":{"@type":"ImageObject","url":"https:\/\/foreignpolicymag.files.wordpress.com\/2017\/10\/gettyimages-1127267.jpg?w=1338","height":1024,"width":1338}}</script>
+<script>
+    window.FP = window.FP || {};
+    FP.Config = {"api":{"ip_access":"http:\/\/foreignpolicy.com\/r\/api\/ip-access\/","link_access":"http:\/\/foreignpolicy.com\/r\/api\/link-access\/{0}\/","users_by_id":"http:\/\/foreignpolicy.com\/r\/api\/users\/{0}\/","surveys_check":"http:\/\/foreignpolicy.com\/r\/api\/surveys\/check\/"},"context":{"is_home":false},"current_site_admin_hostname":"foreignpolicymag.wordpress.com","current_site_hostname":"foreignpolicy.com","fonts":[{"family":"Solido","option":{"style":"normal","weight":400}},{"family":"Tiempos","option":{"style":"normal","weight":400}},{"family":"Tiempos","option":{"style":"normal","weight":600}},{"family":"Solido","option":{"style":"normal","weight":800}},{"family":"Solido Condensed","option":{"style":"normal","weight":600}}],"is_production":true,"marketing":{"after_content_messaging":"<p>Like this article? Read an unlimited number of articles, plus access to our entire 47-year printed archive, the FP App, and the FP Insights Tool when you <strong>subscribe to FP Premium\u00a0<\/strong>for 20% off!<\/p>"},"misc":{"current_magazine_issue":{"isset":true,"link":"http:\/\/foreignpolicy.com\/the-magazine\/"}},"paywall_links":{"header":{"default_text":"Subscribe to Premium for 20% Off","default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=upper%20right%20hand%20corner%20link&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth","subscriber_text":"Upgrade to Premium for Just $1","subscriber_link":"https:\/\/subscribe.foreignpolicy.com\/FRP\/?f=gate-1"},"article":{"default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]},"slideout":{"default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=slideout%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%235&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]},"paywall":{"default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=metered%20paywall&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"},"alerts":{"search_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=fp%20alerts%20search%20link&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth","landing_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=fp%20alerts%20landing%20page%20link&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"},"analytics":{"subscriber_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=fp%20analytics&utm_term=already%20an%20access%20subscriber&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","premium_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=fp%20analytics&utm_term=anonymous&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"}},"referrers":["msn.com","reddit.com","facebook.com","twitter.com","t.co","google.com","drudgereport.com","slate.com","washingtonpost.com","bit.ly","atfp.co","antiwar.com","digg.com","mca-marines.org","aldaily.com","huffingtonpost.com","huffpost.com","ycombinator.com","coasttocoastam.com","yahoo.com","themp.org","millennium-project.org"],"user":{"login_url":"https:\/\/fp-reg.onecount.net\/onecount\/login\/loginlogout.cgi","logout_url":"https:\/\/fp-reg.onecount.net\/onecount\/login\/loginlogout.cgi","edit_profile_url":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?g=0&form=121","registration_url":"http:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?form=137&brand=fp","customer_service_url":"https:\/\/subscribe.foreignpolicy.com\/FRP\/?f=custcare","view_count_limit":null,"paywall_resource_id":null,"registration_product_ids":[34],"subscription_product_ids":[26],"premium_product_ids":[145]},"widgets":{"surveys":{"survey_id":"qVuJ2BRvAMOdkCgpsuo4OQnbSq670HwWIdTLYxHxlgLzcVnifKSzGNDMEKnirwHe","is_enabled":true,"is_homepage_excluded":false,"user_status_targeting":"all","user_domain_targeting":[],"user_country_targeting":[]}}};
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    lazySizesConfig = {"lazyClass":"-lazy","preloadClass":"-preloaded","loadingClass":"-loading","loadedClass":"-loaded"};
+</script>
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<!-- wpcom_wp_footer -->
+
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 62828;
+			_sf_async_config.useCanonical = true;
+						_sf_async_config.domain = 'foreignpolicy.com';
+			_sf_async_config.authors = 'Robbie Gramer,Dan De Luce';
+_sf_async_config.sections = ["Argument"];
+
+			(function(){
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src',
+						(("https:" == document.location.protocol) ? "https://" : "http://") +
+						"static.chartbeat.com/js/chartbeat.js");
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+					loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+			})();
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201743y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/foreignpolicymag.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/foreignpolicymag.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"http:\/\/foreignpolicy.com\/","postID":"928754","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="71129472" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="http://foreignpolicy.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Foreign Policy" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="efeac732b2" /><input type="hidden" name="_wp_http_referer" value="/2017/10/25/china-refuses-to-admit-it-has-a-rape-problem-i-would-know/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyt0sFOwzAMBuAXovWKBoMD4lmC67bu0jiLnaLu6TEnuHBgnRTJPvz5HFmBz9xwwlh7Upj9XCqVDSoDSqF24dTO+gB/pvpglBnPVH5nUZJRMrCJFr+xcobBOR5TkyUybs3joTuBWjDGH7AdakJjh8a90sRq4nUno7zkSIv0Id5M5RrjpYrR3segyJlvV6pxVIiCIX7vJoz/pYIqmYIWBMXC2fuVUi/F08mGgCQfSmX1v+BTk+9M0v1mxHDdlK+kdxMx6OTY+/LWPR1euufj8fU0fwH/mCIG'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='//cdn.taboola.com/libtrc/foreignpolicy/loader.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpUtilsLoc = {"isDev":"","redirectUri":"https:\/\/foreignpolicy.com\/share_redirect\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myFpAlertsLoc = {"isVIPEnv":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpIPAccessState = {"printArchiveUrl":"http:\/\/foreignpolicy.com\/print-archive\/","ipAccessEnabled":"1","fpAnalyticsUrl":"http:\/\/foreignpolicy.com\/fp-insights\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJytzzEOwjAMBdALUUyRKF0QCxeAiTUEUxylcbDdIm5PQFyAwvaX//Q/3HPlORkmA7tijwojZbiwIHWpyhzJP6rlol6DU0VTUPGgXiiXPGI6s4C5E3N086Az+MkbjKJCFu5J8V+cmlDqfte0KBGNU4EV5UtQzRl5CJ9Vk9vhNqA85p5luuEiSjkU9m/quOPeUTpgkdUmo5Qr5z3qa9a239SrRdO0bduswxPycOCD'></script>
+<script type='text/javascript' src='//ak.sail-horizon.com/scout/v1.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpJsThemeData = {"templateDirUri":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/foreign-policy-2017"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallSlideout = {"links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=slideout%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%235&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallAfterArticle = {"links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallPopup = {"links":{"inline":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","popup":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=metered%20paywall&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallRegwall = {"link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=mobile%20regwall&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallHeader = {"link":"https:\/\/subscribe.foreignpolicy.com\/FRP\/?f=gate-1","linkText":"Upgrade to Premium for Just $1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FPMarketingSettings = {"_preview":null,"sponsored":null,"anon":{"ID":928281,"campaign":"10_24_17"},"print":{"ID":928281,"campaign":"10_24_17"},"premium":null,"__meta":{"disable_paywall":false,"localdata_prefix":"__FPMarketingTakeover_","tracking_prefix":""}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = {"ajaxurl":"https:\/\/foreignpolicymag.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = {"ajaxurl":"https:\/\/foreignpolicymag.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = {"ajaxurl":"https:\/\/foreignpolicymag.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var loadLivefyreParams = {"scriptExt":"\/\/cdn.livefyre.com\/Livefyre.js","scriptLocal":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/foreign-policy-2017\/static\/js\/livefyre.js"};
+var fpLoginState = {"printArchiveUrl":"http:\/\/foreignpolicy.com\/print-archive\/","fpAnalyticsUrl":"http:\/\/foreignpolicy.com\/fp-insights\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var zMoatADVERTISER = {"moatPassback":"editorial"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJy1lk1uAjEMhS/UNKX/LKpeoHeoTMZMDEkcJZ6hc/uaFgSrqkBY2bLkT87Li2fsJhvHSTCJFY8Rqx0p2yUXpD6ZzIHcZO7vZi+2Cgg5u6q2AgXxZTDV8SC3q3pjz8FA0SSg2YA4j+VEDtSKorMUZ6srlDXPMG0gBBsorWs73C62n3MPXobpdB3/wdX2Cj1eQYrMecjtsQX7bWwPxq9MRX3H6Wy3eoQOy2cdFlt7XT7iIBSqpe5yksAaecRylF0OdRwzJ+3V8lBGnBowd6WlAhrQFuhhJNZjOwhuCCDYGSGlCMQG5jxSgKI+IwMi4HzUSlt5KWbdgjVQ12K5/PqqsiMI1UNp8fx/mTrz9vBNrw4G8VxMYOhM1OaW7EXg/jpk5yElDNeBJ439Obvqb6F3H9usTm5qX+hONcRhp271+6ARl9PJEh4gkUH2XWdDcMH888/wHt9mT3ev88f5w/P96hu31GRR'></script>
+<script type='text/javascript' src='https://validate.onecount.net/js/v_sb.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFzMsKgCAQheEXKgcprBbRs0gOMZKX0kF6+1q0FeFsfvg4UGJPfj/ZYAL77WK8H2CCQubALBx5YVMHVRdDokzBt6VDzzX1pZbyaZ9ozmEPLp6Y8debW+W4qFkN8zTaFxtHTDY='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'71129472','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'71129472','v':'wpcom','tz':'-4','user_id':'0','post':'928351','subd':'foreignpolicymag'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=71129472&v=wpcomvt&tz=-4&user_id=0&post=928351&subd=foreignpolicymag&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE5tW3cvZGRlby1IQz1KU25CUU90fDJnTXl0ZC58TGsublNtWkhSRV9CLjRqUWJFajViaWpkST13L2Y1R2NPUi5ldzY1TlVESlB0fkNzMC5lSjdLW3IyeTNGdE4/Tz91Ti5zaFlxZmFJJT1wV3c0UmNhMjdLRmY1Lno0Sy5sWTRLLUxtTzh5T1pacD8lUlE1WGQydFNTNjh+WUgvdVVIWmY/KyVpQ3FBcktsWEhxbVFvTzNsUixxNGV0Mlo='}]);
+_stq.push([ 'clickTrackerInit', '71129472', '928351' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>    </body>
+</html>

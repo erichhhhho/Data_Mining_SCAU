@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=Edge"> -->
+<!--[if IEMobile 7]><html class="iem7" ><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" ><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" ><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" ><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html 
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.thebeijinger.com/sites/all/themes/beijinger2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="This post comes courtesy of our content partners at TechNode." />
+<meta name="keywords" content="WeChat, Technode, Technology, delivery, Party Plenum, bans, Beijing News, Things You Should Know, Rita Liao" />
+<meta name="news_keywords" content="WeChat, Technode, Technology, delivery, Party Plenum, bans, Beijing News, Things You Should Know, Rita Liao, WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress" />
+<meta name="rights" content="the beijinger" />
+<link rel="image_src" href="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/party_congress4.jpg" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.thebeijinger.com/blog/2017/10/18/beijing-bans-changing-wechat-profile-picture-and-aliases-disrupts-delivery-services" />
+<link rel="shortlink" href="http://www.thebeijinger.com/node/1202719" />
+<meta http-equiv="content-language" content="EN" />
+<meta property="og:url" content="http://www.thebeijinger.com/blog/2017/10/18/beijing-bans-changing-wechat-profile-picture-and-aliases-disrupts-delivery-services" />
+<meta property="og:title" content="WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress" />
+<meta property="og:description" content="This post comes courtesy of our content partners at TechNode." />
+<meta property="og:updated_time" content="2017-10-18T17:11:29+08:00" />
+<meta property="og:image" content="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/party_congress4.jpg" />
+<meta property="og:image:url" content="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/party_congress4.jpg" />
+<meta property="og:image:secure_url" content="https://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/party_congress4.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="http://www.thebeijinger.com/blog/2017/10/18/beijing-bans-changing-wechat-profile-picture-and-aliases-disrupts-delivery-services" />
+<meta name="twitter:title" content="WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress" />
+<meta name="twitter:image" content="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/party_congress4.jpg" />
+<meta name="twitter:description" content="This post comes courtesy of our content partners at TechNode." />
+<meta property="article:published_time" content="2017-10-18T11:30:00+08:00" />
+<meta property="article:modified_time" content="2017-10-18T17:11:29+08:00" />
+<meta name="dcterms.title" content="WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress" />
+<meta name="dcterms.creator" content="tomarnstein" />
+<meta name="dcterms.publisher" content="the beijinger" />
+<meta name="dcterms.description" content="This post comes courtesy of our content partners at TechNode." />
+<meta name="dcterms.date" content="2017-10-18T11:30+08:00" />
+	<title>WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress | the Beijinger</title>
+
+			<meta name="MobileOptimized" content="width">
+		<meta name="HandheldFriendly" content="true">
+		<meta name="viewport" content="width=device-width">
+		<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon.png" rel="apple-touch-icon" />
+	<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+	<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+	<link href="http://thebeijinger.com/sites/all/themes/beijinger2014/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+
+	<link type="text/css" rel="stylesheet" href="http://www.thebeijinger.com/sites/default/files/css/css__dpghWh8_g6bKJeFFQW1XSAR1PNynBCaouDhywIZVyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeijinger.com/sites/default/files/css/css_4RxJXsrQ04x2ANFg8uxtP7CamgZF_uVe_tRqmwWDwwc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.thebeijinger.com/sites/default/files/css/css_ocUtn_qBWN3lpiUVMidq_GMQk6zzFNewS2my13fTLRw.css" media="all" />
+	<style>header#header{ background: #720000 url('https://thebeijinger.com/sites/all/themes/beijinger2014/images/bgmodern.png') }</style>	<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_XB-LMVFTw3U8kLqbdExrgfAdJKT1eodVfOyKj7MGRJY.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_jn46QPYMocuo27EkaBgMYKmAdnRfBkc4HsUgbqjV3X0.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_3MMiS_mIpF7qc8mgGBDiwd_ieIycbJxc0rS0nUPbTCo.js"></script>
+<script type="text/javascript" src="http://www.thebeijinger.com/sites/default/files/js/js_Cy1faIuDxAdNHO7O0LJxuTt1I2RzN53UKW392he435w.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"beijinger2014","theme_token":"eix9tuDkM1nYlZticy9QXrAsSIYdtU9kO9OsZLxkU4Q","jquery_version":"1.10","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/bootstrap.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/them\/classifieds_filters\/classifieds_filter.js":1,"sites\/all\/modules\/them\/events_filters\/events_filters.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/jcaption\/jcaption.js":1,"sites\/all\/modules\/quote\/quote.js":1,"sites\/all\/modules\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/beijinger2014\/js\/jquery.migrate.js":1,"sites\/all\/themes\/beijinger2014\/js\/masonry.pkgd.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/imagesloaded.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/ajax.js":1,"sites\/all\/themes\/beijinger2014\/js\/autocomplete.js":1,"sites\/all\/themes\/beijinger2014\/js\/bootstrap-theme.js":1,"sites\/all\/themes\/beijinger2014\/js\/jasny-bootstrap.min.js":1,"sites\/all\/themes\/beijinger2014\/js\/html5-respond.js":1,"sites\/all\/themes\/beijinger2014\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/beijinger2014\/js\/capitalization.js":1,"sites\/all\/themes\/beijinger2014\/js\/app.js":1},"css":{"modules\/system\/system.messages.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ed_classified\/theme\/classified.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/quote\/quote.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/fivestar\/widgets\/small\/small.css":1,"sites\/all\/themes\/beijinger2014\/css\/system.menus.css":1,"sites\/all\/themes\/beijinger2014\/css\/system.messages.css":1,"sites\/all\/themes\/beijinger2014\/css\/system.theme.css":1,"sites\/all\/themes\/beijinger2014\/css\/styles.css":1,"sites\/all\/themes\/beijinger2014\/css\/font-awesome.min.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":[".view-display-id-blog_similar_block .views-field.views-field-body img",".view-display-id-blog_home_page .views-field.views-field-body img",".node-blog .field-name-body img"],"jcaption_alt_title":"alt","jcaption_requireText":1,"jcaption_copyStyle":1,"jcaption_removeStyle":1,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":0,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"quote_nest":"2","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:64d664d4ff03bd783d29019808da7f78":{"view_name":"directory_reviews","view_display_id":"latest_review","view_args":"","view_path":"node\/1202719","view_base_path":"directory\/reviews","view_dom_id":"64d664d4ff03bd783d29019808da7f78","pager_element":0},"views_dom_id:703d48d064830dfcb2c949626f0fdfb0":{"view_name":"classifieds","view_display_id":"work_with_us_block","view_args":"","view_path":"node\/59523","view_base_path":"classifieds","view_dom_id":"703d48d064830dfcb2c949626f0fdfb0","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/blog\/2017\/10\/18\/beijing-bans-changing-wechat-profile-picture-and-aliases-disrupts-delivery-services":true}});
+//--><!]]>
+</script>
+	    <!--[if lt IE 9]>
+    <script src="/sites/all/themes/beijinger2014/js/html5-respond.js"></script>
+    <![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1202719 node-type-blog section-blog" >
+
+			
+  <div class="welcome-nav">
+  	<nav class="navbar navbar-default navbar-inverse navbar-static-top" role="navigation">
+  		<div class="container">
+  			<div class="row">
+  				<div class="col-xs-10">
+
+  					<div class="navbar-header">
+  						<span class="username">Welcome Guest</span>  					</div>
+
+  					<div class="visible-sm visible-md visible-lg">
+  						
+
+  							<ul class="nav navbar-nav"><li><a href="/user/login?destination=node/1202719">Login to the Beijinger</a></li><li><a href="/user/register?destination=node/1202719">No account? Register Here</a></li></ul>  						</div>
+  					</div>
+
+  					<div class="col-xs-2">
+
+  						<div class="social-icons hidden-ms hidden-xs">
+  							<a href="http://www.thebeijinger.com/wechat"><i class="fa fa-wechat"></i></a>
+  							<a href="http://weibo.com/tbjmagazine"><i class="fa fa-weibo"></i></a>
+  							<a href="http://www.facebook.com/pages/The-Beijinger/59989818460"><i class="fa fa-facebook"></i></a>
+  							<a href="http://twitter.com/#!/thebeijinger"><i class="fa fa-twitter"></i></a>
+  							<a href="https://www.instagram.com/the_beijinger/"><i class="fa fa-instagram"></i></a>
+  						</div>
+
+  						<button type="button" class="navbar-toggle" data-toggle="offcanvas" data-target="#mobile-menu" data-canvas="body">
+  							<span class="sr-only">Toggle navigation</span>
+  							<span class="icon-bar"></span>
+  							<span class="icon-bar"></span>
+  							<span class="icon-bar"></span>
+  						</button>
+
+  						
+  					</div>
+  				</div>
+  			</div>
+  		</nav>
+  	</div>
+
+  	<header id="header" class="clearfix" role="banner">
+  		<div class="container">
+  			<div class="row">
+  				<div class="col-ms-12 col-sm-12">
+  					<div class="row">
+                      <div class="col-xs-9 col-ms-3 col-sm-3 col-lg-3">
+  						<a href="/" title="Home" rel="home" id="logo">
+                <img src="http://www.thebeijinger.com/sites/default/files/logotbjwhite.png" alt="Home" class="logo" />
+              </a>
+						</div>
+                        <div class="col-xs-3 col-ms-1 col-sm-2 col-lg-1">
+                              <div class="region region-marketing">
+    <div id="block-block-12" class="block block-block first last odd">
+
+      	<div class="badge-icon"></div>
+  <script type="text/javascript" charset="utf-8">
+  (function(w,d,t,f){ w[f]=w[f]||function(c,k,n){s=w[f],k=s['k']=(s['k']||(k?('&k='+k):''));s['c']=
+  c=(c instanceof Array)?c:[c];s['n']=n=n||0;L=d.createElement(t),e=d.getElementsByTagName(t)[0];
+  L.async=1;L.src='//feed.aqicn.org/feed/'+(c[n].city)+'/'+(c[n].lang||'')+'/feed.v1.js?n='+n+k;
+  e.parentNode.insertBefore(L,e); }; })( window,document,'script','_aqiFeed' ); 
+</script>
+
+<span id="city-aqi-container" style="
+padding: 5px;
+color: white;
+float: left;"></span>
+
+<script type="text/javascript" charset="utf-8">
+  _aqiFeed({
+   display:"<strong>AQI: %aqi</strong><br /><div style=\"font-size: x-small;width: 80px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis\">(%impact)</div><strong>Temp: %temp°C<br />%temptoday</strong>",
+   container:"city-aqi-container",
+   city:"beijing" });
+</script>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+                        </div>
+						<div class="col-xs-12 col-ms-8 col-sm-7 col-lg-8">
+							  <div class="region region-header-banner">
+    <div id="block-block-26" class="block block-block first last odd">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="43" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+						</div>
+					</div>
+				</div>
+			</div><!-- row -->
+
+			<div class="row">
+				<div class="col-sm-12 visible-sm visible-md visible-lg">
+					<nav class="navbar navbar-inverse" role="navigation">
+						<div class="container-fluid">
+							<ul class="nav nav-pills navbar-nav"><li class="menu-6474 first"><a href="/visitor-guide">Visitor&#039;s Guide</a></li>
+<li class="menu-659"><a href="/classifieds" title="Check out our free classifieds">Classifieds</a></li>
+<li class="menu-527 active-trail"><a href="/blog" title="Blogs from the staff and friends of the Beijinger" class="active-trail">Blog</a></li>
+<li class="menu-1377"><a href="/events">Events</a></li>
+<li class="menu-1245"><a href="/directory">Directory</a></li>
+<li class="menu-528"><a href="/forum" title="Join and learn from our online community">Forum</a></li>
+<li class="menu-1602"><a href="/gallery" title="">Gallery</a></li>
+<li class="menu-2890"><a href="/contact" title="">Contact us</a></li>
+<li class="menu-6200 last"><a href="/2017pizzacup" title="">2017 Pizza Cup</a></li>
+</ul>									</div>
+								</nav>
+															</div>
+						</div><!-- row -->
+					</div> <!-- container -->
+				</header>
+
+				<div class="navmenu navmenu-default navmenu-inverse navmenu-fixed-right offcanvas offcanvas-xs" id="mobile-menu">
+
+					<a href="/" title="Home" rel="home" id="logo-mobile">
+						<img src="http://www.thebeijinger.com/sites/default/files/logotbjwhite.png" alt="Home" class="logo" />
+					</a>
+
+					<div class="social-icons">
+						<a href="http://weibo.com/tbjmagazine"><i class="fa fa-weibo "></i></a>
+						<a href="http://www.facebook.com/pages/The-Beijinger/59989818460"><i class="fa fa-facebook "></i></a>
+						<a href="http://twitter.com/#!/thebeijinger"><i class="fa fa-twitter "></i></a>
+					</div>
+
+					<div class="user-menu">
+													<ul class="nav navbar-nav"><li><a href="/user/login?destination=node/1202719">Login to the Beijinger</a></li><li><a href="/user/register?destination=node/1202719">No account? Register Here</a></li></ul>						</div>
+
+						<!-- <a class="navmenu-brand" href="#">Site menu</a> -->
+
+						<div class="main-menu">
+							<ul class="nav nav-pills navbar-nav"><li class="menu-6474 first"><a href="/visitor-guide">Visitor&#039;s Guide</a></li>
+<li class="menu-659"><a href="/classifieds" title="Check out our free classifieds">Classifieds</a></li>
+<li class="menu-527 active-trail"><a href="/blog" title="Blogs from the staff and friends of the Beijinger" class="active-trail">Blog</a></li>
+<li class="menu-1377"><a href="/events">Events</a></li>
+<li class="menu-1245"><a href="/directory">Directory</a></li>
+<li class="menu-528"><a href="/forum" title="Join and learn from our online community">Forum</a></li>
+<li class="menu-1602"><a href="/gallery" title="">Gallery</a></li>
+<li class="menu-2890"><a href="/contact" title="">Contact us</a></li>
+<li class="menu-6200 last"><a href="/2017pizzacup" title="">2017 Pizza Cup</a></li>
+</ul>							</div>
+
+  				</div><!-- offcanvas -->
+
+<div class="breadcrumbs">
+	<div class="container"><ol class="breadcrumb"><li><a href="/">Home</a></li>
+<li><a href="/blog">Blog</a></li>
+<li>WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress</li>
+</ol></div>
+</div>
+
+<div id="page" class="container">
+    <div class="row">
+    <div class="col-sm-12">
+      <div class="help">
+        <div class="container"></div>
+      </div>
+    </div>
+  </div><!-- row -->
+
+  <div class="row">
+      <div class="col-ms-9 col-sm-9">
+        <div class="main-content">
+          <div class="content-top">
+              <div class="region region-content-top">
+    <div id="block-block-27" class="block block-block block-openx first last odd">
+
+      	<div class="badge-icon"></div>
+  <div class="ad-container"><div style="max-width: 728px; margin: auto;">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="44" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div></div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          </div>
+          <div class="main-top"></div>
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+      	<div class="badge-icon"></div>
+  <article class="node-1202719 node node-blog node-promoted view-mode-full clearfix" about="/blog/2017/10/18/beijing-bans-changing-wechat-profile-picture-and-aliases-disrupts-delivery-services" typeof="sioc:Post sioct:BlogPost">
+
+	
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="field field-name-field-blog-post-images field-type-image field-label-hidden"><div id="blog-slideshow-1202719" class="field-items carousel slide" data-ride="carousel"><div class="carousel-inner"><div class="field-item even item active"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/party_congress4.jpg" width="940" height="547" alt="WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress" title="WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress" /></div></div></div></div>		</div>
+		<div class="col-sm-12">
+			<h1 class="title ">WeChat Profile Changes Banned, Delivery and Hospitality Services Disrupted Ahead of 19th National Congress</h1>
+		</div>
+        <div class="col-sm-12">
+            <div class="submitted">
+        							<div class="blog-author"><i class="fa fa-user"></i><a href="/category/blog-authors/rita-liao">Rita Liao</a>					    | <i class="fa fa-calendar"></i> Oct 18, 2017 11:30 am | <a href="#comment-form">Add a comment</a> | 1674 reads                                            </div>
+							</div>
+		</div>
+		<div class="col-sm-12">
+			<div class="col-sm-12 content-meta-wrapper">
+			<header class="content-meta">
+							</header>
+		</div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p><em>This post comes courtesy of our content partners at <a href="http://technode.com/">TechNode</a>.</em></p>
+<p><a href="http://technode.com/"><img alt="" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/technode_logo.jpg" /></a></p>
+<p>Beijing is likely to see bluer skies and quieter streets this week as the Communist Party’s 19th Congress is due to commence today, Oct 18. To ensure the twice-a-decade party reshuffle goes without a hitch, China has ordered <a href="http://www.thebeijinger.com/blog/2017/10/13/beijing-bans-gas-sales-airbnb-bookings-19th-plenum-arrives-amid-increased-security">security measures across a wide spectrum</a>. Here’s a roundup of the latest policies that are sending shockwaves across China’s tech industry ahead of the key meeting.<br /> </p>
+<h2><strong>Delivery Services</strong></h2>
+<p>Beijing residents are reporting widespread interruptions in courier express services via China’s Twitter-like Weibo. Some packages are delayed, others completely suspended. A staff from SF Express, one of the country’s biggest express services, told TechNode that packages going to the capital from Henan and Hainan Provinces have already been suspended, and vice versa.</p>
+<p>“Express services in Beijing are still operating, but it’s hard to say when your package will arrive because security check has tightened up. I suggest that you wait till the Congress ends to ship your parcel,” SF Express staff told us.</p>
+<p>Delivery service companies have also stepped up in real-name registration following the <a href="http://www.sohu.com/a/198133078_115571">closing of 30 delivery service points</a> (in Chinese) that failed to carry out the policy. According to Postal Law of the People’s Republic of China and Counter-terrorism Law of the People’s Republic of China, express services adopted a real-name shipping registration system beginning Nov 1, 2015, to “realize traceability of shipment delivery.” Enforcement has been deliberately loose, however, for real-name validation increases costs and slows down efficiency for the service providers. Customers also feel reluctant to use their real names for privacy reasons.</p>
+<p style="text-align: center;"><img alt="" class="caption" src="http://cdn.technode.com/wp-content/uploads/2017/10/express.jpg" style="width: 500px; height: 621px;" title="Screenshot of JD.com’s package tracking: Delivery might be delayed between October 13-31 due to enforced security check recently, the highlighted red notice says" /></p>
+<h2><strong>Social Media and Data Storage</strong></h2>
+<p>On the eve of the Congress, WeChat stopped some users from changing their profile picture, alias, or status until the end of the month, citing maintenance. Weibo users are experiencing similar issues. The reports come a month after <a href="http://www.scmp.com/news/china/society/article/2112605/comment-about-islamic-state-social-media-lands-chinese-man-prison">one politically-confused individual</a> decided to change his profile picture of the late al-Qaeda leader Osama Bin Laden before writing "come join Isis with me," a joke that landed him nine months in jail.</p>
+<p style="text-align: center;"><img alt="" class="caption" src="http://www.thebeijinger.com/sites/default/files/styles/large/public/864372443.jpg" style="width: 500px; height: 534px;" title="The message displayed by WeChat when you attempt to change your name" typeof="foaf:Image" /></p>
+<p>A series of new strict rules over the Chinese cyberspace also went into effect in June. Group chat owners on Chinese messaging apps are now <a href="http://www.thebeijinger.com/blog/2017/09/10/china-issues-new-rules-group-chats-wechat-qq-and-others">responsible for what is said in their group</a>, and users on Weibo and <a href="http://technode.com/2017/05/10/baidu-to-fully-implement-real-name-system-starting-next-month/">Baidu’s discussion forum</a> were given a final call to link their accounts to a real name.</p>
+<p>WhatsApp, the Facebook-owned app that provides message encryption technology – not the most friendly to China’s Great Firewall – appeared to be widely disrupted inside mainland China ahead of the Congress. Some users report the app is unavailable even with a VPN. To ensure service runs seamlessly for Chinese users, a number of foreign tech companies, including <a href="http://technode.com/2017/08/14/hinterland-guizhou-to-advance-apples-first-data-center-in-china/">Apple</a>, Amazon, Microsoft, and IBM, have set up China-based data centers following a new law in June requiring all companies to store user data in the country.</p>
+<p>The new wave of cyberspace regulations dictates not only where data is stored but also what content is permissible. Both Weibo and search giant Baidu stepped up regulation of user-generated content. On Sep 27, Weibo put up a job posting to “<a href="http://weibo.com/6264005608/FnKV2C3iA?from=page_1006066264005608_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment">openly seek one thousand Weibo inspectors</a>” (in Chinese), and Baidu has <a href="http://news.xinhuanet.com/fortune/2017-09/28/c_1121735811.htm">invited cyber police</a> (in Chinese) across the country to help dispel bogus information.</p>
+<p>Toutiao, the USD 22 billion-valued news aggregator who was <a href="http://technode.com/2017/09/20/chinese-state-media-criticizes-ai-driven-news-distribution-naming-toutiao-1/">slashed last month</a> by the Communist Party’s official newspaper for creating an online echo chamber, introduced a section dedicated to coverage of the Congress.</p>
+<p style="text-align: center;"><img alt="" class="caption" src="http://cdn.technode.com/wp-content/uploads/2017/10/Snip20171017_44.jpg" style="width: 500px; height: 228px;" title="Screenshot of a Toutiao page dedicated to the Congress" /></p>
+<h2><b>Small Aircraft</b></h2>
+<p>For security reasons, Beijing is banning the use of small aircraft including drones and fire balloons during the Congress, says a notice released by the Beijing Municipal Public Security Bureau. Parts and components of small aircrafts are restricted items for delivery to Beijing this week, according to SF Express.</p>
+<p style="text-align: center;"><img alt="" class="caption" src="http://cdn.technode.com/wp-content/uploads/2017/10/drones.jpg" style="width: 500px; height: 757px;" title="Notice of small aircraft ban in Beijing during Party Congress" /></p>
+<p><span style="font-size:22px;"><b>Hospitality </b></span></p>
+<p>Airbnb, along with its Chinese short rental rivals including Xiaozhu.com, has shuttered listings in Beijing’s city center for the rest of October. Other hospitality services experienced restrictions three months ago when luxury hotel Waldorf Astoria suddenly <a href="http://technode.com/2017/07/19/vpns-continue-to-feel-the-pressure-as-a-beijing-luxury-hotel-halts-service/">halted its VPN services to its guests</a>.</p>
+<p style="text-align: center;"><strong>READ: <a href="https://www.thebeijinger.com/blog/2017/10/16/china-makes-progress-its-national-facial-recognition-surveillance-system">China Makes Progress on Its National Facial Recognition Surveillance System</a></strong></p>
+<p>Other measures that are not publicly made related to the key meeting include the latest ban of cryptocurrencies. The crackdown, <a href="http://www.scmp.com/news/china/economy/article/2111456/why-has-china-declared-war-bitcoin-and-digital-currencies"><em>SCMP</em> is reporting</a>, is an attempt to rein in all financial volatility ahead of the meeting. The Chinese government might also soon have <a href="http://technode.com/2017/10/13/wsj-chinese-government-wants-to-enter-boards-of-chinese-tech-giants/">a stake in China’s tech giants</a>, an unnamed source told <em>Wall Street Journal</em> recently.</p>
+<p><em>Images: <a href="http://www.chinanews.com/tp/hd2011/2012/11-08/U334P4T426D146169F16470DT20121108133832.jpg">China News</a>, WeChat, TechNode, Toutiao</em></p>
+ </div></div></div>		</div>
+        <div class="taxonomy col-sm-12">
+			<ul class="list-inline"><li><a href="/blog/beijing-news">Beijing News</a></li><li><a href="/blog/things-you-should-know">Things You Should Know</a></li><li><a href="/category/blog-tags/wechat">WeChat</a></li><li><a href="/category/blog-tags/technode">Technode</a></li><li><a href="/category/blog-tags/technology">Technology</a></li><li><a href="/category/blog-tags/delivery">delivery</a></li><li><a href="/category/blog-tags/party-plenum">Party Plenum</a></li><li><a href="/category/blog-tags/bans">bans</a></li><li><a href="/category/blog-authors/rita-liao">Rita Liao</a></li></ul>		</div>
+
+	</div>
+
+	<h2 class="title-comments">Comments</h2>
+	
+
+</article>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          <div class="region region-content-bottom">
+    <div id="block-views-similarterms-blog-similar-block" class="block block-views first odd">
+
+        <h2 class="block-title">You might also be interested in :</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-similarterms view-id-similarterms view-display-id-blog_similar_block further-links view-dom-id-20ed6d78a24248a751c3e92bbd09c082">
+        
+  
+  
+      <div class="view-content">
+      <div class="row">
+  <div class="views-row views-row-1 views-row-odd views-row-first col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/09/21/now-its-official-wechat-watching-you"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/313215/wechabooklet_0.jpg" width="750" height="500" alt="It&#039;s Now Official: WeChat Really Is Watching You" title="It&#039;s Now Official: WeChat Really Is Watching You" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/09/21/now-its-official-wechat-watching-you">It&#039;s Now Official: WeChat Really Is Watching You</a>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2015/12/17/2015-year-review-years-most-convenient-apps"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/309860/apps.jpg" width="750" height="500" alt="2015 Year in Review: The Year&amp;#039;s Most Convenient Apps " title="2015 Year in Review: The Year&amp;#039;s Most Convenient Apps " /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2015/12/17/2015-year-review-years-most-convenient-apps">2015 Year in Review: The Year&#039;s Most Useful and...</a>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/10/21/why-wechat-going-win-instant-app-battle-china"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/313215/wechatsquishy.jpg" width="750" height="500" alt="Why WeChat is Going to Win the Instant App Battle in China" title="Why WeChat is Going to Win the Instant App Battle in China" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/10/21/why-wechat-going-win-instant-app-battle-china">Why WeChat is Going to Win the Instant App Battle in China</a>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/05/18/foreigners-are-out-wechatting-chinas-most-active-wechatters"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/313215/wechat_0.jpg" width="750" height="500" alt="Foreigners Are Out-WeChatting China&amp;#039;s Most Active WeChatters" title="Foreigners Are Out-WeChatting China&amp;#039;s Most Active WeChatters" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/05/18/foreigners-are-out-wechatting-chinas-most-active-wechatters">Foreigners Are Out-WeChatting China&#039;s Most Active...</a>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/10/16/china-makes-progress-its-national-facial-recognition-surveillance-system"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/313215/facialrecog.jpg" width="750" height="500" alt="China Makes Progress on Its National Facial Recognition Surveillance System" title="China Makes Progress on Its National Facial Recognition Surveillance System" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/10/16/china-makes-progress-its-national-facial-recognition-surveillance-system">China Makes Progress on Its National Facial Recognition...</a>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last col-sm-4">
+      
+  <div class="views-field views-field-field-blog-post-images">        <div class="field-content"><a href="/blog/2017/09/30/forget-qr-codes-chinas-next-favorite-payment-method-your-face"><img typeof="foaf:Image" src="http://www.thebeijinger.com/sites/default/files/styles/blog_list_image/public/thebeijinger/blog-images/313215/eye1.jpeg" width="750" height="500" alt="Forget QR Codes, China’s Next Favorite Payment Method is Your Face" title="Forget QR Codes, China’s Next Favorite Payment Method is Your Face" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <a href="/blog/2017/09/30/forget-qr-codes-chinas-next-favorite-payment-method-your-face">Forget QR Codes, China’s Next Favorite Payment Method is...</a>  </div>  </div>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-block-28" class="block block-block last even">
+
+      	<div class="badge-icon"></div>
+  <div class="ad-container"><div class="block-openx" style="max-width: 728px; margin: auto;">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="47" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div></div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+      </div>
+    </div>
+      <div class="wide-sidebar col-ms-3 col-sm-3">
+        <div class="sidebar">
+                   <div class="region region-sidebar-first column sidebar">
+    <div id="block-block-29" class="block block-block first odd">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx" style="height:250px; overflow:hidden">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="45" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+<div id="block-block-32" class="block block-block even">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="55" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+<div id="block-block-9" class="block block-block subscribe-feed add-content odd">
+
+      	<div class="badge-icon"></div>
+   <h2><i class="fa fa-rss"></i>Subscribe</h2>
+<p>Get the latest and greatest from the Beijinger Blog</p>
+<p><a class="btn btn-primary" href="/blog/feed">Subscribe to our feed</a></p>
+ 
+</div><!-- /.block -->
+<div id="block-search-form" class="block block-search even">
+
+      	<div class="badge-icon"></div>
+  <form action="/blog/2017/10/18/beijing-bans-changing-wechat-profile-picture-and-aliases-disrupts-delivery-services" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-type-textfield form-item-search-block-form form-item form-group">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search keywords" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button id="edit-submit" name="op" value="Search" type="submit" class="btn btn-default form-submit">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-mXSUuE6jfqxT1PAy-y65ZP2ifHVvYoWhb8PKyssZ9XE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div><!-- /.block -->
+<div id="block-views-blogs-blog-most-viewed-block" class="block block-views odd">
+
+        <h2 class="block-title"><span class="icons icons-most-viewed-icon"></span>Hottest Blog Posts</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-blogs view-id-blogs view-display-id-blog_most_viewed_block view-dom-id-fb5cdc3ba85575843049d3e528d05fb9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/22/hallelujah-chinas-cheese-ban-has-been-lifted-0">Say Cheese: China&#039;s Short-Lived Cheese Ban Has Been Lifted </a> (1200)</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/26/ikea-forced-apologize-following-outrage-tv-ads-depiction-single-chinese-women">China&#039;s Leftover Women Outraged at Satirical Ikea TV Commercial</a> (1188)</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/23/overcrowded-tourist-hotspot-nanluoguxiang-will-be-expanding-tianjin">Overcrowded Beijing Tourist Hotspot Nanluogu Xiang Will Be Expanding ... To Tianjin</a> (1038)</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/19/beijing-airport-ranked-5th-worst-asia-service">Delayed Reaction: Beijing Airport Ranked 5th Worst in Asia for Service</a> (905)</span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/23/trb-hospitality-group-open-new-casual-dining-concept-hulu-taikooli-early-2018">TRB to Open New Hulu Dining Concept in Place of Recently-Ousted Cantina Agave</a> (904)</span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/22/new-direct-flights-will-connect-beijing-los-angeles-athens">New Direct Flights Connect Beijing With Los Angeles, Athens</a> (901)</span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/22/taipei-weekend-away-one-asias-best-gourmet-destinations">Taipei: A Weekend Away in One of Asia’s Best Gourmet Destinations</a> (877)</span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/13/beijing-bans-gas-sales-airbnb-bookings-19th-plenum-arrives-amid-increased-security">Beijing Bans Airbnb Bookings, Forces Clubs and Bars to Shut, and Boosts Security in Advance of 19th Plenum</a> (847)</span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/21/train-hopping-southern-china-guide-exploring-sichuans-sights-rail">Train Hopping in Southern China: A Guide to Exploring Sichuan’s Sights by Rail</a> (808)</span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-viewcount">        <span class="field-content"><a href="/blog/2017/10/20/beijing-build-city-wide-waterfront-greenway">City-Wide Waterfront Greenway Coming to Beijing Next Year</a> (794)</span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blog/most-viewed">
+    More  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-block-30" class="block block-block block-openx even">
+
+      	<div class="badge-icon"></div>
+  <!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="46" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div><!-- /.block -->
+<div id="block-block-11" class="block block-block newsletter icon-newsletter odd">
+
+        <h2 class="block-title">Newsletter</h2>
+    	<div class="badge-icon"></div>
+   <p><a class="btn btn-primary" href="http://www.thebeijinger.com/newsletter">Subscribe to the newsletter!</a></p>
+ 
+</div><!-- /.block -->
+<div id="block-views-blogs-comments-recent-block" class="block block-views even">
+
+        <h2 class="block-title"><span class="icons icons-recent-comments-icon"></span>Recent comments</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-blogs-comments view-id-blogs_comments view-display-id-recent_block view-dom-id-30e21697abf08d667491bcfff0aa9930">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <span class="submitted">Oct 27, 3:44 pm</span> <a href="/blog/2017/10/27/top-15-apps-you-need-living-china#comment-550243">Re: The Top 15 Apps You Need for Living in China</a> by <a href="/user/lysanderwrites" title="View user profile." class="username">LysanderWrites</a>    </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <span class="submitted">Oct 27, 10:48 am</span> <a href="/blog/2017/10/27/mcdonalds-name-change-chiina-inspires-literal-meaning-meme#comment-550233">Re: I&#039;m Loathin&#039; It: Chinese Internet Satirizes Corporate...</a> by <a href="/user/spa9hetti" title="View user profile." class="username">spa9hetti</a>    </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <span class="submitted">Oct 27, 9:51 am</span> <a href="/blog/2017/10/26/tsinghua-students-pass-swim-test-requirements-stack-chinas-top-school#comment-550232">Re: Sink or Swim: Tsinghua Students Must Pass Compulsory Swim...</a> by <a href="/user/admin" title="View user profile." class="username">admin</a>    </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          <span class="submitted">Oct 26, 5:46 pm</span> <a href="/blog/2017/10/26/tsinghua-students-pass-swim-test-requirements-stack-chinas-top-school#comment-550213">Re: Sink or Swim: Tsinghua Students Must Pass Compulsory Swim...</a> by <a href="/user/bauluo" title="View user profile." class="username">BauLuo</a>    </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+          <span class="submitted">Oct 26, 5:14 pm</span> <a href="/blog/2017/10/23/overcrowded-tourist-hotspot-nanluoguxiang-will-be-expanding-tianjin#comment-550211">Re: Overcrowded Beijing Tourist Hotspot Nanluogu Xiang Will...</a> by <a href="/user/lilbear" title="View user profile." class="username">LilBear</a>    </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blog/recent-comments">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-menu-block-3" class="block block-menu-block odd">
+
+        <h2 class="block-title"><span class="icons icons-blog-category-icon"></span>Blog Category</h2>
+    	<div class="badge-icon"></div>
+  <div class="menu-block-wrapper menu-block-3 menu-name-menu-blog-category parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3663"><a href="/blog/beijing-news/feed" title="Beijing News (3174)"><i class="fa fa-rss-square"></i></a><a href="/blog/beijing-news" title="Beijing News (3174)">Beijing News (3174)</a></li><li class="leaf menu-mlid-3664"><a href="/blog/beijing-people/feed" title="Beijing People (1554)"><i class="fa fa-rss-square"></i></a><a href="/blog/beijing-people" title="Beijing People (1554)">Beijing People (1554)</a></li><li class="leaf menu-mlid-3665"><a href="/blog/books/feed" title="Books (374)"><i class="fa fa-rss-square"></i></a><a href="/blog/books" title="Books (374)">Books (374)</a></li><li class="leaf menu-mlid-3666"><a href="/blog/chinese-culture/feed" title="Chinese Culture (931)"><i class="fa fa-rss-square"></i></a><a href="/blog/chinese-culture" title="Chinese Culture (931)">Chinese Culture (931)</a></li><li class="leaf menu-mlid-3667"><a href="/blog/film/feed" title="Film (797)"><i class="fa fa-rss-square"></i></a><a href="/blog/film" title="Film (797)">Film (797)</a></li><li class="leaf menu-mlid-3668"><a href="/blog/food/feed" title="Food (4879)"><i class="fa fa-rss-square"></i></a><a href="/blog/food" title="Food (4879)">Food (4879)</a></li><li class="leaf menu-mlid-3669"><a href="/blog/health-environment/feed" title="Health &amp; Environment (994)"><i class="fa fa-rss-square"></i></a><a href="/blog/health-environment" title="Health &amp; Environment (994)">Health & Environment (994)</a></li><li class="leaf menu-mlid-3670"><a href="/blog/live-music/feed" title="Live Music (1591)"><i class="fa fa-rss-square"></i></a><a href="/blog/live-music" title="Live Music (1591)">Live Music (1591)</a></li><li class="leaf menu-mlid-3671"><a href="/blog/love-and-sex/feed" title="Love and Sex (121)"><i class="fa fa-rss-square"></i></a><a href="/blog/love-and-sex" title="Love and Sex (121)">Love and Sex (121)</a></li><li class="leaf menu-mlid-3672"><a href="/blog/nightlife/feed" title="Nightlife (2554)"><i class="fa fa-rss-square"></i></a><a href="/blog/nightlife" title="Nightlife (2554)">Nightlife (2554)</a></li><li class="leaf menu-mlid-3673"><a href="/blog/our-stuff/feed" title="Our Stuff (1468)"><i class="fa fa-rss-square"></i></a><a href="/blog/our-stuff" title="Our Stuff (1468)">Our Stuff (1468)</a></li><li class="leaf menu-mlid-3674"><a href="/blog/shopping/feed" title="Shopping (887)"><i class="fa fa-rss-square"></i></a><a href="/blog/shopping" title="Shopping (887)">Shopping (887)</a></li><li class="leaf menu-mlid-3675"><a href="/blog/sport/feed" title="Sport (828)"><i class="fa fa-rss-square"></i></a><a href="/blog/sport" title="Sport (828)">Sport (828)</a></li><li class="leaf menu-mlid-3676"><a href="/blog/stage/feed" title="Stage (278)"><i class="fa fa-rss-square"></i></a><a href="/blog/stage" title="Stage (278)">Stage (278)</a></li><li class="leaf menu-mlid-3677"><a href="/blog/things-you-should-know/feed" title="Things You Should Know (2018)"><i class="fa fa-rss-square"></i></a><a href="/blog/things-you-should-know" title="Things You Should Know (2018)">Things You Should Know (2018)</a></li><li class="leaf menu-mlid-3678"><a href="/blog/transport-traffic/feed" title="Transport &amp; Traffic (524)"><i class="fa fa-rss-square"></i></a><a href="/blog/transport-traffic" title="Transport &amp; Traffic (524)">Transport & Traffic (524)</a></li><li class="leaf menu-mlid-3679"><a href="/blog/travel/feed" title="Travel (698)"><i class="fa fa-rss-square"></i></a><a href="/blog/travel" title="Travel (698)">Travel (698)</a></li><li class="last leaf menu-mlid-3680"><a href="/blog/visual-arts/feed" title="Visual Arts (494)"><i class="fa fa-rss-square"></i></a><a href="/blog/visual-arts" title="Visual Arts (494)">Visual Arts (494)</a></li></ul></div>
+
+</div><!-- /.block -->
+<div id="block-views-blog-archive-block" class="block block-views even">
+
+        <h2 class="block-title"><span class="icons archive"></span>Archive</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-blog-archive view-id-blog_archive view-display-id-block blog-archive view-dom-id-f2edc5270ac8a5ffd3dfa3fa0c0ae4d6">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+  <ul class="views-summary">
+      <li class="odd"><a href="/blog/archive/201710">October 2017</a>
+              (151)
+          </li>
+      <li class="even"><a href="/blog/archive/201709">September 2017</a>
+              (202)
+          </li>
+      <li class="odd"><a href="/blog/archive/201708">August 2017</a>
+              (196)
+          </li>
+      <li class="even"><a href="/blog/archive/201707">July 2017</a>
+              (187)
+          </li>
+      <li class="odd"><a href="/blog/archive/201706">June 2017</a>
+              (202)
+          </li>
+      <li class="even"><a href="/blog/archive/201705">May 2017</a>
+              (193)
+          </li>
+    </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blog/archive">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-views-directory-reviews-latest-review" class="block block-views odd">
+
+        <h2 class="block-title"><span class="icons icons-comments"></span>Latest Reviews</h2>
+    	<div class="badge-icon"></div>
+  <div class="view view-directory-reviews view-id-directory_reviews view-display-id-latest_review view-dom-id-64d664d4ff03bd783d29019808da7f78">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">5</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/24/fei-fei-has-moved-new-location">Fei Fei has moved to a new location!!!</a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/fei-fei">Fei Fei Tailor</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/slfrost" title="View user profile." class="username">S.L.Frost</a>  </span>  
+  <span class="submitted">        Oct 24 09:57pm  </span>  </div>
+  <div class="views-row views-row-2">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">1</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/23/food-poisoning-galore">Food poisoning galore</a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/lilys-american-diner">Lily&#039;s American Diner</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/ooyummiskittleoo" title="View user profile." class="username">Ooyummiskittleoo</a>  </span>  
+  <span class="submitted">        Oct 23 09:42am  </span>  </div>
+  <div class="views-row views-row-3">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">5</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/17/real-american-burger">real american burger </a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/slow-boat-flagship-brewpub-1">Slow Boat Sanlitun Brewpub</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/petertherose" title="View user profile." class="username">petertherose</a>  </span>  
+  <span class="submitted">        Oct 17 04:41pm  </span>  </div>
+  <div class="views-row views-row-4">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">1</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/17/small-and-impolite">small and impolite</a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/green-essence">Green Essence</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/petertherose" title="View user profile." class="username">petertherose</a>  </span>  
+  <span class="submitted">        Oct 17 04:38pm  </span>  </div>
+  <div class="views-row views-row-5">
+      
+          <div class="clearfix fivestar-average-stars"><div class="fivestar-static-form-item"><div class="form-type-item form-item form-group">
+ <div class="fivestar-small"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">2</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<p class="help-block"><div class="fivestar-summary fivestar-summary-"></div></p>
+</div>
+</div></div>    
+  <div class="views-field views-field-title">        <a href="/reviews/2017/10/17/overpriced-food-and-wine">overpriced food and wine </a>  </div>  
+  <span class="views-field views-field-field-parent-nid">    Review of    <a href="/directory/view-3912">The View 3912</a>  </span>  
+  <span class="views-field views-field-name">    by    <a href="/user/petertherose" title="View user profile." class="username">petertherose</a>  </span>  
+  <span class="submitted">        Oct 17 04:35pm  </span>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/directory/reviews">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div><!-- /.block -->
+<div id="block-block-31" class="block block-block last even">
+
+      	<div class="badge-icon"></div>
+  <div class="block-openx"  style="height:250px; overflow:hidden">
+<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v3.2.1
+  * - Revive Adserver
+  *
+  */-->
+
+<ins data-revive-zoneid="48" data-revive-ct0="{clickurl_enc}" data-revive-id="4277c2213aae4510540be28f9a194c81"></ins>
+<script async src="//ad.truerun.com/www/delivery/asyncjs.php?1"></script>
+</div>
+</div><!-- /.block -->
+  </div><!-- region__sidebar -->
+      </div>
+    </div>
+
+</div>
+
+</div><!-- /#page -->
+
+  <div class="region region-footer-menu">
+    <div id="block-menu-menu-footer-other-website-links" class="block block-menu first last odd">
+
+      	<div class="badge-icon"></div>
+  <ul class="menu"><li class="first leaf"><a href="/" title="the Beijinger">the Beijinger</a></li>
+<li class="leaf"><a href="http://www.beijing-kids.com" title="beijingkids">beijingkids</a></li>
+<li class="last leaf"><a href="http://jingkids.com" title="JingKids">JingKids</a></li>
+</ul>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+  <div class="region region-footer-info">
+    <div id="block-block-5" class="block block-block first odd">
+
+      	<div class="badge-icon"></div>
+  <div id="closure">Copyright 2017 <a href="http://www.truerun.com">True Run Media</a>. All Rights Reserved. 京ICP备<a href="http://www.miibeian.gov.cn">11039980</a>号<br>&nbsp;</div>
+</div><!-- /.block -->
+<div id="block-block-14" class="block block-block even">
+
+      	<div class="badge-icon"></div>
+  <!-- Piwik -->
+<script type="text/javascript">
+  	var _paq = _paq || [];
+
+	// setup custom analytics values
+	var	p_author 	= '',
+		p_type 		= '',
+		p_tags		= [];
+
+	// Author, Node type and Tags
+	if (jQuery('article.node-blog .blog-author a').length > 0) {
+		p_author = jQuery('article.node-blog .blog-author a:first').text();
+		p_type = 'Blog';
+	} else if(jQuery('.section-classifieds article.node .username').length > 0) {
+		p_author = jQuery('.section-classifieds article.node .username').text();
+		p_type = 'Classified Ad';
+	} else if(jQuery('.node-type-event .node-event .username').length > 0) {
+		p_author = jQuery('.node-type-event .node-event .username').text();
+		p_type = 'Event';
+	}
+
+	jQuery('.page-node .taxonomy ul li a').each(function(index, tagLink) {
+		p_tags.push(jQuery(tagLink).text());
+	});
+
+	if (p_author !== '') {
+		_paq.push(['setCustomDimension', customDimensionId = 1, customDimensionValue = p_author]);
+	}
+	if (p_tags.length > 0) {
+		jQuery.each(p_tags, function(index, p_tagValue) {
+			_paq.push(['setCustomDimension', customDimensionId = 2, customDimensionValue = p_tagValue]);
+		});
+	}
+	if (p_type !== '') {
+		_paq.push(['setCustomDimension', customDimensionId = 3, customDimensionValue = p_type]);
+	}
+	// END setup custom analytics values
+
+	  _paq.push(["setCustomVariable", 1, "User", "guest", "visit"]);
+
+	  _paq.push(["setDomains", ["*.www.thebeijinger.com","*.www.thebeijinger.com"]]);
+	  _paq.push(['trackPageView']);
+	  
+	  _paq.push(['deleteCustomDimension', 1]);
+	  _paq.push(['deleteCustomDimension', 2]);
+	  _paq.push(['deleteCustomDimension', 3]);
+
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="//piwik.truerun.com/";
+	    _paq.push(['setTrackerUrl', u+'piwik.php']);
+	    _paq.push(['setSiteId', 1]);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+</script>
+<noscript><p><img src="//piwik.truerun.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik -->
+</div><!-- /.block -->
+<div id="block-block-15" class="block block-block last odd">
+
+      	<div class="badge-icon"></div>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-147018-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+		<div class="as"></div>
+</body>
+</html>

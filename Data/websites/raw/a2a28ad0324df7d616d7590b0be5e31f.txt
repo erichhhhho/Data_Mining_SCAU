@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta property="og:url" content="http://wuot.org/post/how-will-china-select-its-new-leaders-its-communist-party-congress" />
+<meta property="og:description" content="Preparations for a major shakeup of China&amp;#039;s Communist Party leadership are all but complete, ahead of a national congress that begins in Beijing on" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How Will China Select Its New Leaders At Its Communist Party Congress?" />
+<link href="http://mediad.publicbroadcasting.net/p/shared/npr/201710/558098463.jpg" rel="image_src" />
+<meta property="og:image" content="http://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/201710/558098463.jpg" />
+<meta property="og:image:height" content="3724" />
+<meta content="How Will China Select Its New Leaders At Its Communist Party Congress?" about="/post/how-will-china-select-its-new-leaders-its-communist-party-congress" property="dc:title" />
+<link rel="shortcut icon" href="http://mediad.publicbroadcasting.net/p/wuot/files/201506/favicon_fid.ico" type="image/vnd.microsoft.icon" />
+<meta property="twitter:creator" content="@wuotfm" />
+<meta property="twitter:site" content="@wuotfm" />
+<meta property="og:image:width" content="4968" />
+<meta property="twitter:card" content="summary" />
+<meta name="description" content="Preparations for a major shakeup of China&amp;#039;s Communist Party leadership are all but complete, ahead of a national congress that begins in Beijing on" />
+<meta name="datePublished" content="2017-10-17" />
+<link rel="shortlink" href="/node/66697" />
+<meta name="has_audio" content="0" />
+<link rel="canonical" href="/post/how-will-china-select-its-new-leaders-its-communist-party-congress" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="programs" content="none" />
+<meta name="category" content="none" />
+<meta name="keywords" content="" />
+<meta name="wordCount" content="1534" />
+<meta name="org_id" content="1" />
+<meta name="author" content="Anthony Kuhn" />
+<meta name="nid" content="66697" />
+<meta name="story_id" content="558078791" />
+    <title>How Will China Select Its New Leaders At Its Communist Party Congress? | WUOT </title>
+    <link type="text/css" rel="stylesheet" href="http://wuot.org/sites/wuot.org/files/css/css_zXr1pRkjUmFHX10b6Pv5_DqzyewvdLNQ8QgccGQIRQQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuot.org/sites/wuot.org/files/css/css_ZFlaYqkiQzTmlBPX4mQeT33IFQX3nR-zpGlyqFhtTNM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuot.org/sites/wuot.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuot.org/sites/wuot.org/files/css/css_uY1_bHNTrAu2UuUwumZ6AuPc2Egu5fV5FiJ2-fv7ySk.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.header-region-outer{background-color:#003466;}@media screen and (min-width:1024px){.header-region-outer{background-image:url(http://mediad.publicbroadcasting.net/p/wuot/files/201506/background_fid.jpg);background-position:center bottom;background-size:cover;background-repeat:no-repeat;}}.branding .tagline{color:#000;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#18374b;}@media screen and (min-width:641px){.branding .trigger-nav{background:#777777;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777777;}}#listen-live .listen-live-toggle{background-color:#DDD;}#listen-live .listen-live-btn{background-color:transparent;color:#18374b;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#DDD;}}.branding .give{background:#b7cc31;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,900,italic,regular&amp;subset=latin" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuot.org/sites/wuot.org/files/css/css_WRSUrWDNbzXQeWepbLhE8tRJalGJkdaXUXq-sgUIXOo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://wuot.org/sites/wuot.org/files/css/css_SWo6tZlpCPjnhbZDAS4xgnCAofi51J7pbtu4SD2fIug.css" media="all" />
+    <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuot/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuot/files/js/js_P9u0bgloveAIlc2kutVCUB_xMaRV3YHWhSVHD3IN5tM.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuot/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuot/files/js/js_HbkiTTP5y5dlViwLXPHYRajBDOghTtIt4WsUJmmTlsY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src="//stream.publicbroadcasting.net/analytics/ab3v.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wuot/files/js/js_yXlS33NQjP7sM3z_EmCiiPl-M-UILqOo9fg9anfS09s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"gMKq0caF8hrn0c2jCx6XoVlk9Q6DAB57rxSzE2uaKpE","js":{"http:\/\/widgets.listenlive.co\/1.0\/tdwidgets.min.js":1,"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/js\/shared-cache-roundtrip.js":1,"sites\/all\/modules\/custom\/triton_player\/js\/td-player\/td-player.js":1,"sites\/all\/modules\/custom\/triton_player\/js\/td-player\/composer2.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.js":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/js\/npr-image-gallery.js":1,"sites\/all\/modules\/custom\/npr_river\/assets\/npr-river.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_schedule_selector.js":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_live_event\/js\/iframe.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"1":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.datepair.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.mask.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.validate.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.helpers.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.filters.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.event.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.tag.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.location.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.organization.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.recurrence.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.category.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.image.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.sponsor.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.validation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.overrides.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"http:\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/modules\/custom\/triton_player\/css\/td-player.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.css":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker3.standalone.min.css":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"chartbeat":{"uid":33583,"domain":"wuot.org"},"googleCSE":{"cx":"010251366440257945544:cywkaxurgis","language":"","resultsWidth":600,"domain":"www.google.com"},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":66697,"author":"Anthony Kuhn","org_id":"1","keywords":"","wordCount":1534,"story_id":"558078791","datePublished":"2017-10-17"},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-66697 node-type-post fixed-header","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}},"pi_ajax_links_api":{"selector":"#page-document","trigger":"a.ajax-link,#page-wrapper a,a.logo,a.mobile-teaser-link,.dropdown a","negative_triggers":".dropdown .back a,.mobile .not-click \u003e a,#toolbar a,a.lightbox,.jp-interface a,.header .not-click \u003e a,.page-admin a,.page-block-factory a,a.give,.social-share a,#change-station,#rss-tablequeue a,a[href^=\"mailto:\"],.popup,a[href^=\"#\"],a:not([href]),ul.tabs\u003eli\u003ea,ul.contextual-links a,#table-queue-fleximenu a[target=\"_blank\"],.delete-button","scripts_included":0,"html5":1,"vpager":1}});
+//--><!]]>
+</script>
+    <meta name="viewport" content="width=device-width">
+  </head>
+
+  <body class="html not-front not-logged-in page-node page-node- page-node-66697 node-type-post fixed-header" >
+    <header role="banner" class="header">
+  <div class="skiptocontent"><a href="#main-content">skip to main content</a></div>
+    <div class="region region-header">
+    <div id="block-baby-bear-baby-bear-header" class="block block-baby-bear">
+
+    
+  <div class="content">
+    
+<div class="header-region-outer">
+  <section class="header-region-inner row">
+    <div class="branding large-12 columns">
+      <div class="brand-inner-wrapper">
+        <a href="/" rel="home" class="logo" title="WUOT  Home"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuot/files/201506/logo_fid.png" alt="WUOT  logo" title="WUOT  Home" /></a>         <div class="tagline">
+                  </div>
+      </div>
+      <div class="header-utility">
+        <a class="trigger-nav" href="#">
+          <span class="icon-list"></span>
+          <span class="menu-text">Site Menu</span>
+        </a>
+        <a class="give" href="http://www.volsconnect.com/s/1341/utk/wide.aspx?sid=1341&gid=2&pgid=6729#wuot" target="_blank">
+  Donate</a>
+      </div>
+    </div>
+  </section>
+</div>
+  </div>
+</div>
+  </div>
+</header>
+    <div class="nav-wrapper mobile">
+      <nav>
+        <div class="top-bar contain-to-grid" data-topbar>
+          <ul class="title-area">
+            <li class="toggle-topbar menu-icon">
+              <a href="#">Menu</a>
+            </li>
+          </ul>
+          <section class="top-bar-section">
+            <div class="table-queue" id="table-queue-fleximenu">
+  <ul  class="menu dropdown">
+<li>
+<a href="http://www.volsconnect.com/s/1341/utk/wide.aspx?sid=1341&amp;gid=2&amp;pgid=6729#wuot">Donate Now</a>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/news">News</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/About-WUOT-News">About WUOT News</a>
+</li>
+<li class="left">
+<a href="/programs/WUOT-Podcast">WUOT Podcast</a>
+</li>
+<li class="left">
+<a href="/programs/tenn-words">Tenn Words</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/programs/truckbeat#stream/0">TruckBeat</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/post/five-guns-0#stream/0">Five Guns</a>
+</li>
+<li class="left">
+<a href="/programs/dialogue-wuot">Dialogue</a>
+</li>
+<li class="left">
+<a href="/programs/method">The Method</a>
+</li>
+<li class="left">
+<a href="/special-features">Special Projects</a>
+</li>
+<li class="left">
+<a href="/WUOT-Awards-2013">Awards</a>
+</li>
+<li class="left">
+<a href="/Contact-WUOT-News">Contact WUOT News</a>
+</li>
+<li class="left">
+<a href="/programs/next-wave-radio-project">Next Wave Radio Project</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/programs">Programs</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/schedule">WUOT Schedule</a>
+</li>
+<li class="left">
+<a href="/schedule/WUOT-2">WUOT-2 Schedule</a>
+</li>
+<li class="left">
+<a href="/classical">Classical</a>
+</li>
+<li class="left">
+<a href="/jazz">Jazz</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/community">Community</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="https://www.facebook.com/wuotfm/events">Station/Member Events</a>
+</li>
+<li class="left">
+<a href="/wuot-sponsored-events">WUOT-Sponsored Events</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/community-calendar#stream/0">Community Calendar</a>
+</li>
+<li class="left">
+<a href="/outreach-projects">Outreach Projects</a>
+</li>
+<li class="left">
+<a href="/e-notes-monthly-newsletter">E-Notes Monthly Newsletter</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/support-wuot">Support</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://www.volsconnect.com/s/1341/utk/wide.aspx?sid=1341&amp;gid=2&amp;pgid=6729#wuot">Donate Now</a>
+</li>
+<li class="left">
+<a href="/membership">Membership</a>
+</li>
+<li class="left">
+<a href="/leadership-members">Leadership Members</a>
+</li>
+<li class="left">
+<a href="/evergreen-members">Evergreen Member Club</a>
+</li>
+<li class="left">
+<a href="/legacy-gifts">Legacy Gifts</a>
+</li>
+<li class="left">
+<a href="/wuot-endowment">WUOT Endowment</a>
+</li>
+<li class="left">
+<a href="/matching-employers">Matching Employers</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/corporate-support#stream/0">Corporate Support</a>
+</li>
+<li class="left">
+<a href="/volunteer">Volunteer</a>
+</li>
+<li class="left">
+<a href="/donate-your-vehicle">Donate Your Vehicle</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/support-wuot-enrolling-kroger-community-rewards-program#stream/0">Kroger Community Rewards Program</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://wuot.org/corporate-support#stream/0">Corporate Support</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/benefits">Benefits</a>
+</li>
+<li class="left">
+<a href="/sponsors">Sponsors</a>
+</li>
+<li class="left">
+<a href="/guidelines-and-copy-samples">Guidelines and Copy Samples</a>
+</li>
+<li class="left">
+<a href="/wuot-sponsored-events">WUOT-Sponsored Events</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/about-WUOT">About</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/mission">Mission</a>
+</li>
+<li class="left">
+<a href="/telling-public-radios-story">Telling Public Radio&#039;s Story</a>
+</li>
+<li class="left">
+<a href="/public-media-code-integrity">Public Media Code of Integrity</a>
+</li>
+<li class="left">
+<a href="/annual-report">Annual Report</a>
+</li>
+<li class="left">
+<a href="/people/capacity/staff">Staff</a>
+</li>
+<li class="left">
+<a href="/station-history">Station History</a>
+</li>
+<li class="left">
+<a href="/news-releases">News Releases</a>
+</li>
+<li class="left">
+<a href="/employment">Employment</a>
+</li>
+<li class="left">
+<a href="/919-inc-board">91.9 Inc. Board</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://wuot.org/about-wuot">Contact</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://wuot.org/people/capacity/staff">WUOT Staff</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/contact-wuot-news">WUOT News</a>
+</li>
+<li class="left">
+<a href="https://www.facebook.com/wuotfm?ref=hl">Via Facebook</a>
+</li>
+<li class="left">
+<a href="https://twitter.com/wuotfm">Via Twitter</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/e-notes-monthly-newsletter">E-Notes Monthly Newsletter</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/search/google">Search</a>
+</li>
+</ul>
+</div>
+          </section>
+        </div>
+      </nav>
+    </div>
+      <div class="region region-persistent">
+    <div id="block-triton-player-triton-player" class="block block-triton-player">
+
+    
+  <div class="content">
+    <div id="triton-player" class="triton-wrapper">
+  <div class="triton-player-container">
+    <div class="triton-left">
+      <td-player
+  id="td-player"
+  type="bar"
+  autostart="false"
+  station="WUOTFM"
+  renderingmode="Html5,Flash"
+  geotargeting="false"
+  primarycolor="#bbccdd"
+  secondarycolor="#4a565f"
+  highlightcolor="#5599bb"
+  leaderboard="companionLeaderBoard"
+  onappready="appReady"
+  onstreamstart="onStreamStart"
+  onstreamstopped="onStreamStopped">
+</td-player>
+<div class="stream-program-container">
+  <div class="stream-program-box">
+    <div class="stream-program-header">WUOT</div>
+    <div class="stream-program-name"></div>
+    <div class="stream-program-nextinfo"></div>
+  </div>
+</div>
+    </div>
+    <div class="triton-more-toggle">
+      <div class="triton-player-btn" role="button" aria-label="Expand/Collapse">
+        <svg xmlns="http://www.w3.org/2000/svg" id="btn-open" class="toggle-arrow open" width="20px" height="11.7px" viewBox="0 0 20 11.7" preserveAspectRatio="xMinYMin">
+          <path fill="#7F95A4" d="M19.5,3.4c-0.7,0.7-8.1,7.8-8.1,7.8c-0.4,0.4-0.9,0.6-1.4,0.6c-0.5,0-1-0.2-1.4-0.6c0,0-7.4-7-8.1-7.8
+    c-0.7-0.7-0.8-2,0-2.8c0.8-0.8,1.8-0.8,2.7,0L10,7.1l6.7-6.5c0.9-0.8,2-0.8,2.7,0C20.2,1.4,20.2,2.7,19.5,3.4z"></path>
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div class="stream-selector-container">
+    <div class="row collapse">
+      <div class="stream-song-container">
+        <div class="stream-song-box">
+          <div class="stream-song-artwork"></div>
+          <div class="stream-song-trackname"></div>
+          <div class="stream-song-artist"></div>
+          <div class="stream-song-collection"></div>
+        </div>
+      </div>
+      <div class="stream-selector-links small-12 column">
+        <ul class="stream-list">
+                      <li>
+  <a href="" class="triton-stream-selector-link"
+     data-stream-name="WUOT"
+     data-stream-key="WUOTFM"
+     data-stream-ucs="5187f7f7e1c8d7c243297590">
+    <div class="stream-indicator">
+      <div class="triton-stream-inactive" title="not-playing"></div>
+      <div class="triton-stream-active" title="playing">
+        <span class="stream-activebar"></span>
+        <span class="stream-activebar"></span>
+        <span class="stream-activebar"></span>
+      </div>
+    </div>
+    <div class="stream-selector-stream-summary">
+      <div class="stream-selector-stream-name">
+        WUOT      </div>
+      <div class="stream-selector-program-name"></div>
+    </div>
+  </a>
+</li>
+                      <li>
+  <a href="" class="triton-stream-selector-link"
+     data-stream-name="WUOT-HD2"
+     data-stream-key="WUOTHD2"
+     data-stream-ucs="5187f804e1c81ed3aaf95c5d">
+    <div class="stream-indicator">
+      <div class="triton-stream-inactive" title="not-playing"></div>
+      <div class="triton-stream-active" title="playing">
+        <span class="stream-activebar"></span>
+        <span class="stream-activebar"></span>
+        <span class="stream-activebar"></span>
+      </div>
+    </div>
+    <div class="stream-selector-stream-summary">
+      <div class="stream-selector-stream-name">
+        WUOT-HD2      </div>
+      <div class="stream-selector-program-name"></div>
+    </div>
+  </a>
+</li>
+                  </ul>
+      </div>
+    </div>
+    <div class="companion-leaderboard-container">
+  <div class="row">
+    <div class="small-12 column">
+          </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+    <div id="page-wrapper">
+            <div id="page-document" role="document" class="page">
+  <div class="nav-wrapper">
+    <nav>
+      <div class="top-bar contain-to-grid" data-topbar>
+        <ul class="title-area">
+          <li class="toggle-topbar menu-icon">
+            <a href="#">Menu</a>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <div class="table-queue" id="table-queue-fleximenu">
+  <ul  class="menu dropdown">
+<li>
+<a href="http://www.volsconnect.com/s/1341/utk/wide.aspx?sid=1341&amp;gid=2&amp;pgid=6729#wuot">Donate Now</a>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/news">News</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/About-WUOT-News">About WUOT News</a>
+</li>
+<li class="left">
+<a href="/programs/WUOT-Podcast">WUOT Podcast</a>
+</li>
+<li class="left">
+<a href="/programs/tenn-words">Tenn Words</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/programs/truckbeat#stream/0">TruckBeat</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/post/five-guns-0#stream/0">Five Guns</a>
+</li>
+<li class="left">
+<a href="/programs/dialogue-wuot">Dialogue</a>
+</li>
+<li class="left">
+<a href="/programs/method">The Method</a>
+</li>
+<li class="left">
+<a href="/special-features">Special Projects</a>
+</li>
+<li class="left">
+<a href="/WUOT-Awards-2013">Awards</a>
+</li>
+<li class="left">
+<a href="/Contact-WUOT-News">Contact WUOT News</a>
+</li>
+<li class="left">
+<a href="/programs/next-wave-radio-project">Next Wave Radio Project</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/programs">Programs</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/schedule">WUOT Schedule</a>
+</li>
+<li class="left">
+<a href="/schedule/WUOT-2">WUOT-2 Schedule</a>
+</li>
+<li class="left">
+<a href="/classical">Classical</a>
+</li>
+<li class="left">
+<a href="/jazz">Jazz</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/community">Community</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="https://www.facebook.com/wuotfm/events">Station/Member Events</a>
+</li>
+<li class="left">
+<a href="/wuot-sponsored-events">WUOT-Sponsored Events</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/community-calendar#stream/0">Community Calendar</a>
+</li>
+<li class="left">
+<a href="/outreach-projects">Outreach Projects</a>
+</li>
+<li class="left">
+<a href="/e-notes-monthly-newsletter">E-Notes Monthly Newsletter</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/support-wuot">Support</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://www.volsconnect.com/s/1341/utk/wide.aspx?sid=1341&amp;gid=2&amp;pgid=6729#wuot">Donate Now</a>
+</li>
+<li class="left">
+<a href="/membership">Membership</a>
+</li>
+<li class="left">
+<a href="/leadership-members">Leadership Members</a>
+</li>
+<li class="left">
+<a href="/evergreen-members">Evergreen Member Club</a>
+</li>
+<li class="left">
+<a href="/legacy-gifts">Legacy Gifts</a>
+</li>
+<li class="left">
+<a href="/wuot-endowment">WUOT Endowment</a>
+</li>
+<li class="left">
+<a href="/matching-employers">Matching Employers</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/corporate-support#stream/0">Corporate Support</a>
+</li>
+<li class="left">
+<a href="/volunteer">Volunteer</a>
+</li>
+<li class="left">
+<a href="/donate-your-vehicle">Donate Your Vehicle</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/support-wuot-enrolling-kroger-community-rewards-program#stream/0">Kroger Community Rewards Program</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://wuot.org/corporate-support#stream/0">Corporate Support</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/benefits">Benefits</a>
+</li>
+<li class="left">
+<a href="/sponsors">Sponsors</a>
+</li>
+<li class="left">
+<a href="/guidelines-and-copy-samples">Guidelines and Copy Samples</a>
+</li>
+<li class="left">
+<a href="/wuot-sponsored-events">WUOT-Sponsored Events</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/about-WUOT">About</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="/mission">Mission</a>
+</li>
+<li class="left">
+<a href="/telling-public-radios-story">Telling Public Radio&#039;s Story</a>
+</li>
+<li class="left">
+<a href="/public-media-code-integrity">Public Media Code of Integrity</a>
+</li>
+<li class="left">
+<a href="/annual-report">Annual Report</a>
+</li>
+<li class="left">
+<a href="/people/capacity/staff">Staff</a>
+</li>
+<li class="left">
+<a href="/station-history">Station History</a>
+</li>
+<li class="left">
+<a href="/news-releases">News Releases</a>
+</li>
+<li class="left">
+<a href="/employment">Employment</a>
+</li>
+<li class="left">
+<a href="/919-inc-board">91.9 Inc. Board</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://wuot.org/about-wuot">Contact</a>
+<ul  class="dropdown">
+<li class="left">
+<a href="http://wuot.org/people/capacity/staff">WUOT Staff</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/contact-wuot-news">WUOT News</a>
+</li>
+<li class="left">
+<a href="https://www.facebook.com/wuotfm?ref=hl">Via Facebook</a>
+</li>
+<li class="left">
+<a href="https://twitter.com/wuotfm">Via Twitter</a>
+</li>
+<li class="left">
+<a href="http://wuot.org/e-notes-monthly-newsletter">E-Notes Monthly Newsletter</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/search/google">Search</a>
+</li>
+</ul>
+</div>
+        </section>
+      </div>
+    </nav>
+  </div>
+
+  <div id="player" class="player">
+      </div>
+
+  
+  
+  
+  
+  <div class="row">
+    <main id="content" role="main" class="main-content small-12 columns">
+      <article class="story">
+        <a id="main-content"></a>
+        
+                                    
+        
+        
+        
+        
+        
+        
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-66697" class="node node-post node-promoted full row" about="/post/how-will-china-select-its-new-leaders-its-communist-party-congress" typeof="sioc:Item foaf:Document">
+  <div class="small-12 columns">
+        
+    
+    <h1 itemprop="name" class="post-title">
+      How Will China Select Its New Leaders At Its Communist Party Congress?    </h1>
+
+  	
+    
+          <div class="by-date">
+        <span class="submitted"><span property="dc:date dc:created" content="2017-10-17T12:51:00-04:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="submitted-label">By</span> <span class="name"><a href="/people/anthony-kuhn" rel="author">Anthony Kuhn</a></span></span></span>
+        <i class="bullet">&#8226;</i>
+        <span class="pub-date">Oct 17,  2017 </span>
+      </div>
+    
+    <div class="row">
+      <div class="large-2 columns sharing-and-programs">
+        
+        <div class="social-share clearfix"><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y&amp;text=How%20Will%20China%20Select%20Its%20New%20Leaders%20At%20Its%20Communist%20Party%20Congress%3F" class="social-share-item twitter" title="Tweet" target="_blank">Tweet</a><a href="http://facebook.com/sharer.php?u=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y&amp;t=How%20Will%20China%20Select%20Its%20New%20Leaders%20At%20Its%20Communist%20Party%20Congress%3F" class="social-share-item facebook" title="Share" target="_blank">Share</a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y" class="social-share-item googleplus" title="Google+" target="_blank">Google+</a><a href="mailto:?subject=How%20Will%20China%20Select%20Its%20New%20Leaders%20At%20Its%20Communist%20Party%20Congress%3F&amp;body=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y" class="social-share-item email" title="Email" target="_blank">Email</a></div>      </div>
+
+      <div class="medium-10 medium-pull-1 large-8 large-pull-2 columns post-body-container" >
+        <div class="post-body">
+          <div class="field field-name-field-image-gallery field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><ul class="gallery no-bullet"><li>
+  <figure>
+    <a title="A poster in Beijing features Chinese President Xi Jinping and a slogan reading &quot;Chinese Dream, People's Dream.&quot; Xi is preparing to embark on a second five-year term this week." href="http://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201710/558098463.jpg" class="noexit lightbox">
+      <img src="http://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/201710/558098463.jpg"   alt="A poster in Beijing features Chinese President Xi Jinping and a slogan reading &quot;Chinese Dream, People&#039;s Dream.&quot; Xi is preparing to embark on a second five-year term this week.">
+          </a>
+    <div class="image-meta">
+  <figcaption>
+    <div class="caption">A poster in Beijing features Chinese President Xi Jinping and a slogan reading "Chinese Dream, People's Dream." Xi is preparing to embark on a second five-year term this week.</div>
+    <div class="attribution">
+  <span class="credit">Greg Baker</span>
+  /  <span class="agency">AFP/Getty Images</span>
+</div>
+  </figcaption>
+</div>
+  </figure>
+</li>
+</ul></div></div></div><div class='api-pub-date'>Originally published on October 17, 2017 1:34 pm </div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Preparations for a major shakeup of China's Communist Party leadership are all but complete, ahead of a national congress that begins in Beijing on Wednesday. President Xi Jinping, the party boss, is expected to cement his already considerable power and embark on a second five-year term. </p><p>Last Saturday, in an auditorium bedecked with red flags and hammer-and-sickle emblems, the party's outgoing central committee members raised their hands in unison to approve the congress's final preparations. </p><p>Beijing's streets are lined with security personnel, and police have hustled dissidents out of town on enforced "vacations" ahead of the country's most important political event. </p><p>Held every five years, the National Congress of the Chinese Communist Party is a piece of political theater that <a href="https://www.uvic.ca/socialsciences/politicalscience/people/directory/wuguoguang.php">University of Victoria political scientist Wu Guoguang </a>describes as being at once "holy" and "hollow." </p><p>When it comes to understanding exactly how the leader of the world's most populous nation is chosen, "In fact, nobody knows," Wu says. "It's jungle politics," he adds. "The party does not play the game by its own rules." </p><p>According to the Communist Party's charter, China's nearly 90 million party members select nearly 2,300 delegates, who in turn vote for a roughly 200-member central committee. That committee then elects a 25-odd-member Politburo, a standing committee having between five and nine members and the party's general secretary or top leader. </p><p>But in fact, "The election is a formality," Wu says. "The positions are decided in advance of the congress." Then they're given to the delegates to rubber-stamp. </p><p>The actual selection of the party leadership, Wu adds, is done "in a black box" behind closed doors. </p><p>In other words, while power appears to flow from the bottom up, it actually goes from the top down. </p><p>Experts' best guess, Wu says, is that around 20 people, including serving and retired members of the Politburo standing committee, bargain in secret to decide the next leader several months before the congress. </p><p>In theory, the national congress is the party's highest organ of power. But Wu, the author of <em>China's Party Congress: Power, Legitimacy, and Institutional Manipulation, </em>who helped draft political reforms for the late Chinese Premier and Communist Party boss <a href="https://www.britannica.com/biography/Zhao-Ziyang">Zhao Ziyang</a>, says that the leadership has many ways to manipulate the institution to make sure nobody it dislikes is ever nominated — much less elected. </p><p>One such device is a sort of straw poll or dry run ahead of the congress, so that leaders can sniff out and neutralize opposition to their preferred candidates. </p><p>The selection process is full of uncertainty, says Wu. This uncertainty may be behind the event's massive security operations, to which "every blade of grass, every tree looks like an enemy soldier," as the old Chinese saying goes. </p><p>Part of the problem is that so many successions under communist rule have ended in failure. Three of Mao Zedong's anointed heirs, Liu Shaoqi, Lin Biao and Hua Guofeng, were purged or sidelined. </p><p>Liu was purged and persecuted during the Cultural Revolution and died in 1969. Lin died in a 1971 plane crash, after an alleged failed coup attempt. Hua served as party chairman for five years until Deng Xiaoping pushed him aside in 1981. </p><p>During the 1980s, supreme leader Deng sacked two of his appointed successors in a row, ostensibly because they were soft on dissent. </p><p>Experts point out that China has neither a hereditary dynasty nor competitive elections. To restore a semblance of order to the leadership selection process in the years following the June 4, 1989, massacre near Tiananmen Square, the party established some unwritten rules or norms to govern it. </p><p>The most important of these is an informal rule that Politburo standing committee members must retire at age 68. </p><p>But experts believe that Xi is not satisfied with the informal rules and intends to bend, break or scrap them altogether. </p><p>And if there is any unwritten rule experts say Xi cannot tolerate, it is one that could hinder his ability to designate his own successor. In Chinese politics, this is a guarantee of a retired leader's survival and continuing behind-the-scenes influence. </p><p>Years ago, supreme leader Deng is believed to have anointed two of Xi's predecessors. They in turn apparently designated two men, Sun Zhengcai and Hu Chunhua, as Xi's possible successors. </p><p>But in July, Sun was sacked for corruption and violating party discipline as party boss of southwest China's Chongqing city, and Xi signaled that he would not accept anyone else's choice as his heir. Hu remains in place, at least for now. </p><p>Mao, Deng and many Chinese emperors centuries before them essentially ruled until they died. China's Constitution mandates a two-term limit for its presidents, but there are no term limits for party leaders, who are above the president. </p><p>Xi serves as president, party leader and head of the military. During his first term, he outdid his predecessors with tough crackdowns on both dissent and official corruption at home along with a muscular military posture to back up China's territorial claims in the South China Sea and the China-India border. Experts expect more of the same from a second Xi term. </p><p>Xi is not the first to challenge the party's informal leadership succession rules. Bo Xilai, a flamboyant politician who also served as Chongqing party boss, questioned personnel arrangements for the 18th party congress in 2012, as he sought to enter the leadership's top ranks. He challenged the leadership lineup — which included Xi — that was decided by Xi's predecessors. The following year, Bo was <a href="http://www.npr.org/2013/09/22/224922829/chinese-politician-sentenced-to-life-in-prison">sentenced</a> to life in prison on corruption charges. </p><p><a href="http://sosc.ust.hk/cgi-bin/people/people_index.php?action=view&amp;type=F&amp;profile_id=231">Hong Kong University of Science and Technology professor Ding Xueliang </a>argues that Xi has wanted to overhaul the succession process for years, especially since Bo's challenge. </p><p>"Even now," Ding says, "Xi still talks about the 'residual toxic influence' of Bo Xilai in Chongqing," presumably a reference to the fact that some of Bo's allies or subordinates remain in positions of power. </p><p>Indeed, Xi has spent much of his first term getting rid of the masses of bureaucrats installed by, and still loyal to, his predecessors, lest they rebel or obstruct the implementation of his policies. </p><p>This reflects the fact, Ding observes, that personal ties remain paramount in Chinese politics and bureaucrats tend to "obey those who appointed them." </p><p>Communist personnel policies, Ding notes, make it hard to sack bureaucrats before they retire, and the bureaucrats are not subject to much independent oversight. </p><p>Ding argues that Xi has used his mass anti-corruption campaign as a tool to knock out not just rival politicians and obstinate bureaucrats but also party congress delegates. He notes that Chairman Mao did the same during the 1966-1975 Cultural Revolution. </p><p>At the 19th party congress, experts will be looking at several key details. Here are some of the questions they are asking: </p><ul><li>Will Xi show any indication that he might seek a third term as president, beginning in 2022? Or will he retire from his party and government posts but hang on as military chief, as some of his predecessors have done?</li> <p></p></ul><p> </p><ul><li>Will<a href="https://www.nytimes.com/2017/03/02/world/asia/xi-jinping-china-retirement-rules.html?_r=0"> Wang Qishan</a>, Xi's 69-year-old right-hand man and anti-corruption czar, retain his job? He is already past the age after which no party leaders are supposed to be appointed to new positions, according to an informal rule.</li> <p></p></ul><p> </p><ul><li>Will Xi change his job title from general secretary of the Communist Party to chairman, the title Mao used?</li> <p></p></ul><p> </p><ul><li>Will Xi name a successor during the party congress?</li> <p></p></ul><p> </p><ul><li>Will Xi's ideas be written into the party charter as "Xi Thought" or "Xi Theory," as were the ideas of Mao and Deng? Or will his ideas be written into the charter without Xi's name, as was the case with Xi's two less powerful immediate predecessors?</li> <p></p></ul><p>If Xi breaks the informal rules, observes Ding, the Hong Kong professor, it's not clear what new ones he might replace them with. </p><p>And maybe it doesn't matter. Neither formal nor informal rules have done much to constrain China's leaders. Deng famously remained paramount leader in retirement with no higher official title than honorary chairman of the China Bridge Association. </p><p>Political arrangements in China are rarely explicit, Ding muses. "After thousands of years of Chinese politics, rulers have developed innumerable methods to get what they want," he says. "It's never so simple."<br /></p><div class="fullattribution">Copyright 2017 NPR. To see more, visit http://www.npr.org/.<img src="https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&amp;utmdt=How+Will+China+Select+Its+New+Leaders+At+Its+Communist+Party+Congress%3F&amp;utme=8(APIKey)9(MDAxODM0MjcxMDEyMTY4NDQ0MzA5ZWJiNg004)" /></div> <p></p></div></div></div><div class="social-share bottom"><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y&amp;text=How%20Will%20China%20Select%20Its%20New%20Leaders%20At%20Its%20Communist%20Party%20Congress%3F" class="social-share-item twitter" title="Tweet" target="_blank">Tweet</a><a href="http://facebook.com/sharer.php?u=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y&amp;t=How%20Will%20China%20Select%20Its%20New%20Leaders%20At%20Its%20Communist%20Party%20Congress%3F" class="social-share-item facebook" title="Share" target="_blank">Share</a><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y" class="social-share-item googleplus" title="Google+" target="_blank">Google+</a><a href="mailto:?subject=How%20Will%20China%20Select%20Its%20New%20Leaders%20At%20Its%20Communist%20Party%20Congress%3F&amp;body=http%3A%2F%2Fwww.tinyurl.com%2Fy7eofb7y" class="social-share-item email" title="Email" target="_blank">Email</a></div>        </div>
+
+        <div class="related">
+                  </div>
+      </div>
+    </div>
+      </div>
+</div>
+  </div>
+</div>
+  </div>
+              </article>
+    </main>
+  </div>
+
+  
+  <div class="bottom-ads">
+    <div class="bottom-ads-inner"></div>
+  </div>
+</div>
+
+<footer class="footer" role="contentinfo">
+  <div class="row">
+    <div class="footer-affiliate-container small-centered columns">
+                  <div class="region region-footer">
+    <div id="block-pi-table-queue-partnerfooter" class="block block-pi-table-queue">
+
+    
+  <div class="content">
+    <div class="table-queue" id="table-queue-partnerfooter">
+  <p class="partnerslabel">
+  </p>
+<div class="item-list"><ul class="partner-logos"><li class="first"><a href="http://www.utk.edu" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuot/files/styles/partner_footer_logo/public/201506/38752-38752_50_pixels_height.png" alt="" title="" /></a></li>
+<li><a href="http://www.americanpublicmedia.org/" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuot/files/styles/partner_footer_logo/public/201506/apm-logo.png" alt="APM" title="APM" /></a></li>
+<li><a href="http://www.bbc.com" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuot/files/styles/partner_footer_logo/public/201506/bbc-logo.png" alt="BBC" title="BBC" /></a></li>
+<li><a href="http://www.prx.org" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuot/files/styles/partner_footer_logo/public/201506/prx-logo.png" alt="PRX" title="PRX" /></a></li>
+<li class="last"><a href="http://www.npr.org" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wuot/files/styles/partner_footer_logo/public/201506/npr-logo.png" alt="NPR" title="NPR" /></a></li>
+</ul></div></div>
+  </div>
+</div>
+<div id="block-pi-table-queue-auxiliarylinksfooter" class="block block-pi-table-queue">
+
+    
+  <div class="content">
+    <div class="table-queue" id="table-queue-auxiliarylinksfooter">
+  <div class="item-list"><ul class="auxiliary-links"><li class="first"><span>&copy; 2017 WUOT </span></li>
+<li>209 Communications Building, University of Tennessee, Knoxville, TN, 37996-0322</li>
+<li><a href="http://wuot.org/about-wuot" target="_self">About Us</a></li>
+<li class="last"><a href="http://www.volsconnect.com/s/1341/utk/wide.aspx?sid=1341&amp;gid=2&amp;pgid=6729#wuot" target="_blank">Support WUOT</a></li>
+</ul></div></div>
+  </div>
+</div>
+  </div>
+          </div>
+  </div>
+</footer>
+      <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script type="text/javascript" src="http://widgets.listenlive.co/1.0/tdwidgets.min.js?oxymgx"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ (function ($) { $(document).foundation({ topbar: { custom_back_text: true, back_text: 'back', mobile_show_parent_link: true } }); }(jQuery));
+//--><!]]>
+</script>
+    </div>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":558,"atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

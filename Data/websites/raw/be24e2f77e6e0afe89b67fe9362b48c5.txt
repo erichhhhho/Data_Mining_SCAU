@@ -1,0 +1,1965 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+	<meta http-equiv="Expires" content="-1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+																																			
+				<meta name="keywords" content="Japan,China,send,sweet,words" />
+	<meta name="description" content="TOKYO -- It was a fresh sign of rapidly warming relations when Japanese Prime Minister Shinzo Abe made a surprise appearance at a gala hosted by the C" />
+
+			<meta name="date" content="2017-10-09 08:00:00" />
+	
+				<meta name="twitter:card" content="summary_large_image" />
+				<meta name="twitter:site" content="@NAR" />
+	<meta property="og:title" content="China up close: Japan and China send sweet words, for now- Nikkei Asian Review" />
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="TOKYO -- It was a fresh sign of rapidly warming relations when Japanese Prime Minister Shinzo Abe made a surprise appearance at a gala hosted by the C" />
+									<meta property="og:image" content="https://asia.nikkei.com/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171007_abe-at-china-reception/7958532-1-eng-GB/20171007_Abe-at-China-reception_article_main_image.jpg">
+
+				<title>China up close: Japan and China send sweet words, for now- Nikkei Asian Review</title>
+	<meta property="og:url" content="https://asia.nikkei.com/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" />
+	<meta property="og:site_name" content="Nikkei Asian Review" />
+	<link rel="canonical" href="https://asia.nikkei.com/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" />
+	<link rel="amphtml" href="https://asia.nikkei.com/amp/Features/China-up-close/Japan-and-China-send-sweet-words-for-now">
+				<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+	<link rel="stylesheet" href="/css/jquery-ui-1.10.3.custom.min.css" />
+	<link rel="stylesheet" href="/css/common_v022.css" />
+	<link rel="stylesheet" href="/css/style_v050.css" />
+	<link rel="stylesheet" href="/css/custom/modal_v007.css" />
+	<link rel="stylesheet" href="/extension/ezfind/design/standard/stylesheets/ezajax_autocomplete.css" />
+	<script src="/JavaScript/jquery-1.10.1.min.js"></script>
+	<script src="/JavaScript/jquery-ui-1.10.3.custom.min.js"></script>
+	<script src="/JavaScript/nar_v043.js"></script>
+	<script src="/JavaScript/slider_v001.js"></script>
+
+												<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement("script");
+			gads.async = true;
+			gads.type = "text/javascript";
+			var useSSL = "https:" == document.location.protocol;
+			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+			node =document.getElementsByTagName("script")[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+																																										googletag.defineSlot('/7049/NikkeiEnglish_300*250_1', [300, 250], 'div-gpt-ad-1375148072299-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_300*250_2', [300, 250], 'div-gpt-ad-1375260461786-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_300*250_3', [300, 250], 'div-gpt-ad-1404116812193-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_InRead_Article', [1, 1],'div-gpt-ad-1396427317542-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_InBoard_Article', [1, 1], 'div-gpt-ad-1410933087819-0').addService(googletag.pubads());
+																	
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+		});
+	</script>
+
+
+	
+	
+	<script type="text/javascript">
+		var YUI3_config = {base: "/extension/ezjscore/design/standard/lib/yui/3.9.0/build/", modules: {}, combine: false};
+		var YUI2_config = {base: "/extension/ezjscore/design/standard/lib/yui/2.8.2/build/", modules: {}, combine: false};
+	</script>
+
+		<script type="text/javascript" src="/js/7bebe13.js" ></script>
+	
+		<script type="text/javascript"><!--
+var url = window.location.href;
+var index = url.indexOf("/", 8);
+var path = "/";
+if(index >= 0){
+ path = url.substring(index);
+}
+if(path != "/member/register/process"){
+location.replace("/member/auth/ip?return_url=" + path);
+}
+--></script>				<script type="text/javascript">
+				<!--
+		user_category ="";
+	
+					login_flag = false;
+					var authority = "A1";
+					var memberId = "";
+					var aid = "";
+					var c_code = "";
+					var contractId = "" ;
+					var contractName = "" ;
+					var contractMessage = "" ;
+
+				-->
+				</script>
+
+
+
+
+
+		
+			<script type="text/javascript" ><!--
+	
+	$(function() {
+		if(("user_section" in window) && ("user_status" in window)){
+			if(user_category == 5){
+				if(!NAR_js.has_cookie('cpm')) {
+					if(user_section == 1){
+						NAR_js.modal_gd('10_03');
+						NAR_js.set_oneday_cookie('cpm');
+					}else{
+						if(user_reserve_status == 1){
+							var now = new Date();
+							var user_expire_breore2 = new Date(user_limit);
+							user_expire_breore2.setDate(user_expire_breore2.getDate() - 2);
+							if(now >= user_expire_breore2){
+								NAR_js.modal_gd('10_02');
+								NAR_js.set_oneday_cookie('cpm');
+							}else{						
+								var user_expire_breore7 = new Date(user_limit);
+								user_expire_breore7.setDate(user_expire_breore7.getDate() - 7);
+								if(now >= user_expire_breore7){
+									NAR_js.modal_gd('10_01');
+									NAR_js.set_oneday_cookie('cpm');
+								}
+							}
+						}
+					}
+				}
+			}else{
+				if (user_section == 1 && user_status == 2){
+					if(!NAR_js.has_cookie('odm')) {
+						NAR_js.modal_gd('02_01');
+						NAR_js.set_oneday_cookie('odm');
+					}
+				}
+			}
+		}
+	});
+	--></script>
+	
+<script src="//assets.adobedtm.com/43692acb8f62beca52063bd53825dcc138f4617b/satelliteLib-f0b759d61953ea549c6cc70abb26c8ddca3274f5.js"></script>
+				<script type="text/javascript" src="/js/978c9fe.js"></script>
+	<script type="text/javascript">
+<!--
+	articleAuthor = "KATSUJI NAKAZAWA, Nikkei senior staff writer";
+-->
+</script>
+		<script type="text/javascript">
+		<!--
+										release_flag = false;
+						article_limit_free = Number( "2" );
+			article_limit = Number( "2" );
+			
+			article_limit_alert_free = "1:1,2:1".split(",");
+			var article_limit_alert_free_list = [];
+			for (var prop in article_limit_alert_free){
+				article_limit_alert_free_list.push( article_limit_alert_free[prop].split(":"));
+			}
+			article_limit_alert = "1:1,2:1".split(",");
+			var article_limit_alert_list = [];
+			for (var prop in article_limit_alert){
+				article_limit_alert_list.push( article_limit_alert[prop].split(":"));
+			}
+
+			expiration_notice = Number( "7" );
+			
+			all_campaign_aid = "";
+			all_campaign_end_date = "";
+			
+		-->
+		</script>
+
+
+</head>
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function() {
+        // FB initialize 
+        FB.init({
+          appId      : '250799988299057',
+          xfbml      : true,
+          version    : 'v2.9'
+        });
+        // Subscribe to the Like event
+        FB.Event.subscribe('edge.create',function(response){
+                var narURL = window.location.href;
+                ga('send', 'social', {
+                    'socialNetwork': 'Facebook',
+                    'socialAction': 'follow',
+                    'socialTarget': narURL
+                 });
+                ga('send', 'event', 'Facebook', 'follow', 'Facebook-follow',0, {nonInteraction:true});
+        });
+        // Subscribe to the UnLike event
+        FB.Event.subscribe('edge.remove',function(response){
+                var narURL = window.location.href;
+                ga('send', 'social', {
+                    'socialNetwork': 'Facebook',
+                    'socialAction': 'unfollow',
+                    'socialTarget': narURL
+                 });
+                ga('send', 'event', 'Facebook', 'unfollow', 'Facebook-unfollow',0, {nonInteraction:true});
+        });
+    };
+(function(d, s, id){
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+  t = window.twttr || {};
+  if (d.getElementById(id)) return;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+  return t;
+}(document, "script", "twitter-wjs"));
+</script>
+
+		<!-- /#header -->
+		<div id="header">
+			<div class="header-banner">
+							</div>
+			<div class="header-content">
+				<div class="logo"><a href="/">
+					<!--[if lte IE 8]><img src="/images/img_logo.png" alt="Nikkei Asian Review" /><![endif]-->
+					<!--[if gte IE 9]><!--><img src="/images/img_logo.svg" width="288" height="51" alt="Nikkei Asian Review" /><!--<![endif]-->
+				</a></div>
+				<div class="header-tool">
+					<div>
+					<ul class="base-list">
+		<script type="text/javascript"><!--
+var url = window.location.href;
+var index = url.indexOf("/", 8);
+var path = "/";
+if(index >= 0){
+ path = url.substring(index);
+}
+if(path != "/member/register/process"){
+location.replace("/member/auth/ip?return_url=" + path);
+}
+--></script>
+				<li class="sp-l-menu ct_hidden"><a href="javascript:void(0)" class="js_balloon ga-login-text" id="login-text">Log in</a></li>
+	<li class="sp-l-menu"><a href="/member/register/?n_cid=NARAN040" class="ga-subscribe-text" id="subscribe-text">Subscribe</a></li>
+	<li><a href="/info/about">About Nikkei Asian Review</a></li>
+
+</ul>						<div class="header-content-search">
+							<div>
+							<form name="searchHeadArticles" action="/search/find">
+								<div class="search-box" id="ezautocomplete" >
+									<input id="SearchText" class="pHolder" name="search_keyword" autocomplete="off" type="text" title="Search articles" />
+									<a href="#">search</a>
+									<div id="header-autocomplete-rs"></div>
+								</div>
+							</form>
+							<script language="JavaScript" type="text/javascript">
+								jQuery('#header-autocomplete-rs').css('width', '174px');
+								var autocomplete = new eZAJAXAutoComplete({
+									url: "/ezjscore/call/custom::autocomplete",
+									inputid: 'SearchText',
+									containerid: 'header-autocomplete-rs',
+									minquerylength: 2,
+									resultlimit: 5
+								});
+							</script>
+							</div>
+							<div>
+							<form name="searchHeadCompanies" action="/Company/SearchResults">
+								<div class="search-box" id="ezautocomplete" >
+									<input id="SearchText" class="pHolder" name="search_keyword" autocomplete="off" type="text" title="Search companies" />
+									<a href="#">search</a>
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+																				<div id="login_before" class=""><span id="subscribe-bnr" class="ga-subscribe-bnr"><a href="https://regist.asia.nikkei.com/member/register/?n_cid=NARAN041"><img src="/static/pr/pc_header160x55_save44_20170215.png" alt="" /></a></span></div>
+						<div id="login_after" class="display_none"><a href="/magazine/?n_cid=NARAN068"><img src="/static/pr/pc_header160x55_Read_the_Magazine_20170215.png" alt="" /></a></div>
+					<script language="JavaScript" type="text/javascript"> NAR_js.pr_header(); </script>
+					</div>
+				<div id="modal-login-balloon">
+		<div class="js_form-login-balloon_loading-layer" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255, 255, 255, 0.3); z-index: 120; display: none;"></div>
+		<img src="/images/bg_load_2.gif" alt="loading..." class="js_form-login-balloon_loading-img" style="position: absolute; top: 50%; left: 50%; margin-left: -24px; margin-top: -24px; z-index: 150; display: none;" />
+						<form id="js_form-login-balloon" class="bg" action="https://regist.asia.nikkei.com/member/auth/login/process">
+		<div class="login-form">
+			<h3 class="title">Log in</h3>
+			<div class="input-form">
+				<dl>
+					<dt>E-mail address/ID</dt>
+					<dd class="js_valid js_notnull js_type_loginId">
+						<input type="text" class="js_vc-mail" name="formLogin[loginId]" id="js_form-login-balloon_loginId" msg_require="Please enter your e-mail address/ID" msg_type= "Please enter valid e-mail address/ID"  maxlength="100"  style="ime-mode: disabled;"/>
+						<p class="error"></p>
+					</dd>
+					<dt>Password<span class="arrow"><a href="/member/password/" tabindex="-1">Forgot password?</a></span></dt>
+					<dd class="js_valid js_notnull">
+						<input type="password" name="formLogin[password]" id="js_form-login-balloon_password" msg_require="Please enter your password" maxlength="30" />
+						<p class="error"></p>
+					</dd>
+				</dl>
+				<div><label><input type="checkbox" checked="checked" name="formLogin[rememberMe]" id="js_form-login-balloon_rememberMe"/>Remember me</label></div>
+																<div class="login-btn"><button type="submit" id="login-balloon-submit" class="general-submit-btn js_btn-submit"><span>Log in</span></button></div>
+								<input type="hidden" name="formLogin[mode]" id="js_form-login-balloon_mode" value="NORMAL"/>
+			</div>
+		</div>
+	</form>
+	<a class="close-btn js_close">close</a>
+	<script type="text/javascript" ><!--
+	$(document).ready( function() { $("#js_form-login-balloon").submit( function() { NAR_js.login($("#js_form-login-balloon")); return false; }); });
+	--></script>
+	</div><!-- /#login-balloon -->
+			</div>
+			<div class="navigation active">
+				<div class="inner">
+					<ul>
+<li><a href="/">Home</a></li>
+<li class="list-open">
+<a href="/Spotlight/">Spotlight</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Spotlight/China-s-party-congress-2017/">China's party congress 2017</a></li> 
+<li><a href="/Spotlight/Japan-s-election/">Japan's election</a></li> 
+<li><a href="/Spotlight/Kobe-Steel-data-scandal/">Kobe Steel data scandal</a></li> 
+<li><a href="/Spotlight/North-Korea-crisis/">North Korea crisis</a></li> 
+<li><a href="/Spotlight/Rohingya-crisis/">Rohingya crisis</a></li> 
+<li><a href="/Spotlight/Toshiba-in-Turmoil/">Toshiba in Turmoil</a></li> 
+<li><a href="/Spotlight/China-India-Tensions/">China-India Tensions</a></li>
+<li><a href="/Spotlight/Duterte-s-Philippines/">Duterte's Philippines</a></li> 
+<li><a href="/Spotlight/The-Trump-effect/">The Trump effect</a></li> 
+<li><a href="/Spotlight/Thailand-s-Yingluck-saga/">Thailand's Yingluck saga</a></li>
+<li><a href="/Spotlight/Auto-Industry-Upheaval2/">Auto Industry Upheaval</a></li> 
+</ul>
+</div>
+</li>
+
+<li class="list-open">
+<a href="/Politics-Economy/">Politics &amp; Economy</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Politics-Economy/Policy-Politics">Policy & Politics</a></li>
+<li><a href="/Politics-Economy/Economy/">Economy</a></li>
+<li><a href="/Politics-Economy/International-Relations/">International Relations</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Business/">Business</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Business/Companies/">Companies</a></li>
+<li><a href="/Business/AC">&nbsp;&nbsp;Asia300</a></li>
+<li><a href="/Business/Trends/">Trends</a></li>
+<li><a href="/Business/Deals">Deals</a></li>
+<li><a href="/Business/Executive-Lounge">Executive Lounge</a></li>
+<li><a href="/Business/Consumers/">Consumers</a></li>
+
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Markets/">Markets</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Markets/Capital-Markets/">Capital Markets</a></li>
+<li><a href="/Markets/Equities">Equities</a></li>
+<li><a href="/Markets/Currencies/">Currencies</a></li>
+<li><a href="/Markets/Commodities/">Commodities</a></li>
+<li><a href="/Markets/Property/">Property</a></li>
+<li><a href="/Markets/Tokyo-Market/">Tokyo Market</a></li>
+<li><a href="/Markets/Nikkei-PMI/">Nikkei PMI</a></li>
+<li><a href="/Markets/Nikkei-Markets/">Nikkei Markets</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Tech-Science/">Tech &amp; Science</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Tech-Science/Tech/">Tech</a></li>
+<li><a href="/Tech-Science/Science/">Science</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Viewpoints/">Viewpoints</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Viewpoints-archive/Editorial/">Editorial</a></li>
+</ul>
+</div>
+</li>
+
+<li class="list-open">
+<a href="/Life-Arts/">Life & Arts</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Life-Arts/Life/">Life</a></li>
+<li><a href="/Life-Arts/Arts/">Arts</a></li>
+<li><a href="/Life-Arts/Japan-Trends/">Japan Trends</a></li>
+<li><a href="/Life-Arts/Education/">Education</a></li>
+<li><a href="/Life-Arts/Milestone/">Milestone</a></li>
+</ul>
+</div>
+</li>
+
+<li class="list-open">
+<a href="/Features">Features</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Features/Kenzo-Takada">My Personal History: Kenzo Takada</a></li>
+<li><a href="/Features/Cover-story">Cover story</a></li>
+<li><a href="/Features/Business-Insight">Business Insight</a></li>
+<li><a href="/Features/Company-in-focus">Company in focus</a></li>
+<li><a href="/Features/CEO-in-the-news">CEO in the news</a></li>
+<li><a href="/Features/Singapore">The Future of Singapore</a></li>
+<li><a href="/Features/China-up-close">China up close</a></li>
+<li><a href="/Features/Carlos-Ghosn">Carlos Ghosn</a></li>
+<li><a href="/Features/BOJ-watch">BOJ watch</a></li>
+<li><a href="/Features/FT-Confidential-Research">FT Confidential Research</a></li>
+<li><a href="/Features/Dhanin-Chearavanont">Dhanin Chearavanont</a></li>
+<li><a href="/Features/Tea-Leaves">Tea Leaves</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a>Regions</a>
+<div class="list-menu region">
+<table>
+<tbody><tr>
+<th rowspan="3">East Asia</th>
+<td><a href="/search/findByRegion?facet_region=1">China</a></td>
+<td><a href="/search/findByRegion?facet_region=4">Japan</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=3">South Korea</a></td>
+<td><a href="/search/findByRegion?facet_region=5">Taiwan</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=6">Hong Kong, Macau</a></td>
+<td><a href="/search/findByRegion?facet_region=2">North Korea</a></td>
+</tr>
+<tr>
+<th rowspan="4">Southeast Asia</th>
+<td><a href="/search/findByRegion?facet_region=13">Indonesia</a></td>
+<td><a href="/search/findByRegion?facet_region=9">Thailand</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=12">Philippines</a></td>
+<td><a href="/search/findByRegion?facet_region=10">Malaysia</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=11">Singapore</a></td>
+<td><a href="/search/findByRegion?facet_region=7">Vietnam</a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="/search/findByRegion?facet_region=8">Myanmar, Cambodia, Laos</a></td>
+</tr>
+<tr>
+<th>South Asia</th>
+<td><a href="/search/findByRegion?facet_region=14">India</a></td>
+<td><a href="/search/findByRegion?facet_region=15">Pakistan, Bangladesh, <br>Sri Lanka, Nepal, Bhutan</a></td>
+</tr>
+<tr>
+<th>Oceania</th>
+<td colspan="2"><a href="/search/findByRegion?facet_region=18">Australia, New Zealand, Pacific Islands</a></td>
+</tr>
+<tr>
+<th rowspan="3">Others</th>
+<td><a href="/search/findByRegion?facet_region=16">Mongolia, Central Asia, <br>Afghanistan</a></td>
+<td><a href="/search/findByRegion?facet_region=17">Russia, Caucasus</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=24">North America</a></td>
+<td><a href="/search/findByRegion?facet_region=25">Latin America</a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="/search/findByRegion?facet_region=23">Europe</a></td>
+</tr>
+</tbody></table>
+
+</div>
+</li>
+
+</ul>
+				</div>
+			</div>
+		</div><!-- /#header -->
+
+		<div id="content">
+						<div class="primary">
+												
+							<div class="topic-path">
+					<ul>
+						<li class=><a href="/Features">Features</a></li><li class=last><a href="/Features/China-up-close">China up close</a></li>
+					</ul>
+				</div>
+					
+													<div class="article detail-area">
+					<div class="icon-area">
+						<ul class="snsicon-list">
+														<li class="print" style="display:none;"><a href="/print/article/302447" target="_blank">Print</a></li>
+																								<li class="Facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://s.nikkei.com/2g3Om9D&amp;t=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now-%20Nikkei%20Asian%20Review" target="_blank">Facebook</a></li>
+							<li class="Twitter"><a href="https://twitter.com/share?url=http://s.nikkei.com/2g3Om9D&amp;text=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now-%20Nikkei%20Asian%20Review" target="_blank">Twitter</a></li>
+							<li class="LinkedIn"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://s.nikkei.com/2g3Om9D&amp;title=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now-%20Nikkei%20Asian%20Review" target="_blank">LinkedIn</a></li>
+							<li class="Google"><a href="https://plus.google.com/share?url=http://s.nikkei.com/2g3Om9D" target="_blank">Google+</a></li>
+							<li class="Mail"><a href="mailto:?subject=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now&amp;body=Here%20is%20something%20from%20Nikkei%20Asian%20Review%20that%20might%20interest%20you%3A%0D%0AChina%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now%0D%0Ahttp://s.nikkei.com/2g3Om9D">Mail</a></li>
+							<li class="save"><a href="javascript:void(0)" class="general-btn js_btn-submit"><span>Save</span></a></li>
+								</ul>
+						<div class="icon-area-modal">
+							<div class="icon-area-modal-inner">
+								<!-- facebook -->
+								<span class="Facebook-save-top" ga-event-action="save-top">
+								<div class="fb-save" data-uri="http://s.nikkei.com/2g3Om9D" data-size="large"></div>
+								</span>
+								<!-- Flipboard -->
+								<span class="Flipboard">
+								<a class="Flipboard-share" data-flip-widget="flipit" href="https://flipboard.com">Add to Flipboard Magazine.</a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+								</span>
+							</div>
+						</div>
+					</div>
+									
+											<div class="article-box">
+						<div class="detail">
+							<div class="feature-article">
+														<div class="date-area">
+																												<span class="date-area-date">October 9, 2017 8:00 am JST</span>
+																										</div>
+																	<div class="sub-title">China up close</div>
+														<h1 class="title">Japan and China send sweet words, for now</h1>
+													<p class="subhead01">Beijing to watch Abe&#039;s election gamble before rapprochement </p>
+									                                                                <p>KATSUJI NAKAZAWA, Nikkei senior staff writer</p>
+										</div>
+
+																			
+																		
+			
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171007_abe-at-china-reception/7958532-1-eng-GB/20171007_Abe-at-China-reception_article_main_image.jpg" width="580" alt="" />
+							
+														
+																																		<p class="img-caption">
+								
+																									Japanese Prime Minister Shinzo Abe delivers a speech at a Tokyo hotel during a party hosted by the Chinese embassy on Sept. 28. (Photo by Maho Obata)
+								
+																																	
+								</p>
+	
+														
+								</div>
+				</div>
+
+						
+					<div class="article-box detail">
+										<div class="wysiwyg_area">
+							<div class="articleBodyText">
+								<p>TOKYO -- It was a fresh sign of rapidly warming relations when Japanese Prime Minister Shinzo Abe made a surprise appearance at a gala hosted by the Chinese embassy in Tokyo on Sept. 28.</p><div class="page_limit free"></div><div class="page_limit"></div><p>The party was held to celebrate China's Oct. 1 National Day and the 45th anniversary of the normalization of diplomatic ties between the two countries. More than 2,000 guests -- including Foreign Minister Taro Kono and Toshihiro Nikai, the secretary general of Abe's Liberal Democratic Party -- crowded into the Hotel New Otani's banquet hall.</p><p>One day earlier, Abe had dissolved the lower house, the more powerful of the Diet's two chambers, and called elections for Oct. 22. So the following evening the prime minister had to brave the rain to give a speech in the streets of Tokyo's Shibuya Ward before rushing off to the party.</p><p>Sino-Japanese relations have been strained since the autumn of 2012. Back then, a wave of anti-Japanese demonstrations swept across China, a reaction to the Japanese government's nationalization of the Senkaku Islands. Chinese call the uninhabited islets in the East China Sea the Diaoyu Islands. By either name, they have been a source of tension between the two neighbors for decades now.</p><p>On the same day of the gala, Abe and Chinese Premier Li Keqiang exchanged congratulatory messages; it was the first such exchange in 10 years.</p><p>There was another first when Abe got to the party. No Japanese prime minister had attended a Chinese embassy-hosted party for 15 years. Abe only penciled it into his schedule a few days earlier.</p><p><b>Hardliner no more</b></p><p>During the party, Japanese government and ruling coalition leaders took turns on stage, giving speeches that painted rosy pictures of Sino-Japanese relations.</p><p>At the outset of his speech, Abe greeted the other guests with a "<i>wan shang hao</i>," Chinese for "good evening," as if he were trying to erase his image as a hard-liner toward China. Abe then expressed a strong desire to further improve Sino-Japanese relations through top-level contacts.</p><p>The prime minister specifically said he wants to host a summit of leaders from Japan, China and South Korea by the end of this year and that he would like Li to attend.</p><div class="page_break auto free"></div><div class="page_break auto"></div><p>Should that summit come to pass, it would then be "my turn to visit China," Abe said. "After that, I want (Chinese) President Xi Jinping to visit Japan."</p><div class="object-center">			<div class="object-center fb">			<div class="object-center">																															<div class="js_enlarge">												<a href="javascript:%20void(0);" class="mwTrg" alt="zoom_196839">						<div class="image-side">						<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171007_anti-japan-riot-in-china/7958609-1-eng-GB/20171007_Anti-Japan-riot-in-China_large_580.jpg" alt="" class=""><p class="date-area img-caption">																						Riot police use shields as they guard the entrance to the Japanese embassy during a protest in Beijing in September 2012.																																					<span class="img-credit">									&copy; Reuters								</span>														</p>												</div>						</a>					</div>															<div class="modal-zoom" id="zoom_196839">												<a href="javascript:%20void(0);" class="js_close fb">Close</a>												<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171007_anti-japan-riot-in-china/7958609-1-eng-GB/20171007_Anti-Japan-riot-in-China_article_main_image.jpg" alt="" class=""><p class="date-area">																						Riot police use shields as they guard the entrance to the Japanese embassy during a protest in Beijing in September 2012.																																					<span class="img-credit">									&copy; Reuters								</span>														</p>																		</div>							</div>		</div>	</div><p>Even though the elections pose a hurdle, Abe's speech got party guests talking about the strong likelihood of a trilateral summit at the end of this year.</p><p>Japan initially proposed holding the summit in July. At the time, though, China was in wait-and-see mode ahead of the Chinese Communist Party's national congress, set to kick off on Oct. 18. A big leadership shakeup will take place at the twice-a-decade congress.</p><p>The Chinese leadership was also looking at Abe's weakened position due to the string of scandals, which alleged that the Prime Minister's friends received favorable treatment while setting up schools.</p><p>Meanwhile, Foreign Minister Kono is also exploring the possibility of visiting China in November. Beijing appears agreeable to this.</p><p>These good tidings have largely gone unnoticed by the Japanese public as it pays attention to the upcoming elections and the political rise of Tokyo Gov. Yuriko Koike.</p><p>Ties began to improve in mid-May during an international conference in Beijing called to discuss China's "Belt and Road" initiative, which envisions modern-day Silk Road trading routes.</p><p>Takaya Imai, Abe's executive secretary and one of his closest confidants, joined the Japanese delegation and secretly met with Yang Jiechi, a state councilor who guides China's foreign policy. Yang later visited Japan.</p><p>In early June, Abe delivered a lecture at the Future of Asia conference, sponsored by Nikkei Inc., and made clear Japan's readiness to cooperate with China's Silk Road initiative.</p><p>In July, Abe held his fifth meeting with Xi, in Germany, on the sidelines of a summit of leaders from the Group of 20 major economies.</p><p>On Japan's political front, Abe took a big gamble by dissolving the lower house. He rolled the dice in the hopes of turning around his political fortunes and putting the brakes on his declining approval rating.</p><p>The prime minister's bid to repair ties with Japan's communist-ruled neighbor will not directly help his conservative Liberal Democratic Party win more votes in the elections. But the government's recent flurry of diplomacy toward China will nevertheless benefit Abe. It could help to defuse the escalating brinkmanship between North Korea and the U.S. over Pyongyang's nuclear and missile programs. China, after all, is North Korea's traditional ally and largest trading partner. The diplomatic niceties could also cheer corporate Japan. China is the world's second-largest economy in terms of gross domestic product.</p><p><b>No choice but to mend fences</b></p><p>China has an even more pressing reason to warm up to Japan. The country's diplomacy seems to be getting more tangled by the day.</p><div class="related_articles" data-count="5"></div><p>The country's relationship with the U.S. remains strained. China's links to other countries are also deteriorating.</p><p>North Korea is becoming increasingly unruly in its defiance of the international community and of its largest trading partner. Furthermore, the until-recently cozy relationship between China and South Korea is now nowhere to be seen. South Korea's deployment of the U.S. military's Terminal High Altitude Area Defense, or THAAD, has angered China, which sees the system as a threat to its own security.</p><p>In July, Mongolia's presidential election saw the victory of then opposition candidate Khaltmaa Battulga, who has called for reducing the landlocked country's dependence on China.</p><p>Sino-Mongolia relations began deteriorating last November, when the Dalai Lama, Tibet's spiritual leader, visited Mongolia. China's government considers the Dalai Lama a dangerous separatist.</p><p>Despite some signs of fence-mending, the outcome of the presidential vote has left the future of Sino-Mongolia ties in uncertain territory.</p><p>The list of China's diplomatic complications goes on. Chinese and Indian troops this summer got into a tense two-month standoff on the Doklam plateau -- a disputed area between Bhutan and China that is also of strategic importance to India.</p><p>Differences have also emerged between China and Singapore over South China Sea claims and other matters. And Singapore is about to gain some regional sway. Next year, it will hold the rotating presidency of the 10-member Association of Southeast Asian Nations.</p><p>China's claims of the South China Sea has pitted it against several ASEAN members, who are disturbed that China has been building artificial islands in the body of water and erecting military facilities on the newly created real estate.</p><p>Then there is Taiwan, where President Tsai Ing-wen has named William Lai as premier. Lai is a popular politician and member of Tsai's pro-independence Democratic Progressive Party. In the past he has declared, "I am a politician advocating Taiwan's independence."</p><p>Beijing still regards Taiwan as a renegade province that must be reunified with the mainland, by force if necessary, and has pressured the Taiwanese president to acknowledge the "One China" principle.</p><p>All these diplomatic imbroglios have given Beijing no choice but to try to mend some fences. In this regard, Beijing has tried to subtly woo Japan, which China needs for its own sustained economic development.</p><p><b>The color purple</b></p><p>China has also signaled a desire for better ties with the U.S.</p><p>Shortly before Abe appeared at the Tokyo party on Sept. 28, President Donald Trump's daughter Ivanka Trump and her husband Jared Kushner showed up at the Chinese embassy in Washington to celebrate China's National Day.</p><p>The power couple had canceled a visit to China in September. But by attending the party, the pair allowed China to save face.</p><p>They likely attended at President Trump's behest.</p><div class="object-center">			<div class="object-center fb">			<div class="object-center">																															<div class="js_enlarge">												<a href="javascript:%20void(0);" class="mwTrg" alt="zoom_196655">						<div class="image-side">						<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171006_xi-jinping/7952372-1-eng-GB/20171006_Xi-Jinping_large_580.jpg" alt="" class=""><p class="date-area img-caption">																						State-run CCTV footage shows Chinese President Xi Jinping visiting the Beijing Exhibition Center to take in an exhibition showcasing his accomplishments as party general secretary on Sept. 25.																																											</p>												</div>						</a>					</div>															<div class="modal-zoom" id="zoom_196655">												<a href="javascript:%20void(0);" class="js_close fb">Close</a>												<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171006_xi-jinping/7952372-1-eng-GB/20171006_Xi-Jinping_article_main_image.jpg" alt="" class=""><p class="date-area">																						State-run CCTV footage shows Chinese President Xi Jinping visiting the Beijing Exhibition Center to take in an exhibition showcasing his accomplishments as party general secretary on Sept. 25.																																											</p>																		</div>							</div>		</div>	</div><p>Shortly after the Washington party, U.S. Secretary of State Rex Tillerson arrived in Beijing for hastily arranged talks with Xi. The two discussed the pressing North Korea problem and laid the groundwork for Trump to visit China next month.</p><p>In another diplomatic entreaty, Wang Qishan, Xi's right-hand man, played a key role. Singaporean Prime Minister Lee Hsien Loong received an invitation to Beijing so China could attempt to put its relations with the city-state back on track. The visit took place in the second half of September.</p><p>Wang is a Politburo Standing Committee member and China's chief graft-buster. The seven-member committee is the Chinese Communist Party's top decision-making body. It is led by Xi, who doubles as the party's general secretary.</p><p>Wang's fate will be a focal point at the national congress, where a majority of the standing committee members are to retire and be replaced. Wang is older than the traditional retirement age but could stay on.</p><p>Wang, as the anti-corruption chief, does not usually attend ceremonial talks with foreign dignitaries. But this time he met with the Singaporean prime minister at Zi Guang Ge, the Hall of Purple Light, in Beijing's Zhongnanhai district, an enclave populated by Chinese leaders.</p><p><b>"A hidden sign"</b></p><p>Singapore media gave detailed reports of what Wang and Lee discussed.</p><p>At the outset of their talks, Wang said he was surprised by but happy with Lee's request to meet him. "So I sought permission and I am here meeting you and your delegation today," Wang was quoted as saying.</p><p>Meanwhile, Lee was quoted as saying, "We are very honored to be here just before the 19th Party Congress. ... We know it's a very busy time for you and for all your colleagues, and we're very appreciative that you are spending time."</p><p>The exchange of words has political significance. It suggests that Wang is now playing an important role in arranging the national congress.</p><p>Wang is 69. If the unofficial party retirement age of 68 is applied to him, the veteran politician will bow out of politics during the national congress.</p><p>But Lee does not think Wang will completely retire. He requested the meeting with Wang because he believed it would benefit his country in the future.</p><div class="object-center">			<div class="object-center fb">			<div class="object-center">																															<div class="js_enlarge">												<a href="javascript:%20void(0);" class="mwTrg" alt="zoom_196657">						<div class="image-side">						<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171006_lee-hsien-loong-w-wang-qishan/7952449-1-eng-GB/20171006_Lee-Hsien-Loong-w-Wang-Qishan_large_580.jpg" alt="" class=""><p class="date-area img-caption">																						State-run CCTV footage shows Wang Qishan, right, China's anti-corruption czar, holding talks with Singaporean Prime Minister Lee Hsien Loong at Zi Guang Ge, the Hall of Purple Light, in Beijing's Zhongnanhai area, on Sept. 20.																																											</p>												</div>						</a>					</div>															<div class="modal-zoom" id="zoom_196657">												<a href="javascript:%20void(0);" class="js_close fb">Close</a>												<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171006_lee-hsien-loong-w-wang-qishan/7952449-1-eng-GB/20171006_Lee-Hsien-Loong-w-Wang-Qishan_article_main_image.jpg" alt="" class=""><p class="date-area">																						State-run CCTV footage shows Wang Qishan, right, China's anti-corruption czar, holding talks with Singaporean Prime Minister Lee Hsien Loong at Zi Guang Ge, the Hall of Purple Light, in Beijing's Zhongnanhai area, on Sept. 20.																																											</p>																		</div>							</div>		</div>	</div><p>The Hall of Purple Light is primarily used by China's premier to receive foreign dignitaries. Footage from state-run China Central Television, or CCTV, shows Wang wearing a purple tie during his meeting with Lee.</p><p>In China, purple is believed to be a noble color. The buildings in Zhongnanhai have their names inscribed on horizontal boards. The base color of most of these boards, including that of Zi Guang Ge, is purple.</p><p>Political watchers in Beijing believe Wang's purple tie must be "a hidden sign" of his intention to remain in Zhongnanhai as one of China's leaders after the national congress.</p><p><b>Surviving October</b></p><p>While Xi seeks to cement his hold on China this month, Japan's Abe is facing a crucial electoral test.</p><p>A look back on the past history of Sino-Japanese relations shows that China has often adopted a hard-line stance toward Japan when its regime's power base is unstable or when the Communist Party stands divided. Such was the case back in 2012, when ties frayed over those islets in the East China Sea.</p><p>The fact that Xi's regime has now signaled its desire for warmer relations with Japan can be seen as a sign that the president and party general secretary is securely in control of China.</p><p>Yet Sino-Japanese relations could be cast in a new light depending on the results of the Japanese elections.</p><p>Abe will not be able to host his envisioned Japan, China, South Korea trilateral summit at the end of this year if his LDP suffers a crushing defeat and he is forced to step down. Even if Abe survives the elections, Beijing will not take him seriously if his ruling coalition loses too many seats.</p><p>Meanwhile, it is also unclear whether Xi will be able to stack the Politburo Standing Committee as he wants during the national congress.</p><p>The Xi-Abe rapprochement is a fragile one.</p>
+							</div>
+						</div>
+		
+								<div id="modal-screen_zoom"></div>
+
+									</div>
+
+				
+
+										<div class="pagination no-border"></div>
+
+						
+
+							<div class="icon-area">
+						<ul class="snsicon-list">
+														<li class="print" style="display:none;" ga-event-action="print-bottom"><a href="/print/article/302447" target="_blank">Print</a></li>
+																								<li class="Facebook" ga-event-action="share-bottom"><a href="https://www.facebook.com/sharer/sharer.php?u=http://s.nikkei.com/2g3Om9D&amp;t=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now-%20Nikkei%20Asian%20Review" target="_blank">Facebook</a></li>
+							<li class="Twitter" ga-event-action="share-bottom"><a href="https://twitter.com/share?url=http://s.nikkei.com/2g3Om9D&amp;text=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now-%20Nikkei%20Asian%20Review" target="_blank">Twitter</a></li>
+							<li class="LinkedIn" ga-event-action="share-bottom"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://s.nikkei.com/2g3Om9D&amp;title=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now-%20Nikkei%20Asian%20Review" target="_blank">LinkedIn</a></li>
+							<li class="Google" ga-event-action="share-bottom"><a href="https://plus.google.com/share?url=http://s.nikkei.com/2g3Om9D" target="_blank">Google+</a></li>
+							<li class="Mail" ga-event-action="share-bottom"><a href="mailto:?subject=China%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now&amp;body=Here%20is%20something%20from%20Nikkei%20Asian%20Review%20that%20might%20interest%20you%3A%0D%0AChina%20up%20close%3A%20Japan%20and%20China%20send%20sweet%20words%2C%20for%20now%0D%0Ahttp://s.nikkei.com/2g3Om9D">Mail</a></li>
+							<li class="save" ga-event-action="btn-bottom"><a href="javascript:void(0)" class="general-btn js_btn-submit"><span>Save</span></a></li>
+								</ul>
+						<div class="icon-area-modal">
+							<div class="icon-area-modal-inner">
+								<!-- facebook -->
+								<span class="Facebook-save-bottom" ga-event-action="save-bottom">
+								<div class="fb-save" data-uri="http://s.nikkei.com/2g3Om9D" data-size="large"></div>
+								</span>
+								<!-- Flipboard -->
+								<span class="Flipboard" ga-event-action="save-bottom">
+								<a class="Flipboard-share" data-flip-widget="flipit" href="https://flipboard.com">Add to Flipboard Magazine.</a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+								</span>
+							</div>
+						</div>
+					</div>
+
+				
+																
+
+																		<div class="related-list">
+							<h2 class="related-header">Related stories</h2>
+							<ul class="point-list">
+																																																		<li><a href="/Features/Cover-story/Inside-Abe-s-election-gamble"><span class="sub-title-s">Cover story: </span>Inside Abe&#039;s election gamble </a></li>
+
+																																																										<li><a href="/Politics-Economy/Policy-Politics/Taiwan-s-next-premier-thought-to-be-China-moderate">Taiwan&#039;s next premier thought to be China moderate</a></li>
+
+																																																										<li><a href="/Features/China-up-close/North-Korea-s-China-bashing-makes-Trump-look-polite"><span class="sub-title-s">China up close: </span>North Korea&#039;s China bashing makes Trump look polite</a></li>
+
+																																																										<li><a href="/Features/China-up-close/Xi-silences-once-powerful-youth-league-and-former-president-s-protege"><span class="sub-title-s">China up close: </span>Xi silences once-powerful youth league and former president&#039;s protege</a></li>
+
+																																																										<li><a href="/Features/China-up-close/It-s-life-or-death-for-Mr.-Qisan"><span class="sub-title-s">China up close: </span>It&#039;s life-or-death for &#039;Mr. Qisan&#039; </a></li>
+
+																																																										<li><a href="/Features/China-up-close/Xi-s-blueprint-for-G-2-stained-by-Kim-Jong-Un"><span class="sub-title-s">China up close: </span>Xi&#039;s blueprint for &#039;G-2&#039; stained by Kim Jong Un</a></li>
+
+																																																										<li><a href="/Features/China-up-close/Was-Korean-Peninsula-part-of-China-Xi-and-the-Han-dynasty-game-plan"><span class="sub-title-s">China up close: </span>Was Korean Peninsula part of China? Xi and the Han dynasty game plan </a></li>
+
+																																																										<li><a href="/Features/China-up-close/Pyongyang-missile-footage-is-a-dagger-to-Xi-s-throat"><span class="sub-title-s">China up close: </span>Pyongyang missile footage is a dagger to Xi&#039;s throat</a></li>
+
+																																																										<li><a href="/Features/China-up-close/Xi-loyalists-grab-the-reins-of-pivotal-projects"><span class="sub-title-s">China up close: </span>Xi loyalists grab the reins of pivotal projects</a></li>
+
+																																																										<li><a href="/Features/China-up-close/Xi-Jinping-and-the-end-of-collective-leadership"><span class="sub-title-s">China up close: </span>Xi Jinping and the end of collective leadership</a></li>
+
+																																																										<li><a href="/Features/China-up-close/Xi-Jinping-has-more-tigers-foxes-and-flies-in-his-sights"><span class="sub-title-s">China up close: </span>Xi Jinping has more tigers, foxes and flies in his sights</a></li>
+
+																																																										<li><a href="/Spotlight/China-s-party-congress-2017/Is-Japan-a-bad-example-of-democracy-for-China">Is Japan a bad example of democracy for China?</a></li>
+
+																						</ul>
+						</div>
+						
+
+
+				
+<div class="mail-magazine-article GCCMD_removeall">
+	<h2 class="title">Get Insights on Asia In Your Inbox</h2>
+	<div class="formMember_newsletter_article_loading-layer" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255, 255, 255, 0.3); z-index: 120; display: none;"></div>
+	<img src="/images/bg_load_2.gif" alt="loading..." class="formMember_newsletter_article_loading-img" style="position: absolute; top: 60%; left: 50%; margin-left: -24px; margin-top: -24px; z-index: 150; display: none;" />
+	<form id="formMember_newsletter_article" class="memberRegister js_scroll_off" name="formMember_newsletter" action="https://regist.asia.nikkei.com/member/register/newsletter/process" method="POST" onsubmit="return false;">
+		<div class="mail-magazine-inner input-form">
+			<div class="frm-area form-box">
+				<table>
+					<tr>
+						<td class="js_valid js_notnull js_type_email required js_type_email_immediate">
+							<a href="javascript:void(0)" class="general-btn js_btn-submit disable">
+							<span>Register</span></a>
+							<input type="text" id="formMember_newsletter_article_email" name="formMember[newsletter][email]" maxlength="100" msg_require="Please enter e-mail address" msg_type="Please enter valid e-mail address" style="ime-mode: disabled;" autocomplete="off" placeholder="e-mail@example.com">
+							<p class="error"></p>
+						</td>
+					</tr>
+				</table>
+				<p class="comp-txt"></p>
+			</div>
+			<div class="taR mt15"><a href="/member/register/newsletter" class="ga-ArticleNewsletter-detail" id="ArticleNewsletter-detail" target="_blank">About newsletters</a></div>
+		</div>
+	</form>
+</div>
+					<div class="morein-area">
+		<h2 class="more-header">More in China up close</h2>
+		<ul class="morein-list">
+								<li>
+	<a href="/Features/China-up-close/Xi-Jinping-and-the-end-of-collective-leadership">
+		<div class="morein-img">
+																		
+							
+					
+						
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171022t/20171022_xi-jinping-smiling-at-congress/8060229-1-eng-GB/20171022_Xi-Jinping-smiling-at-congress_more_in_thumbnail.jpg" width="188" alt="" />
+							
+					</div>
+		<span class="morein-list-read">
+										<span class="sub-title-s">China up close: </span>
+						Xi Jinping and the end of collective leadership
+		</span>
+	</a>
+</li>
+
+								<li>
+	<a href="/Features/China-up-close/Xi-Jinping-has-more-tigers-foxes-and-flies-in-his-sights">
+		<div class="morein-img">
+																		
+							
+					
+						
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171014t/20171015_xi-in-zoom/8009831-1-eng-GB/20171015_Xi-in-zoom_more_in_thumbnail.jpg" width="188" alt="" />
+							
+					</div>
+		<span class="morein-list-read">
+										<span class="sub-title-s">China up close: </span>
+						Xi Jinping has more tigers, foxes and flies in his sights
+		</span>
+	</a>
+</li>
+
+								<li>
+	<a href="/Features/China-up-close/Japan-and-China-send-sweet-words-for-now">
+		<div class="morein-img">
+																		
+							
+					
+						
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171006t/20171007_abe-at-china-reception/7958532-1-eng-GB/20171007_Abe-at-China-reception_more_in_thumbnail.jpg" width="188" alt="" />
+							
+					</div>
+		<span class="morein-list-read">
+										<span class="sub-title-s">China up close: </span>
+						Japan and China send sweet words, for now
+		</span>
+	</a>
+</li>
+
+				</ul>
+	</div>
+
+
+											
+						<div class="OUTBRAIN" data-src="https://asia.nikkei.com/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" data-widget-id="AR_1" data-ob-template="Nikkei_Asian_Review_EN" ></div>
+						<div class="OUTBRAIN" data-src="https://asia.nikkei.com/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" data-widget-id="AR_3" data-ob-template="Nikkei_Asian_Review_EN" ></div>
+						<script class="OUTBRAIN" type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+		<div class="link-box GCCMD_removeall">
+<!-- Follow Nikkei Asian Review -->
+<h2 class="title">Follow Nikkei Asian Review</h2>
+<div class="follow-nar">
+<dl>
+<dd class="Facebook">The best content posted</dd>
+<dt><div class="fb-like" data-href="https://www.facebook.com/nikkeiasianreview/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></dt>
+<dd class="Twitter">The latest headlines tweeted</dd>
+<dt class="Twitter"><a href="https://twitter.com/NAR" class="twitter-follow-button" data-show-count="false">Follow @NAR</a>
+</dt>
+</dl>
+</div>
+</div>
+				</div>
+
+						<script type="text/javascript">
+				<!--
+															cms_section = 8;
+					
+										FREE = Number( 7 );
+					MAGAZINE_FREE = Number( 11 );
+					MEMBERS_ONLY = Number( 9 );
+					SUBSCRIPTION = Number( 8 );
+					MAGAZINE_SUBSCRIPTION = Number( 10 );
+					PAY =  Number( 2 );
+					IP_AUTH =  Number( 4 );
+					TRIAL = Number( 3 );
+			                COUPON = Number( 5 );
+				-->
+				</script>
+								<script type="text/javascript">
+				<!--
+										if( cms_section == SUBSCRIPTION || cms_section == MAGAZINE_SUBSCRIPTION ){
+												now_date = new Date();
+						cookie_name =  String(now_date.getFullYear())+String(now_date.getMonth()+1)+"vc";
+						cookie_nameList = cookie_name+"l";
+
+												user_view_article_list = getCookieList(cookie_nameList);
+						article = 196439;
+
+
+						var in_array_flag = false;
+						for(var i = 0; i < user_view_article_list.length; i++) {
+							if(user_view_article_list[i] == article) {
+								in_array_flag = true;
+							}
+						}
+												if( !in_array_flag ){
+														user_view_article_list.push(article);
+
+														user_view_count = getCookie(cookie_name);
+							if(user_view_count == ""){
+								user_view_count = 1;
+							}else{
+								user_view_count = Number(user_view_count) + 1;
+							}
+						}else{
+													user_view_count = getCookie(cookie_name);
+						}
+					}
+					
+										var page = 1
+					var count_flag = user_check();
+
+										if( (cms_section == SUBSCRIPTION || cms_section == MAGAZINE_SUBSCRIPTION) && count_flag ){
+						NAR_js.isCount = true;
+						NAR_js.user_view_count = user_view_count;
+						setCookie(cookie_name, user_view_count, 40);
+						setCookieList(cookie_nameList, user_view_article_list, 40);
+					}
+					
+				-->
+				</script>
+						<script>
+				<!--
+				$(function() {
+					var printFlag = false;
+					if( user_category == IP_AUTH ){
+						printFlag = true;
+					}
+					if( login_flag ){
+						if( user_section == PAY ){
+							printFlag = true;
+						}
+					}
+					if(location.href.match(/^https:\/\/asia.staging/)) {
+						printFlag = true;
+					}
+					else if(cms_section == FREE || cms_section == MAGAZINE_FREE){
+						printFlag = true;
+					}
+
+					if (printFlag) {
+						var snsicon = $("ul.snsicon-list");
+						var print = snsicon.find("li.print");
+						print.css("display","inline-block");
+					}
+				});
+				-->
+				</script>
+
+																<link rel="stylesheet" href="/css/article_pagination_v001.css" />
+
+															<script type="text/javascript" src="/js/1ed71a1.js"></script>
+					
+										<script type="text/javascript">
+					<!--
+
+					$(function(){
+						if(!$(".limit_page").get(0) && !$(".selection.page-1").get(0)){
+							href = location.href;
+							params = href.split("?");
+							if(params.length>1){
+								paramsList = params[1].split("&");
+								for ( i = 0; i < paramsList.length; i++ ) {
+									if(paramsList[i].match(/page\=.*/)){
+										paramsList.splice( i , 1);
+										break;
+									}
+								}
+								if(paramsList.length>0){
+									p ="";
+									for ( i = 0; i < paramsList.length; i++ ) {
+										p = p + paramsList[i];
+										if(i<paramsList.length-1) p = p + "&";
+									}
+									location.href = params[0] + "?" + p;
+								}else{
+									location.href = params[0];
+								}
+							}
+						}
+					});
+					$(function(){
+						$(".pagination.no-border").pagination({
+														items: $(".selection").length,
+														offset: 1
+						})
+					});
+					-->
+					</script>
+		
+								<script type="text/javascript">
+				<!--
+					$(function() {
+						var bodytext = $( '.wysiwyg_area' ).html();
+						var area_count = bodytext.match(/<div class=\"related_articles\" data-count=\"([0-9*])\"><\/div>/gi);
+
+						if( area_count ) {
+							if ( area_count.length > 1 ) {
+								var pos = bodytext.indexOf( area_count[0] ) + area_count[0].length;
+								var bodytext1 = bodytext.slice( 0, pos );
+								var bodytext2 = bodytext.slice( pos );
+								for(var i = 1; i < area_count.length; i++) {
+									var regExp = new RegExp( area_count[i], 'i' );
+									bodytext2 = bodytext2.replace( regExp , '' ) ;
+									//var result = bodytext.replace( regExp , '' ) ;
+									//$( '.wysiwyg_area' ).html(result);
+								}
+								var result = bodytext1 + bodytext2;
+								$( '.wysiwyg_area' ).html(result);
+							}
+
+							var origin = $( 'div.related-list:not(.wysiwyg_area div.related-list)');
+							var origin_count = origin.children('ul').children().length;
+
+							if ( origin.length > 0 ){
+								$( 'div.related_articles' ).attr( 'id', 'related_articles_wrap' );
+								$( 'div.related_articles' ).prepend('<div class="related-list">');
+								$( 'div.related_articles div.related-list' ).prepend('<div class="related-header">Related stories</div>');
+								var list = $( 'div.related_articles div.related-list' ).append('<ul class="point-list"></ul>').find('ul');
+
+								var match = bodytext.match(/<div class=\"related_articles\" data-count=\"([0-9*])\"><\/div>/i);
+
+								for(var i = 1; i <= match[1]; i++) {
+
+								    $( 'div.related-list ul.point-list li:nth-child(1):not(.wysiwyg_area div.related-list ul.point-list li:nth-child(1))').appendTo( list );
+
+									if ( i >= origin_count ) {
+										origin.remove();
+								    	break;
+									}
+
+								}
+							}
+						}
+					});
+				-->
+				</script>
+							</div>
+			<div class="secondary">
+												
+
+		
+			
+					
+							
+			<div class="rectangle">
+<!-- NikkeiEnglish_300*250_1 -->
+<div id='div-gpt-ad-1375148072299-0' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375148072299-0'); });
+</script>
+</div>
+</div>
+		
+			
+			
+	<div class="link-box ">
+		<h5 class="title">Editor&#039;s picks</h5>
+								
+	
+<ul class="photo-list another-case">
+	<li>
+						<a href="/Business/Companies/Subaru-chief-says-improper-inspections-may-date-back-decades">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171027t/20171027_subaru-at-tokyo-motor-show-2017/8106278-1-eng-GB/20171027_Subaru-at-tokyo-motor-show-2017_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Business/Companies/Subaru-chief-says-improper-inspections-may-date-back-decades">Subaru chief says improper inspections may date back decades</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Politics-Economy/Policy-Politics/Thailand-to-enter-new-era-without-Father-of-Nation">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171027t/20171027_thai-vajiralongkorn/8105893-1-eng-GB/20171027_Thai-Vajiralongkorn_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Politics-Economy/Policy-Politics/Thailand-to-enter-new-era-without-Father-of-Nation">Thailand enters new era without &#039;Father of the Nation&#039;</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Business/Companies/SK-Hynix-s-strategy-pays-off-with-Toshiba-unit-investment">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171024t/20171024_sk-hynix2/8077240-1-eng-GB/20171024_SK-Hynix2_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Business/Companies/SK-Hynix-s-strategy-pays-off-with-Toshiba-unit-investment"><span class="sub-title-s">Company in focus: </span>SK Hynix&#039;s strategy pays off with Toshiba unit investment</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Politics-Economy/Economy/Rising-US-energy-exports-could-prompt-seismic-shift-in-Asian-market">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/20171024t/20171024-lng-tanker-us/8073591-1-eng-GB/20171024-LNG-tanker-US_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Politics-Economy/Economy/Rising-US-energy-exports-could-prompt-seismic-shift-in-Asian-market">Rising US energy exports could prompt seismic shift in Asian market</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Japan-Update/Suzuki-charging-ahead-with-luxury-repair-shops-in-India">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2017/201710/1027n/1027n_suzuki-india/8102019-1-eng-GB/1027N_Suzuki-India_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Japan-Update/Suzuki-charging-ahead-with-luxury-repair-shops-in-India">Suzuki charging ahead with luxury repair shops in India</a>
+		</p>
+	</li>
+</ul>
+
+</div>
+
+<div class="link-box latest-issues ">
+		<h5 class="title"><a href="/magazine/20171026">Print Edition</a></h5>
+		<div class="column-layout">
+				<a href="/magazine/20171026">
+		<img src="/var/site_cache/storage/images/top/magazine/20171026/8085602-1-app-WF/BREWING-BATTLE_rc_magazine_image.jpg" width="150" alt="" />
+		</a>
+
+		<ul class="latest-list">
+										
+<li>
+		<a href="/magazine/20171026/On-the-Cover/Can-Asia-fall-in-love-with-tea-again"><span class="sub-title-s">Cover story: </span>Can Asia fall in love with tea again?</a>
+</li>
+
+											
+<li>
+		<a href="/magazine/20171026/On-the-Cover/30-billion-bottles-and-counting-Japan-s-green-tea-titan">30 billion bottles and counting: Japan&#039;s green tea titan</a>
+</li>
+
+											
+<li>
+		<a href="/magazine/20171026/On-the-Cover/Healthy-versus-hip-A-Sri-Lankan-tea-boss-takes-on-coffee">Healthy versus hip: A Sri Lankan tea boss takes on coffee</a>
+</li>
+
+							</ul>
+	</div>
+		<div class="more"><a href="/magazine">See all issues</a></div>
+</div>
+
+				
+			<div class="rectangle">
+<!-- NikkeiEnglish_300*250_2 -->
+<div id='div-gpt-ad-1375260461786-0' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375260461786-0'); });
+</script>
+</div>
+</div>
+
+		
+			
+	<div class="link-box ">
+		<h5 class="title">Most read</h5>
+		<ul class="ranking-list">
+						<li class="number1">
+			<a href="/Business/Companies/Panasonic-powers-up-electric-car-battery-output-in-Asia-US">Panasonic powers up electric-car battery output in Asia, US</a>
+		</li>
+						<li class="number2">
+			<a href="/Features/Cover-story/Can-Asia-fall-in-love-with-tea-again"><span class="sub-title-s">Cover story: </span>Can Asia fall in love with tea again?</a>
+		</li>
+						<li class="number3">
+			<a href="/Business/Companies/Apple-to-settle-for-half-its-planned-iPhone-X-shipments-this-year"><span class="sub-title-s">Exclusive: </span>Apple to settle for half its planned iPhone X shipments this year</a>
+		</li>
+						<li class="number4">
+			<a href="/Business/Companies/Subaru-too-let-unqualified-workers-inspect-cars"><span class="sub-title-s">Exclusive: </span>Subaru, too, let unqualified workers inspect cars</a>
+		</li>
+						<li class="number5">
+			<a href="/Business/Trends/Southeast-Asian-convenience-chains-leading-a-retail-revolution">Southeast Asian convenience chains leading a retail revolution</a>
+		</li>
+			</ul>
+</div>
+
+				
+			<!-- Videos -->
+<div class="link-box videos">
+<h5 class="title"><a href="https://video.asia.nikkei.com/">Videos</a></h5>
+<div class="column-layout">
+<ul class="video-detail">
+<li>
+<a href="https://video.asia.nikkei.com/detail/videos/politics-economy/video/5622292506001/victorious-abe-pushes-for-reform?autoStart=true">
+<img src="/var/site_cache/storage/images/node_43/node_51/video/2017/ldp-victory-abe-conference/8090187-1-eng-GB/LDP-victory-Abe-conference.jpg" width="80" alt="">
+<p>Victorious Abe pushes for reform</p>
+</a>
+</li>
+<li>
+<a href="https://video.asia.nikkei.com/detail/videos/politics-economy/video/5619450236001/joint-drills-with-the-uss-ronald-reagan?autoStart=true">
+<img src="/var/site_cache/storage/images/node_43/node_51/video/2017/joint-drill-uss-ronald-reagan/8090198-1-eng-GB/Joint-Drill-USS-Ronald-Reagan.jpg" width="80" alt="">
+<p>Joint drills with the USS Ronald Reagan</p>
+</a>
+</li>
+<li>
+<a href="https://video.asia.nikkei.com/detail/videos/editor-s-picks/video/5582018122001/suu-kyi-addresses-rohingya-crisis?autoStart=true">
+<img src="/var/site_cache/storage/images/node_43/node_51/video/2017/suu-kyi-interview/7885958-1-eng-GB/Suu-Kyi-Interview.jpg" width="80" alt="">
+<p>Suu Kyi addresses Rohingya crisis</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="more"><a href="https://video.asia.nikkei.com/">more</a></div>
+</div>
+		
+			
+					
+			<div class="rectangle">
+<!-- NikkeiEnglish_300*250_3 -->
+<div id='div-gpt-ad-1404116812193-0' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404116812193-0'); });
+</script>
+</div>
+</div>
+
+		
+			
+	<div class="link-box GCCMD_removeall">
+		<h5 class="title">Financial Times</h5>
+		<div class="column-layout no-image">
+				<ul class="photo-detail">
+																<li><a href="https://www.ft.com/content/de3386f2-bae4-11e7-8c12-5661783e5589" target="_blank">Oct.27 17:22&nbsp;Sunac chairman Sun Hongbin sent to governance classes</a></li>
+																						<li><a href="https://www.ft.com/content/9fd80eb0-baca-11e7-9bfb-4a9c83ffa852" target="_blank">Oct.27 15:37&nbsp;Australian government in crisis as deputy PM disqualified</a></li>
+																						<li><a href="https://www.ft.com/content/f8b57e8e-bab4-11e7-9bfb-4a9c83ffa852" target="_blank">Oct.27 12:46&nbsp;Mattis visits North Korean border in show of support for Seoul</a></li>
+																						<li><a href="https://www.ft.com/content/0dc9ba02-ce1d-326e-9b4c-4795d62db3d5" target="_blank">Oct.27 12:37&nbsp;Mattis reaffirms ‘ironclad’ US commitment to South Korea in DMZ visit</a></li>
+																						<li><a href="https://www.ft.com/content/86859582-c6cf-3fd2-abae-f8c0f5e06720" target="_blank">Oct.27 12:32&nbsp;Australian government loses majority after High Court ruling</a></li>
+																																																																																																																																																																																																																																						</ul>
+	</div>
+	</div>
+
+				
+			<!-- NikkeiEnglish_InRead_Article -->
+<div id='div-gpt-ad-1396427317542-0' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+var obCheck = document.querySelectorAll('.articleBodyText p').length;
+var vdCheck = document.querySelectorAll('.BrightcoveExperience param').length;
+var tpCheck = false;
+if ((obCheck >= 1) && !(vdCheck >= 1)) {
+if((authority == "A1" || authority == "A2") && (cms_section == 8 || cms_section == 10)){
+var current_cookie_name = String(now_date.getFullYear())+String(now_date.getMonth()+1)+"vc";
+var current_user_view_count = getCookie(current_cookie_name);
+var current_cookie_nameList = current_cookie_name+"l";
+var current_user_view_article_list = getCookieList(current_cookie_nameList);
+var in_array_flag = false;
+for(var i = 0; i < current_user_view_article_list.length; i++) {
+if(current_user_view_article_list[i] == article) {
+in_array_flag = true;
+}
+}
+if((authority == "A1") && (current_user_view_count >= article_limit) && !in_array_flag){
+} else if((authority == "A2") && (current_user_view_count >= article_limit_free) && !in_array_flag) 
+{
+} else {
+tpCheck = true;
+}
+} else if((authority == "A1" || authority == "A2") && (cms_section == 9)){
+} else {
+tpCheck = true;
+}
+}
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1396427317542-0'); });
+</script>
+</div>
+		
+			
+					
+			<!-- NikkeiEnglish_InBoard_Article -->
+<div id='div-gpt-ad-1410933087819-0' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+var obCheck = document.querySelectorAll('.articleBodyText p').length;
+var vdCheck = document.querySelectorAll('.BrightcoveExperience param').length;
+if ((obCheck >= 1) && !(vdCheck >= 1)) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410933087819-0'); });
+}
+</script>
+</div>
+		
+			
+			
+	
+
+
+							</div>
+					</div><!-- /#content -->
+						<div id="footer">
+			<div class="footer-content">
+<span>
+<!--[if lte IE 8]><img src="/images/img_logo_footer.png" alt="Nikkei Asian Review" /><![endif]-->
+<!--[if gte IE 9]><!--><img src="/images/img_logo.svg" width="240" height="43" alt="Nikkei Asian Review" /><!--<![endif]-->
+</span>
+<div class="footer-link">
+        <ul class="snsicon-list">
+            <li class="Facebook"><a href="https://www.facebook.com/nikkeiasianreview" target="_blank">Facebook</a></li>
+            <li class="Twitter"><a href="https://twitter.com/NAR" target="_blank">Twitter</a></li>
+            <li class="LinkedIn"><a href="http://www.linkedin.com/company/nikkei-asian-review" target="_blank">LinkedIn</a></li>
+            <li class="Google"><a href="https://plus.google.com/105293795757249725929/posts" target="_blank">Google+</a></li>
+            <li class="YouTube"><a href="https://www.youtube.com/user/NikkeiAsia" target="_blank">YouTube</a></li>
+            <li class="RSS"><a href="/info/rss" target="_blank">RSS</a></li>
+        </ul>
+        <ul class="appstore-link">
+            <li><a href="
+https://itunes.apple.com/app/nikkei-asian-review/id481958599?mt=8" target="_blank"><img src="/images/banner_appstore_l.png" alt="App store" /></a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.nikkei.asianreview" target="_blank"><img src="/images/banner_googleplay_l.png" alt="google play" /></a></li>
+        </ul>
+      </div>
+</div>
+<ul class="footer-nav base-list">
+	<li><a href="/info/about">About Nikkei Asian Review</a></li>
+	<li><a href="/info/sitemap">Site map</a></li>
+	<li><a href="/info/help">Help</a></li>
+	<li><a href="/contact">Contact us</a></li>
+	<li><a href="/info/terms-of-use">Terms of use</a></li>
+	<li><a href="/info/copyright">Copyright</a></li>
+	<li><a href="/info/privacy">Privacy &amp; cookie policy</a></li>
+	<li><a href="/info/advertising">Advertising</a></li>
+	<li><a href="/info/announcements">Announcements</a></li>
+</ul>
+
+			<div class="footer-tool">
+				<div class="copyright">Nikkei Inc. No reproduction without permission.</div>
+				<div class="language">
+					<ul class="base-list">
+						<li><a href="http://www.nikkei.com/" target="_BLANK">Japanese</a></li>
+						<li><a href="http://cn.nikkei.com/" target="_BLANK">Chinese</a></li>
+					</ul>
+				</div>
+			</div>
+		</div><!-- /#footer -->
+
+																<div id="ms-link" >
+				<ul>
+					<li><a href="javascript:void(0);" onclick="javascript:NAR_js.view_change('sp');">Mobile site</a></li>
+				</ul>
+			</div>
+			<div id="modal_gd04_01" class="util limitSoon">
+	<h3 class="title">You have <span class="fsL02">2</span> <span class="fsL01">FREE ARTICLES</span> left this month.</h3>
+	<div>
+		<p>Subscribe to get unlimited access to all articles.</p>
+		<div class="btm-sec clearfix">
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+			<p class="login-btn"><a href="/member/register/?n_cid=NARAN003&return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" class="general-btn" id="subscribe"><span>Get unlimited access</span></a></p>
+		</div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLimitSoon(NonLogin)"></div>
+</div>
+
+
+<div id="modal_gd04_01_cp" class="util limitSoon">
+	<h3 class="title">You have <span class="fsL02">2</span> <span class="fsL01">FREE ARTICLES</span> left this month.</h3>
+	<div>
+		<p>Subscribe to get the unlimited access to all articles.<br><span class="fcR fsL02 fwB">3 months for $9</span></p>
+		<div class="btm-sec clearfix">
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+			<p class="login-btn"><a href="/member/register/?n_cid=NARAN069&return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" class="general-btn" id="subscribe"><span>Get discount now</span></a></p>
+		</div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLimitSoon(NonLoginCamp)"></div>
+</div>
+
+
+<div id="modal_gd04_02" class="util limitSoon">
+	<h3 class="title">You have <span class="fsL02">2</span> <span class="fsL01">FREE ARTICLES</span> left this month.</h3>
+	<div>
+		<p>We could not renew your subscription.<br>You need to update your payment information.</p>
+		<div class="btm-sec clearfix">
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+			<p class="login-btn"><a href="/member/edit/plan?n_cid=NARAN009&return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now" class="general-btn" id="resubscribe"><span>Update</span></a></p>
+		</div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLimitSoon(FreeUser)"></div>
+</div>
+
+
+<div id="modal_gd05_01" class="util expiration">
+	<h3 class="title">Your trial period will end soon</h3>
+	<div>
+		<p>
+Subscribe today to continue enjoying NAR.<BR>
+&bull; Unlimited access to asia.nikkei.com<BR>
+&bull; Unlimited access to NAR mobile and tablet apps<BR>
+&bull; Add delivery of NAR in print each week
+</p>
+
+		<div class="login-btn"><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN005" class="general-btn" id="subscribe"><span>See all offers and subscribe</span></a></div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDSoonExpire(TrialUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd05_01"></div>
+
+
+<div id="insert_modal_gd08_01" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN022" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_01_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN023" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p><span class="fsL02">Get your first month for </span><span class="fsL03 fwB fcR">$0.99</span></p>
+<p>Redeemable only through the Subscribe button below</p>
+<p></p>
+<p>Once subscribed, you can…</p>
+<ul>
+<li>Read all stories with unlimited access</li>
+<li>Use our smartphone and tablet apps</li>
+</ul>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/1B_D_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN070" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_01_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN071" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN072" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDLimited(NonLogin)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_01_cp" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN073" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_01_cp_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN074" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p style="text-align:center"><span class="fsL03  fwB fcR">3 months for $9</span><br>
+<span class="fsL02  fwB">SUBSCRIBE TODAY</span></p>
+<p></p>
+<p>
+Take advantage of this limited offer.<br>
+Subscribe now to get unlimited access to all articles.
+</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/0328-EndsSoon.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN075" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_01_cp_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN076" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN077" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDLimited(NonLoginCamp)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_02" class="paywall">
+	<p class="title">To read the full story, <a href="/member/edit/plan?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN028" class="ga-subscribe" id="resubscribe">Update your account</a></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p>Resubscribe now to continue reading.<br>
+<font style="font-size:15px;font-weight:bold;">BEST OFFER:</font><br>
+<font style="font-size:22px;color:red;font-weight:bold;">Only US$ 9.99 per month</font> 
+<font style="font-size:15px;font-weight:bold;">for a full-year subscription</font>
+</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/4_D&P_v2_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn">
+			<p class="btn01"><a href="/member/edit/plan?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN078" class="general-btn" id="resubscribe-btn"><span>Update</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN079" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDLimited(FreeUser)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_03" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN025" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_03_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN026" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p>Once subscribed, you can…</p>
+<ul>
+<li>Read all stories with unlimited access</li>
+<li>Use our smartphone and tablet apps</li>
+</ul>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/4_D&P_v2_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN080" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_03_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN081" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN082" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDMemberOnly(NonLogin)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_03_cp" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN083" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_03_cp_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN084" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p style="text-align:center"><span class="fsL03  fwB fcR">3 months for $9</span><br>
+<span class="fsL02  fwB">SUBSCRIBE TODAY</span></p>
+<p></p>
+<p>
+Take advantage of this limited offer.<br>
+Subscribe now to get unlimited access to all articles.
+</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/0328-EndsSoon.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN085" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_03_cp_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN086" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN087" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDMemberOnly(NonLoginCamp)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_04" class="paywall">
+	<p class="title">To read the full story, <a href="/member/edit/plan?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN030" class="ga-subscribe" id="resubscribe">Update your account</a></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p>We could not renew your subscription.<br>You need to update your payment information.</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/4_D&P_v2_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn">
+			<p class="btn01"><a href="/member/edit/plan?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN088" class="general-btn" id="resubscribe-btn"><span>Update</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN089" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDMemberOnly(FreeUser)"></div>
+</div>
+
+
+
+
+<div id="modal_gd02_01" class="util">
+	<h3 class="title">Update your payment information</h3>
+	<div>
+		<p>Your subscription renewal could not be processed. Please update your payment information to continue enjoying the Nikkei Asian Review.</p>
+		<div class="login-btn"><a href="/member/edit/plan?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN007" class="general-btn" id="resubscribe"><span>Resubscribe now</span></a></div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a> 
+	<div style="display:none" class="ga" id="MDLogin(FreeUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd02_01"></div>
+
+
+<div id="modal_gd06_01" class="util expiration">
+	<h3 class="title">Your trial period has expired</h3>
+	<div>
+		<p>
+Subscribe today to continue enjoying NAR.<BR>
+&bull; Unlimited access to asia.nikkei.com<BR>
+&bull; Unlimited access to NAR mobile and tablet apps<BR>
+&bull; Add delivery of NAR in print each week
+</p>
+
+		<div class="login-btn"><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN006" class="general-btn" id="subscribe"><span>See all offers and subscribe</span></a></div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a> 
+	<div style="display:none" class="ga" id="MDExpired(TrialUser)"></div>	
+</div><!-- /#modal -->
+<div id="modal-screen_gd06_01"></div>
+
+<div id="modal_gd09_01" class="util expiration">
+	<!--[if lte IE 8]><img src="/images/img_logo.png" alt="Nikkei Asian Review" /><![endif]-->
+	<!--[if gte IE 9]><!--><img src="/images/img_logo.svg" width="288" height="51" alt="Nikkei Asian Review" /><!--<![endif]-->
+	<img src="/images/For_welcome_modal.png" alt="cover" />
+  <div class="explain">
+  </div>
+  <div>
+        <div class="login-btn"><a href="#" class="general-btn js_close"><span>Close this message</span></a></div></div>
+        <a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDWelcome(IPUser)"></div>
+	<div style="display:none" class="value" id="2607"></div>
+   </div><!-- /#modal -->
+<div id="modal-screen_gd09_01"></div>
+
+
+<div id="modal_gd10_01" class="util limit">
+	<h3 class="title">XXcouponLeftDayXX days left of full access to the Nikkei Asian Review</h3>
+	<div class="cf">
+		<img src="/static/info/img_modal_thumbnail02.jpg" alt="" class="thumbnail" />
+<div class="txt">
+<p class="fsL01">Do you want to keep abreast of the issues in Asia?</p>
+<p class="fsL01">Sign up now for an individual subscription and continue enjoying the Nikkei Asian Review.</p>
+<ul>
+<li>Your subscription period starts immediately after the expiration of your current subscription, and will be charged to your credit card accordingly.</li>
+</ul>
+</div>
+	</div>
+	<div class="login-btn"><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN1501" class="general-btn" id="subscribe"><span>See all offers</span></a></div>
+	<a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN1504" class="link-area" id="subscribe-area"></a>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDLimitNear(CouponUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd10_01"></div>
+
+
+<div id="modal_gd10_02" class="util limit">
+	<h3 class="title">Ends soon!</h3>
+	<div class="cf">
+		<img src="/static/info/img_modal_thumbnail02.jpg" alt="" class="thumbnail" />
+<div class="txt">
+<p class="fsL01">Your full access to the Nikkei Asian Review will be expired soon. </p>
+<p class="fsL01">Sign up now for an individual subscription.</p>
+<ul>
+<li>Your subscription period starts immediately after the expiration of your current subscription, and will be charged to your credit card accordingly.</li>
+</ul>
+</div>
+	</div>
+	<div class="login-btn"><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN1502" class="general-btn" id="subscribe"><span>See all offers</span></a></div>
+	<a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN1505" class="link-area" id="subscribe-area"></a>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDLimitSoon(CouponUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd10_02"></div>
+
+<div id="modal_gd10_03" class="util limit">
+	<h3 class="title">Your full access to the Nikkei Asian Review has expired</h3>
+	<div class="cf">
+		<img src="/static/info/img_modal_thumbnail02.jpg" alt="" class="thumbnail" />
+<div class="txt">
+<p class="fsL01">Subscribe today to enjoy the Nikkei Asian Review</p>
+<ul>
+<li>Unlimited access to asia.nikkei.com</li>
+<li>Unlimited access to mobile content through the Nikkei Asian Review app</li>
+</ul>
+</div>
+	</div>
+	<div class="login-btn"><a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN1503" class="general-btn" id="subscribe"><span>See all offers</span></a></div>
+	<a href="/member/register/?return_url=/Features/China-up-close/Japan-and-China-send-sweet-words-for-now&n_cid=NARAN1506" class="link-area" id="subscribe-area"></a>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDLimited(CouponUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd10_03"></div>
+
+<div id="footer-script">
+<script type="text/javascript">
+
+var page = "1";
+
+if(typeof authority === "undefined"){
+	var authority = "";
+}
+if(typeof memberId === "undefined"){
+	var memberId = "";
+}
+
+if(typeof contractId === "undefined"){
+	var contractId = "";
+}
+var viewMode = "PC";
+
+</script>
+<!--SiteCatalyst code-->
+<script type="text/javascript">
+var now = new Date();
+var pageName = location.href;
+var channel = "NAR";
+var server = document.domain;
+var pageType = "";
+
+					
+								
+								
+			
+					
+var prop1 = "NAR-Features";
+var prop2 = "NAR-Features-China up close";
+var prop3 = "China up close: Japan and China send sweet words, for now";
+var prop4 = "196439";
+var prop5 = page;
+var prop6 = now.getHours();
+var prop9 = "";
+var prop10 = "";
+var prop11 = "";
+var prop12 = "Not selection";
+var prop25 = "Politics";
+			var prop26 = "Singapore";
+var prop27 = "";
+var prop28 = authority;
+var prop29 = "1";
+var prop30 = getCookie(String(now.getFullYear())+String(now.getMonth()+1)+"vc");
+var prop33 = "";
+var prop34 = viewMode;
+var prop35 = contractId;
+var prop44 = memberId;
+</script>
+
+
+
+
+<!-- SiteCatalyst code version: H.9.
+Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="/JavaScript/s_codeNAR20141104_v003.js"></script>
+<script language="JavaScript" src="/JavaScript/s_cDS_v003.js"></script>
+<script language="JavaScript">
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="//nikkei.d1.sc.omtrdc.net/b/ss/nikkeicojpgrpmstallprod,nikkeicojpdsmstallprod,nikkeicojpnarprod/1/H.9--NS/0" height="1" width="1" border="0" alt="" />
+</a></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.9. -->
+<!--/SiteCatalyst code-->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44606671-1', 'asia.nikkei.com');
+
+
+	// Set custom dimension
+	if(login_flag != "undefined"){
+		ga('set', 'dimension1', login_flag);
+	}
+	if(authority != "undefined" && authority != ""){
+		ga('set','dimension2', authority);
+	}
+	if(memberId != "undefined" && memberId !=""){
+		ga('set','dimension3', memberId);
+	}
+	if( aid != ""){
+		ga('set','dimension4', aid);
+	}
+	if(viewMode != "undefined"){
+		ga('set','dimension5', viewMode);
+	}
+	if(contractId != "undefined"){
+		ga('set','dimension6', contractId);
+	}
+	if(c_code != "undefined"){
+		ga('set','dimension7', c_code);
+	}
+
+	// Send view
+	ga('send', 'pageview');
+	// Send event
+	if(NAR_js.isCount == true){
+		ga('send', 'event', 'Article', 'countUp', 'Article-countUp', NAR_js.user_view_count, {nonInteraction:true});
+	}
+	if(NAR_js.oneClickFree == true){
+		ga('send', 'event', 'OneClickFree', 'view', 'OneClickFree-view',{nonInteraction:true} );
+	}
+	
+</script>
+<script>
+	var $eventCategory;
+	var $eventAction;
+	var $eventURL;
+	var $rightColumn = $('div.secondary'); // right column
+	var $atclArea = $('div.article.detail-area'); // article area
+	
+	//*** Header
+	//*** area1: Header-text-link
+	var $area1 = $('div.header-tool');
+	
+	if( $area1 != undefined && $area1 != "" ){
+		// url check - member register page only
+		var $subscribeText = $area1.find('a.ga-subscribe-text[href*="/member/register/"]');
+		// no url check - for showing modal
+		var $loginText = $area1.find('a.ga-login-text');
+
+		// GA Header-1 Subscribe-text link click event
+		if( $subscribeText != undefined && $subscribeText != "" ){
+			$subscribeText.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = $subscribeText.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+
+		// GA Header-2 Login-text link click event
+		if( $loginText != undefined && $loginText != "" ){
+			$loginText.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = $loginText.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** area2: Header-bnr
+	//*** PC only / Non-login
+	var $area2 = $('div#login_before');
+	
+	if( $area2 != undefined && $area2 != "" ){
+		var $subscribeBnr = $area2.find('.ga-subscribe-bnr');
+		// url check - member register page only
+		var $subscribe_a = $subscribeBnr.find('a[href*="/member/register/"]');
+
+		// GA Header-3 Subscribe-bnr link click event
+		if($subscribe_a != undefined && $subscribe_a != "" ){
+			$subscribe_a.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = $subscribeBnr.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+	
+	//*** area3: Header-login modal login-btn
+	//*** PC only / Non-login
+	var $area3 = $('form#js_form-login-balloon');
+	
+	if( $area3 != undefined && $area3 != "" ){
+		// no url check - for form submit
+		var $loginBtn = $area3.find('button#login-balloon-submit');
+
+		// GA Header-4 Login-btn link click event
+		if( $loginBtn != undefined && $loginBtn != "" ){
+			$loginBtn.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = "login-btn";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+// smapho only
+if(viewMode != "undefined"){
+if(viewMode == "SP"){
+	//*** area4: SP menu (GlobalNavi)
+	//*** SP only
+	var $area4 = $('div#gmenu');
+	if( $area4 != undefined && $area4 != "" ){
+		// url check - member register page only
+		var $subscribeText_sp = $area4.find('a.ga-subscribe-text[href*="/member/register/"]');
+		// no url check - for showing modal
+		var $loginText_sp = $area4.find('a.ga-login-text');
+
+		// GA Nav-1 Login-text link click event
+		if($loginText_sp != undefined && $loginText_sp != "" ){
+			$loginText_sp.on('click', function(){
+				$eventCategory = "Nav";
+				$eventAction = $loginText_sp.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+		
+		// GA Nav-2 Subscribe-text link click event
+		if($subscribeText_sp != undefined && $subscribeText_sp != "" ){
+			$subscribeText_sp.on('click', function(){
+				$eventCategory = "Nav";
+				$eventAction = $subscribeText_sp.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** SP Banner
+	//*** area5: SP top banner
+	//*** SP only / Non-login
+	// search in header-tool(area1)
+	var $area5 = $area1.find('div.header-sp-bnr');
+	if( $area5 != undefined && $area5 != "" ){
+		// url check - member register page only
+		var $headerSpBnr = $area5.find('a[href*="/member/register/"]');
+
+		// GA RectangleBanner-1 link click event
+		if($headerSpBnr != undefined && $headerSpBnr != "" ){
+			$headerSpBnr.on('click', function(){
+				$eventCategory = "RectangleBanner";
+				$eventAction = "subscribe-top";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** area6: SP bottom banner
+	//*** SP only / Non-login
+	// search in right column
+	var $area6 = $rightColumn.find('div#sp_campaign');
+	if( $area6 != undefined && $area6 != "" ){
+		// url check - member register page only
+		var $spRectCampBnr = $area6.find('a[href*="/member/register/"]');
+
+		// GA RectangleBanner-2 link click event
+		if($spRectCampBnr != undefined && $spRectCampBnr != "" ){
+			$spRectCampBnr.on('click', function(){
+				$eventCategory = "RectangleBanner";
+				$eventAction = "subscribe-bottom";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+}
+}
+
+	//*** area7: Right column
+	//*** Newsletter register
+	// No-login only
+	// search in right column
+	var $area7 = $rightColumn.find('div.link-box.mail-magazine');
+
+	if( $area7 != undefined && $area7 != "" ){
+		var $RCNewsletterBtn = $area7.find('a.js_btn-submit');
+		// url check - newsletter member register page only
+		var $formNewsletter = $area7.find('form#formMember_newsletter[action*="/member/register/newsletter/process"]');
+		if( $formNewsletter != undefined && $formNewsletter != "" ){
+			// GA Right column-1 Newsletter register button click event
+			if($RCNewsletterBtn != undefined && $RCNewsletterBtn != "" ){
+				$RCNewsletterBtn.on('click', function(){
+					// check button disabled
+					if ( $RCNewsletterBtn.hasClass("disable") != true) {
+						$eventCategory = "RCNewsletter";
+						$eventAction = "register-btn";
+						ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+					}
+				});
+			}
+		}
+
+		// search in area7
+		var $area8 = $area7.find('.title');
+		if( $area8 != undefined && $area8 != "" ){
+			// url check - newsletter member register page only
+			var $RCNewsletterDetail = $area8.find('a[href*="/member/register/newsletter"]');
+
+			// GA Right column-2 Newsletter link click event
+			if($RCNewsletterDetail != undefined && $RCNewsletterDetail != "" ){
+				$RCNewsletterDetail.on('click', function(){
+					$eventCategory = "RCNewsletter";
+					$eventAction = "detail";
+					ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+				});
+			}
+		}
+	}
+
+	//*** area9: article
+	//*** Newsletter register
+	// PC only / No-login only
+	// search in article area
+	var $area9 = $atclArea.find('div.mail-magazine-article');
+
+	if( $area9 != undefined && $area9 != "" ){
+		var $atclNewsletterBtn = $area9.find('a.js_btn-submit');
+		// url check - newsletter member register page only
+		var $formAtclNewsletter = $area9.find('form#formMember_newsletter_article[action*="/member/register/newsletter/process"]');
+		if( $formAtclNewsletter != undefined && $formAtclNewsletter != "" ){
+			// GA Article Newsletter-1 register button click event
+			if($atclNewsletterBtn != undefined && $atclNewsletterBtn != "" ){
+				$atclNewsletterBtn.on('click', function(){
+					// check button disabled
+					if ( $atclNewsletterBtn.hasClass("disable") != true) {
+						$eventCategory = "ArticleNewsletter";
+						$eventAction = "register-btn";
+						ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+					}
+				});
+			}
+		}
+		
+		// url check - newsletter member register page only
+		var $atclNewsletterDetail = $area9.find('a.ga-ArticleNewsletter-detail[href*="/member/register/newsletter"]');
+
+		// GA Article Newsletter-2 link click event
+		if($atclNewsletterDetail != undefined && $atclNewsletterDetail != "" ){
+			$atclNewsletterDetail.on('click', function(){
+				$eventCategory = "ArticleNewsletter";
+				$eventAction = "detail";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+</script>
+<script>
+     // Twitter api
+     twttr.ready(function (twttr) {
+         twttr.events.bind(
+           'follow',
+           function (event) {
+             var narURL = window.location.href;
+             ga('send', 'social', {
+                 'socialNetwork': 'Twitter',
+                 'socialAction': 'follow',
+                 'socialTarget':  narURL
+             });
+              ga('send', 'event', 'Twitter', 'follow', 'Twitter-follow',0,{nonInteraction:true});
+           }
+         );
+     });
+</script>
+	<script type="text/javascript">
+$(function(){ 
+var obCheck = document.querySelectorAll('.articleBodyText p').length;
+if ((obCheck >= 1) && (authority == "A1")) {
+var tPageCheck_flag = false;
+if(cms_section == 8 || cms_section == 10){
+var current_cookie_name = String(now_date.getFullYear())+String(now_date.getMonth()+1)+"vc";
+var current_user_view_count = getCookie(current_cookie_name);
+var current_cookie_nameList = current_cookie_name+"l";
+var current_user_view_article_list = getCookieList(current_cookie_nameList);
+var in_array_flag = false;
+for(var i = 0; i < current_user_view_article_list.length; i++) {
+if(current_user_view_article_list[i] == article) {
+in_array_flag = true;
+}
+}
+if((current_user_view_count >= article_limit) && !in_array_flag){
+tPageCheck_flag = true;
+} 
+}
+if(tPageCheck_flag){
+var sublinkID = "";
+sublinkID = $("#insert_modal_gd08_01 #subscribe").attr("href");
+$("#insert_modal_gd08_01 #subscribe").attr("href", sublinkID + "&aid=JD6p8hccGp");
+var buttonID = "";
+buttonID = $("#insert_modal_gd08_01 #subscribe-btn").attr("href");
+$("#insert_modal_gd08_01 #subscribe-btn").attr("href", buttonID + "&aid=JD6p8hccGp");
+
+}
+}
+});
+</script>
+
+<script type="text/javascript">
+$(function() {
+if(document.URL.match("/member/register/newsletter")) {
+$("#NLMInputTit > .comp-txt").after('<p><img src="/static/pr/20170831ASEANpromo970x400.png" alt="" width="970"></p>');
+}
+
+});
+</script>
+
+<script type="text/javascript">
+$(function() {
+var pmsForTarget = "";
+pmsForTarget = location.search;
+if(document.URL.match("/member/register/newsletter/complete") || (document.URL.match("/member/register/newsletter/error") && pmsForTarget.match(/NG[12]/))) {
+$(".form-box").append('<br /><p><a href="/lp/reportpdf/aseanat50.pdf" target="_blank"><img src="/static/pr/20170831ASEANpromo950x200v2.png" alt="" width="950"></a></p>');
+}
+
+});
+</script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1000997403;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000997403/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">
+    window._tfa = window._tfa || [];
+    _tfa.push({notify:"action", name: 'page_view'});
+</script>
+<script src="//cdn.taboola.com/libtrc/nikkeiasianreview-sc/tfa.js"></script>
+</div>
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+</body>
+</html>

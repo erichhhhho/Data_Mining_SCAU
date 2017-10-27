@@ -1,0 +1,1718 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# video: http://ogp.me/ns/video#">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<!-- Metadata -->
+	<title>Chinaâs AI Awakeningä¸­å½ äººå·¥æºè½ çå´èµ· - MIT Technology Review</title>
+	<meta name="description" content="The West shouldnât fear Chinaâs artificial-intelligence revolution. It should copy it."><meta name="news_keywords" content="China, Tencent, Baidu, Alibaba, artificial intelligence, machine learning, Andrew Ng, SenseTime">
+
+	<meta name="author" content="Will Knight"/>
+
+	<meta name="standout" content="https://www.technologyreview.com/s/609038/chinas-ai-awakening/"/>
+
+	<!-- Open Graph -->
+	<meta property="og:url" content="https://www.technologyreview.com/s/609038/chinas-ai-awakening/"><meta property="og:title" content="The West should stop worrying about Chinaâs AI revolution"><meta property="og:type" content="article"><meta property="og:updated_time" content="2017-10-20T11:28:42-04:00"><meta property="og:image" content="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=64&cw=1440&ch=810&sw=1200">
+	<meta property="og:image:url" content="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=64&cw=1440&ch=810&sw=1200">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="1440">
+	<meta property="og:image:height" content="960">
+	<meta property="og:description" content="The West shouldnât fear Chinaâs artificial-intelligence revolution. It should copy it."><meta property="og:site_name" content="MIT Technology Review">
+
+	<!-- Twitter -->
+	
+		<meta name="twitter:card" content="summary_large_image">
+		
+		<meta name="twitter:site" content="@techreview">
+		
+		<meta name="twitter:description" content="The West shouldnât fear Chinaâs artificial-intelligence revolution. It should copy it.">
+		
+		<meta name="twitter:title" content="The West should stop worrying about Chinaâs AI revolution">
+		
+		<meta name="twitter:image" content="https://www.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=560&cx=0&cy=64&cw=1440&ch=810">
+		
+
+	<!-- Schema.org -->
+	<script type="application/ld+json" id="NewsArticle">{"@context":"http://schema.org","@type":"NewsArticle","headline":"Chinaâs AI Awakening<br />ä¸­å½ äººå·¥æºè½ çå´èµ·","description":"The West shouldnât fear Chinaâs artificial-intelligence revolution. It should copy it.","url":"https://www.technologyreview.com/s/609038/chinas-ai-awakening/","dateCreated":"2017-10-10T00:00:00-04:00","datePublished":"2017-10-10T00:00:00-04:00","dateModified":"2017-10-20T11:28:42-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"/s/609038/chinas-ai-awakening/"},"creator":"Will Knight","author":{"@type":"Person","name":"Will Knight"},"publisher":{"@type":"Organization","name":"MIT Technology Review","logo":{"@type":"ImageObject","url":"https://cdn.technologyreview.com/_/img/stacked-logo.svg","width":184,"height":90}},"keywords":["Andrew Ng","China","Baidu","Alibaba","AI","artificial intelligence","machine learning","SenseTime","EmTech MIT 2017","MIT Technology Review Events","EmTech Digital 2018"],"thumbnailUrl":"https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1440","image":{"@type":"ImageObject","url":"https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1440","height":1440,"width":960},"articleSection":"Intelligent Machines"}</script><script type="application/ld+json" id="Organization">{"@context":"schema.org","@type":"Organization","name":"MIT Technology Review","address":{"@type":"PostalAddress","addressLocality":"Cambridge, MA, USA","postalCode":"02142","streetAddress":"1 Main Street"}}</script><script type="application/ld+json" id="searchBox">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.technologyreview.com","potentialAction":{"@type":"SearchAction","target":"https://www.technologyreview.com/search/?s={s}","query-input":"required name=s"}}</script><script type="application/ld+json" id="searchBreadcrumbs">{"@context":"http://schema.org","@type":"WebSite","name":"MIT Technology Review","alternateName":"Technologyreview.com","url":"https://www.technologyreview.com"}</script>
+
+	
+	<link rel="canonical" href="https://www.technologyreview.com/s/609038/chinas-ai-awakening/">
+	
+
+	
+	<link rel="amphtml" href="https://www.technologyreview.com/s/609038/chinas-ai-awakening/amp/">
+	
+
+	
+
+	<!-- Google Sign-in -->
+	<meta name="google-signin-client_id" content="420520515534.apps.googleusercontent.com">
+
+	<!-- Facebook Instant Articles -->
+	<meta property="fb:pages" content="17043549797" />
+
+	
+<link rel="stylesheet" href="https://cdn.technologyreview.com/_/dist/css/article.css">
+
+
+	<!-- Stylesheets -->
+	
+
+	<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.0.5/es5-shim.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<![endif]-->
+
+	<!-- Google Tag Manager Data Layer-->
+	
+	<script>
+	dataLayer = [{"Contributor":"Will Knight","Pubdate":"2017-10-10","PageDetails":"Featured Story","Channel":"Computing","Topic":"Intelligent Machines","LoggedInHit":"no","AlumStatusHit":"unknown","InsiderStatusHit":"unknown"}];
+	</script>
+	
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TRBQMN');</script>
+
+	
+	</head>
+<body class=""
+	data-model="master"
+	rv-class-js-mobile-nav-is-open="mobileNav.open"
+	rv-class-js-mobile-nav-is-fixed="mobileNav.fixed"
+	rv-class-js-nav-is-open="nav.open"
+	rv-class-js-nav-is-fixed="nav.fixed"
+	rv-class-js-search-is-open="search.open"
+
+	
+	>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TRBQMN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+	
+	<!-- Fullpage Interstitial -->
+	<div id="fullpage-interstitial-overlay">
+		<div id="fullpage-interstitial-container">
+			<div id="subscriber-roadblock" class="adunit"
+				data-adunit="__subscriber/__roadblock"
+				data-size-mapping="subscriber-roadblock"
+				data-active="false">
+			</div>
+		</div>
+	</div>
+	
+
+	<section class="incognito-wall">
+	<div class="incognito-wall__wrapper">
+		<a href="/"><img class="incognito-wall__logo" src="https://cdn.technologyreview.com/_/img/stacked-logo.svg?v=2" alt="MIT Technology Review"></a>
+		<div class="incognito-wall__intro">
+			<p>Hello,</p>
+			<p>We noticed you're browsing in private or incognito mode.</p>
+		</div>
+		<div class="incognito-wall__body">
+			<p>To continue reading this article, please exit incognito mode
+				or <a href="/auth/login/?redirectTo=%2Fs%2F609038%2Fchinas-ai-awakening%2F">log in</a>.</p>
+			<p>Not an Insider? Subscribe now for unlimited access to online articles.</p>
+			<a href="/insider/pricing/" class="btn btn--primary--transparent incognito-wall__subscribe-btn">
+				<span class="txt">Subscribe today</span>
+				<span class="btn--primary--transparent__icon">
+<svg class="btn__icon--angle-arrow" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 10.1 10.1" enable-background="new 0 0 10.1 10.1" xml:space="preserve">
+	<polygon fill="#FFFFFF" points="0.9,0 0.9,2.5 5.9,2.5 0,8.4 1.8,10.1 7.6,4.3 7.6,9.2 10.1,9.2 10.1,0 "/>
+</svg>
+</span>
+			</a>
+		</div>
+		<div class="incognito-wall__footer">
+			<h4>Why we made this change</h4>
+			<p>Visitors are allowed 3 free articles per month (without a subscription), and private browsing prevents us from counting how many stories you've read. We hope you understand, and consider <a href="/insider/pricing/">subscribing</a> for unlimited online access.</p>
+			<div><a href="/">Back to MIT Technology Review home</a></div>
+			<div><a href="/help/contact/">Contact customer service</a> if you are seeing this message in error.</div>
+		</div>
+	</div>
+</section>
+
+
+	
+
+	
+		<!-- Site Header / Nav -->
+		
+	
+
+<header id="header" role="banner">
+	<nav class="navbar">
+		<div class="navbar__width">
+			<a class="navbar__logo-mod" href="/">
+				<img class="navbar__logo" src="https://cdn.technologyreview.com/_/img/stacked-logo.svg?v=2" alt="MIT Technology Review">
+			</a><!-- header-logo -->
+
+			
+				<button class="navbar__mobile-menu" data-mobile-menu="toggle">Menu</button>
+			
+
+			
+			
+
+			<div class="navbar__navigation">
+				<ul class="navbar--primary">
+
+					
+
+					<li class="navbar__item--primary navbar__item--expandable navbar__item--primary--topics">
+						<span class="navbar__item__link navbar__item__link--primary navbar__item__link--expandable">Topics<span class="navbar__item__link--expandable__plus"></span></span>
+						<ul class="navbar__dropdown">
+							<li class="navbar__topics__section-container">
+								<ul class="navbar__topics__section--topics">
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/topic/business-impact/">Business Impact</a></li>
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/topic/connectivity/">Connectivity</a></li>
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/topic/intelligent-machines/">Intelligent Machines</a></li>
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/topic/rewriting-life/">Rewriting Life</a></li>
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/topic/sustainable-energy/">Sustainable Energy</a></li>
+								</ul>
+							</li>
+							<li class="navbar__topics__section-container">
+								<ul class="navbar__topics__section--lists">
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/lists/technologies/">10 Breakthrough Technologies</a></li>
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/lists/innovators-under-35/">35 Innovators Under 35</a></li>
+									<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/lists/companies/">50 Smartest Companies</a></li>
+								</ul>
+							</li>
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/views/">Views</a></li>
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/views-from-the-marketplace/">Views from the Marketplace</a></li>
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/hub/possibility-report/">The Possibility Report</a></li>
+						</ul>
+					</li>
+
+					<li class="navbar__item--primary"><a class="navbar__item__link navbar__item__link--primary" href="/the-download/">The Download</a></li>
+					<li class="navbar__item--primary"><a class="navbar__item__link navbar__item__link--primary" href="/magazine/">Magazine</a></li>
+					<li class="navbar__item--primary"><a class="navbar__item__link navbar__item__link--primary" href="http://events.technologyreview.com/">Events</a></li>
+
+					<li class="navbar__item--primary navbar__item--expandable navbar__item--primary--more">
+						<span class="navbar__item__link navbar__item__link--primary navbar__item__link--expandable">More<span class="navbar__item__link--expandable__plus"></span></span>
+						<ul class="navbar__dropdown">
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/videos/">Video</a></li>
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/magazine/special-publications/">Special Publications</a></li>
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/mit-news/">MIT News Magazine</a></li>
+							<li class="navbar__dropdown__item"><a class="navbar__dropdown__item-link" href="/help/">Help/Support</a></li>
+						</ul>
+					</li>
+
+					<!-- Redundent account menu implementation for devices -->
+					
+					<li class="navbar__item--primary navbar__item--primary--account navbar__item--phone">
+						<a href="/auth/login/?redirectTo=%2Fs%2F609038%2Fchinas-ai-awakening%2F" class="navbar__item__link navbar__item__link--primary" rel="nofollow">Log in / Register</a>
+					</li>
+					
+				</ul><!-- primary nav -->
+
+				
+				<ul class="navbar--tertiary">
+					
+					<li class="navbar__item--tertiary navbar__item--tertiary--subscribe"><a href="/subscribe/" class="navbar__item__link navbar__item__link--tertiary btn btn--primary">
+						<span class="txt">Subscribe</span>
+						<span class="btn--primary__icon"></span>
+					</a></li>
+					
+				</ul><!-- tertiary nav -->
+				
+
+				<!-- Secondary Navbar -->
+				<ul class="navbar--secondary">
+					
+					<li class="navbar__item--secondary navbar__item--secondary--login"><a href="/auth/login/?redirectTo=%2Fs%2F609038%2Fchinas-ai-awakening%2F" class="navbar__item__link navbar__item__link--secondary" rel="nofollow">Log in / Register</a></li>
+					
+					<a data-toggle="search-form" rv-unless="entries.searchpage">
+						<li class="navbar__item--secondary navbar__item--search dropdown-nav__item">
+								<span class="navbar__desktop-search--text"><span rv-text="search.menuLabel">Search</span><i class="search-icon"></i></span>
+						</li>
+					</a>
+				</ul><!-- secondary nav -->
+				<ul class="navbar--search">
+					<li class="navbar__item--search">
+						<form id="search-form" class="navbar__mobile-search" action="/search/">
+							<a class="navbar__mobile-search__close" data-search="close"></a>
+							<input class="navbar__mobile-search__input" data-search="search-terms" type="text" name="s" autocomplete="off" placeholder="Search" rv-value="entries.params.query">
+							<input class="navbar__mobile-search__button" data-search="submit" type="submit" value="">
+							<p class="query-notice" rv-show="entries.loading" rv-if="entries"><span>Click search or press enter</span></p>
+						</form>
+					</li>
+				</ul>
+			</div><!-- header-navbar -->
+		</div>
+	</nav><!-- .navbar -->
+</header>
+
+		<!-- Leaderboard -->
+		<div class="adunit ad--leaderboard"
+	data-adunit="__site/__leaderboard"
+	data-size-mapping="leaderboard"
+	data-active="false">
+</div>
+	
+
+
+
+	<!-- Ribbon -->
+	
+
+	
+
+	<!-- Main -->
+	<main class="site-content" role="main">
+		<section data-entry-parent>
+			<article data-entry-id="609038" data-type="article" class="article ">
+				<div class="article-body">
+					
+
+	<!-- Article Topper: Horizontal -->
+<div class="l-article-topper l-article-topper--horizontal" data-topper-layout="horizontal" data-topper-type="standard">
+
+	<div class="article-topper__media-wrap">
+		
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1180&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=2360&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1024&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=2048&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=850&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1700&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=550&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1100&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=401&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=802&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 2x"><img class="article-topper__image" src="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1180&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=1180&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=2360&amp;cx=0&amp;cy=8&amp;cw=1440&amp;ch=949 2x"><div class="article-enlarge"></div></picture>
+
+
+		
+
+		
+		<li class="article-topper__horizontal--illustration">Lintao Zhang/GETTY</li>
+		
+
+	</div>
+
+	<div class="article-topper__header-wrap">
+
+		<div class="article-topper__hgroup">
+
+			<div class="article-topper__hgroup--top">
+				
+					
+
+	
+		<h3 class="article-topper__topic">
+			
+			<a href="/topic/intelligent-machines/" class="entry__term">Intelligent Machines</a>
+			
+
+			
+
+		</h3>
+	
+
+
+
+				
+
+				<h1 class="article-topper__title">Chinaâs AI Awakening<br />ä¸­å½ äººå·¥æºè½ çå´èµ·</h1>
+
+			</div>
+
+			<div class="article-topper__hgroup--bottom">
+
+				
+				<h2 class="article-topper__subtitle">The West shouldnât fear Chinaâs artificial-intelligence revolution. It should copy it.</h2>
+				
+
+				
+				<ul class="article-topper__meta-info">
+				
+
+					
+					<li class="article-topper__meta-item">
+						by <!-- Article Topper: Byline -->
+
+	
+		<a href="/profile/will-knight/">Will Knight</a>
+	
+
+
+					</li>
+					
+
+					
+					<li class="article-topper__meta-item">October 10, 2017</li>
+									
+
+				</ul>
+
+				
+
+			</div>
+
+		</div>
+
+		
+
+	</div>
+
+	<div class="adunit ad--right-rail"
+	data-adunit="__site/__square-rectangle"
+	data-size-mapping="square-rectangle--desktop"
+	data-active="false">
+</div>
+
+</div>
+
+
+
+	
+<ul class="social-list" data-share-id="609038" addthis:url="https://www.technologyreview.com/s/609038/chinas-ai-awakening/" addthis:title="The West should stop worrying about Chinaâs AI revolution"><li class="disqus-container social-list__item">
+		<a href="#disqus_thread" class="scroll-to-comments social-list__link">
+			<div class="disqus-comment-count" data-disqus-identifier="nid_609038"></div>
+		</a>
+	</li><li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_facebook"><i class="ion-social-facebook"></i></a>
+	</li>
+	<li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_twitter"><i class="ion-social-twitter"></i></a>
+	</li>
+	<li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_reddit"><i class="ion-social-reddit"></i></a>
+	</li>
+	<li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_email"><i class="ion-ios-email"></i></a>
+	</li>
+	
+</ul>
+
+
+
+<div class="article-body__content">
+
+	 
+
+		<p>On a tropical island that marks the southern tip of China, a computer program called Lengpudashi is playing one-on-one poker against a dozen people at once, and itâs absolutely crushing them. Lengpudashi, which means âcold poker masterâ in Mandarin, is using a new artificial-intelligence technique to outbet and outbluff its opponents in a two-player version of Texas hold âem.</p> 
+
+		<p>The venue for the tournament is a modern-looking technology park in Haikou, capital of the island of Hainan. Outside, modern high-rises loom over aging neighborhoods. Those gathered to play the machine include several poker champs, some well-known Chinese investors, entrepreneurs, and CEOs, and even the odd television celebrity. The games are being broadcast online, and millions are watching. The event symbolizes a growing sense of excitement and enthusiasm for artificial intelligence in China, but thereâs also a problem. Lengpudashi wasnât made in Hainan, Beijing, or Shanghai; it was built in Pittsburgh, U.S.A.</p><div class="adunit ad--square-only ad--article-body"
+	data-adunit="__site/__square-rectangle"
+	data-size-mapping="square-rectangle--mobile"
+	data-active="false">
+</div>		
+						
+		 
+
+		<p>For many in China, this simply wonât do. The country is now embarking on an unprecedented effort to master artificial intelligence. Its government is planning to pour hundreds of billions of yuan (tens of billions of dollars) into the technology in coming years, and companies are investing heavily in nurturing and developing AI talent. If this country-Â­wide effort succeedsâand there are many signs it willâChina could emerge as a leading force in AI, improving the productivity of its industries and helping it become leader in creating new businesses that leverage the technology. And if, as many believe, AI is the key to future growth, Chinaâs prowess in the field will help fortify its position as the dominant economic power in the world.</p> 
+
+		
+
+
+
+
+
+<figure class="l-magazine-promo"
+	data-widget-type="imageset"
+	data-widget-layout="magazine-promo">
+
+	<a class="magazine-promo-picture" href="/magazine/2017/11/">
+
+	
+<picture><img class="magazine-promo" src="https://cdn.technologyreview.com/i/images/nd17coverx2000.jpg?sw=180" srcset="https://cdn.technologyreview.com/i/images/nd17coverx2000.jpg?sw=180 1x,https://cdn.technologyreview.com/i/images/nd17coverx2000.jpg?sw=360 2x"></picture>
+
+
+	</a>
+	<figcaption class="magazine-promo magazine-promo-cap">
+		
+		<div class="magazine-promo-cap__heading">This story is part of our November/December 2017 Issue</div>
+		
+		<div class="magazine-promo-cap__bar"></div>
+		<a href="/magazine/2017/11/" class="magazine-promo-cap__cta">See the rest of the issue</a><br />
+		
+			<a href="/subscribe/" class="magazine-promo-cap__cta">Subscribe</a>
+		
+	</figcaption>
+</figure>
+<aside class="l-pullquote--3col
+				 pullquote-style--default
+				 pullquote-size--large" 
+		data-widget-type="quote" 
+		data-widget-layout="3col">
+
+	<p class="pullquote__text pullquote__text--quote">Artificial intelligence may have been invented in the West, but you can see its future taking shape on the other side of the world.</p>
+	
+</aside>
+ 
+
+		<p>Indeed, the countryâs political and business leaders are betting that AI can jump-start its economy. In recent decades, a booming manufacturing sectorâand market reforms encouraging foreign trade and investmentâhave helped bring hundreds of millions of people out of poverty, creating business empires and transforming Chinese society. But manufacturing growth is slowing, and the country is looking toward a future built around advanced technology (see â<a href="https://www.technologyreview.com/s/601215/china-is-building-a-robot-army-of-model-workers/" target="_blank">China Is Building a Robot Army of Model Workers</a>â). Applying artificial intelligence may be the next step in this technology-fueled economic miracle. While many in the West fret about AI eliminating jobs and worsening wealth and income inequality, China seems to believe it can bring about precisely the opposite outcomes.</p> 
+
+		<p>Chinaâs AI push includes an extraordinary commitment from the government, which recently announced a sweeping vision for AI ascendancy. <a href="http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm" target="_blank">The plan</a> calls for homegrown AI to match that developed in the West within three years, for Chinaâs researchers to be making âmajor breakthroughsâ by 2025, and for Chinese AI to be the envy of the world by 2030.</p> 
+
+		<p>There are good reasons to believe the country can make this vision real. In the early 2000s, the government said it wanted to build a high-speed rail network that would spur technological development and improve the countryâs transportation system. This train network is now the most advanced in the world. âWhen the Chinese government announces a plan like this, it has significant implications for the country and the economy,â says <a href="http://www.andrewng.org/" target="_blank">Andrew Ng</a>, a prominent AI expert who previously oversaw AI technology and strategy at Chinaâs biggest online search company, Baidu. âItâs a very strong signal to everyone that things will happen.â</p> 
+
+		
+
+
+
+
+
+<div class="l-automated-related--single">
+    <div class="automated-related-heading">
+        <span class="automated-related-label">Related Story</span>
+    </div>
+
+    
+
+	
+    <a class="automated-related-picture" href="/lists/companies/2017/" data-event-category="recirculation" data-event-action="click" data-event-label="single-story-in-body">
+    
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=180&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 1x,https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=360&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=1024&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 1x,https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=2048&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=850&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 1x,https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=1700&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=550&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 1x,https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=1100&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=401&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 1x,https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=802&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 2x"><img class="automated-related-picture-img" src="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=180&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552" srcset="https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=180&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 1x,https://cdn.technologyreview.com/i/images/50horizontal2.png?sw=360&amp;cx=0&amp;cy=0&amp;cw=2760&amp;ch=1552 2x"></picture>
+
+    </a>
+	
+
+    <a class="automated-related-link" href="/lists/companies/2017/" data-event-category="recirculation" data-event-action="click" data-event-label="single-story-in-body">50 Smartest Companies 2017</a>
+    <div class="automated-related-dek" >Our editors pick the 50 companies that best combine innovative technology with an effective business model.</div>
+
+    
+</div>
+
+
+ 
+
+		<p>The governmentâs call to action will accelerate what has already begun to happen. The countryâs tech companies, led by the Internet giants Baidu, Alibaba, and Tencent, are hiring scores of AI experts, building new research centers, and investing in data centers that rival anything operated by Amazon, Google, or Microsoft. Money is also pouring into countless startups as Chinese entrepreneurs and investors spy a huge opportunity to harness AI in different industries.</p> 
+
+		<p>China has some big advantages in AI. It has a wealth of talented engineers and scientists, for one. It also is rich in the data necessary to train AI systems. With fewer obstacles to data collection and use, China is amassing huge databases that donât exist in other countries. The results can be seen in the growth of facial-recognition systems based on machine learning: they now identify workers at offices and customers in stores, and they authenticate users of mobile apps.</p> 
+
+		<p>The nationwide <a href="https://www.technologyreview.com/s/604125/a-top-poker-playing-algorithm-is-cleaning-up-in-china/" target="_blank">interest in the poker tournament</a> in Hainan reflects Chinaâs appetite for the latest artificial-Â­intelligence breakthroughs. Mastering even a two-player form of poker is a significant achievement for AI because, unlike many other games, poker requires players to act with limited information, and to sow uncertainty by behaving unpredictably. An optimal strategy therefore requires both careful and instinctive judgment, which are not easy qualities to give a machine. Lengpudashi impressively solved the problem by using a brilliant new game-theory algorithm, which could be very useful in many other scenarios, including financial trading and business negotiations. But Lengpudashi has received far less attention in its home country than it has in Hainan.</p> 
+
+		<p>To explore Chinaâs AI revolution and its implications, Iâve traveled to the heart of this boom and met with many of the key researchers, entrepreneurs, and executives. From Chinaâs bustling capital to its factory-filled south, and from an ambitious new research center to a billion-dollar startup, one thing is clear: artificial intelligence may have been invented in the West, but you can see its future taking shape on the other side of the world.</p> 
+
+		<h3>çä¸æ¹<br>Look east</h3> 
+
+		<p>My journey begins at MIT, one of the wellsprings of artificial intelligence. Kai-Fu Lee, a well-known Chinese AI expert and investor and one of the organizers of the Hainan tournament, has come to recruit students for a new AI institute that his company, <a href="http://www.sinovationventures.com/" target="_blank">Sinovation Ventures</a>, is building in Beijing.</p> 
+
+		
+
+
+	
+
+
+<figure class="l-article-img l-article-img--6col"
+	data-widget-type="imageset"
+	data-widget-layout="6col">
+
+	
+
+	
+		
+
+		
+			
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=570&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=1140&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=1024&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=2048&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=850&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=1700&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=550&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=1100&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=401&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=802&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 2x"><img class="article-img article-img--6col" src="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=570&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=570&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=1140&amp;cx=0&amp;cy=0&amp;cw=1545&amp;ch=1030 2x"><div class="article-enlarge"></div></picture>
+
+		
+
+		
+
+	
+
+	
+		<figcaption class="article-cap article-cap--6col">
+			
+			Kai-Fu Lee is CEO of the venture capital firm Sinovation Ventures.
+			
+			
+		</figcaption>
+		
+</figure>
+ 
+
+		<p>Lee gives a talk entirely in Mandarin to an auditorium packed with about 300 Chinese students. He is dressed impeccably, in an expensive-looking suit and dress shirt, and he speaks in a confident, soothing tone. The talk touches on the interwoven trends that have driven the recent rise in machine intelligence: more powerful computers, ingenious new algorithms, and huge quantities of data. He argues that China is perfectly poised to take advantage of these advances.</p> 
+
+		<p>âThe U.S. and Canada have the best AI researchers in the world, but China has hundreds of people who are good, and way more data,â he tells the audience. âAI is an area where you need to evolve the algorithm and the data together; a large amount of data makes a large amount of difference.â</p> 
+
+		<p>In 1998 Lee founded Microsoftâs Beijing research lab, which showcased the countryâs exciting talent pool (see â<a href="https://www.technologyreview.com/s/402786/the-worlds-hottest-computer-lab/" target="_blank">An Age of Ambition</a>â). Then, in 2005, he became the founding president of Google China. Lee is now famous for mentoring young entrepreneurs, and he has more than 50 million followers on the Chinese microblogging platform Sina Weibo.</p> 
+
+		<p>In the audience are exactly the type of prized students who would normally flock to Silicon Valley. But many are clearly taken by Leeâs message of opportunities in China. The crowd hangs on his every word, and some people clamor for autographs afterward. âToday the U.S. has a technology leadership,â Lee tells me later. âBut China has a tremendous amount of potential.â</p> 
+
+		<aside class="l-pullquote--3col
+				 pullquote-style--default
+				 pullquote-size--default" 
+		data-widget-type="quote" 
+		data-widget-layout="3col">
+
+	<p class="pullquote__text pullquote__text--quote">âThe titans of industry [in China] have seen fortunes made and fortunes lost all within their lifetime.â</p>
+	
+	<p class="pullquote__attr">Andrew Ng</p>
+	
+</aside>
+ 
+
+		<p>To see what this potential looks like up close, I travel to Leeâs new institute, half a world away from MIT, in Beijingâs Haidian district. The streets outside are filled with people on colorful ride-sharing bikes. I pass lots of fashionable-looking young techies as well as people delivering breakfastâordered via smartphone, no doubtâto busy workers. At the time of my visit, a major AI event is taking place a few hundred miles to the south in Wuzhen, a picturesque town of waterways. <a href="https://deepmind.com/research/alphago/" target="_blank">AlphaGo</a>, a program developed by researchers at the Alphabet subsidiary DeepMind, is playing the ancient board game Go against several top Chinese players, including the worldâs number one, Ke Jie. And itâs soundly beating them.</p> 
+
+		<p>AlphaGoâs victories in Wuzhen are followed closely in the Chinese capital. As I enter Sinovationâs institute, in fact, I notice a Go board on which engineers are testing out the moves made during some of the matches.</p> 
+
+		<p>The location of the institute is well chosen. From the office windows, you can see the campuses of both Peking University and Tsinghua University, two of Chinaâs top academic institutions. Sinovation provides machine-learning tools and data sets to train Chinese engineers, and it offers expertise for companies hoping to make use of AI. The institute has about 30 full-time employees so far, but the plan is to employ more than 100 by next year, and to train hundreds of AI experts each year through internships and boot camps. Right now, roughly 80 percent of the instituteâs funding and projects are aimed at commercializing AI, while the rest is focused on more far-out technology research and startup incubation.</p> 
+
+		<p>The goal isnât to invent the next AlphaGo, though; itâs to upgrade thousands of companies across China using AI. Lee says many Chinese businesses, including the big state-owned enterprises, are technologically backward and ripe for overhaul, but they lack any AI expertise themselves. Needless to say, this presents an enormous opportunity.</p> 
+
+		<h3>äººå·¥æºè½æ å¤ä¸å¨<br>AI everywhere</h3> 
+
+		<p>Across the capital, in fact, I notice a remarkable amount of interest in artificial intelligence. In one restaurant, for instance, I find a machine that takes my picture and then supposedly uses AI to determine how healthy I am. This seems completely impossible, but the machine says Iâm in great shape before suggesting that I have plenty to eat.</p> 
+
+		<p>This fascination with the technology is reflected in Beijingâs feverish startup scene, which is already producing some formidable AI companies. One of them is <a href="https://www.sensetime.com/" target="_blank">SenseTime</a>, which was founded in 2014 and is already among the worldâs most valuable AI startups. Launched by researchers from the Chinese University of Hong Kong, SenseTime provides computer-vision technology to big Chinese companies, including the state-owned cellular provider China Mobile and the online retail giant JD.com. The company is now studying markets such as automotive systems. This July, Â­SenseTime raised $410 million in funding, giving it a valuation of $1.5 billion. The entrance to SenseTimeâs office features several large screens fitted with cameras. One can automatically add augmented-reality effects to a personâs face. Snapchat and Instagram offer similar gimmicks, but this one can also add effects in response to hand and body movements as well as smiles or winks.</p> 
+
+		<aside class="l-pullquote--3col
+				 pullquote-style--default
+				 pullquote-size--large" 
+		data-widget-type="quote" 
+		data-widget-layout="3col">
+
+	<p class="pullquote__text pullquote__text--quote">ä¸­å½æ¾ç»é¢åäºä¸ç</p>
+	
+	<p class="pullquote__attr">âChina was leading the world then.</p>
+	
+</aside>
+ 
+
+		<aside class="l-pullquote--3col
+				 pullquote-style--default
+				 pullquote-size--large" 
+		data-widget-type="quote" 
+		data-widget-layout="3col">
+
+	<p class="pullquote__text pullquote__text--quote">æªæ¥æä»¬å°åæ¬¡æä¸ºé¢å¯¼èÂ </p>
+	
+	<p class="pullquote__attr">And in the future, we will lead again.â</p>
+	
+</aside>
+ 
+
+		<p><a href="https://sites.google.com/site/luanqing1021/" target="_blank">Qing Luan</a>, director of SenseTimeâs augmented-reality group, previously developed office apps for Microsoft in Redmond, Washington. She says she returned to China because the opportunities just seemed much bigger. âWe were struggling to get a thousand users; then I talked with my friend who was working at a startup in China, and she said, âOh, a million users is nothingâwe get that in several days,ââ she recalls.</p> 
+
+		<p>Earlier this year SenseTimeâs engineers developed a novel image-processing technique for automatically removing smog and rain from photographs, and another for tracking full-body motion using a single camera. Last year they were part of a team that won a prestigious international computer-vision award.</p> 
+
+		<p><a href="https://www.ie.cuhk.edu.hk/people/xotang.shtml" target="_blank">Xiaoou Tang</a>, SenseTimeâs founder and a professor at the Chinese University of Hong Kong, is wearing a suede jacket, slacks, and glasses, and he has an intense air about him. He seems fiercely proud of his companyâs achievements. Tang explains that the companyâs name comes from a phonetic transcription of the name of the Shang dynasty and of its first ruler, Tang. This era, beginning around 1600 bce, was a critical age of development for the country. âChina was leading the world then,â Tang says with a smile. âAnd in the future, we will lead again with technological innovations.â</p> 
+
+		<h3>æºè½å¶é <br>Manufacturing intelligence</h3> 
+
+		<p>In the United States and other Western nations, many large sectors, such as manufacturing and services, have been slow to invest in AI and change their business practices. In China, there appears to be a greater sense of urgency about adapting to the changing technology. Across just about every industry, Chinese companies are shrugging off their reputation for following Western businesses, and investing heavily in research and development. Ng, who previously led Baiduâs AI effort, says Chinaâs business leaders understand better than most the need to embrace new trends. âThe titans of industry [in China] have seen fortunes made and fortunes lost all within their lifetime,â he says. âWhen you see the tech trends shift, you had better move quickly, or someone else will beat you.â</p> 
+
+		
+
+
+	
+
+
+<figure class="l-article-img l-article-img--full"
+	data-widget-type="imageset"
+	data-widget-layout="full">
+
+	
+
+	
+		
+
+		
+			
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=1180&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=2360&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=1024&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=2048&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=850&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=1700&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=550&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=1100&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=401&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=802&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 2x"><img class="article-img article-img--full" src="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=1180&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410" srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=1180&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 1x,https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=2360&amp;cx=0&amp;cy=0&amp;cw=2115&amp;ch=1410 2x"><div class="article-enlarge"></div></picture>
+
+		
+
+		
+
+	
+
+	
+		<figcaption class="article-cap article-cap--full">
+			
+			The headquarters of the Chinese e-commerce giant Alibaba is in Hangzhou.
+			
+			
+			<div class="article-illustration">courtesy of alibaba</div>
+			
+		</figcaption>
+		
+</figure>
+ 
+
+		<p>Baidu anticipated the potential of artificial intelligence and sought to leverage it to reinvent its whole business. In 2014, the company created a lab dedicated to applying deep learning across its business, and in recent years, its researchers have made some significant advances. When Microsoft developed a system capable of better-than-human performance in speech recognition last year, for instance, few Western reporters realized that Baidu had done that a year earlier.</p> 
+
+		<p>Following Baiduâs example, other Chinese tech companies are also looking to reinvent themselves with AI. The Internet leader <a href="https://www.tencent.com/en-us/index.html" target="_blank">Tencent</a>, headquartered in the city of Shenzhen, is among them.</p> 
+
+		<p>Shenzhen is nestled next to Hong Kong in southern China. Approaching by air, I see an armada of cargo ships moored in the South China Sea. In 1980, when Shenzhen was a small market town, it was designated Chinaâs first Special Economic Zone, granting it unprecedented economic and regulatory freedoms. Manufacturing empires were built on the backs of migrant workers producing every imaginable product, and the population rose from 30,000 to more than 11 million. In recent years, the city has reflected Chinaâs technological progress, and it is now home to global technology companies including the networking giant Huawei, the smartphone maker ZTE, and the electric-car company BYD.</p> 
+
+		<aside class="l-pullquote--3col
+				 pullquote-style--default
+				 pullquote-size--default" 
+		data-widget-type="quote" 
+		data-widget-layout="3col">
+
+	<p class="pullquote__text pullquote__text--quote">Thereâs no reason why Chinaâs AI-fueled economic progress should come at the expense of other countries, if those countries embrace the same technology just as keenly.</p>
+	
+</aside>
+ 
+
+		<p>The cityâs main strip is lined with palm trees, gaudy hotels, and busy bars and restaurants. Tencentâs headquarters, in Nanshan district, spans several large buildings, and the entrance is as busy as a subway station. Stepping inside, out of stifling humidity, I begin a tour that touts Tencentâs history and achievements. And it shows that you donât have to be first in a technology to have a big impact. In 2011, the company launched a simple messaging app, modeled on products already found in the U.S. This would evolve into <a href="https://www.wechat.com/en/" target="_blank">WeChat</a>, an innovative mobile platform that now supports social networking, news, games, and mobile payments. With 889 million daily active users, WeChat now has an incredible grip on Chinaâs Internet market.</p> 
+
+		<p>Although Tencent <a href="https://www.technologyreview.com/s/603070/a-chinese-internet-giant-enters-the-ai-race/" target="_blank">created an AI lab</a> only last year, it has hired scores of researchers and opened an outpost in Seattle. The companyâs researchers have already copied AI innovations from the West, including DeepMindâs AlphaGo. Tencentâs AI lab is led by Tong Zhang, a quiet man with thin glasses and a round face, who previously worked at Baiduâs AI lab and before that was a professor at Rutgers University. Zhang speaks quietly, usually after a careful pause. He explains that AI will be crucial to Tencentâs plans to grow, especially outside China. âAI is important for the next phase,â he says. âAt a certain stage, you just cannot copy things. You need your own capabilities.â</p> 
+
+		
+
+
+
+
+
+<div class="l-automated-related--single">
+    <div class="automated-related-heading">
+        <span class="automated-related-label">Related Story</span>
+    </div>
+
+    
+
+	
+    <a class="automated-related-picture" href="/s/603494/10-breakthrough-technologies-2017-paying-with-your-face/" data-event-category="recirculation" data-event-action="click" data-event-label="single-story-in-body">
+    
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=180&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 1x,https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=360&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=1024&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 1x,https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=2048&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=850&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 1x,https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=1700&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=550&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 1x,https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=1100&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=401&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 1x,https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=802&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 2x"><img class="automated-related-picture-img" src="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=180&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411" srcset="https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=180&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 1x,https://cdn.technologyreview.com/i/images/paymainillustration_0.jpg?sw=360&amp;cx=0&amp;cy=586&amp;cw=2510&amp;ch=1411 2x"></picture>
+
+    </a>
+	
+
+    <a class="automated-related-link" href="/s/603494/10-breakthrough-technologies-2017-paying-with-your-face/" data-event-category="recirculation" data-event-action="click" data-event-label="single-story-in-body">Paying With Your Face: 10 Breakthrough Technologies 2017</a>
+    <div class="automated-related-dek" >Face-detecting systems in China now authorize payments, provide access to facilities, and track down criminals. Will other countries follow?</div>
+
+    
+</div>
+
+
+ 
+
+		<p>I ask him if Tencent might be planning some spectacular demonstrations of AI, something like AlphaGo or Lengpudashi. Tencent owns several very popular games, including the strategy title League of Legends, which is played by more than 100 million people every month. Like Go, it requires instinctive actions, and like poker, it involves playing without a clear picture of your opponentsâ standing. But it also requires planning far ahead, so it would be a worthy game for AI researchers to tackle next. âRight now, we have a bunch of small projectsâsome are more adventurous,â is all Zhang will say.</p> 
+
+		<p>Tencentâs AI goals may in fact be more practical. The company has an amazing amount of conversation data thanks to WeChat and another messaging platform, called QQ. This data might be used to train machine-learning systems to hold more meaningful conversations. Making advances in language could have countless practical applications, from better document analysis and search to much smarter personal assistants. âThe challenge, and also the opportunity, will be in natural language,â Zhang says.</p> 
+
+		<h3>å®ä¼èå¾<br>Think big</h3> 
+
+		<p>It might be unnerving for Western nations to see a newcomer mastering an important technology, especially when the full potential of that technology remains uncertain. But it is wrong to view this story simply in terms of competition with the West.</p> 
+
+		<p>A big problem facing both the U.S. and China is slowing economic growth. While AI may eliminate certain jobs, it also has the potential to greatly expand the economy and create wealth by making many industries far more efficient and productive. China has embraced that simple fact more eagerly and more completely than many Western nations. But thereâs no reason why Chinaâs AI-fueled economic progress should come at the expense of other countries, if those countries embrace the same technology just as keenly.</p> 
+
+		<p>China might have unparalleled resources and enormous untapped potential, but the West has world-Â­leading expertise and a strong research culture. Rather than worry about Chinaâs progress, it would be wise for Western nations to focus on their existing strengths, investing heavily in research and education. The risk is missing out on an incredibly important technological shift. Yes, companies like Google and Facebook are making important strides in AI today, but this isnât enough to reboot a whole economy. Despite the fanfare around AI, there are few economic signsâsuch as increased productivityâthat most of the economy is taking advantage of the technology yet. Large segments of the economy beyond Silicon Valley, like medicine, service industries, and manufacturing, also need to sign on.</p> 
+
+		<p>I canât help thinking of the poker tournament in Hainan and reflecting that the rest of the world should take inspiration from Lengpudashi, the poker-playing AI. Itâs time to follow Chinaâs lead and go all in on artificial intelligence.</p>
+	
+		<div class="callout--tagged-event-promo" desc="in-story-promo-emtech-reg">
+			<p class="callout__copy">Meet Andrew Ng at EmTech MIT 2017.</p>
+			
+			<a href="http://events.technologyreview.com/emtech/17/?utm_medium=ps_instory&amp;utm_source=site&amp;utm_campaign=emtech2017&amp;utm_term=conference&amp;utm_content=meet_speaker&amp;discount=Meet" class="callout__link">Register now <span class="callout__cta-icon"></span></a><br>
+			
+		</div>
+	
+</div>
+
+<div class="article-enlarge__modal">
+
+
+
+
+
+<!-- Widget: Slideshow -->
+<div data-widget-type="slideshow" class="article-img-enlarge-gallery-container swiper-container">
+	<div class="swiper-wrapper-outer">
+		<div class="article-img-enlarge-gallery-wrapper swiper-wrapper">
+
+
+	
+
+
+
+
+
+
+
+<div class="swiper-slide">
+	<div class="swiper-slide__wrapper">
+		
+		<picture>
+			
+<source
+	media="(min-width: 850px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=8&cw=1440&ch=949&sw=1180 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=8&cw=1440&ch=949&sw=2360 2x"
+/>
+
+			
+<source
+	media="(min-width: 550px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=8&cw=1440&ch=949&sw=850 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=8&cw=1440&ch=949&sw=1700 2x"
+/>
+
+			
+<source
+	media="(min-width: 401px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=8&cw=1440&ch=949&sw=550 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?cx=0&cy=8&cw=1440&ch=949&sw=1100 2x"
+/>
+
+			<img
+				class="article-img article-img--enlarge"
+				srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=401&cx=0&cy=8&cw=1440&ch=949 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=802&cx=0&cy=8&cw=1440&ch=949 2x"
+				alt=""
+				src="https://cdn.technologyreview.com/i/images/nd17-chinaai-1.jpg?sw=802&cx=0&cy=8&cw=1440&ch=949"
+			/>
+			<div class="enlarge-close"></div>
+		</picture>
+
+		
+
+		<figcaption class="article-cap">
+			</strong>
+			
+		</figcaption>
+	</div>
+</div>
+
+
+
+						
+
+
+	
+
+
+
+
+
+
+
+<div class="swiper-slide">
+	<div class="swiper-slide__wrapper">
+		
+		<picture>
+			
+<source
+	media="(min-width: 850px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?cx=0&cy=0&cw=1545&ch=1030&sw=1180 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?cx=0&cy=0&cw=1545&ch=1030&sw=2360 2x"
+/>
+
+			
+<source
+	media="(min-width: 550px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?cx=0&cy=0&cw=1545&ch=1030&sw=850 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?cx=0&cy=0&cw=1545&ch=1030&sw=1700 2x"
+/>
+
+			
+<source
+	media="(min-width: 401px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?cx=0&cy=0&cw=1545&ch=1030&sw=550 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?cx=0&cy=0&cw=1545&ch=1030&sw=1100 2x"
+/>
+
+			<img
+				class="article-img article-img--enlarge"
+				srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=401&cx=0&cy=0&cw=1545&ch=1030 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=802&cx=0&cy=0&cw=1545&ch=1030 2x"
+				alt=""
+				src="https://cdn.technologyreview.com/i/images/nd17-chinaai-2.jpg?sw=802&cx=0&cy=0&cw=1545&ch=1030"
+			/>
+			<div class="enlarge-close"></div>
+		</picture>
+
+		
+
+		<figcaption class="article-cap">
+			</strong>Kai-Fu Lee is CEO of the venture capital firm Sinovation Ventures.
+			
+		</figcaption>
+	</div>
+</div>
+
+
+
+					
+						
+
+
+	
+
+
+
+
+
+
+
+<div class="swiper-slide">
+	<div class="swiper-slide__wrapper">
+		
+		<picture>
+			
+<source
+	media="(min-width: 850px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?cx=0&cy=0&cw=2115&ch=1410&sw=1180 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?cx=0&cy=0&cw=2115&ch=1410&sw=2360 2x"
+/>
+
+			
+<source
+	media="(min-width: 550px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?cx=0&cy=0&cw=2115&ch=1410&sw=850 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?cx=0&cy=0&cw=2115&ch=1410&sw=1700 2x"
+/>
+
+			
+<source
+	media="(min-width: 401px)"
+	srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?cx=0&cy=0&cw=2115&ch=1410&sw=550 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?cx=0&cy=0&cw=2115&ch=1410&sw=1100 2x"
+/>
+
+			<img
+				class="article-img article-img--enlarge"
+				srcset="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=401&cx=0&cy=0&cw=2115&ch=1410 1x, https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=802&cx=0&cy=0&cw=2115&ch=1410 2x"
+				alt=""
+				src="https://cdn.technologyreview.com/i/images/nd17-chinaai-3.jpg?sw=802&cx=0&cy=0&cw=2115&ch=1410"
+			/>
+			<div class="enlarge-close"></div>
+		</picture>
+
+		
+
+		<figcaption class="article-cap">
+			</strong>The headquarters of the Chinese e-commerce giant Alibaba is in Hangzhou.
+			
+			<div class="article-illustration">courtesy of alibaba</div>
+			
+		</figcaption>
+	</div>
+</div>
+
+
+
+					
+
+			
+
+			
+		</div>		
+	</div>
+	
+	<div class="enlarge-gallery-controls__container">
+		<button class="enlarge-gallery-swiper-button enlarge-gallery-swiper-button-prev"></button>
+		<div class="enlarge-gallery-swiper-index-back"><div class="enlarge-gallery-swiper-index-front"><div class="enlarge-swiper-pagination-fraction"></div></div></div>
+		<button class="enlarge-gallery-swiper-button enlarge-gallery-swiper-button-next"></button>
+	</div>
+</div><!-- // end [data-widget-type="slideshow"] --></div>
+
+
+
+
+
+	<footer class="article-footer">
+
+	
+	<div class="article-footer__ad">
+		<div class="adunit ad--square-only"
+	data-adunit="__site/__square-only"
+	data-size-mapping="footer"
+	data-active="false">
+</div>
+	</div>
+	
+
+	<div class="article-footer__main">
+		<div class="article-footer__group article-footer__terms">
+			<div class="sharing--footer">
+			
+<ul class="social-list" data-share-id="609038" addthis:url="https://www.technologyreview.com/s/609038/chinas-ai-awakening/" addthis:title="The West should stop worrying about Chinaâs AI revolution"><li class="disqus-container social-list__item">
+		<a href="#disqus_thread" class="scroll-to-comments social-list__link">
+			<div class="disqus-comment-count" data-disqus-identifier="nid_609038"></div>
+		</a>
+	</li><li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_facebook"><i class="ion-social-facebook"></i></a>
+	</li>
+	<li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_twitter"><i class="ion-social-twitter"></i></a>
+	</li>
+	<li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_reddit"><i class="ion-social-reddit"></i></a>
+	</li>
+	<li class="social-list__item">
+		<a href="#" class="social-list__link addthis_button_email"><i class="ion-ios-email"></i></a>
+	</li>
+	
+</ul>
+
+
+			</div>
+
+			
+			<div class="article-footer__taxonomy">
+				<h3 class="article-footer__term-title">Tagged</h3>
+				<p class="article-footer__term-text">
+					
+					<a href="/g/andrew-ng/" class="article-footer__term-link">Andrew Ng</a>, 
+					
+					<a href="/g/china/" class="article-footer__term-link">China</a>, 
+					
+					<a href="/g/baidu/" class="article-footer__term-link">Baidu</a>, 
+					
+					<a href="/g/alibaba/" class="article-footer__term-link">Alibaba</a>, 
+					
+					<a href="/g/ai/" class="article-footer__term-link">AI</a>, 
+					
+					<a href="/g/artificial-intelligence/" class="article-footer__term-link">artificial intelligence</a>, 
+					
+					<a href="/g/machine-learning/" class="article-footer__term-link">machine learning</a>, 
+					
+					<a href="/g/sensetime/" class="article-footer__term-link">SenseTime</a>, 
+					
+					<a href="/g/emtech-mit-2017/" class="article-footer__term-link">EmTech MIT 2017</a>, 
+					
+					<a href="/g/mit-technology-review-events/" class="article-footer__term-link">MIT Technology Review Events</a>, 
+					
+					<a href="/g/emtech-digital-2018/" class="article-footer__term-link">EmTech Digital 2018</a>
+					
+				</p>
+			</div>
+			
+
+			
+		</div><!-- // end .article-footer__terms -->
+
+		
+		<div class="article-footer__group article-footer__author">
+
+			
+			<div class="article-footer__author__portrait-mod">
+				<img class="article-footer__author__portrait" src="https://cdn.technologyreview.com/i/profiles/avatars/will_knight.png?sw=75" alt="Will Knight">
+			</div>
+			
+
+			<div class="article-footer__author__text article-footer__author__text-with-avatar">
+				<p class="article-footer__author__name"><a href="/profile/will-knight/">Will Knight</a> <span class="article-footer__author__title">Senior Editor, AI</span></p>
+				
+				<p class="article-footer__author_bio">I am the senior editor for AI at <i>MIT Technology Review</i>. I mainly cover machine intelligence, robots, and automation, but Iâm interested in most aspects of computing. I grew up in south London, and I wrote my first line of code (a spell-binding<span class="truncate__trigger">&hellip; <a href="#" data-truncate="trigger">More</a></span><span data-truncate="extended" class="truncate__extended"> infinite loop) on a mighty Sinclair ZX Spectrum. Before joining this publication, I worked as the online editor at <i>New Scientist</i> magazine. If youâd like to get in touch, please send an e-mail to <a href="mailto:will.knight@technologyreview.com">will.knight@technologyreview.com</a>.</span></p>
+				
+			</div>
+		</div><!-- // end .article-footer__author -->
+		<div class="l-load-comments-btn">
+			<a class="load-comments-btn" href="#" alt="Toggle showing or hidding comments.">
+				READ <span class="disqus-comment-count" data-disqus-identifier="nid_609038"></span> COMMENTS
+			</a>
+			<p class="commenting-guidelines">
+				Please read our <a href="/about/commenting-guidelines/">commenting guidelines.</a>
+			</p>
+		</div>
+		<div id="disqus_thread"></div>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		<script id="dsq-count-scr" src="//technologyreview.disqus.com/count.js" async></script></div><!-- // end .article-footer -->
+</footer>
+
+
+
+				</div>
+			</article>
+
+			<section class="paywall" class="entry-login container">
+				
+
+<p class="paywall__subscribe-alert"><span>Subscribe to Continue Reading</span></p>
+<h2 class="paywall_heading">Uh ohâyou've read all of your free articles for this month.</h2>
+<aside class="paywall__aside">
+	<div class="paywalL__aside__heading">Become an Insider for unlimited access to online stories for less than $15 per month.</div>
+</aside>
+
+<div class="l-product-description product-description" rv-class-l-product-description--static="insider.staticPage">
+
+	
+<div class="paywall__subscribe-btn paywall__subscribe-btn--mobile">
+	<a href="/insider/subscribe/premium/" data-event-category="paywall" data-event-action="click" data-event-label="subscribe button">
+		<p class="paywall__subscribe-btn paywall__subscribe-btn--mobile__text">Subscribe</p>
+		<span class="paywall__subscribe-btn paywall__subscribe-btn--mobile__icon"></span>
+	</a>
+</div>
+
+
+	<div class="product-description__level" rv-class-product-description__level--static="insider.staticPage">Insider Premium</div>
+	<div class="product-description__price" rv-class-product-description__price--static="insider.staticPage">$179.95/yr <span class="product-description__price__note">US PRICE</span></div>
+
+	
+<div class="paywall__subscribe-btn paywall__subscribe-btn--desktop">
+	<a href="/insider/subscribe/premium/" data-event-category="paywall" data-event-action="click" data-event-label="subscribe button">
+		<p class="paywall__subscribe-btn paywall__subscribe-btn--desktop__text">Subscribe</p>
+		<span class="paywall__subscribe-btn paywall__subscribe-btn--desktop__icon"></span>
+	</a>
+</div>
+
+
+	<a href="/insider/#options" data-event-category="paywall" data-event-action="click" data-event-label="pricing options"><p class="paywall__link paywall__link--pricing">See international, alumni and other&nbsp;pricing&nbsp;options<p></a>
+	
+	<p class="paywall__link">Already an Insider?<br>
+		<a class="login-link" href="/auth/login/" data-event-category="paywall" data-event-action="click" data-event-label="login" rel="nofollow">Log in.</a>
+	</p>
+	
+	<p class="paywall__link">Have a magazine subscription?<br>
+		<a class="activate-link" href="/activate/" data-event-category="paywall" data-event-action="click" data-event-label="activate">Activate your Insider account.</a>
+	</p>
+</div>
+
+			</section>
+
+			<section class="l-fullwidth-interstitial-ad">
+				<div class="adunit ad--large"
+	data-adunit="__site/__fullwidth-interstitial"
+	data-size-mapping="fullwidth-interstitial"
+	data-active="false">
+</div>
+			</section>
+
+			<!-- Related Videos -->
+			
+
+<section class="l-related-videos">
+
+	<header class="related-videos__header">
+		<h3 class="related-videos__header__title">Related Video</h3>
+		<p class="related-videos__header__link"><a href="/videos/">More videos</a></p>
+	</header>
+
+	<div class="l-related-videos__container">
+	
+		
+		<div class="related-video">
+			
+			<a class="related-video__image-link" href="/video/608261/blockchain-decoded/" data-event-category="relatedvideo" data-event-action="click" data-event-label="/video/608261/blockchain-decoded/">
+				<div class="related-video__image-wrapper">
+					<span class="related-video__play-border">
+						<span class="related-video__play-button"></span>
+					</span>
+					<img class="related-video__image" src="https://secure-cf-c.ooyala.com/U2NGx2YjE6YJDeiCMcD09Gjzvx4WuzZ7/promo324060093">
+				</div>
+			</a>
+			
+			<p class="related-video__topic">
+				
+					Intelligent Machines
+				
+			</p>
+
+			<a href="/video/608261/blockchain-decoded/"><div class="related-video__title" >Blockchain Decoded <span class="related-video__duration">01:58</span></div></a>
+		</div>
+		
+	
+		
+		<div class="related-video">
+			
+			<a class="related-video__image-link" href="/video/608055/blood-delivering-drones/" data-event-category="relatedvideo" data-event-action="click" data-event-label="/video/608055/blood-delivering-drones/">
+				<div class="related-video__image-wrapper">
+					<span class="related-video__play-border">
+						<span class="related-video__play-button"></span>
+					</span>
+					<img class="related-video__image" src="https://secure-cf-c.ooyala.com/F1ajFpYjE6xbLvguARGl8slC2e3kpBzd/Ut_HKthATH4eww8X4yMDoxOjA4MTs8z0">
+				</div>
+			</a>
+			
+			<p class="related-video__topic">
+				
+					Intelligent Machines
+				
+			</p>
+
+			<a href="/video/608055/blood-delivering-drones/"><div class="related-video__title" >Blood-Delivering Drones <span class="related-video__duration">04:23</span></div></a>
+		</div>
+		
+	
+		
+		<div class="related-video">
+			
+			<a class="related-video__image-link" href="/video/604431/the-state-of-ai/" data-event-category="relatedvideo" data-event-action="click" data-event-label="/video/604431/the-state-of-ai/">
+				<div class="related-video__image-wrapper">
+					<span class="related-video__play-border">
+						<span class="related-video__play-button"></span>
+					</span>
+					<img class="related-video__image" src="https://secure-cf-c.ooyala.com/JweGRqYTE6UyaQfUUVW-VU9gJwL8Bi2m/E-HI8y-Omg85H4KX4xMDoxOjA4MTsiGN">
+				</div>
+			</a>
+			
+			<p class="related-video__topic">
+				
+					Intelligent Machines
+				
+			</p>
+
+			<a href="/video/604431/the-state-of-ai/"><div class="related-video__title" >The State of AI <span class="related-video__duration">31:25</span></div></a>
+		</div>
+		
+	
+		
+		<div class="related-video">
+			
+			<a class="related-video__image-link" href="/video/604430/ai-for-100-million-people-with-deep-learning/" data-event-category="relatedvideo" data-event-action="click" data-event-label="/video/604430/ai-for-100-million-people-with-deep-learning/">
+				<div class="related-video__image-wrapper">
+					<span class="related-video__play-border">
+						<span class="related-video__play-button"></span>
+					</span>
+					<img class="related-video__image" src="https://secure-cf-c.ooyala.com/lyeGRqYTE6Oju58xa_I70CgeqvaN2leE/XzOTlMlQSGUnbGTX4xMDoxOjA4MTsiGN">
+				</div>
+			</a>
+			
+			<p class="related-video__topic">
+				
+					Intelligent Machines
+				
+			</p>
+
+			<a href="/video/604430/ai-for-100-million-people-with-deep-learning/"><div class="related-video__title" >AI for 100 million people with Deep Learning <span class="related-video__duration">27:26</span></div></a>
+		</div>
+		
+	
+	</div>
+
+</section>
+
+
+
+			
+
+		</section>
+	</main>
+
+	<!-- Read More -->
+	
+
+<section class="rm" data-type="">
+
+	<header class="rm__header">
+
+		<div class="rm__header__heading">More from Intelligent Machines</div>
+		
+
+		
+		<p class="rm__header__subheading">Artificial intelligence and robots are transforming how we work and live.<p>
+		
+
+		
+
+	</header>
+
+	<ul class="rm__articles-list" data-entryset-value="">
+
+	
+		
+
+		<li class="rm__article rm__article--img">
+
+			<div class="rm__article__text">
+
+				<a href="/s/609193/new-twists-in-the-road-to-quantum-supremacy/" data-event-category="readnext" data-event-action="click" data-event-label="item_1" data-entryset-link><div class="rm__article__text__title" >New Twists in the Road to Quantum Supremacy</div></a>
+
+				<p class="rm__article__text__dek">Quantum computers will soon surpass conventional ones, but it will take time to make the machines useful.</p>
+
+				
+				<p class="rm__article__text__byline">by 
+	
+		
+			Will Knight
+		
+	
+</p>
+				
+
+			</div>
+
+			
+			<div class="l-rm__article__thumbnail"><a href="/s/609193/new-twists-in-the-road-to-quantum-supremacy/" data-event-category="readnext" data-event-action="click" data-event-label="item_1" data-entryset-link>
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 1x,https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=640&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 1x,https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=640&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 1x,https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=640&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 1x,https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=640&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 1x,https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=640&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 2x"><img class="rm__article__thumbnail" src="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326" srcset="https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=320&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 1x,https://cdn.technologyreview.com/i/images/3466290351614fe92be3eo.jpg?sw=640&amp;cx=0&amp;cy=219&amp;cw=5913&amp;ch=3326 2x"></picture>
+</a></div>
+			
+		</li>
+
+	
+		
+
+		<li class="rm__article rm__article--img">
+
+			<div class="rm__article__text">
+
+				<a href="/s/609208/getting-to-iconic/" data-event-category="readnext" data-event-action="click" data-event-label="item_2" data-entryset-link><div class="rm__article__text__title" >Getting To Iconic</div></a>
+
+				<p class="rm__article__text__dek">How world-leading brands balance talent
+and technology for CX excellence</p>
+
+				
+				<p class="rm__article__text__byline">by 
+	
+		
+			MIT Technology Custom, International Markets
+		
+	
+</p>
+				
+
+			</div>
+
+			
+			<div class="l-rm__article__thumbnail"><a href="/s/609208/getting-to-iconic/" data-event-category="readnext" data-event-action="click" data-event-label="item_2" data-entryset-link>
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/cxicons.png?sw=640&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/cxicons.png?sw=640&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/cxicons.png?sw=640&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/cxicons.png?sw=640&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/cxicons.png?sw=640&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 2x"><img class="rm__article__thumbnail" src="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281" srcset="https://cdn.technologyreview.com/i/images/cxicons.png?sw=320&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/cxicons.png?sw=640&amp;cx=0&amp;cy=173&amp;cw=500&amp;ch=281 2x"></picture>
+</a></div>
+			
+		</li>
+
+	
+		
+
+		<li class="rm__article rm__article--img">
+
+			<div class="rm__article__text">
+
+				<a href="/s/609207/connectivity-and-qol/" data-event-category="readnext" data-event-action="click" data-event-label="item_3" data-entryset-link><div class="rm__article__text__title" >Connectivity and QoL</div></a>
+
+				<p class="rm__article__text__dek">How digital consumer habits and ubiquitous technology are driving smart city development in Asia Pacific</p>
+
+				
+				<p class="rm__article__text__byline">by 
+	
+		
+			MIT Technology Review Custom, International Markets
+		
+	
+</p>
+				
+
+			</div>
+
+			
+			<div class="l-rm__article__thumbnail"><a href="/s/609207/connectivity-and-qol/" data-event-category="readnext" data-event-action="click" data-event-label="item_3" data-entryset-link>
+<picture><source media="(min-width: 1024px)" srcset="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=640&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 2x"><source media="(min-width: 850px)" srcset="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=640&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 2x"><source media="(min-width: 550px)" srcset="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=640&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 2x">
+
+		<source media="(min-width: 401px)" srcset="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=640&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 2x"><source media="(min-width: 0px)" srcset="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=640&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 2x"><img class="rm__article__thumbnail" src="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281" srcset="https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=320&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 1x,https://cdn.technologyreview.com/i/images/connectivityqol_1.png?sw=640&amp;cx=0&amp;cy=0&amp;cw=500&amp;ch=281 2x"></picture>
+</a></div>
+			
+		</li>
+
+	
+
+	</ul>
+
+	
+	
+	<footer class="rm__footer">
+		<p class="rm__footer__link"><a href="/topic/intelligent-machines/" data-event-category="readnext" data-event-action="click" data-event-label="more">More from Intelligent Machines</a></p>
+	</footer>
+	
+
+</section>
+
+
+
+
+	
+<aside class="article-sponsored-content-list">
+	<div class="article-sponsored-content-list__wrapper">
+		<div class="article-sponsored-content-list__title">From Our Advertisers</div>
+		<ul class="article-sponsored-content-list__list">
+			
+			<li class="article-sponsored-content-list__item">
+				<a href="/s/609097/the-customer-engagement-revolution/" class="article-sponsored-content-list__item__link" data-event-category="ad_sales" data-event-action="click" data-event-label="article_link_list">
+					
+					<p class="article-sponsored-content-list__item__sponsor">
+						
+							In partnership with
+						
+						<strong class="article-sponsored-content-list__item__sponsor__name">Couchbase</strong>
+					</p>
+					
+					<div class="article-sponsored-content-list__item__hed">The Customer Engagement Revolution</div>
+				</a>
+			</li>
+			
+			<li class="article-sponsored-content-list__item">
+				<a href="https://s3.amazonaws.com/files.technologyreview.com/whitepapers/PureStorage_Modern-Storage.pdf" class="article-sponsored-content-list__item__link" data-event-category="ad_sales" data-event-action="click" data-event-label="article_link_list">
+					
+					<p class="article-sponsored-content-list__item__sponsor">
+						
+							In partnership with
+						
+						<strong class="article-sponsored-content-list__item__sponsor__name">Pure Storage</strong>
+					</p>
+					
+					<div class="article-sponsored-content-list__item__hed">Modern Storage Accelerates Data Insights, Speeding Innovation</div>
+				</a>
+			</li>
+			
+			<li class="article-sponsored-content-list__item">
+				<a href="/s/608773/network-virtualization-the-bridge-to-digital-transformation/" class="article-sponsored-content-list__item__link" data-event-category="ad_sales" data-event-action="click" data-event-label="article_link_list">
+					
+					<p class="article-sponsored-content-list__item__sponsor">
+						
+							Sponsored by
+						
+						<strong class="article-sponsored-content-list__item__sponsor__name">VMware</strong>
+					</p>
+					
+					<div class="article-sponsored-content-list__item__hed">Network Virtualization: The Bridge to Digital Transformation</div>
+				</a>
+			</li>
+			
+			<li class="article-sponsored-content-list__item">
+				<a href="https://www.technologyreview.com/hub/the-bridge-to-digital-transformation/?utm_medium=sponsored-content-widget&amp;utm_source=trsite&amp;utm_campaign=vmware&amp;utm_content=content-hub" class="article-sponsored-content-list__item__link" data-event-category="ad_sales" data-event-action="click" data-event-label="article_link_list">
+					
+					<p class="article-sponsored-content-list__item__sponsor">
+						
+							Presented in partnership with
+						
+						<strong class="article-sponsored-content-list__item__sponsor__name">VMware</strong>
+					</p>
+					
+					<div class="article-sponsored-content-list__item__hed">The Bridge to Digital Transformation: The Move to a Software-Based Network Strategy</div>
+				</a>
+			</li>
+			
+		</ul>
+	</div>
+</aside>
+
+
+
+	
+		<!-- Insider promo -->
+		
+		
+		
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+<div class="l-pricing l-pricing--menu-only" data-abtest-variant="online only">
+
+	
+
+	
+	<div class="pricing__heading">
+		Want more award-winning journalism?
+		
+			Subscribe to Insider Online Only.
+		
+	</div>
+	
+
+	<div id="pricing">
+
+		
+
+		<div class="l-pricing__menu l-pricing__menu--menu-only">
+			<ul class="pricing__menu">
+				
+				
+					
+				
+					
+				
+					
+					<li class="pricing__menu__tier pricing__menu__tier--online" data-tier="online">
+						<div class="pricing__menu__tier__heading">
+							Insider Online Only
+							<span class="pricing__menu__tier__price" data-onload="fadein">{! insider.prices.online !}<span rv-if="insider.diffIntlPrice.online">*</span></span>
+							
+						</div>
+						<p class="pricing__menu__tier__pricing-label" rv-show="insider.display.menuOptionsLabel" data-onload="fadein">
+							{! insider.display.menuOptionsLabel !}
+						</p>
+						<p class="pricing__menu__tier__description" data-onload="fadein">
+							Unlimited online access including articles and video, plus The Download with the top tech stories delivered daily to your inbox.
+						</p>
+
+						<div class="pricing__menu__tier__cta-block" data-onload="fadein">
+							<a rv-href="insider.buttons.online.buttonURL" class="btn btn--primary--transparent pricing__menu__tier__cta" rv-class-btn--activated="insider.buttons.online.buttonClassActivated" rv-class-btn--group-activated="insider.buttons.online.buttonClassGroupActivated" data-event-category="story-footer-insider-promo" data-event-action="click" data-event-label="online only">{! insider.buttons.online.buttonText !}<span class="btn--primary--transparent__icon">
+<svg class="btn__icon--angle-arrow" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 10.1 10.1" enable-background="new 0 0 10.1 10.1" xml:space="preserve">
+	<polygon fill="#FFFFFF" points="0.9,0 0.9,2.5 5.9,2.5 0,8.4 1.8,10.1 7.6,4.3 7.6,9.2 10.1,9.2 10.1,0 "/>
+</svg>
+</span></a>
+						</div>
+
+						<div class="pricing__menu__tier__detail-toggle">See details+</div>
+
+						<div class="pricing__menu__tier__benefits">
+							<p class="pricing__menu__tier__benefit__heading">What's Included</p>
+							
+								
+									<p class="pricing__menu__tier__benefit">Unlimited 24/7 access to <i>MIT Technology Review</i>âs website</p>
+								
+							
+								
+									<p class="pricing__menu__tier__benefit"><strong>The Download:</strong> our daily newsletter of what's important in technology and innovation</p>
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+						</div>
+					</li>
+					
+				
+			</ul>
+
+			<div class="pricing__menu__options">
+				<p class="pricing__menu__options__label" data-onload="fadein">
+					<span class="asterisk">*</span>
+					{! insider.display.footerLabel !}
+				</p>
+				<p class="pricing__menu__option pricing__menu__option--shipping--us">
+					<a href="" data-action="updateShipping" data-shipping="intl" class="pricing__menu__option__link ">See international prices</a>
+				</p>
+				<p class="pricing__menu__option pricing__menu__option--shipping--intl">
+					<a href="" data-action="updateShipping" data-shipping="us" class="pricing__menu__option__link ">See U.S. prices</span></a>
+				</p>
+				<p class="pricing__menu__option pricing__menu__option--pricing--mitef">
+					<a href="" data-action="updatePricing" data-pricing="mitef" class="pricing__menu__option__link ">Revert to MIT Enterprise Forum pricing</a>
+				</p>
+				<p class="pricing__menu__option pricing__menu__option--pricing">
+					<a href="" data-action="updatePricing" data-pricing="standard" class="pricing__menu__option__link ">Revert to standard pricing</a>
+				</p>
+			</div>
+
+		</div>
+
+		
+
+	</div>
+
+
+	
+
+</div>
+
+	
+
+	<!-- Slider -->
+	
+		
+<div id="slider" class="l-adunit">
+	<div class="adunit ad--slider"
+		data-adunit="__site/__slider"
+		data-size-mapping="slider"
+		data-active="false">
+	</div>
+	<div id="slider-close">
+		<div class="slider-close-icon"></div>
+	</div>
+</div>
+
+	
+
+	<!-- Article Footer -->
+	
+<footer class="footer" >
+	<div class="footer-width">
+		
+		<div class="footer__newsletter-bar">
+			<form class="footer__newsletter-form">
+				<label class="footer__newsletter-bar-text"><strong class="footer__newsletter-bar-text__download">The Download</strong> What's important in technology and innovation, delivered to you every day.</label>
+				<input name="email" class="footer__newsletter-input" type="email" placeholder="Enter your email. Get the newsletter.">
+				<input class="footer__newsletter-input__submit" type="submit" value="Sign Up">
+			</form>
+			<div class="footer__social">
+				<p class="footer__newsletter-bar-text">Follow us</p>
+				<span class="footer__social-icons">
+					<a href="https://twitter.com/techreview"><span class="footer__social__text">Twitter</span><i class="footer__social--twitter"></i></a>
+					<a href="https://www.facebook.com/technologyreview"><span class="footer__social__text">Facebook</span><i class="footer__social--facebook"></i></a>
+					<a href="/rss/"><span class="footer__social__text">RSS</span><i class="footer__social--rss"></i></a>
+				</span>
+			</div>
+			<p class="footer__newsletter-form-error">&nbsp;</p>
+		</div>
+		
+	</div><!-- newsletter bar -->
+
+	<div class="footer__wrapper">
+		<div class="footer-width">
+
+			<div class="footer__header">
+				<div class="footer__icon"></div>
+				<div class="footer__intro">
+					<div class="footer__logo-mod">
+						<img class="footer__logo" src="https://cdn.technologyreview.com/_/img/horizontal-logo--white.svg" alt="MIT Technology Review">
+					</div>
+					<p class="footer__intro__text">The mission of MIT Technology Review is to equip its audiences with the intelligence to understand a world shaped by technology.</p>
+				</div>
+
+				<a href="/editions/" class="footer__international-editions">
+					<p class="footer__international-editions__text">Browse<br>International<br>Editions</p>
+					<span class="footer__international-editions__icon"></span>
+				</a>
+			</div><!-- footer-main header -->
+
+			<ul class="footer__subnav">
+				<li class="footer__subnav__list-title"><span class="footer__subnav__list-title-span">Company</span>
+				<ul class="footer__subnav__list">
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/about/">About Us</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/careers/">Careers</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/media/">Advertise with Us</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="https://www.technologyreview.com/s/603603/mit-technology-review-custom-content-showcase/">Custom</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/about/permissions/">Reprints and Permissions</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/press-room/">Press Room</a></li>
+				</ul>
+				</li>
+				<li class="footer__subnav__list-title"><span class="footer__subnav__list-title-span">Your Account</span>
+				<ul class="footer__subnav__list">
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/auth/login/" rel="nofollow">Log In / Create Account</a></li>
+					
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/activate/" rel="nofollow">Activate Account</a></li>
+					
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/newsletters/">Newsletters</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/user/profile/settings/" rel="nofollow">Manage Account</a></li>
+					
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="https://subscribe.technologyreview.com/ecom/mtr/app/live/subcustserv?pagemode=start&org=MTR&publ=TR&php=Y">Manage Subscription</a></li>
+					
+				</ul>
+				</li>
+				<li class="footer__subnav__list-title"><span class="footer__subnav__list-title-span">Customer Support</span>
+				<ul class="footer__subnav__list">
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/help/">Help/FAQs</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/help/contact/">Contact Us</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/help/contact/">Feedback</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/sitemap/">Sitemap</a></li>
+				</ul>
+				</li>
+				<li class="footer__subnav__list-title"><span class="footer__subnav__list-title-span">More</span>
+				<ul class="footer__subnav__list">
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/events/">Events</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="http://www.mitef.org">MIT Enterprise Forum</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/mit-news/">MIT News</a></li>
+				</ul>
+				</li>
+				<li class="footer__subnav__list-title"><span class="footer__subnav__list-title-span">Policies</span>
+				<ul class="footer__subnav__list">
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/about/ethics-statement/">Ethics Statement</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/about/terms-of-service/">Terms of Service</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/about/privacy/">Privacy</a></li>
+					<li class="footer__subnav__list-item"><a class="footer__subnav__list-item__link" href="/about/commenting-guidelines/">Commenting Guidelines</a></li>
+				</ul>
+				</li>
+			</ul><!-- footer-main-navbar -->
+
+			<p class="footer-copyright">
+				<span class="footer-copyright--main"><a href="/about/terms-of-service/">MIT Technology Review &copy; 2017</a></span>
+				<span class="footer-version">v.|e<sup>i&pi;</sup>|</span>
+			</p>
+		</div><!-- footer wrapper -->
+	</div>
+</footer>
+
+
+	<!-- Reading Meter -->
+	<div class="meter" rv-show="meter.open">
+	<div class="meter__numbers">
+		<span rv-text="meter.usage"></span>/<span rv-text="meter.allowed"></span>
+	</div>
+
+	<div class="meter__inner">
+		<div class="meter__copy">
+			<span rv-show="meter.paywall">
+				You've read all of your free articles this month.
+			</span>
+			<span rv-hide="meter.paywall">
+				<span rv-show="meter.final">
+					This is your last free article this month.
+				</span>
+				<span rv-hide="meter.final" class="visibility--desktop-x1">
+					You've read
+					<span rv-text="meter.usageWord"></span> of <span rv-text="meter.allowedWord"></span>
+					free articles this month.
+				</span>
+			</span>
+
+			<span class="meter__copy__line">
+				<a class="meter__subscribe__link" href="/insider/pricing/">Subscribe<span rv-hide="meter.paywall"> now</span></a>
+					or <a class="meter__subscribe__link" href="/auth/login/?redirectTo=%2Fs%2F609038%2Fchinas-ai-awakening%2F" rel="nofollow">log in</a><span rv-class-visibility--phablet="meter.paywall"><span rv-class-visibility--phablet="meter.final">&nbsp;for unlimited online access</span></span>.
+			</span>
+		</div>
+
+		<a class="meter__toggle" onclick="model.meter.open = false"><span class="meter__close"></span></a>
+	</div>
+</div>
+
+
+	<!-- Group subscription bar -->
+	
+
+	
+
+
+
+
+<script>
+serverData = {"userData":{"tier":"","pricing":"","shipping":""},"prices":{"standard":{"online":{"us":"$9.99/3 months","intl":"$9.99/3 months"},"basic":{"us":"$29.95/year","intl":"$39.95/year"},"plus":{"us":"$79.95/year","intl":"$89.95/year"},"premium":{"us":"$179.95/year","intl":"$199.95/year"}},"alum":{"online":{"us":"Included in Basic","intl":"Included in Basic"},"basic":{"us":"Free","intl":"Free"},"plus":{"us":"$29.95/year","intl":"$39.95/year"},"premium":{"us":"$99.95/year","intl":"$119.95/year"}},"mitef":{"online":{"us":"Unavailable","intl":"Unavailable"},"basic":{"us":"$14.95/year","intl":"$19.95/year"},"plus":{"us":"$29.95/year","intl":"$39.95/year"},"premium":{"us":"$99.95/year","intl":"$119.95/year"}}},"insiderButtonCampaign":"insider_article_footer","articleData":{},"env":{"label":"prod","rhinoUrl":"https://cms.technologyreview.com","cdnHost":"https://cdn.technologyreview.com","originHost":"https://www.technologyreview.com"},"url":"https://www.technologyreview.com/s/609038/chinas-ai-awakening/","path":"/s/609038/chinas-ai-awakening/","loginRedirectTo":"/s/609038/chinas-ai-awakening/","debug":false,"analytics":{"dataLayer":{"Contributor":"Will Knight","Pubdate":"2017-10-10","PageDetails":"Featured Story","Channel":"Computing","Topic":"Intelligent Machines","LoggedInHit":"no","AlumStatusHit":"unknown","InsiderStatusHit":"unknown"},"dfpTargeting":{"page_id":"tr_www_609038","channel":"computing","topic":"intelligent machines"}}};
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://cdn.technologyreview.com/_/dist/js/default.js"></script>
+
+<!-- AddThis Config -->
+<script>
+addthis_config = {
+	data_track_addressbar: false,
+	data_track_clickback: false,
+	pubid: 'ra-4df12eda07a410ab',
+	ui_use_css : false,
+};
+addthis_share = {
+	passthrough : {
+		twitter: {
+			text: "The West should stop worrying about Chinaâs AI revolution - via @techreview",
+		}
+	},
+	url_transforms: {
+		add: {
+			utm_campaign: 'add_this',
+			utm_source: '{{code}}',
+			utm_medium: 'post',
+		}
+	}
+};
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#async=1" async></script>
+<script src="https://cdn.technologyreview.com/_/dist/js/article.js" onload="window.addthis.init(); window.addthis.toolbox('.social-list');" async></script><!-- Disqus Config -->
+<script id="disqus-config">
+	var disqus_config = function () {
+		
+		this.page.identifier = "nid_609038";
+		this.page.api_key = "XejkhkAhfJ7vBfgvQwYWaaztZ9oeooMbLept0qBFC5ILlWwwGbEieGlmOEXQUZs0";
+
+		this.sso = {
+			name: "MIT Technology Review",
+			button: "https://cdn.technologyreview.com/_/img/disqus-sso-login-button.png",
+			icon: "https://www.technologyreview.com/favicon.ico",
+			url: "https://www.technologyreview.com/auth/login/?popup&redirectTo=%2Fs%2F609038%2Fchinas-ai-awakening%2F%23comments",
+			logout: "https://www.technologyreview.com/auth/logout/?redirectTo=%2Fs%2F609038%2Fchinas-ai-awakening%2F%23comments",
+			width: "800",
+			height: "650"
+		};
+	};
+</script>
+
+</body>
+</html>

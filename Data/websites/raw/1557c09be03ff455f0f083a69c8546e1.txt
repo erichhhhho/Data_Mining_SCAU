@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="publishid" content="136705878.11.1002.0"/><meta name="pageid" content="2.4.0.0.11110318.0.0.0.0.0.11205.136705878"/>
+<meta name="publishid" content="1185148.0.1002.0" />
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta content="telephone=no" name="format-detection" />
+<script src="http://www.xinhuanet.com/global/js/pageCore.js"></script>
+<title>
+Trump congratulates Xi on being re-elected general secretary of CPC Central Committee - Xinhua | English.news.cn
+</title>
+<meta name="keywords" content="cooperation,said,the,Trump,President,visit,relations,China,regional,development
+" />
+<meta name="description" content="ã
+" />
+<meta property=âog:titleâ content="Trump congratulates Xi on being re-elected general secretary of CPC Central Committee
+" />
+<meta property=âog:descriptionâ content="ã
+" />
+<link href="http://www.xinhuanet.com/english/static/css/bigphoto_baidi.css" rel="stylesheet" type="text/css" />
+<link href="http://www.xinhuanet.com/english2010/static/css.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://www.news.cn/xilan/2015english/mobile.css" media="screen and (min-width:0px) and (max-width: 767px)" />
+<style>
+img { border:none }
+.fenxiang { position: relative; }
+.a01 { position: absolute; background-color: #C40400; height: 236px; width: 286px; }
+.a02 { position: absolute; left:-180px; top:30px; background-color: #C40400; height: 236px; width: 286px; }
+.a03 { position: absolute; left:-20px; top:-255px; background:#e4e4e4; padding-left:15px; height: 236px; width: 256px; }
+.fx { font-family: "Times New Roman", Times, serif; font-size: 13px; color: #006DF0; text-decoration: none; text-align:left; }
+.fx a { font-family: "Times New Roman", Times, serif; font-size: 13px; color: #006DF0; text-decoration: none; line-height: 26px; }
+#ewm0613 { width:96px; height:428px; top: 40px; position: fixed; right: 10px; z-index: 10; _position:absolute; _top:expression(documentElement.scrollTop + 10);}
+#bltitle { font-family:arial, Georgia; font-size: 26px; line-height: 32px; color: #005B8A; text-decoration: none; font-weight:bold }
+.hei14, hei14 a { font-family:Georgia, Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; color: #000000; text-decoration: none; }
+.domMobile { display:none; }
+.hei14 p { margin:1em 0;}
+.onlyVideo iframe{ width:600px; height:400px; margin-top:10px; display:none;}
+#content .firP{ font-family:Arial; font-size:14px; color:#999; line-height: 1.3em;}
+@media screen and (min-width:0px) and (max-width: 767px) {
+#content {
+font-family:Georgia;
+line-height:1.6em;
+font-size:20px;
+}
+#content .firP{    
+COLOR: #999;
+line-height: 1.3em;
+font-size:16px;
+margin: -15px 0 10px 0;
+}
+#conTit h1 {
+font-size: 24px;
+line-height: 1.3em;
+padding: 10px;
+text-align: left;
+}
+}
+</style>
+<script type="text/javascript">
+function cbig(){
+var xyz  = document.getElementById('Zoom');
+xyz.className = 'zoom16';
+}
+
+function csma(){
+var xyz  = document.getElementById('Zoom');
+xyz.className = 'zoom12';
+}
+
+
+function copyToClipboard(txt) {  //å¤å¶ç½å
+if(window.clipboardData) {
+window.clipboardData.clearData();
+window.clipboardData.setData("Text", txt);
+alert("æåï¼");
+} else if(navigator.userAgent.indexOf("Opera") != -1) {
+window.location = txt;
+} else if (window.netscape) {
+try {
+netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+} catch (e) {
+//alert(" è¢«æµè§å¨æç»ï¼\nè¯·å¨æµè§å¨å°åæ è¾å¥'about:config'å¹¶åè½¦\nç¶åå° 'signed.applets.codebase_principal_support'è®¾ç½®ä¸º'true'");
+}
+var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+if (!clip)
+return;
+var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+if (!trans)
+return;
+trans.addDataFlavor('text/unicode');
+var str = new Object();
+var len = new Object();
+var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+var copytext = txt;
+str.data = copytext;
+trans.setTransferData("text/unicode",str,copytext.length*2);
+var clipid = Components.interfaces.nsIClipboard;
+if (!clip)
+return false;
+clip.setData(trans,null,clipid.kGlobalClipboard);
+alert("æåï¼");
+}
+}
+
+
+function cnor(){
+var xyz  = document.getElementById('Zoom');
+xyz.className = 'hei14';
+}
+
+ function EncodeUtf8(cn)
+{
+	var cnc = escape(cn);
+	var sa = cnc.split("%");
+	var retV ="";
+	if(sa[0] != "")
+	{
+		retV = sa[0];
+	}
+	for(var i = 1; i < sa.length; i ++)
+	{
+		if(sa[i].substring(0,1) == "u")
+		{
+			retV += Hex2Utf8(Str2Hex(sa[i].substring(1,5)))+sa[i].substring(5,sa[i].length);
+		}
+		else retV += "%" + sa[i];
+	}
+	return retV;
+}
+
+
+function Str2Hex(s)
+{
+	var c = "";
+	var n;
+	var ss = "0123456789ABCDEF";
+	var digS = "";
+	for(var i = 0; i < s.length; i ++)
+	{
+		c = s.charAt(i);
+		n = ss.indexOf(c);
+		digS += Dec2Dig(eval(n));
+	}
+	return digS;
+}
+
+function Dec2Dig(n1)
+{
+	var s = "";
+	var n2 = 0;
+	for(var i = 0; i < 4; i++)
+	{
+		n2 = Math.pow(2,3 - i);
+		if(n1 >= n2)
+		{
+			s += '1';
+			n1 = n1 - n2;
+		}
+		else s += '0';
+	}
+	return s;
+}
+
+function Dig2Dec(s)
+{
+	var retV = 0;
+	if(s.length == 4)
+	{
+		for(var i = 0; i < 4; i ++)
+		{
+			retV += eval(s.charAt(i)) * Math.pow(2, 3 - i);
+		}
+		return retV;
+	}
+	return -1;
+}
+
+function Hex2Utf8(s)
+{
+	var retS = "";
+	var tempS = "";
+	var ss = "";
+	if(s.length == 16)
+	{
+		tempS = "1110" + s.substring(0, 4);
+		tempS += "10" + s.substring(4, 10);
+		tempS += "10" + s.substring(10,16);
+		var sss = "0123456789ABCDEF";
+		for(var i = 0; i < 3; i ++)
+		{
+			retS += "%";
+			ss = tempS.substring(i * 8, (eval(i)+1)*8);
+			retS += sss.charAt(Dig2Dec(ss.substring(0,4)));
+			retS += sss.charAt(Dig2Dec(ss.substring(4,8)));
+		}
+		return retS;
+	}
+	return "";
+}
+
+
+	   var kdocTitle = document.title;//æ é¢ 
+	    var url = window.location.href.replace(/\?.*/,'') + '?from=fetion';
+		var source='æ°è¯ç¶²æ¥æ¬èª';
+		function Movelink()
+		{
+		window.location.href = "http://space.feixin.10086.cn/api/sharenews?url=" + EncodeUtf8(url) + "&title=" + EncodeUtf8(kdocTitle) +"&source="+EncodeUtf8(source);
+		}
+		
+		function sharesina()
+		{
+		window.open('http://v.t.sina.com.cn/share/share.php?title='+EncodeUtf8(document.title)+'&url='+EncodeUtf8(location.href)+'&source='+EncodeUtf8(source),'_blank','width=450,height=400');
+		}
+		
+		function sharerr(){
+		
+		window.location.href = "http://share.renren.com/share/buttonshare.do?link=" + EncodeUtf8(url) + "&title=" + EncodeUtf8(kdocTitle);
+				}
+		function sharetwi(){
+		
+		window.location.href = "http://twitter.com/home?status=" + EncodeUtf8(url) + " " + EncodeUtf8(kdocTitle);
+				}	
+				
+		function shareyah(){
+		
+		window.location.href = "http://bookmarks.yahoo.co.jp/bookmarklet/showpopup?t=" + EncodeUtf8(kdocTitle) + "&u=" + EncodeUtf8(url)+"&ei=UTF-8";
+				}		
+				
+		
+</script>
+</head>
+<body>
+<div class="domPC">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td> <iframe border="0" name="kx" marginwidth="0" framespacing="0" marginheight="0" src="http://www.xinhuanet.com/english/newchina/web_top.htm" frameborder="0" noresize width="100%" height="270" scrolling="no" vspale="0"></iframe></td>
+</tr>
+</table>
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#000000" class="grayborder" style="margin-top:10px;">
+<tr>
+<td align="center" bgcolor="#FFFFFF">
+<table width="905" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<table width="60%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td height="10">&nbsp;</td>
+</tr>
+</table>
+<table width="905" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="905" height="32" align="center">
+<span id="bltitle"> Trump congratulates Xi on being re-elected general secretary of CPC Central Committee</span>
+</td>
+</tr>
+</table>
+<table width="905" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:30px 0 0 0 ">
+<tr>
+<td width="905" height="20" align="center" valign="middle">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left">
+<a href="http://www.xinhuanet.com/english/rss/index.htm" target="_blank"><img src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit1_b.gif" border="0" width="20" height="20" title="RSS" /></a>&nbsp;&nbsp; <a href="mailto:english@xinhuanet.com"><img width="20" height="20" title="Feedback" src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit2_b.gif" /></a>&nbsp;&nbsp; <img width="20" height="20" title="Print" src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit3_b.gif" onClick="printit()" style="cursor:pointer" />&nbsp;&nbsp; <a href="#"><img width="20" height="20" title="Copy URL" src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit4_b.gif" onClick="cp2Clip()" /></a>&nbsp;&nbsp; <a href="#"><img width="20" height="20" title="Large image" src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit5_b.gif" onClick="downloadPic()" /></a>&nbsp;&nbsp; 
+<span class="fenxiang">
+<img width="20" height="20" title="More" src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit6_b.gif" onClick="showMorePic('a01')" />
+<div class="a01" id="a01" style="display:none">
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="7"></td>
+</tr>
+</table>
+<table width="275" border="0" align="center" cellpadding="0" cellspacing="0" background="http://www.xinhuanet.com/english/static/imgs/fanxiang01.gif">
+<tr>
+<td height="223" valign="top">
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="7"></td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang11.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><font id="xhwbShareArea2"></font><a onClick="share2()" href="javascript:;">Xinhua Weibo</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang12.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Facebook">Facebook</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang13.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://twitter.com/home?status='+encodeURIComponent(document.title)+encodeURIComponent(location.href),'_blank','width=757,height=577');})()" title="Share this story to Twitter">Twitter</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang14.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to reddit"> Reddit</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang15.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.diigo.com/post?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;desc=','_blank','width=757,height=577');})()" title="Share this story to Diggo">Diigo</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang16.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://del.icio.us/post?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Delicious">Delicious</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang17.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://digg.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Digg">Digg</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang18.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url='+encodeURIComponent
+(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;ro=false&amp;summary=&amp;source=','_blank','width=757,height=577');})()" title="Share this story to Linkedin">Linkedin</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang19.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.myspace.com/auth/loginform?dest=http://www.myspace.com/Modules/PostTo/Pages/default.aspx?u='+encodeURIComponent(location.href),'_blank','width=757,height=577');})()" title="Share this story to Myspace">MySpace</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang20.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&amp;url='+encodeURIComponent(location.href)+'&amp;source=bookmark','_blank','width=450,height=400');})()" title="æ°æµªå¾®ååäº«">Sina Weibo</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang21.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a style="margin-right: 0px;" href="javascript:window.open('http://www.kaixin001.com/repaste/bshare.php?rtitle='+encodeURIComponent(document.title)+'&amp;rurl='+encodeURIComponent(document.location)+'&amp;rcontent='+encodeURIComponent(''),'_blank','scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes'); void 0;" title="åäº«å°å¼å¿ç½">Kaixin</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang22.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:void((function(s,d,e){if(/renren\.com/.test(d.location))return;var f='http://share.renren.com/share/buttonshare?link=',u=d.location,l=d.title,p=[e(u),'&amp;title=',e(l)].join('');function%20a(){if(!window.open([f,p].join(''),'xnshare',['toolbar=0,status=0,resizable=1,width=626,height=436,left=',(s.width-626)/2,',top=',(s.height-436)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent));" title="åäº«å°äººäººç½">Renren</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang23.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:window.open('http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+encodeURIComponent(document.location),'_blank','width=600,height=450'); void 0;" title="åäº«å°QQç©ºé´">Q-zone</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang24.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:window.open('http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=appkey&amp;site=http://www.xinhuanet.com/&amp;pic='+encodeURI('')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;" title="åäº«å°è¾è®¯å¾®å" style="height: 16px; font-size: 12px; line-height: 16px;">Tencent Weibo</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang25.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a title="åäº«å°æçå¾®å" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var 
+f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=470,left=',(s.width-660)/2,',top=',(s.height-470)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','','','','utf-8'));">Sohu Weibo</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang26.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://t.163.com/article/user /checkLogin.do?link=http://news.163.com/&amp;source='+''+ '&amp;info='+encodeURIComponent(document.title)+' '+encodeURIComponent(location.href),'_blank','width=510,height=300');})()" title="åäº«å°ç½æå¾®å">NetEase Weibo</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</td>
+<td>&nbsp;</td>
+<td align="right" class="hei122">
+Source: Xinhua
+|
+<span id="pubtime"> 2017-10-26 02:19:06</span>
+| Editor:
+huaxia
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<script language="javascript">//ä¸è½½å¾ç
+function showMorePic(){
+	var traget=document.getElementById("a01");   
+    if(traget.style.display=="none")  
+    { traget.style.display="";  
+    }else{ traget.style.display="none";   
+    } 
+   
+}
+function downloadPic(){
+
+	var imgsrc = $("#content img").attr("src");
+
+	try{
+
+		var b = imgsrc.indexOf("http");
+		
+		if(b==-1)
+		{
+		var hrefsrc = location.href;
+		//alert(hrefsrc);
+		hrefsrc = hrefsrc.substr(0,hrefsrc.indexOf("c_"))+imgsrc;
+		//alert(hrefsrc);
+		window.open(hrefsrc,'æ¥çåå¾')
+		}
+		else
+		{
+		window.open(imgsrc,'æ¥çåå¾')
+		}//document.getElementById("downloadPicFrame").src =hrefsrc;
+	}catch(e){};
+};
+function cp2Clip(){
+var linkurls = location.href;
+copy2Clip(linkurls);
+}
+ããfunction printit() 
+ãã{ 
+      window.print(); 
+ãã} 
+  
+</script>
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+<table width="905" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left">
+<div class="onlyVideo" id="pcVideo" style="text-align:center;"><iframe frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src=""></iframe></div>
+<span id="content" class="hei14 pcCon">
+<p style="text-align: center; margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><img src="CnybnyE005006_20171025_NYMFN0A001_11n.jpg" style="height:630px; width:900px" id="{1161CAAE-43F9-496D-8F00-6C7439B96BD2}" /></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="color:#808080"><span style="font-family:arial,helvetica,sans-serif"><span style="font-size:16px">File Photo: Chinese President Xi Jinping (R) and his U.S. counterpart Donald Trump (L) hold the second round of talks in the Mar-a-Lago resort in Florida, the United States, April 7, 2017. (Xinhua/Lan Hongguang)</span></span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">BEIJING, Oct. 25 (Xinhua) -- U.S. President Donald Trump on Wednesday congratulated Chinese President Xi Jinping on being re-elected general secretary of the Central Committee of the Communist Party of China (CPC).</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Trump extended his congratulation in a phone conversation with Xi.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">He also congratulated Xi for the successful conclusion of the 19th CPC National Congress.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Trump said the 19th CPC National Congress has attracted worldwide attention, and he himself also paid close attention to important policy-related messages sent out by President Xi at the congress.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">On his upcoming state visit to China, Trump said the American people are heatedly discussing the visit, and he expects to meet President Xi in Beijing to fully exchange views on enhancing cooperation between the two countries and on international and regional issues of common concern.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi thanked Trump for the congratulation.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi said the just-concluded 19th CPC National Congress, which has drawn a blueprint for China's future development, is of great significance.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi said, as being noted in his report to the congress, China will unswervingly follow the path of peaceful development, pursue a win-win strategy of opening-up, expand converging interests with all countries, and promote coordination and cooperation among major </span></span><span style="font-family:georgia,serif; font-size:16px">world </span><span style="font-family:georgia,serif"><span style="font-size:16px">powers.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi stressed that China attaches great importance to the Sino-U.S. relations and is willing to promote the long-term, healthy and stable development of bilateral relations on the basis of mutual respect and mutual benefits.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Noting President Trump's upcoming visit to China, Xi said he expects to plan with Trump in Beijing the future development for Sino-U.S. relations so as to promote cooperation between the two sides, bring real benefits to the two peoples and make greater contributions to regional and international peace, stability and prosperity.</span></span></p>
+</span>
+</td>
+</tr>
+</table>
+<div id="leftar" style="display:none"><img src="http://www.xinhuanet.com/photo/static/arr_left.cur" border="0" /></div>
+<div id="rightar" style="display:none"><img src="http://www.xinhuanet.com/photo/static/arr_right.cur" border="0" /></div>
+<table width="80%" border="0" cellspacing="0" cellpadding="0" height="10">
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+<table width="905" border="0" cellspacing="0" cellpadding="0" height="25" align="center">
+<tr>
+<td width="275">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bai13">
+<tr>
+<td>
+<script language="javascript" src="http://www.xinhuanet.com/photo/staticcontent/tpgjz_wh.js"></script>
+</td>
+</tr>
+</table>
+</td>
+<td width="408"></td>
+<td align="right">
+<table border="0" align="right" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="16" align="center"><a href="javascript:(function(){window.open('http://twitter.com/home?status='+encodeURIComponent(document.title)+encodeURIComponent(location.href),'_blank','width=757,height=577');})()"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang13.gif" width="16" height="16" hspace="2" border="0" /></a></td>
+<td width="1"></td>
+<td width="16" align="center"><a href="javascript:(function(){window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent
+(location.href)+'&amp;t='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang12.gif" width="16" height="16" hspace="2" border="0" /></a></td>
+<td width="2"></td>
+<td width="16" align="center">
+<script type="text/javascript">document.write('<iframe scrolling="no" height="16" frameborder="0" width="16" src="http://hits.sinajs.cn/A1/weiboshare.html?url='+encodeURIComponent(document.location)+'&type=3&count=&appkey=&title='+encodeURIComponent(document.title)+'&pic=&ralateUid=&rnd='+new Date().valueOf()+'" allowtransparency="true"></iframe>');</script>
+</td>
+<td width="2"></td>
+<td width="2"></td>
+<td width="60">
+<span class="fenxiang">
+<img src="http://www.xinhuanet.com/english/static/imgs/bigphoto_share.gif" width="57" height="22" hspace="2" title="More" onClick="showMorePic('a02')" />
+<div class="a02" id="a02" style="display:none">
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="7"></td>
+</tr>
+</table>
+<table width="275" border="0" align="center" cellpadding="0" cellspacing="0" background="http://www.xinhuanet.com/english/static/imgs/fanxiang01.gif">
+<tr>
+<td height="223" valign="top">
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="7"></td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang11.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><font id="xhwbShareArea2"></font><a onClick="share2()" href="javascript:;">Xinhua Weibo</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang12.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Facebook">Facebook</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang13.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://twitter.com/home?status='+encodeURIComponent(document.title)+encodeURIComponent(location.href),'_blank','width=757,height=577');})()" title="Share this story to Twitter">Twitter</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang14.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to reddit"> Reddit</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang15.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.diigo.com/post?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;desc=','_blank','width=757,height=577');})()" title="Share this story to Diggo">Diigo</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang16.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://del.icio.us/post?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Delicious">Delicious</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang17.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://digg.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Digg">Digg</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang18.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url='+encodeURIComponent
+(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;ro=false&amp;summary=&amp;source=','_blank','width=757,height=577');})()" title="Share this story to Linkedin">Linkedin</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang19.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.myspace.com/auth/loginform?dest=http://www.myspace.com/Modules/PostTo/Pages/default.aspx?u='+encodeURIComponent(location.href),'_blank','width=757,height=577');})()" title="Share this story to Myspace">MySpace</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang20.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&amp;url='+encodeURIComponent(location.href)+'&amp;source=bookmark','_blank','width=450,height=400');})()" title="æ°æµªå¾®ååäº«">Sina Weibo</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang21.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a style="margin-right: 0px;" href="javascript:window.open('http://www.kaixin001.com/repaste/bshare.php?rtitle='+encodeURIComponent(document.title)+'&amp;rurl='+encodeURIComponent(document.location)+'&amp;rcontent='+encodeURIComponent(''),'_blank','scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes'); void 0;" title="åäº«å°å¼å¿ç½">Kaixin</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang22.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:void((function(s,d,e){if(/renren\.com/.test(d.location))return;var f='http://share.renren.com/share/buttonshare?link=',u=d.location,l=d.title,p=[e(u),'&amp;title=',e(l)].join('');function%20a(){if(!window.open([f,p].join(''),'xnshare',['toolbar=0,status=0,resizable=1,width=626,height=436,left=',(s.width-626)/2,',top=',(s.height-436)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent));" title="åäº«å°äººäººç½">Renren</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang23.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:window.open('http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+encodeURIComponent(document.location),'_blank','width=600,height=450'); void 0;" title="åäº«å°QQç©ºé´">Q-zone</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang24.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:window.open('http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=appkey&amp;site=http://www.xinhuanet.com/&amp;pic='+encodeURI('')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;" title="åäº«å°è¾è®¯å¾®å" style="height: 16px; font-size: 12px; line-height: 16px;">Tencent Weibo</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang25.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a title="åäº«å°æçå¾®å" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var 
+f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=470,left=',(s.width-660)/2,',top=',(s.height-470)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','','','','utf-8'));">Sohu Weibo</a></td>
+</tr>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang26.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://t.163.com/article/user /checkLogin.do?link=http://news.163.com/&amp;source='+''+ '&amp;info='+encodeURIComponent(document.title)+' '+encodeURIComponent(location.href),'_blank','width=510,height=300');})()" title="åäº«å°ç½æå¾®å">NetEase Weibo</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<table width="60%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td height="14">
+<script language="javascript">//ä¸è½½å¾ç
+function showMorePic(mid){
+	var traget=document.getElementById(mid);   
+    if(traget.style.display=="none")  
+    { traget.style.display="";  
+    }else{ traget.style.display="none";   
+    } 
+   
+}
+function downloadPic(){
+
+	var imgsrc = $("#content img").attr("src");
+
+	try{
+
+		var b = imgsrc.indexOf("http");
+		
+		if(b==-1)
+		{
+		var hrefsrc = location.href;
+		//alert(hrefsrc);
+		hrefsrc = hrefsrc.substr(0,hrefsrc.indexOf("c_"))+imgsrc;
+		//alert(hrefsrc);
+		window.open(hrefsrc,'æ¥çåå¾')
+		}
+		else
+		{
+		window.open(imgsrc,'æ¥çåå¾')
+		}//document.getElementById("downloadPicFrame").src =hrefsrc;
+	}catch(e){};
+};
+function cp2Clip(){
+var linkurls = location.href;
+copy2Clip(linkurls);
+}
+ããfunction printit() 
+ãã{ 
+      window.print(); 
+ãã} 
+  
+  
+</script>
+</td>
+</tr>
+</table>
+<div class="pinglun">
+<script type="text/javascript">xhnc_commentOption={language:'en',site:'1'};</script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/jxhremote-min.js"></script>
+</div>
+
+<table width="60%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td height="14"></td>
+</tr>
+</table>
+<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="73%"></td>
+<td width="5%" align="center"><img src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit16_b.gif" width="20" height="20" /></td>
+<td align="left" class="lan20" valign="middle" width="14%"><a href="#top"><strong><font color="#C40000">Back to Top</font></strong></a></td>
+<td width="3%"></td>
+<td width="5%" align="center"><img src="http://www.xinhuanet.com/english/static/imgs/bigphoto_tit17_b.gif" width="20" height="20" /></td>
+<td align="right" class="lan20" valign="middle" width="4%"><a href="javascript:window.close();"><strong><font color="#C40000">Close</font></strong></a></td>
+</tr>
+</table>
+<table cellspacing="0" cellpadding="0" width="60%" align="center" border="0">
+<tr>
+<td height="12"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tr>
+<td align="center">
+<script type="text/javascript" src="http://www.xinhuanet.com/english2010/static/xglj.js"></script>
+<script type="text/javascript" src="http://www.xinhuanet.com/english2010/static/copyright.js"></script>
+</td>
+</tr>
+</table>
+<map name="Map" id="Map">
+<area shape="rect" coords="135,4,173,28" href="http://www.xinhuanet.com/english/china/index.htm" target="_parent" />
+<area shape="rect" coords="185,4,227,28" href="http://www.xinhuanet.com/english/world/index.htm" target="_parent" />
+<area shape="rect" coords="236,4,296,28" href="http://www.xinhuanet.com/english/business/index.htm" target="_parent" />
+<area shape="rect" coords="307,4,404,28" href="http://www.xinhuanet.com/english/entertainment/index.htm" target="_parent" />
+<area shape="rect" coords="415,3,458,28" href="http://www.xinhuanet.com/english/sports/index.htm" target="_parent" />
+<area shape="rect" coords="470,4,562,28" href="http://www.xinhuanet.com/english/culture/index.htm" target="_parent" />
+<area shape="rect" coords="572,4,638,28" href="http://www.xinhuanet.com/english/sci/index.htm" target="_parent" />
+<area shape="rect" coords="652,4,697,28" href="http://www.xinhuanet.com/english/health/index.htm" target="_parent" />
+<area shape="rect" coords="705,4,740,28" href="http://www.xinhuanet.com/english/odd/index.htm" target="_parent" />
+<area shape="rect" coords="747,3,796,28" href="http://www.xinhuanet.com/english/travel/index.htm" target="_parent" />
+<area shape="rect" coords="806,4,866,28" href="http://www.xinhuanet.com/english/indepth/index.htm" target="_parent" />
+<area shape="rect" coords="872,4,920,28" href="http://www.xinhuanet.com/english/photo/" target="_parent" />
+<area shape="rect" coords="928,4,976,28" href="http://www.xinhuanet.com/english/video/index.htm" target="_parent" />
+<area shape="rect" coords="8,5,109,28" href="http://www.xinhuanet.com/english/" target="_parent" />
+</map>
+</div>
+<div class="domMobile">
+<div id="mobileHeader">
+<a class="logo" href="javascript:"></a> <a class="home" href="javascript:">Xinhuanet</a> <span class="arrow"></span> <span class="right"><i></i></span>
+<div class="mobileNavList clearfix"> <a href="http://www.news.cn/" target="_blank">é¦é¡µ</a> <a href="http://www.news.cn/politics/" target="_blank">æ¶æ¿</a> <a href="http://www.xinhuanet.com/world/" target="_blank">å½é</a> <a href="http://www.xinhuanet.com/gangao" target="_blank">æ¸¯æ¾³</a> <a href="http://www.xinhuanet.com/tw" target="_blank">å°æ¹¾</a> <a href="http://www.xinhuanet.com/fortune" target="_blank">è´¢ç»</a> <a href="http://www.xinhuanet.com/legal" target="_blank">æ³æ²»</a> <a href="http://www.xinhuanet.com/society" target="_blank">ç¤¾ä¼</a> <a href="http://www.xinhuanet.com/lianzheng/" target="_blank">çºªæ£</a> <a href="http://www.xinhuanet.com/sports/" target="_blank">ä½è²</a> <a href="http://www.xinhuanet.com/tech" target="_blank">ç§æ</a> <a href="http://www.xinhuanet.com/mil" target="_blank">åäº</a> <a href="http://www.xinhuanet.com/ent" target="_blank">æå¨±</a> <a href="http://www.xinhuanet.com/photo" target="_blank">å¾ç</a> <a href="http://www.news.cn/video" target="_blank">è§é¢</a> <a href="http://forum.home.news.cn/" target="_blank">è®ºå</a> <a href="http://blog.home.news.cn/" target="_blank">åå®¢</a> <a href="http://t.home.news.cn/" target="_blank">å¾®å</a> </div>
+</div>
+<div id="center" class="comWidth">
+<div id="conTit">
+<h1>
+Trump congratulates Xi on being re-elected general secretary of CPC Central Committee
+</h1>
+<div class="info">
+<span class="source">
+Source: Xinhua
+</span>
+2017-10-26 02:19:06
+</div>
+</div>
+<div id="content" class="mobileCon">
+<div class="onlyVideo" id="mobileVideo"><iframe frameborder="0" style="width:100%; height:220px;" width="100%" height="220" scrolling="no" marginwidth="0" marginheight="0" src=""></iframe></div>
+<p style="text-align: center; margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><img src="CnybnyE005006_20171025_NYMFN0A001_11n.jpg" style="height:630px; width:900px" id="{1161CAAE-43F9-496D-8F00-6C7439B96BD2}" /></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="color:#808080"><span style="font-family:arial,helvetica,sans-serif"><span style="font-size:16px">File Photo: Chinese President Xi Jinping (R) and his U.S. counterpart Donald Trump (L) hold the second round of talks in the Mar-a-Lago resort in Florida, the United States, April 7, 2017. (Xinhua/Lan Hongguang)</span></span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">BEIJING, Oct. 25 (Xinhua) -- U.S. President Donald Trump on Wednesday congratulated Chinese President Xi Jinping on being re-elected general secretary of the Central Committee of the Communist Party of China (CPC).</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Trump extended his congratulation in a phone conversation with Xi.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">He also congratulated Xi for the successful conclusion of the 19th CPC National Congress.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Trump said the 19th CPC National Congress has attracted worldwide attention, and he himself also paid close attention to important policy-related messages sent out by President Xi at the congress.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">On his upcoming state visit to China, Trump said the American people are heatedly discussing the visit, and he expects to meet President Xi in Beijing to fully exchange views on enhancing cooperation between the two countries and on international and regional issues of common concern.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi thanked Trump for the congratulation.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi said the just-concluded 19th CPC National Congress, which has drawn a blueprint for China's future development, is of great significance.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi said, as being noted in his report to the congress, China will unswervingly follow the path of peaceful development, pursue a win-win strategy of opening-up, expand converging interests with all countries, and promote coordination and cooperation among major </span></span><span style="font-family:georgia,serif; font-size:16px">world </span><span style="font-family:georgia,serif"><span style="font-size:16px">powers.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Xi stressed that China attaches great importance to the Sino-U.S. relations and is willing to promote the long-term, healthy and stable development of bilateral relations on the basis of mutual respect and mutual benefits.</span></span></p>
+<p style="margin-top: 10px; margin-bottom: 10px; font-size: 16px; font-family: Georgia, serif;"><span style="font-family:georgia,serif"><span style="font-size:16px">Noting President Trump's upcoming visit to China, Xi said he expects to plan with Trump in Beijing the future development for Sino-U.S. relations so as to promote cooperation between the two sides, bring real benefits to the two peoples and make greater contributions to regional and international peace, stability and prosperity.</span></span></p>
+</div>
+<div class="bottom clearfix">
+<div class="edit" style="display:none">
+[Editor:
+huaxia
+]
+</div>
+<div id="share">
+<table border="0" align="right" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="16" align="center"><a href="javascript:(function(){window.open('http://twitter.com/home?status='+encodeURIComponent(document.title)+encodeURIComponent(location.href),'_blank','width=757,height=577');})()"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang13.gif" width="16" height="16" hspace="2" border="0" /></a></td>
+<td width="1"></td>
+<td width="16" align="center"><a href="javascript:(function(){window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent
+(location.href)+'&amp;t='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang12.gif" width="16" height="16" hspace="2" border="0" /></a></td>
+<td width="2"></td>
+<td width="16" align="center">
+<script type="text/javascript">document.write('<iframe scrolling="no" height="16" frameborder="0" width="16" src="http://hits.sinajs.cn/A1/weiboshare.html?url='+encodeURIComponent(document.location)+'&type=3&count=&appkey=&title='+encodeURIComponent(document.title)+'&pic=&ralateUid=&rnd='+new Date().valueOf()+'" allowtransparency="true"></iframe>');</script>
+</td>
+<td width="2"></td>
+<td width="2"></td>
+<td width="60">
+<span class="fenxiang">
+<img src="http://www.xinhuanet.com/english/static/imgs/bigphoto_share.gif" width="57" height="22" hspace="2" title="More" onClick="showMorePic('a03')" />
+<div class="a03" id="a03" style="display:none">
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td height="7"></td>
+</tr>
+</tbody>
+</table>
+<table width="275" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="223" valign="top">
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td height="7"></td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang11.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><font id="xhwbShareArea2"></font><a onClick="share2()" href="javascript:;">Xinhua Weibo</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang12.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Facebook">Facebook</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang13.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://twitter.com/home?status='+encodeURIComponent(document.title)+encodeURIComponent(location.href),'_blank','width=757,height=577');})()" title="Share this story to Twitter">Twitter</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang14.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to reddit"> Reddit</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang15.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.diigo.com/post?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;desc=','_blank','width=757,height=577');})()" title="Share this story to Diggo">Diigo</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang16.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://del.icio.us/post?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Delicious">Delicious</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang17.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://digg.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'_blank','width=757,height=577');})()" title="Share this story to Digg">Digg</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang18.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url='+encodeURIComponent
+(location.href)+'&amp;title='+encodeURIComponent(document.title)+'&amp;ro=false&amp;summary=&amp;source=','_blank','width=757,height=577');})()" title="Share this story to Linkedin">Linkedin</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang19.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://www.myspace.com/auth/loginform?dest=http://www.myspace.com/Modules/PostTo/Pages/default.aspx?u='+encodeURIComponent(location.href),'_blank','width=757,height=577');})()" title="Share this story to Myspace">MySpace</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang20.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&amp;url='+encodeURIComponent(location.href)+'&amp;source=bookmark','_blank','width=450,height=400');})()" title="æ°æµªå¾®ååäº«">Sina Weibo</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang21.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a style="margin-right: 0px;" href="javascript:window.open('http://www.kaixin001.com/repaste/bshare.php?rtitle='+encodeURIComponent(document.title)+'&amp;rurl='+encodeURIComponent(document.location)+'&amp;rcontent='+encodeURIComponent(''),'_blank','scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes'); void 0;" title="åäº«å°å¼å¿ç½">Kaixin</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang22.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:void((function(s,d,e){if(/renren\.com/.test(d.location))return;var f='http://share.renren.com/share/buttonshare?link=',u=d.location,l=d.title,p=[e(u),'&amp;title=',e(l)].join('');function%20a(){if(!window.open([f,p].join(''),'xnshare',['toolbar=0,status=0,resizable=1,width=626,height=436,left=',(s.width-626)/2,',top=',(s.height-436)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent));" title="åäº«å°äººäººç½">Renren</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang23.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:window.open('http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+encodeURIComponent(document.location),'_blank','width=600,height=450'); void 0;" title="åäº«å°QQç©ºé´">Q-zone</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang24.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:window.open('http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=appkey&amp;site=http://www.xinhuanet.com/&amp;pic='+encodeURI('')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;" title="åäº«å°è¾è®¯å¾®å" style="height: 16px; font-size: 12px; line-height: 16px;">Tencent Weibo</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="260" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang25.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a title="åäº«å°æçå¾®å" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var 
+f='http://t.sohu.com/third/post.jsp?',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=660,height=470,left=',(s.width-660)/2,',top=',(s.height-470)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','','','','utf-8'));">Sohu Weibo</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="130">
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="23" align="left"><img src="http://www.xinhuanet.com/english/static/imgs/fanxiang26.gif" width="16" height="16" /></td>
+<td width="107" class="fx"><a href="javascript:(function(){window.open('http://t.163.com/article/user /checkLogin.do?link=http://news.163.com/&amp;source='+''+ '&amp;info='+encodeURIComponent(document.title)+' '+encodeURIComponent(location.href),'_blank','width=510,height=300');})()" title="åäº«å°ç½æå¾®å">NetEase Weibo</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="footer" class="comWidth">
+<p>Copyright Â© 2000 - 2016 XINHUANET.com </p>
+<p>All Rights Reserved. </p>
+</div>
+</div>
+</div>
+<div id="spUrl" style="display:none;">
+
+</div>
+<script language="javascript" src="http://www.xinhuanet.com/static/jq.js"></script>
+<script language="javascript" src="http://www.xinhuanet.com/photo/static/tplink08-min.js"></script>
+<script>
+$(function(){
+	xinhuaVide();
+})
+function xinhuaVide(){
+	var XH_video= $.trim($("#spUrl").html());
+	
+	if(XH_video.indexOf("ttp:")>0){
+		if($(".domPC").is(":hidden")){
+			$("#mobileVideo iframe").attr("src",XH_video).show();
+		}else{
+			$("#pcVideo iframe").attr("src",XH_video).show();
+		}
+	}
+}
+
+</script>
+<script>
+$(function(){
+$(".domMobile #div_currpage a:contains('>>|')").hide();
+$(".domMobile #div_currpage a:contains('|<<')").hide();
+
+//ç¬¬ä¸æ®µå­ä½æ¹åæ ·å¼
+	$(".mobileCon p").eq(1).addClass("firP");
+	$(".pcCon p").eq(1).addClass("firP");
+})
+</script>
+<script type="text/javascript" charset="utf-8">
+var _w = 20 , _h = 16;
+var cUrl=document.location.href;
+var regexp1 = /http:\/\/.*\/c_([0-9]+).htm/g;
+var id = cUrl.replace(regexp1,'$1');
+var regexp2 = /(.+\/)(\w+\.\w+)(?:\?.+)?/g;
+var tempstr;
+var pic1="";
+var arEls = document.getElementsByTagName("img");
+for( var i=0;i<arEls.length;i++ ){
+        tempstr=arEls[i].src.replace(regexp2, '$2');  
+        if(tempstr.indexOf(id)>=0)
+        pic1+=arEls[i].src+",";
+}
+ var param = {
+   url:'' || location.href,/**åäº«urlçè·¯å¾(å¯é,é»è®¤ä¸ºæå¨é¡µé¢çhref)*/
+   type:'3',
+   appkey:'', /**æ¨ç³è¯·çåºç¨appkey,æ¾ç¤ºåäº«æ¥æº(å¯é)4dd7a69ed7de049c2f45c8d6a335e75b*/
+   title:''|| document.title, /**åäº«çæå­åå®¹(å¯éï¼é»è®¤ä¸ºæå¨é¡µé¢çtitle)*/
+   pic:pic1, /**åäº«å¾ççè·¯å¾(å¯é)*/
+   rnd:new Date().valueOf()
+ }
+ var temp = [];
+ for( var p in param ){
+   temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )  
+ }
+(function(){
+var t='<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://www.news.cn/weibo/share.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>';
+document.getElementById("xhwbShareArea").innerHTML=t;
+
+})()
+function share2() {
+window.open("http://t.home.news.cn/share.jsp?"
+		+ temp.join('&'), "_blank", "width=615,height=505");
+}
+
+
+</script>
+<script language="javascript" src="http://www.xinhuanet.com/photo/static/cplink-min.js"></script>
+<div style="display:none"><div id="fwl">010020070750000000000000011105521367058781</div><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010020070750000000000000011105521367058781")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010020070750000000000000011105521367058781" border="0" /></noscript></div>   </body>
+</html>

@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><script type="text/javascript">window.location = "/notsupported";</script><![endif]-->
+   <html lang="nl">
+      <head>
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+         <meta name="description" content="Chinaâs Silk Road project may give the region a short term economic boost but it is undermining the EU reform agenda in the Balkans.">
+         <meta name="citation_title" content="China in the Balkans: the battle of principles">
+         <meta name="citation_author" content="Makocki, Michal">
+         <meta name="citation_publication_date" content="2017/10/24">
+         <meta name="citation_online_date" content="2017/10/24">
+         <meta name="citation_journal_title" content="Clingendael Spectator">
+         <meta name="citation_volume" content="2017">
+         <meta name="citation_issue" content="4">
+         <meta name="citation_issn" content="2405-8319">
+         <meta name="citation_pdf_url" content="https://spectator.clingendael.org/pub/2017/4/_/pdf/CS-2017-4-makocki.pdf">
+         <meta property="og:url" content="https://spectator.clingendael.org/pub/2017/4/china-in-the-balkans/">
+         <meta property="og:type" content="ARTICLE">
+         <meta property="og:title" content="China in the Balkans: the battle of principles">
+         <meta property="og:site_name" content="Clingendael Spectator 4 â 2017">
+         <meta property="og:description" content="Chinaâs Silk Road project may give the region a short term economic boost but it is undermining the EU reform agenda in the Balkans.">
+         <meta property="og:image" content="https://spectator.clingendael.org/pub/2017/4/china-in-the-balkans/images/makocki-foto2.jpg.jpg">
+         <title>China in the Balkans: the battle of principles | Clingendael Spectator 4 â 2017</title>
+         <link href="../_/css/style.css" rel="stylesheet"/>
+         <link rel="apple-touch-icon" href="../_/images/icon/apple-touch-icon.png"/>
+         <link rel="icon" href="../_/images/icon/favicon.ico"/>
+      </head>
+      <body>
+         <div id="wrapper">
+            <div id="sidebar-wrapper">
+               <span id="sidebar-title-bars" class="sidebar-title">
+                  <i class="fa fa-bars"></i> Menu</span><span id="sidebar-title-close" class="sidebar-title">
+                  <i class="fa fa-times-circle"></i> Menu</span>
+               <ul class="sidebar-nav">
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/">
+                        <p class="sidebar-item-title">The Western Balkans at the edge?</p>
+                        <p class="sidebar-item-author"><span>Editorial board</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/a-region-in-crisis">
+                        <p class="sidebar-item-title">A region in crisis</p>
+                        <p class="sidebar-item-author"><span>Jan Marinus Wiersma</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/eu-enlargement-at-a-crossroads">
+                        <p class="sidebar-item-title">EU enlargement at a crossroads</p>
+                        <p class="sidebar-item-author"><span>Otto Holman</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/eu-approach-to-resilience">
+                        <p class="sidebar-item-title">EU approach to resilience</p>
+                        <p class="sidebar-item-author"><span>Zoran Nechev et al.</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/the-need-for-transitional-justice">
+                        <p class="sidebar-item-title">The need for Transitional Justice</p>
+                        <p class="sidebar-item-author"><span>Sipke de Hoop</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/where-did-the-eu-fail">
+                        <p class="sidebar-item-title">Where did the EU fail?</p>
+                        <p class="sidebar-item-author"><span>Kalinka Gaber</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/russias-involvement">
+                        <p class="sidebar-item-title">Russiaâs involvement</p>
+                        <p class="sidebar-item-author"><span>Othon Anastasakis</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item active" href="/pub/2017/4/china-in-the-balkans">
+                        <p class="sidebar-item-title">China in the Balkans</p>
+                        <p class="sidebar-item-author"><span>Michal Makocki</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/re-awakening-of-nationalism">
+                        <p class="sidebar-item-title">Re-awakening of nationalism</p>
+                        <p class="sidebar-item-author"><span>Vedran DÅ¾ihiÄ</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/the-growth-of-radical-islam">
+                        <p class="sidebar-item-title">The growth of radical Islam</p>
+                        <p class="sidebar-item-author"><span>Danijel TadiÄ</span></p>
+                     </a>
+                  </li>
+                  <li>
+                     <a class="sidebar-item" href="/pub/2017/4/timeline-2000-2017">
+                        <p class="sidebar-item-title">Timeline 2000-2017</p>
+                        <p class="sidebar-item-author"><span>Gijs van der Gracht</span></p>
+                     </a>
+                  </li>
+               </ul>
+            </div>
+            <div id="content-wrapper">
+               <div id="fixme" style="position:relative;">
+                  <div class="navbar navbar-default navbar-static-top" role="navigation" style="position:fixed; width:inherit;">
+                     <div class="container-fluid">
+                        <div class="navbar-header">
+                           <a href="#menu-toggle" class="btn btn-inhoud" id="menu-toggle">
+                              <i class="fa fa-bars"></i>
+                              <span>Menu</span></a>
+                           <a id="navbar-link" href="/pub/2017/4">
+                              <img id="navbar-logo" src="../_/images/logo.png" alt="logo"> 
+                              <span id="navbar-title">Clingendael Spectator</span> 
+                              <span id="navbar-edition">4 â 2017</span></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div id="page-wrapper">
+                  <div class="nav-arrow nav-arrow-left">
+                     <a href="/pub/2017/4/russias-involvement">
+                        <i class="fa fa-chevron-left"></i>
+                     </a>
+                  </div>
+                  <div class="nav-arrow nav-arrow-right">
+                     <a href="/pub/2017/4/re-awakening-of-nationalism">
+                        <i class="fa fa-chevron-right"></i>
+                     </a>
+                  </div>
+                  <div class="container">
+                     <div class="row">
+                        <div id="page" class="col-lg-12">
+                           <div class="row">
+                              <div id="issue-data" class="col-lg-9">
+                                 <div id="issue-data-container">
+                                    <div id="issue-data-left">Clingendael Spectator 4 â 2017 (vol.71) â ItemÂ 8Â ofÂ 11</div>
+                                    <div id="issue-data-right">
+                                       <i class="fa fa-clock-o"></i> 
+                                       <span class="reading-time"></span>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div id="page-row" class="row">
+                              <div id="page-content" class="col-lg-9 col-md-9">
+                                 <p id="page-category"><span class="theme">ARTICLE</span></p>
+                                 <h1>China in the Balkans: the battle of&nbsp;principles</h1>
+                                 <div id="page-author">Michal Makocki</div>
+								 <p class="p-first"><span class="b">Chinaâs Silk Road project may give a short- term economic boost but it is undermining the EU reform agenda in the Balkans.</span></p>
+                                 <p class="p-first">In recent months concern has risen in Europe over geopolitical competition in the Balkans. In March, EU foreign policy chief Federica Mogherini warned, âThe Balkans can easily become one of the chessboards where the big power game can be played.â Russia may have been the principal target of the remark, but another of the big powers in the region is China, which with its sweeping Belt and Road Initiative (BRI) heralds new roads and railways for the region. This may provide a boost to the region by connecting it with Chinaâs massive market, but it may also challenge the regionâs relations with the EU, as China-backed projects undermine reforms promoted by the EU.</p>
+                                 <p class="p-first">Chinese initiatives span various areas in the Balkans. They include creating logistical corridors (between the China-owned port of Piraeus in Greece and markets in Central and Western Europe) and building new infrastructure (with â¬5.5 billion worth of engineering contracts already signed with Serbia). They also involve distributing some of Chinaâs overcapacity in heavy industries: Chinese companies have invested in a steel mill in Smederevo near Belgrade and are building numerous coal-fired power plants, notably in Serbia and in Bosnia and Herzegovina.</p>
+                                 <p class="p-first">Most crucially, the region helps Chinese constructors get European references to later access the EU railway construction market. The Belgrade-Budapest railway, which will be constructed by Chinese companies according to EU engineering standards and under the supervision of European certification bodies, will help push Chinese contractors up the value chain, thus fulfilling a crucial domestic objective of the Belt and Road Initiative.</p>
+                                 <p class="p-first">International responses to Chinese initiatives often reflect apprehensions about the changing geopolitical balance of power. Railways and roads have lost their paramount importance in projecting spheres of interests, but large-scale investments and the opening of new routes still serve as a conduit for political and normative influence. Indeed, Chinese infrastructure projects often come with a political price attached, amplifying suspicion of Chinaâs long-term goals in the region. China may not aim to export any ideology, but with every large project its state-led model spills over and, in the Balkans, it also increases the risk of undermining the EUâs reformist agenda.</p>
+                                 <div class="page-media-container">
+                                    <img src="images/makocki-foto1.jpg" alt="With the Belt and Road Initiative China signals its leadership in connectivity and economic integration.">
+                                    <p class="page-media-source">Â© 
+										Todd Lappin / Flickr</p>
+                                    <p class="page-media-note">With the Belt and Road Initiative China signals its leadership in connectivity and economic integration.</p>
+                                 </div>
+                                 <h2>China and the politics of the region</h2>
+                                 <p class="p-first">Chinaâs challenge to EU interests in the region is different from that coming from Russia. China supports and benefits from the regionâs stability, unlike Russia, which may benefit from its destabilisation. It doesnât aim to undermine confidence in democratic political systems, and it doesnât use propaganda outlets to export ideology or subvert the regionâs accession to the EU or NATO. China doesnât have any alternative political vision for the Balkans. It is actually supportive of the regionâs European perspective, as it needs a sufficient level of political stability to facilitate its economic interests.</p>
+                                 <p class="p-first">Chinaâs approach to the region is based on the use of economic statecraft calibrated to serve its core foreign policy goals. It may voice its dissatisfaction over Montenegroâs accession to NATO, but it would not seek to punish the country for its decision with economic sanctions as Russia did. Instead China seeks to leverage its economic engagement for political support on crucial foreign policy issues (such as the South China Sea arbitration ruling).</p>
+                                 <p class="page-streamer">China supports and benefits from the regionâs stability, unlike Russia which may benefit from its destabilisation</p>
+                                 <p class="p-first">At the same time, the alignment of the Balkan candidate countries with EU foreign policy declarations is decreasing significantly: in the case of Serbia from 89 to 59 percent, as assessed by the European Commission in 2016. China is not solely responsible for that change, but its demands further contribute to the already complex geopolitical reality facing the Balkan countries.</p>
+                                 <h2>The spill-over of the Chinese model</h2>
+                                 <p class="p-first">With the Belt and Road Initiative China signals its leadership in connectivity and economic integration. The initiative brings with it new norms and values, often challenging those of the EU and its governance reform agenda. Chinese economic corridors and infrastructure projects replicate Chinaâs preference for state-led rather than market-based decisions, with the politicisation of investment, subsidy, and contract decisions, rejecting the EUâs model of open and transparent bidding procedures.</p>
+                                 <p class="p-first">Perhaps most importantly, these projects saddle the target countries with enormous debts owed to China. In Montenegro, not only did Chinese loans crowd out financing from International Financial Institutions (IFIs), but they even limited the countryâs fiscal space to such an extent that they forced the government to scale down its new social welfare project for families with multiple children.</p>
+                                 <p class="p-first">China often opportunistically takes advantage of the regionâs frictions, offering itself as an easy alternative to Western demands for reforms. In Bosnia and Herzegovina, most of the benefits of Chinaâs largesse accrue to only one region, the Republica Srpska. While its chief, Mr Dodik, has been put on the US sanction list for obstructing the Dayton agreement, China is lavishing him with new highways and power plants. In Macedonia, China was embroiled in a corruption scandal when leaked tapes suggested collusion between local politicians and Chinese state-owned companies and massive inflation of highway construction costs.</p>
+                                 <p class="p-first">Yet in spite of these shortcomings, China is increasingly seen as a credible source of economic growth and a partner for industrial restructuring. While international institutions are demanding privatisation of inefficient industries, Chinese acquisitions of heavy industry assets help protect local jobs, as was the case with the takeover of the Serbiaâs Smederevo steel mill. Partly as a result of this, optimistic expectations of the Belt and Road Initiative are already shaping local investment decisions. But such decisions are often not based on realistic assessments. For example, under pressure from China, Balkan countries are inflating specifications of railways and highways against the traffic forecasts backed by the EU, as was the case in Montenegro where China-backed highway construction is valued at a quarter of the countryâs GDP.</p>
+                                 <p class="page-streamer">Chinese projects may be less numerous than European ones but they are more visible due to better marketing</p>
+                                 <p class="p-first">Contrary to the popular narratives of unrivalled Chinese chequebook diplomacy, the EUâs combined funds for infrastructure and economic development are actually larger and cheaper for recipient countries (the EU often provides grants, while Chinaâs offer is limited to loans). But too often the EU's offer loses out to Chinaâs because of the cumbersome bureaucratic rules attached to EU funding. Local experts complain that EU procedures saddle the local administrations with several sets of rules relating to different EU financial instruments or different international institutions, when different funds are blended for a particular project. The result is that it can take 12 months between agreeing on a project and the start of its execution.</p>
+                                 <p class="p-first">In contrast, because of the flexibility of the Chinese model, China-backed projects can be aligned with local political cycles. When coupled with top-down rather than market-driven procurement decisions, Chinaâs offer allows Balkan decision-makers not only to bring economic growth but also to fuel patronage networks and boost electoral advantages. Chinese projects may be less numerous than European ones but they are more visible due to better marketing.</p>
+                                 <p class="p-first">The effect is pervasive. With a much smaller share of the regionâs combined funding than that of the EU and international institutions, China nonetheless manages to undermine the EUâs regional agenda. The normative alignment with the EU comes at a cost, and without clear prospects of EU membership many countries shy away from the reform effort, especially when easier alternatives are available.</p>
+                                 <p class="p-first">Dissatisfaction with the liberal model, palpable throughout the region, further facilitates Chinese overtures. The Balkan countries draw on whatever source for modernisation presents itself. But such cherry picking tilts the balance between the market-oriented and the state-led model to the latterâs favour. The result is a strengthening of the populist agenda and disillusion with the market and governance reforms promoted by the EU.</p>
+                                 <div class="page-media-container">
+                                    <img src="images/makocki-foto2.jpg" alt="Chinaâs flexible chequebook diplomacy is more popular in the Balkans than the rigid EU procedures.â Picture of Chinese New Year celebrations in Zagreb, Croatia in 2016. ">
+                                    <p class="page-media-source">Â© 
+                                 Miroslav Vajdic / Flickr</p>
+                                    <p class="page-media-note">Chinese New Year celebrations in Zagreb, Croatia in 2016. Chinaâs flexible chequebook diplomacy is more popular in the Balkans than the rigid EU procedures.</p>
+                                 </div>
+                                 <h2>EUâs response</h2>
+                                 <p class="p-first">Despite these challenges, the EU still commands crucial influence in the region. Even if EU membership is unrealistic in the short term, the Union has important policy levers to stabilise the neighbourhood given its unrivalled power of attraction. This is key for a region which is currently experiencing a widespread governance crisis. To prevent any potential destabilisation in its backyard, the EU needs to re-assert/re-affirm its own model of governance and not let China, or other external powers, nullify the regionâs fragile reform progress. In particular, EU foreign policy cannot afford to ignore the influence of China in the region and should incorporate China-specific goals in its enlargement policy.</p>
+                                 <p class="p-first">The EU response to BRI in the Balkans should be based on the reality that the region will inevitably welcome opportunities provided by the worldâs second biggest economy. The goal is not to limit them, but to make sure they do not undermine the membership aspirations of the Western Balkans or the regionâs approximation with EU norms and rules. For that the EU and the region have to agree on a common understanding on their approach to China. Additional funding from the EU should be linked to clear demands for the regionâs alignment with EU foreign policy goals on China.</p>
+                                 <p class="p-first">The EU should also work to put Chinese projects on a more sustainable footing. Only then will Chinaâs initiative will bring economic growth and society-wide benefits, thus helping to build the regionâs resilience, the key among the EUâs objectives for the region.</p>
+                                 <p class="p-first">However, at the end it is structural conditions, not diplomacy, that will shape Belt and Road projects in the region. There are few rules of thumb on the Chinese Silk Road, but one is that the higher the governance standards of the beneficiary country, the higher the quality of Chinaâs economic offer. Rather than trying to engage China on this issue through the EU-China Connectivity platform, the EU should demand from the region faster approximation with those parts of the EU regulatory environment which govern economic engagement with China.</p>
+                                 <h2>Demands from the region</h2>
+                                 <p class="p-first">The first demand should be to increase the transparency of Chinese projects, to allow for greater levels of public scrutiny of their promised benefits. Another objective should be to prioritize those accession chapters which provide for higher quality regulatory environments for infrastructure projects, including public procurement standards and environmental and social impact assessment rules. Chapters related to the rule of law and justice will limit potential for corruption.</p>
+                                 <p class="page-streamer">It would be a great shame if the EU would lose out to China because of its own bureaucratic standards</p>
+                                 <p class="p-first">But none of these demands will be heeded if the EU doesnât step up its own side of the deal. To be fair, since the start of the Berlin Process, the EU has recognized the importance of the region and increased funding, including for the infrastructure. But it should now take up the China challenge and improve its own rules to be able to compete with Chinaâs offer. This is not about lowering EU standards but about streamlining procedural rules to improve the swiftness of execution of its projects.</p>
+                                 <p class="p-first">While the EU should continue to strengthen environmental, social and corruption safeguards, it should recognize the weak local capacity to manage the high costs of compliance. Local administrations should be supported when the rules overburden their capacity for implementation. Twinning between EU and local administrations should be supported and grants offered when reliance on private sector consultancies can help in project implementation. Coordination among different financing modalities, not only among the EUâs own instruments but also with those of other international institutions should be strengthened. And most crucially, the visibility of EU-backed funding should be improved. It would be a great shame if the EU would lose out to China because of its own bureaucratic standards.</p>
+                                 <h2>Conclusion</h2>
+                                 <p class="p-first">Chinaâs presence in the Balkans is paradoxical in that it tends to undermine the very stability on which its initiative depends. Chinese advances are possible in the Balkans because it is the EU which guarantees the regionâs political stability and, hence, the long-term viability of Chinese investments. Similarly, high quality rules and reform demands connected with EU funding allows China a low-cost strategy of underbidding the EU offer. But more importantly, with its initiative China reminds everyone it will be a formidable competition for the existing economic centres of power. The EU should take up the challenge and respond adequately, otherwise its reform agenda will lose credibility.</p>
+                                 <div id="page-footer">
+                                    <hr/>
+                                    <div id="page-footer-container">
+                                       <div id="page-footer-left">
+                                          <div class="page-footer-link">
+                                             <a href="/pub/2017/4/russias-involvement">
+                                                <i class="fa fa-chevron-circle-left"></i> Previous item</a>
+                                          </div>
+                                          <div class="page-footer-title">Russiaâs involvement</div>
+                                       </div>
+                                       <div id="page-footer-right">
+                                          <div class="page-footer-link">
+                                             <a href="/pub/2017/4/re-awakening-of-nationalism">Next item <i class="fa fa-chevron-circle-right"></i>
+                                             </a>
+                                          </div>
+                                          <div class="page-footer-title">Re-awakening of nationalism</div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div id="page-sidebar" class="col-lg-3 col-md-3">
+                                 <p id="page-sidebar-authortitle">Authors</p>
+                                 <div id="page-sidebar-author-wrapper">
+                                    <div id="page-sidebar-author">
+                                       <a href="https://www.iss.europa.eu/author/michal-makocki" target="_blank"><span id="page-sidebar-author-photo">
+                                             <img src="images/aut_makocki.jpg" alt="Michal Makocki">
+                                          </span><span id="page-sidebar-author-description">
+                                             <strong>Michal Makocki</strong>
+                                             <br/>European Union Institute for Security StudiesÂ <i class="fa fa-caret-right"></i>
+                                          </span></a>
+                                    </div>
+                                 </div>
+                                 <hr/>
+                                 <p id="page-sidebar-share">Share this item</p>
+                                 <p id="page-sidebar-sharebuttons">
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fspectator.clingendael.org%2Fpub%2F2017%2F4%2Fchina-in-the-balkans%2F" target="_blank">
+                                       <i class="fa fa-facebook-square"></i>
+                                    </a> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fspectator.clingendael.org%2Fpub%2F2017%2F4%2Fchina-in-the-balkans%2F&amp;title=Interesting%20article%20in%20the%20Clingendael%20Spectator&amp;summary=I%20would%20like%20to%20share%20the%20following%20article%20from%20the%20Clingendael%20Spectator%20with%20you%3A&amp;source=https%3A%2F%2Fspectator.clingendael.org%2Fpub%2F2017%2F4%2Fchina-in-the-balkans%2F" target="_blank">
+                                       <i class="fa fa-linkedin-square"></i>
+                                    </a> <a href="https://twitter.com/home?status=https%3A%2F%2Fspectator.clingendael.org%2Fpub%2F2017%2F4%2Fchina-in-the-balkans%2F" target="_blank">
+                                       <i class="fa fa-twitter-square"></i>
+                                    </a> <a href="mailto:?subject=Interesting%20article%20in%20the%20Clingendael%20Spectator&amp;body=I%20would%20like%20to%20share%20the%20following%20article%20from%20the%20Clingendael%20Spectator%20with%20you%3A%20https%3A%2F%2Fspectator.clingendael.org%2Fpub%2F2017%2F4%2Fchina-in-the-balkans%2F/">
+                                       <i class="fa fa-envelope"></i>
+                                    </a>
+                                 </p>
+                                 <hr/>
+                                 <p id="page-sidebar-pdf">
+                                    <a href="../_/pdf/CS-2017-4-makocki.pdf" target="_blank">
+                                       <i class="fa fa-file-pdf-o"></i> Download &amp; print PDF</a>
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <footer class="footer">
+                     <div class="container">
+                        <p class="footer-links">
+                           <a href="https://spectator.clingendael.org">Home</a><span class="footer-links-divider">Â·</span><a href="/pub///">Cover</a><span class="footer-links-divider">Â·</span><a href="https://spectator.clingendael.org/en/about-us/" target="_blank">Colophon</a>
+                        </p>
+                        <p class="footer-social">Stay updated:<a href="https://www.facebook.com/ClingendaelInstitute/" target="_blank">
+                              <i class="fa fa-facebook-square"></i>
+                           </a> <a href="https://twitter.com/Clingendaelorg/" target="_blank">
+                              <i class="fa fa-twitter-square"></i>
+                           </a> <a href="https://spectator.clingendael.org/contact/" target="_blank">
+                              <i class="fa fa-envelope-square"></i>
+                           </a>
+                        </p>
+                     </div>
+                  </footer>
+               </div>
+               <div id="overlay"></div>
+            </div>
+         </div>
+         <script src="../_/js/script.js"></script>
+         <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-40622914-2', 'auto');
+            ga('send', 'pageview');
+        </script>
+         <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-41116136-2', 'auto');
+            ga('set', 'forceSSL', true);
+            ga('set', 'anonymizeIp', true); 
+            ga('send', 'pageview');
+        </script>
+      </body>
+   </html>
+
+

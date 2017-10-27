@@ -1,0 +1,563 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-title" content="LifeZette">
+<meta property="fb:pages" content="108247159506719" />
+<meta property="fb:app_id" content="180701379015255" />
+<link rel="manifest" href="http://cdn.lifezette.com/wp-content/themes/lifezette/android.json">
+<meta property="article:tag" content="china" />
+<meta name="p:domain_verify" content="1014c845c7b36a186def7a122e815209" />
+<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "WebSite",
+				"url": "http://www.lifezette.com/",
+				"potentialAction": {
+					"@type": "SearchAction",
+					"target": "http://www.lifezette.com/?s={s}",
+					"query-input": "required name=s"
+				}
+			}
+		</script>
+
+<title>Five Reasons to Hate China | LifeZette</title>
+<meta name="description" content="President Obama wants Americans to know he is capable of “getting tough” with China, even as he hosted Chinese President Xi Jinping at the White House. Ins" />
+<link rel="canonical" href="http://www.lifezette.com/polizette/five-reasons-to-hate-china/" />
+<link rel="publisher" href="https://plus.google.com/+Lifezette" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Five Reasons to Hate China | LifeZette" />
+<meta property="og:description" content="President Obama wants Americans to know he is capable of “getting tough” with China, even as he hosted Chinese President Xi Jinping at the White House. Ins" />
+<meta property="og:url" content="http://www.lifezette.com/polizette/five-reasons-to-hate-china/" />
+<meta property="og:site_name" content="LifeZette" />
+<meta property="article:publisher" content="https://www.facebook.com/LifeZette/" />
+<meta property="article:tag" content="china" />
+<meta property="article:section" content="Poli" />
+<meta property="article:published_time" content="2015-09-25T17:10:49-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="President Obama wants Americans to know he is capable of “getting tough” with China, even as he hosted Chinese President Xi Jinping at the White House. Ins" />
+<meta name="twitter:title" content="Five Reasons to Hate China | LifeZette" />
+<meta name="twitter:site" content="@Lifezette" />
+<meta name="twitter:creator" content="@Lifezette" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.lifezette.com\/","name":"LifeZette","alternateName":"Life. Explained.","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.lifezette.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.lifezette.com\/polizette\/five-reasons-to-hate-china\/","sameAs":["https:\/\/www.facebook.com\/LifeZette\/","https:\/\/www.instagram.com\/lifezette\/","https:\/\/www.linkedin.com\/company\/6451812","https:\/\/plus.google.com\/+Lifezette","https:\/\/www.youtube.com\/channel\/UCZ3U7eFcoO2zDZrpJ8d63-w","https:\/\/www.pinterest.com\/lifezette\/","https:\/\/twitter.com\/Lifezette"],"@id":"#organization","name":"LifeZette\/Ingraham Media Group","logo":"http:\/\/cdn.lifezette.com\/wp-content\/uploads\/2016\/04\/lifezette-logo.png"}</script>
+
+<link rel='dns-prefetch' href='//www.lifezette.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cdn.lifezette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='easy-modal-site-css' href='http://cdn.lifezette.com/wp-content/plugins/easy-modal/assets/styles/easy-modal-site.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='LZCarousel-styles-css' href='http://cdn.lifezette.com/wp-content/plugins/lifezette-carousel/css/carousel.css?version=2.2.8&#038;ver=2.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='lifezette-code-library-css' href='http://cdn.lifezette.com/wp-content/plugins/lifezette-code-library/public/css/lifezette-code-library-public.css?ver=3.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='lifezette-editorial-styles-css' href='http://cdn.lifezette.com/wp-content/plugins/lifezette-editorial/css/lifezette-editorial.css?ver=1.4.3' type='text/css' media='screen, print' />
+
+<style id='jetpack_facebook_likebox-inline-css' type='text/css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<link rel='stylesheet' id='lifezette-min-css' href='http://cdn.lifezette.com/wp-content/themes/lifezette/lifezette-min.css?ver=1507161388' type='text/css' media='screen' />
+<link rel='stylesheet' id='slick-css' href='http://cdn.lifezette.com/wp-content/themes/lifezette/css/slick.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='jetpack_css-css' href='http://cdn.lifezette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://cdn.lifezette.com/wp-content/plugins/jquery-updater/js/jquery-3.2.1.min.js?ver=3.2.1'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/jquery-updater/js/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/lifezette-carousel/js/carousel.js?version=2.2.8&#038;ver=2.2.8'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/lifezette-code-library/public/js/min/lifezette-code-library-public-min.js?ver=3.5.7'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/lifezette-editorial/js/mailer.js?ver=1.2.0.as'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/themes/lifezette/js/bootstrap.min.js'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/themes/lifezette/js/jquery.waypoints.min.js?ver=4.0.1'></script>
+<link rel='https://api.w.org/' href='http://www.lifezette.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lifezette.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.lifezette.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel='shortlink' href='http://wp.me/p928XM-bxy' />
+<link rel="alternate" type="application/json+oembed" href="http://www.lifezette.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.lifezette.com%2Fpolizette%2Ffive-reasons-to-hate-china%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.lifezette.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.lifezette.com%2Fpolizette%2Ffive-reasons-to-hate-china%2F&#038;format=xml" />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script> <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://www.lifezette.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '577f5554-eaae-4f01-9b9e-f667aeae14d8';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['httpPermissionRequest']['modalTitle'] = "Thanks for signing up!";
+oneSignal_options['httpPermissionRequest']['modalMessage'] = "You&#039;ll receive the latest updates from LifeZette. You can unsubscribe at any time.";
+oneSignal_options['httpPermissionRequest']['modalButtonText'] = "";
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "lifezette.os.tc";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.55479a10-4eda-4299-901a-290da3fd1836";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'small';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<meta name="description" content="President Obama wants Americans to know he is capable of “getting tough” with China, even as he hosted Chinese President Xi Jinping at the White House. Insisting Obama raised the threat of “fresh sanctions” with Xi over Chinese cyber-hacking, the administration heralded a new agreement that it tried to pass off as a victory. At their&hellip;" />
+<link rel="amphtml" href="http://www.lifezette.com/polizette/five-reasons-to-hate-china/amp/" /><link rel="icon" href="http://cdn.lifezette.com/wp-content/uploads/2017/10/cropped-lz_logo_1024x1024-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://cdn.lifezette.com/wp-content/uploads/2017/10/cropped-lz_logo_1024x1024-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://cdn.lifezette.com/wp-content/uploads/2017/10/cropped-lz_logo_1024x1024-180x180.png" />
+<meta name="msapplication-TileImage" content="http://cdn.lifezette.com/wp-content/uploads/2017/10/cropped-lz_logo_1024x1024-270x270.png" />
+<script type="text/javascript">
+			function printImage() {
+				popup = window.open();
+				popup.document.write('<img src=\"' + document.querySelector(".printimage").src + '\" style=\"width:624px;height:auto;\"\/>');
+				popup.focus(); //required for IE
+				popup.print();
+			}
+		</script>
+<script type="text/javascript" data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-61509462-1', 'auto');
+			ga('send', 'pageview', {'dimension1':'09-25-2015', 'dimension2':'PoliZette Staff'});
+		</script>
+<script type="text/javascript" src="//launch.newsinc.com/js/embed.js"></script>
+<script>(function(d) { var config = { kitId: 'gyx2qpo', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/bwf-loadingb/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);</script>
+<script type="text/javascript" src="//os4m-d.openx.net/w/1.0/jstag?nc=30582678-OS4_Bidder" id="lz_hdr_script_dfp_os4_1" async="async"></script><script type="text/javascript">var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement("script");gads.async = true;gads.type = "text/javascript";var useSSL = "https:" == document.location.protocol;gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";var node =document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads, node);})();</script><script type="text/javascript" id="lz_hdr_script_dfp_os4_2">(function (){ /*if(location && location.search && (location.search.search('test_os4') > 0)) {*/ window.advBidxc = window.advBidxc || {}; window.advBidxc.renderAd = function (){}; window.advBidxc.startTime = new Date().getTime(); window.advBidxc.timeout = 400; window.advBidxc.version = 4.1; window.advBidxc.section = "<section name>"; window.advBidxc.customerId = "8CUEU2JY8"; /*Media.net Customer ID*/ window.advBidxc.domain = window.location.hostname; function loadScript(tagSrc) { if (tagSrc.substr(0, 4) !== 'http') { var isSSL = 'https:' == document.location.protocol; tagSrc = (isSSL ? 'https:' : '') + tagSrc; } var scriptTag = document.createElement('script'), placeTag = document.getElementsByTagName("script")[0]; scriptTag.type = 'text/javascript'; scriptTag.async = true; scriptTag.src = tagSrc; placeTag.parentNode.insertBefore(scriptTag, placeTag); } function loadGPT(){ if(!window.advBidxc.isAdServerLoaded){ loadScript('//www.googletagservices.com/tag/js/gpt.js'); window.advBidxc.isAdServerLoaded = true; } } window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout); var isSSL = 'https:' == document.location.protocol; var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid=' + window.advBidxc.customerId + '&dn=' + window.advBidxc.domain + '&version=' + window.advBidxc.version + (isSSL ? '&https=1' : ''); loadScript(mnSrc); /*console.log('Testing OS4'); }*/ })();</script><script id='lz_hdr_script_dfp_os4_3'>var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];</script>
+<script id="lz_hdr_script_keywee" src="//dc8xl0ndzn2cb.cloudfront.net/js/lifezettecom/v0/keywee.min.js" type="text/javascript" async="async"></script>
+<script type="text/javascript" id="lz_hdr_script_taboola">window._taboola = window._taboola || []; _taboola.push({article:'auto'}); !function (e, f, u, i) { if (!document.getElementById(i)){ e.async = 1; e.src = u; e.id = i; f.parentNode.insertBefore(e, f); } }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/lifezette-lifezette/loader.js', 'tb_loader_script'); if(window.performance && typeof window.performance.mark == 'function') {window.performance.mark('tbl_ic');}</script>
+
+<script type="text/javascript" id="lz_hdr_script_bouncex">(function(d) {var e = d.createElement('script');e.src = d.location.protocol + "//tag.bounceexchange.com/2000/i.js";e.async = true;d.getElementsByTagName("head")[0].appendChild(e);}(document));</script>
+ </head>
+<body class="post-template-default single single-post postid-44364 single-format-standard burgandy-theme  desktop" data-header-slug="header-desktop">
+<!--[if lt IE 10]>
+			<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '857570344332350', {});fbq('track', 'PageView');</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=857570344332350&ev=PageView&noscript=1"/></noscript>
+
+<script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "25704918" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=25704918&cv=2.0&cj=1" /></noscript>
+
+
+
+
+
+<script> googletag.cmd.push(function() { googletag.defineSlot('/30582678/LFZ/desktop/polizette/article/rail2', [300, 250], 'div-gpt-ad-1494528812909-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); });</script>
+
+
+<script> googletag.cmd.push(function() { googletag.defineSlot('/30582678/LFZ/desktop/polizette/article/header', [[728, 90], [468, 60], [970, 90], [970, 250]], 'div-gpt-ad-1493307589655-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); });</script>
+
+
+<script> googletag.cmd.push(function() { googletag.defineSlot('/30582678/LFZ/desktop/polizette/article/rail1', [300, 250], 'div-gpt-ad-1493302624033-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); });</script>
+
+
+
+<script> googletag.cmd.push(function() { googletag.defineSlot('/30582678/LFZ/desktop/polizette/article/footer', [[468, 60], [970, 90], [728, 90], [970, 250]], 'div-gpt-ad-1493242589226-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); });</script>
+
+
+<script data-cfasync='false' type='text/javascript'>if(document.getElementsByClassName('postid-807016') && document.getElementsByClassName('postid-807016').length !== 1) { window.apd_options = { 'websiteId': 6227, 'runFromFrame': false };(function() {var w = window.apd_options.runFromFrame ? window.top : window;if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));w.apd_options=window.apd_options;var apd = w.document.createElement('script');apd.type = 'text/javascript';apd.async = true;apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);})(); }</script>
+ <ul class="menu menu-main-menu-left">
+<li class="menu-item"><a href="/">LifeZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/polizette/">PoliZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/momzette/">MomZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/healthzette/">HealthZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/faithzette/">FaithZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/popzette/">PopZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/video/">Videos</a></li>
+<li class="menu-item">
+<ul class="zero-margin list-unstyled terms-list border menu-left-menu-top">
+<li class="menu-item"><a href="http://www.lifezette.com/about/">About LifeZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/advertise-with-us/">Advertise With Us</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/jobs-at-lifezette/">Jobs at LifeZette</a></li>
+<li class="menu-item"><a href="http://www.lifezette.com/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item">
+<ul class="zero-margin list-unstyled terms-list menu-left-menu-bot">
+<li><a href="http://www.lifezette.com/our-terms/">Terms of Use</a></li>
+<li><a href="http://www.lifezette.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>
+<div class="menu-bar-trigger mobile"><i class="fa fa-bars"></i></div>
+
+<div class="site-wrap">
+<header>
+<div class="container">
+<div class="header">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 nav-break">
+<div id="menu-bar-wrapper">
+<div class="menu-bar-trigger desktop">
+<i class="fa fa-bars"></i>
+</div>
+</div>
+<ul class="nav nav-tabs menu-main-menu-top">
+<li><a href="http://www.lifezette.com/" class="">
+<i class="fa fa-home"></i> LifeZette</a>
+</li>
+<li>
+<a href="http://www.lifezette.com/polizette/" class="active">
+PoliZette </a>
+</li>
+<li>
+<a href="http://www.lifezette.com/momzette/">
+MomZette </a>
+</li>
+<li>
+<a href="http://www.lifezette.com/healthzette/">
+HealthZette </a>
+</li>
+<li>
+<a href="http://www.lifezette.com/faithzette/">
+FaithZette </a>
+</li>
+<li>
+<a href="http://www.lifezette.com/popzette/">
+PopZette </a>
+</li>
+<li>
+<a href="http://www.lifezette.com/video/">
+Videos </a>
+</li>
+<li class="pull-right">
+<a id="postupsubmitlink" href="javascript:void('Sign up for the DailyZette Newsletter');" class="weight-semibold theme-color">Sign up</a>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="row logo-border no-gutter">
+<div class="col-lg-6 col-md-6 col-sm-7 col-xs-10 logo zero-right-padding">
+<a href="/polizette/"><img alt="PoliZette Logo" src="http://cdn.lifezette.com/wp-content/themes/lifezette/images/logos/logo-blank.png" style="background-image: url('http://cdn.lifezette.com/wp-content/themes/lifezette/images/logos/logos-polizette.svg'); background-size: contain; background-position: center center; background-repeat: no-repeat;" class="img-responsive inline-block" /></a><span>Politics. Explained.</span>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-5 col-xs-2 social-search pull-right">
+<div class="social pull-right">
+<a class="fa-lg" style="cursor: pointer;">
+<i class="fa fa-search social-icon-search fa-lg"></i>
+</a>
+<a href="https://www.facebook.com/lifezette" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-facebook fa-stack-1x social-icon"></i>
+</span>
+</a>
+<a href="https://twitter.com/Lifezette/" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-twitter fa-stack-1x social-icon"></i>
+</span>
+</a>
+<a href="https://www.pinterest.com/lifezette/" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-pinterest fa-stack-1x social-icon"></i>
+</span>
+</a>
+<a href="/feed/" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-rss fa-stack-1x social-icon"></i>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div id="search-bar-container">
+<div class="row">
+<div class="col-lg-10 col-md-9 hidden-sm hidden-xs">
+<div class="search-bar-arrow"></div>
+</div>
+</div>
+<div class="row search-bar">
+<form id="lz-global-search" method="get" action="/">
+<div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+<input name="s" type="search" spellcheck="spellcheck" autocomplete="autocomplete" maxlength="254" pattern=".{3,}" class="search-term" placeholder="Search Term (minimum of 3 letters)" formenctype="text/plain" value="" style="background-color: rgba(235, 235, 235, 1);" />
+</div>
+<button class="hidden-sm hidden-xs search-btn">Search</button>
+</form>
+</div>
+</div>
+</div>
+</header>
+<div id='div-gpt-ad-1493307589655-0' data-comment='/30582678/LFZ/desktop/polizette/article/header' style='text-align: center;'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493307589655-0'); });</script></div>
+<section class="simple-portfolio-item container">
+</section>
+<section class="article-template">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 article-body">
+<div class="row " style="margin-left: 0!important;margin-right: 0!important;">
+<div class="header-container col-lg-12 col-md-12 col-sm-11 col-xs-11">
+<div class="header">
+<h1 class="article-headline">Five Reasons to Hate China</h1>
+<h2 class="article-subheader">Xi: U.S. should be 'broad-minded'; Translation: Nothing will change</h2>
+<time class="lz_hidden lz_date" datetime="2015-09-25">September 25, 2015</time>
+</div>
+</div>
+</div>
+<div class="row zero-padding" style="margin: 0!important;">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="author author-box">
+<p class="author-prefix by">
+<span class="by">by </span><a href="/author/PoliZetteStaff" author-index="0">PoliZette Staff</a><span class="pubtime"> | 25 Sep 2015 at 5:10 PM</span> </p> </div> </div> </div> <div class="row article-container">
+<div>
+<div>
+<div class="col-lg-1 col-md-1 zero-right-margin single-article-share-wrap">
+<div class="social-share social-share-article-small">
+<script type="text/javascript">if(!(jQuery('body').hasClass("lz-share-whitelist-item-facebook lz-share-whitelist-item-twitter lz-share-whitelist-item-pinterest lz-share-whitelist-item-linkedin lz-share-whitelist-item-mail lz-share-whitelist-item-print"))) { jQuery('body').addClass("lz-share-whitelist-item-facebook lz-share-whitelist-item-twitter lz-share-whitelist-item-pinterest lz-share-whitelist-item-linkedin lz-share-whitelist-item-mail lz-share-whitelist-item-print"); }</script><link rel="stylesheet" href="http://cdn.lifezette.com/wp-content/plugins/lifezette-advertising/css/lz_social_icons.css" /><ul class="lz-social-icons  "><li><a class="lz-facebook" href="javascript:void('https://www.facebook.com/sharer/sharer.php?u=http://www.lifezette.com/polizette/five-reasons-to-hate-china/');" target="_blank" onclick="event.preventDefault(); window.open('https://www.facebook.com/sharer/sharer.php?u=http://www.lifezette.com/polizette/five-reasons-to-hate-china/', 'newwindow', 'width=555,height=400'); return false;" title="Facebook"><svg width="20px" height="20px" viewBox="0 0 11 20"><path id="facebook" d="M10.2784466,0.156887797 L10.2784466,3.29752426 L8.42261597,3.29752426 C7.90827961,3.23973721 7.39264464,3.3944277 6.99505394,3.72579287 C6.68481207,4.07874628 6.53036388,4.54209085 6.56678533,5.0105987 L6.56678533,7.29469794 L10.1356904,7.29469794 L9.7074218,10.863603 L6.70954154,10.863603 L6.70954154,20 L2.99788026,20 L2.99788026,10.863603 L-8.8817842e-16,10.863603 L-8.8817842e-16,7.29469794 L2.99788026,7.29469794 L2.99788026,4.72508629 C2.90994175,3.45088899 3.37860268,2.2011265 4.28268609,1.29893742 C5.17964014,0.477814378 6.35004538,0.01982972 7.56607875,0.0141315939 C8.47269295,-0.0267324207 9.38113092,0.0210801043 10.2784466,0.156887797 L10.2784466,0.156887797 Z"></path></svg></a></li><li><a class="lz-twitter" href="javascript:void('https://twitter.com/intent/tweet?text=Five+Reasons+to+Hate+China&amp;url=http://www.lifezette.com/polizette/five-reasons-to-hate-china/&amp;via=LifeZette');" target="_blank" onclick="event.preventDefault(); window.open('https://twitter.com/intent/tweet?text=Five+Reasons+to+Hate+China&amp;url=http://www.lifezette.com/polizette/five-reasons-to-hate-china/&amp;via=LifeZette', 'newwindow', 'width=555,height=255'); return false;" title="Twitter"><svg width="20px" height="20px" viewBox="0 0 20 16"><path id="twitter" d="M20,1.84615385 C19.3846154,2.61538462 18.7692308,3.38461538 18,4 L18,4.46153846 C18,5.53846154 17.8461538,6.61538462 17.5384615,7.69230769 C17.2307692,8.76923077 16.7692308,9.84615385 16.1538462,10.9230769 C15.3846154,12 14.6153846,12.6153846 13.6923077,13.3846154 C12.7692308,14.1538462 11.6923077,14.7692308 10.4615385,15.2307692 C9.23076923,15.6923077 7.84615385,15.8461538 6.30769231,15.8461538 C4,15.8461538 1.84615385,15.2307692 1.77635684e-15,14 L0.923076923,14 C2.76923077,14 4.46153846,13.3846154 6,12.3076923 C5.07692308,12.3076923 4.30769231,12 3.53846154,11.5384615 C2.76923077,11.0769231 2.30769231,10.3076923 2.15384615,9.53846154 L2.92307692,9.53846154 C3.23076923,9.53846154 3.69230769,9.53846154 4,9.38461538 C3.07692308,9.53846154 2.30769231,8.92307692 1.69230769,8.30769231 C1.07692308,7.69230769 0.769230769,6.61538462 0.769230769,5.69230769 L0.769230769,5.69230769 C1.38461538,6 2,6.15384615 2.61538462,6.15384615 C2.15384615,5.69230769 1.69230769,5.23076923 1.38461538,4.61538462 C1.07692308,4 0.769230769,3.38461538 0.769230769,2.76923077 C0.769230769,2 0.923076923,1.38461538 1.38461538,0.769230769 C2.46153846,2 3.69230769,3.07692308 5.07692308,3.84615385 C6.46153846,4.61538462 8.15384615,5.07692308 9.84615385,5.07692308 C9.84615385,4.76923077 9.69230769,4.46153846 9.69230769,4.15384615 C9.69230769,3.07692308 10.1538462,2 10.9230769,1.23076923 C11.6923077,0.461538462 12.6153846,-1.77635684e-15 13.8461538,-1.77635684e-15 C15.0769231,-1.77635684e-15 16,0.461538462 16.7692308,1.23076923 C17.6923077,1.07692308 18.6153846,0.769230769 19.3846154,0.307692308 C19.0769231,1.23076923 18.4615385,1.84615385 17.6923077,2.46153846 C18.4615385,2.30769231 19.2307692,2.15384615 20,1.84615385 L20,1.84615385 Z"></path></svg></a></li><li><a class="lz-pinterest" href="javascript:void('https://pinterest.com/pin/create/button/?url=http://www.lifezette.com/polizette/five-reasons-to-hate-china/&media=&description=Five+Reasons+to+Hate+China');" target="_blank" onclick="event.preventDefault(); window.open('https://pinterest.com/pin/create/button/?url=http://www.lifezette.com/polizette/five-reasons-to-hate-china/&media=&description=Five+Reasons+to+Hate+China', 'newwindow', 'width=755,height=520'); return false;" title="Pinterest"><svg width="20px" height="20px" viewBox="0 0 20 20"><circle id="pinterest" cx="10" cy="10" r="10"></circle><path id="pinterest_p" d="M16.5,10 C16.5,11.2 16.2,12.3 15.6,13.3 C15,14.3 14.2,15.1 13.2,15.7 C12.2,16.3 11.1,16.6 9.9,16.6 C9.3,16.6 8.7,16.5 8.1,16.3 C8.4,15.8 8.7,15.3 8.8,14.9 C8.9,14.7 9,14.1 9.3,13.1 C9.4,13.3 9.6,13.5 9.9,13.7 C10.2,13.9 10.5,14 10.9,13.9 C12.2,13.7 12.9,12.8 13.2,12.4 C16.1,7.9 12.3,5.4 9.7,5.5 C8.2,5.5 6.8,6.7 6.4,7.2 C6.2,7.5 5.8,8.2 5.7,8.6 C5.7,9 5.6,9.4 5.6,9.7 C5.6,10.3 5.7,10.8 5.9,11.2 C6.1,11.6 6.5,12 6.9,12.1 C7.1,12.2 7.3,12.1 7.3,11.9 C7.3,11.9 7.5,11.2 7.5,11.1 C7.5,11 7.4,11 7.3,10.9 C7,10.8 6.9,10.4 6.9,9.9 C6.9,9 7.2,8.3 7.8,7.7 C8.4,7.1 9.2,6.8 10.1,6.8 C11,6.8 11.6,7 12.1,7.5 C12.6,8 12.8,8.6 12.8,9.3 C12.8,10.3 12.6,11.1 12.2,11.7 C11.8,12.3 11.3,12.7 10.7,12.7 C10.4,12.7 10.1,12.6 9.9,12.3 C9.7,12.1 9.6,11.8 9.7,11.4 C9.7,11.2 9.8,10.9 9.9,10.6 C10,10.3 10.1,10 10.2,9.7 C10.3,9.4 10.3,9.2 10.3,9.1 C10.3,8.8 10.3,8.6 10.1,8.4 C9.9,8.3 9.7,8.2 9.4,8.2 C9,8.2 8.7,8.4 8.5,8.7 C8.3,9 8.1,9.4 8.1,9.9 C8.1,10.3 8.2,10.7 8.3,10.9 L7.5,14.4 C7.4,14.8 7.4,15.5 7.4,16.1 C6.2,15.6 5.3,14.6 4.6,13.5 C3.9,12.4 3.5,11.3 3.5,10 C3.5,8.8 3.8,7.7 4.4,6.7 C5,5.7 5.7,5 6.7,4.4 C7.7,3.8 8.8,3.5 10,3.5 C11.2,3.5 12.3,3.8 13.3,4.4 C14.3,5 15.1,5.8 15.7,6.8 C16.3,7.8 16.5,8.8 16.5,10 L16.5,10 Z"></path></svg></a></li><li><a class="lz-linkedin" href="javascript:void('https://www.linkedin.com/shareArticle?mini=true&url=http://www.lifezette.com/polizette/five-reasons-to-hate-china/&title=Five+Reasons+to+Hate+China');" target="_blank" onclick="event.preventDefault(); window.open('https://www.linkedin.com/shareArticle?mini=true&url=http://www.lifezette.com/polizette/five-reasons-to-hate-china/&title=Five+Reasons+to+Hate+China', 'newwindow', 'width=555,height=400'); return false;" title="Linkedin"><svg width="20px" height="20px" viewBox="0 0 20 19"><path id="linkedin" d="M4.46153846,6 L4.46153846,18.9230769 L0.153846154,18.9230769 L0.153846154,6 L4.46153846,6 L4.46153846,6 Z M4.61538462,2 C4.61538462,2.61538462 4.46153846,3.23076923 4,3.53846154 C3.53846154,3.84615385 2.92307692,4.30769231 2.30769231,4.30769231 L2.30769231,4.30769231 C1.53846154,4.30769231 1.07692308,4.15384615 0.615384615,3.69230769 C0.153846154,3.23076923 0,2.76923077 0,2.15384615 C0,1.53846154 0.153846154,0.923076923 0.615384615,0.615384615 C1.07692308,0.307692308 1.69230769,-4.4408921e-16 2.30769231,-4.4408921e-16 C2.92307692,-4.4408921e-16 3.53846154,0.153846154 4,0.615384615 C4.46153846,0.923076923 4.61538462,1.38461538 4.61538462,2 L4.61538462,2 Z M19.8461538,11.5384615 L19.8461538,18.9230769 L15.5384615,18.9230769 L15.5384615,12 C15.5384615,11.0769231 15.3846154,10.3076923 15.0769231,9.84615385 C14.7692308,9.38461538 14.1538462,9.07692308 13.3846154,9.07692308 C12.7692308,9.07692308 12.3076923,9.23076923 12,9.53846154 C11.6923077,9.84615385 11.3846154,10.1538462 11.2307692,10.6153846 C11.0769231,10.9230769 11.0769231,11.2307692 11.0769231,11.6923077 L11.0769231,18.9230769 L6.76923077,18.9230769 L6.76923077,10.4615385 L6.76923077,6.61538462 L6.76923077,6 L11.0769231,6 L11.0769231,7.84615385 L11.0769231,7.84615385 C11.2307692,7.53846154 11.3846154,7.38461538 11.5384615,7.07692308 C11.6923077,6.92307692 12,6.61538462 12.3076923,6.46153846 C12.6153846,6.30769231 12.9230769,6 13.3846154,6 C13.8461538,5.84615385 14.3076923,5.84615385 14.9230769,5.84615385 C16.4615385,5.84615385 17.5384615,6.30769231 18.4615385,7.38461538 C19.3846154,8.46153846 19.8461538,9.69230769 19.8461538,11.5384615 L19.8461538,11.5384615 Z"></path></svg></a></li><li><a class="lz-mail" href="/cdn-cgi/l/email-protection#a69980d5d3c4ccc3c5d29be0cfd0c386f4c3c7d5c9c8d586d2c986eec7d2c386e5cecfc8c780c4c9c2df9be0cfd0c386f4c3c7d5c9c8d586d2c986eec7d2c386e5cecfc8c786d0cfc786e6eacfc0c3fcc3d2d2c3868b86ced2d2d69c8989d1d1d188cacfc0c3dcc3d2d2c388c5c9cb89d6c9cacfdcc3d2d2c389c0cfd0c38bd4c3c7d5c9c8d58bd2c98bcec7d2c38bc5cecfc8c789" title="Mail"><svg height="20px" width="20px" viewBox="0 0 19 15"><path id="mail" d="M9.5,10.8c-0.3,0-0.7,0-1.2-0.3c-0.4-0.3-8-5.4-8.2-5.7v8.5c0,0.4,0.1,0.9,0.4,1.2c0.3,0.3,0.7,0.4,1.2,0.4h15.6 c0.4,0,0.9-0.1,1.2-0.4s0.4-0.7,0.4-1.2V4.8c-0.3,0.3-7.9,5.6-8.3,5.7C10.2,10.7,9.8,10.8,9.5,10.8z" /><path id="mail_2" d="M1.8,4.5C2,4.8,8.2,9.2,8.2,9.2s0.4,0.3,0.6,0.3c0.1,0.1,0.4,0.1,0.6,0.1c0.1,0,0.4,0,0.6-0.1c0.3-0.1,0.6-0.3,0.6-0.3 s3.9-2.6,6.6-4.5c0.6-0.4,1-0.9,1.3-1.3c0.4-0.6,0.6-1,0.6-1.6s-0.1-0.9-0.4-1.3C18.3,0.1,17.8,0,17.4,0H1.8c-0.6,0-1,0.1-1.3,0.6 C0.1,0.9,0,1.3,0,1.9c0,0.4,0.1,0.9,0.6,1.5C1,3.9,1.3,4.2,1.8,4.5z" /></svg></a></li><li><a class="lz-print" href="http://www.lifezette.com/polizette/five-reasons-to-hate-china/print" title="Print"><svg width="20px" height="20px" viewBox="0 0 20 20"><path id="print" d="M19.1836601,3.38901099 L16.7346732,3.38901099 L16.7346732,0.918498168 C16.7346732,0.413150183 16.3692157,0.00347985348 15.9183333,0.00347985348 L4.08160131,0.00347985348 C3.63075163,0.00347985348 3.26526144,0.413113553 3.26526144,0.918498168 L3.26526144,3.38901099 L0.81627451,3.38901099 C0.365457516,3.38901099 0,3.79868132 0,4.3040293 L0,13.2710623 C0,13.7764103 0.365457516,14.1860806 0.816339869,14.1860806 L3.2653268,14.1860806 L3.2653268,17.4274359 L3.2653268,19.0082784 C3.2653268,19.3133333 3.32035948,19.5409158 3.53071895,19.7565568 C3.62869281,19.8569963 3.73330065,19.9221245 3.86107843,19.9623443 C3.97941176,19.9995238 4.09637255,19.9963736 4.21598039,19.9963736 L9.99996732,19.9963736 L15.7839542,19.9963736 C15.9036275,19.9963736 16.0206863,19.9995238 16.139085,19.9623077 C16.2669608,19.9220513 16.3716667,19.8567766 16.4696078,19.7561905 C16.68,19.5402564 16.7346405,19.3123077 16.7346405,19.0072161 L16.7346405,17.4254945 L16.7346405,14.1861172 L19.1836275,14.1861172 C19.6344771,14.1861172 19.9999673,13.7764835 19.9999673,13.2710989 L19.9999673,4.30406593 C20,3.79871795 19.6345425,3.38901099 19.1836601,3.38901099 L19.1836601,3.38901099 Z M2.04081699,6.6143956 C1.64633987,6.6143956 1.32653595,6.25593407 1.32653595,5.81377289 C1.32653595,5.37161172 1.64633987,5.01315018 2.04081699,5.01315018 C2.43529412,5.01315018 2.75509804,5.37161172 2.75509804,5.81377289 C2.75509804,6.25593407 2.43529412,6.6143956 2.04081699,6.6143956 L2.04081699,6.6143956 Z M15.918366,19.0813187 L4.08163399,19.0813187 L4.08163399,11.8528205 L15.918366,11.8528205 L15.918366,19.0813187 L15.918366,19.0813187 Z M15.918366,3.38901099 L4.08163399,3.38901099 L4.08163399,1.83351648 C4.08163399,1.3281685 4.4470915,0.918498168 4.89797386,0.918498168 L15.1020588,0.918498168 C15.5529085,0.918498168 15.9183987,1.32813187 15.9183987,1.83351648 C15.918366,2.35205128 15.918366,2.87054945 15.918366,3.38901099 L15.918366,3.38901099 Z"></path></svg></a></li></ul> </div> </div> <div class="col-lg-11 col-md-11 col-sm-12 col-xs-12">
+<div class="article body">
+
+
+
+
+
+<p>President Obama wants Americans to know he is capable of “getting tough” with China, even as he hosted Chinese President Xi Jinping at the White House.</p>
+<p>Insisting Obama raised the threat of “fresh sanctions” with Xi over Chinese cyber-hacking, the administration heralded a new agreement that it tried to pass off as a victory. At their joint press conference, the president described the deal as a “common understanding of the way forward” in the battle against cyber-crime. Tellingly, Xi said the two countries needed to be &#8220;broad-minded&#8221; about their differences. Translation: nothing will change. China will continue to rip us off with impunity.</p>
+<script src="/cdn-cgi/scripts/78d64697/cloudflare-static/email-decode.min.js"></script><script async="true" src="//a.teads.tv/page/13929/tag"></script>
+<p>While Mark Zuckerberg speaks Mandarin to woo President Xi, we at LifeZette mark the Chinese State visit in a different way — with a reality check. Here are five ways that China is working to undermine U.S. military and economic power:</p>
+<p>&#8212;<strong> Dominant Economic Power.</strong> Beijing is expected to report growth of 6.5 percent to 7 percent by year’s end. While this is down from the 7.3 percent in 2015, it’s more than double what is projected for the U.S. economy. Despite its correction in the summer, the Shanghai Composite Index still is up 42 percent year to year. China surpassed Japan a few years ago as the second biggest economy in the world, behind only ours. And its trade deficit with the U.S. was $31.6 billion in July. Not satisfied with their success, the Chinese companies continue to purloin U.S. intellectual property as the government often looks the other way.</p>
+<p>&#8212; <strong>The Subsidies Game.</strong> Massive Chinese subsidies to critical industries have artificially boosted their exports and depressed prices worldwide, which harms U.S. manufacturing. This has lead to extensive American job loss. In the steel business, for example, China has crushed much of U.S. competition by illegally dumping cheap product while benefitting from various industry subsidies and currency devaluation. According to Zack’s Equity Research, for the first seven months of 2015, China’s combined steel exports jumped about 27 percent. China now manufactures half of the world’s steel, while only two of the world’s top 50 steel companies reside in the U.S. Our steel industry and its supporting industries support more than one million U.S. jobs.</p>
+<div id="taboola-native-thumbnails"></div>
+<p>&#8212; <strong>Growing Military Threat.</strong> Liu Mingfu, a retired Chinese colonel and author, told the Guardian newspaper recently: &#8220;President Xi&#8217;s dream is of a stronger nation with a strong military.” Obama’s “pivot to Asia” never happened, and fueled by a booming economy, China has been aggressively seeking to expand its control in the South China Sea. With America looking on via satellite imaging, we see the Chinese building an artificial island to house a new military base. In 2013, China launched its first aircraft carrier, with more to come. And most worrisome is its recent testing of various space-warfare weaponry.</p>
+<p>&#8212; <strong>Massive Cybertheft.</strong> Whether you’re an individual or a business, Chinese interests are trying to access your data. The U.S. Office of Personnel Management recently reported that hackers stole 5.6 million government cyber files, including fingerprints and background checks used for sensitive jobs. The hacks are widely suspected to have originated in China. U.S. intel officials testifying on Capitol Hill report that Chinese officials are directly responsible for the systematic theft of U.S. business’s data and have regular access to our citizen’s private digital communication. It is unlikely that Obama’s newly struck “pinky promise” with Xi is going to change the scope or pace of these intrusions.</p>
+<p>&#8212; <strong>Human Rights Violations</strong>. China oversees and orders the systematic repression of a wide range of human rights &#8212; religious freedom, freedom of conscience, right to a fair legal proceeding, property rights, free speech rights, and individual dignity. According to Amnesty International, 500,000 people in China “are currently enduring punitive detention without charge or trial, and millions are unable to access the legal system to seek redress for their grievances.” While China’s “one-child policy” was slightly relaxed in 2013, the barbaric practice of forced abortion is still widespread. China is 8 percent Christian, and Xi has carried out systematic repression of all religious minorities in his declared effort to stamp out “Western-style influences” in Chinese society. Church destruction, harassment of Christians, imprisonment of church leaders, and the removal of crosses are widely documented. In meetings with their Chinese counterparts, American presidents from Clinton to Bush to Obama have urged change and reform. The communist officials smile, nod, and proceed to ignore the admonitions.</p>
+<div id="taboola-carousel-thumbnails"></div>
+<p>Now if we could only say all that in Mandarin.</p>
+
+<div id="taboola-below-article-thumbnails"></div> <script type="text/javascript" id="taboola-below-article-thumbnails-script">window._taboola = window._taboola || []; _taboola.push({ mode: 'thumbnails-a', container: 'taboola-below-article-thumbnails', placement: 'Below Article Thumbnails', target_type: 'mix' });</script>
+
+<div id='jp-relatedposts' class='jp-relatedposts'>
+</div><ol class="lz_hidden lz_tags"><li>china</li></ol> </div> 
+
+<fieldset style="padding:0; margin:0.75em 0 20px; border-bottom: 1px solid #d5d5d5;"><legend style="margin: 0; border-bottom: 1px solid #d5d5d5;"><a href="http://www.lifezette.com/polizette/china-wants-our-homes/" style="text-transform: uppercase; font-family: 'museo-slab', arial, sans-serif; font-size: 1em; font-style: normal;"></a></legend><div><a href="http://www.lifezette.com/polizette/china-wants-our-homes/" style="margin:0;padding:.20em 0 .205em 1em; display:inline-block; font-family: inherit; font-weight: bold; background-image: url('http://cdn.lifezette.com/wp-content/uploads/2017/08/grey_arrow.png'); background-size: 199px 376px; background-position: -185px 50%; background-repeat: no-repeat;" class="polizette">China Wants Our Homes</a></div></fieldset> <div class="bottom-of-article-1" style="background-color:rgba(233, 233, 233, 1);"></div>
+<div style="font-size: 0.7em; border-top: 1px solid silver; display: none;">
+
+
+<p class="nocomments">Comments are closed.</p>
+</div>
+</div> </div> </div> </div> </div> 
+<div class="sidebar sidebar-polizette sidebar-desktop col-lg-4 col-md-4 col-sm-12 col-xs-12 zero-left-padding sidebar-1" style="margin-bottom: 0;">
+<div class="widget ad-widget visible-lg visible-md visible-sm visible-xs adblock_01"><div class="ad-widget-inner"><div class="ad-block"><p>Advertisement</p><div id='div-gpt-ad-1493302624033-0' data-comment='/30582678/LFZ/desktop/polizette/article/rail1' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493302624033-0'); });</script></div></div></div></div>
+
+<div class="widget zero-margin visible-lg visible-md sidebar_form">
+<div class="updates">
+<h3 class="widget-title updates-header border-header">DailyZette</h3>
+<p class="updates-label" style="padding: 0.5em;">News, insight and analysis across politics, parenting, health, faith and pop culture.</p>
+<div id="postuparticleform"></div>
+<p class="updates-disclaimer bottom" style="margin:0;padding:0;">By signing up you agree to <a href="//www.lifezette.com/our-terms/" class="updates-disclaimer-link" style="font-family: inherit; font-size: inherit;" target="_blank">our terms.</a></p>
+</div>
+</div>
+<div class="widget ad-widget visible-lg visible-md visible-sm visible-xs adblock_02"><div class="ad-widget-inner"><div class="ad-block"><p>Advertisement</p><div id='div-gpt-ad-1494528812909-0' style='height:250px; width:300px; margin: 0 auto 0.5em auto;' data-comment='/30582678/LFZ/desktop/polizette/article/rail2'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494528812909-0'); });</script></div></div></div></div>
+<div class="widget zero-margin zero-padding">
+<div class="popular">
+<h3 class="widget-title popular-header border-header">Popular</h3>
+<ul class="list-unstyled popular-list" style="padding: 15px 0 0!important; margin: 0; display: inline-block;"><li class="popular-row" style="overflow: visible; margin: 0; padding: 0 0 0.625em 0;"><div class="row zero-padding zero-top-margin zero-bottom-margin" style="margin-left: 0; margin-right: 0;"><a href="http://www.lifezette.com/polizette/conrad-black-russia-collusion-story-is-blowing-up-like-the-hindenburg/" style="display: block; clear: left; float: none;"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 zero-top-margin zero-padding" style="margin-bottom: 0.125em;"><figure class="img-responsive wedge poli" style="background-image: url('http://cdn.lifezette.com/wp-content/uploads/2017/10/hillary-clinton-collusion-hindenburg1-360x210.jpg'); background-size: cover; margin: 0 2.5% 0 0; min-width: 180px; max-width: 180px; max-height: 105px; min-height: 105px; float: left;"></figure><div class="copy snippet" style="padding-left: 160px;"><h5 style="font-size: 1em; margin: 0 0 0.125em 0; padding-top: 0; transition: none;">Conrad Black: Russia 'Collusion' Story Is Blowing Up Like the Hindenburg</h5></div><span class="clear"></span></div></a></div></li><li class="popular-row" style="overflow: visible; margin: 0; padding: 0 0 0.625em 0;"><div class="row zero-padding zero-top-margin zero-bottom-margin" style="margin-left: 0; margin-right: 0;"><a href="http://www.lifezette.com/polizette/fox-news-throws-star-studded-party-to-launch-laura-ingrahams-new-show/" style="display: block; clear: left; float: none;"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 zero-top-margin zero-padding" style="margin-bottom: 0.125em;"><figure class="img-responsive wedge poli" style="background-image: url('http://cdn.lifezette.com/wp-content/uploads/2017/10/laura-ingraham-ingraham-angle-FOX-launch-party-2_1170x880_acf_cropped-360x210.jpg'); background-size: cover; margin: 0 2.5% 0 0; min-width: 180px; max-width: 180px; max-height: 105px; min-height: 105px; float: left;"></figure><div class="copy snippet" style="padding-left: 160px;"><h5 style="font-size: 1em; margin: 0 0 0.125em 0; padding-top: 0; transition: none;">Fox News Throws Star-Studded Party to Launch Laura Ingraham's New Show</h5></div><span class="clear"></span></div></a></div></li><li class="popular-row" style="overflow: visible; margin: 0; padding: 0 0 0.625em 0;"><div class="row zero-padding zero-top-margin zero-bottom-margin" style="margin-left: 0; margin-right: 0;"><a href="http://www.lifezette.com/polizette/devin-nunes-news-that-clinton-campaign-paid-for-trump-dossier-just-the-tip-of-the-iceberg/" style="display: block; clear: left; float: none;"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 zero-top-margin zero-padding" style="margin-bottom: 0.125em;"><figure class="img-responsive wedge poli" style="background-image: url('http://cdn.lifezette.com/wp-content/uploads/2017/10/RTX32KB0_1170x880_acf_cropped-360x210.jpg'); background-size: cover; margin: 0 2.5% 0 0; min-width: 180px; max-width: 180px; max-height: 105px; min-height: 105px; float: left;"></figure><div class="copy snippet" style="padding-left: 160px;"><h5 style="font-size: 1em; margin: 0 0 0.125em 0; padding-top: 0; transition: none;">Devin Nunes: News That Clinton Paid for Dossier Just 'Tip of the Iceberg'</h5></div><span class="clear"></span></div></a></div></li><li class="popular-row" style="overflow: visible; margin: 0; padding: 0 0 0.625em 0;"><div class="row zero-padding zero-top-margin zero-bottom-margin" style="margin-left: 0; margin-right: 0;"><a href="http://www.lifezette.com/polizette/democrats-pounce-on-trump-wikileaks-story/" style="display: block; clear: left; float: none;"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 zero-top-margin zero-padding" style="margin-bottom: 0.125em;"><figure class="img-responsive wedge poli" style="background-image: url('http://cdn.lifezette.com/wp-content/uploads/2017/10/wiki-leaks-trump-assange-clinton1-360x210.jpg'); background-size: cover; margin: 0 2.5% 0 0; min-width: 180px; max-width: 180px; max-height: 105px; min-height: 105px; float: left;"></figure><div class="copy snippet" style="padding-left: 160px;"><h5 style="font-size: 1em; margin: 0 0 0.125em 0; padding-top: 0; transition: none;">Democrats Pounce on Trump-WikiLeaks Story</h5></div><span class="clear"></span></div></a></div></li><li class="popular-row" style="overflow: visible; margin: 0; padding: 0 0 0.625em 0;"><div class="row zero-padding zero-top-margin zero-bottom-margin" style="margin-left: 0; margin-right: 0;"><a href="http://www.lifezette.com/popzette/exclusive-watch-this-clip-from-the-new-film-produced-by-sean-hannity/" style="display: block; clear: left; float: none;"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 zero-top-margin zero-padding" style="margin-bottom: 0.125em;"><figure class="img-responsive wedge pop" style="background-image: url('http://cdn.lifezette.com/wp-content/uploads/2017/10/let-there-be-light-movie-sorbo1-1-360x210.jpg'); background-size: cover; margin: 0 2.5% 0 0; min-width: 180px; max-width: 180px; max-height: 105px; min-height: 105px; float: left;"></figure><div class="copy snippet" style="padding-left: 160px;"><h5 style="font-size: 1em; margin: 0 0 0.125em 0; padding-top: 0; transition: none;">Exclusive: Watch This Clip from the New Film Produced by Sean Hannity</h5></div><span class="clear"></span></div></a></div></li></ul>
+</div>
+</div>
+
+
+<section style="max-width: 350px; min-width: 350px; margin-left: auto; margin-right: auto; height: 630px; margin-top: 15px;"><div class="textwidget custom-html-widget"><h3 class="widget-title updates-header border-header"><a href="https://www.facebook.com/LifeZette/" target="_blank" style="color: inherit; font-family: inherit; font-style: inherit; font-weight: inherit;">LifeZette on Facebook</a></h3></div><h2 class="widgettitle"><a href="https://facebook.com/LifeZette">Facebook</a></h2><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="http://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f1d8b5aa8c4042&amp;origin=http%3A%2F%2Fwww.lifezette.com" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f1d8b5aa8c4042&amp;origin=http%3A%2F%2Fwww.lifezette.com" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div><div class="fb-page fb_iframe_widget" data-href="https://facebook.com/LifeZette" data-width="350" data-height="600" data-hide-cover="false" data-show-facepile="false" data-show-posts="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=249643311490&amp;container_width=350&amp;height=600&amp;hide_cover=false&amp;href=https%3A%2F%2Ffacebook.com%2FLifeZette&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;show_posts=true&amp;width=350"><span style="vertical-align: bottom; width: 350px; height: 600px;"><iframe name="fd948fdab14cc8" width="350px" height="600px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" src="https://www.facebook.com/v2.3/plugins/page.php?app_id=249643311490&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F5oivrH7Newv.js%3Fversion%3D42%23cb%3Df1d4edbd85d6b68%26domain%3Dwww.lifezette.com%26origin%3Dhttp%253A%252F%252Fwww.lifezette.com%252Ff1d8b5aa8c4042%26relation%3Dparent.parent&amp;container_width=350&amp;height=600&amp;hide_cover=false&amp;href=https%3A%2F%2Ffacebook.com%2FLifeZette&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;show_posts=true&amp;width=350" style="border: none; visibility: visible; width: 350px; height: 600px;" class=""></iframe></span></div></section>
+
+</div> </div> </div> </section>
+<section class="asd_container text-center top30 full_width_ad is_desktop" style="width: 100%; margin: 0 auto;"><div class="ad-block" style="padding-top:5px; padding-bottom:5px; background-color:rgba(233, 233, 233, 1); border-top:1px dashed rgba(210, 210, 210, 1); border-bottom:0px dashed rgba(210, 210, 210, 1);"><div id='div-gpt-ad-1493242589226-0' data-comment='/30582678/LFZ/desktop/polizette/article/footer'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493242589226-0'); });</script></div></div></section>
+
+<div class="footer desktop-top-buffer desktop-bottom-buffer">
+<div class="container">
+<div class="row bottom-buffer">
+<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+<div class="logo-span">
+<img src="http://cdn.lifezette.com/wp-content/themes/lifezette/images/logos/lifezette-logo.png" class="img-responsive logo inline-block" />
+<span class="inline-block bottom-out">Life. Explained.</span>
+</div> </div> <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 social-icons bottom-out even">
+<div class="social">
+<span>Connect with LifeZette</span>
+<a href="https://www.facebook.com/lifezette" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-facebook fa-stack-1x social-icon"></i>
+</span>
+</a>
+<a href="https://twitter.com/Lifezette/" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-twitter fa-stack-1x social-icon"></i>
+</span>
+</a>
+<a href="https://www.pinterest.com/lifezette/" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-pinterest fa-stack-1x social-icon"></i>
+</span>
+</a>
+<a href="/feed/" class="hidden-xs">
+<span class="fa-stack fa-md">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-rss fa-stack-1x social-icon"></i>
+</span>
+</a>
+</div> </div> </div> <div class="row">
+<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+<div class="left-list">
+<ul class="main-nav list-unstyled">
+<li><a href="http://www.lifezette.com/"><i class="fa fa-home"></i> LifeZette</a></li>
+<li><a href="https://www.lifezette.com/polizette/" class="active">PoliZette</a></li><li><a href="https://www.lifezette.com/momzette/" class="">MomZette</a></li><li><a href="https://www.lifezette.com/healthzette/" class="">HealthZette</a></li><li><a href="https://www.lifezette.com/faithzette/" class="">FaithZette</a></li><li><a href="https://www.lifezette.com/popzette/" class="">PopZette</a></li><li><a href="https://www.lifezette.com/video/" class="">Videos</a></li> </ul> <ul class="right-list list-unstyled">
+<li><a href="https://www.lifezette.com/about/" class="">About LifeZette</a></li><li><a href="https://www.lifezette.com/advertise-with-us/" class="">Advertise With Us</a></li><li><a href="https://www.lifezette.com/jobs-at-lifezette/" class="">Jobs at LifeZette</a></li><li><a href="https://www.lifezette.com/contact-us/" class="">Contact Us</a></li> </ul> </div> </div> </div> <div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bottom-line list-unstyled">
+<span class="copyright">
+&copy; 2017 Ingraham Media, Inc. All Rights Reserved
+</span>
+<span><a href="https://www.lifezette.com/our-terms/" class="light-grey">Terms of Use</a></span><span><a href="https://www.lifezette.com/privacy-policy/" class="light-grey">Privacy Policy</a></span> </div> </div> </div> </div></div> 
+
+<div id="eModal-3" class="emodal theme-1 responsive large" data-emodal="{&quot;id&quot;:&quot;3&quot;,&quot;theme_id&quot;:&quot;1&quot;,&quot;meta&quot;:{&quot;id&quot;:&quot;3&quot;,&quot;modal_id&quot;:&quot;3&quot;,&quot;display&quot;:{&quot;overlay_disabled&quot;:0,&quot;size&quot;:&quot;large&quot;,&quot;custom_width&quot;:0,&quot;custom_width_unit&quot;:&quot;%&quot;,&quot;custom_height&quot;:0,&quot;custom_height_unit&quot;:&quot;em&quot;,&quot;custom_height_auto&quot;:1,&quot;location&quot;:&quot;right top&quot;,&quot;position&quot;:{&quot;top&quot;:100,&quot;left&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0,&quot;fixed&quot;:0},&quot;animation&quot;:{&quot;type&quot;:&quot;fadeAndSlide&quot;,&quot;speed&quot;:&quot;200&quot;,&quot;origin&quot;:&quot;center top&quot;}},&quot;close&quot;:{&quot;overlay_click&quot;:1,&quot;esc_press&quot;:1}}}"><div class="emodal-content"><div class="dailyzette_signup" id="postupform"></div>
+</div><a class="emodal-close">&#215;</a></div>
+<script type='text/javascript'>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-61509462-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_gat._anonymizeIp']);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+<div style="display:none">
+</div>
+<script type="text/javascript">
+    window.SPOTIM = {
+        spotId: "sp_LBIJSCSJ",
+        parentElement: document.body,
+        options: {}
+    };
+</script>
+<script type="text/javascript" async src="//www.spot.im/launcher/bundle.js"></script><script type='text/javascript' src='http://cdn.lifezette.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://cdn.lifezette.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/easy-modal/assets/scripts/jquery.transit.min.js?ver=0.9.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var emodal_themes = [];
+emodal_themes = {"1":{"id":"1","theme_id":"1","overlay":{"background":{"color":"#ffffff","opacity":85}},"container":{"padding":0,"background":{"color":"#f9f9f9","opacity":100},"border":{"style":"none","color":"#000000","width":1,"radius":0},"boxshadow":{"inset":"no","horizontal":2,"vertical":2,"blur":3,"spread":0,"color":"#020202","opacity":23}},"close":{"text":"","location":"topright","position":{"top":"0","left":"0","bottom":"0","right":"0"},"padding":16,"background":{"color":"#ffffff","opacity":100},"font":{"color":"#ffffff","size":12,"family":"Times New Roman"},"border":{"style":"none","color":"#ffffff","width":1,"radius":0},"boxshadow":{"inset":"no","horizontal":0,"vertical":0,"blur":0,"spread":0,"color":"#020202","opacity":23},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#4a4a4a","opacity":23}},"title":{"font":{"color":"#000000","size":32,"family":"Tahoma"},"text":{"align":"left"},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#020202","opacity":23}},"content":{"font":{"color":"#8c8c8c","family":"Times New Roman"}}}};;
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/easy-modal/assets/scripts/easy-modal-site.js?defer&#038;ver=2' defer='defer'></script>
+<script type='text/javascript' async="async" src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201743'></script>
+<script type='text/javascript' async="async" src='https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js?ver=1.0.1.as'></script>
+<script type='text/javascript' async="async" src="https://s.gravatar.com/js/gprofiles.js?ver=2017Octaa"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/jetpack/_inc/facebook-embed.js'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/plugins/jetpack/_inc/twitter-timeline.js?ver=4.0.0'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/themes/lifezette/js/functions-min.js'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/themes/lifezette/js/slick.min.js'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/themes/lifezette/js/lz.waypoints.js'></script>
+<script type='text/javascript' async="async" src='http://cdn.lifezette.com/wp-content/themes/lifezette/js/lifezette-feed/lifezette-feed.js'></script>
+<script type='text/javascript' src='http://cdn.lifezette.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready( function($) {
+$("ul.nav-menu").not(":has(li)").hide().closest('div').hide();
+});
+/* ]]> */
+</script><script type='text/javascript' src='https://stats.wp.com/e-201743.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.4',blog:'133498138',post:'44364',tz:'-4',srv:'www.lifezette.com'} ]);
+	_stq.push([ 'clickTrackerInit', '133498138', '44364' ]);
+</script>
+
+<script type="text/javascript">
+		$(function($) {
+			$('<'+'a class="print-image" href="javascript:void(0)" onclick="printImage();"><img class="print-image-icon" src="//cdn.lifezette.com/wp-content/themes/lifezette/images/print.png" />Print<'+'/a'+'>').insertBefore(".printimage");
+		});
+	</script>
+<script>
+	window.twttr = (function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {};
+	if (d.getElementById(id)) return t;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://platform.twitter.com/widgets.js";
+		fjs.parentNode.insertBefore(js, fjs);
+		t._e = [];
+		t.ready = function(f) {
+			t._e.push(f);
+		};
+	return t;
+	}(document, "script", "twitter-wjs"));
+</script>
+<script>/*WebFontConfig = { custom: { families: ['Roboto Slab'], urls: [] }, timeout: 2000 };*/</script>
+<script type="text/javascript" id="lz_search_and_menu_activator">/* <![CDATA[ */(function($, win, doc) {  $('.fa-search').hide(); $(".social-icon-search").click(function(e) {e.preventDefault();var sbCont = $("#search-bar-container");if(sbCont.is(":visible")) {sbCont.slideUp();$(".search-term").blur();} else {sbCont.slideDown();$(".search-term").focus();}});$(".search-btn").click(function(e) {$("#lz-global-search").submit(e);});var menuBarTrigger = $(".menu-bar-trigger"),bod = $("body"),mbtLeft = menuBarTrigger.offset().left;$(".menu-bar-trigger").click(function() {if(bod.hasClass("nav-open")) {bod.removeClass("nav-open");menuBarTrigger.animate({left: mbtLeft},250,function() {menuBarTrigger.removeAttr("style");})} else {bod.addClass("nav-open");menuBarTrigger.css("left", mbtLeft).animate({left: 300},250,function() {});}menuBarTrigger.find(".fa").toggleClass("fa-bars fa-close");});setTimeout(function() { $(win).resize(function() {menuBarTrigger.removeAttr("style");mbtLeft = menuBarTrigger.offset().left;menuBarTrigger = $(".menu-bar-trigger");}); }, 3000); })(jQuery, window, document);/* ]]> */</script>
+<script type="text/javascript" id="lz_click_on_page_x_activator">(function($) { var hrefstr = (document.location.pathname+''); hrefstr = (hrefstr.charAt(hrefstr.length-1) === '/') ? hrefstr.replace(/[0-9]+[^a-zA-Z0-9]$/,'') : hrefstr; $('p:contains("lick on page"),p:contains("ee page"),p:contains("lick to page"),p:contains("lick for page")').each(function(i,o){ $(o).html($(o).html().replace(/(click|see|Click|See) *(on|to|for){0,1} *(page) *([0-9]+)/gi, '<a href="'+hrefstr+((hrefstr.charAt(hrefstr.length-1) === '/') ? '' : '/')+'$4/">$1 $2 $3 $4</a>')); }); })(jQuery);</script>
+<script type="text/javascript" id="lz_pagination_buttons_active_state_activator" async="async">(function($) { if($('.search-pagination-container').length > 0) { $($('.search-pagination-container').get(0).childNodes).each(function(i,o) { if(!isNaN(parseInt(o.nodeValue))) { $('.search-pagination-container').html($('.search-pagination-container').html().replace(o.nodeValue, '<a href="'+document.location.pathname+'" class="active search-pagination-item">'+o.nodeValue+'</a>')); } }); } })(jQuery);</script>
+<script type="text/javascript" id="lz_parent_class_activator">/*<![CDATA[*/if($('.parent-migrate').length > 0) {$('.parent-migrate').each(function(i,o) {$(o).parent().addClass($(o).attr('class')).removeClass('parent-migrate');$(o).removeClass(); $(o).contents().unwrap(); }); }/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ jQuery('div[data-comment$="header"]').css({'padding-top':'1em','padding-bottom':'1em'}); /*]]>*/</script>
+<script type="text/javascript" id="taboola-carousel-thumbnails-script">if((location && location.search) && (location.search.search('debug') > 0)) { window._taboola = window._taboola || []; _taboola.push({ mode: 'thumbnails-d', container: 'taboola-carousel-thumbnails', placement: 'Carousel Thumbnails', target_type: 'mix' }); }</script>
+<script type="text/javascript" id="postup_loader" class="lz_bottom_script_postup_1">/*<![CDATA[*//*LifeZette Updates - start */var lz_qre = new RegExp(String.fromCharCode(92)+String.fromCharCode(63)); window.lightboxjs || function (c) { function g(b, d) { d && (d += (lz_qre.test(d) ? "&" : "?") + "lv=1"); c[b] || function () { var i = window, h = document, j = b, g = h.location.protocol, l = "load", k = 0; (function () { function b() { a.P(l); a.w = 1; c[j]("_load") } c[j] = function () { function m() { m.id = e; return c[j].apply(m, arguments) } var b, e = ++k; b = this && this != i ? this.id || 0 : 0; (a.s = a.s || []).push([e, b, arguments]); m.then = function (b, c, h) { var d = a.fh[e] = a.fh[e] || [], j = a.eh[e] = a.eh[e] || [], f = a.ph[e] = a.ph[e] || []; b && d.push(b); c && j.push(c); h && f.push(h); return m }; return m }; var lz_bsre = String.fromCharCode(94)+String.fromCharCode(92)+String.fromCharCode(47)+String.fromCharCode(92)+String.fromCharCode(47); a = c[j]._ = {}; a.fh = {}; a.eh = {}; a.ph = {}; a.l = d ? d.replace(lz_bsre, (g == "https:" ? g : "http:") + "//") : d; a.p = { 0: +new Date }; a.P = function (b) { a.p[b] = new Date - a.p[0] }; a.w && b(); i.addEventListener ? i.addEventListener(l, b, !1) : i.attachEvent("on" + l, b); var q = function () { function b() { return ["<head></head><", c, ' onload="var d=', n, ";d.getElementsByTagName('head')[0].", d, "(d.", g, "('script')).", i, "='", a.l, "'"+String.fromCharCode(34)+"></", c, ">"].join("") } var c = "body", e = h[c]; if (!e) return setTimeout(q, 100); a.P(1); var d = "appendChild", g = "createElement", i = "src", k = h[g]("div"), l = k[d](h[g]("div")), f = h[g]("iframe"), n = "document", p; k.style.display = "none"; e.insertBefore(k, e.firstChild).id = o + "-" + j; f.frameBorder = "0"; f.id = o + "-frame-" + j; /MSIE[ ]+6/.test(navigator.userAgent) && (f[i] = "javascript:false"); f.allowTransparency = "true"; l[d](f); try { f.contentWindow[n].open() } catch (s) { a.domain = h.domain, p = "javascript:var d=" + n + ".open();d.domain='" + h.domain + "';", f[i] = p + "void(0);" } try { var r = f.contentWindow[n]; r.write(b()); r.close() } catch (t) { f[i] = p + 'd.write("' + b().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();' } a.P(2) }; a.l && q() })() }(); c[b].lv = "1"; return c[b] } var o = "lightboxjs", k = window[o] = g(o); k.require = g; k.modules = c }({}); /*]]>*/</script><div id='6d416a79-24b8-4880-befa-374074acea85' class='lightbox-container'><a class='lightbox-trigger' style='text-indent: -9999px;' href='http://digioh.com/blog/the-best-marketing-automation-software'>marketing automation</a></div><script type="text/javascript" id="lz_bottom_script_postup_2">if (document.getElementById('6d416a79-24b8-4880-befa-374074acea85') != null) { document.getElementById('6d416a79-24b8-4880-befa-374074acea85').style.display = 'none'; } window.lightboxlib = lightboxjs.require("lightboxlib", "//www.lightboxcdn.com/vendor/6d416a79-24b8-4880-befa-374074acea85/lightbox.js?mb=" + (new Date().getTime()));</script> <script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+<script type="text/javascript" id="taboola-native-thumbnails-script">window._taboola = window._taboola || [];_taboola.push({mode:'thumbnails-b',container: 'taboola-native-thumbnails',placement:'Native Thumbnails',target_type:'mix'});</script>
+<script type="text/javascript" id="lz_body_bottom_script_taboola">window._taboola = window._taboola || [];_taboola.push({flush: true});</script>
+<script type="text/javascript" class="lz_primalmath-quiz-ui-loader">/*<[CDATA[*/var ___is_primalMath = (jQuery('.author-name, .author-box').text().search(/primal math/i) > -1);if(___is_primalMath) {var ___lzPrimalMath = {};___lzPrimalMath["puzzleImgs"] = jQuery('img[src*="Puzzle"],img[srcset*="Puzzle"]');___lzPrimalMath["puzzlePs"] = jQuery(___lzPrimalMath["puzzleImgs"]).closest('p');jQuery(___lzPrimalMath["puzzlePs"]).css({'opacity':'0'}).addClass('lz_primalmath-quiz reveal-onclick ');var img = jQuery(___lzPrimalMath["puzzleImgs"]);img.each(function(imgIndex, imgOb) {var is_imgLoaded = (imgOb.complete || (imgOb.readyState === 4) || (imgOb.readyState === 'complete'));if(is_imgLoaded) {jQuery(___lzPrimalMath["puzzlePs"]).css({ "overflow": "hidden" }).click(function(e) {e.preventDefault();var $imgOb = jQuery(imgOb);var ths = jQuery(this);var origH = ths.data('orig-height');var no_origH = isNaN(origH),currH = parseInt( $imgOb.height() );var origH = (no_origH) ? currH : origH;if( no_origH ) {var origH = parseInt( $imgOb.height() );ths.data({'orig-height': origH});ths.data({'open': true});}var halfHCustom = $imgOb.attr('class'),slsh=String.fromCharCode(92),hyph=String.fromCharCode(45),customMidRE = new RegExp(".*"+slsh+"s*"+"custom"+slsh+hyph+"ui"+slsh+hyph+"midpoint"+slsh+hyph+"("+slsh+"d+)pct"+".*"+slsh+"s*","i");if(halfHCustom.match(customMidRE)) {halfHCustom = RegExp.$1;if(!(isNaN(parseFloat(halfHCustom))) ) {halfHCustom = (parseFloat(halfHCustom) * .01) * origH;}} else {halfHCustom = false;}var halfH = (halfHCustom) ? halfHCustom : (parseFloat( origH/2 ) + 10);if( ths.data('open') === true ) {ths.data({'open': false});ths.animate({"height": halfH + "px"},600).attr({'title':'Click to Reveal Answer'});} else {ths.data({'open': true});ths.animate({"height": origH + "px"}, 100).attr({'title':'Click to Hide Answer'});}return false;}).trigger('click').animate({'opacity':'1'}, 555);} else {jQuery(imgOb).one('load', {"name": "imgUILoader"}, function() {jQuery(___lzPrimalMath["puzzlePs"]).animate({'opacity':'1'}, 555);jQuery(___lzPrimalMath["puzzlePs"]).css({ "overflow": "hidden" }).click(function(e) {e.preventDefault();var $imgOb = jQuery(imgOb);var ths = jQuery(this);var origH = ths.data('orig-height');var no_origH = isNaN(origH),currH = parseInt( $imgOb.height() );var origH = (no_origH) ? currH : origH;if( no_origH ) {var origH = parseInt( $imgOb.height() );ths.data({'orig-height': origH});ths.data({'open': true});}var halfHCustom = $imgOb.attr('class'),slsh=String.fromCharCode(92),hyph=String.fromCharCode(45),customMidRE = new RegExp(".*"+slsh+"s*"+"custom"+slsh+hyph+"ui"+slsh+hyph+"midpoint"+slsh+hyph+"("+slsh+"d+)pct"+".*"+slsh+"s*","i");if(halfHCustom.match(customMidRE)) {halfHCustom = RegExp.$1;if(!(isNaN(parseFloat(halfHCustom))) ) {halfHCustom = (parseFloat(halfHCustom) * .01) * origH;}} else {halfHCustom = false;}var halfH = (halfHCustom) ? halfHCustom : (parseFloat( origH/2 ) + 10);if( ths.data('open') === true ) {if(ths.data('orig-height') !== $imgOb.height()) {var origH = parseInt( $imgOb.height() );var halfHCustom = $imgOb.attr('class');if(halfHCustom.match(customMidRE)) {halfHCustom = RegExp.$1;if(!(isNaN(parseFloat(halfHCustom))) ) {halfHCustom = (parseFloat(halfHCustom) * .01) * origH;}} else {halfHCustom = false;}var halfH = (halfHCustom) ? halfHCustom : (parseFloat( origH/2 ) + 10);ths.data({'orig-height': origH});}ths.data({'open': false});ths.animate({"height": halfH + "px"},600).attr({'title':'Click to Reveal Answer'});} else {ths.data({'open': true});ths.animate({"height": origH + "px"}, 300).attr({'title':'Click to Hide Answer'});}return false;});jQuery(___lzPrimalMath["puzzlePs"]).trigger('click');}).each(function() {jQuery(this).css({"display": "block","visibility": "visible"});if(this.complete) {this.load();}});}});}/*]]>*/</script> <script type="text/javascript">
+		/*<![CDATA[*/
+		(function($) { $('a:contains("Article continues below")').hide(); })(jQuery);
+		/*]]>*/
+	</script>
+</body>
+</html>

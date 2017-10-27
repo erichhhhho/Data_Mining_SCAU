@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+
+    <meta property='og:image' content='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-icon-version-240x240-compressed.png'/>
+
+			
+	
+	<link rel="pingback" href="https://jitterymonks.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://jitterymonks.com/wp-content/themes/article/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<!--
+
+
+_____                                                                                                                    /\
+|:::|                                                                                                                   / .\
+|:::|                                    ,, ",                                                                         (_/\_)
+|:-:|                                    -   c                                                                           )(
+|::.|                                     `-|\.                                                                         /__\
+|:;:|                                      / `\                                                                       _/_/\_\_
+|=:=|                                    (/  |_\                                                                     _/_/__\_\_
+|:::|                                    |__, |                                                                     _/_/_/\_\_\_
+|:-:|                                     |   |                                                                    _/_/_/__\_\_\_
+|::;|                                     |   |                                                                  __/_/_/_/\_\_\_\__
+|:.:|                                     /___|                                                                 _)__,________'____(_
+|=:=|          __   __  .___________.____/====|_. _______ .______     ____    ____                              )__________________(
+|:::|         |  | |  | |           |           ||   ____||   _  \    \   \  /   /                                 |||      -   |
+|,-:|         |  | |  | `---|  |----`---|  |----`|  |__   |  |_)  |    \   \/   /                                  | _____-____ |
+|::;|   .--.  |  | |  |     |  |        |  |     |   __|  |      /      \_    _/                                   | |\      /| |
+|:::|   |  `--'  | |  |     |  |        |  |     |  |____ |  |\  \----.   |  |                                     ' | \    / | |
+|=:=|    \______/  |__|     |__|        |__|     |_______|| _| `._____|   |__|                                     | |  \  /  | |
+|:::|                                                                                                              | |   \/   | |
+|:-.|            .___  ___.   ______   .__   __.  __  ___      _______.                                            | |   /\   |'|
+|:::|            |   \/   |  /  __  \  |  \ |  | |  |/  /     /       |                                            | |  /  \  | |
+|:::|            |  \  /  | |  |  |  | |   \|  | |  '  /     |   (----`                                           _| | /    \ | |_
+|;:,|            |  |\/|  | |  |  |  | |  . `  | |    (       \   \                                              //| |/      \|  \\
+|:::|            |  |  |  | |  `--'  | |  |\   | |  .  \  .----)   |                                            //|  /        \. |\\
+|:-:|            |__|  |__|  \______/  |__| \__| |__|\__\ |_______/                                            //|  /    ||    \  |\\
+|.::|                                                                                                         //|  /   __||__   \  |\\
+|:::|                                                                                                        //|  ,   -__  __-   ,  |\\
+|=:=|                Custom Essays Powered by Caffeinated Monks                                         ____//|  /    '  ||   .   \  |\\____
+|:::|                                                                                                  _)___/|  /   / /  ||    \   \   |\__(_
+|:-:|                                                                                             /\   )__  \_ / __/_____/\_____\__ \   \___(
+|:::|                                                                                            /. \     |   / |__________________| \    \\|
+|.::|                                                                                           (_/\_)    '  /   /.    ///\\\     \   \    \|     
+|=:=|           69696969                         69696969          Coffeee... hmmm...             )(      |  |  |     /((  ))\ -   |   |    | 
+|:.:|        6969    696969                   696969    6969       huummm... essays...           //\\     | -|  |    /  \\//  \    |---|--H-|
+|:-:|      969    69  6969696               6969  6969     696     hummmmmhummmmmm...           //  \\__,_|  |  | - /\   \/   /\ ' |__ |  H |
+|:::|     969        696969696             696969696969     696          /      |              //-   \____|  |  /  / ()  ()  () \  \  \|  H |
+|..:|    969        69696969696           6969696969696      696                           ___// ./\    \ |  | /  /  /\  /\  /\  \  \  |  H |
+|=.=|    696      9696969696969           969696969696       969     ,```_     _```,       )__   //\\   |_|  - |  | //\\//\\//\\ |  -  |  H |
+|:::|     696     696969696969             969696969        969       c   -   -   c          |  ((  )) -| | .| |  |((  )(  )(  ))|  |  |  H |
+|:-:|      696     696  96969      _=_      9696969  69    696       ./|-`     `-|\.         |  |\\//|  | |  | '  | \\//\\//\\// |  |  |  H |
+|:::|        9696    969696      q(-_-)p      696969    6969         /` \       /` \         |- | \/ |  | '  | |  |  \/  \/  \/  |  '  |  H |
+|:::|           96969696         '_) (_`         69696969           /_|  \)   (/  |_\        |  | () |  | |  | |  |  ()  ()  ()  |  |  |  H |
+|=:=|              96            /__/  \            69               | .__|   |__, |         |  |//\\|  - | -| |  |  /\  /\  /\  |  |  |  H |
+|:::|              69          _((_   / )_          96               |   |     |   |         | -|/  \|  | -  | ,  | //\\//\\//\\ '  |  |  H |
+|:-:|             6969        (__\_\_|_/__)        9696              |   |     |   |       __|_ |    | _|_|  |_|_ |//  \(  )/  \\|  |__+  H |
+|:::|            969696                           696969             |___\     /___|      _)___||____||___|  |___||__   \\//   __|__, /|  H |
+|.::\\__________69696969_________________________96969696______________===_____===_______|____|  |__|  |_,|__|__|   |____\/____| |  |/+|  H | 
+|=====\__________________________________________________________________________________________________________\_/____________\|__|/======+ 
+
+ASCII Art Credits:
+* b'ger
+* http://ascii.co.uk/art/monk
+* http://patorjk.com/software/taag 
+* https://wordpress.org/plugins/source-code-ascii-art/
+
+
+
+-->
+<title>Up to 90% of Chinese Exchange Students Have Hired Essay Ghostwriters - Jittery Monks</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://jitterymonks.com/report-90-chinese-exchange-students-purchasing-essays-online/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Up to 90% of Chinese Exchange Students Have Hired Essay Ghostwriters - Jittery Monks" />
+<meta property="og:description" content="Many university students can relate to the struggle they may have had in composing a particular research paper &#8211; staying up all night, downing energy drinks, and giving everything they’ve got to make sure that their paper can achieve a solid grade. College coursework can prove time-consuming and difficult, but students push on in the &hellip;" />
+<meta property="og:url" content="https://jitterymonks.com/report-90-chinese-exchange-students-purchasing-essays-online/" />
+<meta property="og:site_name" content="Jittery Monks" />
+<meta property="article:section" content="College Life" />
+<meta property="article:published_time" content="2017-10-12T17:06:30+00:00" />
+<meta property="article:modified_time" content="2017-10-12T18:20:30+00:00" />
+<meta property="og:updated_time" content="2017-10-12T18:20:30+00:00" />
+<meta property="og:image" content="https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students-300x199.jpg" />
+<meta property="og:image:secure_url" content="https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students-300x199.jpg" />
+<meta property="og:image" content="https://jitterymonks.com/wp-content/uploads/2017/10/computer_writing-300x200.jpg" />
+<meta property="og:image:secure_url" content="https://jitterymonks.com/wp-content/uploads/2017/10/computer_writing-300x200.jpg" />
+<meta property="og:image" content="https://jitterymonks.com/wp-content/uploads/2017/10/university_building-300x200.jpg" />
+<meta property="og:image:secure_url" content="https://jitterymonks.com/wp-content/uploads/2017/10/university_building-300x200.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Many university students can relate to the struggle they may have had in composing a particular research paper &#8211; staying up all night, downing energy drinks, and giving everything they’ve got to make sure that their paper can achieve a solid grade. College coursework can prove time-consuming and difficult, but students push on in the [&hellip;]" />
+<meta name="twitter:title" content="Up to 90% of Chinese Exchange Students Have Hired Essay Ghostwriters - Jittery Monks" />
+<meta name="twitter:image" content="https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students-300x199.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/jitterymonks.com\/","name":"Jittery Monks","potentialAction":{"@type":"SearchAction","target":"https:\/\/jitterymonks.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/jitterymonks.com\/report-90-chinese-exchange-students-purchasing-essays-online\/","sameAs":[],"@id":"#organization","name":"JitteryMonks","logo":"https:\/\/jitterymonks.com\/wp-content\/uploads\/2017\/07\/jittery-monks-icon-version-2.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jitterymonks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Article Child v." name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://jitterymonks.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://jitterymonks.com/wp-content/themes/article/style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-montserrat-css'  href='https://fonts.googleapis.com/css?family=Montserrat:400,700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-source-sans-pro-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-play-css'  href='https://fonts.googleapis.com/css?family=Play:400,700&#038;subset=latin,cyrillic-ext,cyrillic,greek-ext,greek,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://jitterymonks.com/wp-content/themes/article-child/style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='https://jitterymonks.com/wp-content/themes/article/epanel/shortcodes/css/shortcodes.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://jitterymonks.com/wp-content/themes/article/epanel/shortcodes/css/shortcodes_responsive.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://jitterymonks.com/wp-content/themes/article/includes/builder/styles/magnific_popup.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://jitterymonks.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://jitterymonks.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jitterymonks.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jitterymonks.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel='shortlink' href='https://jitterymonks.com/?p=1978' />
+<link rel="alternate" type="application/json+oembed" href="https://jitterymonks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjitterymonks.com%2Freport-90-chinese-exchange-students-purchasing-essays-online%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jitterymonks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjitterymonks.com%2Freport-90-chinese-exchange-students-purchasing-essays-online%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />		<style id="theme-customizer-css">
+					@media only screen and ( min-width: 767px ) {
+				body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post p { font-size: 15px; }
+				.et_pb_slide_content, .et_pb_best_value { font-size: 17px; }
+			}
+													.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #a52a2a !important; }
+			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #a52a2a; }
+			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit .et_pb_button, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button { color: #a52a2a; }
+			.footer-widget h4 { color: #a52a2a; }
+			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #a52a2a; }
+			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container { background-color: #a52a2a; }
+									a { color: #a52a2a; }
+							#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: rgba(132,30,30,0.82); }
+							#main-header .nav li ul { background-color: #841e1e; }
+									#top-header, #et-secondary-nav li ul { background-color: #a52a2a; }
+													.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: rgba(247,247,247,0.75); }
+			.et_search_form_container input::-moz-placeholder { color: rgba(247,247,247,0.75); }
+			.et_search_form_container input::-webkit-input-placeholder { color: rgba(247,247,247,0.75); }
+			.et_search_form_container input:-ms-input-placeholder { color: rgba(247,247,247,0.75); }
+							#main-header .nav li ul a { color: #ffffff; }
+						
+					#top-menu li a, .et_search_form_container input {
+									font-weight: bold; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+
+			.et_search_form_container input::-moz-placeholder {
+									font-weight: bold; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+			.et_search_form_container input::-webkit-input-placeholder {
+									font-weight: bold; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+			.et_search_form_container input:-ms-input-placeholder {
+									font-weight: bold; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+		
+							#main-footer { background-color: #f5f5dc; }
+							#footer-widgets .footer-widget li a { color: #111111; }
+							.footer-widget { color: #111111; }
+							#main-footer .footer-widget h4 { color: #a52a2a; }
+							.footer-widget li:before { border-color: #a52a2a; }
+						#footer-widgets .footer-widget li:before { top: 9.75px; }#et-footer-nav { background-color: #841e1e; }.bottom-nav, .bottom-nav a, .bottom-nav li.current-menu-item a { color: #f9f9f9; }#et-footer-nav .bottom-nav li.current-menu-item a { color: #e0e0e0; }#footer-bottom { background-color: #660d0d; }#footer-info, #footer-info a { color: #ffffff; }#footer-bottom .et-social-icon a { font-size: 20px ; }#footer-bottom .et-social-icon a { color: #ffffff; }					#main-header { box-shadow: none; }
+										
+		
+																														
+		@media only screen and ( min-width: 981px ) {
+																									.footer-widget h4 { font-size: 22px; }
+													#logo { max-height: 90%; }
+				.et_pb_svg_logo #logo { height: 90%; }
+																			.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container, .et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container { height: 11.88px; }
+																			.et-fixed-header#main-header, .et-fixed-header#main-header .nav li ul, .et-fixed-header .et-search-form { background-color: #841e1e; }
+													.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: rgba(247,247,247,0.75) !important; }
+				.et-fixed-header .et_search_form_container input::-moz-placeholder { color: rgba(247,247,247,0.75) !important; }
+				.et-fixed-header .et_search_form_container input::-webkit-input-placeholder { color: rgba(247,247,247,0.75) !important; }
+				.et-fixed-header .et_search_form_container input:-ms-input-placeholder { color: rgba(247,247,247,0.75) !important; }
+									
+					}
+					@media only screen and ( min-width: 1350px) {
+				.et_pb_row { padding: 27px 0; }
+				.et_pb_section { padding: 54px 0; }
+				.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 81px; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_fullwidth_section { padding: 0; }
+			}
+		
+		@media only screen and ( max-width: 980px ) {
+							#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: rgba(132,30,30,0.95); }
+										.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_mobile_menu li a, .mobile_menu_bar:before, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, #et_search_icon:before, #et_top_search .et-search-form input, .et_search_form_container input, #et-top-navigation .et-cart-info { color: #ffffff; }
+				.et_close_search_field:after { color: #ffffff !important; }
+				.et_search_form_container input::-moz-placeholder { color: #ffffff; }
+				.et_search_form_container input::-webkit-input-placeholder { color: #ffffff; }
+				.et_search_form_container input:-ms-input-placeholder { color: #ffffff; }
+																	}
+		@media only screen and ( max-width: 767px ) {
+														}
+	</style>
+
+	
+					<style class="et_heading_font">
+				h1, h2, h3, h4, h5, h6 {
+					font-family: 'Montserrat', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+							<style class="et_body_font">
+				body, input, textarea, select {
+					font-family: 'Source Sans Pro', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+							<style class="et_primary_nav_font">
+				#main-header,
+				#et-top-navigation {
+					font-family: 'Play', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+			
+	
+	<style id="module-customizer-css">
+		.et_pb_slider_fullwidth_off .et_pb_slide_description .et_pb_slide_title { font-size: 46px; }
+.et_pb_column_1_3 .et_pb_slider_fullwidth_off .et_pb_slide_description .et_pb_slide_title, .et_pb_column_1_4 .et_pb_slider_fullwidth_off .et_pb_slide_description .et_pb_slide_title { font-size: 25.999999986px; }.et_pb_slider_fullwidth_off .et_pb_slide_content { font-size: 16px; }
+.et_pb_column_1_3 .et_pb_slider_fullwidth_off .et_pb_slide_content, .et_pb_column_1_4 .et_pb_slider_fullwidth_off .et_pb_slide_content { font-size: 12.444444448px; }.et_pb_slider_fullwidth_off .et_pb_slide_description { padding-top: 16%; padding-bottom: 16% }
+.et_pb_testimonial_portrait, .et_pb_testimonial_portrait:before { -moz-border-radius: 90px; -webkit-border-radius: 90px; border-radius: 90px; }
+.et_pb_testimonial_portrait { width: 90px; }
+.et_pb_testimonial_portrait { height: 90px; }
+.et_pb_accordion .et_pb_toggle_title { font-size: 16px; }
+.et_pb_accordion .et_pb_toggle_title:before { font-size: 16px; }
+.et_pb_accordion .et_pb_toggle_open, .et_pb_accordion .et_pb_toggle_close { padding: 20px; }
+						.et_pb_social_media_follow li a.icon{
+							margin-right: 7.98px;
+							width: 28px;
+							height: 28px;
+						}
+
+						.et_pb_social_media_follow li a.icon::before{
+							width: 28px;
+							height: 28px;
+							font-size: 14px;
+							line-height: 28px;
+						}
+
+						.et_pb_social_media_follow li a.follow_button{
+							font-size: 14px;
+						}
+						.et_pb_fullwidth_section .et_pb_slide_description .et_pb_slide_title { font-size: 46px; }
+.et_pb_fullwidth_section .et_pb_slide_content { font-size: 16px; }
+.et_pb_fullwidth_section .et_pb_slide_description { padding-top: 16%; padding-bottom: 16% }
+	</style>
+
+	<link rel="shortcut icon" href="https://jitterymonks.com/wp-content/uploads/2017/07/cropped-jittery-monks-icon-version-2.png" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #c9a682; }
+</style>
+<link rel="icon" href="https://jitterymonks.com/wp-content/uploads/2017/07/cropped-jittery-monks-icon-version-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jitterymonks.com/wp-content/uploads/2017/07/cropped-jittery-monks-icon-version-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://jitterymonks.com/wp-content/uploads/2017/07/cropped-jittery-monks-icon-version-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://jitterymonks.com/wp-content/uploads/2017/07/cropped-jittery-monks-icon-version-2-270x270.png" />
+
+
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?3fWmmEAC80uzw8fUdrvvBZy2viQqEjWB";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+
+<script type="text/javascript">
+$zopim(function(){
+$zopim.livechat.addTags('JitteryMonks');
+});
+</script>
+
+<script>
+ $zopim(function() {
+   $zopim.livechat.badge.setColor('#8a312c');
+   $zopim.livechat.button.setColor('#4d0808');
+   $zopim.livechat.window.setColor('#4d0808');
+   $zopim.livechat.theme.reload();
+ });
+</script>
+
+<script>
+  $zopim(function() {
+    //console.log("Yolo3");
+    $zopim.livechat.departments.setVisitorDepartment('JitteryMonks');
+    //$zopim.livechat.button.setPosition('bl');
+    $zopim.livechat.theme.setTheme('simple');
+
+    /*
+    $zopim.livechat.theme.setFontConfig({
+      google: {
+        families: ['Lobster']
+      }
+    }, 'Lobster, cursive');
+    */
+
+  });
+</script>
+<!--End of Zendesk Chat Script-->
+
+<!--<a title="Trustmus website verification: 211C-0D35-C7F1-4D99-B94F-7308-91F4-CE2B" style="display:none !important" href="https://www.trustmus.com/review/www.jitterymonks.com" rel='nofollow'>www.jitterymonks.com</a>-->
+
+
+</head>
+<body class="post-template-default single single-post postid-1978 single-format-standard custom-background et_pb_button_helper_class et_transparent_nav et_fullwidth_nav et_fixed_nav et_show_nav et_cover_background et_pb_gutters3 et_primary_nav_dropdown_animation_flip et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_right_sidebar et_divi_theme unknown">
+	<div id="page-container">
+
+	
+	
+		<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://jitterymonks.com/">
+						<img src="https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-icon-and-name-conciser-lowered-compressed.png" alt="Jittery Monks" id="logo" data-height-percentage="90" />
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-350"><a href="https://jitterymonks.com/">Home</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://jitterymonks.com/about-us/">About Us</a></li>
+<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://jitterymonks.com/sample/">Samples</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://jitterymonks.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://jitterymonks.com/order/">Order</a></li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://jitterymonks.com/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+							
+				
+				<article id="post-1978" class="et_pb_post post-1978 post type-post status-publish format-standard hentry category-college-life">
+											<div class="et_post_meta_wrapper">
+							<h1 class="entry-title">Up to 90% of Chinese Exchange Students Have Hired Essay Ghostwriters</h1>
+
+						<p class="post-meta"><span class="published">Oct 12, 2017</span> | <a href="https://jitterymonks.com/category/college-life/" rel="category tag">College Life</a></p>
+												</div> <!-- .et_post_meta_wrapper -->
+				
+					<div class="entry-content">
+					<p><span style="font-weight: 400;">Many university students can relate to the struggle they may have had in composing a particular research paper &#8211; staying up all night, downing energy drinks, and giving everything they’ve got to make sure that their paper can achieve a solid grade. College coursework can prove time-consuming and difficult, but students push on in the hopes that their efforts will eventually be rewarded with the commendation of a university degree. </span></p>
+<p><span style="font-weight: 400;">A growing number of wealthy Chinese exchange students, however, think they’ve found a better way: why not use the family credit card to buy that essay instead?</span></p>
+<h3 style="text-align: center;">Wealthy Chinese Families Covet an American Education</h3>
+<p><img class="size-medium wp-image-1983 aligncenter" src="https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students-300x199.jpg" alt="chinese students" width="300" height="199" srcset="https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students-300x199.jpg 300w, https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students-768x510.jpg 768w, https://jitterymonks.com/wp-content/uploads/2017/10/chinese_students.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><span style="font-weight: 400;">For many international students from well-to-do backgrounds, studying abroad in the United States or Europe is seen as an essentially mandatory. According to a survey performed by China’s Hurun Report, </span><a href="http://abcnews.go.com/blogs/headlines/2012/07/fake-it-till-they-make-it-chinese-agencies-manufacture-phony-applications-to-us-colleges/"><b>more than 85% of wealthy Chinese families intended to send their children to study abroad for college</b><span style="font-weight: 400;">.</span></a></p>
+<p><span style="font-weight: 400;">Ed West, who serves as a director for the National Association for College Admission Counseling, notes that </span><a href="http://diverseeducation.com/article/65446/"><b>“there are a lot of Chinese students and parents trying to get into the best quality schools they can,”</b></a><span style="font-weight: 400;"> and the ability to boast an education at American schools in particular is very highly coveted by wealthy and status-minded Chinese families. </span></p>
+<p><span style="font-weight: 400;">However, many Chinese exchange students often begin with only a limited ability to read and write in English, which can make it difficult to complete coursework on their own. As a result, international students are often eager to look for more creative methods for making sure that they are able to provide quality essay work, by purchasing that work from academic ghostwriting and essay-writing services online. A recent report suggests that </span><strong><a href="http://diverseeducation.com/article/65446/">as many as 90% of Chinese exchange students have turned in essays written by others</a>.</strong></p>
+<h3 style="text-align: center;">International Students Fuel Demand for Essay-Writing Services Online</h3>
+<p><img class="size-medium wp-image-1987 aligncenter" src="https://jitterymonks.com/wp-content/uploads/2017/10/computer_writing-300x200.jpg" alt="" width="300" height="200" srcset="https://jitterymonks.com/wp-content/uploads/2017/10/computer_writing-300x200.jpg 300w, https://jitterymonks.com/wp-content/uploads/2017/10/computer_writing.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><span style="font-weight: 400;">Academic ghostwriting and essay-writing services have exploded in popularity online in recent years, with companies offering their prospective clients custom-written essays on a wide array of topics &#8211; for a price.</span></p>
+<p>Students purchasing essays written by others is <a href="http://www.eacfaculty.org/pchidester/Eng%20102f/Plagiarism/This%20Pen%20for%20Hire.pdf">nothing new</a><span style="font-weight: 400;">, but the Internet has made it easier than ever before for students and ghostwriters to connect. Internet forums like Reddit allow for unscrupulous anonymous online communities to flourish. In the digital age, any Dick, Tom, or Harry can hide behind a digital mask to do anything from </span><strong><a href="https://www.reddit.com/r/Drugs/">anonymously discussing drug use</a></strong><span style="font-weight: 400;">, ordering </span><strong><a href="https://www.reddit.com/r/fakeid/">fake IDs</a></strong><span style="font-weight: 400;">, and of course </span><strong><a href="https://www.reddit.com/r/Essay_Writing_Service">peddling admissions essays</a>.</strong></p>
+<blockquote><p>Why not use the family credit card to buy that essay instead?</p></blockquote>
+<p><span style="font-weight: 400;">In one such Reddit post, a spokesperson for one essay-writing company, <a href="https://www.prescottpapers.com?aff=CES">Prescott Papers</a>, acknowledged that many of its clients are </span><strong><a href="https://www.reddit.com/r/IAmA/comments/3orpjv/i_run_a_company_that_has_helped_hundreds_of/">“foreign students struggling in a US education system that does not provide appropriate ESL assistance.”</a></strong></p>
+<p><span style="font-weight: 400;">With many students relying on programs that mandate that the students are able to consistently achieve a certain minimum GPA, many </span><b>Chinese exchange students have increasingly relied on this growing industry of professional essay writing services in order to ensure they can continue their studies abroad.<br />
+</b></p>
+<p><span style="font-weight: 400;">Surely the companies who provide these services are aware that their work is being passed off by clients verbatim.</span><span style="font-weight: 400;"> Do essay services condone this type of cheating? </span></p>
+<blockquote><p>Do essay services condone this type of cheating?</p></blockquote>
+<p><span style="font-weight: 400;">After reaching out to six essay-writing companies and four freelancers, a spokesperson from <a href="https://www.prescottpapers.com?aff=CES">Prescott Papers</a> was the only respondent to our inquiry. The respondent, who wished to remain anonymous, noted in an email that because these essays are written from scratch, </span><b>these services are essentially invisible to traditional plagiarism-detection programs like TurnItIn</b><span style="font-weight: 400;">, which often serve as a school’s only line of defense against students misrepresenting the work of others as their own. These kinds of services have vexed universities in the US, as they are particularly difficult to detect. The spokesperson elaborated that even with policies barring clients from submitting work verbatim, what clients do with their orders once completed is largely outside of a company&#8217;s control.<br />
+</span></p>
+<p>Users who frequent one of the <a href="https://www.reddit.com/r/ApplyingToCollege">college admissions forums on Reddit</a> have expressed concern over the use of essay writing services by foreign students. One university professor going under the username of SmartAZ <a href="https://www.reddit.com/r/ApplyingToCollege/comments/740gsj/meta_fake_it_till_they_make_it_chinese_agencies/dnv4ok6/">described admissions essay fraud</a><span style="font-weight: 400;"> as &#8220;a huge problem at [the user&#8217;s] university,&#8221; claiming that the upper-class foreign students who use these admissions methods are grossly underprepared, &#8220;on my last exam, the mean score for non-Chinese students was in the mid 80s, and the mean score for the Chinese students in the class was in the high 60s. This happens every semester.&#8221;</span></p>
+<h3 style="text-align: center;">Cheating Seen as Low-Risk, but High Reward</h3>
+<p><img class="size-medium wp-image-1988 aligncenter" src="https://jitterymonks.com/wp-content/uploads/2017/10/university_building-300x200.jpg" alt="" width="300" height="200" srcset="https://jitterymonks.com/wp-content/uploads/2017/10/university_building-300x200.jpg 300w, https://jitterymonks.com/wp-content/uploads/2017/10/university_building-768x512.jpg 768w, https://jitterymonks.com/wp-content/uploads/2017/10/university_building-1024x683.jpg 1024w, https://jitterymonks.com/wp-content/uploads/2017/10/university_building-1080x720.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><span style="font-weight: 400;">Despite concerns and suspicion from professors and students alike, the professor elaborates, there’s often nothing that can be done. At least, not without the support of the university, “I&#8217;ve tried complaining about admissions standards, but I don&#8217;t have the kind of power it would take to change anything. </span><b>The university loves to take these students because they pay full ride.”</b></p>
+<blockquote><p>Internet forums like Reddit allow for unscrupulous anonymous online communities to flourish.</p></blockquote>
+<p><span style="font-weight: 400;">The obvious ethical issues involved with purchasing what essentially amounts to </span><span style="font-weight: 400;">‘homework for hire’ doesn’t seem to bother the great majority of the students involved in the industry. A report by Zinch China, a consultation agency for Chinese students seeking to attend US universities, notes that </span><a href="http://abcnews.go.com/blogs/headlines/2012/07/fake-it-till-they-make-it-chinese-agencies-manufacture-phony-applications-to-us-colleges/"><b>“cheating is pervasive in China, driven by hyper-competitive parents and aggressive agents.”</b></a><span style="font-weight: 400;"> The behavior is essentially seen as normal in a society where cheating and dubious tactics are considered widespread and routine.</span></p>
+<p><span style="font-weight: 400;">For the wealthy families of Chinese students studying in the United States, purchasing custom-written essays from these companies is just one more way of ensuring success. </span></p>
+<p>&nbsp;</p>
+					</div> <!-- .entry-content -->
+					<div class="et_post_meta_wrapper">
+					
+					
+					<!-- You can start editing here. -->
+
+<section id="comment-wrap">
+		   <div id="comment-section" class="nocomments">
+		  			 <!-- If comments are open, but there are no comments. -->
+
+		  	   </div>
+					<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><span>Submit a Comment</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/report-90-chinese-exchange-students-purchasing-essays-online/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://jitterymonks.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit et_pb_button" value="Submit Comment" /> <input type='hidden' name='comment_post_ID' value='1978' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+		</section>					</div> <!-- .et_post_meta_wrapper -->
+				</article> <!-- .et_pb_post -->
+
+						</div> <!-- #left-area -->
+
+				<div id="sidebar">
+		<div id="search-2" class="et_pb_widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://jitterymonks.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div> <!-- end .et_pb_widget --><div id="pages-4" class="et_pb_widget widget_pages"><h4 class="widgettitle">Sitemap</h4>		<ul>
+			<li class="page_item page-item-38"><a href="https://jitterymonks.com/about-us/">About Us</a></li>
+<li class="page_item page-item-40"><a href="https://jitterymonks.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-320"><a href="https://jitterymonks.com/">Home</a></li>
+<li class="page_item page-item-42"><a href="https://jitterymonks.com/order/">Order</a></li>
+<li class="page_item page-item-400"><a href="https://jitterymonks.com/sample/">Samples</a></li>
+<li class="page_item page-item-418"><a href="https://jitterymonks.com/sitemap/">Sitemap</a></li>
+<li class="page_item page-item-823"><a href="https://jitterymonks.com/terms-of-service/">Terms of Service</a></li>
+		</ul>
+		</div> <!-- end .et_pb_widget -->		<div id="recent-posts-2" class="et_pb_widget widget_recent_entries">		<h4 class="widgettitle">Recent Posts</h4>		<ul>
+					<li>
+				<a href="https://jitterymonks.com/report-90-chinese-exchange-students-purchasing-essays-online/">Up to 90% of Chinese Exchange Students Have Hired Essay Ghostwriters</a>
+						</li>
+					<li>
+				<a href="https://jitterymonks.com/can-blackboard-detect-cheating-on-tests-how-to-cheat-on-a-proctored-exam/">Can Blackboard detect cheating on tests? Learn how to cheat on a proctored exam…</a>
+						</li>
+					<li>
+				<a href="https://jitterymonks.com/is-it-safe-to-use-essay-writing-services-to-buy-custom-essays-online/">Is it safe to buy papers online? An insider&#8217;s perspective…</a>
+						</li>
+					<li>
+				<a href="https://jitterymonks.com/is-it-legal-to-buy-essays-is-it-illegal-to-write-papers-for-money/">Is it legal to buy papers online? A lawyer&#8217;s perspective…</a>
+						</li>
+					<li>
+				<a href="https://jitterymonks.com/cultural-diversity-essay-topics-about-social-justice-sociology-and-music/">Cultural Diversity Essay Topics: Social Justice and&#8230; Music?</a>
+						</li>
+				</ul>
+		</div> <!-- end .et_pb_widget -->		<div id="categories-2" class="et_pb_widget widget_categories"><h4 class="widgettitle">Categories</h4>		<ul>
+	<li class="cat-item cat-item-15"><a href="https://jitterymonks.com/category/about-essay-and-coursework-services/" >About Essay and Coursework Services</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://jitterymonks.com/category/about-the-jittery-monks/" >About the Jittery Monks</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://jitterymonks.com/category/about-writing/" >About Writing</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://jitterymonks.com/category/college-life/" >College Life</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://jitterymonks.com/category/paper-topics/" >Paper Topics</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://jitterymonks.com/category/services/" >Services</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://jitterymonks.com/category/tips-tutorials-and-tricks/" >Tips, Tutorials, and Tricks</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://jitterymonks.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://jitterymonks.com/category/writing-tutorials/" >Writing Tutorials</a>
+</li>
+		</ul>
+</div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="media_image-3" class="fwidget et_pb_widget widget_media_image"><h4 class="title">Order in 30 Seconds!</h4><div style="width: 250px" class="wp-caption alignnone"><a href="https://jitterymonks.com/order/" class="" rel="" target=""><img width="240" height="240" src="https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-icon-version-240x240-compressed.png" class="image wp-image-1447  attachment-full size-full" alt="Jittery Monks Logo" style="max-width: 100%; height: auto;" srcset="https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-icon-version-240x240-compressed.png 240w, https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-icon-version-240x240-compressed-150x150.png 150w" sizes="(max-width: 240px) 100vw, 240px" /></a><p class="wp-caption-text">Summon the monks! Click and their quills are at your service.</p></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-2" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Main Site Pages</h4><div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-350"><a href="https://jitterymonks.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://jitterymonks.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://jitterymonks.com/sample/">Samples</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://jitterymonks.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://jitterymonks.com/order/">Order</a></li>
+</ul></div></div> <!-- end .fwidget --><div id="categories-3" class="fwidget et_pb_widget widget_categories"><h4 class="title">Article Categories</h4>		<ul>
+	<li class="cat-item cat-item-15"><a href="https://jitterymonks.com/category/about-essay-and-coursework-services/" >About Essay and Coursework Services</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://jitterymonks.com/category/about-the-jittery-monks/" >About the Jittery Monks</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://jitterymonks.com/category/about-writing/" >About Writing</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://jitterymonks.com/category/college-life/" >College Life</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://jitterymonks.com/category/paper-topics/" >Paper Topics</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://jitterymonks.com/category/services/" >Services</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://jitterymonks.com/category/tips-tutorials-and-tricks/" >Tips, Tutorials, and Tricks</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://jitterymonks.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://jitterymonks.com/category/writing-tutorials/" >Writing Tutorials</a>
+</li>
+		</ul>
+</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="custom_html-2" class="widget_text fwidget et_pb_widget widget_custom_html"><h4 class="title">Social Media Links</h4><div class="textwidget custom-html-widget"><div class="jm-official-social-media">
+
+<!--
+<a href=''><img src='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-youtube.png'>    </a>
+-->
+
+<a href='http://www.dailymotion.com/jittery-monks-reviews'><img src='https://jitterymonks.com/wp-content/uploads/2017/08/dailymotion-icon-jitterymonks-60x60-1.png'>    </a>
+
+<a href='https://twitter.com/JitteryMonks'><img src='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-twitter.png'>    </a>
+
+<!--
+<a href=''><img src='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-google-plus.png'></a>
+-->
+
+<a href='https://www.linkedin.com/company/jittery-monks'><img src='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-linkedin.png'>   </a>
+
+<a href='https://www.facebook.com/JitteryMonks-257939094711711/'><img src='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-facebook.png'>   </a>
+
+<!--
+<a href='https://jitterymonks.com/jittery-monks-reviews/'><img src='https://jitterymonks.com/wp-content/uploads/2017/08/jittery-monks-reviews-page.png'>   </a>
+-->
+
+</div>
+</div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="custom_html-3" class="widget_text fwidget et_pb_widget widget_custom_html"><h4 class="title">Contact the Monks!</h4><div class="textwidget custom-html-widget"><table class="jm-contact-information table-style-a">
+<thead>
+ <tr>
+ <th>Contact Method</th>
+ <th>Contact Information</th>
+ </tr> </thead> <tbody> <tr>
+ <td>Email</td>
+ <td>staff@jitterymonks.com</td>
+ </tr>
+ <tr>
+ <td>Phone & SMS</td>
+ <td>+1 (267) 888-2299</td>
+ </tr>
+ <tr>
+ <td>Live Chat</td>
+ <td><a href="javascript:$zopim.livechat.window.show();">Start a Chat</a></td>
+ </tr>
+ <tr>
+ <td>Pigeon</td>
+ <td>Philadelphia, PA</td>
+ </tr>
+ </tbody>
+</table></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-footer-menu" class="bottom-nav"><li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://jitterymonks.com/sitemap/">Sitemap</a></li>
+<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://jitterymonks.com/terms-of-service/">Terms of Service</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+									</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<div style="display:none"><a href="http://dlwordpress.com/divi-wordpress-theme-elegantthemes/">Free Divi WordPress Theme</a>, Find new <a href="https://dlandroid24.com/">Free Android Games</a> at dlandroid24.com</div><style type="text/css" id="et-builder-page-custom-style">
+				 .et_pb_bg_layout_dark { color: #ffffff !important; } .page.et_pb_pagebuilder_layout #main-content { background-color: rgba(255,255,255,0); } .et_pb_section { background-color: #ffffff; }
+			</style><script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/includes/builder/scripts/frontend-builder-global-functions.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/jitterymonks.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var random_obj = {"db_bg_image":"{\"fddsfsdfs\":\"http:\/\/efiletax.loan\/monk\/wp-content\/uploads\/2017\/04\/fddsfsdfs.jpg\",\"Manuscript-Alexander-Highsmith2\":\"http:\/\/efiletax.loan\/monk\/wp-content\/uploads\/2017\/02\/Manuscript-Alexander-Highsmith2.jpg\",\"12039692_681348985298046_6464249892899201526_n\":\"http:\/\/efiletax.loan\/monk\/wp-content\/uploads\/2017\/02\/12039692_681348985298046_6464249892899201526_n.jpg\",\"chris_headshot_11\":\"http:\/\/efiletax.loan\/monk\/wp-content\/uploads\/2017\/02\/chris_headshot_11.20.15.jpg\"}","target_id":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article-child/js/custom.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/includes/builder/scripts/jquery.mobile.custom.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/js/custom.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/includes/builder/scripts/jquery.fitvids.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/includes/builder/scripts/waypoints.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/includes/builder/scripts/jquery.magnific-popup.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/jitterymonks.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/jitterymonks.com\/wp-content\/themes\/article\/images","builder_images_uri":"https:\/\/jitterymonks.com\/wp-content\/themes\/article\/includes\/builder\/images","et_frontend_nonce":"d2e250a2a7","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"6d5e8ed3b5","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"1978","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-content/themes/article/includes/builder/scripts/frontend-builder-scripts.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"https:\/\/jitterymonks.com\/wp-admin\/admin-ajax.php","extensions_to_track":"pdf,doc,xls,zip","outbound_classes_rel_href_to_not_track":"noslimstat,ab-item","ci":"YTo0OntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicG9zdCI7czo4OiJjYXRlZ29yeSI7czoyOiIxOSI7czoxMDoiY29udGVudF9pZCI7aToxOTc4O3M6NjoiYXV0aG9yIjtzOjE0OiJBcm5lX1NhbmRncmVlbiI7fQ==.365e82b67ba04b53d849dc183a0118e4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/wp/wp-slimstat/tags/4.7.2.1/wp-slimstat.min.js'></script>
+<script type='text/javascript' src='https://jitterymonks.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+</body>
+</html>

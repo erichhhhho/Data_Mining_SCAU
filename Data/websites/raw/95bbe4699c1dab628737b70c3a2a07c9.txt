@@ -1,0 +1,1424 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>The Resistible Rise of Xi Jinping &#8211; Foreign Policy</title>
+
+        <meta name="wapoGroupsX" content="default">
+        <meta name="google-site-verification" content="7Z5A6Xlt7BhqqooipJUtw0cu2IjSQ-_RnNbEA2c6pfc">
+        <meta name="apple-itunes-app" content="app-id=1034756405">
+
+                    <meta property="og:title" content="The Resistible Rise of Xi Jinping">
+            <meta property="og:image" content="https://foreignpolicymag.files.wordpress.com/2017/10/xispeech1.jpg">
+            <meta property="og:url" content="https://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/">
+            <meta property="og:description" content="China&#039;s president radically changed his country, and the Communist Party, through skill, determination — and a series of lucky breaks.">
+            <meta property="og:site_name" content="Foreign Policy">
+            <meta property="fb:app_id" content="107151292643652" />
+            <meta property="og:type" content="article" />
+
+            <!-- CANONICAL -->
+            <link rel="canonical" href="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/">
+
+            <!-- Twitter Tags -->
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@ForeignPolicy">
+            <meta name="twitter:title" content="The Resistible Rise of Xi Jinping">
+            <meta name="twitter:description" content="In the run-up to the Party Congress, Xi has been given a prominence far exceeding any Chinese leader since Mao">
+            <meta name="twitter:image" content="https://foreignpolicymag.files.wordpress.com/2017/10/xispeech1.jpg">
+            <meta property="twitter:domain" value="foreignpolicy.com"/>
+
+            <!-- SailThru meta Tags -->
+            <meta name="sailthru.title" content="The Resistible Rise of Xi Jinping" />
+            <meta name="sailthru.date" content="2017-10-19 08:21:14" />
+            <meta name="sailthru.description" content="China’s 19th Party Congress began Wednesday with a three-and-a-half-hour speech by Xi Jinping, a telling sign of a man who knows he has to be&hellip;" />
+            <meta name="sailthru.image.full" content="https://foreignpolicymag.files.wordpress.com/2017/10/xispeech1.jpg">
+            <meta name="sailthru.image.thumb" content="https://foreignpolicymag.files.wordpress.com/2017/10/xispeech1.jpg?w=350&#038;h=350&#038;crop=1">
+            <meta name="sailthru.tags" content="Argument, bo Xilai, China, Feature, Xi Jinping" />
+            <meta name="sailthru.author" content="Special Correspondent" />
+            <meta name="sailthru.section" content="Argument" />
+
+        
+        <meta
+    name="application-name"
+    content="Foreign Policy">
+<meta
+    name="apple-mobile-web-app-title"
+    content="Foreign Policy">
+<meta name="theme-color" content="#eb372e">
+<meta name="msapplication-TileColor" content="#eb372e">
+<meta
+    name="msapplication-TileImage"
+    content="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon-256.png">
+<link
+    rel="apple-touch-icon"
+    sizes="192x192"
+    type="image/png"
+    href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon-192.png">
+<link
+    rel="icon"
+    sizes="192x192"
+    type="image/png"
+    href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon-192.png">
+<link
+    rel="icon"
+    sizes="16x16 32x32"
+    type="image/x-icon"
+    href="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon.ico">
+        <meta name="msvalidate.01" content="CA23132DC6FC7456FB304159D5D7B6C8" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=foreignpolicy.com&amp;id=71129472&amp;t=1509094675&amp;back=http%3A%2F%2Fforeignpolicy.com%2F2017%2F10%2F19%2Fthe-resistible-rise-of-xi-jinping%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//validate.onecount.net' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.taboola.com' />
+<link rel='dns-prefetch' href='//ak.sail-horizon.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//foreignpolicymag.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Foreign Policy &raquo; The Resistible Rise of Xi Jinping Comments Feed" href="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJzVVdtOwzAM/SFCtgmYeEB8CnJTN/WWxFGdMY2vx125jUuR0PLAS2Vb5xzbqRPbfTaOU8FUbNyZHHaekth9dhyNRAp4+ORdOpEL+z0t0BbFbrBkcFtz9ObgjgfUeMxQRkTElgADRoXN0WK+eWWNZq+5ZtNM5TdNHlDE6DfSLprSa6JfyotjKVMfVoGnkYlKNnEhZcub8UVzSmUfKdtOWyafTOZA7mBWi+XagggWsS1JsVIOQaENCNqHCJTOIDaeFSflipUeBmxrKPcILQ5VlDlWOQvXQ0oYakg3gX0N3cwarjEWaghXmgwJ1KL0vK8hHsHDE6U6l6VA1/23oiMk8FWUC2Wpodsxl7++HPqL9M19Ee1xzNIhlJ3ulYIxByhYQdI0ZxDVa+G2Z9DRYUrUHc5RkRsQ08o8rma3KbX+iGZHEMy0+j46c2SPbAI7Tc3pxDFdABrmqAOOr6qa/riK392fOu+vrA/cQBgB9/Fueb24XVwt16v15hkAd1nv' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZdVrKOPT4FubmZ6UWJJql5uZh5QsX2uraGJmZmpkbGluUUWACWqILk='></script>
+<script type='text/javascript' src='https://validate.onecount.net/js/all.min.js#d98c7c783d091f556b12685e1604e895b8253f83'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/js/fp_s_code.js?m=1506688867h'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydzFEOwiAMANALid1MxvgxHmXBWgcEKKHNdLfXM3CA9+DTDHJVqgoaqJDAERu8uVPcq2mcI57mNs0riHqNCEkgaMmLhHhck1xgZOgkjetr2G+t8/fcPCKJDC975qfPf/4o93mZrHXO2TX9ALd3Y10='></script>
+<script type='text/javascript' src='//www.googletagservices.com/tag/js/gpt.js?ver=0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FPSharesEndpoint = {"endpoint":"http:\/\/foreignpolicy.com\/_share_count\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydzFsKwjAQQNENOU4rNM2PuJYQx2ZC8yAzRnT1jVvo34ULBz8VfMlKWVEDJRLsXPFVGvGWoZad/Rdu07yiqFP2GAXFdc7bmKIgwTWSa5QLnqFc84E7gdC/YFDvXc9zqTypZf61ITzSfV4mY6y1Zo0HPrtUQA=='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://foreignpolicymag.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" />
+<link rel='shortlink' href='http://atfp.co/2ywXtps' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=http%3A%2F%2Fforeignpolicy.com%2F2017%2F10%2F19%2Fthe-resistible-rise-of-xi-jinping%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=http%3A%2F%2Fforeignpolicy.com%2F2017%2F10%2F19%2Fthe-resistible-rise-of-xi-jinping%2F&amp;for=wpcom-auto-discovery" /><link rel='openid.server' href='http://foreignpolicymag.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://foreignpolicymag.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://foreignpolicy.com/osd.xml" title="Foreign Policy" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Foreign Policy" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="the Global Magazine of News and Ideas" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://foreignpolicy.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /> 		<script type="text/javascript">
+		var _ipw_custom = {
+			wordAds: '1',
+			adSafe: '1',
+			domain: 'foreignpolicy.com',
+			pageURL: 'http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/'
+		};
+		</script>
+ 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script><link rel="amphtml" href="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+
+                <script>
+            window.googletag && googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                GCN.onecount.functions.dfp_sb_ad_capture(event || window.event);
+            });
+        </script>
+        <script type="text/javascript">googletag.pubads().setTargeting("tags", ["Argument","bo Xilai","China","Feature","Xi Jinping","Argument"]);</script>        <script>GCN.onecount.setTargeting();</script>
+            </head>
+    <body class="post-template-default single single-post postid-927969 single-format-standard site-root mp6 customizer-styles-applied highlander-enabled highlander-light">
+
+        <div id="site-wrapper">            <header class="site-header">
+                <a href="http://foreignpolicy.com/" class="logo">
+    <svg class="site-icon -inline -textonly" width="75" height="47.5" viewBox="0 0 75 47.5"><path fill="#EE3524" d="M39.4,8.7H40V0.5H0v0.8c4.5,0.2,7.4,0.8,7.4,4.9v36c0,4.2-2.9,4.8-7.4,4.9V48h26.2v-0.8c-5.2-0.3-9-0.8-9-4.9
+		V25.2h8.7c3,0,4.2,2.2,4.9,6.2h0.5V18h-0.5c-0.7,4-1.9,6.2-4.9,6.2h-8.7V1.3h13.3C35.9,1.3,37.7,2.8,39.4,8.7 M52.9,25.2h6.2
+		c11.1,0,15.9-5.8,15.9-13.1c0-6.4-4.5-11.7-17.3-11.7H40.9l0,41.8c0,4.2-2.9,4.8-7.4,4.9V48h27.3v-0.8c-5.2-0.3-9-0.8-9-4.9V1.5
+		h3.4c6.1,0,9.5,5.5,9.5,12c0,7.5-3.5,10.8-9.6,10.8h-2.4V25.2z"/></svg><!--hide-mobile-->
+<!--svg class="site-icon -inline -textonly hide-desktop" width="75" height="47.5" viewBox="0 0 75 47.5"><path fill="#FFFFFF" d="M39.4,8.7H40V0.5H0v0.8c4.5,0.2,7.4,0.8,7.4,4.9v36c0,4.2-2.9,4.8-7.4,4.9V48h26.2v-0.8c-5.2-0.3-9-0.8-9-4.9
+		V25.2h8.7c3,0,4.2,2.2,4.9,6.2h0.5V18h-0.5c-0.7,4-1.9,6.2-4.9,6.2h-8.7V1.3h13.3C35.9,1.3,37.7,2.8,39.4,8.7 M52.9,25.2h6.2
+		c11.1,0,15.9-5.8,15.9-13.1c0-6.4-4.5-11.7-17.3-11.7H40.9l0,41.8c0,4.2-2.9,4.8-7.4,4.9V48h27.3v-0.8c-5.2-0.3-9-0.8-9-4.9V1.5
+		h3.4c6.1,0,9.5,5.5,9.5,12c0,7.5-3.5,10.8-9.6,10.8h-2.4V25.2z"/></svg--></a>
+
+                <div class="header-nav-wrapper">
+                    <nav class="header-nav">
+                        <ul class="header-menu -top">
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">News</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/category/report/" class="navlink">Report</a></li>
+                                    <li class="header-menu-item"><a href="/category/dispatch/" class="navlink">Dispatch</a></li>
+                                    <li class="header-menu-item"><a href="/channel/the-cable/" class="navlink">The Cable</a></li>
+                                    <li class="header-menu-item"><a href="/category/situation-report/" class="navlink">Situation Report</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Opinion</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/category/voice/" class="navlink">Voices</a></li>
+                                    <li class="header-menu-item"><a href="/category/argument/" class="navlink">Argument</a></li>
+                                    <li class="header-menu-item"><a href="/channel/best-defense/" class="navlink">Best Defense</a></li>
+                                    <li class="header-menu-item"><a href="/channel/shadow-govt/" class="navlink">Shadow Goverment</a></li>
+                                    <li class="header-menu-item"><a href="/channel/elephants-in-the-room/" class="navlink">Elephants in the Room</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Regions</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/channel/americas-2/" class="navlink">Americas</a></li>
+                                    <li class="header-menu-item"><a href="/channel/africa-3/" class="navlink">Africa</a></li>
+                                    <li class="header-menu-item"><a href="/channel/asia-2/" class="navlink">Asia</a></li>
+                                    <li class="header-menu-item"><a href="/channel/europe-2/" class="navlink">Europe</a></li>
+                                    <li class="header-menu-item"><a href="/channel/middle-east/" class="navlink">Middle East</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Channels</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/channel/tea-leaf-nation/" class="navlink">Tea Leaf Nation</a></li>
+                                    <li class="header-menu-item"><a href="/channel/peace-channel/" class="navlink">Peace Channel</a></li>
+                                    <li class="header-menu-item"><a href="/channel/lawfare/" class="navlink">Lawfare</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item -parent">
+                                <a class="navlink">Features</a>
+                                <ul class="header-menu -top">
+                                    <li class="header-menu-item"><a href="/tag/longform/" class="navlink">Longform</a></li>
+                                    <li class="header-menu-item"><a href="/category/photo-essay/" class="navlink">Photo Essays</a></li>
+                                    <li class="header-menu-item"><a href="/category/podcast/" class="navlink">Podcasts</a></li>
+                                    <li class="header-menu-item"><a href="/tag/special-projects/" class="navlink">Special Projects</a></li>
+                                </ul>
+                            </li>
+                            <li class="header-menu-item">
+                                <a href="/the-magazine/" class="navlink">The Magazine</a>
+                            </li>
+                        </ul>
+
+                        <span class="close-nav">
+                            <img draggable="false" class="emoji" alt="❌" src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/close.svg" />&nbsp;&nbsp;Close
+                        </span>
+
+                        <div class="header-mobile-subnav">
+
+                            <ul class="manage-account account">
+                                <li class="header-menu-item"><a href="/manage" class="navlink navlink-border">Manage Your Account</a></li>
+                            </ul>
+
+                                                        <div class="expando-search">
+    <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 18 18">
+<g><defs><rect id="SVGID_1_" x="0.2" y="0" width="17.8" height="17.8"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_"  style="overflow:visible;"/></clipPath><circle class="search-icon" cx="7.5" cy="7.3" r="6.5"/><line class="search-icon" x1="12.1" y1="11.9" x2="17.5" y2="17.3"/></g></svg>
+    </div>
+        <form role="search" method="get" id="searchform" class="searchform" action="/">
+    	<input class="search" type="search" name="s" />
+    	<input type="submit" style="display:none" />
+    </form>
+</div>
+
+                            <span>
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="http://fpgroup.foreignpolicy.com/" class="navlink">About FP</a></li>
+                                    <li class="header-menu-item"><a href="/staff/" class="navlink">Meet The Staff</a></li>
+                                    <li class="header-menu-item"><a href="/reprint-permissions/" class="navlink">Reprint Permissions</a></li>
+                                    <li class="header-menu-item"><a href="http://fpgroup.foreignpolicy.com/" class="navlink">Advertising</a></li>
+                                </ul>
+
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="/writers-guidelines/" class="navlink">Writers’ Guidelines</a></li>
+                                    <li class="header-menu-item"><a href="http://fpgroup.foreignpolicy.com/news" class="navlink">Press Room</a></li>
+                                    <li class="header-menu-item"><a href="/employment-opportunities/" class="navlink">Work At FP</a></li>
+                                    <li class="header-menu-item"><a href="/subscription-services/" class="navlink">Subscription Services</a></li>
+                                </ul>
+                            </span>
+                            <span>
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&utm_medium=homepage%20footer&utm_term=academic%20services&utm_content=50%25%20off&utm_campaign=premium&g=0&form=161&pc=5EAH" class="navlink">Academic Program – FP Premium</a></li>
+                                    <li class="header-menu-item"><a href="/magazine/" class="navlink">FP Archive</a></li>
+                                    <li class="header-menu-item"><a href="/buy-back-issues/" class="navlink">Buy Back Issues</a></li>
+                                    <li class="header-menu-item"><a href="/privacy/" class="navlink">Privacy Policy</a></li>
+                                </ul>
+
+                                <ul class="mobile-subnav-menu">
+                                    <li class="header-menu-item"><a href="/contact-us/" class="navlink">Contact Us</a></li>
+                                </ul>
+
+                                <span class="powered-by-wpcom--parent">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+                            </span>
+                        </div>
+
+                    </nav>
+                </div>
+                <div class="header-subnav-wrapper">
+                    <nav class="header-subnav">
+                        <ul class="header-menu -top">
+                            <li class="header-menu-item">
+                                <a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&#038;utm_medium=link%20launched%2010%2F23%2F17&#038;utm_term=upper%20right%20hand%20corner%20link&#038;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&#038;utm_campaign=premium&#038;g=0&#038;form=259&#038;pc=2dth" class="navlink -top -user -emph"><span class="subscribe--long">Subscribe to Premium for 20% Off</span><span class="subscribe--short">Subscribe</span></a>                            </li>
+                            <li class="header-menu-item">
+                                <a href="https://fp-reg.onecount.net/onecount/login/loginlogout.php?sid=hsjsckecai0icl3d5i8jlfea64&return=http%3A%2F%2Fforeignpolicy.com%2F" class="navlink -top -user -signin FP-paywall--login">Sign In</a>
+                            </li>
+                        </ul>
+
+                                                <div class="expando-search">
+    <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 18 18">
+<g><defs><rect id="SVGID_1_" x="0.2" y="0" width="17.8" height="17.8"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_"  style="overflow:visible;"/></clipPath><circle class="search-icon" cx="7.5" cy="7.3" r="6.5"/><line class="search-icon" x1="12.1" y1="11.9" x2="17.5" y2="17.3"/></g></svg>
+    </div>
+        <form role="search" method="get" id="searchform" class="searchform" action="/">
+    	<input class="search" type="search" name="s" />
+    	<input type="submit" style="display:none" />
+    </form>
+</div>
+                    </nav>
+                </div>
+
+                <button class="hamburger-button">
+    <span class="line"></span>
+</button>
+
+                                <div class="header-alt-layout__title">
+                    <p class="header-alt-title">
+                        <span class="department-title">
+                            Argument:
+                        </span> 
+                        <span class="header-alt-title__desktop">
+                            The Resistible Rise of Xi Jinping                        </span>
+                        <span class="header-alt-title__mobile">
+                            The Resistible Rise of Xi Jinping...                        </span>
+                    </p>
+                    <div class="header-social-shares">
+                        <span class="share-title">SHARE:</span>
+                        <a data-endpoint="facebook" data-title="The Resistible Rise of Xi Jinping" data-text="China&#039;s president radically changed his country, and the Communist Party, through skill, determination — and a series of lucky breaks." data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" onclick="socialshares.share(this);">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/facebook_blue.svg" alt="Share on Facebook" class="facebook-button" />
+                        </a>
+                        <a data-endpoint="twitter" data-title="In the run-up to the Party Congress, Xi has been given a prominence far exceeding any Chinese leader since Mao" data-text="In the run-up to the Party Congress, Xi has been given a prominence far exceeding any Chinese leader since Mao" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" onclick="socialshares.share(this);">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/twitter_blue.svg" alt="Share on Twitter" class="twitter-button" />
+                        </a>
+                        <a href="#" title="Print" onclick="window.print();">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/print_black.svg" alt="Print this page" class="print-button" />
+                        </a>
+                        <a href="mailto:?subject=Check%20out%20this%20story%20on%20Foreign%20Policy&amp;body=The Resistible Rise of Xi Jinping%20-%20http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/%2F" title="Share via Email">
+                            <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/icons/email_black.svg" alt="Share via Email" class="email-button" />
+                        </a>
+                    </div>
+                </div>
+                
+            </header>
+<div class="feature-template" data-context="article">
+	<div id="feature-share">
+		<article
+		    class="post-content"
+			data-post-id="927969"
+			data-post-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"
+			data-lfcollectionmeta=""
+			data-lfchecksum=""
+			data-lfarticleid=""
+			data-whitelist="true">
+						<div class="feature-header">
+				<div
+									style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/xispeech1.jpg);" class="main-image"
+				>
+				          			<div class="feature-header-text">
+											<div class="section-flag">
+							<a href="http://foreignpolicy.com/category/argument/">
+                				<span>Argument</span>
+							</a>
+            			</div>
+					            			<h1 class="feature-hed">The Resistible Rise of Xi Jinping</h1>
+						<h2 class="feature-subhed">
+						China&#039;s president radically changed his country, and the Communist Party, through skill, determination — and a series of lucky breaks.						</h2>
+						<p class="feature-byline">
+							By <span class="author"><a href="http://foreignpolicy.com/author/special-correspondent" class="author" title="Special Correspondent">Special Correspondent</a></span>						</p>
+										  		 			</div>  		 			  	  			</div>				<div class="feature-social-container">
+					<div class="feature-social">
+						<ul>
+							<li class="print"></li>
+							<li class="sharing">
+								<a
+									href="javascript:void(0);"
+									class="facebook"
+									data-url="https://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"
+									data-endpoint="facebook">
+									<img
+										src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/facebook-shares.png"
+										alt="facebook">
+								</a>
+								<a
+									href="javascript:void(0);"
+									class="twitter"
+									data-url="https://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"
+									data-text="The Attack on Nairobi&#8217;s Westgate Mall"
+									data-endpoint="twitter">
+									<img
+										src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/twitter-shares.png"
+										alt="twitter">
+								</a>
+								<a
+									href="javascript:void(0);"
+									class="reddit"
+									data-url="https://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"
+									data-endpoint="reddit">
+									<img
+										src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/reddit-shares.png"
+										alt="reddit">
+								</a>
+								<a
+									href="javascript:void(0);"
+									class="google-plus"
+									data-url="https://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"
+									data-endpoint="google">
+									<img
+										src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/google-plus-shares.png"
+										alt="google-plus">
+								</a>
+								<a
+									style="margin-right:0;"
+									href="mailto:?subject=Check%20out%20this%20story%20on%20Foreign%20Policy&#038;body=The Resistible Rise of Xi Jinping%20-%20https://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"
+									title="Share via Email">
+									<img
+										src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/email-shares.png"
+										alt="email">
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>						<span class="anchor-first feature__part" id="part-1"></span>
+			<div class="shares-position">
+				<div class="timestamp"><time datetime="2017-10-19T07:00:43-04:00">October 19, 2017</time></div>
+				<div class="feature-body">
+				<span class="opening-line"></span>
+				<p>China’s 19th Party Congress began Wednesday with a three-and-a-half-hour speech by Xi Jinping, a telling sign of a man who knows he has to be listened to. The general secretary of the Chinese Communist Party — usually referred to in English by his far less important title of “president” — is the heart of a weeklong love fest in Beijing as officials gather to determine the makeup of the leadership for the next five years and more.</p>
+<p>But Xi’s power in office reaches far beyond the assembled delegates in the Great Hall of the People. Xi has near-absolute command over the ruling party and, through it, a state of 1.3 billion people, a 1.6 million-strong army, and an $11 trillion economy. The United States is still richer and stronger, but the office of the U.S. president — even when the officeholder is not deemed a “<a href="https://www.gq.com/story/rex-tillerson-spot-the-lie">moron</a>” by members of his own cabinet — is far more radically limited than the position held by his Chinese counterpart. Xi’s rule has tightened the grip of the party on his country and slashed away space for any opposition. While his predecessors, Hu Jintao and Jiang Zemin, struggled to make their authority felt, even before formally assuming office in 2013 Xi was purging his foes. Under the rules of the party, he’s about to reach the halfway mark of his term — but there’s a growing consensus that power in 2022 will stay in his hands, with no appointed heir in sight.</p>
+<p>But Xi’s rise was not inevitable. The speed and range of his purges depended partially on his own political skills but far more critically on opportunities offered him by the rest of the party. Xi arrived at the party’s highest echelon at a moment of growing paranoia — triggered by public discontent about rampant corruption, deepened by the revolutionary Arab Spring in 2010, and reinforced by the Ukraine rebellion of 2014. Xi represented the possibility of deliverance for China’s autocratic, but consensus-based, political system — and a promise to protect it against any opponent, including Xi’s main rival in the Communist elite, Bo Xilai. Bo’s fall in 2012 gave Xi the momentum he needed to create a rolling attack on his foes that left him the only man who mattered.</p>
+<p>And so Xi managed to thoroughly change the party — imposing absolute security and receiving absolute control — largely, if paradoxically, because he did so in the course of allegedly preserving it. Absent the paranoia-inspired acquiescence of his party colleagues, and the opening provided by Bo’s unforeseen fall, Xi would almost certainly still be president of China — but hemmed in by political rivals, restricted in his use of the party’s security machinery, and limited in his ambitions.</p>
+<p>Before we go on, a caveat. The party’s code of <em>omertà </em>is tight, and the outside world’s knowledge of what happens behind the palace moats of Zhongnanhai, Beijing’s Kremlin, minimal. <a href="http://www.chinafile.com/reporting-opinion/viewpoint/why-do-we-keep-writing-about-chinese-politics-if-we-know-more-we-do">Reliable information</a> has become even harder to come by in the age of Xi, where the fear of talking to media, and especially to foreigners, has become more acute than ever. Tales of the leadership — including entire <a href="http://www.chinafile.com/reporting-opinion/viewpoint/why-do-we-keep-writing-about-chinese-politics-if-we-know-more-we-do">alternate histories</a> promising supposedly hidden truths — circulate online and among the Chinese dissident diaspora, but most of them are fantasy. This account relies on private conversations with insiders, media accounts, and the opinions of foreign experts to create a rough first sketch of a history that may never be fully revealed. Yet the outlines of the story are clear, as is what they mean for the future direction of the world’s largest country.</p>
+                    <div rel="img_928020"
+                                        	style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/xicrowd.jpg);"
+                                            class="section-break-module"  title="19th National Congress Of The Communist Party Of China (CPC) &#8211; Opening Ceremony" />
+                    </div>
+                    <div class="section-break-caption">
+                                            <p class="photo-caption" id="caption_928020">
+                        	China's President Xi Jinping delivers a speech at the opening session of the Chinese Communist Party's Congress at the Great Hall of the People in Beijing on Oct. 18.  (Nicolas Asfouri/AFP/Getty Images)                        </p>
+                   		                    	                                        </div>
+                    
+                    
+<p>Xi’s ascent to the role of general secretary was fixed in 2007 at the 17th Party Congress, when his position as heir apparent was solidified. The horse-trading around this was part of a semicodified system of succession going back to 1989, when Jiang Zemin became general secretary following the Tiananmen massacre. Hu Jintao became Jiang’s heir apparent in 1997 and took on the role in 2002. Stability, as ever for the party, was paramount, but there was also a belief in rule by consensus and committee — at the top.</p>
+<p>By the late 2000s, however, there was a strong feeling among the Chinese elite that Hu’s administration had been a <a href="https://www.theatlantic.com/china/archive/2013/03/was-hu-jintao-a-failure/273868/">failure</a>. Despite the nominal ease of the succession, Jiang had never abandoned his desire to keep power in his hands, holding on to key military roles until 2005 and working through his political allies to hamstring his successor. Hu, once able to do a <a href="https://www.youtube.com/watch?v=Ri3SWyU8p34">passable imitation</a> of a human being, had become increasingly robotic, barely a presence in the public mind despite his constant unsmiling appearances on stage.</p>
+<p>By 2007, Hu’s weakness had set up Xi’s strength; he was expected to be a more assertive, confident, and charismatic leader when he took over in 2012 — but still a party man to the core, one who had risen steadily through the system and was expected to serve it. By 2017 he’d pick a clear heir of his own, establishing a new generation of leadership to continue these traditions. But he would not be ruling alone; instead, he’d be guided, and constrained, by a range of other top figures on the Standing Committee, the seven to nine men who would make up the core leadership, and in the 25-seat Politburo.</p>
+<p>Foreign observers often look for familiar patterns of “reformers” and “hard-liners” within authoritarian states. But the most important ties in the party at the time had very little to do with ideology. Instead, they were determined by affiliation: who you had come up with, served under, and were patronizing yourself. And so Xi’s new Politburo would be expected to include allies of Hu, Xi, and even the cadaverous Jiang.</p>
+<p>The biggest challenge for the new administration would be rampant corruption, from the petty extortion of street vendors through to enormous payoffs for political influence and the wholesale ransacking of state resources. In percentage <a href="https://www.chinacenter.net/2012/china_currents/11-2/growth-and-corruption-in-china/">terms</a>, Chinese corruption’s worst point had been the 1990s. But even if corruption had been slightly curbed since then in relative terms, in absolute ones China’s economic boom meant that the sums of money involved had become eye-bogglingly large, with scandals running into the billions of dollars.</p>
+<p>From the party’s point of view, corruption was rotting the public’s faith and crippling the nation. From the point of view of most members of the party, however, if everyone else was getting rich, then why couldn’t they? Even a cursory glance at China’s new social media revealed that officials were seen as skinning the people, not serving them. Worst of all, the military itself was rotten — to the extent that a war, even a small one, could become a disastrous failure. The authorities were jailing 10,000 officials a year on corruption charges, but that was a droplet in a river. Helicopters were disappearing from bases, sold off to private firms; thousands of army license plates were flogged off to truckers so that they could avoid roadside tolls; and military officers — who had officially been told to get out of private business entirely a decade before — were running condom factories and Beijing nightclubs.</p>
+<p>One reason why corruption was on everyone’s mind, though, was that the spaces available to talk about it had broadened. It can be hard to distinguish how much of the limited online and press openness of the late 2000s was deliberate policy and how much was laziness and indifference within an increasingly corroded system. But for some thinkers in the party, openness was seen as the solution to corruption. Online supervision of lower-level officials by the public, combined with more freedom of the press, would eliminate the rot at the bottom — while remaining carefully limited from going further. Chinese bloggers became adept at pointing out Rolexes on the wrists of city officials supposedly paid less than $1,000 a month. Even those deeply embedded in the system felt the need to talk in this language: “We want democracy and an open press in China,” a prominent nationalist provocateur claimed in private conversation. “But we have to go slowly, slowly. China is a complicated country.”</p>
+<p>The Arab Spring put an end to these ambitions. An already present paranoia about Western cultural infiltration was given new life by the scenes at Tahrir Square. “Color revolution,” already a concern after the Central Asian revolts, began to grip the Chinese leadership’s imagination. The country’s founding legitimacy rests on revolutionary martyrdom — but it’s also twice been threatened by passionate (and unemployed) youth taking to the streets, in the Cultural Revolution and in the Tiananmen protests. That gave the scenes from the Arab world an extra edge and made the threat posed by revolt a tangled one: It had to be both discredited as a Western-backed, insincere form of revolution and sincerely crushed.</p>
+<p>A few posts by online exiles about a “<a href="https://www.reuters.com/article/us-china-unrest/beijing-says-jasmine-protest-calls-doomed-to-fail-idUSTRE7222RA20110306">Jasmine Revolution</a>,” a call for protest that never materialized, prompted a massive upping of security in Beijing. Chinese officials were prone to exaggerating the capabilities and role of U.S. intelligence in these events. “The Green Revolution was just caused by CIA spies!” one yelled down the phone when his account of how much the Iranian people loved their government, based on a weeklong trip, was questioned. Yet Edward Snowden’s revelations about the extent of U.S. capabilities further escalated the sense of threat from the West — as did the discovery and elimination of an extensive <a href="https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html">CIA network</a> between 2010 and 2012. A renewed urgency about the reach of the West, and the need to reassert the dominance of the party, began to seize the leadership.</p>
+                    <div rel="img_928023"
+                                        	style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/bo2000.jpg);"
+                                            class="section-break-module"  title="" />
+                    </div>
+                    <div class="section-break-caption">
+                                            <p class="photo-caption" id="caption_928023">
+                        	Then-Chongqing Municipality Communist Party Secretary Bo Xilai attends a meeting during the annual National People's Congress at the Great Hall of the People on March 6, 2010 in Beijing, China. (Feng Li/Getty Images)                        </p>
+                   		                    	                                        </div>
+                    
+                    
+<p>A security state demands a strongman to lead it. Yet by early 2012, it wasn’t Xi who worried the country’s liberals most but one of his rivals — the consummate politician Bo Xilai. Like Xi, Bo was a scion of red aristocracy; their fathers, Bo Yibo and Xi Zhongxun, had helped forge the revolution, fell in the chaos of the 1960s, re-emerged under Deng Xiaoping, and then worked hard to promote their sons’ careers. Both had divorced their first wives and made advantageous marriages: Xi to the celebrity army singer Peng Liyuan and Bo to Gu Kailai, the daughter of a revolutionary general and a prominent lawyer.</p>
+<p>Bo’s campaigning for higher office had initially been seen as gauche, but his publicity skills proved better suited to the 2000s, as the internet and the rise of a less controlled media opened up new means of campaigning that eluded most of Bo’s peers. Bo’s TV-friendly good looks and smooth talk were as winning to foreign politicians as they were to Chinese crowds.</p>
+<p>As party chief of Chongqing, one of the country’s largest cities, Bo was in the national papers almost daily — a rarity for a provincial leader. He arrived in 2008 with a blaze of furious activity, running a highly publicized anti-gangster campaign that purported to have ended organized crime in the city. Bo followed that cleanup with an extensive cultural campaign, ordering “frivolous” shows off the air in prime time to be replaced with party propaganda (and crashing ratings) and organizing mass singalongs to “red songs” — a mix of revolutionary classics and modern patriotic numbers. It inspired imitations throughout the country — and won lengthy praise from Xi himself on a Chongqing visit in 2010. In 2011, it became an official part of the party’s 90th anniversary celebrations.</p>
+<p>Alongside the cultural campaign, a simultaneous expansion of public services, new parks, and urban housing made Bo genuinely popular in the city. Journalists, academics, and other officials rushed to praise the “Chongqing model,” incentivized both by a belief that Bo was the coming man and by the all-expense-paid (plus a few red envelopes) trips that the city administration offered. Even Henry Kissinger, a national hero in China for his role in Richard Nixon’s 1972 visit, <a href="http://shanghaiist.com/2011/07/07/video_henry_kissinger_puts_100000_p.php">blessed</a> Bo at a red songs event before a crowd of 100,000 people.</p>
+<p>All of this worried both China’s embattled liberals and Bo’s rivals within the party. Dissidents and intellectuals saw the red songs as an unhealthy reminder of Cultural Revolution fervor. His peers saw him as dangerously charismatic and ambitious and a potential threat to the established consensus-based order, where politicking was supposed to be a matter of backroom deals, not open campaigning. There were hints that Bo might even be able to overturn Xi’s succession. At 63 in 2012 — four years older than Xi — he wasn’t able to wait for a chance at the top job. “Bo would almost certainly have been elevated into the standing committee and then he would have been untouchable.… That was a very frightening prospect for his rivals, who thought of him as a Hitler-like figure,” a senior Chongqing official <a href="https://www.ft.com/content/d67b90f0-d140-11e1-8957-00144feabdc0">told</a> the <em>Financial Times</em> in 2012.</p>
+<p>At that year’s 18th Party Congress, fixed as usual for the autumn, the stage seemed set for Bo to join the ranks of China’s most powerful men in the Politburo and to provide a permanent counterweight to Xi. And then it all came crashing down — and opened up a chance for Xi to rule unchallenged.</p>
+                    <div rel="img_928024"
+                                        	style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/gokulai2.jpg);"
+                                            class="section-break-module"  title="" />
+                    </div>
+                    <div class="section-break-caption">
+                                            <p class="photo-caption" id="caption_928024">
+                        	A screen shows a video of Gu Kailai, wife of ousted Chinese Communist Party Politburo member Bo Xilai at the media room for Bo Xilai's trial on August 23, 2013 in Jinan, China. (Feng Li/Getty Images)                        </p>
+                   		                    	                                        </div>
+                    
+                    
+<p>On Feb. 2, 2012, Wang Lijun, Bo’s brash police chief, was suddenly demoted to a minor position. On Feb. 6, he <a href="http://www.bbc.co.uk/news/world-asia-china-19252173">turned up</a> at the American consulate in Chengdu, 200 miles away from Chongqing, begging to be given political asylum. Bo’s wife, Gu Kailai, had, Wang claimed, murdered a British businessman and fixer, Neil Heywood. The Americans were firm, though; there was no way they could give Wang refuge — especially with Chinese police surrounding the consulate. A day later, he was on a first-class flight back to Beijing, accompanied by the vice minister of state security.</p>
+<p>Whatever really happened, Wang’s very public flight gave Bo’s rivals, especially Xi, a golden chance to take him down. By March 15, he was out as party chief; by April 10, he was officially under investigation. He languished in detention for more than a year before charges were officially brought the next July, culminating in public show trials for him and his wife alike.</p>
+<p>Tens of thousands of people had hitched a ride on Bo’s bandwagon, and now the scrabble to get off left many of them trampled underfoot. Ambitious underlings sent clippings of their bosses’ praise of Bo to the authorities. Regular pundits disappeared from the opinion pages for a while, like expert sycophant and “top journalism educator” Li Xiguang, who had made the mistake of <a href="https://www.brown.edu/about/administration/international-affairs/year-of-china/making-soft-power-china">praising Bo</a> too loudly. (Like many others, Li would re-emerge a couple of years later with his <a href="http://chinamediaproject.org/2014/09/02/me-media-the-mass-line-and-mass-manipulation/">tongue ready</a> for Xi’s broad posterior.)</p>
+<p>Gu Kailai became “Bogu Kailai” in reports, a linguistic aberration something along the lines of saying “Mrs. Bill-Hillary Clinton.” There were wide speculations that this was a deliberate attempt to remind everyone of Bo’s culpability. But the real answer lay in the desperation to prove that you were on the right side — especially among journalists who had heaped fulsome praise on the Chongqing model. “It was a misprint in a piece of Xinhua [the state news agency] copy,” an experienced Xinhua reporter claimed. “And then everybody imitated it because they thought it must mean something — and then nobody could stop.”</p>
+                    <div rel="img_928026"
+                                        	style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/xilaisentence.jpg);"
+                                            class="section-break-module"  title="" />
+                    </div>
+                    <div class="section-break-caption">
+                                            <p class="photo-caption" id="caption_928026">
+                        	A screen shows the picture of the sentence of Chinese politician Bo Xilai (Center) on September 22, 2013 in Beijing, China. (Feng Li/Getty Images)                        </p>
+                   		                    	                                        </div>
+                    
+                    
+<p>Bo’s purge had been technically initiated under Hu’s auspices. But that made it the perfect cover for Xi to move against other potential opponents — and to carry out his own version of Bo’s policies at the same time, putatively in service of the party’s integrity rather than his own personal ambition. Even as the “Chongqing model” was officially discredited (and Xi’s own praise for it erased from media archives), Xi was imitating his former enemy’s techniques. He entered office with a promise of national cleanup, sparing neither the great (“tigers”) nor the petty (“flies”). Unlike previous campaigns, retired officials, civilian and military alike, were in the crosshairs despite being theoretically out of the game. Like Bo’s gang crackdown, the anti-corruption campaign was broadly popular among a public increasingly fed up with the vagaries of bribery — although it was hard to distinguish genuine enthusiasm from the mandatory praise of the leader’s schemes. And, at least at first, it was also popular among a party establishment desperate for a renewed sense of order and public legitimacy.</p>
+<p>Perhaps the most significant scalp claimed by Xi in his early years was that of Zhou Yongkang, a powerful deal-maker under Hu who had retired from his post on the Standing Committee in 2012. After Bo’s fall, rumors about his ties to Bo circulated widely, possibly prompted by Xi himself. “Bo and Zhou were nowhere near as close as claimed,” the daughter of one of Zhou’s fallen allies said. “But Xi wanted to link the two of them together so that he could go after Zhou.” In the year before Zhou’s own arrest was announced, his appointees were systematically accused of corruption and removed from office. Ling Jihua, a close ally of Hu’s, was another early victim, rendered particularly vulnerable when his son died in a <a href="http://www.businessinsider.com/ling-gu-car-crash-why-everyone-in-beijing-is-talking-about-a-brutal-ferrari-crash-from-earlier-this-year-2012-9">Ferrari crash</a> the same month that Bo fell — another stroke of luck for Xi. Senior army officials, once thought untouchable due to the military’s fierce resistance to any inquiry into its own ranks, were also hit — one literally arrested in his hospital bed.</p>
+<p>Xi’s weapon in this campaign was the Central Commission for Discipline Inspection (CCDI), the party’s internal watchdog. He put his close ally Wang Qishan in charge of it, a friend since childhood and former colleague. Before the arrival of Wang, the CCDI had been much more limited in who it could target, wary of offending the powerful and circumscribed, in particular, by the feared Ministry of State Security. But it had been closely tied to Zhou, and several of its former ministers and vice ministers were among the first to be reaped. It was the CCDI that now gave officials bad dreams.</p>
+<p>The CCDI’s procedural tool was <em>shuanggui</em>, the rapid seizure and isolation of suspects in order to prevent them from contacting their own networks of power. It literally means “double designation,” referring to the official notice to appear at a “designated time and designated place.” In practice, it was quasi-legal kidnapping, carried out under the authority of “party discipline.” A CCDI team would turn the wing of a local hotel into an improvised detention center, where they would force confessions — and information on other targets — out of their subjects using every means possible, including torture. By 2013, the purges had become so widespread that the major state-owned oil enterprises established a routine of calling senior staff in the early morning to check that nobody had disappeared into detention overnight.</p>
+<p>In ordinary times, those targeted would have been able to fight back, drawing on the wealth of personal friendships, mutual blackmail material, and institutional loyalties that every Chinese leader accumulates on the way up. But back-footed by Bo’s fall, and their networks disrupted by the numerous retirements, changes in title, and prosecutions that had followed, they were never able to mount any kind of resistance. Chinese political plotting requires getting people from across a vast country together in the same room — surveillance makes communications too risky to use. But the very act of getting high-ranking officials together, outside of approved occasions, could now be taken as evidence of a conspiracy. Previous purges, although frequent, had been followed by a cooling-down period, an ebb and flow that gave the chance for recovery and resistance. But the shock and awe of Xi’s campaign never let up.</p>
+<p>Xi’s crackdown did curb much of the mid-level corruption and especially the wild <a href="http://www.chinafile.com/reporting-opinion/postcard/bro-code">banqueting and brothel</a> culture that had become the norm among officials and businessmen. But referring to it solely as an anti-corruption campaign misses the point. There was no doubt that many — virtually all — of those who had fallen had been corrupt. But so had <em>everyone</em>. Chinese <a href="https://qz.com/329584/does-chinese-president-xi-jinping-really-earn-just-22000-a-year/">government salaries</a> had fallen far behind inflation, so even with the packages of benefits that came with the post it was impossible to keep up one’s neighbors without taking something on the side. And an official who insisted on being clean would be seen as either dangerously naive or up to something, a Frank Serpico among dirty cops. Xi’s own family had accumulated billions of dollars.</p>
+<p>Perhaps the fallen had been a little dirtier than most. But those picked for sacrifice in the campaign, however, tended to come from areas where Xi’s rivals had strong power bases: the southern provinces, especially <a href="http://www.scmp.com/news/china/article/1732247/zhou-yongkangs-long-involvement-sichuan-blame-provinces-corruption">Sichuan</a>; the <a href="https://www.ft.com/content/5379486c-e608-11e3-a7f5-00144feabdc0">energy sector</a>; and the <a href="https://sites.tufts.edu/corruptarmsdeals/2017/05/05/chinas-crackdown-on-military-corruption/">army</a>. Not that the inequities of Xi’s approach made any difference to the public, which was pleased to see high officials receive any comeuppance at all. “Oh, they all sing the same tune,” a guard at the Tangshan Prison said wearily, describing the fallen party officials he now oversees. “‘Everyone was doing it. Everyone was taking money. I was just unlucky, poor me.’”</p>
+                    <div rel="img_928027"
+                                        	style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/xiwallwave2.jpg);"
+                                            class="section-break-module"  title="CHINA-POLITICS-CONGRESS" />
+                    </div>
+                    <div class="section-break-caption">
+                                            <p class="photo-caption" id="caption_928027">
+                        	People walk past a poster featuring Chinese President Xi Jinping with a slogan reading "Chinese Dream, People's Dream" in Beijing on Oct. 16.
+(Greg Baker/AFP/Getty Images)                        </p>
+                   		                    	                                        </div>
+                    
+                    
+<p>The other plank of Xi’s new program was the reassertion of total party dominance over all sectors of public life, especially over policing its own people. When Xi arrived, there had been the usual <a href="http://www.nytimes.com/2013/01/06/opinion/sunday/kristof-looking-for-a-jump-start-in-china.html?mtrref=asiasociety.org&amp;gwh=3448B481F33B7E3B40608D4722EA6E19&amp;gwt=pay&amp;assetType=opinion">wide-eyed speculations</a> that he could be a new Mikhail Gorbachev. His Western enthusiasts pointed to <a href="http://www.businessinsider.com/a-rural-town-in-iowa-helped-chinas-president-xi-jinping-rise-to-power-2015-4">his time in Iowa</a> as a sign that he must be eager to embrace the wonders of freedom. But it turned out that a lifetime spent as the heir to a Leninist party was more influential on Xi’s thought than two weeks among the cornfields. The paranoia of Western infiltration and rebellious youth prompted by the Arab Spring gave Xi unrestrained access to the full possibilities of China’s security state, turned against both his foes inside the party and the party’s potential rivals in civil society.</p>
+<p>Again imitating Bo’s Chongqing techniques, he began a mass roundup of potential critics and a freeze of civil society. 2012 immediately saw an assault on Weibo, the country’s most popular microblogging platform, which had become a way for journalists to call out (suitably minor) corrupt officials and for thinkers to post calls for reform. The “big Vs” of Weibo (the equivalent of Twitter’s blue-checked “verified accounts”) were <a href="https://www.economist.com/news/china/21584385-authorities-move-against-some-chinas-most-vocal-microbloggers-big-vs-and-bottom-lines">silenced</a>, either banned from the service or scared off after several of them were forced into televised confessions of wrongdoing. Human rights lawyers, once given a limited space to operate, were <a href="https://www.amnesty.org/en/latest/news/2017/07/china-end-ruthless-crackdown-human-rights-lawyers-activists/">shut down</a> or arrested. A new <a href="https://qz.com/873489/ngos-are-trying-to-stay-alive-in-chinas-latest-crackdown-against-foreign-forces/">NGO law</a> was introduced, modeled on Russia’s, that limited the ability of organizations to receive foreign funding and scared many into closing. Foreign textbooks were forced out of Chinese universities. The newspapers became an endless drumbeat of praise for Xi mixed with territorial jingoism.</p>
+<p>Each of the campaigns fed into the other. Since the primacy of the party was at stake, resisting Xi’s purges could be framed as treason. Meanwhile, the fall of the great was rupturing local networks and kicking the brutally Darwinian political economy of Chinese officialdom into high gear. Ideological vehemence was necessary, not just to show allegiance to the new leader but to prove that you were doing something, anything, to justify your post. And the easiest thing to do was to pick on acceptable targets, like <a href="https://www.dissentmagazine.org/article/china-feminist-five">feminists</a>, fans of <a href="https://www.dailydot.com/parsec/in-china-20-people-women-arrested-for-writing-slash/">yaoi</a>, <a href="http://www.scmp.com/news/china/policies-politics/article/2110433/chinas-underground-churches-head-cover-crackdown-closes">churches</a>, and <a href="https://www.buzzfeed.com/meghara/the-police-state-of-the-future-is-already-here?utm_term=.je6LJByD6#.tcbYegBjN">ethnic minorities</a> — and remind them just who was in charge.</p>
+                    <div rel="img_928028"
+                                        	style="background-image:url(https://foreignpolicymag.files.wordpress.com/2017/10/maocop.jpg);"
+                                            class="section-break-module"  title="" />
+                    </div>
+                    <div class="section-break-caption">
+                                            <p class="photo-caption" id="caption_928028">
+                        	A paramilitary policeman stands guard in front of the portrait of China's late communist leader Mao Zedong in Tiananmen Square during the opening ceremony of the 19th Communist Party Congress in Beijing on Oct. 18. (Greg Baker/AFP/Getty Images)                        </p>
+                   		                    	                                        </div>
+                    
+                    
+<p>Both these campaigns are still going on. Fresh scalps of public officials were <a href="http://www.scmp.com/week-asia/opinion/article/2104317/sudden-fall-political-star-rearranges-chess-pieces-chinas-ruling">culled</a> just before the Party Congress. The political situation remains frozen, the language of media and academia stilted and sycophantic. Unauthorized contact with foreigners is understood to be dangerous for anyone in a position of power. Sources who would once go on record now speak anonymously; those who always preferred cover now won’t speak at all. The government is doubling down on big data, offering the possibilities of a surveillance state that can trace every purchase, movement, and online posting — or claim to, at least.</p>
+<p>In the run-up to the Party Congress, Xi has been given a prominence far exceeding any Chinese leader since Mao Zedong. Even when he was general secretary, it was very easy to forget that Hu Jintao existed; late at night, Hu himself might have had doubts. But Xi is everywhere — slogans, posters, daily television. The contrast in visual imagery between the blank-faced Hu, never allowing an iota of emotion to slip, and the easily confident, in-command Xi is startling. New slogans now circulate with Xi’s name attached in a way that Hu’s own effort, the “harmonious society,” never managed. “Xi Jinping’s Chinese dream.” “Xi Jinping’s Belt and Road Initiative.” Some of this was mandated, but much of it is voluntary, eager signaling by everyone from academics to businesses that they are on board. Xi’s name can be crammed into anything, no matter how irrelevant or insignificant.</p>
+<p>What will Xi do with this power? There are still a few optimists who believe that economic reform is the next step, now that he has the power to override resistance. But all <a href="http://www.chinadaily.com.cn/china/2017-10/16/content_33309050.htm">indications</a> so far have been of the primacy of the party-state in the economy, just as in every other aspect of life — a fact reiterated by Xi in his opening speech at the Party Congress. As Americans have found since 9/11, it’s harder to wind down a security state than it is to crank it up.</p>
+<p>As for how popular Xi genuinely is, it’s hard to judge; he certainly seems to have a strong base with the middle-aged homeowners who make up the central pillar of party support. Inside the party, things seem far less certain. One of the underappreciated achievements of Xi’s earlier predecessor, Deng Xiaoping, was to break the country out of the cycles of political revenge that had begun in 1949. Part of that bargain was the collective leadership system, upheld even by those temporarily at the top in the knowledge that the winds could change. Xi has snapped some, if not all, of the links that kept things from getting out of hand.</p>
+<p>So now, even as they smile and grovel to survive, many inside the party are nurturing private hatreds — which means that Xi can ill-afford to let go of the power he’s taken into his hands, even if he gives up his official titles in 2022. In Chongqing and Dalian, nobody will criticize Xi directly — but they’ll still <a href="http://www.scmp.com/news/china/policies-politics/article/2104202/praise-bo-xilai-chongqing-city-faces-fresh-graft-probe">speak fondly</a> of Bo, a coded indication of their feelings about the man who built his rule off their former favorite’s fall.</p>
+<p><em>Top photo; China&#8217;s President Xi Jinping delivers a speech at the opening session of the Chinese Communist Party&#8217;s Congress at the Great Hall of the People in Beijing on Oct. 18. (Nicolas Asfouri/AFP/Getty Images)</em></p>
+					<div class="red-box-end"></div>
+													<div class="author-bio-module">
+											<p>
+																																																								Special Correspondent												</p>
+										</div>
+								<div class="footer-footnotes"></div>
+				<div class="share-links slide-toggle-hover" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/">
+				<div class="side-panel-wrapper">
+
+					<span class="slide-toggle-trigger">Share +</span>
+
+					<div class="content-toggle">
+
+						<section class="shares-trigger share-twitter-side" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" data-text="The Resistible Rise of Xi Jinping" data-endpoint="twitter">Twitter</section>
+
+						<section class="shares-trigger share-facebook-side" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" data-text="The Resistible Rise of Xi Jinping" data-endpoint="facebook">Facebook</section>
+
+						<section class="shares-trigger share-google-plus-side" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" data-text="The Resistible Rise of Xi Jinping" data-endpoint="google">Google +</section>
+
+						<section class="shares-trigger share-reddit-side" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/" data-text="The Resistible Rise of Xi Jinping" data-endpoint="reddit">Reddit</section>
+
+					</div>
+
+					<div class="aggregate-shares share-total-side sharrre" data-url="http://foreignpolicy.com/2017/10/19/the-resistible-rise-of-xi-jinping/"><div class="inner">2089 Shares</div></div>
+
+					<div class="tags">
+						
+					</div> <!--end tags-->
+				</div> <!-- end side panel wrapper -->
+		</div> <!-- end share-links -->				</div>			</div>		</article>
+	</div></div>
+            <footer class="site-footer-wrapper">
+                <div class="site-footer">
+                    <div class="logo">
+                            <a
+            style="padding-bottom:42%;"
+            href="http://foreignpolicy.com/"
+        class="image-attachment -ratioscale">
+        <img
+            data-srcset=""
+            data-src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/FP.svg"
+            alt=""
+            class="image -lazy -fit">
+        <noscript>
+            <img
+                src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/FP.svg"
+                alt=""
+                class="image -fit">
+        </noscript>
+    </a>
+                        </div>
+                    <nav class="nav">
+                        <ul id="menu-footer-column-1" class="footer-menu"><li id="menu-item-660877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660877 footer-menu-item"><a href="http://fpgroup.foreignpolicy.com" class="navlink">About FP</a></li>
+<li id="menu-item-783354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783354 footer-menu-item"><a href="http://foreignpolicy.com/staff/" class="navlink">Meet the Staff</a></li>
+<li id="menu-item-660950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660950 footer-menu-item"><a href="http://foreignpolicy.com/reprint-permissions/" class="navlink">Reprint Permissions</a></li>
+<li id="menu-item-660880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660880 footer-menu-item"><a href="http://fpgroup.foreignpolicy.com" class="navlink">Advertising</a></li>
+</ul><ul id="menu-footer-column-2" class="footer-menu"><li id="menu-item-660955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660955 footer-menu-item"><a href="http://foreignpolicy.com/writers-guidelines/" class="navlink">Writer&#8217;s Guidelines</a></li>
+<li id="menu-item-660882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660882 footer-menu-item"><a href="http://fpgroup.foreignpolicy.com/news" class="navlink">Press Room</a></li>
+<li id="menu-item-927639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927639 footer-menu-item"><a href="/employment-opportunities/" class="navlink">Work At FP</a></li>
+<li id="menu-item-660957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660957 footer-menu-item"><a href="http://foreignpolicy.com/subscription-services/" class="navlink">Subscription Services</a></li>
+</ul><ul id="menu-footer-column-3" class="footer-menu"><li id="menu-item-927960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927960 footer-menu-item"><a href="https://fpguide.foreignpolicy.com" class="navlink">Graduate Guides</a></li>
+<li id="menu-item-927640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927640 footer-menu-item"><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&#038;utm_medium=homepage%20footer&#038;utm_term=academic%20services&#038;utm_content=50%25%20off&#038;utm_campaign=premium&#038;g=0&#038;form=161&#038;pc=5EAH" class="navlink">Academic Program &#8211; FP Premium</a></li>
+<li id="menu-item-660886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660886 footer-menu-item"><a href="/magazine" class="navlink">FP Archive</a></li>
+<li id="menu-item-660961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660961 footer-menu-item"><a href="http://foreignpolicy.com/buy-back-issues/" class="navlink">Buy Back Issues</a></li>
+</ul><ul id="menu-footer-column-4" class="footer-menu"><li id="menu-item-927961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927961 footer-menu-item"><a href="http://foreignpolicy.com/privacy/" class="navlink">Privacy Policy</a></li>
+<li id="menu-item-660967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660967 footer-menu-item"><a href="http://foreignpolicy.com/contact-us/" class="navlink">Contact Us</a></li>
+</ul>                        <span class="powered-by-wpcom--parent">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=foreignpolicy.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+                    </nav>
+                </div>
+            </footer>
+
+        </div><!-- end site-wrapper -->
+
+
+                                    <div
+                data-campaign="HSBC ROS nd Econ"
+                data-stay-closed="false"
+                data-mobile-ad="div-gpt-ad-1453402331387-0"
+                data-refresh="30000"
+                data-closeable="false"
+                class="FP-mobile-ad FP-mobile-ad_fixedbottom"></div>
+        
+
+        <!-- Container for wapolabs identity modals -->
+        <div style="display: none;" id="wapolabs_wrapperLoginStatus"></div>
+                <script id="fp-login-tpl-anon" type="text/template">
+            <li><a target="_blank" class="FP-paywall--login" href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi">log in</a></li>
+            <li><a target="_blank" href="http://foreignpolicy.com/fp-all-access-faq/">Help</a></li>
+        </script>
+        <script id="fp-login-tpl-auth" type="text/template">
+            <li><a href="http://foreignpolicy.com/my-fp-alerts/">My FP</a></li>
+            <li class="fp-login--indt"><a target="_blank" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?g=0&#038;form=121">Edit Profile</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#manage-alerts">Manage Custom Alerts</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#recommended">My Personalized Articles</a></li>
+            <li><a target="_blank" href="http://foreignpolicy.com/fp-all-access-faq/">FAQ&#039;s</a></li>
+            <li><a class="fp-logout FP-paywall--logout" href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi">Log Out</a></li>
+        </script>
+        <script id="fp-login-tpl-sub" type="text/template">
+            <li><a href="http://foreignpolicy.com/my-fp-alerts/">My FP</a></li>
+            <li class="fp-login--indt"><a target="_blank" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?g=0&#038;form=121">Edit Profile</a></li>
+            <li class="fp-login--indt"><a target="_blank" href="https://subscribe.foreignpolicy.com/FRP/?f=custcare">Manage Subscription</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#manage-alerts">Manage Custom Alerts</a></li>
+            <li class="fp-login--indt"><a href="http://foreignpolicy.com/my-fp-alerts/#recommended">My Personalized Articles</a></li>
+            <li class="fp-login--indt fp-login--prem"><a href="http://foreignpolicy.com/foreign-policy-in-the-trump-administration/">My Reports</a></li>
+            <li><a href="http://foreignpolicy.com/all-access-ebooks/">Ebooks</a></li>
+            <li><a target="_blank" href="http://foreignpolicy.com/fp-all-access-faq/">FAQ&#039;s</a></li>
+            <li><a class="fp-logout FP-paywall--logout" href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi">Log Out</a></li>
+        </script>
+        <script id="template-mobile-regwall" type="text/template">
+            <div id="paywall_bg" class="mobile-regwall">
+    <div id="paywallWrapper">
+        <h1 class="medium_header" style="color: #fff;">
+            Please Log In / Register
+        </h1>
+        <h2>Returning Users</h2>
+        <a
+            href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi"
+            class="overlay-button-large m-regwall-link FP-paywall--login"
+            data-gael="MobiRegwallLogin">Log in</a>
+        <h2>Not Registered?</h2>
+        <p>
+            Access up to 5 articles a month free. <br>Subscribers &mdash; Register to
+            activate <cite class="FP-cite">FP</cite> <span class="FP-all-access">
+            All Access <span>&raquo;</span></span> status.
+        </p>
+        <a
+            href="http://fp-reg.onecount.net/onecount/flexreg/displayform.php?form=137&#038;brand=fp"
+            class="overlay-button-large m-regwall-link"
+            data-gael="MobiRegwallReg">Register</a>
+        <h2>Want Unlimited Access?</h2>
+        <a
+            href="javascript:void(0);"
+            class="overlay-button-large m-regwall_sublink"
+            data-gael="MobiRegwallSub">Subscribe &mdash; 20% Off</a>
+        <a href="http://foreignpolicy.com/" class="paywall_close_btn" data-gael="MobiRegwallClose">
+            <img
+                src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/articlecounter-close.png"
+                class="paywall_close simplemodal-close"
+                alt="[X]">
+        </a>
+    </div>
+</div>
+        </script>
+        <script id="fp-overlay-expiration-tpl" type="text/template">
+            
+        
+<div id="paywall_bg" class="discount_promo_overlay {{ className }}">
+  <div id="discount_promo" class="discount_promo_expiration">
+    <a class="discount_promo_close" href="javascript:void(0);">
+      Continue to ForeignPolicy.com<span class="icons-modal_close_red"></span>
+    </a>
+    <h2 class="discount_promo_header">{{ header }} <span class="fp_red">For a Limited Time Only</span></h2>
+    <p class="discount_promo_body">{{ body }}</p>
+    <div id="pricingTable">
+      <p class="table_row">
+        <span class="table_left">&nbsp;</span>
+        <span class="table_center"><strong>FP All Access</strong></span>
+        <span class="table_right"><strong>Limited Access</strong></span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Cost</span>
+        <span class="table_center">
+          {{ price }}
+          <span class="pricing-stamp">{{ stamp }}</span>
+        </span>
+        <span class="table_right">Free</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Articles Per Month</span>
+        <span class="table_center">Unlimited</span>
+        <span class="table_right">5</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Print Magazine Subscription</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Morning Brief &amp; Situation Report</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">Online Editorial Events</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      <p class="table_row">
+        <span class="table_left">FP E-Books</span>
+        <span class="table_center">Free</span>
+        <span class="table_right">$4.99/each</span>
+      </p>
+    </div>
+    <a class="discount_promo_button discount_expiration_button" href="{{ url }}">
+      {{ button }}
+    </a>
+  </div>
+</div>
+
+    
+          </script>
+                <script id="template-ip-access" type="text/template">
+            <div class="overlay-container-dark overlay-the-week">
+    <button class="overlay-close">
+        Close this window <span></span>
+    </button>
+    <div class="overlay-content">
+        <h1 class="overlay-title">Welcome to <cite>ForeignPolicy.com</cite></h1>
+        <div class="overlay-body">
+            <p>
+                Your FP All Access subscription is provided by US Department of State, Bunche Library.
+            </p>
+            <p>
+                Click <a class="overlay-close-link" href="javascript:void(0);">here</a>
+                to access <cite>ForeignPolicy.com</cite>.
+            </p>
+        </div>
+    </div>
+</div>        </script>
+        <script id="template-paywall-a" type="text/template">
+            <div id="paywall_bg">
+  <div id="paywallWrapper">
+    <h1 class="medium_header" style="color: #fff;">
+      You've Hit Your Article Limit &mdash; Subscribe to Read More
+    </h1>
+    <p class="paywall_text">
+      For a limited time, you can receive unlimited access to everything
+      <cite>Foreign Policy</cite> publishes at 20% off the Premium Price!
+    </p>
+
+    <div id="pricingTable">
+      <p class="table_row">
+        <span class="table_left">&nbsp;</span>
+        <span class="table_center"><strong><span class="overlay-nobrk">
+                    <cite class="FP-cite">FP</cite>
+                    <span class="FP-all-access">
+                        All Access
+                        <span>&raquo;</span>
+                    </span>
+                </span></strong></span>
+        <span class="table_right"><cite class="FP-cite">FP</cite> <strong>&nbsp;Premium</strong></span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Cost</span>
+        <span class="table_center">
+          $5.99/month
+        </span>
+        <span class="table_right paywall--x">
+          $9.99
+          <span class="pricing_stamp">
+            <span>Take 20%<br> Off!</span>
+          </span>
+        </span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Articles</span>
+        <span class="table_center">Unlimited</span>
+        <span class="table_right">Unlimited</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Newsletters</span>
+        <span class="table_center">All newsletters</span>
+        <span class="table_right">All newsletters</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Custom Alerts</span>
+        <span class="table_center table_middot">&middot;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Digital Magazine</span>
+        <span class="table_center table_middot">&middot;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">Print Magazine</span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">45-Year Print Archive</span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">
+          Exclusive Discounts to <cite>FP</cite> Signature Events
+          <span>Including <cite>FP's</cite> Top 100 Global Thinkers</span>
+        </span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+
+      <p class="table_row">
+        <span class="table_left">
+          <cite>FP Insights</cite>
+          <span>
+            FP Insights is a tool that surfaces the topics,
+            people and places that are being written about from thousands
+            of sources from around the world. A <cite>Foreign Policy</cite>
+            exclusive, available only to FP Premium subscribers.
+          </span>
+        </span>
+        <span class="table_center table_middot">&nbsp;</span>
+        <span class="table_right table_middot">&middot;</span>
+      </p>
+    </div>
+
+    <a href="javascript:void(0);" data-action="Sub" class="sub_btn">
+    Subscribe to <span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;Premium</span>    </a>
+
+    <a href="https://fp-reg.onecount.net/onecount/login/loginlogout.cgi" data-action="Log" class="already_sub_link FP-paywall--login">
+      Existing subscribers, click here to login or to register with your subscriber e-mail
+    </a>
+
+    <a href="javascript:void(0);" data-action="Close" class="paywall_close_btn">
+      <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/articlecounter-close.png" class="paywall_close simplemodal-close" alt="[X]">
+    </a>
+
+  </div>
+</div>
+        </script>
+        <script id="template-paywall-b" type="text/template">
+            <div id="paywall_bg">
+  <div id="paywallWrapper">
+    <h1 class="medium_header" style="color: #fff;">Subscribe Now and Get One Month Free!</h1>
+    <p class="paywall_text paywall_text_b paywall_text_b_first">
+      You may have hit your article limit for this month, but we're giving you a special
+      offer so you can continue reading absolutely free.
+    </p>
+    <p class="paywall_text paywall_text_b">
+      Receive unlimited access to everything <cite>Foreign Policy</cite> publishes
+      for an entire month in this exclusive, one time offer!
+    </p>
+    
+    <div id="pricingTable">
+      <p class="table_row">
+        <span class="table_left">&nbsp;</span>
+        <span class="table_center"><strong><span class="overlay-nobrk">
+                    <cite class="FP-cite">FP</cite>
+                    <span class="FP-all-access">
+                        All Access
+                        <span>&raquo;</span>
+                    </span>
+                </span></strong></span>
+        <span class="table_right"><strong>Limited Access</strong></span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Cost</span>
+        <span class="table_center">
+          $4.99/month
+          <span class="pricing_stamp">
+            <span>One month free!</span>
+          </span>
+        </span>
+        <span class="table_right">Free</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Articles Per Month</span>
+        <span class="table_center">Unlimited</span>
+        <span class="table_right">5</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Print Magazine Subscription</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Morning Brief &amp; Situation Report</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">Online Editorial Events</span>
+        <span class="table_center">Included</span>
+        <span class="table_right">Not Included</span>
+      </p>
+      
+      <p class="table_row">
+        <span class="table_left">FP E-Books</span>
+        <span class="table_center">Free</span>
+        <span class="table_right">$4.99/each</span>
+      </p>
+    </div>
+    
+    <a href="https://subscribe.foreignpolicy.com/subscribe2/?utm_source=registered%20user%20&utm_medium=article%20limit&utm_term=takeover%20&utm_content=launched%208%2F19&utm_campaign=one%20free%20month&p=FRP&f=freemonth" data-action="Sub" class="sub_btn">Subscribe Now</a>
+
+    <a href="https://id.foreignpolicy.com/identity/public/login/options?next_url=http://www.foreignpolicy.com/&amp;previous_url=http://www.foreignpolicy.com/&amp;KeepThis=true&amp;TB_iframe=true&amp;height=600&amp;width=900&amp;modal=true" data-action="Log" class="already_sub_link">
+      Existing subscribers, click here to login or to register with your subscriber e-mail
+    </a>
+    
+    <a href="javascript:void(0);" data-action="Close" class="paywall_close_btn">
+      <img src="https://s0.wp.com/wp-content/themes/vip/foreign-policy-2017/static/images/articlecounter-close.png" class="paywall_close simplemodal-close" alt="[X]">
+    </a>
+
+  </div>
+</div>        </script>
+
+                    <script
+        id="marketing-takeover__anon"
+        data-template="default"
+        data-close-text="Close this button to continue to foreignpolicy.com"
+        type="text/template"><p><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth"><img src="https://foreignpolicymag.files.wordpress.com/2017/10/redesign_promo3-1.jpg?w=1024&#038;h=512" alt="" width="1024" height="512" class="no-lazy-load" /></a></p>
+<p>Welcome to the redesigned foreignpolicy.com. Come for the new, engaging homepage, faster-loading articles, and more intuitive navigation. Stay for the award-winning analysis, reporting, and commentary on everything that matters in international politics. We invite you to check out FP’s depth and breadth of global coverage.</p>
+<p><span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;<b>Premium</b></span> subscribers receive:</p>
+<ul>
+<li>Unlimited content on foreignpolicy.com</li>
+<li><em>FP Mobile App</em> — See the latest story and launch it right from your today screen, share stories to Twitter, Facebook, and other apps, star a story to read it later, and more&#8230;</li>
+<li>Exclusive never before available access to the <em>FP Print Archive</em> — Search and browse 47 years of award-winning <em>FP</em> content.</li>
+<li><em>All 4 Newsletters</em> — Including the daily Situation Report and Morning Brief!</li>
+<li><em>Foreign Policy Magazine</em> &#8211; Both the print &amp; digital replica editions, delivered to your mailbox &amp; inbox&#8230;</li>
+</ul>
+<p><a class="js-takeover-action" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth" target="_blank" rel="noopener noreferrer">Click Here to subscribe for 20% off!</a></p>
+</script>
+        <script
+        id="marketing-takeover__print"
+        data-template="default"
+        data-close-text="Close this button to continue to foreignpolicy.com"
+        type="text/template"><p><a href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth"><img src="https://foreignpolicymag.files.wordpress.com/2017/10/redesign_promo3-1.jpg?w=1024&#038;h=512" alt="" width="1024" height="512" class="no-lazy-load" /></a></p>
+<p>Welcome to the redesigned foreignpolicy.com. Come for the new, engaging homepage, faster-loading articles, and more intuitive navigation. Stay for the award-winning analysis, reporting, and commentary on everything that matters in international politics. We invite you to check out FP’s depth and breadth of global coverage.</p>
+<p><span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;<b>Premium</b></span> subscribers receive:</p>
+<ul>
+<li>Unlimited content on foreignpolicy.com</li>
+<li><em>FP Mobile App</em> — See the latest story and launch it right from your today screen, share stories to Twitter, Facebook, and other apps, star a story to read it later, and more&#8230;</li>
+<li>Exclusive never before available access to the <em>FP Print Archive</em> — Search and browse 47 years of award-winning <em>FP</em> content.</li>
+<li><em>All 4 Newsletters</em> — Including the daily Situation Report and Morning Brief!</li>
+<li><em>Foreign Policy Magazine</em> &#8211; Both the print &amp; digital replica editions, delivered to your mailbox &amp; inbox&#8230;</li>
+</ul>
+<p><a class="js-takeover-action" href="https://fp-reg.onecount.net/onecount/flexreg/displayform.php?utm_source=web&amp;utm_medium=takeover%20launched%2010%2F23%2F17&amp;utm_term=site%20redesign%20takeover&amp;utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&amp;utm_campaign=premium&amp;g=0&amp;form=259&amp;pc=2dth" target="_blank" rel="noopener noreferrer">Click Here to subscribe for 20% off!</a></p>
+</script>
+    
+        <script>
+window._gaq = [['_setAccount', 'UA-6874192-41']];
+//~ONECount tracking override
+if ('undefined' !== typeof realReferer && '' !== document.referrer && realReferer !== document.referrer) {
+    _gaq.push(['_setReferrerOverride', realReferer]);
+}
+_gaq.push(['_trackPageview'], ['_trackPageLoadTime']);
+(function(){
+    var ga = document.createElement( 'script' ); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ( 'https:' == document.location.protocol ? 'https://ssl' : 'http://www' ) + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName( 'script' )[0]; s.parentNode.insertBefore( ga, s );
+})();
+</script>
+        <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "18406752" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=18406752&cv=2.0&cj=1">
+</noscript>
+
+
+                        <script>
+            (function() {
+                function loadHorizon() {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+                    var x = document.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                }
+                loadHorizon();
+                var oldOnLoad = window.onload;
+                window.onload = function() {
+                    if (typeof oldOnLoad === 'function') {
+                        oldOnLoad();
+                    }
+                    Sailthru.setup({
+                        domain: 'horizon.foreignpolicy.com'
+                    });
+                };
+            })();
+        </script>
+
+                <script>
+        window.onload = function() {
+
+            var userStatus = FP.Singletons.User.isStatus().then(function (is) {
+                
+                var userStatus = 'anon';
+
+                if(is.sub) {
+                    userStatus = 'paid';
+                } else if(is.prem) { 
+                    userStatus = 'paid';
+                } else if(is.reg) {
+                    userStatus = 'lgdin';
+                }
+
+                var _sf_async_config = _sf_async_config || {};
+                /** CONFIGURATION START **/
+                _sf_async_config.uid = 62828;
+                _sf_async_config.domain = 'foreignpolicy.com';
+                _sf_async_config.useCanonical = true;
+                _sf_async_config.sections = "Argument";
+                _sf_async_config.authors = "Special Correspondent";
+                _cbq = window._cbq = (window._cbq || []);
+                _cbq.push(['_acct', userStatus]);
+                /** CONFIGURATION END **/
+                (function() {
+                    function loadChartbeat() {
+                        var e = document.createElement('script');
+                        e.setAttribute('language', 'javascript');
+                        e.setAttribute('type', 'text/javascript');
+                        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                        document.body.appendChild(e);
+                    }
+                    var oldonload = window.onload;
+                    window.onload = (typeof window.onload != 'function') ?
+                        loadChartbeat : function() {
+                            oldonload();
+                            loadChartbeat();
+                        };
+                })();
+
+            });
+            
+        }
+        </script>
+        
+        
+        <script type="text/javascript" language="JavaScript"><!--
+s.pageName="fp - the_resistible_rise_of_xi_jinping";
+
+s.channel="Argument";
+
+s.hier1="";
+s.hier2="";
+
+s.prop2="Argument";
+
+s.prop3="post";
+
+s.prop6="";
+
+s.prop12="927969";
+
+s.prop13="The Resistible Rise of Xi Jinping";
+
+s.prop14="";
+s.prop15="";
+s.prop23="";
+
+s.prop25="";
+
+
+s.prop32="wordpress-http";
+
+
+
+s.prop34="Web";
+
+s.prop35="Argument | bo Xilai | China | Feature | Xi Jinping | Argument";
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+		//--></script><noscript><img src="http://wpni.112.2o7.net/b/ss/wpniforeignpolicyprod/1/H.24--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+
+
+        
+<div class="special-offer-popup clearfix">
+	<header>
+		<p class="paywall-counter">
+			You have read <span id="paywall-counter">0</span> <span>of 5</span> free articles		</p>
+
+		<button>X</button>
+	</header>
+	<div>
+		<ul>
+			<li>Unlimited access to ForeignPolicy.com</li>
+			<li>Subscriber-only newsletters</li>
+			<li>The Entire 46 Year Printed Archive &mdash; Every Issue Ever Printed</li>
+			<li>FP Insights Tool</li>
+		</ul>
+					<a class="fp-data-ab-test-manual" href="https://subscribe.foreignpolicy.com/FRP/?utm_source=web&#038;utm_medium=slideout%202&#038;utm_term=slideout%202&#038;utm_content=cambey%2020%20off%20annual&#038;utm_campaign=fp%20all%20access&#038;f=paidyear">
+				<img src="https://foreignpolicymag.files.wordpress.com/2016/06/global-thinkers-2015_min.jpg" alt="Global Thinkers 2015 Issue Cover">
+			</a>
+				<a id="special-offer-subscribe" class="button subscribe fp-data-ab-test-manual" href="https://subscribe.foreignpolicy.com/FRP/?utm_source=web&#038;utm_medium=slideout%202&#038;utm_term=slideout%202&#038;utm_content=cambey%2020%20off%20annual&#038;utm_campaign=fp%20all%20access&#038;f=paidyear">
+		Subscribe to <span class="overlay-nobrk FP_sc_marketing FP_sc_marketing__premium"><cite class="FP-cite">FP</cite> &nbsp;Premium</span> at 20% Off		</a>
+	</div>
+</div>
+
+
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","publisher":{"@type":"Organization","name":"Foreign Policy","logo":{"@type":"ImageObject","height":60,"url":"https:\/\/foreignpolicymag.files.wordpress.com\/2016\/04\/logo.png","width":74}},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/foreignpolicy.com\/2017\/10\/19\/the-resistible-rise-of-xi-jinping\/"},"headline":"The Resistible Rise of Xi Jinping","description":"China's president radically changed his country, and the Communist Party, through skill, determination \u2014 and a series of lucky breaks.","datePublished":"2017-10-19T07:00:43+00:00","dateModified":"2017-10-19T08:21:14+00:00","author":{"@type":"Person","name":"Special Correspondent"},"image":{"@type":"ImageObject","url":"https:\/\/foreignpolicymag.files.wordpress.com\/2017\/10\/xispeech1.jpg?w=1986","height":1004,"width":1986}}</script>
+<script>
+    window.FP = window.FP || {};
+    FP.Config = {"api":{"ip_access":"http:\/\/foreignpolicy.com\/r\/api\/ip-access\/","link_access":"http:\/\/foreignpolicy.com\/r\/api\/link-access\/{0}\/","users_by_id":"http:\/\/foreignpolicy.com\/r\/api\/users\/{0}\/","surveys_check":"http:\/\/foreignpolicy.com\/r\/api\/surveys\/check\/"},"context":{"is_home":false},"current_site_admin_hostname":"foreignpolicymag.wordpress.com","current_site_hostname":"foreignpolicy.com","fonts":[{"family":"Solido","option":{"style":"normal","weight":400}},{"family":"Tiempos","option":{"style":"normal","weight":400}},{"family":"Tiempos","option":{"style":"normal","weight":600}},{"family":"Solido","option":{"style":"normal","weight":800}},{"family":"Solido Condensed","option":{"style":"normal","weight":600}}],"is_production":true,"marketing":{"after_content_messaging":"<p>Like this article? Read an unlimited number of articles, plus access to our entire 47-year printed archive, the FP App, and the FP Insights Tool when you <strong>subscribe to FP Premium\u00a0<\/strong>for 20% off!<\/p>"},"misc":{"current_magazine_issue":{"isset":true,"link":"http:\/\/foreignpolicy.com\/the-magazine\/"}},"paywall_links":{"header":{"default_text":"Subscribe to Premium for 20% Off","default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=upper%20right%20hand%20corner%20link&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth","subscriber_text":"Upgrade to Premium for Just $1","subscriber_link":"https:\/\/subscribe.foreignpolicy.com\/FRP\/?f=gate-1"},"article":{"default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]},"slideout":{"default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=slideout%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%235&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]},"paywall":{"default_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=metered%20paywall&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"},"alerts":{"search_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=fp%20alerts%20search%20link&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth","landing_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=fp%20alerts%20landing%20page%20link&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"},"analytics":{"subscriber_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=fp%20analytics&utm_term=already%20an%20access%20subscriber&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","premium_link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=fp%20analytics&utm_term=anonymous&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"}},"referrers":["msn.com","reddit.com","facebook.com","twitter.com","t.co","google.com","drudgereport.com","slate.com","washingtonpost.com","bit.ly","atfp.co","antiwar.com","digg.com","mca-marines.org","aldaily.com","huffingtonpost.com","huffpost.com","ycombinator.com","coasttocoastam.com","yahoo.com","themp.org","millennium-project.org"],"user":{"login_url":"https:\/\/fp-reg.onecount.net\/onecount\/login\/loginlogout.cgi","logout_url":"https:\/\/fp-reg.onecount.net\/onecount\/login\/loginlogout.cgi","edit_profile_url":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?g=0&form=121","registration_url":"http:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?form=137&brand=fp","customer_service_url":"https:\/\/subscribe.foreignpolicy.com\/FRP\/?f=custcare","view_count_limit":null,"paywall_resource_id":null,"registration_product_ids":[34],"subscription_product_ids":[26],"premium_product_ids":[145]},"widgets":{"surveys":{"survey_id":"qVuJ2BRvAMOdkCgpsuo4OQnbSq670HwWIdTLYxHxlgLzcVnifKSzGNDMEKnirwHe","is_enabled":true,"is_homepage_excluded":false,"user_status_targeting":"all","user_domain_targeting":[],"user_country_targeting":[]}}};
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    lazySizesConfig = {"lazyClass":"-lazy","preloadClass":"-preloaded","loadingClass":"-loading","loadedClass":"-loaded"};
+</script>
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<!-- wpcom_wp_footer -->
+
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 62828;
+			_sf_async_config.useCanonical = true;
+						_sf_async_config.domain = 'foreignpolicy.com';
+			_sf_async_config.authors = 'Special Correspondent';
+_sf_async_config.sections = ["Argument"];
+
+			(function(){
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src',
+						(("https:" == document.location.protocol) ? "https://" : "http://") +
+						"static.chartbeat.com/js/chartbeat.js");
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+					loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+			})();
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201743y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/foreignpolicymag.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/foreignpolicymag.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"http:\/\/foreignpolicy.com\/","postID":"927969","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyt0sFOwzAMBuAXovWKBoMD4lmC67bu0jiLnaLu6TEnuHBgnRTJPvz5HFmBz9xwwlh7Upj9XCqVDSoDSqF24dTO+gB/pvpglBnPVH5nUZJRMrCJFr+xcobBOR5TkyUybs3joTuBWjDGH7AdakJjh8a90sRq4nUno7zkSIv0Id5M5RrjpYrR3segyJlvV6pxVIiCIX7vJoz/pYIqmYIWBMXC2fuVUi/F08mGgCQfSmX1v+BTk+9M0v1mxHDdlK+kdxMx6OTY+/LWPR1euufj8fU0fwH/mCIG'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='//cdn.taboola.com/libtrc/foreignpolicy/loader.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpUtilsLoc = {"isDev":"","redirectUri":"https:\/\/foreignpolicy.com\/share_redirect\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myFpAlertsLoc = {"isVIPEnv":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpIPAccessState = {"printArchiveUrl":"http:\/\/foreignpolicy.com\/print-archive\/","ipAccessEnabled":"1","fpAnalyticsUrl":"http:\/\/foreignpolicy.com\/fp-insights\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJytzzEOwjAMBdALUUyRKF0QCxeAiTUEUxylcbDdIm5PQFyAwvaX//Q/3HPlORkmA7tijwojZbiwIHWpyhzJP6rlol6DU0VTUPGgXiiXPGI6s4C5E3N086Az+MkbjKJCFu5J8V+cmlDqfte0KBGNU4EV5UtQzRl5CJ9Vk9vhNqA85p5luuEiSjkU9m/quOPeUTpgkdUmo5Qr5z3qa9a239SrRdO0bduswxPycOCD'></script>
+<script type='text/javascript' src='//ak.sail-horizon.com/scout/v1.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpJsThemeData = {"templateDirUri":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/foreign-policy-2017"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallSlideout = {"links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=slideout%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%235&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallAfterArticle = {"links":["https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%231&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%232&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%233&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH"]};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallPopup = {"links":{"inline":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=after%20article%20counter&utm_term=%234&utm_content=20%25%20off&utm_campaign=premium&g=0&form=161&pc=2DTH","popup":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=metered%20paywall&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallRegwall = {"link":"https:\/\/fp-reg.onecount.net\/onecount\/flexreg\/displayform.php?utm_source=web&utm_medium=link%20launched%2010%2F23%2F17&utm_term=mobile%20regwall&utm_content=20%25%20off%20just%20digital%20-%20full%20price%20print&utm_campaign=premium&g=0&form=259&pc=2dth"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fpPaywallHeader = {"link":"https:\/\/subscribe.foreignpolicy.com\/FRP\/?f=gate-1","linkText":"Upgrade to Premium for Just $1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FPMarketingSettings = {"_preview":null,"sponsored":null,"anon":{"ID":928281,"campaign":"10_24_17"},"print":{"ID":928281,"campaign":"10_24_17"},"premium":null,"__meta":{"disable_paywall":false,"localdata_prefix":"__FPMarketingTakeover_","tracking_prefix":""}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = {"ajaxurl":"https:\/\/foreignpolicymag.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = {"ajaxurl":"https:\/\/foreignpolicymag.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = {"ajaxurl":"https:\/\/foreignpolicymag.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var zMoatADVERTISER = {"moatPassback":"editorial"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJy1lU1uAyEMhS9UStL/LKoepfIwzkACGIGZdG5fp0nUrKpmQla2LPmTeTyM3iVlKDJG1mwxYNGjS3pNGd0QVSLvzKQeFstXXRjYGb0puoDzbHNVxVDl+02503MwkCXxqHbAxmK+kAOlIMss2ehiskuSJ5h24L32Lm5LO9wxtp/zBF776XId/8GV9gID3kCKRKmm9tiMwz62B+NXcll8R3G2Wy1Cj/mz1G5vr+tHrOx80a6/nsSwRRoxn2XXQw2FRFF6pVzziFMD5rG0FkADWocWRkdybAPeVA+MvWInFIbQwJxnCrggz0gBMxgbpNJWXheSbMHiXd9iuRx8Vcg48MVCbvH8D0yZeX/4plcHlS1l5Ql6FaS5JbvzNNyGbCzEiP428ChxmLOr/hb6+NkmcXJT+0J/qSF+d2og4FPXbAh2RD/f/Ud4Xz4v3lZPq8eXh803hQ1LBA=='></script>
+<script type='text/javascript' src='https://validate.onecount.net/js/v_sb.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FPFeatureRelPost = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJytkcFOwzAMhl+INC0TTBwQZ54CeanbeiRxFjtMfXtSjQOXaVJbKZdE///J+WyvyVB0vvQo9lzPpWCebSF7pX5EbQLF5ixP9m4usZASx8fJgLHcS9UrdN38GAJF2XFIHhX/px1HxahWJwy180PJDpyRxmgSe3KzeW67oxUFJbcgBwQtGcWMnk/gV3OkPn5va5s0sbJxkLkIrh/lZqkJfCKPjSuiHDY5WkRDJuHNmr8y+poQXQ+CHj/Xz3ETvZtiGCMN804Y87exrY7TpbDugIG8fk0yQUVQ/RnKNshS/wjv3Uv7+nZsD4f2/AtDmLZx'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'71129472','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'71129472','v':'wpcom','tz':'-4','user_id':'0','post':'927969','subd':'foreignpolicymag'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=71129472&v=wpcomvt&tz=-4&user_id=0&post=927969&subd=foreignpolicymag&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE5tW3cvZGRlby1IQz1KU25CUU90fDJnTXl0ZC58TGsublNtWkhSRV9CLjRqUWJFajViaWpkST13L2Z4NmZUUDlZaWNBKyZrNnh0anpLW0RUSmNSVTNoSzZxdWljMk1aMk4sR0U0fndLYS8tMV1kXUwtV1ZmWnc9RTFja1JKTCVkejhpWVZVLEN+fkldbm9MOW5EfkpzTD1WWmNCN3dUQXpXcTdXOGhPei5DbFk/c0JURT1bZmYsQTU3bXA='}]);
+_stq.push([ 'clickTrackerInit', '71129472', '927969' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>    </body>
+</html>
+<!--
+	generated 297 seconds ago
+	generated in 0.216 seconds
+	served from batcache in 0.003 seconds
+	expires in 3 seconds
+-->

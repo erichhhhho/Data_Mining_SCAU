@@ -1,0 +1,1919 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn1.i-scmp.com" />
+<link rel="dns-prefetch" href="//cdn2.i-scmp.com" />
+<link rel="dns-prefetch" href="//cdn3.i-scmp.com" />
+<link rel="dns-prefetch" href="//cdn4.i-scmp.com" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//cdn1.i-scmp.com" />
+<link rel="prefetch" href="//cdn2.i-scmp.com" />
+<link rel="prefetch" href="//cdn3.i-scmp.com" />
+<link rel="prefetch" href="//cdn4.i-scmp.com" />
+<![endif]-->
+<meta name="cXenseParse:recs:scp-lastupdatetime" content="1508988871" />
+<meta name="cXenseParse:recs:scp-articlesectioncolor" content="color2" />
+<meta name="cXenseParse:scp-author" content="Kinling Lo" />
+<meta name="cXenseParse:scp-topics" content="China&#039;s leadership reshuffle 2017" />
+<meta name="cXenseParse:recs:scp-articlesection" content="Policies &amp;amp; Politics" />
+<meta name="cXenseParse:scp-producer" content="brett.mckeehan" />
+<meta name="cXenseParse:recs:scp-social-headline" content="Wang Huning: the liberal set to be China’s ideology tsar" />
+<meta name="cXenseParse:pageclass" content="article" />
+<meta name="cXenseParse:recs:articleid" content="2116964" />
+<meta name="cXenseParse:recs:publishtime" content="2017-10-25T11:00:00Z" />
+<meta name="cXenseParse:scp-topics" content="China&#039;s leadership reshuffle 2017: All articles" />
+<meta name="cXenseParse:recs:scp-square-main-image" content="https://cdn3.i-scmp.com/sites/default/files/styles/320x320/public/images/methode/2017/10/26/b28cc070-b7da-11e7-affb-32c8d8b6484e_image_hires_113429.jpg?itok=8yjEpT0X" />
+<meta name="cXenseParse:scp-topics" content="China&#039;s leadership reshuffle 2017: Rising stars" />
+<meta name="twitter:app:url:iphone" content="scmp://news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?entity=node&amp;type=article&amp;id=2116964" />
+<meta name="twitter:app:url:googleplay" content="scmp://news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?entity=node&amp;type=article&amp;id=2116964" />
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"News","@id":"http:\/\/www.scmp.com\/news"}},{"@type":"ListItem","position":2,"item":{"name":"China","@id":"http:\/\/www.scmp.com\/news\/china"}},{"@type":"ListItem","position":3,"item":{"name":"Policies \u0026 Politics","@id":"http:\/\/www.scmp.com\/news\/china\/policies-politics"}}]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebPage","@id":"http:\/\/www.scmp.com\/news\/china\/policies-politics\/article\/2116964\/wang-huning-low-profile-liberal-dream-weaver-whos-about"}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","publisher":{"@type":"Organization","name":"South China Morning Post","logo":{"@type":"ImageObject","url":"https:\/\/cdn2.i-scmp.com\/sites\/all\/modules\/custom\/scmp_masthead\/images\/publisher_logo.png","width":600,"height":60}},"inLanguage":"en-GB","genre":"News","headline":"Wang Huning: the low-profile, liberal dream weaver who\u2019s about to become China\u2019s ideology tsar","dateCreated":"2017-10-25T17:50:32+08:00","dateModified":"2017-10-26T11:34:31+08:00","datePublished":"2017-10-25T19:00:00+08:00","alternativeHeadline":"Low-profile ideas man is now nation\u2019s propaganda tsar","description":"Wang Huning is one of the new members of the Communist Party\u0026rsquo;s Politburo Standing Committee. Here we have a look at his road to the top:...","author":[{"@type":"Person","name":"Kinling Lo"}],"image":{"@type":"ImageObject","url":"https:\/\/cdn4.i-scmp.com\/sites\/default\/files\/styles\/980x551\/public\/images\/methode\/2017\/10\/26\/b28cc070-b7da-11e7-affb-32c8d8b6484e_image_hires_113429.jpg?itok=EpkejA_m","width":980,"height":551},"mainEntityOfPage":"http:\/\/www.scmp.com\/news\/china\/policies-politics\/article\/2116964\/wang-huning-low-profile-liberal-dream-weaver-whos-about"}</script>
+<meta name="twitter:app:name:iphone" content="SCMP" />
+<meta name="twitter:app:name:googleplay" content="SCMP" />
+<meta property="article:published_time" content="2017-10-25T19:00:00+08:00" />
+<meta name="cXenseParse:scp-wordcountgroup" content="15. 801-900" />
+<meta name="twitter:app:id:googleplay" content="com.scmp.newspulse" />
+<meta name="twitter:app:id:iphone" content="623201967" />
+<meta name="cXenseParse:scp-topics" content="China&#039;s leadership reshuffle 2017: Profiles" />
+<meta property="article:modified_time" content="2017-10-26T11:34:31+08:00" />
+<meta name="aplus-rhost-g" content="gj.mmstat.com" />
+<meta name="aplus-rhost-v" content="gj.mmstat.com" />
+<meta property="fb:app_id" content="282931841805811" />
+          <!-- Page-hiding snippet (recommended)  -->
+          <style>.async-hide { opacity: 0 !important} </style>
+          <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+          h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+          (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+          })(window,document.documentElement,'async-hide','dataLayer',2000,
+          {'GTM-5LK5SJK':true});</script><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@SCMP_News">
+<meta name="twitter:title" content="Wang Huning: the low-profile, liberal dream weaver who’s about to become China’s ideology tsar">
+<meta name="twitter:description" content="Wang Huning is one of the new members of the Communist Party’s Politburo Standing Committee. Here we have a look at his road to the top:...">
+<meta name="twitter:image:src" content="https://cdn1.i-scmp.com/sites/default/files/styles/620x356/public/images/methode/2017/10/26/b28cc070-b7da-11e7-affb-32c8d8b6484e_image_hires_113429.jpg?itok=y7Uwzmw9">
+<meta property="og:site_name" content="South China Morning Post"/>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" />
+<meta property="og:title" content="Wang Huning: the liberal set to be China’s ideology tsar"/>
+<meta property="og:description" content="The former Fudan University professor has been influencing presidents behind the scenes for 30 years, but now he’s set to take centre-stage"/>
+<meta property="og:image" content="https://cdn1.i-scmp.com/sites/default/files/styles/620x356/public/images/methode/2017/10/26/b28cc070-b7da-11e7-affb-32c8d8b6484e_image_hires_113429.jpg?itok=y7Uwzmw9"/>
+<meta property="og:image:width" content="620"/>
+<meta property="og:image:height" content="356"/>
+<meta name="description" content="The former Fudan University professor has been influencing presidents behind the scenes for 30 years, but now he’s set to take centre-stage"/>
+<meta name="keywords" content="News, China, Policies &amp; Politics, Diplomacy &amp; Defence, China&#039;s leadership reshuffle 2017, China&#039;s leadership reshuffle 2017: All articles, China&#039;s leadership reshuffle 2017: Profiles, China&#039;s leadership reshuffle 2017: Rising stars, Wang Huning, Politburo Standing Committee, PBSC, Secretariat, politburo, Central Policy Research Office, Chinese dream"/>
+<meta name="news_keywords" content="News, China, Policies &amp; Politics, Diplomacy &amp; Defence, China&#039;s leadership reshuffle 2017, China&#039;s leadership reshuffle 2017: All articles, China&#039;s leadership reshuffle 2017: Profiles, China&#039;s leadership reshuffle 2017: Rising stars, Wang Huning, Politburo Standing Committee, PBSC, Secretariat, politburo, Central Policy Research Office, Chinese dream"/>
+<script>var _sf_startpt=(new Date()).getTime();</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" />
+<link rel="shortlink" href="/node/2116964" />
+<meta name="viewport" content="width=1024, user-scalable=yes">
+<link rel="shortcut icon" href="http://www.scmp.com/sites/all/themes/boom/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="https://cdn4.i-scmp.com/sites/all/themes/boom/images/touch-icons/apple-touch-iphone.png" />
+<meta property="al:android:url" content="scmp://news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?entity=node&amp;type=article&amp;id=2116964" />
+<meta property="al:android:package" content="com.scmp.newspulse" />
+<meta property="al:ios:app_name" content="SCMP" />
+<meta property="al:ios:app_store_id" content="623201967" />
+<meta property="al:ios:url" content="scmp://news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?entity=node&amp;type=article&amp;id=2116964" />
+<meta property="al:android:app_name" content="SCMP" />
+<script type="application/json" id="liftigniter-metadata">{"id":"2116964","url":"http:\/\/www.scmp.com\/news\/china\/policies-politics\/article\/2116964\/wang-huning-low-profile-liberal-dream-weaver-whos-about","title":"Wang Huning: the low-profile, liberal dream weaver who\u2019s about to become China\u2019s ideology tsar","socialHeadline":"Wang Huning: the liberal set to be China\u2019s ideology tsar","sections":"News, China, Policies \u0026 Politics, Diplomacy \u0026 Defence","topics":"China\u0027s leadership reshuffle 2017, China\u0027s leadership reshuffle 2017: All articles, China\u0027s leadership reshuffle 2017: Profiles, China\u0027s leadership reshuffle 2017: Rising stars","authors":"Kinling Lo"}</script>
+<link rel="apple-touch-icon-precomposed" href="https://cdn4.i-scmp.com/sites/all/themes/boom/images/touch-icons/apple-touch-ipad.png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="https://cdn1.i-scmp.com/sites/all/themes/boom/images/touch-icons/apple-touch-iphone-retina.png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="https://cdn3.i-scmp.com/sites/all/themes/boom/images/touch-icons/apple-touch-ipad-retina.png" sizes="152x152" />
+<link rel="amphtml" href="http://m.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?amp=1" />
+<meta name="article:author" content="Kinling Lo" />
+  <title>Wang Huning: the low-profile, liberal dream weaver who’s about to become China’s ideology tsar | South China Morning Post</title>
+  <link type="text/css" rel="stylesheet" href="https://cdn3.i-scmp.com/sites/default/files/css/css_avzE-TbuhKDJcT9yXXDkR9DLr2E4DPlHYzBQBrNShNw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn4.i-scmp.com/sites/default/files/css/css_notasGb_HDdNz85YN6lC8H6jPJ7CsfBGQ72caGmzC80.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn1.i-scmp.com/sites/default/files/css/css_l7YVIM7OVTuIfow89aQUyYatFjuW8R-37GYlS6aAYvM.css" media="all" />
+<style>.panels-flexible-new .panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-new .panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-new .panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-new .panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-new .panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-new .panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-new .panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-new .panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-new .panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-new .panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-new-main {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-new-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-new {
+  width: auto;
+}
+
+.panels-flexible-region-new-center {
+  float: left;
+  width: 13.8600%;
+}
+
+.panels-flexible-region-new-row_2 {
+  float: left;
+  width: 13.8600%;
+}
+
+.panels-flexible-region-new-row_3 {
+  float: left;
+  width: 13.8600%;
+}
+
+.panels-flexible-region-new-row_4 {
+  float: left;
+  width: 13.8600%;
+}
+
+.panels-flexible-region-new-row_5 {
+  float: left;
+  width: 21.7800%;
+}
+
+.panels-flexible-region-new-row_6 {
+  float: left;
+  width: 21.7800%;
+}
+
+.panels-flexible-row-new-main-row-inside {
+  padding-right: 0px;
+}
+
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn1.i-scmp.com/sites/default/files/css/css_H1QE-LO0QcC1E9VoZR8pxzdBOFYvndSLeh66Dr6Sibc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn4.i-scmp.com/sites/all/themes/boom/stylesheets/bootstrap.min.css?v=1" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn4.i-scmp.com/sites/default/files/css/css_3pLhe4rT6ySvATQCguOfv3G3cJserj-Gia9Ztx7Jxyw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn3.i-scmp.com/sites/default/files/css/css_z-ZDcUUyuyAGRwTZ-xLSUePBhzQcrHdwcghKyIxZelI.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script>window.google_analytics_uacct = "UA-6891676-1";</script>
+<script src="https://cdn3.i-scmp.com/sites/all/libraries/respondjs/respond.min.js?oy3b9p"></script>
+<script src="https://cdn2.i-scmp.com/sites/default/files/js/js_M_OU91tFDxVZJSziQDiC2QJ3NiHb77RYd1Ke4tGuKks.js"></script>
+<script src="https://cdn3.i-scmp.com/sites/default/files/js/js_-jenMcWHoY-_YofME9QdfIdN78Hvtfo2npip2cxdObU.js"></script>
+<script>/* Google DoubleClick GPT */
+    var gptadslots = gptadslots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
+  </script>
+<script>/* Cxense script */
+        (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+        e.src='http'+('https:'===location.protocol?'s://':'://')+'cdn.cxense.com/cx.js';
+        t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+        </script>
+<script>
+      /* Cxense script */
+      var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+      </script>
+<script>var gaSCMPImpressionTrackerIds = {"elements":["ga-scmp_popular_content","ga-scmp_shared_content","ga-scmp_commented_content"]};</script>
+<script>WebFontConfig = {
+    custom: {families: ['scmp-weather-icons', 'scmp', 'scmp-logo'], urls: ['https://cdn3.i-scmp.com/sites/all/modules/custom/scmp_boom/css/scmp-all-icons.css?v1','https://cdn2.i-scmp.com/sites/all/modules/custom/scmp_boom/css/scmp-logo.css?v1']},
+    google: {families: ['Open Sans:300,400,600,700', 'PT Serif:400,700', 'PT Sans:400,700']},
+    fontactive: function (familyName) { if (familyName === 'scmp-logo') {var logoArray = document.getElementsByClassName("font-scmp-logo-flag"); for (var i=0; i < logoArray.length; i++) {logoArray[i].classList.add('font-scmp-logo');}}}
+  };</script>
+<script>(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+    scriptEl.src = 'https://cdn4.i-scmp.com/sites/all/libraries/webfrontloader/webfontloader.js';
+    var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+    </script>
+<script src="https://cdn4.i-scmp.com/sites/default/files/js/js_Xk8TsyNfILciPNmQPp9sl88cjH71DQWyeHE0MB62KO4.js"></script>
+<script src="https://cdn4.i-scmp.com/sites/default/files/js/js_SaQzIZz6WeGFjn73wO1o0m3DFc51JE5klZyF6UReJnY.js"></script>
+<script src="https://ad.crwdcntrl.net/5/c=11028/pe=y/var=lotccauds"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-6891676-1", {"cookieDomain":"auto"});ga("set", "dimension1", "anonymous user");ga("set", "dimension2", "25 Oct 2017");ga("set", "dimension3", "Kinling Lo");ga("set", "dimension4", "News, China, Policies \u0026 Politics, Diplomacy \u0026 Defence");ga("set", "dimension5", "China\u0027s leadership reshuffle 2017, China\u0027s leadership reshuffle 2017: All articles, China\u0027s leadership reshuffle 2017: Profiles, China\u0027s leadership re");ga("set", "dimension8", "Wang Huning: the low-profile, liberal dream weaver who\u2019s about to become China\u2019s ideology tsar");ga("set", "dimension9", "Wang Huning: the liberal set to be China\u2019s ideology tsar");ga("set", "dimension10", "Low-profile ideas man is now nation\u2019s propaganda tsar");ga("set", "dimension11", "2116964");ga("set", "dimension13", "Editorial");ga("set", "dimension15", "Staff");ga("set", "dimension16", "Yes");ga("set", "dimension23", "323491, 323517, 325592, 323486");    if ( typeof lotccauds !== 'undefined' ) {
+      if ( typeof lotccauds.Profile.pid !== 'undefined' && lotccauds.Profile.pid !== ''){
+        ga("set", "dimension18", lotccauds.Profile.pid );
+      }
+      if ( typeof lotccauds.Profile.Audiences.Audience !== 'undefined' && JSON.stringify(lotccauds.Profile.Audiences.Audience) !== '[]'){
+        var lotameAudienceData = '';
+        for ( var propLv1 in lotccauds.Profile.Audiences.Audience ){
+          if ( typeof lotccauds.Profile.Audiences.Audience[propLv1] === 'object' ){
+              for ( var propLv2 in lotccauds.Profile.Audiences.Audience[propLv1] ){
+                if ( lotameAudienceData !== '' ){
+                  lotameAudienceData += ', '
+                }
+              lotameAudienceData += propLv2 + ":" + lotccauds.Profile.Audiences.Audience[propLv1][propLv2];
+              }
+          }
+        }
+        ga("set", "dimension25", lotameAudienceData );
+      }
+    }trackSmartnews();
+  ga('require', 'eventTracker');
+  ga('require', 'impressionTracker', gaSCMPImpressionTrackerIds);
+  // Track AdBlock
+  ga('provide', 'adblockTracker', function(tracker, opts) {
+    var status = 'adBlockDisabled';
+    var ad = document.createElement('ins');
+    ad.className = 'AdSense';
+    ad.style.display = 'block';
+    ad.style.position = 'absolute';
+    ad.style.top = '-1px';
+    ad.style.height = '1px';
+    document.body.appendChild(ad);
+    if (!ad.clientHeight) {
+      status = 'adBlockEnabled';
+    }
+    tracker.set('dimension' + opts.dimensionIndex, status);
+    document.body.removeChild(ad);
+  });
+  ga('require', 'adblockTracker', {dimensionIndex: 7});
+  // Track internal search
+  ga('provide', 'internalSearchTracker', function(tracker, opts) {
+    if (typeof document.referrer == 'undefined') {
+      return;
+    }
+    if (window.location.pathname.indexOf('content/search') > -1) {
+      return;
+    }
+    var keyword = '';
+    var a = document.createElement('a');
+    a.href = document.referrer;
+    if (a.host.indexOf('scmp.com') > -1 && a.pathname.indexOf('content/search') > -1) {
+      keyword = decodeURIComponent(a.pathname.replace('/content/search/', ''));
+      tracker.set('dimension' + opts.dimensionIndex, keyword);
+    }
+    a = '';
+  });
+  ga('require', 'internalSearchTracker', {dimensionIndex: 12});
+// Google Optimize
+ga('require', 'GTM-5LK5SJK');
+ga("send", "pageview");</script>
+<script src="https://cdn4.i-scmp.com/sites/default/files/js/js_MSzCPggjKRuqCr4iK6HaEaNce8ic7mQXAAFT5ekAbtE.js"></script>
+<script>  if (typeof dataLayer !== 'undefined') {
+    var dataLayer = dataLayer || [];
+    dataLayer.push({"publishedDate":"25 Oct 2017","authorName":"Kinling Lo","sections":"News, China, Policies \u0026 Politics, Diplomacy \u0026 Defence","topics":"China\u0027s leadership reshuffle 2017, China\u0027s leadership reshuffle 2017: All articles, China\u0027s leadership reshuffle 2017: Profiles, China\u0027s leadership re","headline":"Wang Huning: the low-profile, liberal dream weaver who\u2019s about to become China\u2019s ideology tsar","socialHeadline":"Wang Huning: the liberal set to be China\u2019s ideology tsar","printHeadline":"Low-profile ideas man is now nation\u2019s propaganda tsar","nodeId":"2116964","sponsoredStatus":"Editorial","writer":"Staff","copyright":"Yes","topicId":"323491, 323517, 325592, 323486","role":"anonymous user"});
+  }</script>
+<script>  if (typeof dataLayer !== 'undefined') {
+    var dataLayer = dataLayer || [];
+    dataLayer.push({"page_info":{"sections":[["News","China","Policies \u0026 Politics"],["News","China","Diplomacy \u0026 Defence"]],"authorName":["Kinling Lo"],"topics":["China\u0027s leadership reshuffle 2017","China\u0027s leadership reshuffle 2017: All articles","China\u0027s leadership reshuffle 2017: Profiles","China\u0027s leadership reshuffle 2017: Rising stars"]}});
+  }</script>
+<script src="https://cdn4.i-scmp.com/sites/default/files/js/js_jy8HQHn15i0kxWGcuzTscG_CsIrH0k8_XcOOcgow0x0.js"></script>
+<script src="https://cdn3.i-scmp.com/sites/default/files/js/js_2-dfZeS7VzwiSPCngneOW1DPAvH4itU4zY7J76VoYzY.js"></script>
+<script src="https://cdn1.i-scmp.com/sites/default/files/js/js_lz4yhxPFAXIl5u9She2zLnJt0XmmSRuJbup3xnrvIUc.js"></script>
+<script>/* Google DoubleClick GPT */
+    (function(){
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();</script>
+<script>(function (d, s) {
+var sf = d.createElement(s); sf.type = 'text/javascript'; sf.async = true;
+sf.src = '//u.alicdn.com/js/aplus_v2.js?v=20170126'; sf.id = 'beacon-aplus';
+sf.setAttribute('exparams','clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx');
+var t = d.getElementsByTagName(s)[0]; t.parentNode.insertBefore(sf, t);
+})(document, 'script');</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"boom","theme_token":"9ydfF2M2D9_qB2xMtPdyawWeMWSfNsB0ozum0iOzlLA","jquery_version":"1.10","js":{"sites\/all\/themes\/boom\/javascripts\/bootstrap-toolkit.js":1,"sites\/all\/themes\/boom\/javascripts\/script.js":1,"sites\/all\/themes\/boom\/javascripts\/equalizer.js":1,"sites\/all\/modules\/custom\/scmp_boom\/js\/idangerous.swiper.min.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/image_caption\/image_caption.min.js":1,"sites\/all\/modules\/custom\/scmp_search\/scmp_search.predict.js":1,"sites\/all\/modules\/custom\/scmp_masthead\/js\/scmp_masthead.js":1,"sites\/all\/modules\/custom\/scmp_cache\/lazyload.js":1,"sites\/all\/themes\/boom\/javascripts\/sticky-article.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/custom\/scmp_footer\/js\/scmp_footer.js":1,"sites\/all\/modules\/custom\/scmp_boom\/js\/article.swiper.js":1,"sites\/all\/modules\/custom\/scmp_boom\/js\/article.swiper.responsive.resize.js":1,"modules\/toolbar\/toolbar.js":1,"sites\/all\/modules\/custom\/scmp_cache\/js\/user.js":1,"sites\/all\/modules\/custom\/scmp_cache\/js\/expire-helper.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1,"sites\/all\/libraries\/jquery-accessible-tabs\/js\/jquery.tabs.min.js":1,"sites\/all\/modules\/custom\/article_levels\/js\/lib\/phpjs.date.js":1,"sites\/all\/modules\/custom\/article_levels\/js\/local-time.js":1,"sites\/all\/modules\/custom\/scmp_megamenus\/js\/megamenus_wrapper.js":1,"sites\/all\/modules\/features\/scmp_fpe\/scmp_fpe.js":1,"sites\/all\/modules\/custom\/scmp_email_to_friends\/js\/email_to_friends.js":1,"sites\/all\/modules\/custom\/scmp_content\/js\/content_insight.js":1,"sites\/all\/modules\/custom\/scmp_quicktabs\/js\/accessible_tabs.js":1,"sites\/all\/modules\/custom\/scmp_gallery\/theme\/js\/scmp_gallery_swiper.js":1,"sites\/all\/modules\/features\/scmp_base\/js\/scmp_base_recaptcha_helper.js":1,"sites\/all\/modules\/custom\/article_levels\/js\/breakout.js":1,"sites\/all\/modules\/custom\/scmp_content\/js\/promo.js":1,"sites\/all\/modules\/custom\/scmp_content\/js\/business_article_sentifi.js":1,"sites\/all\/modules\/custom\/scmp_content\/js\/comscore.js":1,"sites\/all\/modules\/custom\/scmp_newsletter\/js\/newsletter.js":1,"sites\/all\/modules\/custom\/scmp_comments\/scmp_comments_count.js":1,"sites\/all\/modules\/custom\/scmp_login\/js\/scmp_login_validate.js":1,"sites\/all\/modules\/custom\/scmp_login\/js\/scmp_login_regform_tracking.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"5":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/boom\/javascripts\/bootstrap.min.js":1,"sites\/all\/libraries\/lazyload\/lazyload.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/scmp_stats\/includes\/scmp_stats.smartnews.js":1,"sites\/all\/modules\/features\/scmp_base\/scmp_autocomplete.js":1,"sites\/all\/modules\/contrib\/fboauth\/fboauth_popup.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/custom\/scmp_comments\/scmp_comments.js":1,"sites\/all\/libraries\/device_detection\/device.js":1,"sites\/all\/modules\/custom\/scmp_social_widgets\/js\/scmp_social_widgets.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"https:\/\/ad.crwdcntrl.net\/5\/c=11028\/pe=y\/var=lotccauds":1,"12":1,"sites\/all\/libraries\/IntersectionObserver\/intersection-observer-min.js":1,"13":1,"14":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/all\/modules\/custom\/scmp_cache\/js\/toolbar.js":1,"sites\/all\/themes\/boom\/javascripts\/ScrollMagic.min.js":1,"sites\/all\/themes\/boom\/javascripts\/fitvids.js":1,"sites\/all\/themes\/boom\/javascripts\/colorbox.tweaks.js":1,"sites\/all\/themes\/boom\/javascripts\/filestyle.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"15":1,"16":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/scmp_search\/scmp_search.predict.css":1,"sites\/all\/modules\/contrib\/twitter_pull\/twitter-pull-listing.css":1,"sites\/all\/modules\/features\/scmp_panels\/plugins\/layouts\/four_column_nested_grid_article\/four_column_nested_grid_article.css":1,"sites\/all\/modules\/custom\/scmp_masthead\/css\/scmp_masthead.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/custom\/scmp_email_to_friends\/css\/email_to_friends.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"0":1,"sites\/all\/modules\/custom\/scmp_megamenus\/css\/scmp_megamenus.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/twocol_stacked\/twocol_stacked.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/themes\/boom\/stylesheets\/listing_property.css":1,"sites\/all\/modules\/custom\/scmp_insert\/css\/scmp_insert.css":1,"sites\/all\/modules\/custom\/scmp_content\/stylesheets\/promo.css":1,"sites\/all\/modules\/custom\/scmp_boom\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/custom\/scmp_login\/css\/login.css":1,"sites\/all\/modules\/custom\/scmp_boom\/css\/scmp-logo.css":1,"modules\/toolbar\/toolbar.css":1,"modules\/shortcut\/shortcut.css":1,"sites\/all\/modules\/custom\/scmp_content\/chartbeat.css":1,"sites\/all\/modules\/custom\/scmp_gallery\/theme\/styles\/swiper\/scmp_gallery_swiper.css":1,"sites\/all\/modules\/contrib\/hierarchical_select\/hierarchical_select.css":1,"sites\/all\/modules\/custom\/scmp_footer\/css\/scmp_footer.css":1,"https:\/\/cdn4.i-scmp.com\/sites\/all\/themes\/boom\/stylesheets\/bootstrap.min.css?v=1":1,"sites\/all\/themes\/boom\/stylesheets\/styles.css":1,"sites\/all\/themes\/boom\/stylesheets\/overrides.css":1,"public:\/\/css_injector\/css_injector_40.css":1,"public:\/\/css_injector\/css_injector_44.css":1,"public:\/\/css_injector\/css_injector_46.css":1}},"chartbeat":{"uid":34625,"domain":"scmp.com","sections":"articles only, News, China, Policies \u0026amp; Politics, Diplomacy \u0026amp; Defence, desktop","authors":"Kinling Lo","playerdomain":"widgets.scmp.com","path":"scmp.com\/news\/china\/policies-politics\/article\/2116964\/wang-huning-low-profile-liberal-dream-weaver-whos-about","title":"Wang Huning: the low-profile, liberal dream weaver who\u2019s about to become China\u2019s ideology tsar"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true,"__drupal_alter_by_ref":["sites\/all\/libraries\/colorbox\/example1"]},"comment":{"authorized":false,"count":"0","mode":"2"},"cr":{"txt":"\u003Cdiv class=\u0022bg-wrapper\u0022\u003E\u003Cimg class=\u0022bg\u0022 src=\u0022\/sites\/all\/themes\/scmp\/images\/lightbox\/meter-full.jpg\u0022 \/\u003E\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022popup-content\u0022\u003E\r\n\u003Ch1\u003ECookies required\u003C\/h1\u003E\r\n\r\n\u003Ch2\u003ECookies are required to login.\u003C\/h2\u003E\r\n\r\n\u003Cp\u003EPlease enable your cookies and then try logging in again.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022popout-footer\u0022\u003EMore info on \u003Ca href=\u0022http:\/\/support.google.com\/accounts\/bin\/answer.py?hl=en\u0026amp;answer=61416\u0022 style=\u0022color: black;\u0022\u003Ehow to enable cookies\u003C\/a\u003E\u003C\/div\u003E\r\n"},"scmpSearch":{"active":false},"scmp_comments_pager":"\u003Cdiv id=\u0022scmp-comments-pager-wrapper\u0022\u003E\u003Ca href=\u0022\/scmp_comments\/fetch\/2116964\/1\/recommended\u0022 class=\u0022scmp-comments-pager use-ajax\u0022 data-nid=\u00222116964\u0022 data-page=\u00221\u0022 data-sort=\u0022recommended\u0022\u003EMore comments\u003C\/a\u003E\u003C\/div\u003E","urlIsAjaxTrusted":{"\/":true,"\/news\/china\/policies-politics\/article\/2116964\/wang-huning-low-profile-liberal-dream-weaver-whos-about":true},"article_swiper":{"carousel-54c5eadad2":{"carousel_unique_id":"carousel-54c5eadad2","carousel_slideshow_items":"12","carousel_slides_per_view":1,"carousel_speed":"300","carousel_render_mode":"horizontal","carousel_loop_mode":false,"carousel_arrows":false,"carousel_auto_play":false,"carousel_auto_play_disable_interaction":1,"carousel_free_mode_fluid":false,"carousel_scroll_container":false,"carousel_calculate_height":1,"carousel_pager_css":"pager-carousel-54c5eadad2","carousel_create_pagination":1,"carousel_slides_per_group":1,"carousel_responsive":true,"horizontal_tower_mode":false,"carousel_responsive_render_one":false}},"article_swiper_responsive":{"carousel-54c5eadad2":true},"scmp_advert_gpt":{"slots":{"slot59f2e8dee4dac":{"id":"div-gpt-ad-59f2e8dee4dac","slot":"59f2e8dee4dac","fluid":0,"zone":"china\/policiespolitics\/article","pos":"0","oop":0,"breakpoint":0,"w":300,"h":100},"slot59f2e8dee6f2a":{"id":"div-gpt-ad-59f2e8dee6f2a","slot":"59f2e8dee6f2a","fluid":0,"zone":"china\/policiespolitics\/article","pos":"0","oop":0,"breakpoint":0,"w":300,"h":250},"slot59f2e8e0a41fe":{"id":"div-gpt-ad-59f2e8e0a41fe","slot":"59f2e8e0a41fe","fluid":0,"zone":"china\/policiespolitics\/article","pos":"0","oop":0,"breakpoint":0,"w":301,"h":251},"slot59f2e8e23948d":{"id":"div-gpt-ad-59f2e8e23948d","slot":"59f2e8e23948d","fluid":0,"zone":"china\/policiespolitics\/article","pos":"0","oop":0,"breakpoint":0,"w":655,"h":314},"slot59f2f2c7f37f8":{"id":"div-gpt-ad-59f2f2c7f37f8","slot":"59f2f2c7f37f8","fluid":0,"zone":"china\/policiespolitics\/article","pos":"0","oop":0,"breakpoint":0,"w":970,"h":90,"sizes":{"1":{"w":970,"h":250}}},"slot59f2f2c8052bb":{"id":"div-gpt-ad-59f2f2c8052bb","slot":"59f2f2c8052bb","fluid":0,"zone":"china\/policiespolitics\/article","pos":"1","oop":1,"breakpoint":0,"w":1,"h":1},"slot59f2f2c805755":{"id":"div-gpt-ad-59f2f2c805755","slot":"59f2f2c805755","fluid":0,"zone":"china\/policiespolitics\/article","pos":"2","oop":1,"breakpoint":0,"w":1,"h":1}},"global":{"network_code":"8134","com_prefix":"scmp\/desktop","m_prefix":"mscmp\/mobile","app_prefix":"mscmp\/apps","tablet_prefix":"mscmp\/tablet","default_ad_unit":"homepage\/hk","location":0,"m_location":0,"async":1,"sra":1,"collapse":1,"prebid":{"enable":1,"config":"{\u0022timeout\u0022:1500,\u0022bidders\u0022:[{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022467649\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211552990\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022zoneId\u0022:\u00221077815\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211552985\u0022},\u0022targetSizes\u0022:[\u0022970x90\u0022]},{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022468681\u0022},\u0022targetSizes\u0022:[\u0022970x90\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022zoneId\u0022:\u00221077816\u0022},\u0022targetSizes\u0022:[\u0022970x90\u0022]},{\u0022bidder\u0022:\u0022rubicon\u0022,\u0022params\u0022:{\u0022accountId\u0022:\u002216912\u0022,\u0022siteId\u0022:\u0022150206\u0022,\u0022zoneId\u0022:\u0022712552\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022ucfunnel\u0022,\u0022params\u0022:{\u0022adid\u0022:\u0022ad-488988B4992B32ACE8E4443DB366D33\u0022,\u0022width\u0022:\u0022970\u0022,\u0022height\u0022:\u0022250\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211531076\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022zoneId\u0022:\u00221077813\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022467644\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022rubicon\u0022,\u0022params\u0022:{\u0022accountId\u0022:\u002216912\u0022,\u0022siteId\u0022:\u0022150206\u0022,\u0022zoneId\u0022:\u0022712552\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022ucfunnel\u0022,\u0022params\u0022:{\u0022adid\u0022:\u0022ad-9884E88637B3D3204B8D6A29626327D\u0022,\u0022width\u0022:\u0022300\u0022,\u0022height\u0022:\u0022250\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022zoneId\u0022:\u00221077814\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211552998\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]},{\u0022bidder\u0022:\u0022rubicon\u0022,\u0022params\u0022:{\u0022accountId\u0022:\u002216912\u0022,\u0022siteId\u0022:\u0022150206\u0022,\u0022zoneId\u0022:\u0022712554\u0022,\u0022sizes\u0022:[15]},\u0022targetSizes\u0022:[\u0022301x251\u0022]},{\u0022bidder\u0022:\u0022ucfunnel\u0022,\u0022params\u0022:{\u0022adid\u0022:\u0022ad-6AA66DDB99692A7FE3247AB87B7B8E8\u0022,\u0022width\u0022:\u0022300\u0022,\u0022height\u0022:\u0022250\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]},{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022501047\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]}]}"},"mdot_prebid":{"mdot_enable":0,"mdot_config":"{\u0022timeout\u0022:1500,\u0022bidders\u0022:[{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022467649\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211552990\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022networkId\u0022:\u00225146\u0022,\u0022zoneId\u0022:\u00221077815\u0022},\u0022targetSizes\u0022:[\u0022970x250\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211552985\u0022},\u0022targetSizes\u0022:[\u0022970x90\u0022]},{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022468681\u0022},\u0022targetSizes\u0022:[\u0022970x90\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022networkId\u0022:\u00225146\u0022,\u0022zoneId\u0022:\u00221077816\u0022},\u0022targetSizes\u0022:[\u0022970x90\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211531076\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022networkId\u0022:\u00225146\u0022,\u0022zoneId\u0022:\u00221077813\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022467644\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022rubicon\u0022,\u0022params\u0022:{\u0022accountId\u0022:\u002216912\u0022,\u0022siteId\u0022:\u0022150206\u0022,\u0022zoneId\u0022:\u0022712552\u0022},\u0022targetSizes\u0022:[\u0022300x250\u0022]},{\u0022bidder\u0022:\u0022criteo\u0022,\u0022params\u0022:{\u0022networkId\u0022:\u00225146\u0022,\u0022zoneId\u0022:\u00221077814\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]},{\u0022bidder\u0022:\u0022appnexus\u0022,\u0022params\u0022:{\u0022placementId\u0022:\u002211552998\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]},{\u0022bidder\u0022:\u0022sovrn\u0022,\u0022params\u0022:{\u0022tagid\u0022:\u0022501047\u0022},\u0022targetSizes\u0022:[\u0022301x251\u0022]}]}"},"targeting":{"scnid":"2116964","scsection":"News, China, Policies \u0026 Politics, Diplomacy \u0026 Defence","sctid":["323491"]}}},"scmp_quicktabs":{"qt_most_popular":{"name":"most_popular","active_tab":0,"options":[]}},"scmp_megamenus":["china_megamenu","hong_kong_megamenu","asia_megamenu","world_megamenu","opinion_megamenu","business_megamenu","tech_megamenu","lifestyle_megamenu","culture_megamenu","sport_megamenu","thisweekinasia_megamenu","postmagazine_megamenu","style_megamenu","video_megamenu_v2"],"scmp_footer":{"current_product":"cc"},"colorbox_promo":{"colorbox_promo_6":{"msg":{"value":"\u003Ch2 class=\u0022layer-title\u0022\u003EReimagined.\u003Cbr \/\u003E\r\nLudicrously fast.\u003Cbr \/\u003E\r\nIncredibly stable\u003C\/h2\u003E\r\n\r\n\u003Cp class=\u0022info\u0022\u003EWe promise you\u0026rsquo;ll love our brand new iPad app\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022download-button\u0022\u003E\u003Ca href=\u0022https:\/\/itunes.apple.com\/hk\/app\/scmp-news-pulse\/id623201967?mt=8\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022Download via the app store\u0022 class=\u0022appstore-image\u0022 src=\u0022\/sites\/all\/modules\/features\/scmp_panels_page_intro_mobile\/images\/v3\/badge1_apple@2x.png\u0022 \/\u003E \u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022donotshow\u0022\u003E\u003Cinput id=\u0022colorbox_msg_hide\u0022 name=\u0022colorbox_msg_hide\u0022 type=\u0022checkbox\u0022 \/\u003E\u003Clabel for=\u0022colorbox_msg_hide\u0022\u003EDo not show me this message again\u003C\/label\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022ipad-image\u0022\u003E\u003Ca href=\u0022https:\/\/itunes.apple.com\/hk\/app\/scmp-news-pulse\/id623201967?mt=8\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022iPad\u0022 class=\u0022appstore-image\u0022 src=\u0022\/sites\/all\/modules\/features\/scmp_panels_page_intro_mobile\/images\/v3\/ipad-2x.png\u0022 \/\u003E \u003C\/a\u003E\u003C\/p\u003E\r\n","format":"full_html"},"width":"520","height":"700","priority":0,"targetting":{"device":"iPad","referrer":"","mediaquery":0},"display":{"once":0,"cookie_id":"cbox_1"},"index":"6","cookie":"Drupal.visitor.cbox_1","delta":"colorbox_promo_6"},"colorbox_promo_7":{"msg":{"value":"\u003Ch2 class=\u0022layer-title\u0022\u003EReimagined.\u003Cbr \/\u003E\r\nLudicrously fast.\u003Cbr \/\u003E\r\nIncredibly stable\u003C\/h2\u003E\r\n\r\n\u003Cp class=\u0022info\u0022\u003EWe promise you\u0026rsquo;ll love our brand new\u003Cbr \/\u003E\r\nandroid tablet app\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022download-button\u0022\u003E\u003Ca href=\u0022https:\/\/play.google.com\/store\/apps\/details?id=com.scmp.newspulse\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022Download via the app store\u0022 class=\u0022appstore-image\u0022 src=\u0022\/sites\/all\/modules\/features\/scmp_panels_page_intro_mobile\/images\/v3\/btn_google-2x.png\u0022 style=\u0022width: 195px; height: 60px;\u0022 \/\u003E \u003C\/a\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022donotshow\u0022\u003E\u003Cinput id=\u0022colorbox_msg_hide\u0022 name=\u0022colorbox_msg_hide\u0022 type=\u0022checkbox\u0022 \/\u003E\u003Clabel for=\u0022colorbox_msg_hide\u0022\u003EDo not show me this message again\u003C\/label\u003E\u003C\/p\u003E\r\n\r\n\u003Cp class=\u0022ipad-image\u0022\u003E\u003Ca href=\u0022https:\/\/play.google.com\/store\/apps\/details?id=com.scmp.newspulse\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022Android Tablet\u0022 class=\u0022appstore-image\u0022 src=\u0022\/sites\/all\/modules\/features\/scmp_panels_page_intro_mobile\/images\/v3\/android-2x.png\u0022 style=\u0022width: 211px; height: 312px;\u0022 \/\u003E \u003C\/a\u003E\u003C\/p\u003E\r\n","format":"full_html"},"width":"520","height":"700","priority":0,"targetting":{"device":"Android Tablet","referrer":"","mediaquery":0},"display":{"once":0,"cookie_id":""},"index":"7","cookie":"Drupal.visitor.cbox_7","delta":"colorbox_promo_7"}},"theme":"boom","nid":"2116964","media":"https:\/\/cdn4.i-scmp.com\/sites\/default\/files\/styles\/980x660\/public\/images\/methode\/2017\/10\/26\/b28cc070-b7da-11e7-affb-32c8d8b6484e_image_hires_113429.jpg?itok=uQ_VHSBp","fpe":{"HK":"\/frontpage\/hk","O1":"\/frontpage\/international"},"newsletter":{"tids":[[{"tid":"322279","name":"China at a Glance","description":"Daily China news and opinion.\n\n"},{"tid":"322277","name":"SCMP Today: Intl Edition","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323063","name":"This Week in Asia","description":"Expert opinion on the state of play in Asia.\n\n"},{"tid":"20916","name":"SCMP Today: HK Edition","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"}],[{"tid":"322417","name":"SCMP Focus","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323473","name":"Breaking News Alerts","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"324915","name":"SCMP Exclusives","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"324679","name":"HK Morning Briefing","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"324680","name":"US Morning Briefing","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"322278","name":"Tech Wrap","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323740","name":"Hong Kong News","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"322280","name":"Life \u0026 Culture","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323850","name":"Opinion","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"324615","name":"Long Reads","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"325094","name":"SCMP Education","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"322992","name":"STYLE","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"322743","name":"Post Magazine","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323511","name":"Video","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"324669","name":"In Pictures","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"324789","name":"OffBeat","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323665","name":"Racing News","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"323770","name":"Best Bets","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"},{"tid":"322281","name":"LuxeHomes","description":"Today\u0027s news from HK, Asia, China and Culture.\n\n"}]]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"boomLazyLoad":{"fadein":false},"scmpRecaptchaSiteKey":"6LcMcSYTAAAAAKb2ambL8p4ASF63EZp4TVm1-dKX","date_formats":{"birthday":"F j","long":"l, d F, Y, g:ia","magazine_issue":"j M Y","medium":"M jS Y, g:ia","scmp_brief":"j M - g:ia","scmp_long":"l, j F, Y, g:ia","scmp_medium":"F j, Y","scmp_short":"j M Y","scmp_standard":"j M Y - g:ia","short":"M jS Y, g:ia"},"comscore":{"c1":"2","c2":"6687883"},"scmpShareURL":"http:\/\/sc.mp\/R1n4yp","tableHeaderOffset":"Drupal.toolbar.height","trids":["3","6","8","9","10","13"],"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script type="text/javascript" src="/sites/all/modules/custom/scmp_advert/prebid.js?h=oy3b9p"></script>
+<script type="text/javascript" src="https://cdn3.i-scmp.com/sites/all/modules/custom/scmp_advert/scmp_advert_gpt_async.js?h=oy3b9p"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2116964 node-type-article article-type- article-with-topics article-with-topics-banner theme-boom npw no-paywall" >
+<!-- Google Tag Manager -->
+<noscript><iframe data-original="//www.googletagmanager.com/ns.html?id=GTM-MPL4SR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MPL4SR');</script>
+<!-- End Google Tag Manager -->
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="region region-page-top">
+    <div id="page-toolbar-container"></div><div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "282931841805811",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         oauth : true,
+         version    : 'v2.3'
+         });
+
+         FB.Event.subscribe("edge.create", function(href, widget) {
+_gaq.push(["_trackEvent", "Facebook like", "Drupal", href]);
+});
+
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script>  </div>
+  <header role="banner" class="container-fluid" id="page-header">
+    <div class="region region-header">
+    <section id="block-panels-mini-masthead-boom" class="block block-panels-mini clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" id="mini-panel-masthead_boom">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-scmp-masthead-pane pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="masthead" class="masthead-v2 masthead-v2-with-title">
+  <div class="masthead-top container">
+    <div class="masthead-top-left">
+            <a href="/home" rel="home" id="logo" class="logo-slim font-scmp-logo-flag font-scmp-logo-slim" title="Home">South China Morning Post</a>
+                  <div class="masthead-edition" id="edition">
+      <h2><span class="label">Edition: </span><span class="edition">International</span></h2><ul class="scmp-edition"><li class="HK first active"><a href="/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?edition=hong-kong" data-edition="HK" class="active">Hong Kong</a></li>
+<li class="O1 last active"><a href="/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about?edition=international" data-edition="O1" class="active">International</a></li>
+</ul>      </div>
+          </div>
+    <div class="masthead-top-right">
+      <div class="masthead-date-info">
+        <ul class="date-info">
+          <li class="day"><time data-date-format="D"></time></li>
+          <li class="date"><time data-date-format="M j, Y"></time></li>
+        </ul>
+      </div>
+            <div class="masthead-top-menu">
+      <ul class="menu nav"><li class="first leaf menu-46362"><a href="http://www.cpjobs.com/hk/?utm_source=scmp_nav" target="_blank">Jobs</a></li>
+<li class="leaf menu-46363"><a href="http://events.scmp.com" target="_blank">Events</a></li>
+<li class="last leaf menu-62687"><a href="/newsletter">Newsletters</a></li>
+</ul>      </div>
+          </div>
+  </div>
+  <div class="masthead-bottom container">
+    <div class="masthead-bottom-left">
+      <div class="masthead-title">
+        <h2><a href="/news/china/policies-politics">Policies &amp; Politics</a></h2>      </div>
+    </div>
+    <div class="masthead-bottom-right">
+                        <div class="masthead-user-menu">
+        <ul class="menu"><li class="reg"><a href="https://www.scmp.com/user/register">Register</a></li><li> / </li><li class="login"><a href="https://www.scmp.com/user/login">Login</a></li></ul>      </div>
+                  <div class="masthead-search">
+        <div class="scmp-icon-search" title="Search SCMP">
+        <div class="masthead-popup-arrow"></div><form action="/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" method="post" id="apachesolr-panels-search-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-apachesolr-panels-search-form form-item form-group">
+  <label class="element-invisible control-label" for="edit-apachesolr-panels-search-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" data-toggle="tooltip" type="text" id="edit-apachesolr-panels-search-form--2" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" />
+</div>
+<input type="hidden" name="form_build_id" value="form-pjN7XvXDZiooHPvVuWGuf-O1aXqzmVr3dyFpQ1OUc38" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_form" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button id="edit-submit" name="op" value="&quot;" type="submit" class="btn btn-default form-submit">"</button>
+</div></div></form>        </div>
+      </div>
+                          <a href="https://www.scmp.com/user/simplenews" class="scmp-icon-enews" title="SIGN UP FOR eNEWSLETTER"><div class="masthead-popup-arrow"></div><div class="masthead-popup">SIGN UP FOR eNEWSLETTER</div></a>          </div>
+  </div>
+  <nav role="navigation" class="masthead-main-nav navbar navbar-default">
+    <div class="masthead-main-menu container">
+    <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="menu-46357 first"><a href="/">Home</a></li>
+<li class="menu-46609"><a href="/news/china" class="color2 scmp-megamenu scmp-megamenu-46609" data-megamenu="china_megamenu">China</a></li>
+<li class="menu-46610"><a href="/news/hong-kong" class="color3 scmp-megamenu scmp-megamenu-46610" data-megamenu="hong_kong_megamenu">HK</a></li>
+<li class="menu-46611"><a href="/news/asia" class="color4 scmp-megamenu scmp-megamenu-46611" data-megamenu="asia_megamenu">Asia</a></li>
+<li class="menu-57591"><a href="/news/world" class="color1 scmp-megamenu scmp-megamenu-57591" data-megamenu="world_megamenu">World</a></li>
+<li class="menu-46613"><a href="/comment" class="color1 scmp-megamenu scmp-megamenu-46613" data-megamenu="opinion_megamenu">Comment</a></li>
+<li class="menu-46612"><a href="/business" class="color1 scmp-megamenu scmp-megamenu-46612" data-megamenu="business_megamenu">Business</a></li>
+<li class="menu-46615"><a href="/tech" class="color3 scmp-megamenu scmp-megamenu-46615" data-megamenu="tech_megamenu">Tech</a></li>
+<li class="menu-46614"><a href="/lifestyle" class="color3 scmp-megamenu scmp-megamenu-46614" data-megamenu="lifestyle_megamenu">Life</a></li>
+<li class="menu-57592"><a href="/culture" class="color3 scmp-megamenu scmp-megamenu-57592" data-megamenu="culture_megamenu">Culture</a></li>
+<li class="menu-46616"><a href="/sport" class="color3 scmp-megamenu scmp-megamenu-46616" data-megamenu="sport_megamenu">Sport</a></li>
+<li class="menu-64671"><a href="/week-asia" title="This Week in Asia" class="color14 scmp-megamenu scmp-megamenu-0" data-megamenu="thisweekinasia_megamenu">Week in asia</a></li>
+<li class="menu-60917"><a href="/magazines/post-magazine" class="dark-megamenu color6 scmp-megamenu scmp-megamenu-60917" data-megamenu="postmagazine_megamenu">Post Mag</a></li>
+<li class="menu-60918"><a href="/magazines/style" class="dark-megamenu color13 scmp-megamenu scmp-megamenu-60918" data-megamenu="style_megamenu">Style</a></li>
+<li class="menu-46617"><a href="/video" class="dark-megamenu scmp-megamenu scmp-megamenu-46617" data-megamenu="video_megamenu_v2">.TV</a></li>
+<li class="menu-47581 masthead-asmenu-item last"><span class="masthead-asmenu-link nolink">All</span></li>
+</ul>    </div>
+  </nav>
+  <nav role="navigation" class="masthead-main-sticky-nav navbar navbar-default">
+    <div class="container">
+      <div class="masthead-main-sticky-nav-left pull-left clearfix">
+                <a href="/home" rel="home" class="logo logo-smallest pull-left font-scmp-logo-flag font-scmp-logo-smallest" title="Home">South China Morning Post</a>
+                <div class="masthead-sticky-main-menu">
+        <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="menu-46609 first"><a href="/news/china" class="color2 scmp-megamenu scmp-megamenu-46609" data-megamenu="china_megamenu">China</a></li>
+<li class="menu-46610"><a href="/news/hong-kong" class="color3 scmp-megamenu scmp-megamenu-46610" data-megamenu="hong_kong_megamenu">HK</a></li>
+<li class="menu-46611"><a href="/news/asia" class="color4 scmp-megamenu scmp-megamenu-46611" data-megamenu="asia_megamenu">Asia</a></li>
+<li class="menu-57591"><a href="/news/world" class="color1 scmp-megamenu scmp-megamenu-57591" data-megamenu="world_megamenu">World</a></li>
+<li class="menu-46613"><a href="/comment" class="color1 scmp-megamenu scmp-megamenu-46613" data-megamenu="opinion_megamenu">Comment</a></li>
+<li class="menu-46612"><a href="/business" class="color1 scmp-megamenu scmp-megamenu-46612" data-megamenu="business_megamenu">Business</a></li>
+<li class="menu-46615"><a href="/tech" class="color3 scmp-megamenu scmp-megamenu-46615" data-megamenu="tech_megamenu">Tech</a></li>
+<li class="menu-46614"><a href="/lifestyle" class="color3 scmp-megamenu scmp-megamenu-46614" data-megamenu="lifestyle_megamenu">Life</a></li>
+<li class="menu-57592"><a href="/culture" class="color3 scmp-megamenu scmp-megamenu-57592" data-megamenu="culture_megamenu">Culture</a></li>
+<li class="menu-46616"><a href="/sport" class="color3 scmp-megamenu scmp-megamenu-46616" data-megamenu="sport_megamenu">Sport</a></li>
+<li class="menu-64671"><a href="/week-asia" title="This Week in Asia" class="color14 scmp-megamenu scmp-megamenu-0" data-megamenu="thisweekinasia_megamenu">Week in asia</a></li>
+<li class="menu-60917"><a href="/magazines/post-magazine" class="dark-megamenu color6 scmp-megamenu scmp-megamenu-60917" data-megamenu="postmagazine_megamenu">Post Mag</a></li>
+<li class="menu-60918"><a href="/magazines/style" class="dark-megamenu color13 scmp-megamenu scmp-megamenu-60918" data-megamenu="style_megamenu">Style</a></li>
+<li class="menu-46617 last"><a href="/video" class="dark-megamenu scmp-megamenu scmp-megamenu-46617" data-megamenu="video_megamenu_v2">.TV</a></li>
+</ul>        </div>
+      </div>
+      <div class="masthead-main-sticky-nav-right pull-right clearfix">
+                <div class="masthead-search">
+          <div class="scmp-icon-search" title="Search SCMP">
+          <div class="masthead-popup-arrow"></div><form action="/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" method="post" id="apachesolr-panels-search-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-apachesolr-panels-search-form form-item form-group">
+  <label class="element-invisible control-label" for="edit-apachesolr-panels-search-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" data-toggle="tooltip" type="text" id="edit-apachesolr-panels-search-form--2" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" />
+</div>
+<input type="hidden" name="form_build_id" value="form-pjN7XvXDZiooHPvVuWGuf-O1aXqzmVr3dyFpQ1OUc38" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_form" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button id="edit-submit" name="op" value="&quot;" type="submit" class="btn btn-default form-submit">"</button>
+</div></div></form>          </div>
+        </div>
+              </div>
+    </div>
+        <div class="fluid-container">
+      <div class="container">
+        <div class="article-row">
+          <div class="panel-pane pane-panels-mini pane-share-widgets-article "  >
+  
+  
+      <h2 class="pane-title"><div class="addthis_total_count">Share</div></h2>
+  
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-share_widgets_article">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-scmp-social-widgets-addthis pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="pane-scmp-social-widgets-addthis addthis-wrapper addthis_toolbox"><a class="addthis_button_facebook"><span class="icon scmp-icon-facebook"></span></a>
+<a class="addthis_button_twitter"><span class="icon scmp-icon-twitter"></span></a>
+<a class="addthis_button_reddit"><span class="icon scmp-icon-reddit"></span></a>
+<a class="addthis_button_linkedin"><span class="icon scmp-icon-linkedin"></span></a>
+<a class="addthis_button_google_plusone_share"><span class="icon scmp-icon-google-plus"></span></a>
+<a class="addthis_button_sinaweibo"><span class="icon scmp-icon-weibo"></span></a></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-custom pane-1 pane-comment-count pos-2"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <p><a class="scmp_button_comment" title="Comments" href="#comments"><span class="icon scmp-icon-comment"></span></a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-print-ui-print-links pane-last pos-3"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <span class="print_html"><a href="http://www.scmp.com/print/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" title="Display a printer-friendly version of this page." class="print-page" onclick="window.open(this.href); return false" rel="nofollow">Print</a></span><span class="print_mail"><a href="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" title="Send this page by email." class="print-mail" rel="nofollow">Email</a></span>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="node-title-wrapper"><label>Now Reading</label><div class="node-title">Wang Huning: the low-profile, liberal dream weaver who’s about to become China’s ideology tsar</div></div><a id="comment-count-floating" class="scmp_button_comment" href="#comments" title="Comments"><span class="icon scmp-icon-comment">&nbsp;</span></a>        </div>
+      </div>
+    </div>
+      </nav>
+      <div id="block-panels-mini-masthead-all-section-menu">
+      <div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-masthead_all_section_menu">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first row-1">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-scmp-term-queue-pane pane-first pos-0"  >
+  
+  
+      <h2 class="pane-title"><a href="/news/hong-kong">Hong Kong</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue hong-kong-categories categories ref-2"><li class="item-1 first"><a href="/news/hong-kong/politics" title="Politics" class="tid-318206 term-politics">Politics</a></li>
+<li class="item-2"><a href="/news/hong-kong/economy" title="Economy" class="tid-318210 term-economy">Economy</a></li>
+<li class="item-3"><a href="/news/hong-kong/health-environment" title="Health &amp; Environment" class="tid-318208 term-health--environment">Health &amp; Environment</a></li>
+<li class="item-4"><a href="/news/hong-kong/law-crime" title="Law &amp; Crime" class="tid-318211 term-law--crime">Law &amp; Crime</a></li>
+<li class="item-5"><a href="/news/hong-kong/education" title="Education" class="tid-318207 term-education">Education</a></li>
+<li class="item-6 last"><a href="/news/hong-kong/community" title="Community" class="tid-325061 term-community">Community</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-term-queue-pane pos-1"  >
+  
+  
+      <h2 class="pane-title"><a href="/news/china">China</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue china-categories categories ref-4"><li class="item-1 first"><a href="/news/china/policies-politics" title="Policies &amp; Politics" class="tid-318198 term-policies--politics">Policies &amp; Politics</a></li>
+<li class="item-2"><a href="/news/china/diplomacy-defence" title="Diplomacy &amp; Defence" class="tid-318199 term-diplomacy--defence">Diplomacy &amp; Defence</a></li>
+<li class="item-3"><a href="/news/china/money-wealth" title="Money &amp; Wealth" class="tid-318200 term-money--wealth">Money &amp; Wealth</a></li>
+<li class="item-4"><a href="/news/china/economy" title="Economy" class="tid-318421 term-economy">Economy</a></li>
+<li class="item-5"><a href="/news/china/society" title="Society" class="tid-318202 term-society">Society</a></li>
+<li class="item-6"><a href="/tech" title="Tech" class="tid-36 term-tech">Tech</a></li>
+<li class="item-7 last"><a href="/week-asia" title="This Week in Asia" class="tid-323045 term-this-week-in-asia">This Week in Asia</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-term-queue-pane pane-last pos-2"  >
+  
+  
+      <h2 class="pane-title"><a href="/news">News</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue news-categories categories ref-91"><li class="item-1 first"><a href="/news/asia" title="Asia" class="tid-3 term-asia">Asia</a></li>
+<li class="item-2 last"><a href="/news/world" title="World" class="tid-5 term-world">World</a></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-new-row_2 row-2">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-row_2-inside">
+<div class="panel-pane pane-scmp-term-queue-pane pane-first pos-0"  >
+  
+  
+      <h2 class="pane-title"><a href="/business">Business</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue business-categories categories ref-92"><li class="item-1 first"><a href="/business/companies" title="Companies" class="tid-10 term-companies">Companies</a></li>
+<li class="item-2"><a href="/business/markets" title="Markets" class="tid-318484 term-markets">Markets</a></li>
+<li class="item-3"><a href="/property" title="Property" class="tid-96 term-property">Property</a></li>
+<li class="item-4"><a href="/business/investor-relations" title="Investor Relations" class="tid-7 term-investor-relations">Investor Relations</a></li>
+<li class="item-5"><a href="/business/global-economy" title="Global Economy" class="tid-12 term-global-economy">Global Economy</a></li>
+<li class="item-6"><a href="/news/china/economy" title="China Economy" class="tid-318421 term-china-economy">China Economy</a></li>
+<li class="item-7"><a href="/news/china/money-wealth" title="Money &amp; Wealth" class="tid-318200 term-money--wealth">Money &amp; Wealth</a></li>
+<li class="item-8"><a href="/special-reports" title="Special Reports" class="tid-322954 term-special-reports">Special Reports</a></li>
+<li class="item-9 last"><a href="/country-reports" title="Country Reports" class="tid-323481 term-country-reports">Country Reports</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-term-queue-pane pane-last pos-1"  >
+  
+  
+      <h2 class="pane-title"><a href="/tech">Tech</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue tech-categories categories ref-36"><li class="item-1 first"><a href="/tech/china-tech" title="China Tech" class="tid-320663 term-china-tech">China Tech</a></li>
+<li class="item-2"><a href="/tech/enterprises" title="Enterprises" class="tid-318218 term-enterprises">Enterprises</a></li>
+<li class="item-3"><a href="/tech/social-gadgets" title="Social &amp; Gadgets" class="tid-318219 term-social--gadgets">Social &amp; Gadgets</a></li>
+<li class="item-4"><a href="/tech/start-ups" title="Start-ups" class="tid-318220 term-start-ups">Start-ups</a></li>
+<li class="item-5"><a href="/tech/apps-gaming" title="Apps &amp; Gaming" class="tid-318221 term-apps--gaming">Apps &amp; Gaming</a></li>
+<li class="item-6"><a href="/tech/innovation" title="Innovation" class="tid-318222 term-innovation">Innovation</a></li>
+<li class="item-7"><a href="/tech/leaders-founders" title="Leaders &amp; Founders" class="tid-318223 term-leaders--founders">Leaders &amp; Founders</a></li>
+<li class="item-8 last"><a href="/tech/science-research" title="Science &amp; Research" class="tid-318224 term-science--research">Science &amp; Research</a></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-new-row_3 row-3">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-row_3-inside">
+<div class="panel-pane pane-scmp-term-queue-pane pane-first pos-0"  >
+  
+  
+      <h2 class="pane-title"><a href="/lifestyle">Lifestyle</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue lifestyle-categories categories ref-94"><li class="item-1 first"><a href="/lifestyle/fashion-luxury" title="Fashion &amp; Luxury" class="tid-28 term-fashion--luxury">Fashion &amp; Luxury</a></li>
+<li class="item-2"><a href="/lifestyle/travel-leisure" title="Travel &amp; Leisure" class="tid-37 term-travel--leisure">Travel &amp; Leisure</a></li>
+<li class="item-3"><a href="/lifestyle/motoring" title="Motoring" class="tid-35 term-motoring">Motoring</a></li>
+<li class="item-4"><a href="/lifestyle/families" title="Families" class="tid-29 term-families">Families</a></li>
+<li class="item-5"><a href="/lifestyle/food-drink" title="Food &amp; Drink" class="tid-30 term-food--drink">Food &amp; Drink</a></li>
+<li class="item-6"><a href="/lifestyle/health-beauty" title="Health &amp; Beauty" class="tid-24 term-health--beauty">Health &amp; Beauty</a></li>
+<li class="item-7"><a href="/lifestyle/watches" title="Watches" class="tid-318256 term-watches">Watches</a></li>
+<li class="item-8"><a href="/magazines/style" title="Style" class="tid-72 term-style">Style</a></li>
+<li class="item-9"><a href="/magazines/good-eating" title="Good Eating" class="tid-73 term-good-eating">Good Eating</a></li>
+<li class="item-10 last"><a href="/magazines/100-top-tables" title="100 Top Tables" class="tid-324116 term-100-top-tables">100 Top Tables</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-term-queue-pane pane-last pos-1"  >
+  
+  
+      <h2 class="pane-title"><a href="/sport">Sport</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue sport-categories categories ref-95"><li class="item-1 first"><a href="/sport/hong-kong" title="Hong Kong" class="tid-38 term-hong-kong">Hong Kong</a></li>
+<li class="item-2"><a href="/sport/china" title="China" class="tid-41 term-china">China</a></li>
+<li class="item-3"><a href="/sport/golf" title="Golf" class="tid-116 term-golf">Golf</a></li>
+<li class="item-4"><a href="/sport/racing" title="Racing" class="tid-39 term-racing">Racing</a></li>
+<li class="item-5"><a href="/sport/rugby" title="Rugby" class="tid-310895 term-rugby">Rugby</a></li>
+<li class="item-6"><a href="/sport/rugby/hk-sevens" title="HK Sevens" class="tid-310898 term-hk-sevens">HK Sevens</a></li>
+<li class="item-7"><a href="/sport/soccer" title="Soccer" class="tid-40 term-soccer">Soccer</a></li>
+<li class="item-8"><a href="/sport/tennis" title="Tennis" class="tid-117 term-tennis">Tennis</a></li>
+<li class="item-9"><a href="/sport/boxing" title="Boxing" class="tid-318217 term-boxing">Boxing</a></li>
+<li class="item-10 last"><a href="/sport/motorsport" title="Motorsport" class="tid-323319 term-motorsport">Motorsport</a></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-new-row_4 row-4">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-row_4-inside">
+<div class="panel-pane pane-scmp-term-queue-pane pane-first pos-0"  >
+  
+  
+      <h2 class="pane-title"><a href="/comment">Comment</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue comment-categories categories ref-93"><li class="item-1 first"><a href="/comment/insight-opinion" title="Insight &amp; Opinion" class="tid-17 term-insight--opinion">Insight &amp; Opinion</a></li>
+<li class="item-2"><a href="/comment/harrys-view" title="Harry&#039;s View" class="tid-76670 term-harrys-view">Harry&#039;s View</a></li>
+<li class="item-3"><a href="/comment/blogs" title="Blogs" class="tid-19 term-blogs">Blogs</a></li>
+<li class="item-4"><a href="/comment/polls" title="Polls" class="tid-21 term-polls">Polls</a></li>
+<li class="item-5 last"><a href="/comment/letters" title="Letters" class="tid-22 term-letters">Letters</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-term-queue-pane pos-1"  >
+  
+  
+      <h2 class="pane-title">Multimedia</h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue multimedia-categories categories"><li class="item-1 first"><a href="/infographics" title="Infographics" class="tid-324137 term-infographics">Infographics</a></li>
+<li class="item-2"><a href="/photos-0" title="Photos" class="tid-97 term-photos">Photos</a></li>
+<li class="item-3 last"><a href="/video-0" title="Video" class="tid-98 term-video">Video</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-term-queue-pane pane-last pos-2"  >
+  
+  
+      <h2 class="pane-title"><a href="/magazines">Magazines</a></h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue magazines-categories categories ref-99"><li class="item-1 first"><a href="/magazines/post-magazine" title="Post Magazine" class="tid-71 term-post-magazine">Post Magazine</a></li>
+<li class="item-2"><a href="/magazines/style" title="Style" class="tid-72 term-style">Style</a></li>
+<li class="item-3"><a href="/magazines/good-eating" title="Good Eating" class="tid-73 term-good-eating">Good Eating</a></li>
+<li class="item-4 last"><a href="/destination-macau" title="Destination Macau" class="tid-322449 term-destination-macau">Destination Macau</a></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-new-row_5 row-5">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-row_5-inside">
+<div class="panel-pane pane-scmp-term-queue-pane pane-first pos-0"  >
+  
+  
+      <h2 class="pane-title">Popular Topics</h2>
+  
+  
+  <div class="pane-content">
+    <ul class="term-queue popular-topics categories"><li class="item-1 first"><a href="/chinas-leadership-reshuffle-2017" title="China&#039;s leadership reshuffle 2017" class="tid-323491 term-chinas-leadership-reshuffle-2017">China&#039;s leadership reshuffle 2017</a></li>
+<li class="item-2"><a href="/topics/north-korea" title="North Korea" class="tid-33318 term-north-korea">North Korea</a></li>
+<li class="item-3"><a href="/topics/typhoon-hato" title="Typhoon Hato" class="tid-325003 term-typhoon-hato">Typhoon Hato</a></li>
+<li class="item-4"><a href="/topics/china-india-border-dispute" title="China-India border dispute" class="tid-324745 term-china-india-border-dispute">China-India border dispute</a></li>
+<li class="item-5"><a href="/topics/hong-kong-high-speed-rail" title="Hong Kong high-speed rail" class="tid-324854 term-hong-kong-high-speed-rail">Hong Kong high-speed rail</a></li>
+<li class="item-6"><a href="/topics/e-sports" title="E-sports" class="tid-324627 term-e-sports">E-sports</a></li>
+<li class="item-7"><a href="/topics/explainers" title="Explainers" class="tid-324291 term-explainers">Explainers</a></li>
+<li class="item-8"><a href="/topics/belt-and-road-initiative" title="Belt and Road Initiative" class="tid-322800 term-belt-and-road-initiative">Belt and Road Initiative</a></li>
+<li class="item-9"><a href="/topics/sino-us-relations" title="Sino-US relations" class="tid-265568 term-sino-us-relations">Sino-US relations</a></li>
+<li class="item-10"><a href="/topics/macroscope" title="Macroscope" class="tid-318747 term-macroscope">Macroscope</a></li>
+<li class="item-11"><a href="/topics/view" title="The View" class="tid-318746 term-the-view">The View</a></li>
+<li class="item-12"><a href="/topics/inside-out-outside" title="Inside Out &amp; Outside In" class="tid-321451 term-inside-out--outside-in">Inside Out &amp; Outside In</a></li>
+<li class="item-13"><a href="/topics/money-matters" title="Money Matters" class="tid-318748 term-money-matters">Money Matters</a></li>
+<li class="item-14 last"><a href="/topics/china-around-nation" title="China: Around The Nation" class="tid-320461 term-china-around-the-nation">China: Around The Nation</a></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-new-row_6 panels-flexible-region-last row-6">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-row_6-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1 pane-close pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="button-close"></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-all-sections pane-last pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <ul class="menu nav"><li class="first leaf menu-46106"><a href="http://advertising.scmp.com" target="_blank">Advertising Opportunities</a></li>
+<li class="leaf menu-46107"><a href="http://www.scmp.com/mobile">SCMP Mobile Edition</a></li>
+<li class="leaf menu-46686"><a href="/epaper">SCMP ePaper Edition</a></li>
+<li class="leaf menu-53648"><a href="http://www.scmp.com/content/search/news/news"> SCMP.com search</a></li>
+<li class="leaf menu-53649"><a href="http://pqasb.pqarchiver.com/scmp/advancedsearch.html" target="_blank"> Historical Archive</a></li>
+<li class="leaf menu-65264"><a href="/topics/hk-magazine-archive">HK Magazine Archive</a></li>
+<li class="leaf menu-46643"><span class="separator"><hr></span></li>
+<li class="expanded menu-allsec-directories menu-46641"><a href="/directories">Directories</a><ul class="menu nav"><li class="first leaf menu-46636"><a href="http://www.luxehomes.com.hk">Luxehomes</a></li>
+<li class="leaf menu-46637"><a href="http://www.ays.com.hk">At your service</a></li>
+<li class="leaf menu-46638"><a href="http://business-services.scmp.com">Business Services Directory</a></li>
+<li class="leaf menu-46639"><a href="http://mice.scmp.com">MICE Biz</a></li>
+<li class="last leaf menu-46640"><a href="http://goodeating.scmp.com/restaurants/">Restaurant Directory</a></li>
+</ul></li>
+<li class="leaf menu-46644"><span class="separator"><hr></span></li>
+<li class="leaf menu-46114"><a href="http://www.cpjobs.com/hk/?utm_source=scmp_menu">CPJobs.com</a></li>
+<li class="leaf menu-46115"><a href="http://events.scmp.com" target="_blank">Events</a></li>
+<li class="leaf menu-46684"><a href="http://yp.scmp.com/" target="_blank">Young Post</a></li>
+<li class="leaf menu-46645"><span class="separator"><hr></span></li>
+<li class="leaf menu-allsec-facebook menu-46117"><a href="https://www.facebook.com/southchinamorningpost">Follow us on Facebook</a></li>
+<li class="last leaf menu-allsec-twitter menu-46102"><a href="https://twitter.com/scmp_news">Follow us on Twitter</a></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-advert-doubleclick size-970x90 banner pane-last pos-7"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2f2c7f37f8" class="scmp_advert-tile scmp_advert-tile-59f2f2c7f37f8"><!-- GPT Ad Slot 59f2f2c7f37f8 -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2f2c7f37f8") });</script>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</section>
+  </div>
+</header> <!-- /#page-header -->
+
+<a id="main-content"></a>
+  <main class="region region-content main-container container-fluid" id="page-content" role="main">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="clearfix panels-four-column-nested-grid-article">
+                                <div class="container">
+            <div class="row head-row head-row-01">
+        <div class="col col-xs-12 col-lg-12">
+            <div class="panel-pane pane-entity-field pane-node-field-section pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <span class="lineage-item lineage-item-level-0"><a href="/news">News</a></span><span class="hierarchical-select-item-separator">›</span><span class="lineage-item lineage-item-level-1"><a href="/news/china">China</a></span><span class="hierarchical-select-item-separator">›</span><span class="lineage-item lineage-item-level-2"><a href="/news/china/policies-politics">Policies & Politics</a></span>  </strong>
+  </div>
+
+  
+  </div>
+                                </div>
+        </div>
+      </div>
+                  <div class="container-fluid">
+            <div class="row head-row head-row-02">
+        <div class="col col-xs-12 col-lg-12">
+            <div class="panel-pane pane-entity-field pane-taxonomy-term-field-images topics-background-image background-image pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    
+  <img data-thief-color="#e91c08" typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/1400x320/public/topics/2017/10/03/update_banner.png?itok=p-G96tQ4" width="1400" height="320" alt="image" />  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-5 topics-banner container pos-2"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <p>China's leadership reshuffle 2017</p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-term-name topics-name container pos-4"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <a href="/chinas-leadership-reshuffle-2017">China&#039;s leadership reshuffle 2017</a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-taxonomy-term-field-related-links topics-related-links container pane-last pos-5"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/chinas-leadership-reshuffle-2017" rel="nofollow">Home</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-profiles" rel="nofollow">Profiles</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-xis-agenda" rel="nofollow">Xi's agenda</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-rising-stars" rel="nofollow">Rising stars</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-appointments" rel="nofollow">Appointments</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-big-picture" rel="nofollow">Big picture</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-all-articles" rel="nofollow">All articles</a>  </div>
+  <div class="field field-name-field-related-links field-type-link-field field-label-hidden">
+    <a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-opinion" rel="nofollow">Opinion</a>  </div>
+  </div>
+
+  
+  </div>
+                    </div>
+    </div>
+  </div>
+    <div class="container">
+  <div class="row nested-row">
+  <div class="col col-xs-8 col-lg-9 nested-col-1">
+            <div class="clearfix row pfcng-row pfcng-row-01">
+      <div class="col-xs-12 col-lg-12 pfcng-col pfcng-col-1">
+    <div class="panel-pane pane-node-title pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <h1 itemprop="name headline" class="title" id="page-title">Wang Huning: the low-profile, liberal dream weaver who’s about to become China’s ideology tsar</h1>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-subheading pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="field field-name-field-subheading field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The former Fudan University professor has been influencing presidents behind the scenes for 30 years, but now he’s set to take centre-stage</p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-created pull-left pos-2"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div itemprop="dateCreated" property="schema:dateCreated" content="2017-10-25T17:50:32+08:00" class="node-published" datetime="2017-10-25T17:50:32+08:00">PUBLISHED : Wednesday, 25 October, 2017, 5:50pm</div><div itemprop="dateModified" property="schema:dateModified" content="2017-10-26T11:34:31+08:00" class="node-updated">UPDATED : Thursday, 26 October, 2017, 11:34am</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-6 pull-right pane-comment-count pos-3"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <p><a class="scmp_button_comment" href="#comments" title="Comments">Comments: <span class="icon scmp-icon-comment"> </span></a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-images pos-4"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <!-- Slider main container -->
+<div class="swiper-container scmp-gallery-swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+      <div class="swiper-slide">
+      <img data-enlarge="https://cdn1.i-scmp.com/sites/default/files/styles/980w/public/images/methode/2017/10/26/b28cc070-b7da-11e7-affb-32c8d8b6484e_1280x720_113429.jpg?itok=eJl0nwaM" data-caption="Wang Huning, who is believed to have been one of the architects of the “Chinese dream” concept, has become the top official in charge of ideology, propaganda and party organisation. Illustration: Henry Wong" typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/980x551/public/images/methode/2017/10/26/b28cc070-b7da-11e7-affb-32c8d8b6484e_1280x720_113429.jpg?itok=v-24_BvP" width="980" height="551" alt="" title="Wang Huning, who is believed to have been one of the architects of the “Chinese dream” concept, has become the top official in charge of ideology, propaganda and party organisation. Illustration: Henry Wong" />      <div class="swiper-slide-overlay"></div>
+    </div>
+    </div>
+  </div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+        <div class="clearfix row pfcng-row pfcng-row-02 columns-2">
+            <div class="col-xs-3 col-lg-3 pfcng-col pfcng-col-1">
+          <div class="panel-pane pane-entity-field pane-node-field-authors pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    
+  <span class="field field-name-field-authors field-type-taxonomy-term-reference field-label-hidden">
+    <div class="scmp-v2-author-image author-image"><a href="/author/kinling-lo"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/70x70/public/kinling-lo-500.jpg?itok=1TOB4frV" width="70" height="70" alt="Kinling Lo" title="Kinling Lo" /></a></div><div class="scmp-v2-author-name"><a href="/author/kinling-lo">Kinling Lo</a></div><button data-toggle="popover" data-content="Kinling is a China reporter covering diplomacy and society news at the South China Morning Post. She joined the Post in 2016 as a cadet reporter, and has previously covered Hong Kong news for a year after graduating from the University of Hong Kong with a Bachelor in Journalism and a second major in international relations. Follow her on Twitter @kinlinglo." data-title="&lt;a href=&quot;/author/kinling-lo&quot;&gt;Kinling Lo&lt;/a&gt;" data-html="true" data-template="&lt;div class=&quot;popover scmp-author-bio-popover&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&lt;/div&gt;&lt;a class=&quot;scmp-icon-cross&quot; onclick=&quot;popoverClose(this);&quot;&gt;&lt;/a&gt;&lt;h3 class=&quot;popover-title&quot;&gt;&lt;/h3&gt;&lt;div class=&quot;popover-content&quot;&gt;&lt;/div&gt;&lt;/div&gt;" class="scmp-icon-author-i"></button>
+  </span>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-share-widgets-article pos-1"  >
+  
+  
+      <h2 class="pane-title"><div class="addthis_total_count">Share</div></h2>
+  
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-share_widgets_article">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-scmp-social-widgets-addthis pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="pane-scmp-social-widgets-addthis addthis-wrapper addthis_toolbox"><a class="addthis_button_facebook"><span class="icon scmp-icon-facebook"></span></a>
+<a class="addthis_button_twitter"><span class="icon scmp-icon-twitter"></span></a>
+<a class="addthis_button_reddit"><span class="icon scmp-icon-reddit"></span></a>
+<a class="addthis_button_linkedin"><span class="icon scmp-icon-linkedin"></span></a>
+<a class="addthis_button_google_plusone_share"><span class="icon scmp-icon-google-plus"></span></a>
+<a class="addthis_button_sinaweibo"><span class="icon scmp-icon-weibo"></span></a></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-custom pane-1 pane-comment-count pos-2"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <p><a class="scmp_button_comment" title="Comments" href="#comments"><span class="icon scmp-icon-comment"></span></a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-print-ui-print-links pane-last pos-3"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <span class="print_html"><a href="http://www.scmp.com/print/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" title="Display a printer-friendly version of this page." class="print-page" onclick="window.open(this.href); return false" rel="nofollow">Print</a></span><span class="print_mail"><a href="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" title="Send this page by email." class="print-mail" rel="nofollow">Email</a></span>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-topics pos-2"  >
+  
+  
+      <h2 class="pane-title">Related topics</h2>
+  
+  
+  <div class="pane-content">
+    
+  <span class="field field-name-field-topics field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/chinas-leadership-reshuffle-2017" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">China&#039;s leadership reshuffle 2017</a>  </span>
+  <span class="field field-name-field-topics field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/topics/chinas-leadership-reshuffle-2017-all-articles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">China&#039;s leadership reshuffle 2017: All articles</a>  </span>
+  <span class="field field-name-field-topics field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/topics/chinas-leadership-reshuffle-2017-profiles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">China&#039;s leadership reshuffle 2017: Profiles</a>  </span>
+  <span class="field field-name-field-topics field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/topics/chinas-leadership-reshuffle-2017-rising-stars" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">China&#039;s leadership reshuffle 2017: Rising stars</a>  </span>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>  <div class="panel-pane pane-article-level related-articles" >
+
+  
+        <h2 class="pane-title">Related Articles</h2>
+    
+  
+  <article class="node node-article article-level view-mode-lvl_44 first odd has-image color-color1" about="/business/global-economy/article/2117278/dont-hold-your-breath-yuan-be-convertible-stability-trumps" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Don’t hold your breath for the yuan to be convertible, as stability trumps all in the Chinese Dream" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/business/global-economy/article/2117278/dont-hold-your-breath-yuan-be-convertible-stability-trumps"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/27/e0a475be-bac5-11e7-affb-32c8d8b6484e_image_hires_145648.JPG?itok=naH9zHG2" width="220" height="137" alt="China will loosen grip on the yuan at a time of its own choosing. Photo: Reuters" title="China will loosen grip on the yuan at a time of its own choosing. Photo: Reuters" /></a></div><div class="content-wrapper">
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <span class="lineage-item lineage-item-level-0"><a href="/business/global-economy">Global Economy</a></span>  </strong>
+<h3 class="node-title lvl_44-title"><a href="/business/global-economy/article/2117278/dont-hold-your-breath-yuan-be-convertible-stability-trumps" title="Opinion: Don’t hold your breath for the yuan’s convertibility">Opinion: Don’t hold your breath for the yuan’s convertibility</a></h3>
+<time property="dc:modified" content="2017-10-27T14:56:49+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_short" class="updated" datetime="2017-10-27T14:56:49+08:00">27 Oct 2017</time>
+</div></article>
+<article class="node node-article article-level view-mode-lvl_44 even has-image color-color2" about="/news/china/policies-politics/article/2117186/shanghai-guangdong-party-boss-vacancies-coming-soon" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Shanghai, Guangdong party boss vacancies coming soon, but who’s got what it takes to fill them?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/china/policies-politics/article/2117186/shanghai-guangdong-party-boss-vacancies-coming-soon"><img typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/27/8b6aff7a-ba4b-11e7-affb-32c8d8b6484e_image_hires_124949.jpg?itok=Hm33PbE1" width="220" height="137" alt="The new Central Committee holds its first plenary session at the Great Hall of the People in Beijing on October 25, 2017. Photo: Xinhua" title="The new Central Committee holds its first plenary session at the Great Hall of the People in Beijing on October 25, 2017. Photo: Xinhua" /></a></div><div class="content-wrapper">
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <span class="lineage-item lineage-item-level-0"><a href="/news/china/policies-politics">Policies &amp; Politics</a></span>  </strong>
+<h3 class="node-title lvl_44-title"><a href="/news/china/policies-politics/article/2117186/shanghai-guangdong-party-boss-vacancies-coming-soon" title="The big question: Who will take over in Shanghai, Guangdong?">The big question: Who will take over in Shanghai, Guangdong?</a></h3>
+<time property="dc:modified" content="2017-10-27T12:49:52+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_short" class="updated" datetime="2017-10-27T12:49:52+08:00">27 Oct 2017</time>
+</div></article>
+<article class="node node-article article-level view-mode-lvl_44 last odd has-image color-color1" about="/comment/insight-opinion/article/2117207/graft-fight-must-be-open-and-accountable" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Graft fight must be open and accountable" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/comment/insight-opinion/article/2117207/graft-fight-must-be-open-and-accountable"><img typeof="foaf:Image" data-original="https://cdn4.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/27/f8fb8fdc-ba73-11e7-affb-32c8d8b6484e_image_hires_013755.JPG?itok=BgrVvpBP" width="220" height="137" alt="Xi Jinping, China&#039;s president, and other leaders and delegates attend the closing session of the 19th National Congress at the Great Hall of the People in Beijing. Photo: Bloomberg" title="Xi Jinping, China&#039;s president, and other leaders and delegates attend the closing session of the 19th National Congress at the Great Hall of the People in Beijing. Photo: Bloomberg" /></a></div><div class="content-wrapper">
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <span class="lineage-item lineage-item-level-0"><a href="/comment/insight-opinion">Insight &amp; Opinion</a></span>  </strong>
+<h3 class="node-title lvl_44-title"><a href="/comment/insight-opinion/article/2117207/graft-fight-must-be-open-and-accountable" title="Graft fight must be open and accountable">Graft fight must be open and accountable</a></h3>
+<time property="dc:modified" content="2017-10-27T01:37:56+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_short" class="updated" datetime="2017-10-27T01:37:56+08:00">27 Oct 2017</time>
+<span title="Article contains video" class="icon icon-video"></span></div></article>
+
+  
+  
+  </div>
+    </div>
+              <div class="col-xs-9 col-lg-9 pfcng-col pfcng-col-2">
+          <div class="panel-pane pane-entity-field pane-node-body pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    
+  <p>Wang Huning is one of the new members of the Communist Party’s Politburo Standing Committee. Here we have a look at his road to the top:</p>
+<p>Despite having served as an adviser to three Chinese presidents, remarkably little is known about the personal life of Wang Huning, who as the top official in charge of ideology, propaganda and party organisation is now one of the most powerful politicians in the country.</p>
+<p>While his face might be unfamiliar to the public, his words will not be. Wang has been credited with being one of the architects of the “Chinese dream” concept, President Xi Jinping’s widely promoted vision for the rejuvenation of the Chinese nation.</p>
+<p>For the past 15 years, the 62-year-old academic-turned-politician has headed the Central Policy Research Office – a party think tank – combining the roles of national policy adviser, chief speech-writer and principal theorist to the country’s top leader.</p>
+<p>Wang is also known to have played a significant role in drafting former presidents Jiang Zemin’s “Theory of the Three Represents” and Hu Jintao’s “scientific theory of development”, both of which were written into the party’s constitution.</p>
+<p><a href="http://www.scmp.com/news/china/policies-politics/article/2116572/ultimate-honour-will-xi-jinping-be-elevated-same-status">The ultimate honour: will Xi Jinping be elevated to the same status as Mao Zedong?</a></p>
+<p>In 2007, Wang was appointed to the party’s Secretariat – the nerve centre of the Politburo – and at the end of his five-year term was elevated to the Politburo itself. As a member of the Politburo Standing Committee, the once low profile adviser will be one of the principal protagonists in Xi’s second term in charge.</p>
+<p>“He is largely known as a thinker and an introvert,” Shanghai-based political scientist Chen Daoyin said.</p>
+<p><img title="Wang Huning attends a ceremony in Tiananmen Square, Beijing to mark the 68th anniversary of the founding of the People’s Republic of China. Photo: Reuters" width="660" height="385" data-resolution="2" data-original="https://cdn4.i-scmp.com/sites/default/files/images/methode/2017/10/26/e3a1f472-b21d-11e7-95c2-e7a557915c7a_1320x770_113429.JPG" class="caption" /></p>
+<p>Before entering politics, Wang was best known for being the youngest associate professor – specialising in international relations – at Fudan University in Shanghai, a position he achieved at the age of 30 after starting his academic career with a bachelor’s degree in French.</p>
+<p>His ex-wife Zhou Qi – the couple divorced in 1996 – is a specialist in Sino-US relations and the head of the National Security Institute at Tsinghua University.</p>
+<p>Wang later remarried and has one child.</p>
+<p><a href="http://www.scmp.com/news/china/policies-politics/article/2116504/brains-chinas-children-xi-jinpings-thought-become">‘Into the brains’ of China’s children: Xi Jinping’s ‘thought’ to become compulsory school topic</a></p>
+<p>In his memoir <em>Political Life</em>, published in 1994 and before his move into politics, Wang said his goal in life was to keep writing books and teaching students.</p>
+<p>What is known about Wang is his political ideology, the seeds of which can be found in his earlier publications.</p>
+<p>In the 1980s, Wang advocated that a centralised government could maintain stability and drive growth, while gradually expanding its democratic principles from within.</p>
+<p>His article “Analysis on the Ways of Political Leadership During the Modernisation Process”, first published in 1986, is thought to have been what first brought Wang to the attention of Jiang, who became president in 1989 in the wake of the bloody crackdown in Tiananmen Square.</p>
+<div class="methode-html-wrapper">
+<div>
+<iframe width="100%" height="450" data-original="https://multimedia.scmp.com/widgets/china/ccp-reshuffle-2017/index.html" scrolling="no" frameborder="0" class=""></iframe></div>
+</div>
+<p>“At the time being, centralised decision-making power and modernisation is more ‘politically efficient’,” he wrote. “This model has achieved stunning economic results, but it has also been criticised … because of the low level of democracy involved.”</p>
+<p>He ended the seven-page article by saying that a society experiencing rapid economic growth and modernisation would face growing conflicts and greater demands for democracy.</p>
+<p>“When the society reaches this stage, political reform would be inevitable,” he wrote.</p>
+<p><a href="http://www.scmp.com/news/china/policies-politics/article/2116411/seasoned-duo-tipped-take-key-jobs-communist-party">China’s new leadership line-up revealed in full for first time with seasoned duo tipped to take key jobs</a></p>
+<p>Although Wang did not specify when those political reforms should take place he has since provided ideological backing for Xi’s ambitious reform programmes.</p>
+<p>In his work report speech delivered at the opening of the 19th party congress, Xi emphasised the need to “better arm ourselves with theory” and “work faster to develop philosophy and social sciences with Chinese characteristics”.</p>
+<p>Another of Wang’s articles that showed his liberal views was also first published in 1986. A fifth edition of “Reflections on the Cultural Revolution and the Reform of China’s Political System” was released in 2012, the same year he was promoted to the Politburo.</p>
+<p><a href="http://www.scmp.com/news/china/policies-politics/article/2116293/liberal-market-reformer-set-be-named-chinas-next">Liberal market reformer set to be named as China’s next central bank governor</a></p>
+<p>“It is very important to comply with the constitution,” he wrote. “If citizens can be taken away without following the law and constitution, and actions that infringe people’s personal freedom, or even using violent threats and storming academic activities can be immune from responsibility, the Cultural Revolution could happen again.”</p>
+<p>While Wang has been seen at Xi’s side several times this year – during the BRICS summit in Xiamen, the G20 meeting in Hamburg and in Hong Kong for the 20th anniversary of its return to China – as the principal official for ideology and propaganda he would play a much more significant role on the world stage.</p>
+<p>He could even become the new face of China’s diplomatic relations. His predecessor Liu Yunshan was in 2015 the last Chinese politician to meet North Korean leader Kim Jong-un.</p>
+<p><a href="http://www.scmp.com/topics/chinas-leadership-reshuffle-2017-profiles">Read more profiles of China’s new leaders</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-scmp-newsletter-node-newsletter-subscription-form pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="row scmp-newsletter-subscribe">
+  <form class="hidden scmp-newsletter-subscription-form newsletter-322279 " data-newsletter-name="China at a Glance" data-newsletter-tid="322279" action="https://www.scmp.com/api/rest/public/v2/newsletter/subscribe.json" method="POST" id="scmp-newsletter-subscription-form-322279" accept-charset="UTF-8">
+    <div class="inner-wrap">
+      <div class="subscribe-wrap">
+        <div class="col-lg-6 col-md-12 newsletter-description">
+          <div class="name">China at a Glance</div>
+          <div class="spiel">Get updates direct to your inbox</div>
+        </div>
+        <div class="col-lg-6 col-md-12 form-input-wrap">
+          <div class="form-item form-type-textfield form-item-mail">
+            <label class="element-invisible" for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
+            <input placeholder="Enter your email" required type="email" id="edit-mail" name="email" value="" size="20" maxlength="128" class="form-text required">
+          </div>
+          <input type="hidden" name="id" value="322279">
+          <input type="hidden" name="options[current_newsletters]" value="1">
+          <input class="subscribe-btn btn form-submit" type="submit" id="edit-subscribe" name="op" value="subscribe">
+          <div class="fake-submit"></div>
+          <div class="privacy-policy">
+            By registering you agree to our <a href="/terms-conditions">T&amp;Cs</a> &amp; <a href="/privacy-policy">Privacy Policy</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 scmp-inline-newsletter-multi-opt-in hidden">
+        <div class="newsletter-subscribe-multi-opt-in-confirmation">
+          <p class="blurb" style="">You are signed up. We think you'd also like</p>
+        </div>
+        <div class="col-lg-6 col-md-12 form-input-wrap multi-opt-in-0 form-type-checkbox form-item checkbox">
+          <label class="scmp-checkbox scmp-checkbox-black selected" for="scmp-inline-newsletter-multi-opt-in-0">
+              <input type="checkbox" checked="true" id="scmp-inline-newsletter-multi-opt-in-0" name="tid[]" class="form-checkbox filled-in" value="">
+            <span class="name"></span>
+            <span class="desc"></span>
+          </label>
+        </div>
+        <div class="col-lg-6 col-md-12 form-input-wrap multi-opt-in-1 form-type-checkbox form-item checkbox">
+          <label class="scmp-checkbox scmp-checkbox-black selected" for="scmp-inline-newsletter-multi-opt-in-1">
+              <input type="checkbox" checked="true" id="scmp-inline-newsletter-multi-opt-in-1" name="tid[]" class="form-checkbox filled-in" value="">
+            <span class="name"></span>
+            <span class="desc"></span>
+          </label>
+        </div>
+        <div class="multi-opt-in-subscribe">
+          <input class="subscribe-btn btn form-submit" type="submit" id="edit-subscribe" name="op" value="Yes, please add me">
+        </div>
+      </div>
+      <div class="col-md-12 hidden confirmation scmp-inline-newsletter-thank-you">
+        <div class="newsletter-subscribe-thank-you" data-newsletter-tid="322279">
+          <span>Thank you</span>You are on the list.
+        </div>
+      </div>
+    </div>
+    <div class="col-md-12 white error-msg error-msg-322279"></div>
+  </form>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-scmp-content-scmp-print-head-snippet pos-2"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="print-head-label">This article appeared in the South China Morning Post print edition as: <span class="print-head-title">Low-profile ideas man is now nation’s propaganda tsar</span></div>  </div>
+
+  
+  </div>
+    </div>
+      </div>
+      <div class="clearfix row pfcng-row pfcng-row-03 columns-2">
+        <div class="visible-lg-block col-lg-3 pfcng-col pfcng-col-1"></div>
+          <div class="col-xs-12 col-lg-9 pfcng-col pfcng-col-2"></div>
+      </div>
+            <div class="clearfix row pfcng-row pfcng-row-04">
+      <div class="col-xs-12 col-lg-12 pfcng-col pfcng-col-1">
+    <div class="panel-pane pane-scmp-advert-doubleclick size-655x314 banner pane-first pane-last pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2e8e23948d" class="scmp_advert-tile scmp_advert-tile-59f2e8e23948d"><!-- GPT Ad Slot 59f2e8e23948d -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2e8e23948d") });</script>
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+      <!-- / 3-col col-xs-8 wrapper -->
+  </div>
+  <div class="col col-xs-4 col-lg-3 nested-col-2">
+          <div class="row row-1">
+    <div class="panel-pane pane-scmp-advert-doubleclick size-300x100 banner pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2e8dee4dac" class="scmp_advert-tile scmp_advert-tile-59f2e8dee4dac"><!-- GPT Ad Slot 59f2e8dee4dac -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2e8dee4dac") });</script>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-advert-doubleclick size-300x250 landscape pane-last pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2e8dee6f2a" class="scmp_advert-tile scmp_advert-tile-59f2e8dee6f2a"><!-- GPT Ad Slot 59f2e8dee6f2a -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2e8dee6f2a") });</script>
+</div>
+  </div>
+
+  
+  </div>
+    </div>
+        <div class="row row-2">
+    <div class="panel-pane pane-custom pane-4 pane-last pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="OUTBRAIN" data-ob-template="SCMP" data-src="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" data-widget-id="SB_6"> </div>
+  </div>
+
+  
+  </div>
+    </div>
+        <div class="row row-3">
+    <div class="panel-pane pane-block pane-quicktabs-most-popular pane-first pos-0"  >
+  
+  
+      <h2 class="pane-title">Most Popular</h2>
+  
+  
+  <div class="pane-content">
+    <div  id="quickset-most_popular" class="quick-accessible-tabs"><h3 class="tabhead" id= "quickset-most_popular_0">Viewed</h3><div class="tabbody"><section id="block-scmp-content-scmp-popular-content" class="block block-scmp-content clearfix">
+
+      
+  <ol class="popular-viewed scmp-popular-content"><li id="ga-scmp_popular_content" ga-event-category="Viewport" ga-event-action="Most Pop/Impression/Viewed" ga-event-label="Most Popular"><span class="number">1</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color2" about="/news/china/policies-politics/article/2117190/three-disgraced-chinese-communist-party-officials" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Three disgraced Chinese Communist Party officials accused of trying to rig elections" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="24" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/china/policies-politics/article/2117190/three-disgraced-chinese-communist-party-officials"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 1" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/27/0421c502-ba4c-11e7-affb-32c8d8b6484e_image_hires_124806.jpg?itok=HUhBzFzo" width="90" height="56" alt="Delegates raise their hands during the closing session of the 19th National Congress of the Communist Party of China on Tuesday. Photo: Xinhua" title="Delegates raise their hands during the closing session of the 19th National Congress of the Communist Party of China on Tuesday. Photo: Xinhua" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/china/policies-politics/article/2117190/three-disgraced-chinese-communist-party-officials" title="Three disgraced Chinese officials accused of rigging party votes" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 1" ga-event-label="Most Popular">Three disgraced Chinese officials accused of rigging party votes</a></h3>
+</div></article>
+</li>
+<li><span class="number">2</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color3" about="/news/hong-kong/health-environment/article/2117183/surgeon-who-left-hong-kong-patient-operating-table" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Surgeon who left Hong Kong transplant patient open for three hours had special contract because of doctor shortage" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="54" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/hong-kong/health-environment/article/2117183/surgeon-who-left-hong-kong-patient-operating-table"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 2" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/26/4548f664-ba2d-11e7-affb-32c8d8b6484e_image_hires_224258.JPG?itok=NpH2w77H" width="90" height="56" alt="Rare arrangement given to Dr Kelvin Ng because of serious lack of skilled doctors" title="Rare arrangement given to Dr Kelvin Ng because of serious lack of skilled doctors" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/hong-kong/health-environment/article/2117183/surgeon-who-left-hong-kong-patient-operating-table" title="Transplant patient left open on table blamed on surgeon shortage" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 2" ga-event-label="Most Popular">Transplant patient left open on table blamed on surgeon shortage</a></h3>
+</div></article>
+</li>
+<li><span class="number">3</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color2" about="/news/china/economy/article/2117167/inconvenient-truth-china-omits-key-figures-may-have-highlighted" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="An inconvenient truth? China omits key figures that may have highlighted its demographic time bomb from official statistics" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="10" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/china/economy/article/2117167/inconvenient-truth-china-omits-key-figures-may-have-highlighted"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 3" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/27/7a6589be-ba11-11e7-affb-32c8d8b6484e_image_hires_134821.JPG?itok=vb4cwxix" width="90" height="56" alt="China currently suffers from the lowest fertility rate in the world. Photo: Reuters" title="China currently suffers from the lowest fertility rate in the world. Photo: Reuters" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/china/economy/article/2117167/inconvenient-truth-china-omits-key-figures-may-have-highlighted" title="China omits data that could highlight its demographic time bomb" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 3" ga-event-label="Most Popular">China omits data that could highlight its demographic time bomb</a></h3>
+</div></article>
+</li>
+<li><span class="number">4</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color1" about="/business/china-business/article/2117158/china-has-most-self-made-women-billionaires-globally" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="They hold up half the sky: six of every 10 of the world’s self-made, women billionaires are in China" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="6" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/business/china-business/article/2117158/china-has-most-self-made-women-billionaires-globally"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 4" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/26/cb4f9c84-ba34-11e7-affb-32c8d8b6484e_image_hires_214625.JPG?itok=2iAvX8XS" width="90" height="56" alt="The 2017 Hurun Report shows 49 Chinese women are on the global list of self-made billionaires, making up 63 per cent of the worldwide total." title="The 2017 Hurun Report shows 49 Chinese women are on the global list of self-made billionaires, making up 63 per cent of the worldwide total." /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/business/china-business/article/2117158/china-has-most-self-made-women-billionaires-globally" title="China has 6 of every 10 of the world’s self-made, women billionaires" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 4" ga-event-label="Most Popular">China has 6 of every 10 of the world’s self-made, women billionaires</a></h3>
+</div></article>
+</li>
+<li><span class="number">5</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color6" about="/magazines/post-magazine/article/2117116/caucasian-beggars-hitting-hong-kong-vengeance-while-police" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="The Caucasian beggars hitting Hong Kong with a vengeance while police turn a blind eye" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="70" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/magazines/post-magazine/article/2117116/caucasian-beggars-hitting-hong-kong-vengeance-while-police"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 5" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/27/125f1a58-ba32-11e7-affb-32c8d8b6484e_image_hires_103110.jpg?itok=9uH3f731" width="90" height="56" alt="A Caucasian beggar tops up his travel kitty on a Hung Hom walkway. Picture: Nora Tam" title="A Caucasian beggar tops up his travel kitty on a Hung Hom walkway. Picture: Nora Tam" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/magazines/post-magazine/article/2117116/caucasian-beggars-hitting-hong-kong-vengeance-while-police" title="Caucasian beggars target Hong Kong while police turn a blind eye" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Viewed 5" ga-event-label="Most Popular">Caucasian beggars target Hong Kong while police turn a blind eye</a></h3>
+</div></article>
+</li>
+</ol>
+</section>
+</div><h3 class="tabhead" id= "quickset-most_popular_1">Shared</h3><div class="tabbody"><section id="block-scmp-content-scmp-shared-content" class="block block-scmp-content clearfix">
+
+      
+  <ol class="popular-viewed scmp-shared-content"><li id="ga-scmp_shared_content" ga-event-category="Viewport" ga-event-action="Most Pop/Impression/Shared" ga-event-label="Most Popular"><span class="number">1</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color3" about="/news/hong-kong/health-environment/article/2117183/surgeon-who-left-hong-kong-patient-operating-table" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Surgeon who left Hong Kong transplant patient open for three hours had special contract because of doctor shortage" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="54" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/hong-kong/health-environment/article/2117183/surgeon-who-left-hong-kong-patient-operating-table"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 1" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/26/4548f664-ba2d-11e7-affb-32c8d8b6484e_image_hires_224258.JPG?itok=NpH2w77H" width="90" height="56" alt="Rare arrangement given to Dr Kelvin Ng because of serious lack of skilled doctors" title="Rare arrangement given to Dr Kelvin Ng because of serious lack of skilled doctors" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/hong-kong/health-environment/article/2117183/surgeon-who-left-hong-kong-patient-operating-table" title="Transplant patient left open on table blamed on surgeon shortage" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 1" ga-event-label="Most Popular">Transplant patient left open on table blamed on surgeon shortage</a></h3>
+</div></article>
+</li>
+<li><span class="number">2</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color2" about="/news/china/policies-politics/article/2117190/three-disgraced-chinese-communist-party-officials" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Three disgraced Chinese Communist Party officials accused of trying to rig elections" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="24" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/china/policies-politics/article/2117190/three-disgraced-chinese-communist-party-officials"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 2" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/27/0421c502-ba4c-11e7-affb-32c8d8b6484e_image_hires_124806.jpg?itok=HUhBzFzo" width="90" height="56" alt="Delegates raise their hands during the closing session of the 19th National Congress of the Communist Party of China on Tuesday. Photo: Xinhua" title="Delegates raise their hands during the closing session of the 19th National Congress of the Communist Party of China on Tuesday. Photo: Xinhua" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/china/policies-politics/article/2117190/three-disgraced-chinese-communist-party-officials" title="Three disgraced Chinese officials accused of rigging party votes" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 2" ga-event-label="Most Popular">Three disgraced Chinese officials accused of rigging party votes</a></h3>
+</div></article>
+</li>
+<li><span class="number">3</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color1" about="/business/china-business/article/2117158/china-has-most-self-made-women-billionaires-globally" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="They hold up half the sky: six of every 10 of the world’s self-made, women billionaires are in China" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="6" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/business/china-business/article/2117158/china-has-most-self-made-women-billionaires-globally"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 3" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/26/cb4f9c84-ba34-11e7-affb-32c8d8b6484e_image_hires_214625.JPG?itok=2iAvX8XS" width="90" height="56" alt="The 2017 Hurun Report shows 49 Chinese women are on the global list of self-made billionaires, making up 63 per cent of the worldwide total." title="The 2017 Hurun Report shows 49 Chinese women are on the global list of self-made billionaires, making up 63 per cent of the worldwide total." /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/business/china-business/article/2117158/china-has-most-self-made-women-billionaires-globally" title="China has 6 of every 10 of the world’s self-made, women billionaires" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 3" ga-event-label="Most Popular">China has 6 of every 10 of the world’s self-made, women billionaires</a></h3>
+</div></article>
+</li>
+<li><span class="number">4</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color1" about="/news/world/united-states-canada/article/2117088/zapruder-captured-jfks-assassination-chilling-detail" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Zapruder captured JFK’s assassination in chilling detail. It brought him ‘nothing but heartbreak’" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/world/united-states-canada/article/2117088/zapruder-captured-jfks-assassination-chilling-detail"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 4" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/90x56/public/images/methode/2017/10/26/10f7acda-ba13-11e7-affb-32c8d8b6484e_image_hires_144640.JPG?itok=lCjOblxY" width="90" height="56" alt="In Frame 375 of the Zapruder film, first lady Jacqueline Kennedy crawls toward the back of the presidential limousine as Secret Service agent Clint Hill scrambles to help her. Photo: Zapruder Film ©, The Sixth Floor Museum at Dealey Plaza" title="In Frame 375 of the Zapruder film, first lady Jacqueline Kennedy crawls toward the back of the presidential limousine as Secret Service agent Clint Hill scrambles to help her. Photo: Zapruder Film ©, The Sixth Floor Museum at Dealey Plaza" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/world/united-states-canada/article/2117088/zapruder-captured-jfks-assassination-chilling-detail" title="The heartbreak behind Zapruder’s famous footage of JFK’s killing" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 4" ga-event-label="Most Popular">The heartbreak behind Zapruder’s famous footage of JFK’s killing</a></h3>
+</div></article>
+</li>
+<li><span class="number">5</span><article class="node node-article article-level view-mode-lvl_28 has-image color-color4" about="/news/asia/southeast-asia/article/1864859/malaysias-sultans-call-transparent-probe-najibs-funds" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Malaysia’s sultans call for ‘transparent probe’ into Najib&#039;s funds scandal in a rare joint statement" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/news/asia/southeast-asia/article/1864859/malaysias-sultans-call-transparent-probe-najibs-funds"><img ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 5" ga-event-label="Most Popular" typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/90x56/public/2015/10/07/_och109_53140735.jpg?itok=RCdmpsiW" width="90" height="56" alt="Malaysia’s sultans call for ‘transparent probe’ into Najib&#039;s funds scandal in a rare joint statement" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_28-title"><a href="/news/asia/southeast-asia/article/1864859/malaysias-sultans-call-transparent-probe-najibs-funds" title="Malaysia’s sultans call for ‘transparent probe’ into Najib&#039;s funds scandal in a rare joint statement" ga-on="click" ga-event-category="Module Click" ga-event-action="Most Pop/Click/Shared 5" ga-event-label="Most Popular">Malaysia’s sultans call for ‘transparent probe’ into Najib&#039;s funds scandal in a rare joint statement</a></h3>
+</div></article>
+</li>
+</ol>
+</section>
+</div><h3 class="tabhead" id= "quickset-most_popular_2">Commented</h3><div class="tabbody"></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-advert-doubleclick size-301x251 landscape pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2e8e0a41fe" class="scmp_advert-tile scmp_advert-tile-59f2e8e0a41fe"><!-- GPT Ad Slot 59f2e8e0a41fe -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2e8e0a41fe") });</script>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-article-level-carousel promotion-carousel pane-last pos-3"  >
+  
+  
+      <h2 class="pane-title"><a href="/promotions">Promotions</a></h2>
+  
+  
+  <div class="pane-content">
+    <div class="swiper-container horizontal-responsive"><div class="swiper-wrapper"><div class="swiper-slide"><article class="node node-promotion article-level view-mode-lvl_1 first odd has-image color-default" about="/promotion/2116313/scmp-invites-you-hkt-hong-kong-e-prix" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="SCMP invites you to HKT Hong Kong E-Prix" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  <a href="/promotion/2116313/scmp-invites-you-hkt-hong-kong-e-prix"><img typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/300x140/public/2017/10/20/formulae_486x302.jpg?itok=dE_V_RoP" width="300" height="140" alt="SCMP invites you to HKT Hong Kong E-Prix" /></a><h2 class="node-title lvl_1-title"><a href="/promotion/2116313/scmp-invites-you-hkt-hong-kong-e-prix" title="SCMP invites you to HKT Hong Kong E-Prix">SCMP invites you to HKT Hong Kong E-Prix</a></h2>
+</article>
+</div></div></div>  </div>
+
+  
+  </div>
+    </div>
+        </div>
+  </div>
+  </div>
+                                <div class="container-fluid">
+            <div class="row bottom-row bottom-row-02">
+                                  <div class="col col-xs-12 col-lg-12"><div class="panel-pane pane-custom pane-1 pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="OUTBRAIN" data-src="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" data-widget-id="AR_6" data-ob-template="SCMP"> </div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2 pos-1"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="OUTBRAIN" data-src="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" data-widget-id="AR_7" data-ob-template="SCMP"> </div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-3 pane-last pos-2"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="OUTBRAIN" data-src="http://www.scmp.com/news/china/policies-politics/article/2116964/wang-huning-low-profile-liberal-dream-weaver-whos-about" data-widget-id="AR_8" data-ob-template="SCMP"> </div>
+  </div>
+
+  
+  </div>
+        </div>
+        </div>
+        </div>
+                                <div class="container">
+            <div class="row bottom-row bottom-row-03">
+                                <div class="col visible-lg-block col-lg-2"></div>
+                          <div class="col col-xs-8 col-lg-7"></div>
+                          <div class="col col-xs-4 col-lg-3"></div>
+                                        </div>
+      </div>
+                  <div class="container-fluid">
+            <div class="row bottom-row bottom-row-04">
+                                  <div class="col col-xs-12 col-lg-12"><div class="panel-pane pane-panels-mini pane-you-may-also-like pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="container pocb clearfix panels-one-column-box">
+  <h2 class="pane-title">You may also like</h2>
+  <div class="col-xs-12 pocb-row pocb-row-1">
+    <div class="panel-pane pane-article-level-carousel pane-first pane-last pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="carousel-54c5eadad2" class="swiper-container horizontal-responsive"><div class="swiper-navbar"><span class="prev-arrow scmp-icon-arrow-left-1"></span><span class="next-arrow scmp-icon-arrow-right1"></span></div><div class="swiper-wrapper"><div class="swiper-slide"><article class="node node-video article-level view-mode-lvl_18 first odd has-image color-color2" about="/video/china/2116807/xi-jinping-thought-enshrined-party-charter" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="‘Xi Jinping Thought’ enshrined in the party charter" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image color-color2">
+  <a href="/video/china/2116807/xi-jinping-thought-enshrined-party-charter"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/220x137/public/video/thumbnail/xi_words.jpg?itok=jxgv95Qa" width="220" height="137" alt="‘Xi Jinping Thought’ enshrined in the party charter" /></a><a href="/video/china/2116807/xi-jinping-thought-enshrined-party-charter" class="scmp-icon-video-play"></a>
+  <strong class="field field-name-field-video-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/video/china" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">China</a>  </strong>
+</div><h3 class="node-title lvl_18-title"><a href="/video/china/2116807/xi-jinping-thought-enshrined-party-charter" title="‘Xi Jinping Thought’ enshrined in the party charter">‘Xi Jinping Thought’ enshrined in the party charter</a></h3>
+<time property="dc:modified" content="2017-10-24T19:52:08+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="short" class="updated" datetime="2017-10-24T19:52:08+08:00">Oct 24th 2017, 7:52pm</time>
+</article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 even has-image color-color3" about="/native/lifestyle/topics/sights-and-sounds/article/2116208/four-great-new-york-jazz-concerts-hong" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Four great New York Jazz concerts in Hong Kong" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/native/lifestyle/topics/sights-and-sounds/article/2116208/four-great-new-york-jazz-concerts-hong"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/20/0a4840f2-b3b5-11e7-95c2-e7a557915c7a_image_hires_162013.jpg?itok=Nr_z8GVD" width="220" height="137" alt="Teriver Cheung, originally from Hong Kong, is one of the jazz greats who will be playing in Hong Kong." title="Teriver Cheung, originally from Hong Kong, is one of the jazz greats who will be playing in Hong Kong." /></a></div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/native/lifestyle/topics/sights-and-sounds/article/2116208/four-great-new-york-jazz-concerts-hong" title="Four great New York Jazz concerts in Hong Kong">Four great New York Jazz concerts in Hong Kong</a></h3>
+<div class="field field-name-field-sponsor"><span class="title">In partnership with:</span> <span class="sponsor">Leisure and Cultural Services Department</span></div>
+</div></article>
+</div> <div class="swiper-slide"><article class="node node-video article-level view-mode-lvl_18 odd has-image color-color2" about="/video/china/2116619/xi-jinpings-grand-plan-xiongan" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Xi Jinping’s grand plan for Xiongan" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image color-color2">
+  <a href="/video/china/2116619/xi-jinpings-grand-plan-xiongan"><img typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/220x137/public/video/thumbnail/xiongan_cover.jpg?itok=emdKUJAK" width="220" height="137" alt="Xi Jinping’s grand plan for Xiongan" /></a><a href="/video/china/2116619/xi-jinpings-grand-plan-xiongan" class="scmp-icon-video-play"></a>
+  <strong class="field field-name-field-video-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/video/china" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">China</a>  </strong>
+</div><h3 class="node-title lvl_18-title"><a href="/video/china/2116619/xi-jinpings-grand-plan-xiongan" title="Xi Jinping’s grand plan for Xiongan">Xi Jinping’s grand plan for Xiongan</a></h3>
+<time property="dc:modified" content="2017-10-23T19:11:06+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="short" class="updated" datetime="2017-10-23T19:11:06+08:00">Oct 23rd 2017, 7:11pm</time>
+</article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 even has-image color-color3" about="/presented/news/hong-kong/education/topics/esf-first-50-years-people-stories/article/2116261/teachers" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="A teacher’s dream come true" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="non-annotated-image">
+  <a href="/presented/news/hong-kong/education/topics/esf-first-50-years-people-stories/article/2116261/teachers"><img typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/220x137/public/2017/10/20/us_mock_election_1992.jpg?itok=QEZMZ6Ri" width="220" height="137" alt="A teacher’s dream come true" /></a></div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/presented/news/hong-kong/education/topics/esf-first-50-years-people-stories/article/2116261/teachers" title="A teacher’s dream come true">A teacher’s dream come true</a></h3>
+<div class="field field-name-field-sponsor"><span class="title">Sponsored by:</span> <span class="sponsor">English Schools Foundation</span></div>
+</div></article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 odd has-image color-color7" about="/magazines/post-magazine/long-reads/article/2114153/witnesses-horror-allied-civilians-wartime-hong" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Witnesses to horror: the Allied civilians in wartime Hong Kong who watched, helpless, as Chinese starved at hands of Japanese" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="9" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/magazines/post-magazine/long-reads/article/2114153/witnesses-horror-allied-civilians-wartime-hong"><img typeof="foaf:Image" data-original="https://cdn4.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/06/c9ba9764-a749-11e7-ac3e-6a4e39b7ad7c_image_hires_170116.JPG?itok=jJdXk3Ae" width="220" height="137" alt="Fear, isolation and constant danger were the lot of Allied civilians initially spared internment in second world war Hong Kong, but that was nothing compared to the atrocities Japanese perpetrated on city’s Chinese population" title="Fear, isolation and constant danger were the lot of Allied civilians initially spared internment in second world war Hong Kong, but that was nothing compared to the atrocities Japanese perpetrated on city’s Chinese population" /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/magazines/post-magazine" typeof="Concept" property="prefLabel" datatype="">Post Magazine</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/magazines/post-magazine/long-reads/article/2114153/witnesses-horror-allied-civilians-wartime-hong" title="The horrors they bore: Allied civilians at large in wartime Hong Kong">The horrors they bore: Allied civilians at large in wartime Hong Kong</a></h3>
+<time property="dc:modified" content="2017-10-09T15:50:39+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-09T15:50:39+08:00">9 Oct 2017 - 3:50pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/magazines/post-magazine/long-reads/article/2114153/witnesses-horror-allied-civilians-wartime-hong#comments" title="9 comments" itemprop="interactionCount"><span class="scmp-icon-comment"></span>9</a></span>
+</div></article>
+</div> <div class="swiper-slide"><article class="node node-video article-level view-mode-lvl_18 even has-image color-color3" about="/video/hong-kong/2115317/meet-dickie-lee-one-worlds-top-tennis-racquet-stringers" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Meet Dickie Lee, one of the world’s top tennis racquet stringers" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image color-color3">
+  <a href="/video/hong-kong/2115317/meet-dickie-lee-one-worlds-top-tennis-racquet-stringers"><img typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/220x137/public/video/thumbnail/tennis.jpg?itok=qZfFq6G0" width="220" height="137" alt="Meet Dickie Lee, one of the world’s top tennis racquet stringers" /></a><a href="/video/hong-kong/2115317/meet-dickie-lee-one-worlds-top-tennis-racquet-stringers" class="scmp-icon-video-play"></a>
+  <strong class="field field-name-field-video-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/video/hong-kong" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Hong Kong</a>  </strong>
+</div><h3 class="node-title lvl_18-title"><a href="/video/hong-kong/2115317/meet-dickie-lee-one-worlds-top-tennis-racquet-stringers" title="Meet Dickie Lee, one of the world’s top tennis racquet stringers">Meet Dickie Lee, one of the world’s top tennis racquet stringers</a></h3>
+<time property="dc:modified" content="2017-10-14T13:51:04+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="short" class="updated" datetime="2017-10-14T13:51:04+08:00">Oct 14th 2017, 1:51pm</time>
+</article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 odd has-image color-color2" about="/news/china/diplomacy-defence/article/2114983/us-government-quiet-chinese-counter-agents-cripple-spy" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="US government quiet as Chinese agents cripple spy operations in Beijing" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="23" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/news/china/diplomacy-defence/article/2114983/us-government-quiet-chinese-counter-agents-cripple-spy"><img typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/12/a3e6704e-aeab-11e7-9cb1-5f6b75e2d8b2_image_hires_194223.jpg?itok=XdhW27sv" width="220" height="137" alt="Chinese paramilitary police officers secure an area on Tiananmen Square in Beijing on September 28, 2017. Photo: AFP" title="Chinese paramilitary police officers secure an area on Tiananmen Square in Beijing on September 28, 2017. Photo: AFP" /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/news/china" typeof="Concept" property="prefLabel" datatype="">China</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/news/china/diplomacy-defence/article/2114983/us-government-quiet-chinese-counter-agents-cripple-spy" title="US government quiet on their lost spies in Beijing">US government quiet on their lost spies in Beijing</a></h3>
+<time property="dc:modified" content="2017-10-12T21:41:41+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-12T21:41:41+08:00">12 Oct 2017 - 9:41pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/news/china/diplomacy-defence/article/2114983/us-government-quiet-chinese-counter-agents-cripple-spy#comments" title="23 comments" itemprop="interactionCount"><span class="scmp-icon-comment"></span>23</a></span>
+</div></article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 even has-image color-color3" about="/news/hong-kong/community/article/2114946/explain-what-does-it-mean-be-poor-hong-kong-and-how-many" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Explain This: what does it mean to be poor in Hong Kong, and how many people live in poverty?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="26" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/news/hong-kong/community/article/2114946/explain-what-does-it-mean-be-poor-hong-kong-and-how-many"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/12/a88cf864-ae62-11e7-9cb1-5f6b75e2d8b2_image_hires_121025.JPG?itok=t-YhGrHM" width="220" height="137" alt="An elderly woman collecting scrap cardboard boxes to resell goes about her work outside the Louis Vuitton store in Central. Photo: EPA" title="An elderly woman collecting scrap cardboard boxes to resell goes about her work outside the Louis Vuitton store in Central. Photo: EPA" /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/news/hong-kong" typeof="Concept" property="prefLabel" datatype="">Hong Kong</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/news/hong-kong/community/article/2114946/explain-what-does-it-mean-be-poor-hong-kong-and-how-many" title="What does it mean to be poor in Hong Kong?">What does it mean to be poor in Hong Kong?</a></h3>
+<time property="dc:modified" content="2017-10-12T12:10:32+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-12T12:10:32+08:00">12 Oct 2017 - 12:10pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/news/hong-kong/community/article/2114946/explain-what-does-it-mean-be-poor-hong-kong-and-how-many#comments" title="26 comments" itemprop="interactionCount"><span class="scmp-icon-comment"></span>26</a></span>
+</div></article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 odd has-image color-color2" about="/news/china/policies-politics/article/2114964/communist-party-ghostwriters-who-wrote-book-xi-jinping" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="The Communist Party ghostwriters who wrote the book on Xi Jinping" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/news/china/policies-politics/article/2114964/communist-party-ghostwriters-who-wrote-book-xi-jinping"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/11/c4ff1b40-ae89-11e7-9cb1-5f6b75e2d8b2_image_hires_223925.JPG?itok=ieUDw0IL" width="220" height="137" alt="Xi Jinping visits Jinggangshan, Jiangxi province,. Photo: SCMPOST" title="Xi Jinping visits Jinggangshan, Jiangxi province,. Photo: SCMPOST" /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/news/china" typeof="Concept" property="prefLabel" datatype="">China</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/news/china/policies-politics/article/2114964/communist-party-ghostwriters-who-wrote-book-xi-jinping" title="The Communist Party ghostwriters who wrote the book on Xi">The Communist Party ghostwriters who wrote the book on Xi</a></h3>
+<time property="dc:modified" content="2017-10-11T23:29:42+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-11T23:29:42+08:00">11 Oct 2017 - 11:29pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/news/china/policies-politics/article/2114964/communist-party-ghostwriters-who-wrote-book-xi-jinping#comments" title="1 comment" itemprop="interactionCount"><span class="scmp-icon-comment"></span>1</a></span>
+<span title="Article contains video" class="icon icon-video"></span></div></article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 even has-image color-color3" about="/news/hong-kong/economy/article/2114949/despite-long-commutes-save-money-hong-kong-couple-just-cant" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Despite long commutes to save money, Hong Kong couple just can’t keep pace with rising property prices" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="42" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/news/hong-kong/economy/article/2114949/despite-long-commutes-save-money-hong-kong-couple-just-cant"><img typeof="foaf:Image" data-original="https://cdn3.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/12/e57cf7a8-ae47-11e7-9cb1-5f6b75e2d8b2_image_hires_183614.jpg?itok=MPodX1FD" width="220" height="137" alt="Justin Yu and his wife Julie spend two hours a day travelling between home and work by bus. Photo: Nora Tam" title="Justin Yu and his wife Julie spend two hours a day travelling between home and work by bus. Photo: Nora Tam" /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/news/hong-kong" typeof="Concept" property="prefLabel" datatype="">Hong Kong</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/news/hong-kong/economy/article/2114949/despite-long-commutes-save-money-hong-kong-couple-just-cant" title="Why this Hong Kong couple cannot keep pace with property prices">Why this Hong Kong couple cannot keep pace with property prices</a></h3>
+<time property="dc:modified" content="2017-10-12T18:36:18+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-12T18:36:18+08:00">12 Oct 2017 - 6:36pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/news/hong-kong/economy/article/2114949/despite-long-commutes-save-money-hong-kong-couple-just-cant#comments" title="42 comments" itemprop="interactionCount"><span class="scmp-icon-comment"></span>42</a></span>
+<span title="Article contains video" class="icon icon-video"></span></div></article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 odd has-image color-color3" about="/news/hong-kong/education/article/2114955/roundabout-route-national-education-chinese-history-rule" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Roundabout route to national education? Chinese history rule for Hong Kong secondary schools stokes fears of renewed push" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="67" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/news/hong-kong/education/article/2114955/roundabout-route-national-education-chinese-history-rule"><img typeof="foaf:Image" data-original="https://cdn2.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/12/bb6d8152-ae6b-11e7-9cb1-5f6b75e2d8b2_image_hires_183529.JPG?itok=ouUaoNI3" width="220" height="137" alt="Chinese history is already taught in all secondary schools at the junior levels but not always as an independent subject. Photo: David Wong" title="Chinese history is already taught in all secondary schools at the junior levels but not always as an independent subject. Photo: David Wong" /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/news/hong-kong" typeof="Concept" property="prefLabel" datatype="">Hong Kong</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/news/hong-kong/education/article/2114955/roundabout-route-national-education-chinese-history-rule" title="Chinese history rule for schools revives concerns about national education">Chinese history rule for schools revives concerns about national education</a></h3>
+<time property="dc:modified" content="2017-10-12T18:35:33+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-12T18:35:33+08:00">12 Oct 2017 - 6:35pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/news/hong-kong/education/article/2114955/roundabout-route-national-education-chinese-history-rule#comments" title="67 comments" itemprop="interactionCount"><span class="scmp-icon-comment"></span>67</a></span>
+<span title="Article contains video" class="icon icon-video"></span></div></article>
+</div> <div class="swiper-slide"><article class="node node-article article-level view-mode-lvl_18 even has-image color-color7" about="/magazines/post-magazine/long-reads/article/2114934/yes-well-have-no-bananas-scientists-race-save" typeof="sioc:Item foaf:Document">
+  <span property="dc:title" content="Yes, we’ll have no bananas:  scientists race to save the world’s most popular fruit" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="3" datatype="xsd:integer" class="rdf-meta element-hidden"></span><div class="annotated-image">
+  <a href="/magazines/post-magazine/long-reads/article/2114934/yes-well-have-no-bananas-scientists-race-save"><img typeof="foaf:Image" data-original="https://cdn1.i-scmp.com/sites/default/files/styles/220x137/public/images/methode/2017/10/11/fa6a2046-ae6a-11e7-9cb1-5f6b75e2d8b2_image_hires_192631.jpg?itok=7p8_d7UT" width="220" height="137" alt="Cavendish bananas, which are most commonly sold in Hong Kong, are under threat." title="Cavendish bananas, which are most commonly sold in Hong Kong, are under threat." /></a>
+  <strong class="field field-name-field-section field-type-taxonomy-term-reference field-label-hidden">
+    <a href="/magazines/post-magazine" typeof="Concept" property="prefLabel" datatype="">Post Magazine</a>  </strong>
+</div><div class="content-wrapper"><h3 class="node-title lvl_18-title"><a href="/magazines/post-magazine/long-reads/article/2114934/yes-well-have-no-bananas-scientists-race-save" title="Our favourite bananas are under threat; can science come to rescue?">Our favourite bananas are under threat; can science come to rescue?</a></h3>
+<time property="dc:modified" content="2017-10-11T19:32:27+08:00" datatype="xsd:dateTime" itemprop="dateModified" data-date-format="scmp_standard" class="updated" datetime="2017-10-11T19:32:27+08:00">11 Oct 2017 - 7:32pm</time>
+<span property="sioc:num_replies" datatype="xsd:integer" class="comment-count"><a href="/magazines/post-magazine/long-reads/article/2114934/yes-well-have-no-bananas-scientists-race-save#comments" title="3 comments" itemprop="interactionCount"><span class="scmp-icon-comment"></span>3</a></span>
+</div></article>
+</div></div><div class="pager-wrapper"><div class="pager-carousel-54c5eadad2 swiper-pager"></div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+        </div>
+        </div>
+        </div>
+          
+    </div>
+</div>
+<!-- Bootstrap JS Toolkit -->
+<div class="device-xs visible-xs"></div>
+<div class="device-sm visible-sm"></div>
+<div class="device-md visible-md"></div>
+<div class="device-lg visible-lg"></div>
+</section>
+<div id="device-tablet"></div>  </main>
+<!-- /#page-content -->
+
+  <footer class="footer container-fluid" id="page-footer">
+      <div class="region region-footer">
+    <section id="block-panels-mini-footer-boom" class="block block-panels-mini clearfix">
+
+      
+  <div class="panel-2col-stacked clearfix panel-display" id="mini-panel-footer_boom">
+  
+  <div class="center-wrapper">
+    <div class="panel-col-first panel-panel">
+      <div class="inside"></div>
+    </div>
+    <div class="panel-col-last panel-panel">
+      <div class="inside"></div>
+    </div>
+  </div>
+
+      <div class="panel-col-bottom panel-panel">
+      <div class="inside"><div class="panel-pane pane-scmp-footer-footer-pane footer-in-blue pane-first pos-0"  >
+  
+  
+  
+  
+  <div class="pane-content">
+      <script>
+  (function ($) {
+    setTimeout(function () {
+      var edition = $.cookie('Drupal.visitor.edition') || 'O1';
+      var current_product = Drupal.settings.scmp_footer.current_product || 'cc';
+      if (edition === 'HK') {
+        var body_classes = $('body').attr('class');
+        var responsive = (body_classes.indexOf('theme-boom') !== -1 && body_classes.indexOf('container-non-responsive') === -1) ? "true" : "false";
+        $('#footer').before('<div class="cgg-compare-widget" data-channel="globalfooter" data-currentProduct="' + current_product + '" data-products="cc,pl,hl" data-widgetHeading="Compare and Save" data-locale="en-HK" data-subscriber="SCMP" data-campaign="SCMP" data-responsive="' + responsive + '" data-limit="40" ></div>');
+        var d = document, s = 'script', id = 'cgg-js';
+        var js, cjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+          return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = ("https:" === document.location.protocol) ? "https://widgets.moneyhero.com.hk/embed/dom.js" : "http://widgets.compareglobal.co.uk/embed/dom.js";
+        cjs.parentNode.insertBefore(js, cjs);
+      }
+    }, 500);
+  })(jQuery);
+</script>
+<div id="footer" class="footer-v2">
+  <div class="footer-top">
+    <div class="container">
+      <div class="footer-top-left">
+        <div class="logo font-scmp-logo-flag">South China Morning Post</div>
+      </div>
+      <div class="footer-top-right">
+                  <div class="footer-social-connect">
+            Stay connected          </div>
+          <div class="footer-social-menu">
+            <ul class="menu nav"><li class="first leaf menu-45815"><a href="https://www.facebook.com/scmp" title="Follow SCMP" class="scmp-icon-facebook">Facebook</a></li>
+<li class="last leaf menu-45816"><a href="https://twitter.com/scmp_news" title="Follow SCMP" class="scmp-icon-twitter">Twitter</a></li>
+</ul>          </div>
+              </div>
+    </div>
+  </div>
+
+  <div class="footer-middle">
+    <div class="container">
+
+              
+<div class="footer-sitemap-menu top-menu">
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-46646"><a href="/news/hong-kong">Hong Kong</a><ul class="menu nav"><li class="first leaf menu-46652"><a href="/news/hong-kong/politics">Politics</a></li>
+<li class="leaf menu-46647"><a href="/news/hong-kong/economy">Economy</a></li>
+<li class="leaf menu-46648"><a href="/news/hong-kong/health-environment">Health &amp; Environment</a></li>
+<li class="leaf menu-46650"><a href="/news/hong-kong/law-crime">Law &amp; Crime</a></li>
+<li class="last leaf menu-46653"><a href="/news/hong-kong/education">Education &amp; Community</a></li>
+</ul></li>
+</ul>    <ul class="menu nav"><li class="first last expanded menu-45716"><a href="/news">News</a><ul class="menu nav"><li class="first leaf menu-46683"><a href="/news/china">China</a></li>
+<li class="leaf menu-46682"><a href="/news/hong-kong">Hong Kong</a></li>
+<li class="leaf menu-45721"><a href="/news/asia">Asia</a></li>
+<li class="leaf menu-45722"><a href="/news/world">World</a></li>
+<li class="last leaf menu-69643"><a href="http://www.scmp.com/topics">Topics</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-46654"><a href="/news/china">China</a><ul class="menu nav"><li class="first leaf menu-46655"><a href="/news/china/policies-politics">Policies &amp; Politics</a></li>
+<li class="leaf menu-46656"><a href="/news/china/diplomacy-defence">Diplomacy &amp; Defence</a></li>
+<li class="leaf menu-46657"><a href="/news/china/money-wealth">Money &amp; Wealth</a></li>
+<li class="leaf menu-46658"><a href="/news/china/society">Society</a></li>
+<li class="leaf menu-46659"><a href="/news/china/economy">Economy</a></li>
+<li class="last leaf menu-46660"><a href="/tech">Tech</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-45723"><a href="/business">Business</a><ul class="menu nav"><li class="first leaf menu-45726"><a href="/business/companies">Companies</a></li>
+<li class="leaf menu-46670"><a href="/business/markets">Markets</a></li>
+<li class="leaf menu-45731"><a href="/property">Property</a></li>
+<li class="leaf menu-45725"><a href="/business/investor-relations">Investor Relations</a></li>
+<li class="leaf menu-46671"><a href="/business/mutual-funds">Mutual Funds</a></li>
+<li class="leaf menu-45728"><a href="/business/global-economy">Economy</a></li>
+<li class="leaf menu-45724"><a href="/news/china/economy">China Economy</a></li>
+<li class="leaf menu-45727"><a href="/news/china/money-wealth">Money &amp; Wealth</a></li>
+<li class="last leaf menu-65262"><a href="/topics/country-reports">Country Reports</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-46661"><a href="/tech">Tech</a><ul class="menu nav"><li class="first leaf menu-53258"><a href="/tech/china-tech">China Tech</a></li>
+<li class="leaf menu-46662"><a href="/tech/enterprises">Enterprises</a></li>
+<li class="leaf menu-46663"><a href="/tech/social-gadgets">Social &amp; Gadgets</a></li>
+<li class="leaf menu-46664"><a href="/tech/start-ups">Start-ups</a></li>
+<li class="leaf menu-46665"><a href="/tech/apps-gaming">Apps &amp; Gaming</a></li>
+<li class="leaf menu-46666"><a href="/tech/innovation">Innovation</a></li>
+<li class="leaf menu-46667"><a href="/tech/leaders-founders">Leaders &amp; Founders</a></li>
+<li class="leaf menu-46668"><a href="/tech/science-research">Science &amp; Research</a></li>
+<li class="last leaf menu-46669"><a href="/tech/e-commerce">E-Commerce</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-45739"><a href="/lifestyle">Lifestyle</a><ul class="menu nav"><li class="first leaf menu-45740"><a href="/culture/arts-entertainment">Arts &amp; Entertainment</a></li>
+<li class="leaf menu-45741"><a href="/lifestyle/health-beauty">Health &amp; Beauty</a></li>
+<li class="leaf menu-46672"><a href="/culture/film-tv">Film &amp; TV</a></li>
+<li class="leaf menu-45745"><a href="/lifestyle/food-drink">Food &amp; Drink</a></li>
+<li class="leaf menu-45743"><a href="/lifestyle/families">Families</a></li>
+<li class="leaf menu-45746"><a href="/culture/music">Music</a></li>
+<li class="leaf menu-45744"><a href="/lifestyle/fashion-luxury">Fashion &amp; Luxury</a></li>
+<li class="leaf menu-45742"><a href="/culture/books">Books</a></li>
+<li class="leaf menu-45750"><a href="/lifestyle/travel-leisure">Travel &amp; Leisure</a></li>
+<li class="last leaf menu-45749"><a href="/lifestyle/watches">Watches</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper footer-column-narrow">
+    <ul class="menu nav"><li class="first last expanded menu-45751"><a href="/sport">Sport</a><ul class="menu nav"><li class="first leaf menu-45752"><a href="/sport/hong-kong" title="">Hong Kong</a></li>
+<li class="leaf menu-45753"><a href="/sport/china" title="">China</a></li>
+<li class="leaf menu-45754"><a href="/sport/golf" title="">Golf</a></li>
+<li class="leaf menu-45755"><a href="/sport/racing" title="">Racing</a></li>
+<li class="leaf menu-45756"><a href="/sport/rugby" title="">Rugby</a></li>
+<li class="leaf menu-45757"><a href="/sport/soccer" title="">Soccer</a></li>
+<li class="leaf menu-45758"><a href="/sport/tennis" title="">Tennis</a></li>
+<li class="last leaf menu-46673"><a href="/sport/boxing">Boxing</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper footer-column-wide">
+    <ul class="menu nav"><li class="first last expanded menu-45732"><a href="/comment">Comment</a><ul class="menu nav"><li class="first leaf menu-45735"><a href="/comment/insight-opinion">Insight &amp; Opinion</a></li>
+<li class="leaf menu-45738"><a href="/comment/harrys-view">Harry&#039;s View</a></li>
+<li class="leaf menu-45733"><a href="/comment/blogs">Blogs</a></li>
+<li class="leaf menu-45737"><a href="/comment/polls" title="">Polls</a></li>
+<li class="last leaf menu-45736"><a href="/comment/letters">Letters</a></li>
+</ul></li>
+</ul>    <ul class="menu nav"><li class="first last expanded menu-45765"><a href="/">Multimedia</a><ul class="menu nav"><li class="first leaf menu-45767"><a href="/video-0">Video</a></li>
+<li class="leaf menu-45766"><a href="/photos">Photos</a></li>
+<li class="leaf menu-45768"><a href="/infographics">Infographics</a></li>
+<li class="last leaf menu-45769"><a href="http://www.scmp.com/topics/scmp-chronicles">SCMP Chronicles</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-45759"><a href="/magazines">Magazine</a><ul class="menu nav"><li class="first leaf menu-45760"><a href="/magazines/post-magazine" title="">Post Magazine</a></li>
+<li class="leaf menu-45761"><a href="/magazines/style">Style</a></li>
+<li class="leaf menu-45763"><a href="/topics/good-eating">Good Eating</a></li>
+<li class="leaf menu-45764"><a href="/topics/destination-macau">Destination Macau</a></li>
+<li class="last leaf menu-65263"><a href="/topics/hk-magazine-archive">HK Magazine Archive</a></li>
+</ul></li>
+</ul>    <ul class="menu nav"><li class="first last expanded menu-46674"><span class="nolink">Other</span><ul class="menu nav"><li class="first leaf menu-45771"><a href="http://www.scmp.com/page/1500828/topics">Topics</a></li>
+<li class="leaf menu-45772"><a href="/weather">Weather</a></li>
+<li class="leaf menu-45773"><a href="/most-popular">Most Popular</a></li>
+<li class="leaf menu-45775"><a href="/timemachine">7 Days Index</a></li>
+<li class="leaf menu-45779"><a href="/countryreports">Country Reports</a></li>
+<li class="leaf menu-45776"><a href="/lifestyle/crossword">Crossword</a></li>
+<li class="last leaf menu-45778"><a href="/promotions">Promotions</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+<div class = "footer-sitemap-menu bottom-menu">
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-46675"><a href="/directories">Directories</a><ul class="menu nav"><li class="first leaf menu-46676"><a href="http://www.luxehomes.com.hk" target="_blank">Luxehomes</a></li>
+<li class="leaf menu-46677"><a href="http://www.ays.com.hk" target="_blank">At your service</a></li>
+<li class="leaf menu-46678"><a href="http://business-services.scmp.com/">Business Services Directory</a></li>
+<li class="leaf menu-46679"><a href="http://mice.scmp.com/">MICE Biz</a></li>
+<li class="last leaf menu-46680"><a href="http://goodeating.scmp.com/restaurants/">Restaurant Directory</a></li>
+</ul></li>
+</ul>    <ul class="menu nav"><li class="first last expanded menu-45770"><a href="/">Information</a><ul class="menu nav"><li class="first leaf menu-45780"><a href="http://photo.scmp.com/">Buy SCMP Photos</a></li>
+<li class="leaf menu-45781"><a href="/reprint-policy">Copyright Licensing</a></li>
+<li class="leaf menu-45777"><a href="/rss">RSS Feeds</a></li>
+<li class="leaf menu-53647"><a href="http://www.scmp.com/content/search/news/news">SCMP.com search</a></li>
+<li class="leaf menu-53646"><a href="http://pqasb.pqarchiver.com/scmp/advancedsearch.html" target="_blank"> Historical Archive</a></li>
+<li class="last leaf menu-57603"><a href="https://customerservice.scmp.com/subscribe/" target="_blank">Print Subscription</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper footer-column-double">
+    <ul class="menu nav"><li class="first last expanded menu-45782"><a href="http://advertising.scmp.com/">Advertising &amp; Marketing Solutions</a><ul class="menu nav"><li class="first leaf menu-45783"><a href="http://advertising.scmp.com/contact-us">Our Solutions</a></li>
+<li class="leaf menu-45784"><a href="http://advertising.scmp.com/sites/all/themes/scmpams/ratecard/South%20China%20Morning%20Post_Media%20Kit_HKD.pdf  " target="_blank">Media Kit – HK</a></li>
+<li class="leaf menu-45785"><a href="http://advertising.scmp.com/sites/all/themes/scmpams/ratecard/South%20China%20Morning%20Post_Media%20Kit_USD.pdf " target="_blank">Media Kit – Overseas</a></li>
+<li class="leaf menu-45790"><a href="http://advertising.scmp.com/sites/all/themes/scmpams/ratecard/South%20China%20Morning%20Post_Media%20Kit_RMB.pdf " target="_blank">Media Kit – China</a></li>
+<li class="leaf menu-45788"><a href="http://advertising.scmp.com/sites/all/themes/scmpams/content-images/South%20China%20Morning%20Post_Outdoor%20Advertising.pdf " target="_blank">Outdoor Advertising</a></li>
+<li class="leaf menu-45787"><a href="http://marketingsolutions.scmp.com" target="_blank">Marketing Solutions</a></li>
+<li class="last leaf menu-45789"><a href="http://www.cpjobs.com/hk/recruiters" target="_blank">Recruitment Advertising</a></li>
+</ul></li>
+</ul>    <ul class="menu nav"><li class="first last expanded menu-45791"><a href="http://events.scmp.com" target="_blank">Events</a><ul class="menu nav"><li class="first leaf menu-45792"><a href="http://events.scmp.com" target="_blank">SCMP Events</a></li>
+<li class="last leaf menu-45793"><a href="http://osc.scmp.com/" target="_blank">Operation Santa Claus</a></li>
+</ul></li>
+</ul>  </div>
+  <div class="footer-column-wrapper">
+    <ul class="menu nav"><li class="first last expanded menu-45794"><span class="nolink">Other Sites</span><ul class="menu nav"><li class="first leaf menu-45795"><a href="http://www.cpjobs.com/hk/?utm_source=scmp_footer" target="_blank">CPJobs.com</a></li>
+<li class="leaf menu-45796"><a href="http://www.educationpost.com.hk" target="_blank">Education Post</a></li>
+<li class="leaf menu-45798"><a href="http://yp.scmp.com" target="_blank">Young Post</a></li>
+<li class="leaf menu-45799"><a href="http://www.cosmopolitan.com.hk" target="_blank">Cosmopolitan</a></li>
+<li class="leaf menu-45800"><a href="http://cg.cosmopolitan.com.hk/" target="_blank">CosmoGIRL!</a></li>
+<li class="leaf menu-45801"><a href="http://www.elle.com.hk/" target="_blank">Elle</a></li>
+<li class="leaf menu-45802"><a href="http://www.harpersbazaar.com.hk" target="_blank">Harpers Bazaar</a></li>
+<li class="leaf menu-48553"><a href="http://www.scmp.com/sport/racing">Racing Post</a></li>
+<li class="last leaf menu-69055"><a href="https://www.esquirehk.com/" target="_blank">Esquire</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+      
+              <div class="footer-device-menu">
+          <ul class="menu nav"><li class="first expanded menu-45806"><a href="http://www.scmp.com/mobile" class="icon-mobile-after">SCMP Mobile Edition</a><ul class="menu nav"><li class="first leaf menu-45809"><a href="https://itunes.apple.com/hk/app/scmp-news-pulse/id623201967?mt=8" class="scmp-icon-apple">IOS</a></li>
+<li class="last leaf menu-45810"><a href="https://play.google.com/store/apps/details?id=com.scmp.newspulse" class="scmp-icon-android">Android</a></li>
+</ul></li>
+<li class="expanded menu-45807"><a href="http://www.scmp.com/tabletedition" class="icon-tablet-after">SCMP TABLET Edition</a><ul class="menu nav"><li class="first leaf menu-45812"><a href="https://itunes.apple.com/hk/app/scmp-news-pulse/id623201967?mt=8" class="scmp-icon-apple">iOS HTML5</a></li>
+<li class="last leaf menu-45813"><a href="https://play.google.com/store/apps/details?id=com.scmp.newspulse" class="scmp-icon-android">Android HTML5</a></li>
+</ul></li>
+<li class="last expanded menu-45808"><a href="http://www.scmp.com/epaper" class="icon-laptop-after">SCMP ePaper Edition</a><ul class="menu nav"><li class="first last leaf menu-45814"><a href="http://www.scmp.com/epaper" class="scmp-icon-arrow-right">SCMP ePaper Edition</a></li>
+</ul></li>
+</ul>        </div>
+      
+                    <div class="footer-newsletter">
+        <a href="https://www.scmp.com/user/simplenews" class="scmp-icon-enews" title="SIGN UP for SCMP eNewsletter"><span class="bold">SIGN UP</span><span> for SCMP eNewsletter</span></a>          <div class="scmp-icon-arrow-right1"></div>
+        </div>
+          </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+              <div class="footer-base-menu">
+          <ul class="menu nav"><li class="first leaf menu-3168"><a href="http://corp.scmp.com" target="_blank">SCMP Publishers</a></li>
+<li class="leaf menu-3169"><a href="/privacy-policy" title="">Privacy Policy</a></li>
+<li class="leaf menu-3170"><a href="/faqs" title="">FAQs</a></li>
+<li class="leaf menu-3171"><a href="/terms-conditions" title="">Terms &amp; Conditions</a></li>
+<li class="leaf menu-3172"><a href="/work-for-us">Work For Us</a></li>
+<li class="last leaf menu-3173"><a href="/contactus" title="">Contact Us</a></li>
+</ul>        </div>
+      
+              <div class="footer-disclaimer">
+          Copyright &copy; <em class="placeholder">2017</em> South China Morning Post Publishers Ltd. All rights reserved.        </div>
+          </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+
+</section>
+<section id="block-panels-mini-skin-ad-oop-tag" class="block block-panels-mini clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" id="mini-panel-skin_ad_oop_tag">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-scmp-advert-doubleclick size-1x1 square pane-first pos-0 oop"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2f2c8052bb" class="scmp_advert-tile scmp_advert-tile-59f2f2c8052bb"><!-- GPT OOP Ad Slot 59f2f2c8052bb -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2f2c8052bb") });</script>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-scmp-advert-doubleclick size-1x1 square pane-last pos-1 oop"  >
+  
+  
+  
+  
+  <div class="pane-content">
+    <div id="div-gpt-ad-59f2f2c805755" class="scmp_advert-tile scmp_advert-tile-59f2f2c805755"><!-- GPT OOP Ad Slot 59f2f2c805755 -->
+<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-59f2f2c805755") });</script>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</section>
+<section id="block-scmp-content-colorbox-promo-6" class="block block-scmp-content clearfix">
+
+      
+  
+</section>
+<section id="block-scmp-content-colorbox-promo-7" class="block block-scmp-content clearfix">
+
+      
+  
+</section>
+  </div>
+  </footer>  <!-- /#page-footer -->
+  <script src="https://cdn2.i-scmp.com/sites/default/files/js/js_WMJEThHM4MQmUPey8DsXyPgNRMETNHE-xtuWEZA0rW0.js"></script>
+<script src="https://cdn4.i-scmp.com/sites/default/files/js/js_V_dZTn_uMPsYJvcSNywZ9K8xM5pazp5e2jqGC4uuyfM.js"></script>
+<script src="https://cdn1.i-scmp.com/sites/default/files/js/js_ostsu0tr2IwqBQy7l8NCMm99xQQwpDrVRcVOtIGt1Ps.js"></script>
+<script src="https://cdn3.i-scmp.com/sites/default/files/js/js_ZVGkiKpNz6WBMUCKCCSepeCjPN9ipPvTLjDS5SRW_Rw.js"></script>
+<script src="https://cdn2.i-scmp.com/sites/default/files/js/js_AkVWXxQkpRH4y51OqCTWdH-gjvLHM7Y7xS7TT70uQq0.js"></script>
+<script>var _ain = {"id":1571,"url":"http:\/\/www.scmp.com\/news\/china\/policies-politics\/article\/2116964\/wang-huning-low-profile-liberal-dream-weaver-whos-about","postid":"2116964","title":"Wang Huning: the low-profile, liberal dream weaver who\u2019s about to become China\u2019s ideology tsar","pubdate":"2017-10-25T11:00:00Z","sections":"News,China,Policies \u0026 Politics,Diplomacy \u0026 Defence","tags":"China\u0026#039;s leadership reshuffle 2017,China\u0026#039;s leadership reshuffle 2017: All articles,China\u0026#039;s leadership reshuffle 2017: Profiles,China\u0026#039;s leadership reshuffle 2017: Rising stars","authors":"Kinling Lo"};</script>
+<script>
+      /* Cxense script */
+      if (jQuery.cookie('Drupal.visitor.cwp.uid')) { cX.callQueue.push(['addExternalId', { 'id': jQuery.cookie('Drupal.visitor.cwp.uid'), 'type': 'scp'}]); }
+      cX.callQueue.push(['setSiteId', '9222363734067071873']);
+      cX.callQueue.push(['sendPageViewEvent']);
+      </script>
+<script>(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+          e.src='http'+('https:'===location.protocol?'s://':'://')+'widgets.outbrain.com/outbrain.js';
+          t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');</script>
+<script>(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+          e.src='https://cdn2.i-scmp.com/sites/all/libraries/autotrack/autotrack.js';
+          t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');</script>
+<script>
+    // Add Chartbeat
+    var _sf_async_config = _sf_async_config || Drupal.settings.chartbeat;
+    (function($){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement("script");
+        e.setAttribute("language", "javascript");
+        e.setAttribute("type", "text/javascript");
+        e.setAttribute("src" , "//static.chartbeat.com/js/chartbeat_video.js") ;
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      var delay = window.location.pathname == "/video" ? 1000 : 0;
+      window.onload = (typeof window.onload != "function") ?
+         loadChartbeat : function() { oldonload(); setTimeout(function() { loadChartbeat(); }, delay); };
+    })(jQuery);
+      </script>
+<script src="https://cdn4.i-scmp.com/sites/default/files/js/js_g40IOOmAUKB4LOr_crtMT06ZrSerBwvf1iETKXfE6wQ.js"></script>
+</body>
+</html>

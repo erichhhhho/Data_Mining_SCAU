@@ -1,0 +1,2728 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+    <meta charset="utf-8">
+
+
+
+
+<script>
+    var gomez={
+    gs: new Date().getTime(),
+    acctId:"D3FD89",
+    grpId:"Escenic",
+    grpId1:"MDC",
+    grpId2:window.location.hostname,
+    grpId3:"unknown",
+    pgId:"story-detail",
+    wrate:1
+};
+</script>
+
+<script type='text/javascript'>
+    var a=window;a.dT_?a.console&&a.console.log("Duplicate agent injection detected, turning off redundant initConfig."):navigator.userAgent&&0<=navigator.userAgent.indexOf("RuxitSynthetic")||window.dT_||(window.dT_={cfg:"async=1|cors=1|doNotDetect=scr|md=acctId=bgomez.acctId,grpId=bgomez.grpId,grpId1=bgomez.grpId1,grpId2=bgomez.grpId2,grpId3=bgomez.grpId3,pgId=bgomez.pgId|lastModification=1501178412042|tp=500,50,5,1,10|reportUrl=//mcclatchy.dynatracesaas.com/dynaTraceMonitor|agentUri=//mcclatchy.dynatracesaas.com/dtagent_A23STVhjpqrstx_7000000031020.js|auto=#AUTO#|domain=#DOMAIN#|rid=RID_#REQUEST_ID#|rpid=#RESPONSE_ID#|app=Default Application"});(function(){function y(){var a=0;try{a=I.performance.timing.navigationStart+Math.floor(I.performance.now())}catch(b){}return 0>=a||isNaN(a)?(new Date).getTime():a}function n(a,b){for(var e=1;e<arguments.length;e++)a.push(arguments[e])}function m(a,b){return parseInt(a,b||10)}function g(a,b){var e=-1;b&&a&&a.indexOf&&(e=a.indexOf(b));return e}function J(a){document.cookie=a+'="";path=/'+(d.domain?";domain="+d.domain:"")+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;"}function K(a){a=encodeURIComponent(a);
+    var b=[];if(a)for(var e=0;e<a.length;e++){var c=a.charAt(e);n(b,ia[c]||c)}return b.join("")}function z(a,b,e,c){b||0==b?(b=(""+b).replace(/[;\n\r]/g,"_"),b="DTSA"===a.toUpperCase()?K(b):b,a=a+"="+b+";path=/"+(d.domain?";domain="+d.domain:""),e&&(a+=";expires="+e.toUTCString()),c&&(a+=";Secure"),document.cookie=a):J(a)}function r(a){var b,e,c,d=document.cookie.split(";");for(b=0;b<d.length;b++)if(e=g(d[b],"="),c=d[b].substring(0,e),e=d[b].substring(e+1),c=c.replace(/^\s+|\s+$/g,""),c===a)return"DTSA"===
+    a.toUpperCase()?decodeURIComponent(e):e;return""}function M(a){return/^[0-9A-Za-z_\$\+\/\.\-\*%\|]*$/.test(a)}function A(){var a=r(t);return a&&M(a)?a:""}function N(a){z(t,a,void 0,c.bcv("ssc"))}function O(a){a=a||A();var b={sessionId:null,c:null};if(a){var e=g(a,"|"),c=a;-1!==e&&(c=a.substring(0,e));e=g(c,"$");-1!==e?(b.sessionId=c.substring(e+1),b.c=c.substring(0,e)):b.sessionId=c}return b}function P(a){return O(a).c}function Q(a){if(a)return O(a).sessionId;if(a=A()){var b=g(a,"|");-1!=b&&(a=a.substring(0,
+    b))}return a}function B(a,b){return Math.floor(Math.random()*(b-a+1))+a}function R(a){var b=window.crypto||window.msCrypto,e;if(b)e=new Int8Array(a),b.getRandomValues(e);else for(e=[],b=0;b<a;b++)e.push(B(0,32));a=[];for(b=0;b<e.length;b++){var c=Math.abs(e[b]%32);a.push(String.fromCharCode(c+(9>=c?48:55)))}return a.join("")}function S(a){return document.getElementsByTagName(a)}function T(a){var b=a.length;if("number"===typeof b)a=b;else{for(var b=0,e=2048;a[e-1];)b=e,e+=e;for(var c=7;1<e-b;)c=(e+
+    b)/2,a[c-1]?b=c:e=c;a=a[c]?e:b}return a}function U(a){var b={};a=a.split("|");for(var e=0;e<a.length;e++){var c=a[e].split("=");2==c.length&&(b[c[0]]=decodeURIComponent(c[1].replace(/\+/g," ")))}return b}function p(a,b,e){b=b||{};a=a.split("|");for(var c=0;c<a.length;c++){var d=g(a[c],"="),f;-1===d?(f=a[c],b[f]="1"):(f=a[c].substring(0,d),b[f]=a[c].substring(d+1,a[c].length))}e||V(b);return b}function C(a){return a in d?d[a]:W[a]}function X(a){var b=location.hostname;return b&&a?b==a||-1!==b.indexOf("."+
+    a,b.length-("."+a).length):!0}function D(a){d[a]=0>g(d[a],"#"+a.toUpperCase())?d[a]:""}function ja(a,b){var e={};d.legacy="1";if(a){var f=/([a-zA-Z]*)[0-9]{0,4}_([a-zA-Z_0-9]*)_[0-9]+/g.exec(a);f&&f.length&&(e.csu=f[1],e.featureHash=f[2],e.dtVersion=c.version[0]+""+c.version[1])}b&&p(b,e,!0);X(e.domain)||(delete e.domain,e.domainOverride=location.hostname+","+e.domain);return e}function V(a){var b=a.spc;if(b){var c=document.createElement("textarea");c.innerHTML=b;a.spc=c.value}}function Y(a){var b=
+    a.agentUri;b&&-1<g(b,"_")&&(b=/([a-zA-Z]*)[0-9]{0,4}_([a-zA-Z_0-9]*)_[0-9]+/g.exec(b),a.csu=b[1],a.featureHash=b[2])}function Z(a){a.bp1||(a.bp2="1");X(d.domain)||(d.domainOverride=location.hostname+","+d.domain,delete d.domain)}function u(a){var b=document.cookie?document.cookie.split(a).length-1:0;if(1<b){var c=d.domain||window.location.hostname,f=window.location.hostname,L=window.location.pathname,h=0,k=0;q.push(a);do{var v=f.substr(h);if(v!=c||"/"!==L){var g=a,l=v==c?null:v,n=L,m=1,p=0;do document.cookie=
+    g+'=""'+(l?";domain="+l:"")+";path="+n.substr(0,m)+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;",m=n.indexOf("/",m),p++;while(-1!=m&&5>p);g=document.cookie?document.cookie.split(a).length-1:0;g<b&&(q.push(v),b=g)}h=f.indexOf(".",h)+1;k++}while(0!=h&&10>k&&1<b)}}function aa(a,b){for(var c=ba(b),d=!1,f=0;f<c.length;f++)c[f].frameId===w&&(c[f].b=a,d=!0);d||n(c,{frameId:w,b:a});ca(c)}function ca(a){var b="";if(a){for(var b=[],c=0;c<a.length;c++)"-"!=a[c].b&&(0<c&&0<b.length&&n(b,"p"),n(b,a[c].frameId),n(b,
+    "h"),n(b,a[c].b));b=b.join("")}b||(b="-");z("dtPC",b)}function ba(a){var b=r("dtPC"),c=[];if(b&&"-"!==b)for(var b=b.split("p"),d=0;d<b.length;d++){var f=b[d].split("h");if(2===f.length&&f[0]&&f[1]){var h=f[0],g;if(!(g=a)){g=m(h.split("_")[0]);var k=y()%6E8;k<g&&(k+=6E8);g=g+9E5>k}g&&n(c,{frameId:h,b:f[1]})}}return c}var l=window;if(!l.dT_||!l.dT_.cfg||"string"!=typeof l.dT_.cfg||l.dT_.initialized)l.console&&l.console.log("Initconfig not found or agent already initialized! This is an injection issue.");
+    else if(!(navigator.userAgent&&0<=navigator.userAgent.indexOf("RuxitSynthetic"))){var ka=window.setTimeout,E=window.sessionStorage,c={version:"10123170720155615",cfg:window.dT_&&window.dT_.cfg,ica:1};window.dT_=c;var I=window;c.agentStartTime=y();c.nw=y;c.apush=n;c.st=function(a,b){return ka(a,b)};c.buildType="appmon";var ia={"!":"%21","~":"%7E","*":"%2A","(":"%28",")":"%29","'":"%27",$:"%24",";":"%3B",",":"%2C"};c.gSSV=function(a){try{if(E)return E[a]}catch(b){}return null};c.sSSV=function(a,b){try{window.sessionStorage.setItem(a,
+    b)}catch(e){}};c.pn=m;c.iVSC=M;c.io=g;c.dC=J;c.sC=z;c.esc=K;c.gSId=P;c.gDtc=Q;c.gSC=A;c.sSC=N;c.gC=r;c.cRN=B;c.cRS=R;c.gEL=T;c.gEBTN=S;var d={reportUrl:"dynaTraceMonitor",initializedModules:"",csu:"dtagent",dataDtConfig:c.cfg},F;try{F=window.localStorage}catch(a){}(function(){var a=d.dataDtConfig;"string"==typeof a&&-1==g(a,"#CONFIGSTRING")&&(p(a,d),D("domain"),D("auto"),D("app"),Y(d))})();var l=S("script"),da=T(l),f,h;if(0<da)for(var k,ea=d.csu+"_bootstrap.js",G=0;G<da;G++)if(k=l[G],k.attributes){var fa=
+    k.attributes.getNamedItem("data-dtconfig"),x=k.src;if(fa)if(h=ja(k.src,fa.value),!f)f=h;else if("1"!=h.syntheticConfig){f=h;break}(k=x&&x.indexOf(ea))&&0<=k&&(k=k+ea.length+5,h||(h=d),h.app=x.length>k?x.substr(k):"Default%20Application")}if(f)for(var H in f)f.hasOwnProperty(H)&&(d[H]=f[H]);d.rx_visitID&&(c.rx_visitID=d.rx_visitID);(function(){var a=d.csu,a=(a.indexOf("dbg")==a.length-3?a.substr(0,a.length-3):a)+"_"+d.app+"_Store";try{var b=F&&F.getItem(a);if(b){var c=U(b),f=p(c.config,c).lastModification||
+    "",g=d.lastModification||"",h=m(f.substr(0,13)),k=m(g.substr(0,13));if(!g||h>=k)for(var l in c)c.hasOwnProperty(l)&&("config"==l?p(c[l],d):d[l]=c[l])}}catch(ma){}})();Z(d);try{var ga=d.ign;if(ga&&(new RegExp(ga)).test(window.location.href)){document.dT_=window.dT_=null;return}}catch(a){}var t="dtCookie";c.gSCN=function(){return t};c.gPCHN=function(){return"x-dtpc"};c.gRHN=function(){return"x-dtreferer"};c.pageContextCookieName="dtPC";c.latencyCookieName="dtLatC";c.mobileSessionIDCookieName="dtAdk";
+    c.cfg=d;c.pCfg=U;c.pCSAA=p;c.cFHFAU=Y;c.sCD=Z;c.hDSC=V;c.bcv=function(a){a=C(a);return"false"===a||"0"===a?!1:!!a};c.ncv=function(a){var b=m(C(a));isNaN(b)&&(b=m(W[a]));return b};c.scv=function(a){return String(C(a))};c.stcv=function(a,b){d[a]=b};c.rplC=function(a){return d=a};var q=[];u("dtPC");u(t);u("dtLatC");u("rxvt");c.aDCI=function(a){0<q.length&&(a.a("dCN",q.join(","),!1),q=[])};var W={ade:"",app:"",bandwidth:"300",bp1:!1,bp2:!1,bs:!1,cors:!1,csu:"",cux:!1,disableCookieManager:!1,disableLogging:!1,
+    disableXhrFailures:!1,domain:"",domainOverride:"",doNotDetect:"",dsndb:!1,dsss:!1,euf:!1,evl:"",extblacklist:"",exteventsoff:!1,fa:!1,featureHash:"",ffi:!1,hvt:216E5,ign:"",instr:"",lab:!1,legacy:!1,lmut:!0,lzwd:!1,md:"",mdn:5E3,mepp:10,moa:30,mrt:3,msl:3E4,ncw:!1,ntd:!1,oat:180,pui:!1,reportUrl:"",rid:"",ridPath:"",rpid:"",rt:0,rtl:100,rtp:1,rtt:1E3,rtu:200,sl:100,sosi:!1,spc:"",spl:!1,ssc:!1,st:3E3,svNB:!1,tp:"500,50,3",tvc:3E3,uam:!1,WST:!1,xb:"",xbp:null,xmut:!0,xt:0},w=c.agentStartTime%6E8+"_"+
+    m(B(0,1E3));c.gFId=function(){return w};c.frameId=w;aa(1);c.gPC=ba;c.cPC=aa;c.sPC=ca;var ha;try{ha=E.getItem("dtDisabled")}catch(a){}d.auto||d.legacy||ha||(f=d.agentname||d.csu||"dtagent",f=r("dtUseDebugAgent")?d.debugName||f+"dbg":d.name||f,h=d.agentUri||d.agentLocation+"/"+f+"_"+d.featureHash+"_"+d.buildNumber,d.async?(f=document.createElement("script"),f.setAttribute("src",h),d.async&&f.setAttribute("defer","true"),f.setAttribute("crossorigin","anonymous"),h=document.getElementsByTagName("script")[0],
+    h.parentElement.insertBefore(f,h)):document.write('<script type="text/javascript" src="'+h+'">\x3c/script>'));Q()||N(""+R(32));var la=P();c.gcSId=function(){return la}}})();
+</script>
+
+
+
+    
+        <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    
+
+    
+        <meta name="msapplication-TileImage" content="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/windowsmetro-144.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-144-precomposed.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-114-precomposed.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-72-precomposed.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-57-precomposed.png"/>
+    
+
+    
+        <link rel="shortcut icon" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/favicon.png"/>
+    
+
+    
+        <meta name="twitter:card" content="summary_large_image"/>
+    
+
+    
+        <meta name="twitter:site" content="McClatchyDC"/>
+    
+
+    
+        <meta name="twitter:title" content="China speeds ahead of U.S. as quantum race escalates, worrying scientists"/>
+    
+
+    
+        <meta property="og:site_name" content="mcclatchydc"/>
+    
+
+    
+        <meta property="og:type" content="article"/>
+    
+
+    
+        <meta property="og:title" content="China speeds ahead of U.S. as quantum race escalates, worrying scientists"/>
+    
+
+    
+        <meta property="og:url" content="http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html"/>
+    
+
+    
+        <meta property="og:image" content="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_1140/China%20Satellite"/>
+    
+
+    
+        <meta name="twitter:image" content="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_1140/China%20Satellite"/>
+    
+
+    
+        <meta property="og:description" content="Quantum computing and communication will change the world, and the United States and China scramble to master the technology first. China may be winning."/>
+    
+
+    
+        <meta name="twitter:description" content="Quantum computing and communication will change the world, and the United States and China scramble to master the technology first. China may be winning."/>
+    
+
+    
+        <meta property="fb:app_id" content="1407731799445564"/>
+    
+
+    
+
+    
+        <meta name="title" content="China and US square off in race to master quantum computing | McClatchy Washington Bureau"/>
+    
+
+    
+        <meta name="allow-comments" content="true"/>
+    
+
+    
+        <meta name="description" content="Quantum computing and communication will change the world, and the United States and China scramble to master the technology first. China may be winning."/>
+    
+
+    
+        <meta name="keywords" content="Quantum, computing, China, satellite, U.S., particle, Qubit, link, Beijing,"/>
+    
+
+    
+        <meta name="news_keywords" content="Quantum, computing, China, satellite, U.S., particle, Qubit, link, Beijing,"/>
+    
+
+    
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    
+
+    
+        <meta name="googlebot" content="noodp, noarchive"/>
+    
+
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+
+    
+        <link rel="canonical" href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html"/>
+    
+
+    
+        <meta name="original-source" content="http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html"/>
+    
+
+    
+        <meta name="google-site-verification" content="EedtwJCD34vv_4BAyiBZEQMjnQ_W3-NUVzBgXyT6ooY"/>
+    
+
+<title>China and US square off in race to master quantum computing | McClatchy Washington Bureau</title>
+
+
+<link rel="amphtml" href="http://amp.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html">
+
+<meta name="msapplication-TileImage" content="/wps/build/images/mcclatchydc/windowsmetro-144.png"/>
+
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wps/build/images/mcclatchydc/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wps/build/images/mcclatchydc/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wps/build/images/mcclatchydc/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/wps/build/images/mcclatchydc/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="/wps/build/images/mcclatchydc/favicon.png">
+
+
+
+
+
+
+    
+
+
+<script type="text/javascript"
+            src="/wps/source/scripts/libs/require.js"></script>
+
+<script type="text/javascript">
+    var wpsConfig = {
+        baseUrl: '/wps/source/scripts/src',
+        urlArgs: 'misv=d4f74c2',
+        paths: {
+            'fastdom': '../libs/fastdom.min',
+            'moment': '../libs/moment.min',
+            'jwplayer': ['https://d12j9jiosu7f.cloudfront.net/jwplayer-7.8.7/jwplayer',
+                         '../libs/jwplayer'],
+            'flickity': '../libs/flickity.pkgd.min',
+            'identity': '../libs/identityModulev3.min'
+        },
+        waitSeconds: 0
+    };
+    
+    var wpsRequire = requirejs.config(wpsConfig);
+</script>
+
+<script>
+    var mi = (function(mod) {
+        mod.lazyloaders = mod.lazyloaders || [];
+        return mod;
+    })(mi || {});
+    
+</script>
+
+
+    <script>mi.inMarket=false</script>
+
+
+
+<link href="/wps/build/css/theme.markets/mcclatchydc-6ea964e688.css" rel="stylesheet" type="text/css"/>
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.9/es5-shim.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/wps/build/js/mi-header-a194746558.js"></script>
+
+
+
+    <script type="text/javascript" src="/wps/source/scripts/libs/guid.js"></script>
+    <script>
+        wpsRequire(['identity'], function(IdentityModule) {
+            $(window).load(function() {
+                var identityModule = new IdentityModule();
+                var identityCookieName = 'AccessToken';
+                var identityPrefix = 'mcv4';
+                $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
+                 .done(function(json) {
+                     identityModule.GenerateIdentity(identityCookieName, identityPrefix, [json.ip]);
+                 })
+                 .fail(function() {
+                     identityModule.GenerateIdentity(identityCookieName, identityPrefix, [getGuid()]);
+                });
+            });
+        });
+    </script>
+    
+        
+
+
+        <!-- 
+                
+                
+                
+                
+
+                
+                
+                
+                
+
+                
+                
+                
+
+                
+                
+
+                
+                
+                
+                
+                
+                
+                
+
+                
+                
+                
+                
+
+                
+                
+                
+                
+
+
+                
+                    
+                        
+                        
+                    
+
+                
+                
+
+                
+                    
+                
+
+                
+                
+                 -->
+
+
+    
+
+
+
+<script type="text/javascript">
+mi.pageInfo.setConf({
+'marketInfo.viewsizes':[{"Extra-Small":[0,0]},{"Large":[1200,600]},{"Medium":[992,300]},{"Small":[768,300]}],
+'marketInfo.adsizes':{"outofpage":{},"wallpaper":{'1600x600':[1600,600],'None':[]},"floorboard":{'285x70':[285,70],'None':[]},"default":{'120x20':[120,20],'120x240':[120,240],'120x600':[120,600],'146x60':[146,60],'160x600':[160,600],'160x90':[160,90],'168x28':[168,28],'180x150':[180,150],'216x36':[216,36],'234x60':[234,60],'240x400':[240,400],'300x100':[300,100],'300x250':[300,250],'300x50':[300,50],'300x600':[300,600],'300x75':[300,75],'320x450':[320,450],'320x50':[320,50],'336x280':[336,280],'468x60':[468,60],'500x300':[500,300],'600x250':[600,250],'728x90':[728,90],'960x30':[960,30],'970x90':[970,90],'Billboard Flex':[[960,30],[970,30],[970,90],[970,250]],'Flex Ad':[[300,250],[300,600]],'None':[],'Rising Star':[500,300],'Welcome Ad':[[300,250],[300,600],[550,480],[600,500]]} },'accuweather.apiKey':'2ce96fe9da724185a27db1e6a3ecf580',
+'accuweather.dev':'false',
+'accuweather.locationKey':'',
+'accuweather.locationKey1':'',
+'accuweather.locationKey2':'',
+'accuweather.locationKey3':'',
+'accuweather.locationString':'',
+'accuweather.locationString1':'',
+'accuweather.locationString2':'',
+'accuweather.locationString3':'',
+'accuweather.partnerCode':'MCCLATCHY',
+'cs.circ_phone':'202-383-6001',
+'cs.circ_url':'http://www.mcclatchydc.com/plus/',
+'facebook.app.id':'1407731799445564',
+'financialContent.account':'bellinghamherald',
+'findnsave.tracking':'findnsave',
+'headerDateDisplay':'false',
+'marketInfo.CarsAFF':'na',
+'marketInfo.CarsSEO':'na',
+'marketInfo.JobsQSCTY':'Washington',
+'marketInfo.JobsQSSTS':'DC,US',
+'marketInfo.JobsSEO':'naa',
+'marketInfo.JobsSiteID':'na',
+'marketInfo.Jobslr':'na',
+'marketInfo.addcities':'New York, Los Angeles, Chicago, Houston',
+'marketInfo.adretargeting.kill_list':'[&quot;simpli.fi&quot;]',
+'marketInfo.allow_ads':'true',
+'marketInfo.careerbuilder.dmc_code':'',
+'marketInfo.careerbuilder.dmc_id':'',
+'marketInfo.careerbuilder.lr':'na',
+'marketInfo.city':'Washington',
+'marketInfo.clipped_taxonomy':'News/National',
+'marketInfo.code':'MDC',
+'marketInfo.county':'Washington metropolitan area',
+'marketInfo.domain':'mcclatchydc',
+'marketInfo.followLinks':'1',
+'marketInfo.location':'Washington',
+'marketInfo.logoAltText':'McClatchy DC',
+'marketInfo.market_identifier':'MDC.site_mcclatchydc',
+'marketInfo.name':'McClatchy DC',
+'marketInfo.networkid':'7675',
+'marketInfo.phone':'202-383-6001',
+'marketInfo.product':'site',
+'marketInfo.region':'across the US',
+'marketInfo.shortURL':'breaking',
+'marketInfo.siteId':'91',
+'marketInfo.sourcelevel':'nationalsecurity',
+'marketInfo.state':'District of Columbia',
+'marketInfo.state_abbreviation':'DC',
+'marketInfo.staticDirectory':'mcclatchydc',
+'marketInfo.street_address':'1025 Connecticut Ave. NW, Suite 1100, Washington DC 20036',
+'marketInfo.taxonomy':'News/National///',
+'marketInfo.webmaster_email':'web@mcclatchydc.com',
+'marketInfo.zipcode':'20005',
+'nativo.story.placements':'840234,840253,844382',
+'nativo.video.placements':'869363,869362',
+'obituaries.deathNoticeEmail':'web@mcclatchydc.com',
+'obituaries.deathNoticePhone':'202-383-6001',
+'obituaries.deathNoticeUrl':'',
+'publication.domain':'McClatchyDC.com',
+'publication.mediadomain':'media.mcclatchydc.com',
+'wufoo.formID':'',
+'marketInfo.pagelevel':'story',
+});
+</script>
+
+<script type="text/javascript">
+    var mistats = mistats || {};
+    mistats.pagelevel="Story";
+    mistats.cmsid="Story:179971861";
+    mistats.pagename="Story:179971861|China speeds ahead of U.S. as quantum race escalates, worrying scientists";
+    mistats.taxonomy="News|National|||";
+    mistats.channel="National Security";
+    mistats.contentsource="DCBureau|Tim Johnson";
+    mistats.pubdate="2017/10/23";
+    mistats.moddate="2017/10/23 H09";
+    mistats.keywords="Quantum computing China satellite U.S. particle Qubit link Beijing";
+</script>
+<script src="http://media.mcclatchydc.com/misites/mcd/mcclatchydc.js"></script>
+
+
+    <script type="text/javascript">
+        var imgLazyLoadThreshold = 500;
+    </script>
+
+
+
+    <script type="text/javascript">
+        mi_Ads.env.create();
+    </script>
+
+    
+        <!-- as we will be patching MI_Ads.js we need to be injected here instead of required -->
+<script type="text/javascript" src="/wps/source/scripts/src/amazon-patch.js?misv=d4f74c2"></script>
+<script>!function(n,t,e,a,s,i,c){function o(e,a){t[n]._Q.push([e,a])}t[n]||(t[n]={init:function(){o("i",arguments)},fetchBids:function(){o("f",arguments)},setDisplayBids:function(){},_Q:[]},i=e.createElement(a),i.async=!0,i.src=s,c=e.getElementsByTagName(a)[0],c.parentNode.insertBefore(i,c))}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+    var patches = [AmazonPatch.patches.preRoll];
+    $.when(
+        AmazonPatch.amazon.init({
+            pubID: '3108',
+            adServer: 'googletag',
+            videoAdServer: 'DFP',
+            bidTimeout: 5 * 1000 // setting the timeout to 5 seconds
+        })
+    ).then(function(patch) {
+        patch.apply(patches);
+    });
+</script>
+    
+
+    
+        <script src="//acdn.adnxs.com/prebid/c/7543/pb.js" async="true"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [],
+    googletag.cmd.push(function(){
+        googletag.pubads().disableInitialLoad();
+    });
+    var getPreBidVarValue = function() {
+        var constructedVar;
+        var urlPathReg = /([^\/]*)\/*$/;
+        var classifiedSearchReg = /homes|cars|jobs|search/;
+        var urlPath = window.location.pathname;
+        var lastUrlComponent = urlPath.match(urlPathReg)[1];
+        var marketIdentifier = mi.pageInfo.getConf('marketInfo.market_identifier');
+        var pageLevel = mi.pageInfo.getConf('marketInfo.pagelevel');
+        var sourceLevel = mi.pageInfo.getConf('marketInfo.sourcelevel');
+
+        if ( lastUrlComponent === 'video' ) {
+            pageLevel = 'videofront';
+        } else if ( lastUrlComponent === 'galleries' ) {
+            pageLevel = 'galleryfront';
+        } else if ( lastUrlComponent.match(classifiedSearchReg) ) {
+            pageLevel = pageLevel + '.' + sourceLevel;
+        }
+
+        if ( mi_Ads.env.outOfMarket.pageLevelOOM === true && mi_Ads.env.outOfMarket.serverOOMHeader === true ) {
+            pageLevel = pageLevel + '-oom';
+        }
+
+        constructedVar = marketIdentifier + '.' + pageLevel;
+
+        return constructedVar;
+    };
+    var preBidMarketPage = getPreBidVarValue();
+</script>
+
+    
+
+    
+	<script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=7436/pe=y/callback=extractPid"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+    var getSubscribedFlag = false;
+</script>
+
+
+    <!-- paywall disabled for this page type or disabled by configuration -->
+
+
+
+<script>
+    var _prx = window._prx || [];
+    _prx.push(['cfg.SetNoAutoStart']);
+</script>
+<script src="//s.ntv.io/serve/load.js" async></script>
+
+
+
+
+<script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5" async></script>
+
+
+
+    </head>
+    <body class="story wps-body-main">
+        
+        
+    <header>
+    
+    <div class="hide">
+        <div class="ad-widget" id="mn-gpt-1" adtype="outofpage" pkg="None" data-ad-policy="onPageLoad" audience="all" articleId="179971861"></div>
+    </div>
+    
+     <div id="masthead-container">
+        <div class="container">
+            <div class="masthead-row">
+                <div id="masthead-main">
+                    <div id="masthead-logo">
+                        <a href="/" target="_top">
+                            <img src="/wps/build/images/mcclatchydc/logo-lg.png" alt="McClatchy DC | McClatchyDC.com" class="img-responsive center-block" />
+                            <h1>China and US square off in race to master quantum computing | McClatchy Washington Bureau</h1>
+                        </a>
+                    </div>
+                    
+<div id="quick-nav" class="hidden-xs">
+    <ul class="nav navbar-nav">
+        
+            <li><a href="/news/politics-government/white-house/#navlink=subnav">White House</a></li>
+        
+            <li><a href="/news/politics-government/congress/#navlink=navbar">Congress</a></li>
+        
+            <li><a href="/news/nation-world/national/#navlink=navbar">Nation</a></li>
+        
+            <li><a href="/opinion/editorial-cartoons/#navlink=navbar">Cartoons</a></li>
+        
+    </ul>
+
+    <div id="site-search-lg" class="visible-lg">
+        
+        
+    <form action="/search/" class="form-inline" id="site-search" role="search">
+
+        <input type="text" name="q" class="form-control"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+    </div>
+    <div id="search-icon-sm-md" class="site-search dropdown visible-md visible-sm">
+        <a href="#" class="btn btn-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+            <li class="input-group">
+                
+                
+    <form action="/search/" class="form-inline" id="site-search" role="search">
+
+        <input type="text" name="q" class="form-control" placeholder="Search the site"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+            </li>
+        </ul>
+    </div>
+</div>
+
+                </div>
+                <div id="masthead-ad" class="visible-md visible-lg"><div class="ad-widget" id="mn-gpt-2" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="234x60" Medium="234x60" Small="None" Extra-Small="None" articleId="179971861"></div></div>
+            </div>
+            <div id="main-nav-container">
+                <div class="weather-container hidden-xs">
+                    <div class="miWeather">
+    <a href="/weather">
+        <div class="miWeatherCurrent">
+            <!-- Weather alerts not set-->
+            <!-- Weather conditions not set-->
+        </div>
+    </a>
+</div>
+
+                </div>
+                <div id="login-subscribe" class="hidden-xs">
+                    
+<ul class="paywall-links">
+    
+        
+        
+        
+        
+        
+        
+            
+        
+        <script type="text/javascript">
+            var userName = checkUserSubscribed('MPPUser');
+            var signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/static/signin"> Sign In</a> </li>';
+            var subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/static/subscribe">Subscribe</a></li>';
+            if ( getSubscribedFlag ) {
+                if(userName) {
+                    userName = JSON.parse(userName);
+                }
+                subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/sign-out">Sign Out</a> </li>';
+                if( userName && userName.firstName) {
+                    signInOrAccountLink = '<li class="mpp-username mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> '+userName.firstName+'</a></li>';
+                }else{
+                    signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> My Account</a></li>';
+                }
+            }
+            if ( 1 ==1 ) {
+                $(".hidden-xs ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+            else {
+                $("#navbar-collapse-1 ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+        </script>
+    
+</ul>
+                </div>
+                
+<div id="main-nav">
+    <nav class="navbar navbar-default " role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                <span class="nav-label hidden-xs">Full Menu</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar-collapse-1" class="navbar-collapse collapse">
+            <div id="search-icon-xs" class="site-search dropdown visible-xs">
+                <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                    <li class="input-group">
+                        
+                        
+    <form action="/search/" class="form-inline" id="site-search" role="search">
+
+        <input type="text" name="q" class="form-control" placeholder="Search the site"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+                    </li>
+                </ul>
+            </div>
+            <div class="weather-container visible-xs">
+                <div class="miWeather">
+    <a href="/weather">
+        <div class="miWeatherCurrent">
+            <!-- Weather alerts not set-->
+            <!-- Weather conditions not set-->
+        </div>
+    </a>
+</div>
+
+            </div>
+            
+<ul class="paywall-links">
+    
+        
+        
+        
+        
+        
+        
+            
+        
+        <script type="text/javascript">
+            var userName = checkUserSubscribed('MPPUser');
+            var signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/static/signin"> Sign In</a> </li>';
+            var subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/static/subscribe">Subscribe</a></li>';
+            if ( getSubscribedFlag ) {
+                if(userName) {
+                    userName = JSON.parse(userName);
+                }
+                subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/sign-out">Sign Out</a> </li>';
+                if( userName && userName.firstName) {
+                    signInOrAccountLink = '<li class="mpp-username mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> '+userName.firstName+'</a></li>';
+                }else{
+                    signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> My Account</a></li>';
+                }
+            }
+            if ( 2 ==1 ) {
+                $(".hidden-xs ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+            else {
+                $("#navbar-collapse-1 ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+        </script>
+    
+</ul>
+            <ul class="nav navbar-nav">
+                
+                    
+                        <li class="dropdown">
+                            <a href="/customer-service/#navlink=subnav" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Customer Service
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/customer-service/#navlink=subnav">Customer Service</a></li>
+            
+        
+            
+                <li><a href="http://www.mcclatchydc.com/mobile/#navlink=subnav">Mobile &amp; Apps</a></li>
+            
+        
+            
+                <li><a href="/customer-service/contact-us/#navlink=subnav">Contact Us</a></li>
+            
+        
+            
+                <li><a href="http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&amp;wu=20#navlink=subnav">Newsletters</a></li>
+            
+        
+            
+                <li><a href="/customer-service/#navlink=subnav">Subscriber Services</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-divider"></li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Politics
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/news/politics-government/#navlink=subnav">All Politics</a></li>
+            
+        
+            
+                <li><a href="/news/politics-government/congress/#navlink=subnav">Congress</a></li>
+            
+        
+            
+                <li><a href="/news/politics-government/white-house/#navlink=subnav">White House</a></li>
+            
+        
+            
+                <li><a href="/news/politics-government/election/#navlink=subnav">Elections</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Nation
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/news/nation-world/national/#navlink=subnav">All Nation</a></li>
+            
+        
+            
+                <li><a href="/news/crime/#navlink=subnav">Courts &amp; Crime</a></li>
+            
+        
+            
+                <li><a href="/news/nation-world/national/economy/#navlink=subnav">Economy</a></li>
+            
+        
+            
+                <li><a href="/news/nation-world/national/national-security/#navlink=subnav">National Security</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Podcasts
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/podcasts/#navlink=subnav">All Podcasts</a></li>
+            
+        
+            
+                <li><a href="/podcasts/acc-now/#navlink=subnav">ACC Now</a></li>
+            
+        
+            
+                <li><a href="/podcasts/beyond-the-bubble/#navlink=subnav">Beyond the Bubble</a></li>
+            
+        
+            
+                <li><a href="/podcasts/majority-minority/#navlink=subnav">Majority Minority</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li><a href="/opinion/editorial-cartoons/#navlink=subnav">Cartoons</a><li>
+                    
+                
+                    
+                        <li class="nav-divider"></li>
+                    
+                
+                    
+                        <li><a href="/customer-service/contact-us/article24465067.html#navlink=subnav">Our Newsrooms</a><li>
+                    
+                
+            </ul>
+        </div>
+    </nav>
+</div>
+<script type="text/javascript">
+
+jQuery('.dropdown > a').attr('data-target','#');
+
+// Make dropdowns work on hover at large breakpoint
+jQuery(function() {
+    jQuery("#masthead-container .dropdown").hover(
+        function(){ if ($(window).width() > 1200) { $(this).addClass('open') } },
+        function(){ if ($(window).width() > 1200) { $(this).removeClass('open') } }
+    );
+});
+
+// Make subnav same height as main nav
+$('#navbar-collapse-1').on('shown.bs.collapse', function () {
+var nav_height = jQuery("#main-nav .navbar-nav").height();
+jQuery("#main-nav .navbar-nav .dropdown-menu").css( "min-height", nav_height + "px" );
+});
+
+</script>
+
+            </div>
+        </div>
+    </div>
+    
+</header>
+
+
+        
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div id="leaderboard-ad" class="ad border-bottom">
+      <!-- mobile-leaderboard class is integrated with sticky-leaderboard.js -->
+        <div class="visible-xs mobile-leaderboard">
+            <div class="ad-widget" id="mn-gpt-3" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="320x50" articleId="179971861"></div>
+        </div>
+        <div class="hidden-xs">
+            <div class="ad-widget" id="mn-gpt-4" adtype="default" pkg="d" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="None" articleId="179971861"></div>
+        </div>
+    </div>
+</div>
+<section class="container story" role="main">
+    <div class="row story-rail-wrapper">
+        
+        <div class="wide-rail">
+            
+                
+
+
+
+
+
+    <div class="lead-item">
+        
+            
+
+
+
+
+
+
+    <div class="img-container picture ">   
+        <picture>
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_1140/China%20Satellite" media="(min-width: 992px)">
+            <source srcset="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_960/China%20Satellite" media="(min-width: 768px)">
+            <source srcset="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_768/China%20Satellite" media="(min-width: 601px)">
+            <source srcset="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_640/China%20Satellite" media="(min-width: 441px)">
+            <source srcset="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_480/China%20Satellite" media="(min-width: 320px)">
+            <!--[if IE 9]></video><![endif]-->
+            
+            <img class="responsive-image"  srcset="http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_1140/China%20Satellite" alt="In this photo released by China&#39;s Xinhua News Agency, a rocket carrying the world&#39;s first quantum satellite lifts off from northwestern China&#39;s Gansu Province, on Aug. 16, 2016. China&#39;s creation of a quantum satellite system pushes forward its ability to send communications that are impenetrable by hackers." title="In this photo released by China's Xinhua News Agency, a rocket carrying the world's first quantum satellite lifts off from northwestern China's Gansu Province, on Aug. 16, 2016. China's creation of a quantum satellite system pushes forward its ability to send communications that are impenetrable by hackers." />
+            
+        </picture> 
+
+</div>
+
+            
+                <div class="caption">
+                    
+    
+        <span class="caption-text">In this photo released by China&#39;s Xinhua News Agency, a rocket carrying the world&#39;s first quantum satellite lifts off from northwestern China&#39;s Gansu Province, on Aug. 16, 2016. China&#39;s creation of a quantum satellite system pushes forward its ability to send communications that are impenetrable by hackers. </span>
+    
+    
+        <span class="photographer">Jin Liwang</span>
+    
+    
+        <span class="credits">AP</span>
+    
+
+                </div>
+            
+        
+        
+            <div class="lead-caption">
+                
+                    
+                        
+    
+        <span class="caption-text">In this photo released by China&#39;s Xinhua News Agency, a rocket carrying the world&#39;s first quantum satellite lifts off from northwestern China&#39;s Gansu Province, on Aug. 16, 2016. China&#39;s creation of a quantum satellite system pushes forward its ability to send communications that are impenetrable by hackers. </span>
+    
+    
+        <span class="photographer">Jin Liwang</span>
+    
+    
+        <span class="credits">AP</span>
+    
+
+                    
+                
+            </div>
+        
+    </div>
+    <script type="text/javascript">
+        setLeadImageSize();
+        $(window).resize(function() {
+            var clientWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+            if (clientWidth > 767) {
+                $('.lead-item').find('.caption').hide();
+                $('.lead-item .lead-caption').show();
+            }
+            else {
+                $('.lead-item .lead-caption').hide();
+            }
+            setLeadImageSize();
+        });
+        $('.lead-item img').click(function(){
+            var elemWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+            if(elemWidth < 768){
+                $('.lead-item .caption').slideToggle(250);
+            }
+        });
+        $(".lead-item .wps-caption-toggle").click(function(){
+            $('.lead-item .caption').slideToggle(250);
+        });
+        function setLeadImageSize() {
+            var leadWidth = $('.lead-item').width();
+            $('.lead-item img').css({'max-width': leadWidth});
+        }
+    </script>
+
+            
+            
+    
+    
+    
+
+            <div id="story-header">
+                <h2 class="heading section-main-heading link">
+                    <a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/">National Security</a>
+                </h2>
+
+                <h3 class="title">China speeds ahead of U.S. as quantum race escalates, worrying scientists</h3>
+            </div>
+            <div id="story-body-items"><div class="byline element-spacing-small"><p><span class="ng_byline_name">By Tim Johnson</span></p><p><span class="ng_byline_email">
+                                            <a href="mailto:tjohnson@mcclatchydc.com">tjohnson@mcclatchydc.com</a>
+                                        </span></p></div>
+
+
+
+<script>
+    var seriesRows = Math.ceil( 0 / 4 );
+    var $seriesChevron = $('.expand').find(".glyphicon-chevron-down")
+    $('.expand').on('click', function() {
+        if( 0 < 6){
+            if ($('.expand .glyphicon-chevron-down').hasClass('rotate')) {
+                $seriesChevron.removeClass("rotate");
+                $('.expand .text').text( "Expand all" );
+                $('.inlineSeries').hide();
+            }
+            else {
+                $seriesChevron.addClass("rotate");
+                $('.expand .text').text( "Collapse" );
+                $('.inlineSeries').show();
+            }
+        }
+        else
+        {
+           $( ".overlay" ).addClass('overlay-open');
+           $( ".story, .wirestory, .blogpost" ).css("overflow", "hidden");
+           $( ".container, #masthead-container" ).css("filter", "blur(6px)");
+           window.scrollTo(0, 0);
+        }
+    });
+
+    $( ".overlay-close" ).click(function() {
+        $( ".overlay" ).removeClass( 'overlay-open' );
+    });
+</script>
+
+                
+                <div class="share-tools-wrapper">
+                    
+                        
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script type="text/javascript">
+$(window).scroll(function() {
+    var windowCurrentPos = $(window).scrollTop();
+    var scrollTopPos = $("#story-body-items").offset().top-50;
+    var scrollEndPos = $("#commenting-container").offset().top;
+    if(windowCurrentPos >= scrollEndPos || windowCurrentPos < scrollTopPos) {
+        $(".share-tools-wrapper").removeClass("sticky-tools");
+    }
+    else {
+        $(".share-tools-wrapper").addClass("sticky-tools");
+    }
+});
+</script>
+<ul class="share-icons">
+    <li class="facebook">
+        
+            
+                <a class="facebook-share" title="Share on Facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+            
+         
+        <div class="glyphicon glyphicon-facebook"></div>
+    </li>
+    <li class="twitter">
+        
+            <a title="Share on Twitter" href="https://twitter.com/share?text=China speeds ahead of U.S. as quantum race escalates, worrying scientists&amp;url=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+        
+        <div class="glyphicon glyphicon-twitter"></div>
+    </li>
+    
+    <li class="email">
+        
+            <a title="Share by Email" href="mailto:?subject=China speeds ahead of U.S. as quantum race escalates, worrying scientists&body=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html"></a>
+        
+        <div class="glyphicon glyphicon-envelope"></div>
+    </li>
+    <li class="more" onClick="return true">
+        <ul class="share-options">
+            
+                <li class="linked-in"><a title="Share on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html&title=China speeds ahead of U.S. as quantum race escalates, worrying scientists"><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+            
+            
+                <li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+            
+            
+                <li class="pinterest"><a title="Share on Pinterest" href="http://www.pinterest.com/pin/create/button/?url=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html&description=China speeds ahead of U.S. as quantum race escalates, worrying scientists&media=http://www.mcclatchydc.com/news/nation-world/national/national-security/fnfs33/picture179971856/alternates/LANDSCAPE_1140/China%20Satellite"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+            
+            <li class="reddit"><a title="Share on Reddit" href="http://www.reddit.com/submit?url=http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+            <li class="print"><a title="Print" href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+            <li class="reprints"><a title="Reprints" href="http://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+        </ul>
+        <div class="glyphicon glyphicon-share"></div>
+    </li>
+</ul>
+<script>
+    if(checkUserSubscribed('MPPUser')){
+        
+
+        
+    }
+    
+    
+    function popupFunction(url, widgId) {
+        window.open(url, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');
+        nextbee.credit_share_articles(widgId);
+    }
+</script>
+                    
+                </div>
+
+                <p class="published-date">
+                         
+                                 October 23, 2017 5:00 AM
+                         
+                </p>
+
+                <div class="dateline-storybody">
+                    
+                        <span class="dateline">
+                            WASHINGTON 
+                        </span>
+                    
+                    <div id="story-target" class="clearfix">
+                        <div id="content-body-" class="content-body">
+                            
+                            
+                            
+                            
+                                <p>U.S. and other Western scientists voice awe, and even alarm, at China’s quickening advances and spending on quantum communications and computing, revolutionary technologies that could give a huge military and commercial advantage to the nation that conquers them. </p>
+                                
+                                
+                                
+                            
+                                <p>The concerns echo — although to a lesser degree — the shock in the West six decades ago when the Soviets launched the Sputnik satellite, sparking a space race.</p>
+                                
+                                
+                                
+                            
+                                <p>In quick succession, China in recent months has utilized a quantum satellite to transmit ultra-secure data, inaugurated a 1,243-mile quantum link between Shanghai and Beijing, and announced a $10 billion quantum computing center.</p>
+                                
+                                
+                                
+                            
+                                <p>“To me, what is alarming is the level of coordination of what they’ve done,” said Christopher Monroe, a physicist and pioneer in quantum communication at the University of Maryland.</p>
+                                
+                                    <div id="newsletter-signUpWidget"></div>
+                                    <script type="text/javascript">
+                                    (function() {
+                                        var randomUrl = getRandomUrl('http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&wu=206,http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&wu=209');
+                                        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+                                        var eventer = window[eventMethod];
+                                        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+                                        $("<iframe/>", {
+                                        "class" : "col-xs-12",
+                                        "src" : randomUrl,
+                                        "scrolling" : "no",
+                                        "frameborder" : "no"
+                                        }).appendTo("#newsletter-signUpWidget");
+                                        eventer(messageEvent, function(e) {
+                                            if (randomUrl.indexOf(e.origin) != -1 ) {
+                                                var key = e.message ? "message" : "data";
+                                                var data = JSON.parse(e[key]);
+                                                switch(data.messageid) {
+                                                    case 100:
+                                                        var signupevent = new CustomEvent( 'signup', {"detail": data} );
+                                                        window.dispatchEvent( signupevent );
+                                                        break;
+                                                    case 200:
+                                                        $('#newsletter-signUpWidget iframe').css('height', data.iframe.height);
+                                                        break;
+                                                }
+
+                                            }
+                                        }, false );
+                                    })();
+                                    </script>
+                                
+                                
+                                
+                            
+                                <p>Perhaps more than the accomplishments of the Chinese scientists, it is the resources that China is pouring into the research into how atoms, photons and other basic molecular matter can harness, process and transmit information.</p>
+                                
+                                
+                                
+                                    
+    
+    
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-5" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="179971861"></div>
+    </div>
+    
+        <script type='text/template' id='perfectpixeltop-template'> 
+            
+
+
+
+
+
+    
+        
+            <script src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+            <script type="text/javascript">var _informq = _informq || []; _informq.push(['embed']);</script>
+        
+        <div class="inform-embed" data-placement-id="inform-video-player-1" data-config-distributor-id="91440" data-config-width="100%" data-config-height="9/16w"></div>
+    
+
+         </script><div id='perfectpixeltop-target'></div><script> lazyLoadingModule("perfectpixeltop-template", "perfectpixeltop-target", "perfectpixel",500,
+        undefined, undefined, undefined,  "undefined", "true", undefined , undefined ); </script>
+    
+
+                                    
+                                
+                            
+                                <p>“It doesn’t necessarily mean that their scientists are better,” said Martin Laforest, a physicist and senior manager at the Institute for Quantum Computing at the University of Waterloo in Ontario, Canada. “It’s just that when they say, ‘We need a billion dollars to do this,’ bam, the money comes.”</p>
+                                
+                                
+                                
+                            
+                                <p>The engineering hurdles that China has cleared for quantum communication means that the United States will lag in that area for years.</p>
+                                
+                                
+                                
+                            
+                                <p>“The general feeling is that they’ll get there before us,” said Rene Copeland, a high-performance computer expert who is president of <a href="https://www.dwavesys.com/our-company/meet-d-wave" target="_blank" title="">D-Wave (Government) Inc</a>., a Vancouver-area company that uses aspects of quantum computing in its systems.</p>
+                                
+                                
+                                
+                            
+                                <p>But building a functioning quantum computer sets forth different kinds of challenges than mastering quantum communication, and may involve creating materials and processes that do not yet exist. Once thought to be decades off, scientists now presume a quantum computer may be built in a decade or less. The stakes are so high that advances by the U.S. government remain secret.</p>
+                                
+                                
+                                
+                            
+                                <p>“We don’t know exactly where the United States is. I fervently hope that a lot of this work is taking place in a classified setting,” said R. Paul Stimers, a lawyer at K&amp;L Gates, a Washington law firm, who specializes in emerging technologies. “It is a race.”</p>
+                                
+                                
+                                
+                                    
+    
+    
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-6" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="179971861"></div>
+    </div>
+    
+
+                                    
+                                
+                            
+                                <div class="highline highline-quote" id="highline-quote-1"><p>It doesn’t necessarily mean that their scientists are better. </p><p><span class="ng_highline_attrib">Martin Lafores, Institute for Quantum Computing</span></p></div>
+                                
+                                
+                                
+                            
+                                <p>Pure quantum computers remain largely theoretical although simple prototypes exist. Many designs call for them to operate in super cold conditions, bordering on absolute zero, or around minus 458 degrees Fahrenheit, colder than outer space, without any noise or micro movements that can cause malfunction. </p>
+                                
+                                
+                                
+                            
+                                <p>What has made them the Holy Grail for nations and private industry is that quantum computers, in theory, are magnitudes better at sifting huge amounts of data than the binary processors that power mainframes, desktops and even smart phones today. They also can process algorithms that break all widely used encryption.</p>
+                                
+                                
+                                
+                            
+                                <p>Rather than doing a series of millions of computations, based on binary options of ones and zeros, quantum computers employ particles that exist in an infinite number of “superpositions” of the two states simultaneously, a condition that towering physicist Albert Einstein once labeled as “spooky.”</p>
+                                
+                                
+                                
+                            
+                                <p>A quantum computer “can feel all the possibilities at once,” said Warner A. Miller, a physicist at Florida Atlantic University, who, like the others, spoke last week at a <a href="https://www.hudson.org/" target="_blank" title="">forum on quantum computing</a> at the <a href="https://www.hudson.org/" target="_blank" title="">Hudson Institute</a>, a think tank in Washington.</p>
+                                
+                                
+                                
+                                    
+    
+    
+        
+
+
+
+
+    
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-7" adtype="default" pkg="f" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="179971861"></div>
+    </div>
+    
+
+                                    
+                                
+                            
+                                <p>China splashed into the news in June when it announced that a <a href="http://news.xinhuanet.com/english/2017-08/10/c_136514705.htm" target="_blank" title="">satellite and a ground station had communicated through “entangled” quantum particles</a>. Entangled particles, even if separated by thousands of miles, act in unison. Any change in one particle will induce a change in the other, almost as if a single particle existed in multiple places at once.</p>
+                                
+                                
+                                
+                            
+                                <p>Such long-distance quantum communication smashed records, occurring over 745 miles, far beyond the mile or so scientists had tested previously, and signaled Chinese mastery over a form of communication deemed ultra-secure and unhackable.</p>
+                                
+                                
+                                
+                            
+                                <p>“I read that on a Sunday and went, ‘oh sh-t,’” said <a href="https://www.symantec.com/about/corporate-profile/management-team" target="_blank" title="">Gregory S. Clark</a>, an Australian-born mathematician who is chief executive of Symantec Corp., a global cybersecurity company with headquarters in Mountain View, California.</p>
+                                
+                                
+                                
+                            
+                                <p>Neither the U.S. military nor private industry is known to have such a capability.</p>
+                                
+                                
+                                
+                            
+                                <div class="highline highline-quote" id="highline-quote-2"><p>The whole world changes. </p><p><span class="ng_highline_attrib">Gregory Clark, chief executive of Symantec</span></p></div>
+                                
+                                
+                                
+                            
+                                <p>If the technology is refined, Clark said, it could make land-based communications infrastructure obsolete. “The whole world changes,” he said at a forum Sept. 19.</p>
+                                
+                                
+                                
+                            
+                                <p>In early September, China chalked up another milestone, completing a <a href="http://news.xinhuanet.com/english/2017-09/09/c_136597260.htm" target="_blank" title="">quantum communication link between its capital and Shanghai</a>, by far the biggest such link in the world, surpassing anything in the United States or Europe. </p>
+                                
+                                
+                                
+                            
+                                <p>In such a link, if an encryption key used by either of two parties faces interference by a third party, the two parties know not to use it.</p>
+                                
+                                
+                                
+                            
+                                <p>China again demonstrated the prowess of its space-based quantum satellite, dubbed Micius, on Sept. 29 when the head of the Chinese Academy of Sciences held a video conference with an Austrian scientist over a distance of 4,630 miles.</p>
+                                
+                                
+                                
+                            
+                                <p>Also last month, China announced that it would build the <a href="http://www.scmp.com/news/china/society/article/2110563/china-building-worlds-biggest-quantum-research-facility" target="_blank" title="">world’s biggest quantum research facility</a>, a $10 billion center in Hefei, capital of Anhui province, with the aim of building a working quantum computer that could break most any encryption within seconds.</p>
+                                
+                                
+                                
+                            
+                                <p>China already has the world’s fastest supercomputer, the <a href="https://www.top500.org/system/178764" target="_blank" title="">Sunway TaihuLight</a>, which captured the title in the 2016 and 2017 at a competition in Frankfurt, Germany.</p>
+                                
+                                
+                                
+                            
+                                <p>Monroe, the Maryland physicist, said China had set a goal of fully constructing the quantum research center within two years.</p>
+                                
+                                
+                                
+                            
+                                <p>“If it costs $10 billion, China will just do it without asking, and they’ll put an army together to do it,” Monroe said. “I don’t think any other government in the world is able to throw together something (so) fast.”</p>
+                                
+                                
+                                
+                            
+                                <p>Google, IBM and Microsoft all see huge opportunity in quantum computing and fund research labs. Commercial applications may include determining how polymers go together, mapping the genome, finding oil in complex geology, detecting cancer and handling air traffic. </p>
+                                
+                                
+                                
+                            
+                                <p>Quantum computers can sift through vast amounts of data. One that handles 60 quantum bits, or units of quantum information, could hold 64 exabytes of data – 2,560 times more than all the material managed by the Library of Congress, which has 838 miles of bookshelves. </p>
+                                
+                                
+                                
+                            
+                                <p>Military applications are vast and range beyond breaking enemy encryption to include quantum-enabled weaponry, navigation systems that can’t be jammed, and the use of quantum-powered artificial intelligence in war fighting.</p>
+                                
+                                
+                                
+                            
+                                <p>In those areas, China is not believed to have an advantage.</p>
+                                
+                                
+                                
+                            
+                                <p>“The point is, they are some distance from that quantum supremacy threshold,” said Arthur Herman, who leads the technology and defense program at the Hudson Institute.</p>
+                                
+                                
+                                
+                            
+                                <p>Still, Herman called for U.S. policymakers to focus hard on the quantum challenge.</p>
+                                
+                                
+                                
+                            
+                                <p>“We need a Manhattan Project style funding focus in order for a national quantum initiative to succeed,” Herman said, referring to the World War II era program to produce the first nuclear weapon.</p>
+                                
+                                
+                                
+                            
+                                <p></p>
+                                
+                                
+                                
+                            
+                                <div class="embed-media inline-video"><div class="teaser"><div id="video-detail-174537626-1509090857360" class="media-wrap">
+    <div class="video-media" data-id="174537626" data-index="">
+        <div id="player-174537626-1509090857360" class="player" data-id="174537626">
+            <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; background: url('http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_560/What_Are_Bots.mp4') no-repeat center center; background-size: cover;">
+        </div>
+    </div>
+
+    <div class="mi-video-utility-bar share-icons  hide">
+        
+        <a class="mi-video-share-btn mi-video-utility-item" data-item="share-rail">
+         <span class="glyphicon glyphicon-share" title="Share"></span>
+        </a>
+        <a class="mi-video-embed-btn mi-video-utility-item" data-item="embed-rail">
+            <span class="glyphicon glyphicon-code" title="Embed Links"></span>
+        </a>
+        <a class="mi-video-info-btn mi-video-utility-item" data-item="info-rail">
+            <span class="glyphicon glyphicon-info-circle" title="Info"></span>
+        </a>
+    </div>
+        <div id="mi-video-overlay-174537626-1509090857360" class="mi-video-custom-overlay-wrap">
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+        
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_200/What_Are_Bots.mp4" alt="How bots are taking over our lives  ">
+                    <span class="duration">1:41</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">How bots are taking over our lives  </h4>
+                </div>
+                
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.thestate.com/news/politics-government/x7ec3n-President-Trump-Stops-His-Motorcade-in-Greenville-SC-to-Greet-Cheering-Supporters-10-16-17.mp4/alternates/LANDSCAPE_200/President%20Trump%20Stops%20His%20Motorcade%20in%20Greenville,%20SC%20to%20Greet%20Cheering%20Supporters%2010-16-17.mp4" alt="President Trump stops motorcade to greet supporters">
+                    <span class="duration">10:18</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">President Trump stops motorcade to greet supporters</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_200/20171025_143258.mp4" alt="Ivanka Trump promotes child tax credit&nbsp;at Capitol Hill ">
+                    <span class="duration">1:33</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Ivanka Trump promotes child tax credit&nbsp;at Capitol Hill </h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/politics-government/congress/qa957r-Sessions.jpg/alternates/LANDSCAPE_200/Sessions.jpg" alt="Sessions defends Comey firing, denies Russia collusion">
+                    <span class="duration">2:07</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Sessions defends Comey firing, denies Russia collusion</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/nation-world/national/5swqq7-LaDavidJohnson.jpg/alternates/LANDSCAPE_200/LaDavidJohnson.jpg" alt="Trump denies account of call with soldier's widow">
+                    <span class="duration">2:34</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Trump denies account of call with soldier's widow</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/politics-government/white-house/ph6ijp-kennedytax.jpg/alternates/LANDSCAPE_200/kennedytax.jpg" alt="Kennedy proposes income tax cut in 1962">
+                    <span class="duration">2:04</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Kennedy proposes income tax cut in 1962</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.miamiherald.com/news/nation-world/world/americas/cuba/trds73-Recording-sheds-light-on-Cuba-sonic-attacks-targeting-US-workers/alternates/LANDSCAPE_200/Recording%20sheds%20light%20on%20Cuba%20sonic%20attacks%20targeting%20US%20workers" alt="Recording sheds light on Cuba sonic attacks targeting US workers">
+                    <span class="duration">1:56</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Recording sheds light on Cuba sonic attacks targeting US workers</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.sacbee.com/news/politics-government/7ta6rv-Trump-Tax-Overhaul_Pete.jpg/alternates/LANDSCAPE_200/Trump%20Tax%20Overhaul_Pete.jpg" alt="Trump outlines tax reform plan during speech in Indiana">
+                    <span class="duration">2:07</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Trump outlines tax reform plan during speech in Indiana</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/politics-government/white-house/4wjsyq-bannon.jpg/alternates/LANDSCAPE_200/bannon.jpg" alt="Bannon out days after Trump defended him ">
+                    <span class="duration">0:45</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Bannon out days after Trump defended him </h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_200/Pompeo" alt="CIA Director says WikiLeaks is a ‘hostile intelligence service’">
+                    <span class="duration">1:48</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">CIA Director says WikiLeaks is a ‘hostile intelligence service’</h4>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true"></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true"></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+            
+                <h4 class="media-title">How bots are taking over our lives  </h4>
+                <p class="media-leadtext">Bots make up more than half of all internet traffic and are seamlessly integrated into our everyday lives, here's how they work.</p>
+            
+        </li>
+    </ul>
+</div>
+
+</div>
+
+        
+            
+    <script type="text/javascript">
+        if ( typeof allowAds === 'undefined' ) {
+            var allowAds = false;
+        }
+    </script>
+
+<script>
+    wpsRequire([ 'video' ], function ( video ) {
+        return video.play({"id":"174537626","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article174537626.html","duration":"1:41","image":"http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_768/What_Are_Bots.mp4","title":"How bots are taking over our lives  ","description":"How bots are taking over our lives   <span class=\"title-duration\">1:41</span>","displayDescription":"Bots make up more than half of all internet traffic and are seamlessly integrated into our everyday lives, here's how they work.","videographer":"Maureen Chowdhury and Patrick Gleason","credit":"McClatchy","published":1505880000,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437582013143-p5k4ma/What_Are_Bots-1505990449907.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437580321678-6bjrso/What_Are_Bots-1505990450741.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/art_174537626/What_Are_Bots.m3u8"}],"mediaid":"UPRysCFl","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D174537626%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=174537626&eid=179971861&vidlength=long&pl="}],"endscreen":[{"id":"174537626","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article174537626.html","duration":"1:41","image":"http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_768/What_Are_Bots.mp4","title":"How bots are taking over our lives  ","description":"How bots are taking over our lives   <span class=\"title-duration\">1:41</span>","displayDescription":"Bots make up more than half of all internet traffic and are seamlessly integrated into our everyday lives, here's how they work.","videographer":"Maureen Chowdhury and Patrick Gleason","credit":"McClatchy","published":1505880000,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437582013143-p5k4ma/What_Are_Bots-1505990449907.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437580321678-6bjrso/What_Are_Bots-1505990450741.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/art_174537626/What_Are_Bots.m3u8"}],"mediaid":"UPRysCFl","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D174537626%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=174537626&eid=179971861&vidlength=long&pl="}]},{"id":"179233121","asset_type":"videoIngest","url":"http://www.thestate.com/news/politics-government/article179233121.html","duration":"10:18","image":"http://www.thestate.com/news/politics-government/x7ec3n-President-Trump-Stops-His-Motorcade-in-Greenville-SC-to-Greet-Cheering-Supporters-10-16-17.mp4/alternates/LANDSCAPE_768/President%20Trump%20Stops%20His%20Motorcade%20in%20Greenville,%20SC%20to%20Greet%20Cheering%20Supporters%2010-16-17.mp4","title":"President Trump stops motorcade to greet supporters","description":"President Trump stops motorcade to greet supporters <span class=\"title-duration\">10:18</span>","displayDescription":"President Donald Trump arrives in Greenville, South Carolina, stops his motorcade, and greets his cheering supporters.","videographer":"","credit":"Based Patriot","published":1508214287,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/1437582013143-p5k4ma/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17-1508214053895.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/1437580321678-6bjrso/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17-1508214079084.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/art_179233121/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17.m3u8"}],"mediaid":"87EAf6mS","ads":[]},{"id":"180889036","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/article180889036.html","duration":"1:33","image":"http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_768/20171025_143258.mp4","title":"Ivanka Trump promotes child tax credit at Capitol Hill ","description":"Ivanka Trump promotes child tax credit at Capitol Hill  <span class=\"title-duration\">1:33</span>","displayDescription":"Ivanka Trump promoted the GOP’s tax overhaul efforts at a special event held at Capitol Hill on Oct. 25. ","videographer":"Emma Dumain","credit":"McClatchy DC Bureau ","published":1508966216,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437582013143-p5k4ma/20171025_143258-1508966212863.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437580321678-6bjrso/20171025_143258-1508966213634.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/art_180889036/20171025_143258.m3u8"}],"mediaid":"QhcxqkOG","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnews%26id%3D180889036%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=news&id=180889036&eid=179971861&vidlength=long&pl="}]},{"id":"179504026","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/congress/article179504026.html","duration":"2:07","image":"http://www.mcclatchydc.com/news/politics-government/congress/qa957r-Sessions.jpg/alternates/LANDSCAPE_768/Sessions.jpg","title":"Sessions defends Comey firing, denies Russia collusion","description":"Sessions defends Comey firing, denies Russia collusion <span class=\"title-duration\">2:07</span>","displayDescription":"Attorney General Jeff Sessions while testifying before the Senate Judiciary Committee strongly defended President Trump’s firing of James Comey, and refused to discuss his confidential conversations with the President.","videographer":"","credit":"C-SPAN","published":1508346165,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/1437582013143-p5k4ma/Sessions-1508346162568.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/1437580321678-6bjrso/Sessions-1508346163261.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/art_179504026/Sessions.m3u8"}],"mediaid":"vca1VmGq","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcongress%26id%3D179504026%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FLocal%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=congress&id=179504026&eid=179971861&vidlength=long&pl="}]},{"id":"179538446","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article179538446.html","duration":"2:34","image":"http://www.mcclatchydc.com/news/nation-world/national/5swqq7-LaDavidJohnson.jpg/alternates/LANDSCAPE_768/LaDavidJohnson.jpg","title":"Trump denies account of call with soldier's widow","description":"Trump denies account of call with soldier's widow <span class=\"title-duration\">2:34</span>","displayDescription":"President Donald Trump denied telling the widow of Sgt. La David Johnson the serviceman \"must have known what he signed up for\" — a claim made by Florida Rep. Frederica Wilson, who was present for the call.","videographer":"","credit":"AP","published":1508353718,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/1437582013143-p5k4ma/LaDavidJohnson_1-1508353715174.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/1437580321678-6bjrso/LaDavidJohnson_1-1508353716077.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/art_179538446/LaDavidJohnson_1.m3u8"}],"mediaid":"hVltfjBX","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D179538446%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=179538446&eid=179971861&vidlength=long&pl="}]},{"id":"179266121","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/white-house/article179266121.html","duration":"2:04","image":"http://www.mcclatchydc.com/news/politics-government/white-house/ph6ijp-kennedytax.jpg/alternates/LANDSCAPE_768/kennedytax.jpg","title":"Kennedy proposes income tax cut in 1962","description":"Kennedy proposes income tax cut in 1962 <span class=\"title-duration\">2:04</span>","displayDescription":"President John F. Kennedy advocated for an income tax cut in this newsreel from August 1962 ahead of outlining his plan before Congress in January 1963. In 2017, a conservative group used part of Kennedy speaking about the tax cuts in a 30-second ad aimed at pressing three Democratic senators to embrace the Republican-led push for a tax overhaul.","videographer":"Universal Newsreels","credit":"","published":1508126400,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/1437582013143-p5k4ma/JFKTaxCut-1508254837609.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/1437580321678-6bjrso/JFKTaxCut-1508254838395.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/art_179266121/JFKTaxCut.m3u8"}],"mediaid":"DnQvyDEv","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwhite_house%26id%3D179266121%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=white_house&id=179266121&eid=179971861&vidlength=long&pl="}]},{"id":"178503931","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/world/article178503931.html","duration":"1:56","image":"http://www.miamiherald.com/news/nation-world/world/americas/cuba/trds73-Recording-sheds-light-on-Cuba-sonic-attacks-targeting-US-workers/alternates/LANDSCAPE_768/Recording%20sheds%20light%20on%20Cuba%20sonic%20attacks%20targeting%20US%20workers","title":"Recording sheds light on Cuba sonic attacks targeting US workers","description":"Recording sheds light on Cuba sonic attacks targeting US workers <span class=\"title-duration\">1:56</span>","displayDescription":"The Associated Press has obtained a recording of what some U.S. embassy workers heard in Havana as they were attacked by what investigators initially believed was a sonic weapon. ","videographer":"","credit":"AP","published":1507836287,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/1437582013143-p5k4ma/cuba_attack_v2-1507836283758.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/1437580321678-6bjrso/cuba_attack_v2-1507836284447.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/art_178503931/cuba_attack_v2.m3u8"}],"mediaid":"E4o1LNrb","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dworld%26id%3D178503931%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=world&id=178503931&eid=179971861&vidlength=long&pl="}]},{"id":"175802971","asset_type":"videoIngest","url":"http://www.sacbee.com/news/politics-government/article175802971.html","duration":"2:07","image":"http://www.sacbee.com/news/politics-government/7ta6rv-Trump-Tax-Overhaul_Pete.jpg/alternates/LANDSCAPE_768/Trump%20Tax%20Overhaul_Pete.jpg","title":"Trump outlines tax reform plan during speech in Indiana","description":"Trump outlines tax reform plan during speech in Indiana <span class=\"title-duration\">2:07</span>","displayDescription":"Speaking at an event in Indianapolis on September 27, President Donald Trump said that his tax proposal will help middle class families save money and will eliminate loopholes that benefit the wealthy.","videographer":"","credit":"AP","published":1506559488,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/1437582013143-p5k4ma/Trump_tax_reform_Sept_27_2017-1506559485403.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/1437580321678-6bjrso/Trump_tax_reform_Sept_27_2017-1506559486119.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/art_175802971/Trump_tax_reform_Sept_27_2017.m3u8"}],"mediaid":"jmQS9aj9","ads":[]},{"id":"167967687","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/white-house/article167967687.html","duration":"0:45","image":"http://www.mcclatchydc.com/news/politics-government/white-house/4wjsyq-bannon.jpg/alternates/LANDSCAPE_768/bannon.jpg","title":"Bannon out days after Trump defended him ","description":"Bannon out days after Trump defended him  <span class=\"title-duration\">0:45</span>","displayDescription":"White House advisor Steve Bannon has been ousted from the Trump administration just days after President Donald Trump defended him at a press conference. Listen to Trump's comments about Bannon on August 16, 2017","videographer":"","credit":"White House","published":1503075532,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/1437582013143-p5k4ma/BannonDefense-1503075530473.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/1437580321678-6bjrso/BannonDefense-1503075530803.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/art_167967687/BannonDefense.m3u8"}],"mediaid":"ltnLno1x","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwhite_house%26id%3D167967687%26eid%3D179971861%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=white_house&id=167967687&eid=179971861&vidlength=short&pl="}]},{"id":"144535249","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/national-security/article144535249.html","duration":"1:48","image":"http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_768/Pompeo","title":"CIA Director says WikiLeaks is a ‘hostile intelligence service’","description":"CIA Director says WikiLeaks is a ‘hostile intelligence service’ <span class=\"title-duration\">1:48</span>","displayDescription":"In his first public remarks since becoming CIA director, Mike Pompeo called WikiLeaks a ”non-state hostile intelligence service.”","videographer":"","credit":"AP","published":1492131760,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437582013143-p5k4ma/Pompeo-on-Wikileaks-1492131757231.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437580321678-6bjrso/Pompeo-on-Wikileaks-1492131757698.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/art_144535249/Pompeo_on_Wikileaks.m3u8"}],"mediaid":"zfKn2xVA","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational_security%26id%3D144535249%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national_security&id=144535249&eid=179971861&vidlength=long&pl="}]}]}, {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"mcclatchydc","embed":false,"cacheBust":"d4f74c2","iterator":1,"uniqueID":"174537626-1509090857360","paywallEnabled":true,"domainName":"www.mcclatchydc.com","pubId":"57","baseTemplate":"story"}, [{"id":"174537626","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article174537626.html","duration":"1:41","image":"http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_768/What_Are_Bots.mp4","title":"How bots are taking over our lives  ","description":"How bots are taking over our lives   <span class=\"title-duration\">1:41</span>","displayDescription":"Bots make up more than half of all internet traffic and are seamlessly integrated into our everyday lives, here's how they work.","videographer":"Maureen Chowdhury and Patrick Gleason","credit":"McClatchy","published":1505880000,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437582013143-p5k4ma/What_Are_Bots-1505990449907.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437580321678-6bjrso/What_Are_Bots-1505990450741.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/art_174537626/What_Are_Bots.m3u8"}],"mediaid":"UPRysCFl","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D174537626%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=174537626&eid=179971861&vidlength=long&pl="}]},{"id":"179233121","asset_type":"videoIngest","url":"http://www.thestate.com/news/politics-government/article179233121.html","duration":"10:18","image":"http://www.thestate.com/news/politics-government/x7ec3n-President-Trump-Stops-His-Motorcade-in-Greenville-SC-to-Greet-Cheering-Supporters-10-16-17.mp4/alternates/LANDSCAPE_768/President%20Trump%20Stops%20His%20Motorcade%20in%20Greenville,%20SC%20to%20Greet%20Cheering%20Supporters%2010-16-17.mp4","title":"President Trump stops motorcade to greet supporters","description":"President Trump stops motorcade to greet supporters <span class=\"title-duration\">10:18</span>","displayDescription":"President Donald Trump arrives in Greenville, South Carolina, stops his motorcade, and greets his cheering supporters.","videographer":"","credit":"Based Patriot","published":1508214287,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/1437582013143-p5k4ma/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17-1508214053895.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/1437580321678-6bjrso/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17-1508214079084.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/art_179233121/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17.m3u8"}],"mediaid":"87EAf6mS","ads":[]},{"id":"180889036","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/article180889036.html","duration":"1:33","image":"http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_768/20171025_143258.mp4","title":"Ivanka Trump promotes child tax credit at Capitol Hill ","description":"Ivanka Trump promotes child tax credit at Capitol Hill  <span class=\"title-duration\">1:33</span>","displayDescription":"Ivanka Trump promoted the GOP’s tax overhaul efforts at a special event held at Capitol Hill on Oct. 25. ","videographer":"Emma Dumain","credit":"McClatchy DC Bureau ","published":1508966216,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437582013143-p5k4ma/20171025_143258-1508966212863.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437580321678-6bjrso/20171025_143258-1508966213634.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/art_180889036/20171025_143258.m3u8"}],"mediaid":"QhcxqkOG","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnews%26id%3D180889036%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=news&id=180889036&eid=179971861&vidlength=long&pl="}]},{"id":"179504026","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/congress/article179504026.html","duration":"2:07","image":"http://www.mcclatchydc.com/news/politics-government/congress/qa957r-Sessions.jpg/alternates/LANDSCAPE_768/Sessions.jpg","title":"Sessions defends Comey firing, denies Russia collusion","description":"Sessions defends Comey firing, denies Russia collusion <span class=\"title-duration\">2:07</span>","displayDescription":"Attorney General Jeff Sessions while testifying before the Senate Judiciary Committee strongly defended President Trump’s firing of James Comey, and refused to discuss his confidential conversations with the President.","videographer":"","credit":"C-SPAN","published":1508346165,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/1437582013143-p5k4ma/Sessions-1508346162568.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/1437580321678-6bjrso/Sessions-1508346163261.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/art_179504026/Sessions.m3u8"}],"mediaid":"vca1VmGq","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcongress%26id%3D179504026%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FLocal%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=congress&id=179504026&eid=179971861&vidlength=long&pl="}]},{"id":"179538446","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article179538446.html","duration":"2:34","image":"http://www.mcclatchydc.com/news/nation-world/national/5swqq7-LaDavidJohnson.jpg/alternates/LANDSCAPE_768/LaDavidJohnson.jpg","title":"Trump denies account of call with soldier's widow","description":"Trump denies account of call with soldier's widow <span class=\"title-duration\">2:34</span>","displayDescription":"President Donald Trump denied telling the widow of Sgt. La David Johnson the serviceman \"must have known what he signed up for\" — a claim made by Florida Rep. Frederica Wilson, who was present for the call.","videographer":"","credit":"AP","published":1508353718,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/1437582013143-p5k4ma/LaDavidJohnson_1-1508353715174.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/1437580321678-6bjrso/LaDavidJohnson_1-1508353716077.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/art_179538446/LaDavidJohnson_1.m3u8"}],"mediaid":"hVltfjBX","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D179538446%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=179538446&eid=179971861&vidlength=long&pl="}]},{"id":"179266121","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/white-house/article179266121.html","duration":"2:04","image":"http://www.mcclatchydc.com/news/politics-government/white-house/ph6ijp-kennedytax.jpg/alternates/LANDSCAPE_768/kennedytax.jpg","title":"Kennedy proposes income tax cut in 1962","description":"Kennedy proposes income tax cut in 1962 <span class=\"title-duration\">2:04</span>","displayDescription":"President John F. Kennedy advocated for an income tax cut in this newsreel from August 1962 ahead of outlining his plan before Congress in January 1963. In 2017, a conservative group used part of Kennedy speaking about the tax cuts in a 30-second ad aimed at pressing three Democratic senators to embrace the Republican-led push for a tax overhaul.","videographer":"Universal Newsreels","credit":"","published":1508126400,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/1437582013143-p5k4ma/JFKTaxCut-1508254837609.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/1437580321678-6bjrso/JFKTaxCut-1508254838395.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/art_179266121/JFKTaxCut.m3u8"}],"mediaid":"DnQvyDEv","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwhite_house%26id%3D179266121%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=white_house&id=179266121&eid=179971861&vidlength=long&pl="}]},{"id":"178503931","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/world/article178503931.html","duration":"1:56","image":"http://www.miamiherald.com/news/nation-world/world/americas/cuba/trds73-Recording-sheds-light-on-Cuba-sonic-attacks-targeting-US-workers/alternates/LANDSCAPE_768/Recording%20sheds%20light%20on%20Cuba%20sonic%20attacks%20targeting%20US%20workers","title":"Recording sheds light on Cuba sonic attacks targeting US workers","description":"Recording sheds light on Cuba sonic attacks targeting US workers <span class=\"title-duration\">1:56</span>","displayDescription":"The Associated Press has obtained a recording of what some U.S. embassy workers heard in Havana as they were attacked by what investigators initially believed was a sonic weapon. ","videographer":"","credit":"AP","published":1507836287,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/1437582013143-p5k4ma/cuba_attack_v2-1507836283758.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/1437580321678-6bjrso/cuba_attack_v2-1507836284447.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/art_178503931/cuba_attack_v2.m3u8"}],"mediaid":"E4o1LNrb","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dworld%26id%3D178503931%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=world&id=178503931&eid=179971861&vidlength=long&pl="}]},{"id":"175802971","asset_type":"videoIngest","url":"http://www.sacbee.com/news/politics-government/article175802971.html","duration":"2:07","image":"http://www.sacbee.com/news/politics-government/7ta6rv-Trump-Tax-Overhaul_Pete.jpg/alternates/LANDSCAPE_768/Trump%20Tax%20Overhaul_Pete.jpg","title":"Trump outlines tax reform plan during speech in Indiana","description":"Trump outlines tax reform plan during speech in Indiana <span class=\"title-duration\">2:07</span>","displayDescription":"Speaking at an event in Indianapolis on September 27, President Donald Trump said that his tax proposal will help middle class families save money and will eliminate loopholes that benefit the wealthy.","videographer":"","credit":"AP","published":1506559488,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/1437582013143-p5k4ma/Trump_tax_reform_Sept_27_2017-1506559485403.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/1437580321678-6bjrso/Trump_tax_reform_Sept_27_2017-1506559486119.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/art_175802971/Trump_tax_reform_Sept_27_2017.m3u8"}],"mediaid":"jmQS9aj9","ads":[]},{"id":"167967687","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/white-house/article167967687.html","duration":"0:45","image":"http://www.mcclatchydc.com/news/politics-government/white-house/4wjsyq-bannon.jpg/alternates/LANDSCAPE_768/bannon.jpg","title":"Bannon out days after Trump defended him ","description":"Bannon out days after Trump defended him  <span class=\"title-duration\">0:45</span>","displayDescription":"White House advisor Steve Bannon has been ousted from the Trump administration just days after President Donald Trump defended him at a press conference. Listen to Trump's comments about Bannon on August 16, 2017","videographer":"","credit":"White House","published":1503075532,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/1437582013143-p5k4ma/BannonDefense-1503075530473.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/1437580321678-6bjrso/BannonDefense-1503075530803.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/art_167967687/BannonDefense.m3u8"}],"mediaid":"ltnLno1x","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwhite_house%26id%3D167967687%26eid%3D179971861%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=white_house&id=167967687&eid=179971861&vidlength=short&pl="}]},{"id":"144535249","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/national-security/article144535249.html","duration":"1:48","image":"http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_768/Pompeo","title":"CIA Director says WikiLeaks is a ‘hostile intelligence service’","description":"CIA Director says WikiLeaks is a ‘hostile intelligence service’ <span class=\"title-duration\">1:48</span>","displayDescription":"In his first public remarks since becoming CIA director, Mike Pompeo called WikiLeaks a ”non-state hostile intelligence service.”","videographer":"","credit":"AP","published":1492131760,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437582013143-p5k4ma/Pompeo-on-Wikileaks-1492131757231.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437580321678-6bjrso/Pompeo-on-Wikileaks-1492131757698.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/art_144535249/Pompeo_on_Wikileaks.m3u8"}],"mediaid":"zfKn2xVA","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational_security%26id%3D144535249%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national_security&id=144535249&eid=179971861&vidlength=long&pl="}]}], true );
+    });
+</script>
+        
+    </div>
+</div>
+
+
+    <div class="embed-media-details">
+        
+            
+            <h4 class="title "><a href="/news/nation-world/national/article174537626.html">How bots are taking over our lives  </a></h4>
+        
+        <p class="leadtext ">Bots make up more than half of all internet traffic and are seamlessly integrated into our everyday lives, here's how they work.</p>
+        
+            <span class="photographer">Maureen Chowdhury and Patrick Gleason</span>
+        
+        
+            <span class="credits">McClatchy</span>
+        
+    </div></div></div>
+                                
+                                
+                                
+                            
+                                <p></p>
+                                
+                                
+                                
+                            
+                                <div class="ng_endnote_contact"><p>Tim Johnson: <a href="tel:202-383-6028" title="">202-383-6028</a>, <a href="https://twitter.com/timjohnson4" target="_blank" title="">@timjohnson4</a></p><span class="ng-command" data-value="252"> </span></div>
+                                
+                                
+                                
+                            
+                            
+                        </div>
+                        <div class="hidden">
+                            <div class="ad-widget" id="mn-gpt-8" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="336x280" Medium="336x280" Small="336x280" Extra-Small="336x280" articleId="179971861"></div>
+                        </div>
+                        
+                            
+                                <!-- Nothing is configured -->
+                            
+                        
+                            
+                                <!-- Nothing is configured -->
+                            
+                        
+                            
+                                <!-- Nothing is configured -->
+                            
+                        
+                        
+                        
+                            
+                            
+                        
+                        
+                        
+                    </div>
+                </div>
+                
+                
+                    
+
+    
+    <script class="tout-sdk tout-sdk-script-tag">
+    !function(){var TOUT=window.TOUT=window.TOUT||{},utils={getCanonicalLinkHref:function(){for(var links=document.getElementsByTagName("link"),i=0;i<links.length;i++)if("canonical"===links[i].getAttribute("rel"))return links[i].getAttribute("href");return""},getMetaTagContentByProperty:function(metaTagProperty){for(var metaTags=document.getElementsByTagName("meta"),i=0;i<metaTags.length;i++)if(metaTags[i].getAttribute("property")===metaTagProperty)return metaTags[i].getAttribute("content");return""},getWindowLocationOrigin:function(){return window.location.protocol+"//"+window.location.host},getCanonicalUrl:function(){var canonicalUrl=utils.getCanonicalLinkHref()||utils.getMetaTagContentByProperty("og:url");return canonicalUrl&&"/"===canonicalUrl[0]&&(canonicalUrl=utils.getWindowLocationOrigin()+canonicalUrl),canonicalUrl},getOgUrl:function(){var ogUrl=utils.getMetaTagContentByProperty("og:url");return ogUrl&&"/"===ogUrl[0]&&(ogUrl=utils.getWindowLocationOrigin()+ogUrl),ogUrl},getRelCanonical:function(){var relCanonical=utils.getCanonicalLinkHref();return relCanonical&&"/"===relCanonical[0]&&(relCanonical=utils.getWindowLocationOrigin()+relCanonical),relCanonical},getExternalArticleId:function(){return utils.getMetaTagContentByProperty("tout:article:id")},getCurrentProtocol:function(){return"https:"===document.location.protocol?"https:":"http:"},getPlatformHost:function(){return TOUT.SDK_HOST||"platform.tout.com"}};TOUT.mapAsyncFetchApp={init:function(brandUid,options){this.brandUid=brandUid,this.active=!0,this.productFetched=!1,this.dataLoaded=!1,this.startedSuccessfully=!1,this.options=options||{},this.options.paramsWhitelist||(this.options.paramsWhitelist=["brand_uid","external_article_id","og_url","window_location","rel_canonical","async_fetch"])},fetch:function(){var script=document.createElement("script"),src=utils.getCurrentProtocol()+"//"+utils.getPlatformHost()+"/mid_article_player.js",params=TOUT.mapAsyncFetchApp.getMidArticleQueryParams(),joinCharacter="?";for(var param in params)params.hasOwnProperty(param)&&""!==params[param]&&(src+=joinCharacter+param+"="+encodeURIComponent(params[param]),joinCharacter="&");script.src=src;var firstScript=document.getElementsByTagName("script")[0];firstScript.parentNode.insertBefore(script,firstScript)},start:function(){this.productFetched&&this.dataLoaded&&!this.startedSuccessfully&&(this.startedSuccessfully=!0,TOUT.midArticleProductLoader.start(TOUT.data.mid_article_player_experiment))},getMidArticleQueryParams:function(){var params={};return this._whitelistContains("brand_uid")&&(params.brand_uid=this.brandUid),this._whitelistContains("content_referrer")&&(params.content_referrer=document.referrer),this._whitelistContains("external_article_id")&&(params.external_article_id=utils.getExternalArticleId()),this._whitelistContains("og_url")&&(params.og_url=utils.getOgUrl()),this._whitelistContains("window_location")&&(params.window_location=document.location.href),this._whitelistContains("rel_canonical")&&(params.rel_canonical=utils.getRelCanonical()),this._whitelistContains("async_fetch")&&(params.async_fetch=!0),params},_whitelistContains:function(value){return this.options.paramsWhitelist&&this.options.paramsWhitelist.indexOf(value)>-1}}}();
+    !function(){var TOUT=window.TOUT=window.TOUT||{};if(console&&console.log&&console.log("Tout SDK: "+ +new Date),!TOUT._sdkScriptTagParsedAt){TOUT._sdkScriptTagParsedAt=new Date,TOUT.EMBED_CODE_VERSION="1.2.0";var sdkHost=TOUT.SDK_HOST||"platform.tout.com",sdkProtocol=TOUT.SDK_PROTOCOL||("https:"==window.location.protocol?"https:":"http:"),analyticsHost=TOUT.SDK_ANALYTICS_HOST||"analytics.tout.com",analyticsProtocol=TOUT.SDK_ANALYTICS_PROTOCOL||sdkProtocol;TOUT.onReady=TOUT.onReady||function(func){return TOUT._onReadyQueue=TOUT._onReadyQueue||[],TOUT._onReadyQueue.push(func),TOUT},TOUT.fireSimpleAnalyticsPixel=function(trigger_name,attrs){var img=new Image,url=analyticsProtocol+"//"+analyticsHost+"/events?trigger="+trigger_name;for(var attr in attrs)attrs.hasOwnProperty(attr)&&(url+="&"+attr+"="+encodeURIComponent(attrs[attr]));return img.src=url,img},TOUT.init=function(brandUid,options){options=options||{};var sdkScriptId="tout-js-sdk";if(document.getElementById(sdkScriptId)&&!options.forceInit)return TOUT;if(brandUid=TOUT.SDK_BRAND_UID||brandUid,"undefined"==typeof brandUid||"string"!=typeof brandUid||0===brandUid.length||brandUid.length>7)return TOUT.fireSimpleAnalyticsPixel("sdk_log",{log_level:"error",log_message:"BRAND_UID_NOT_DEFINED",content_page_url:window.location.href}),console&&console.error&&console.error("TOUT - Invalid Brand UID: "+brandUid),TOUT;TOUT._initOptions=options;var script=document.createElement("script");script.type="text/javascript",script.src=sdkProtocol+"//"+sdkHost+"/sdk/v1/"+brandUid+".js",script.id=sdkScriptId,script.className="tout-sdk";var firstScript=document.getElementsByTagName("script")[0];return firstScript.parentNode.insertBefore(script,firstScript),TOUT.fireSimpleAnalyticsPixel("sdk_initialized",{content_brand_uid:brandUid,sdk_embed_code_version:TOUT.EMBED_CODE_VERSION,content_page_url:window.location.href}),TOUT}}}();
+    (function(){
+      var brandUid = "59aa48";
+      TOUT.mapAsyncFetchApp.init(brandUid);
+      TOUT.init(brandUid);
+      TOUT.mapAsyncFetchApp.fetch();
+    })();
+    </script>
+
+
+    
+    
+    <script>
+        ! function() {
+            var tagalongWidth = 325;
+            if (window.innerWidth <= 320) {
+                tagalongWidth = window.innerWidth / 2
+            }
+            if (window.innerWidth > 320 && window.innerWidth <= 768) {
+                tagalongWidth = window.innerWidth * 0.4
+            }
+            if (window.innerWidth > 768 && window.innerWidth < 1367) {
+                tagalongWidth = window.innerWidth / 3
+            }
+            if (tagalongWidth > 325) {
+                tagalongWidth = 325
+            }
+            document.body.addEventListener('ToutSDKLoad', function(evt) { //wait for SDK to load
+                TOUT.model.setMixinSettings('TagAlong', { //change width of tagalong unit before player is created
+                    popoutWidth: tagalongWidth
+                })
+            })
+        }();
+    </script>
+
+
+    <div class="tout-sdk tout-below-article"></div>
+
+
+
+                    <script type='text/template' id='perfectpixelbottom-template'> 
+                        
+
+
+
+
+
+    
+        
+            <script src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+            <script type="text/javascript">var _informq = _informq || []; _informq.push(['embed']);</script>
+        
+        <div class="inform-embed" data-placement-id="inform-video-player-2" data-config-distributor-id="91440" data-config-width="100%" data-config-height="9/16w"></div>
+    
+
+                     </script><div id='perfectpixelbottom-target'></div><script> lazyLoadingModule("perfectpixelbottom-template", "perfectpixelbottom-target", "perfectpixel",500,
+        undefined, undefined, undefined,  "undefined", "true", undefined , undefined ); </script>
+                
+
+                
+                
+                    
+
+
+    <script type='text/template' id='zerg-template'> 
+        <div id="vendor-stories-content">
+            <h2 class='heading vendor-storiescontent-heading'>Suggested for you</h2>
+        </div>
+        <div class="vendor-storiescontent-main-container" id="zergnet-widget-53332"></div>
+     </script><div id='zerg-target'></div><script> lazyLoadingModule("zerg-template", "zerg-target", "zerg",500,
+        undefined, undefined, undefined,  "53332", "true", undefined , undefined ); </script>
+
+                
+
+                <div id="commenting-container" class="commenting-container element-spacing-large">
+                    
+                        <h2 class="heading link">
+    <a class="comments-toggle" href="javascript:void(0);">
+        <span class="glyphicon glyphicon-comment-o"></span>&nbsp; Comments &nbsp;<span class="glyphicon glyphicon-chevron-down rotate"></span>
+    </a>
+</h2>
+
+<!--Needs to be on the DOM on page load for IE. Needs to be visible to set the correct height of the comment component. I'm hiding it on document ready. Appending it later did not work-->
+<div id="fb-comments" class="fb-comments in" data-href="" data-width="100%" data-numposts="10"></div>
+
+<script>
+(function(){
+  var $commentingContainer = $('#commenting-container'),
+      $commentContainerChevron = $commentingContainer.find(".glyphicon-chevron-down"),
+      $fbComments = $("#fb-comments");
+      
+    if($("meta[property='fb:app_id']").length === 1 && $("meta[name='allow-comments']").prop("content") === "true") {
+         
+      $commentingContainer.on('click', 'a.comments-toggle', function(){
+        if (typeof mi.commenting === "undefined") {
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: mi.pageInfo.getConf('marketInfo.domain'),
+                fbapp_id: mi.pageInfo.getConf('facebook.app.id'),
+                fb_comment_div: {'data-width': '100%'}
+            });
+            mi.commenting.display();
+            FB.XFBML.parse(document.getElementById("fb-comments"));
+        }
+        
+        toggleComments();
+      });
+      
+      $(document).ready(function(){
+        toggleComments();
+      });
+      
+    } else {
+      
+        var disabledText = 'Comments have been disabled for this story.';
+        $fbComments.prepend("<p><strong>" + disabledText + "</strong></p>");
+        
+    }
+    
+    //toggleClass() wasn't working in IE the first time if it has the class
+    function toggleComments(){
+      if ($fbComments.hasClass('in')) {
+          $fbComments.removeClass('in');
+          $commentContainerChevron.removeClass("rotate");
+      }else {
+          $fbComments.addClass('in');
+          $commentContainerChevron.addClass("rotate");
+      }
+    }
+})();
+</script>
+
+                    
+                </div>
+            </div>
+            <div id="nativoArticlePage" ></div>
+        </div>
+        
+
+
+<div class="narrow-rail">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-9" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="179971861"></div>
+    </div>
+    <div class="element-spacing-medium">
+        <div id="video-widget" class="headline-list">
+            <h2 class="heading link"><a href="/video/">Videos</a></h2>
+            <div class="teaser">
+                <div id="container-174537626-1509090857360" class="container-174537626-1509090857360">
+                    
+                        
+                        
+
+<div class="wf-wps-side-bar">
+<div class="mi-video-sidebar-widget" id="video-detail-144535249-1509090857437">
+    <div id="video-container-144535249-1509090857437">
+        
+
+
+
+
+
+
+
+<div id="video-detail-144535249-1509090857437" class="media-wrap">
+    <div class="video-media" data-id="144535249" data-index>
+        <div id="player-144535249-1509090857437" class="player" data-id="144535249">
+            <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; background: url('http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_560/Pompeo') no-repeat center center; background-size: cover;">
+        </div>
+    </div>
+
+    <div class="mi-video-utility-bar share-icons  hide">
+        
+        <a class="mi-video-share-btn mi-video-utility-item" data-item="share-rail" >
+         <span class="glyphicon glyphicon-share" title="Share" ></span>
+        </a>
+        <a class="mi-video-embed-btn mi-video-utility-item" data-item="embed-rail" >
+            <span class="glyphicon glyphicon-code" title="Embed Links" ></span>
+        </a>
+        <a class="mi-video-info-btn mi-video-utility-item" data-item="info-rail" >
+            <span class="glyphicon glyphicon-info-circle" title="Info" ></span>
+        </a>
+    </div>
+        <div id="mi-video-overlay-144535249-1509090857437" class="mi-video-custom-overlay-wrap" >
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+        
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_200/What_Are_Bots.mp4" alt="How bots are taking over our lives  "/>
+                    <span class="duration">1:41</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">How bots are taking over our lives  </h4>
+                </div>
+                
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.thestate.com/news/politics-government/x7ec3n-President-Trump-Stops-His-Motorcade-in-Greenville-SC-to-Greet-Cheering-Supporters-10-16-17.mp4/alternates/LANDSCAPE_200/President%20Trump%20Stops%20His%20Motorcade%20in%20Greenville,%20SC%20to%20Greet%20Cheering%20Supporters%2010-16-17.mp4" alt="President Trump stops motorcade to greet supporters"/>
+                    <span class="duration">10:18</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">President Trump stops motorcade to greet supporters</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_200/20171025_143258.mp4" alt="Ivanka Trump promotes child tax credit at Capitol Hill "/>
+                    <span class="duration">1:33</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Ivanka Trump promotes child tax credit at Capitol Hill </h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/politics-government/congress/qa957r-Sessions.jpg/alternates/LANDSCAPE_200/Sessions.jpg" alt="Sessions defends Comey firing, denies Russia collusion"/>
+                    <span class="duration">2:07</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Sessions defends Comey firing, denies Russia collusion</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/nation-world/national/5swqq7-LaDavidJohnson.jpg/alternates/LANDSCAPE_200/LaDavidJohnson.jpg" alt="Trump denies account of call with soldier's widow"/>
+                    <span class="duration">2:34</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Trump denies account of call with soldier's widow</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/politics-government/white-house/ph6ijp-kennedytax.jpg/alternates/LANDSCAPE_200/kennedytax.jpg" alt="Kennedy proposes income tax cut in 1962"/>
+                    <span class="duration">2:04</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Kennedy proposes income tax cut in 1962</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.miamiherald.com/news/nation-world/world/americas/cuba/trds73-Recording-sheds-light-on-Cuba-sonic-attacks-targeting-US-workers/alternates/LANDSCAPE_200/Recording%20sheds%20light%20on%20Cuba%20sonic%20attacks%20targeting%20US%20workers" alt="Recording sheds light on Cuba sonic attacks targeting US workers"/>
+                    <span class="duration">1:56</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Recording sheds light on Cuba sonic attacks targeting US workers</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.sacbee.com/news/politics-government/7ta6rv-Trump-Tax-Overhaul_Pete.jpg/alternates/LANDSCAPE_200/Trump%20Tax%20Overhaul_Pete.jpg" alt="Trump outlines tax reform plan during speech in Indiana"/>
+                    <span class="duration">2:07</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Trump outlines tax reform plan during speech in Indiana</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/politics-government/white-house/4wjsyq-bannon.jpg/alternates/LANDSCAPE_200/bannon.jpg" alt="Bannon out days after Trump defended him "/>
+                    <span class="duration">0:45</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Bannon out days after Trump defended him </h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_200/Pompeo" alt="CIA Director says WikiLeaks is a ‘hostile intelligence service’"/>
+                    <span class="duration">1:48</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">CIA Director says WikiLeaks is a ‘hostile intelligence service’</h4>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+            
+                
+                <h4 class="media-title">CIA Director says WikiLeaks is a ‘hostile intelligence service’</h4>
+                <p class="media-leadtext">In his first public remarks since becoming CIA director, Mike Pompeo called WikiLeaks a ”non-state hostile intelligence service.”</p>
+            
+        </li>
+    </ul>
+</div>
+
+</div>
+
+        
+            
+    <script type="text/javascript">
+        if ( typeof allowAds === 'undefined' ) {
+            var allowAds = true;
+        }
+    </script>
+
+<script>
+    wpsRequire([ 'video' ], function ( video ) {
+        return video.play([{"id":"144535249","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/national-security/article144535249.html","duration":"1:48","image":"http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_768/Pompeo","title":"CIA Director says WikiLeaks is a ‘hostile intelligence service’","description":"CIA Director says WikiLeaks is a ‘hostile intelligence service’ <span class=\"title-duration\">1:48</span>","displayDescription":"In his first public remarks since becoming CIA director, Mike Pompeo called WikiLeaks a ”non-state hostile intelligence service.”","videographer":"","credit":"AP","published":1492131760,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437582013143-p5k4ma/Pompeo-on-Wikileaks-1492131757231.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437580321678-6bjrso/Pompeo-on-Wikileaks-1492131757698.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/art_144535249/Pompeo_on_Wikileaks.m3u8"}],"mediaid":"zfKn2xVA","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational_security%26id%3D144535249%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national_security&id=144535249&eid=179971861&vidlength=long&pl="}]},{"id":"180889036","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/article180889036.html","duration":"1:33","image":"http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_768/20171025_143258.mp4","title":"Ivanka Trump promotes child tax credit at Capitol Hill ","description":"Ivanka Trump promotes child tax credit at Capitol Hill  <span class=\"title-duration\">1:33</span>","displayDescription":"Ivanka Trump promoted the GOP’s tax overhaul efforts at a special event held at Capitol Hill on Oct. 25. ","videographer":"Emma Dumain","credit":"McClatchy DC Bureau ","published":1508966216,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437582013143-p5k4ma/20171025_143258-1508966212863.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437580321678-6bjrso/20171025_143258-1508966213634.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/art_180889036/20171025_143258.m3u8"}],"mediaid":"QhcxqkOG","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnews%26id%3D180889036%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=news&id=180889036&eid=179971861&vidlength=long&pl="}]},{"id":"180655616","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/article180655616.html","duration":"3:01","image":"http://www.mcclatchydc.com/news/qw48lw-Flake1_1.mp4/alternates/LANDSCAPE_768/Flake1_1.mp4","title":"Sen. Flake won't seek re-election, delivers scathing remarks against Trump and Congress","description":"Sen. Flake won't seek re-election, delivers scathing remarks against Trump and Congress <span class=\"title-duration\">3:01</span>","displayDescription":"Sen. Jeff Flake (R-AZ) announced that he will not seek re-election next year during a speech on the Senate floor on Oct. 24. Flake’s speech criticized the current state of politics. “Politics can make us silent when we should speak,” Flake said.  “Mr. President, I will not be complicit or silent,” he said. ","videographer":"","credit":"C-SPAN","published":1508877564,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/24/20/1437582013143-p5k4ma/Flake1_1-1508877561539.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/24/20/1437580321678-6bjrso/Flake1_1-1508877561993.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/24/20/art_180655616/Flake1_1.m3u8"}],"mediaid":"BUcGblok","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnews%26id%3D180655616%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=news&id=180655616&eid=179971861&vidlength=long&pl="}]}], {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"mcclatchydc","embed":false,"cacheBust":"d4f74c2","iterator":10,"uniqueID":"144535249-1509090857437","paywallEnabled":true,"domainName":"www.mcclatchydc.com","pubId":"57","baseTemplate":"story"}, [{"id":"174537626","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article174537626.html","duration":"1:41","image":"http://www.mcclatchydc.com/news/nation-world/national/ekhi02-What_Are_Bots.mp4/alternates/LANDSCAPE_768/What_Are_Bots.mp4","title":"How bots are taking over our lives  ","description":"How bots are taking over our lives   <span class=\"title-duration\">1:41</span>","displayDescription":"Bots make up more than half of all internet traffic and are seamlessly integrated into our everyday lives, here's how they work.","videographer":"Maureen Chowdhury and Patrick Gleason","credit":"McClatchy","published":1505880000,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437582013143-p5k4ma/What_Are_Bots-1505990449907.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/1437580321678-6bjrso/What_Are_Bots-1505990450741.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/21/10/art_174537626/What_Are_Bots.m3u8"}],"mediaid":"UPRysCFl","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D174537626%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=174537626&eid=179971861&vidlength=long&pl="}]},{"id":"179233121","asset_type":"videoIngest","url":"http://www.thestate.com/news/politics-government/article179233121.html","duration":"10:18","image":"http://www.thestate.com/news/politics-government/x7ec3n-President-Trump-Stops-His-Motorcade-in-Greenville-SC-to-Greet-Cheering-Supporters-10-16-17.mp4/alternates/LANDSCAPE_768/President%20Trump%20Stops%20His%20Motorcade%20in%20Greenville,%20SC%20to%20Greet%20Cheering%20Supporters%2010-16-17.mp4","title":"President Trump stops motorcade to greet supporters","description":"President Trump stops motorcade to greet supporters <span class=\"title-duration\">10:18</span>","displayDescription":"President Donald Trump arrives in Greenville, South Carolina, stops his motorcade, and greets his cheering supporters.","videographer":"","credit":"Based Patriot","published":1508214287,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/1437582013143-p5k4ma/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17-1508214053895.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/1437580321678-6bjrso/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17-1508214079084.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/3/art_179233121/President_Trump_Stops_His_Motorcade_in_Greenville__SC_to_Greet_Cheering_Supporters_10_16_17.m3u8"}],"mediaid":"87EAf6mS","ads":[]},{"id":"180889036","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/article180889036.html","duration":"1:33","image":"http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_768/20171025_143258.mp4","title":"Ivanka Trump promotes child tax credit at Capitol Hill ","description":"Ivanka Trump promotes child tax credit at Capitol Hill  <span class=\"title-duration\">1:33</span>","displayDescription":"Ivanka Trump promoted the GOP’s tax overhaul efforts at a special event held at Capitol Hill on Oct. 25. ","videographer":"Emma Dumain","credit":"McClatchy DC Bureau ","published":1508966216,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437582013143-p5k4ma/20171025_143258-1508966212863.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/1437580321678-6bjrso/20171025_143258-1508966213634.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/25/21/art_180889036/20171025_143258.m3u8"}],"mediaid":"QhcxqkOG","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnews%26id%3D180889036%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=news&id=180889036&eid=179971861&vidlength=long&pl="}]},{"id":"179504026","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/congress/article179504026.html","duration":"2:07","image":"http://www.mcclatchydc.com/news/politics-government/congress/qa957r-Sessions.jpg/alternates/LANDSCAPE_768/Sessions.jpg","title":"Sessions defends Comey firing, denies Russia collusion","description":"Sessions defends Comey firing, denies Russia collusion <span class=\"title-duration\">2:07</span>","displayDescription":"Attorney General Jeff Sessions while testifying before the Senate Judiciary Committee strongly defended President Trump’s firing of James Comey, and refused to discuss his confidential conversations with the President.","videographer":"","credit":"C-SPAN","published":1508346165,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/1437582013143-p5k4ma/Sessions-1508346162568.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/1437580321678-6bjrso/Sessions-1508346163261.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/16/art_179504026/Sessions.m3u8"}],"mediaid":"vca1VmGq","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcongress%26id%3D179504026%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FLocal%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=congress&id=179504026&eid=179971861&vidlength=long&pl="}]},{"id":"179538446","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article179538446.html","duration":"2:34","image":"http://www.mcclatchydc.com/news/nation-world/national/5swqq7-LaDavidJohnson.jpg/alternates/LANDSCAPE_768/LaDavidJohnson.jpg","title":"Trump denies account of call with soldier's widow","description":"Trump denies account of call with soldier's widow <span class=\"title-duration\">2:34</span>","displayDescription":"President Donald Trump denied telling the widow of Sgt. La David Johnson the serviceman \"must have known what he signed up for\" — a claim made by Florida Rep. Frederica Wilson, who was present for the call.","videographer":"","credit":"AP","published":1508353718,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/1437582013143-p5k4ma/LaDavidJohnson_1-1508353715174.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/1437580321678-6bjrso/LaDavidJohnson_1-1508353716077.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/18/19/art_179538446/LaDavidJohnson_1.m3u8"}],"mediaid":"hVltfjBX","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D179538446%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=179538446&eid=179971861&vidlength=long&pl="}]},{"id":"179266121","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/white-house/article179266121.html","duration":"2:04","image":"http://www.mcclatchydc.com/news/politics-government/white-house/ph6ijp-kennedytax.jpg/alternates/LANDSCAPE_768/kennedytax.jpg","title":"Kennedy proposes income tax cut in 1962","description":"Kennedy proposes income tax cut in 1962 <span class=\"title-duration\">2:04</span>","displayDescription":"President John F. Kennedy advocated for an income tax cut in this newsreel from August 1962 ahead of outlining his plan before Congress in January 1963. In 2017, a conservative group used part of Kennedy speaking about the tax cuts in a 30-second ad aimed at pressing three Democratic senators to embrace the Republican-led push for a tax overhaul.","videographer":"Universal Newsreels","credit":"","published":1508126400,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/1437582013143-p5k4ma/JFKTaxCut-1508254837609.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/1437580321678-6bjrso/JFKTaxCut-1508254838395.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/17/15/art_179266121/JFKTaxCut.m3u8"}],"mediaid":"DnQvyDEv","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwhite_house%26id%3D179266121%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=white_house&id=179266121&eid=179971861&vidlength=long&pl="}]},{"id":"178503931","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/world/article178503931.html","duration":"1:56","image":"http://www.miamiherald.com/news/nation-world/world/americas/cuba/trds73-Recording-sheds-light-on-Cuba-sonic-attacks-targeting-US-workers/alternates/LANDSCAPE_768/Recording%20sheds%20light%20on%20Cuba%20sonic%20attacks%20targeting%20US%20workers","title":"Recording sheds light on Cuba sonic attacks targeting US workers","description":"Recording sheds light on Cuba sonic attacks targeting US workers <span class=\"title-duration\">1:56</span>","displayDescription":"The Associated Press has obtained a recording of what some U.S. embassy workers heard in Havana as they were attacked by what investigators initially believed was a sonic weapon. ","videographer":"","credit":"AP","published":1507836287,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/1437582013143-p5k4ma/cuba_attack_v2-1507836283758.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/1437580321678-6bjrso/cuba_attack_v2-1507836284447.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/10/12/19/art_178503931/cuba_attack_v2.m3u8"}],"mediaid":"E4o1LNrb","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dworld%26id%3D178503931%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=world&id=178503931&eid=179971861&vidlength=long&pl="}]},{"id":"175802971","asset_type":"videoIngest","url":"http://www.sacbee.com/news/politics-government/article175802971.html","duration":"2:07","image":"http://www.sacbee.com/news/politics-government/7ta6rv-Trump-Tax-Overhaul_Pete.jpg/alternates/LANDSCAPE_768/Trump%20Tax%20Overhaul_Pete.jpg","title":"Trump outlines tax reform plan during speech in Indiana","description":"Trump outlines tax reform plan during speech in Indiana <span class=\"title-duration\">2:07</span>","displayDescription":"Speaking at an event in Indianapolis on September 27, President Donald Trump said that his tax proposal will help middle class families save money and will eliminate loopholes that benefit the wealthy.","videographer":"","credit":"AP","published":1506559488,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/1437582013143-p5k4ma/Trump_tax_reform_Sept_27_2017-1506559485403.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/1437580321678-6bjrso/Trump_tax_reform_Sept_27_2017-1506559486119.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/9/28/0/art_175802971/Trump_tax_reform_Sept_27_2017.m3u8"}],"mediaid":"jmQS9aj9","ads":[]},{"id":"167967687","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/politics-government/white-house/article167967687.html","duration":"0:45","image":"http://www.mcclatchydc.com/news/politics-government/white-house/4wjsyq-bannon.jpg/alternates/LANDSCAPE_768/bannon.jpg","title":"Bannon out days after Trump defended him ","description":"Bannon out days after Trump defended him  <span class=\"title-duration\">0:45</span>","displayDescription":"White House advisor Steve Bannon has been ousted from the Trump administration just days after President Donald Trump defended him at a press conference. Listen to Trump's comments about Bannon on August 16, 2017","videographer":"","credit":"White House","published":1503075532,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/1437582013143-p5k4ma/BannonDefense-1503075530473.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/1437580321678-6bjrso/BannonDefense-1503075530803.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/8/18/16/art_167967687/BannonDefense.m3u8"}],"mediaid":"ltnLno1x","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwhite_house%26id%3D167967687%26eid%3D179971861%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=white_house&id=167967687&eid=179971861&vidlength=short&pl="}]},{"id":"144535249","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/national-security/article144535249.html","duration":"1:48","image":"http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_768/Pompeo","title":"CIA Director says WikiLeaks is a ‘hostile intelligence service’","description":"CIA Director says WikiLeaks is a ‘hostile intelligence service’ <span class=\"title-duration\">1:48</span>","displayDescription":"In his first public remarks since becoming CIA director, Mike Pompeo called WikiLeaks a ”non-state hostile intelligence service.”","videographer":"","credit":"AP","published":1492131760,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437582013143-p5k4ma/Pompeo-on-Wikileaks-1492131757231.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/1437580321678-6bjrso/Pompeo-on-Wikileaks-1492131757698.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/4/14/0/art_144535249/Pompeo_on_Wikileaks.m3u8"}],"mediaid":"zfKn2xVA","ads":[{"publication":"mcclatchydc","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational_security%26id%3D144535249%26eid%3D179971861%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national_security&id=144535249&eid=179971861&vidlength=long&pl="}]}], true );
+    });
+</script>
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+        <div class="video-details">
+            <time class="published-date timeago hidden">6 months ago</time>
+            <h2 class="title video-title">
+                <a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article144535249.html">CIA Director says WikiLeaks is a ‘hostile intelligence service’</a>
+            </h2>
+        </div>
+    </div>
+    <div id="playlist-144535249-1509090857437">
+        <div class="mi-playlist-sidebar">
+            
+                
+                    <a class="playlist-item" href="#0" data-index="0">
+                        <div class="media posterframe-wrapper">
+                            <img src="http://www.mcclatchydc.com/news/j7ok2o-Pompeo/alternates/LANDSCAPE_200/Pompeo" alt="CIA Director says WikiLeaks is a ‘hostile intelligence service’"/>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                            <span class="duration">1:48</span>
+                        </div>
+                        <div class="media-desc">
+                            <time class="published-date hidden">6 months ago</time>
+                            <h4 class="title video-title">CIA Director says WikiLeaks is a ‘hostile intelligence service’</h4>
+                        </div>
+                    </a>
+               
+            
+                
+                    <a class="playlist-item" href="#1" data-index="1">
+                        <div class="media posterframe-wrapper">
+                            <img src="http://www.mcclatchydc.com/news/zdjrk-20171025_143258.mp4/alternates/LANDSCAPE_200/20171025_143258.mp4" alt="Ivanka Trump promotes child tax credit at Capitol Hill "/>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                            <span class="duration">1:33</span>
+                        </div>
+                        <div class="media-desc">
+                            <time class="published-date hidden">a day ago</time>
+                            <h4 class="title video-title">Ivanka Trump promotes child tax credit at Capitol Hill </h4>
+                        </div>
+                    </a>
+               
+            
+                
+                    <a class="playlist-item" href="#2" data-index="2">
+                        <div class="media posterframe-wrapper">
+                            <img src="http://www.mcclatchydc.com/news/qw48lw-Flake1_1.mp4/alternates/LANDSCAPE_200/Flake1_1.mp4" alt="Sen. Flake won't seek re-election, delivers scathing remarks against Trump and Congress"/>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                            <span class="duration">3:01</span>
+                        </div>
+                        <div class="media-desc">
+                            <time class="published-date hidden">2 days ago</time>
+                            <h4 class="title video-title">Sen. Flake won't seek re-election, delivers scathing remarks against Trump and Congress</h4>
+                        </div>
+                    </a>
+               
+            
+        </div>
+    </div>
+</div>
+</div>
+
+                    
+                </div>
+                <div class="clearfix footer element_spacing_large">
+                    <p class="readmore">
+                        <a href="/video">
+                            View More Video
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-10" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" articleId="179971861"></div>
+    </div>
+    
+    
+    
+
+
+<div class="element-spacing-medium">
+    <section id="more-stories-widget" class="headline-list element_spacing_large">
+        
+            
+                <h2 class="heading link">
+                    <a href="/news/nation-world/national/national-security/">
+                        National Security
+                    </a>
+                </h2>
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="http://www.mcclatchydc.com/news/politics-government/congress/article180707721.html">
+                                        How’s the removal of Russian software from federal computers going?
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article180461731.html">
+                                        New digital ‘hurricane’ churns, gathering strength to land blow on the internet
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article179986286.html">
+                                        Hyper computers are on the horizon – and they’ll see past your flimsy security
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article176070931.html">
+                                        WikiLeaks founder Julian Assange now in war of words with the country protecting him
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article175740301.html">
+                                        As hacks soar, tech honchos are the first to get fired, and then rehired
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                <div class="clearfix">
+                    <div class="more-stories-link wps-stories-link">
+                        <a href="/news/nation-world/national/national-security/">
+                            National Security
+                        </a>
+                    </div>
+                </div>
+            
+        
+            
+        
+    </section>
+</div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-11" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="179971861"></div>
+    </div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-12" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="179971861"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-13" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="179971861"></div>
+    </div>
+</div>
+
+    </div>
+</section>
+
+<div class="container">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-14" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="none" articleId="179971861"></div>
+    </div>
+</div>
+
+<img src="https://cdn.relaymedia.com/ping?url=http%3A%2F%2Fwww.mcclatchydc.com%2Fnews%2Fnation-world%2Fnational%2Fnational-security%2Farticle179971861.html" width="1" height="1">
+
+
+    
+
+        
+    
+<div id="footer" class="wps-footer">
+    <header id="footer-logo">
+        <div class="container text-center">
+            <a href="/" target="_top">
+                <img src="/wps/build/images/mcclatchydc/logo-sm.png" alt="McClatchy DC | McClatchyDC.com" class="img-responsive" />
+            </a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div id="accordion" class="panel-group">
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseOne">Subscriptions</a></h2>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&amp;wu=20#navlink=mi_footer">Newsletters</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseTwo">Site Information</a></h2>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="/customer-service/#navlink=mi_footer">Customer Service</a></li>
+                                
+                                    <li><a href="/customer-service/contact-us/#navlink=mi_footer">Contact Us</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseThree">Social, Mobile &amp; More</a></h2>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&amp;wu=42#navlink=mi_footer">Text News Alerts</a></li>
+                                
+                                    <li><a href="/mobile/#navlink=mi_footer">Mobile &amp; Apps</a></li>
+                                
+                                    <li><a href="https://itunes.apple.com/us/podcast/beyond-the-bubble/id1199102479?mt=2#navlink=mi_footer">Beyond The Bubble Podcast</a></li>
+                                
+                                    <li><a href="https://itunes.apple.com/us/podcast/acc-now-podcast/id1173645386?mt=2#navlink=mi_footer">The ACC Now Podcast</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseFour">Advertising</a></h2>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="http://www.mcclatchy.com/advertise/#navlink=mi_footer">Advertise With Us</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" id="footer-legal">
+            <div class="panel col-sm-6 col-md-3 full-width-content">
+                <div class="panel-heading">
+                    <h2 class="heading"><a data-toggle="" data-parent="#footer-legal" href="#collapseLegal">More</a></h2>
+                </div>
+                <div id="collapseLegal" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <ul class="footer-menu-legal">
+                            
+                                <li><a href="/customer-service/copyright/#navlink=mi_footer">Copyright</a></li>
+                            
+                                <li><a href="/customer-service/privacy-policy/#navlink=mi_footer">Privacy Policy</a></li>
+                            
+                                <li><a href="/customer-service/terms-of-service/#navlink=mi_footer">Terms of Service</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+$(window).on('resize load', function() {
+    var iWindowWidth = window.innerWidth;
+    if (iWindowWidth <= 767) {
+        $('#accordion .collapse, #footer-legal .collapse').removeClass('in');
+        $('#accordion .collapse, #footer-legal .collapse').addClass('out');
+        $('#accordion .heading a, #footer-legal .heading a').attr('data-toggle', 'collapse');
+    }
+    else {
+        $('#accordion .collapse, #footer-legal .collapse').removeClass('out');
+        $('#accordion .collapse, #footer-legal .collapse').addClass('in');
+        $('#accordion .heading a, #footer-legal .heading a').attr('data-toggle', '');
+        $('#footer-legal').find('#collapseLegal').css("height","auto");
+        if($('#accordion .collapse').hasClass('in')) {
+            $('#accordion .collapse').css("height","auto");
+        }
+    }
+});
+
+(function(){
+    var topPanel;
+    $('#footer-legal .panel-heading a').click(function(){
+        topPanel = $('#accordion').find(".panel-collapse.in")
+        if(topPanel){
+            topPanel.prev().find("a[href=#"+topPanel.attr("id")+"]").trigger("click");
+        }
+    });
+    $('#accordion .panel-heading a').click(function(){
+        topPanel = $('#footer-legal').find(".panel-collapse.in")
+        if(topPanel){
+            topPanel.prev().find("a[href=#"+topPanel.attr("id")+"]").trigger("click");
+        }
+    });
+})();
+</script>
+
+<div id="wallpaperWrapper" style="display:none;">
+    <div class="ad-widget" id="mn-gpt-15" adtype="wallpaper" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="1600x600" Medium="None" Small="None" Extra-Small="None" articleId="179971861"><script type='text/javascript'>initWallpaperAd(['#mn-gpt-15'], 'section[role="main"]'); createWallpaperAd();</script></div>
+</div>
+    
+        <div id="floorboard" class="hidden-xs">
+            <div id="floorboard_outer">
+                <div id="floorTagWrapper" style="display:none;">
+                    <div class="ad-widget" id="mn-gpt-16" adtype="floorboard" pkg="a" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="285x70" Medium="285x70" Small="285x70" Extra-Small="None" articleId="179971861"></div>
+                </div>
+            </div>
+        </div>
+    
+
+    
+        <script type="text/javascript">
+            mi_Ads.env.init();
+        </script>
+    
+
+<div id="mistatstag" style="display:none;">
+    
+        <script src="http://media.mcclatchydc.com/mistats/products/escenic_s_code.js"></script>
+        <script src="http://media.mcclatchydc.com/mistats/products/escenic.js"></script>
+        <script src="http://media.mcclatchydc.com/mistats/finalizestats.js"></script>
+    
+</div>
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+        
+    
+
+<script type="text/javascript">
+    //<![CDATA[
+    var clientDT = new Date().getTime();
+    document.write('<img style="display:none;" src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=23124&contextPath=21306-23124&pubId=57&cat=&meta=read-story&objId=179971861&type=article&title=China+speeds+ahead+of+U.S.+as+quantum+race+escalates%2C+worrying+scientists&url=http%3A%2F%2Fwww.mcclatchydc.com%2Fnews%2Fnation-world%2Fnational%2Fnational-security%2Farticle179971861.html&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+    //]]>
+</script>
+
+<noscript>
+    <div>
+        <img src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=23124&contextPath=21306-23124&pubId=57&cat=&meta=read-story&objId=179971861&type=article&title=China+speeds+ahead+of+U.S.+as+quantum+race+escalates%2C+worrying+scientists&url=http%3A%2F%2Fwww.mcclatchydc.com%2Fnews%2Fnation-world%2Fnational%2Fnational-security%2Farticle179971861.html" alt="one pixel graphics" width="1" height="1"/>
+    </div>
+</noscript>
+
+
+
+
+
+        
+    
+<div class="overlay overlay-data">
+    <div id="overlayParent">
+        <div class="overlayHeading">
+            <h1>Fatal Echoes</h1>
+            <p>Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh</p>
+            <div class="arrow-box"></div>
+        </div>
+        
+
+
+    </div>
+    <div id="backToStory">
+        <a class="backLink" href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article179971861.html">
+            <span class="fa glyphicon-long-arrow-left"></span>
+            <span class="back-label">Back to story</span>
+        </a>
+    </div>
+</div>
+
+
+        
+        
+    <script type="text/javascript">
+    var WFClientTypeDef = {
+        "extraSmall": "(max-width: 767px)",
+        "medium": "(min-width: 992px) and (max-width: 1199px)",
+        "large": "(min-width: 1200px)",
+        "small": "(min-width: 768px) and (max-width: 991px)"
+    };
+    var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+</script>
+<script type="text/javascript" src="/wps/build/js/mi-footer-4c6a9bd5cd.js"></script>
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 968074018;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968074018/?value=0&guid=ON&script=0"/>
+        </div>
+    </noscript>
+
+
+    <!-- Start MdotLabs Tag -->
+<div class="mlabs_container">
+<script src="http://tags.mdotlabs.com/tracking.php?siteID=e8AJ" async></script>
+</div>
+<!-- End MdotLabs Tag -->
+
+
+
+    <script type="text/javascript">
+        mi.pageInfo.setConf("chartbeat.uid", 62447);
+    </script>
+
+<script src="/wps/source/scripts/libs/md5.min.js"></script>
+<script type="text/javascript">
+    var nextbee = {
+        user_cookie: undefined,
+        user_email: undefined,
+        nextbee_host: "",
+        nextbee_campaign: "",
+        nextbee_client: "",
+        API_AUTHORIZATION_KEY: 'DECGCFCFHEACGCDBIBGZ158469415068700193Y!n-868654787',
+        ENCRYPTION_KEY: '0.9240762',
+
+        credit_read_story: function() {
+            this.post_to_nextbee("");
+        },
+
+        credit_watch_video: function() {
+            this.post_to_nextbee("");
+        },
+
+        credit_share_articles: function(id, url) {
+            this.post_to_nextbee(id, url);
+        },
+
+        initialize: function() {
+            this.user_cookie = checkUserSubscribed('MPPUser');
+            if (this.user_cookie) {
+                var cookie_json = JSON.parse(this.user_cookie);
+                if (cookie_json) {
+                    this.user_email = cookie_json.NextBeeEmail;
+                }
+            }
+            
+                this.credit_read_story();
+            
+        },
+
+        required_values_present: function (widget_id) {
+            return this.user_cookie && this.user_email &&
+                   this.nextbee_host && this.nextbee_client && this.nextbee_campaign &&
+                   widget_id;
+        },
+
+        post_to_nextbee: function (widget_id, href) {
+            if (this.required_values_present(widget_id)) {
+                var nextbee_url = ['https://' + this.nextbee_host, 'nextbeeapis',
+                    this.nextbee_client, this.nextbee_campaign, 'Event'].join('/') +
+                    '?email=' + encodeURIComponent(this.user_email) +
+                    '&widget_config_id=' + widget_id;
+                var timestamp_key = Math.floor(Date.now()).toString();
+                var api_call_signature = md5(this.API_AUTHORIZATION_KEY +
+                    this.ENCRYPTION_KEY + timestamp_key);
+
+                console.log("NextBee URL: " + nextbee_url +
+                    "\nAuth. Key: " + this.API_AUTHORIZATION_KEY +
+                    "\nEnc. Key:  " + this.ENCRYPTION_KEY +
+                    "\nTimestamp: " + timestamp_key +
+                    "\nSignature: " + api_call_signature);
+
+                $.ajax( { url: nextbee_url, type: 'post', headers: {
+                    'ts-key': timestamp_key,
+                    'api-call-signature': api_call_signature,
+                    'cache-control': 'no-cache',
+                    'content-type': 'application/json',
+                    },
+                    complete: function(data) {
+                        if(href)
+                        {
+                            window.location.href = href;
+                        }
+                        console.log("NextBee API response: " + data.responseText);
+                    }
+                } );
+            }
+        }
+    };
+
+    $(function(){
+        nextbee.initialize();
+    });
+</script>
+
+
+
+<!-- Start Lotame Tag -->
+	<script src="http://tags.crwdcntrl.net/c/7871/cc.js?ns=_cc7871" id="LOTCC_7871"></script>
+	<script>_cc7871.bcp();</script>
+<!-- End Lotame Tag -->
+
+
+
+
+    </body>
+</html>

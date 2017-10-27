@@ -1,0 +1,613 @@
+<style type="text/css" >
+<!--
+.w_tweet_tweet_wrap {
+	font-size: 0.8em;
+	margin: 5px 0px 20px 0px;
+	padding: 5px 0px 15px 0px;
+	line-height: 1.3em;
+	clear: both;
+	}
+
+.w_tweet_tweet_text {
+	padding: 0px 0px 2px 0px;
+	border-bottom: 1px solid #f0f0f0;
+	}
+
+.w_tweet_tweet_time_tweet {
+	float: left;
+	margin-top: 3px;
+	font-size: 0.9em;
+	color: gray;
+	}
+
+.w_tweet_tweet_source {
+	float: right;
+	margin-top: 3px;
+	font-size: 0.9em;
+	text-align: right;
+	}
+
+.w_tweet_tweet_status {
+	font-size: 0.8em;
+	text-align: right;
+	border-top: 1px solid lightgray;
+	padding: 2px 0px;
+	margin-top: 1.0em;
+	color: lightgray;
+	}
+
+.w_tweet_tweet_photobox {
+	float: left;
+	border-radius: 3px;
+	overflow: hidden;
+	}
+
+.w_tweet_tweet_photobox img {
+	border: 1px solid lightgray;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	}
+
+
+
+.w_tweet_tweet_profile_wrap {
+	margin: 10px 0px;
+	border-bottom: 1px solid lightgray;
+	}
+
+.w_tweet_tweet_profile_icon {
+	width: 48px;
+	height: 48px;
+	border: 1px solid lightgray;
+	border-radius: 3px;
+	overflow: hidden;
+	float: left;
+	margin-right: 8px;
+	margin-bottom: 4px;
+	}
+
+.w_tweet_tweet_profile_username {
+	font-size: 1.0em;
+	font-weight: bold;
+	}
+
+.w_tweet_tweet_profile_location {
+	font-size: 0.9em;
+	margin-bottom: 4px;
+	}
+
+.w_tweet_tweet_profile_description {
+	font-size: 0.9em;
+	}
+
+.w_tweet_tweet_profile_meta_wrap {
+	clear: both;
+	}
+
+.w_tweet_tweet_profile_meta {
+	font-size: 0.8em;
+	color: gray;
+	text-align: right;
+	padding-bottom: 3px;
+	}
+-->
+</style>
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Everything We Think We Know About Chinese Finances is Wrong | Balding&#039;s World</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.baldingsworld.com/wp-content/themes/twentyeleven/style.css" />
+<link rel="pingback" href="http://www.baldingsworld.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.baldingsworld.com/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Balding&#039;s World &raquo; Feed" href="http://www.baldingsworld.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Balding&#039;s World &raquo; Comments Feed" href="http://www.baldingsworld.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Balding&#039;s World &raquo; Everything We Think We Know About Chinese Finances is Wrong Comments Feed" href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.baldingsworld.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-77372301-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<link rel='https://api.w.org/' href='http://www.baldingsworld.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.baldingsworld.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.baldingsworld.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Is China&#8217;s Import Surge Real?' href='http://www.baldingsworld.com/2017/09/25/is-chinas-import-surge-real/' />
+<link rel='next' title='Technical Follow Up to Hidden Chinese Debt' href='http://www.baldingsworld.com/2017/10/26/technical-follow-up-to-hidden-chinese-debt/' />
+<meta name="generator" content="WordPress 4.7.6" />
+<link rel="canonical" href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/" />
+<link rel='shortlink' href='http://www.baldingsworld.com/?p=1568' />
+<link rel="alternate" type="application/json+oembed" href="http://www.baldingsworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.baldingsworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F&#038;format=xml" />
+<meta property="og:site_name" content="Balding&amp;#039;s World" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="" />
+<meta property="og:title" content="Everything We Think We Know About Chinese Finances is Wrong" />
+<meta property="og:url" content="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/" />
+
+<!-- BEGIN GADWP v4.9.3.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-77372301-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+</head>
+
+<body class="post-template-default single single-post postid-1568 single-format-standard single-author singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://www.baldingsworld.com/" rel="home">Balding&#039;s World</a></span></h1>
+				<h2 id="site-description">Global Finance and Economics</h2>
+			</hgroup>
+
+						<a href="http://www.baldingsworld.com/">
+									<img src="http://www.baldingsworld.com/wp-content/uploads/2012/06/cropped-newgold-blog2.jpg" width="1000" height="288" alt="Balding&#039;s World" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://www.baldingsworld.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content">Skip to primary content</a></div>
+												<div class="menu"><ul>
+<li ><a href="http://www.baldingsworld.com/">Home</a></li><li class="page_item page-item-267"><a href="http://www.baldingsworld.com/research/">Academic Research</a></li>
+<li class="page_item page-item-233"><a href="http://www.baldingsworld.com/courses/">Investment Research</a></li>
+</ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://www.baldingsworld.com/2017/09/25/is-chinas-import-surge-real/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://www.baldingsworld.com/2017/10/26/technical-follow-up-to-hidden-chinese-debt/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-1568" class="post-1568 post type-post status-publish format-standard hentry category-banking category-china category-data category-financial-crisis tag-banking tag-china tag-data tag-debt tag-economy tag-financial-crisis tag-pboc">
+	<header class="entry-header">
+		<h1 class="entry-title">Everything We Think We Know About Chinese Finances is Wrong</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/" title="9:30 am" rel="bookmark"><time class="entry-date" datetime="2017-10-23T09:30:51+00:00">October 23, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://www.baldingsworld.com/author/admin/" title="View all posts by Christopher Balding" rel="author">Christopher Balding</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div id="fb_share_1" style="float: right; margin-left: 10px;"><a href="http://www.facebook.com/sharer.php" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.facebook.com/sharer.php', 'Share');" name="fb_share" type="box_count" share_url="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/">Share</a></div><div><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></div><p>China has long faced doubts about the veracity of its economic data and concerns about its rapidly rising level of indebtedness.  While defaults and individual incidents raised questions about debt discrepancies, there was no systematic evidence that the financial system faced systemic misstatement. The People’s Bank of China changed that with a few sentences.</p>
+<p>By some estimate, the widely watched debt to GDP metric in China has <a href="https://www.cnbc.com/2017/06/28/chinas-debt-surpasses-300-percent-of-gdp-iif-says-raising-doubts-over-yellens-crisis-remarks.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.cnbc.com/2017/06/28/chinas-debt-surpasses-300-percent-of-gdp-iif-says-raising-doubts-over-yellens-crisis-remarks.html', 'already surpassed');">already surpassed</a> 300%. While this is level is worrying given financial stress associated with countries that reached similar levels, this is only half the story.  There have long been suspicions that Chinese debt numbers are not entirely accurate but data that would demonstrate a systemic difference from data has never emerged.  However, every time a company collapsed, there would inevitably come out a mountain of undeclared debt. While this raised suspicions, there was never systematic evidence.</p>
+<p>The Financial Stability Board (FSB), formed after the 2008 Global Financial Crisis, aggregates data for major countries that includes a broader measure of assets by banks, insurance companies, and other major asset holders.  <a href="http://www.fsb.org/2017/05/global-shadow-banking-monitoring-report-2016/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.fsb.org/2017/05/global-shadow-banking-monitoring-report-2016/', 'According to their data');">According to their data</a>, at the end of 2015, China financial system assets had already reached 401% of GDP.</p>
+<p><img class="alignnone size-full" src="http://www.baldingsworld.com/wp-content/uploads/2017/10/Slide1.jpg" width="743" height="680" /></p>
+<p>This put them only 11% (5100 basis points) behind Germany and 200-300% ahead of comparable emerging markets like Brazil, Russia, India, and Mexico.  By this measure, at the end of 2015, China was already worrying and a distinct outlier, but not completely absurd.</p>
+<p>China itself, gave us evidence that its financial data is wildly off.  The annual PBOC <a href="http://www.pbc.gov.cn/english/130721/3390064/index.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.pbc.gov.cn/english/130721/3390064/index.html', 'Financial Stability Report');">Financial Stability Report</a> with little fanfare more than <strong><em>doubled</em></strong> its estimates of financial system assets.  In a little noticed paragraph the PBOC noted that “the outstanding balance of the off-balance sheet of banking institutions….registered 253.52 trillion yuan.” To provide some perspective, official on balance sheet assets were only 232.25 trillion yuan.</p>
+<p>The PBOC report matches extremely closely official data for the on balance sheet portion of bank assets, but matches no known official data for the off balance sheet portion of assets. Nor does the PBOC provide many clues as to what these off balance assets are holding.  They do note that roughly two-thirds of the 253 trillion is held as “financial asset services” which may mean everything from structured products sold to clients who believe the bank will stand behind the product, special purpose vehicles holding non-traditional assets, or certain types of financial flows.</p>
+<p>If we revise our earlier estimate of financial system assets to GDP based upon the new PBOC numbers, China’s position changes dramatically.  The FSB estimate of all financial systems published only in May 2017 jumps from 401% of nominal GDP to 653% of GDP at the end of 2016 for just banking system assets.</p>
+<p><img class="alignnone size-full" src="http://www.baldingsworld.com/wp-content/uploads/2017/10/Slide2.jpg" width="762" height="678" /></p>
+<p>If we take the FSB data, add in the new PBOC data, and estimate forward to 2016 Chinese <strong><em>financial system assets</em></strong> are equal to 833% of nominal GDP ahead of Japan at 657% and behind only international banking center United Kingdom at 1008%.</p>
+<p><img src="http://www.baldingsworld.com/wp-content/uploads/2017/10/Slide3.jpg" /></p>
+<p>This level of asset accumulation imposes real costs. Where as Japan and Europe have close to zero or negative interest rates, China has significantly higher. If we make the simple cheap assumption that these assets earn the short term interbank deposit rate of return of 3.5%, this would imply a financial servicing cost to the economy of 29% of nominal GDP. Conversely, Japan with financial assets of 657% of GDP but using the higher long term loan rates of 1% instead, would need only 6.6% of GDP to service its asset costs.  Prof. Victor Shih at the University of California, San Diego <a href="https://www.merics.org/fileadmin/user_upload/downloads/China-Monitor/171017_Merics_ChinaMonitor_42.pdf" onclick="__gaTracker('send', 'event', 'download', 'https://www.merics.org/fileadmin/user_upload/downloads/China-Monitor/171017_Merics_ChinaMonitor_42.pdf');">wrote in a recent report</a> that “Total interest payments from June of 2016 to June of 2017 exceeded incremental increase in nominal GDP by roughly 8 trillion RMB.”</p>
+<p>What makes this disclosure concerning is how extreme the numbers are. Even the FSB placed China among developed country financialization and well outside the range of other emerging markets. The new numbers place China on the extremity of all major economies behind only a major international banking center even in front of Japan who has run strongly expansionary monetary policy for years to try and push inflation.</p>
+<p>Many analysts have raised concerns about asset bubbles and debt growth in China but even the most bearish would have had trouble believing this level of financialization.  Even the risks are more than hypothetical.  In bankruptcies or defaults, it is common to find enormous amounts of <a href="https://macropolo.org/anatomy-bankrupt-state-firms-liquidation/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://macropolo.org/anatomy-bankrupt-state-firms-liquidation/', 'undisclosed debts');">undisclosed debts</a> or asset management products sold by banks to clients they are expected to <a href="http://www.scmp.com/business/banking-finance/article/2088620/chinas-minsheng-bank-sees-investor-trust-vanish-along-3b" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.scmp.com/business/banking-finance/article/2088620/chinas-minsheng-bank-sees-investor-trust-vanish-along-3b', 'make good');">make good</a> even if technically off balance sheet.</p>
+<p>There are a handful of key points to remember:</p>
+<ol>
+<li>We do not know what these assets hold other than three broad categories comprised of guarantee, commitment operations, and financial asset services which even then only comprise 79% of the total 253 trillion.</li>
+<li>These are <strong><em>not</em></strong> simply bank to bank flows. It is likely this number includes some financial to financial flow, but significant amount clearly out in the real economy.  The PBOC includes under these assets entrusted loans as well as guarantee operations both of which indicate real economy activity.</li>
+<li>Even if the off balance sheet assets are just bank to bank flows this actually makes the banking system worse. This happens because that means official bank borrowing is much higher than official data indicates lowering already strained capital adequacy rates to very concerning levels. Total on balance sheet bank capital is 15.5 trillion or 6.1% of the 253 trillion in off balance sheet assets.  If any sizeable amount of the 253 trillion in off balance sheet assets is lent to the banks for on balance sheet activities, this destroys the banks capital base.  In fact, depository corporations in China only list 28.6 trillion in liabilities to either depository or financial corporations.  So either the off balance sheet assets are <strong><em>not</em></strong> flowing to banks in large amount or official on balance sheet financial figures for China are wildly wrong with disastrous consequences. I personally lean to the idea that most of these assets are not flowing to banks but do want to emphasize that if you are going to make the counter argument, the implications are probably even larger and worse.</li>
+<li>There are two primary ways in China that assets end up off balance sheet. First, the Enron model. In this scenario, accounting sleight of hand is used so that SPVs are used so that an entity does not have to consolidate finances of entities it effectively controls. It should be noted that this does not mean that the bank or other institutions have done anything technically illegal, only that while control may legally lie elsewhere and finances are not consolidated up to a known parent, the financial risk never leaves.  Many bad debt management schemes are where a major bank acts as manager but holds less than the controlling amount so that they can claim the debt is off their balance sheet.  In some instances, they work with other banks who contribute the capital required to ensure the manager is not aggregating financials upwards.  I even know of some instances where the banks are buying debt from other banks where the clients who are the bad debtor are contributing the majority of capital as the bank buys bad debt from other banks as the manager of a fund.  The key point is that Chinese banks are technically meeting accounting requirements to move debt off balance sheet but not transferring the risk.</li>
+<li>The second most likely source is banks selling asset management products to other clients. These products are widely spread throughout the economy from corporate China looking to store cash for 30 days, wealth management firms, or individual bank clients.  What is important to note is that in this case, the bank typically does not <strong><em>technically/legally</em></strong> carry the legal risk of the product purchased by clients.  Most of the products are unguaranteed.  However, pragmatically, this simply is not an accurate assessment of the reality.  Take an extreme example.  Assume a significant portion of these off balance sheet assets sold, even say 10%, defaulted and went to zero.  This would cause a major problem.  Where we have seen large losses attempt to be imposed on retail type investors, they have almost always been bailed out.  Beijing and defenders can claim all day long that neither Beijing or the state owned banks guarantee these products but when Beijing starts imposing large losses on investors rather than bailing them out, then I will believe it. To date, that has not happened.</li>
+<li>It is important to note that given the size of these off balance sheet assets, this obfuscation of financial data has been occurring for many years. Even China does not go from 0 to 253 trillion RMB in one year. This implies that we need to rethink the entirety of Chinese development and finance since probably about 2000.  One truism has been that when true pictures of financial health are obtained, typically in a default, there is always enormous amount of undeclared liabilities.  We can no longer exclude that these are not isolated cases but as the PBOC has admitted, the norm rather than the exception.</li>
+<li>We do have some scant evidence of how rapidly this off balance sheet side of the banking system has growth. <a href="http://www.pbc.gov.cn/english/130736/index.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.pbc.gov.cn/english/130736/index.html', 'In the 2015 FSR');">In the 2015 FSR</a>, the PBOC listed off balance sheet assets at the end of 2014 as equal to 70.44 trillion RMB or equal to 40.87% of “Chinese banks aggregated balance sheets”. In the <a href="http://www.pbc.gov.cn/english/130736/3130899/2016083016542843186.pdf" onclick="__gaTracker('send', 'event', 'download', 'http://www.pbc.gov.cn/english/130736/3130899/2016083016542843186.pdf');">2016 FSR</a>, the PBOC said it was equal to 82.36 trillion RMB and equal to “42.41% of the total on balance sheet assets.”  The reason the 2017 exploded to 253 trillion was because “Starting in the first quarter of 2017, the PBC would count the off-balance-sheet wealth management products in banks&#8217; total credit in the MPA framework, which would urge the banks to strengthen off-balance-sheet risk management, so that the macroprudential framework would be more effective when conducting countercyclical adjustment and guiding the economic restructuring.” Put another way, it knew the risks were there before but it was not reporting them. This means that we can assume the on and off balance sheet assets are two distinct pools of capital/assets and not overlapping as it might be rightfully asked.  This means the on and off balance sheet assets for Chinese banks total 232 trillion plus 253 trillion.</li>
+<li>The absolute size and growth of assets imply there will be enormous (as in Biblical) costs to deleverage. Let me give you a simple example. Let’s assume a flat rate of economic financialization by which I mean that nominal GDP and systemic financial asset growth are equal.  For our case here, I’m going to use similar but round stylized numbers.  In our world, financial system assets are equal to eight times nominal GDP.  Now, let’s assume that both financial system assets and nominal GDP grow at 10%.  In this stylized but similar world, financial system assets will have grown by an amount equal to 80% of GDP. If this both nominal GDP and financial system assets grow at 10%, by 2025, China will have financial system assets equal to approximately 1,900% of nominal GDP.  Because total banking system assets are so much larger than nominal GDP, simply growing both at the same pace will continue to lever up the economy.</li>
+<li>This might actually explain one unique data point which no one has a good explanation for, including myself. For a number of year, fixed asset investment in China has been <strong><em>above</em></strong> 80% of GDP.  Through the first three quarters of 2017, it is <strong><em>only</em></strong>3%.  It has been puzzling to many how FAI could top 80% of GDP even with the growth in debt that we saw. That was simply an amazing number.  Well if there was unseen asset growth of equal to <strong><em>twice</em></strong> official banking system assets, this would explain how FAI could comprise that amount of GDP.  However, this implies that China has been much much more dependent on credit and money growth to drive GDP than anyone, myself could have believed.</li>
+<li>This further implies that much of this economic boom has been driven by a hidden expansion of money and credit. As research has noted, it is much easier to stimulate activity with hidden monetary loosening than with expectations.  If the numbers the PBOC note are real, this would imply many years of hidden loosening.</li>
+<li>This further implies there is a large (read Biblical) asset bubble. At first glance this seems to match the data.  If we look at the data on the major asset for households, real estate in tier one cities is the most expensive in the world and even the average tier two and tier three city has higher per square foot price than most of the United States.  The median price in the United States for real estate is $139 per square foot. Tier two cities in China are currently $170 with Tier three cities a more pedestrian $110.  Using conservative extrapolations of national housing prices in China yield a current average price per square foot of $191 per square foot.  To provide some perspective, residential real estate in China is 38% more expensive on a price per square foot basis but nominal per capita GDP in the United States is 608% higher.  We could point to a variety of other assets which appear vastly overvalued but given the increase in financial assets appears prone to a significant asset revaluation.</li>
+<li>This also has significant implications for foreign exchange policy. It implies that China will maintain strict capital control measures in place for the quite some time. Let’s take a simple example that we could expand to other sectors of the Chinese economy. Assume that markets have pressure to equalize prices. Chinese citizens and firms have a very real interest in switching into similar foreign assets while foreigners have very little interest in switching into Chinese assets.  I have long noted that there is fundamentally, absent controls, a much larger structural non-cyclical interest in purchasing foreign assets by Chinese than in purchasing Chinese assets by foreigners.  Unless China is will to accept a much lower value for the RMB, they cannot allow change to foreign exchange policy.</li>
+<li>Though I am always loathe to bring politics into discussions about Chinese economic and financial policy because politics is too unknowable in China, I think there is a little worth commenting on here though this is mostly speculation. This nugget of information was dropped in the middle of a report in an almost off handed way.  However, the magnitude of the revelation is akin to saying over dinner “I just killed five people before I arrived would you mind passing the salad dressing?” The reason this matters is that PBOC head Zhou has been making the rounds talking about a variety of things like Minsky moments and slowing corporate debt growth. I don’t think it was any coincidence that this nugget of information was dropped into conversation as Zhou appears to be heading out the door and making the rounds using language he knows will raise concern.  While it is fair to question his reformist intent, how long he will stay, and other issues, he clearly knows that discussing these issues in this manner and dropping this piece of information raise concern. If I can speculate, it appears Zhou is trying to raise the pressure to reform, without burning it down.  It does make one think that the information was released to pressure Beijing.</li>
+</ol>
+<p>There is way too much we do not know about the details of this revelation. However, it is without a doubt the largest and most altering revelation to come out of the Chinese economy probably this decade. It will require a major rethink to what we think we know about the Chinese economy, how it developed, and what the future holds.</p>
+<p>I would like to thank Chris Aston who originally <a href="https://twitter.com/keqiangCN/status/883195558051155968" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/keqiangCN/status/883195558051155968', 'Tweeted about this');">Tweeted about this</a> in July from the Chinabankingnews.com website and the appropriately named <a href="https://deep-throat-ipo.blogspot.com/2017/10/the-sum-of-all-fearsand-few-related.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://deep-throat-ipo.blogspot.com/2017/10/the-sum-of-all-fearsand-few-related.html', 'Deep Throat');">Deep Throat</a> blog who wrote about this topic and does great work on  a variety of issues who drove me to revisit this issue.  I originally chose not to write about this topic because the numbers were so outlandish I figured I had to seriously missing something that caused them to be much more normal.</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://www.baldingsworld.com/category/banking/" rel="category tag">banking</a>, <a href="http://www.baldingsworld.com/category/china/" rel="category tag">China</a>, <a href="http://www.baldingsworld.com/category/data/" rel="category tag">data</a>, <a href="http://www.baldingsworld.com/category/financial-crisis/" rel="category tag">financial crisis</a> and tagged <a href="http://www.baldingsworld.com/tag/banking/" rel="tag">banking</a>, <a href="http://www.baldingsworld.com/tag/china/" rel="tag">China</a>, <a href="http://www.baldingsworld.com/tag/data/" rel="tag">data</a>, <a href="http://www.baldingsworld.com/tag/debt/" rel="tag">debt</a>, <a href="http://www.baldingsworld.com/tag/economy/" rel="tag">economy</a>, <a href="http://www.baldingsworld.com/tag/financial-crisis/" rel="tag">financial crisis</a>, <a href="http://www.baldingsworld.com/tag/pboc/" rel="tag">PBOC</a> by <a href="http://www.baldingsworld.com/author/admin/">Christopher Balding</a>. Bookmark the <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/" title="Permalink to Everything We Think We Know About Chinese Finances is Wrong" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-1568 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			19 thoughts on &ldquo;<span>Everything We Think We Know About Chinese Finances is Wrong</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment byuser comment-author-dr-tim-morgan even thread-even depth-1" id="li-comment-1797">
+		<article id="comment-1797" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/427b031a84d51dbe4d7aec59ea819142?s=68&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/427b031a84d51dbe4d7aec59ea819142?s=136&amp;d=mm&amp;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">Tim Morgan</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1797"><time datetime="2017-10-23T21:48:20+00:00">October 23, 2017 at 9:48 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>This is fascinating stuff. </p>
+<p>Conversion of China&#8217;s GDP to USD is rather conjectural. At average market rates, 2016 GDP of RMB 74.6 tn converts to USD 11.2 tn. But using PPP rates, which are arguably more realistic, makes it USD 21.3 tn, and larger than the United States.</p>
+<p>And, of course, if we apply this PPP conversion to RMB-denominated debt, we come up with numbers which are utterly terrifying&#8230;&#8230;</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="li-comment-1798">
+		<article id="comment-1798" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=39&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn"><a href='http://www.baldingsworld.com' rel='external nofollow' class='url'>Christopher Balding</a></span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1798"><time datetime="2017-10-23T22:27:58+00:00">October 23, 2017 at 10:27 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>very much</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dr-tim-morgan even depth-3" id="li-comment-1800">
+		<article id="comment-1800" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/427b031a84d51dbe4d7aec59ea819142?s=39&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/427b031a84d51dbe4d7aec59ea819142?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn">Tim Morgan</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1800"><time datetime="2017-10-23T23:39:39+00:00">October 23, 2017 at 11:39 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Here, if it helps, are my numbers for end-2016. The real point is how to convert to USD, market or PPP. All in RMB bn.</p>
+<p>Government nominal: 34,461   PPP to USD<br />
+Private sector (HH &amp; PNFC): 156,463<br />
+of which;<br />
+116,601  banking sector &#8211; PPP to USD<br />
+39,862 other institutions &#8211; market to USD</p>
+<p>Total: 190,924</p>
+<p>Also: interbank debt, not included above:</p>
+<p>64,254 (estimated) &#8211; mostly market conversion to USD</p>
+<p>Grand total: 255,178 = 342% of GDP in RMB</p>
+<p>Obviously this does not include shadow banking&#8230;..</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-admin bypostauthor odd alt depth-4" id="li-comment-1802">
+		<article id="comment-1802" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=39&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn"><a href='http://www.baldingsworld.com' rel='external nofollow' class='url'>Christopher Balding</a></span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1802"><time datetime="2017-10-24T00:36:21+00:00">October 24, 2017 at 12:36 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>I used market rates because debt is paid in hard money not an indexed PPP rate.</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dr-tim-morgan even depth-5" id="li-comment-1807">
+		<article id="comment-1807" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/427b031a84d51dbe4d7aec59ea819142?s=39&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/427b031a84d51dbe4d7aec59ea819142?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn">Tim Morgan</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1807"><time datetime="2017-10-24T11:00:40+00:00">October 24, 2017 at 11:00 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Indeed so, of cross-border debt. But if we&#8217;re trying to put a USD value on internal debt?</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-ferdinat odd alt depth-5" id="li-comment-1810">
+		<article id="comment-1810" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/fc8a28b464e0546eecce60e66008c8ce?s=39&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/fc8a28b464e0546eecce60e66008c8ce?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn">ferdinat</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1810"><time datetime="2017-10-24T17:26:16+00:00">October 24, 2017 at 5:26 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>The great problem with comparing Chinese GDP with developed nations&#8217; GDP is that although GDP is increasingly compiled in China from the same inputs as used in developed nations such as the US, those inputs are NOT compiled in the same way.  US GDP inputs are compiled based on US GAAP &#8211; whilst Chinese GDP inputs are compiled using Chinese accounting &#8220;standards&#8221;.  Clearly, if you do not write off bad debt and write down the value of non-performing assets in your economy (as China tends not to), then not only does your national balance sheet look larger than it actually is, but your overall production (P&amp;L) looks better than it is in reality.  Michael Pettis has written an excellent article on this issue which you will find at the link below and which explains the issue far better than I ever could: <a href="https://seekingalpha.com/article/4104722-chinas-economy-growing-fast-chinas-gdp" onclick="__gaTracker('send', 'event', 'outbound-comment', 'https://seekingalpha.com/article/4104722-chinas-economy-growing-fast-chinas-gdp', 'https://seekingalpha.com/article/4104722-chinas-economy-growing-fast-chinas-gdp');" rel="nofollow">https://seekingalpha.com/article/4104722-chinas-economy-growing-fast-chinas-gdp</a></p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even depth-5" id="li-comment-1815">
+		<article id="comment-1815" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=39&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn"><a href='http://www.baldingsworld.com' rel='external nofollow' class='url'>Christopher Balding</a></span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1815"><time datetime="2017-10-26T05:03:37+00:00">October 26, 2017 at 5:03 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Definitely agree. I prefer, especially for issues of debt, to focus on cash flows which is what debt gets repaid with. Also, agree with Pettis.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://chinastocks.net/2017/10/23/china-topping/' rel='external nofollow' class='url'>China Topping &#8211; chinastock.net</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://marginalrevolution.com/marginalrevolution/2017/10/monday-assorted-links-129.html' rel='external nofollow' class='url'>Monday assorted links - Marginal REVOLUTION</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-gantal odd alt thread-odd thread-alt depth-1" id="li-comment-1803">
+		<article id="comment-1803" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/17399518fd9390afab1a556ec6002f04?s=68&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/17399518fd9390afab1a556ec6002f04?s=136&amp;d=mm&amp;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">Gantal</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1803"><time datetime="2017-10-24T07:12:25+00:00">October 24, 2017 at 7:12 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>The West’s tendency to treat it as The Enemy has given us a grossly distorted picture in which China, while making brief, sporadic progress in a few areas, is barely clinging to economic survival, always threatened with collapse or bankruptcy, hindered by irrational economic policies and offering little hope that the lives of average Chinese will improve–while the rest of the world moves ahead. This is what Mao meant by ‘talking nonsense’–permissible in the West’s media but prohibited in China’s. </p>
+<p>The article brings back memories&#8230;.<br />
+1990. The Economist. China&#8217;s economy has come to a halt.<br />
+1996. The Economist. China&#8217;s economy will face a hard landing<br />
+1998. The Economist: China&#8217;s economy in a dangerous period of sluggish growth.<br />
+1999. Bank of Canada: Likelihood of a hard landing for the Chinese economy.<br />
+2000. Chicago Tribune: China currency move nails hard landing risk coffin.<br />
+2001. Wilbanks, Smith &amp; Thomas: A hard landing in China.<br />
+2002. Westchester University: China Anxiously Seeks a Soft Economic Landing<br />
+2003. New York Times: Banking crisis imperils China<br />
+2004. The Economist: The great fall of China?<br />
+2005. Nouriel Roubini: The Risk of a Hard Landing in China<br />
+2006. International Economy: Can China Achieve a Soft Landing?<br />
+2007. TIME: Is China&#8217;s Economy Overheating? Can China avoid a hard landing?<br />
+2008. Forbes: Hard Landing In China? <br />
+2009. Fortune: China&#8217;s hard landing. China must find a way to recover.<br />
+2010: Nouriel Roubini: Hard landing coming in China.<br />
+2011: Business Insider: A Chinese Hard Landing May Be Closer Than You Think<br />
+2012: American Interest: Dismal Economic News from China: A Hard Landing <br />
+2013: Zero Hedge: A Hard Landing In China <br />
+2014. CNBC: A hard landing in China.<br />
+2015. Forbes: Congratulations, You Got Yourself A Chinese Hard Landing. <br />
+2016. The Economist: Hard landing looms for China<br />
+2017. National Interest: Is China&#8217;s Economy Going To Crash?</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://newspaperperiod.com/2017/10/24/monday-assorted-links-8/' rel='external nofollow' class='url'>Monday assorted links &#8211; newspaperperiod.com</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-mutou even thread-even depth-1" id="li-comment-1805">
+		<article id="comment-1805" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/9da3b86825f6edfd190892c65b123ec3?s=68&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9da3b86825f6edfd190892c65b123ec3?s=136&amp;d=mm&amp;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">mutou</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1805"><time datetime="2017-10-24T09:35:57+00:00">October 24, 2017 at 9:35 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Christopher &#8211; a few comments on the above:</p>
+<p>1. Those are seriously conservative numbers on average property prices &#8211; most tier three cities are averaging more like $3000 &#8211; $4000 per square foot. Places like Jiangmen and Foshan are already seeing prices hit 30,000 / sq meter plus, while downtown properties are more like 40k+ or higher. Changsha and Qingdao are in the 30s. Second tier cities like Nanjing, Suzhou, Wuxi, Chengdu, etc. are even higher&#8230; In places like Shanghai, Guangzhou, Shenzhen, the property purchasing restrictions have just driven speculators out into the surrounding province &#8211; hence places like Qingyuan and Kaiping (hardly centrally located metropolises) seeing a more than doubling (or tripling&#8230;) in price in one to two years. </p>
+<p>2. To be honest, I take issue with the idea that this monetary loosening was hidden &#8211; it was more or less out in the open, though perhaps not charted in central bankers&#8217; reports. The &#8220;great China money ball&#8221; has been reported on for years, the amount of liquidity has been well remarked upon, the incredible growth of wealth management and shadow banking, etc. etc. This is not really new so to speak. The steady denials from the PBOC and the steadily on-marching Chinese economy has frustrated Chinese economy Cassandras for so long that it suddenly seems fresh and new that, oh wait, there may be a problem after all&#8230;</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-mutou odd alt depth-2" id="li-comment-1806">
+		<article id="comment-1806" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/9da3b86825f6edfd190892c65b123ec3?s=39&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9da3b86825f6edfd190892c65b123ec3?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn">mutou</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1806"><time datetime="2017-10-24T09:37:47+00:00">October 24, 2017 at 9:37 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Make that $300 to $400&#8230;</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even depth-2" id="li-comment-1814">
+		<article id="comment-1814" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=39&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/64a890c509a5066933cc9a77164ddcad?s=78&amp;d=mm&amp;r=g 2x' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn"><a href='http://www.baldingsworld.com' rel='external nofollow' class='url'>Christopher Balding</a></span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1814"><time datetime="2017-10-26T05:01:52+00:00">October 26, 2017 at 5:01 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>I agree with you on both counts but let me explain my approach.<br />
+1. I&#8217;m totally willing to believe Chinese real estate is shall we say less than accurate. However, I can&#8217;t write a blog post like that and say &#8220;from what I say on real estate agents windows&#8230;&#8221;. I have frequently written about the data problems in China. However, the official data shows the same problem just less extreme than what it might be in reality.</p>
+<p>2.  By hiding the monetary loosening, I only mean to hide $40 trillion in assets. Neither myself or anyone else would argue China has run anything less than drunken sail monetary policy this decade. However, I don&#8217;t think anyone would have predicted $40 trillion in hidden financial assets.</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://business.newspaperperiod.com/2017/10/24/monday-assorted-links-8/' rel='external nofollow' class='url'>Monday assorted links &#8211; business.newspaperperiod.com</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='https://chetwang.wordpress.com/2017/10/24/everything-we-think-we-know-about-chinese-finances-is-wrong-via-reconomy/' rel='external nofollow' class='url'>Everything we think we know about Chinese finances is wrong via /r/economy | Chet Wang</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='https://dollarcollapse.com/breaking-news/breaking-news/' rel='external nofollow' class='url'>Breaking News And Best Of The Web - DollarCollapse.com</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://thedailycoin.org/2017/10/24/everything-think-know-chinese-finances-wrong/' rel='external nofollow' class='url'>Everything We Think We Know About Chinese Finances is Wrong - The Daily Coin</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-talldave odd alt thread-odd thread-alt depth-1" id="li-comment-1813">
+		<article id="comment-1813" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/7146bb0fc93b266afd6ca74ededdb8a0?s=68&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7146bb0fc93b266afd6ca74ededdb8a0?s=136&amp;d=mm&amp;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">TallDave</span> on <a href="http://www.baldingsworld.com/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#comment-1813"><time datetime="2017-10-25T01:17:31+00:00">October 25, 2017 at 1:17 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>&#8220;If the numbers the PBOC note are real, this would imply many years of hidden loosening.&#8221;</p>
+<p>Well, I got my accounting degree and CPA certification during the period of the Asian currency crisis, the Phar-Mor collapse, and the Enron fraud&#8230; I&#8217;ve always suspected the ultimate key to a lot of Chinese debt guarantees is a back-channel to someone who can print yuan if they have to.  The PBOC is no more independent than the PLA or the Party itself, and the broader economy was full of moral hazard even before Xi started putting his guys directly on boards. </p>
+<p>That inflection point where China&#8217;s gov&#8217;t, accused for decades of keeping the yuan down, suddenly needed to spend a trillion in reserves to <i>defend</i> the yuan, was a huge reveal.  Of what, exactly, is less certain, but they can&#8217;t hide behind the peg forever.</p>
+<p>When China is no longer using about half the world&#8217;s cement and steel every year, that will hint deleveraging has really started.</p>
+</div>
+
+			<div class="reply">
+				<a rel="nofollow" class="comment-reply-login" href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">Log in to Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/10/23/everything-we-think-we-know-about-chinese-finances-is-wrong/#respond" style="display:none;">Cancel reply</a></small></h3><p class="must-log-in">You must be <a href="http://www.baldingsworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.baldingsworld.com%2F2017%2F10%2F23%2Feverything-we-think-we-know-about-chinese-finances-is-wrong%2F">logged in</a> to post a comment.</p>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+<div id="supplementary" class="one">
+		<div id="first" class="widget-area" role="complementary">
+		<aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+			<li><a href="http://www.baldingsworld.com/wp-login.php?action=register">Register</a></li>			<li><a href="http://www.baldingsworld.com/wp-login.php">Log in</a></li>
+			<li><a href="http://www.baldingsworld.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.baldingsworld.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>	</div><!-- #first .widget-area -->
+	
+	
+	</div><!-- #supplementary -->
+			<div id="site-generator">
+								<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.baldingsworld.com/wp-includes/js/comment-reply.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.baldingsworld.com/wp-includes/js/wp-embed.min.js?ver=4.7.6'></script>
+
+</body>
+</html>

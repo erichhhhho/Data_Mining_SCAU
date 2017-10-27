@@ -1,0 +1,811 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Why the Biggest Bitcoin Mines Are in China - IEEE Spectrum</title>
+    <meta name="viewport" content="width=1024"> 
+    
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="alternate" title="IEEE Spectrum Recent Content" href="https://spectrum.ieee.org/rss/fulltext" type="application/rss+xml" />
+    
+    <!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE; chrome=1"/>
+	<![endif]-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/assets/frontend-96fe896b335db76248554eeb168af17c.css"/>
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"/></script>
+    <script type="text/javascript" src="/assets/header/header-2fca869ee14503f3a87282a60a05c741.js" ></script>
+    <!-- begin static module global-head-spectrum4 -->
+<style>
+#lbCaption em {
+font-style: italic;
+}
+.article-page #recommended .image-column {
+    width: 140px;
+}
+/* --- Addthis Styles ---- */
+@media screen and (min-width: 1640px) and (max-width: 1720px), screen and (min-width: 1320px) and (max-width: 1400px), screen and (min-width: 1025px) and (max-width: 1100px){
+.addthis-smartlayers-desktop{
+    display:none;
+}
+}
+</style>
+<script><!--
+$(function(){
+$(".article-options-bar #trending").hide();
+
+  var s = document.createElement('script');
+        s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://ieeespectrum.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+});
+var addthis_config = addthis_config||{};
+    addthis_config.data_track_addressbar = false;
+    addthis_config.data_track_clickback = false;
+//--></script>
+<!-- end static module -->
+
+    <script type="text/javascript">
+					var adinfo = {
+					"zone":"computing",
+					"addomain":"IEEESpectrum"
+					}
+				</script>
+    <!-- begin static module gpt-header-standard-module -->
+<!-- GPT Header Standard Code -->
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement("script");
+gads.async = true;
+gads.type = "text/javascript";
+var useSSL = "https:" == document.location.protocol;
+gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+var node =document.getElementsByTagName("script")[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<!-- end static module -->
+
+    <!-- begin static module gpt-header-ad-comp-module -->
+<script>
+	googletag.cmd.push(function() {
+	googletag.defineSlot("/4250/" + adinfo.addomain + "/" + adinfo.zone, [728, 90], "div-gpt-ad-leaderboard").setTargeting('pos', ['1']).addService(googletag.pubads())
+	googletag.defineSlot("/4250/" + adinfo.addomain + "/" + adinfo.zone, [728, 90], "div-gpt-ad-leaderboard-2").setTargeting('pos', ['2']).addService(googletag.pubads())
+	googletag.defineSlot("/4250/" + adinfo.addomain + "/" + adinfo.zone, [300, 250], "div-gpt-ad-med-rectangle").setTargeting('pos', ['1']).addService(googletag.pubads())
+	googletag.defineSlot("/4250/" + adinfo.addomain + "/" + adinfo.zone, [300, 250], "div-gpt-ad-med-rectangle-2").setTargeting('pos', ['2']).addService(googletag.pubads())
+	googletag.defineSlot("/4250/" + adinfo.addomain + "/" + adinfo.zone, [300, 600], "div-gpt-ad-halfpage").addService(googletag.pubads())
+	googletag.enableServices();
+});
+</script>
+<!-- end static module -->
+
+    <!-- begin static fragment crazy-egg-script --><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0056/0444.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript">
+$("#disqus_thread").ready(function() {
+  if(typeof disqus_url !== "undefined") {
+    disqus_url = "https://spectrum.ieee.org" + disqus_url;
+  }
+})
+</script><!-- end static fragment -->
+    
+    <meta name="layout" content="spectrum"/>
+    
+    <meta name="description" content="The heart of Bitcoin is now in Inner Mongolia, where&amp;nbsp;dirty coal fuels sophisticated semiconductor&amp;nbsp;engineering"/>
+    <link rel="image_src"
+                                                                             href="/image/Mjk2MjEwMA.jpeg"/>
+    
+    
+<link rel="canonical" href="https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china" />
+<link rel="amphtml" href="https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china.amp.html" />
+<!-- Google Analytics -->
+<script class="ga-tag">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-747464-1', 'auto');
+ga('send', 'pageview');
+ga('set', 'dimension1', 'article-FEATURE');
+ga('set', 'dimension2', 'true');
+ga('set', 'dimension3', 'Morgen E. Peck');
+
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+    <meta property="og:site_name" content="IEEE Spectrum: Technology, Engineering, and Science News" />
+    <meta property="og:title" content="Why the Biggest Bitcoin Mines Are in China" />
+    <meta property="og:url" content="https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china" />
+    <meta property="og:description" content="The heart of Bitcoin is now in Inner Mongolia, where dirty coal fuels sophisticated semiconductor engineering" />
+    <meta property="og:image" content="https://spectrum.ieee.org/image/Mjk2MjA2Nw.jpeg" />
+    <meta property="og:type" content="article" />
+    
+    <!-- Parsely Tags --><meta name="parsely-page" content='{"title":"Why the Biggest Bitcoin Mines Are in China","link":"https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china","image_url":"https://spectrum.ieee.org/image/Mjk2MjA5MQ.jpeg","type":"post","post_id":"/computing/networks/why-the-biggest-bitcoin-mines-are-in-china","pub_date":"2017-10-04T19:00:00Z","section":"Features","author":"Morgen E. Peck","tags":["antminer","asic","bitcoin","bitcoin mining","bitmain","blockchain","blockchain technology","china","hash function","hashing","hashing algorithm","inner mongolia","sha-256","what is blockchain","topic.computing","subtopic.networks","INTERNATIONAL"]}'>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@IEEESpectrum" />
+    <meta name="twitter:title" content="Why the Biggest Bitcoin Mines Are in China" />
+    <meta name="twitter:description" content="The heart of Bitcoin is now in Inner Mongolia, where dirty coal fuels sophisticated semiconductor engineering" />
+    <meta name="twitter:image" content="https://spectrum.ieee.org/image/Mjk2MjA2Nw.jpeg" />
+
+
+
+</head>
+<body class="pageBody" onload="">
+<script type="text/template" id="tmpl-interstitial-ad">
+	<div id="tmpl-slashpage">
+		<div id="header" style="background: #5a5a5a;text-align:right; padding:20px; overflow:auto; margin-bottom:25px;">
+			<img src="/assets/logo-main-feb42a39ad411519bd3bbfbf85743dfe.png" alt="IEEE Spectrum logo" style="float: left;height: 40px;"/>
+			<a href="javascript:splashpage.closeit()">Continue to site&nbsp;➔</a>
+		</div>
+		<div style="color:gray; font-size:18px; text-align:center; margin-bottom:8px;">ADVERTISEMENT</div>
+		<iframe name="splashpage-iframe" src="about:blank" scrolling="no" seamless="seamless" style="overflow:hidden; padding:0; z-index:6000000; width:660px; height:500px; margin:0 auto; display:block;" frameborder="0"></iframe>
+	</div>
+</script> 
+<script>
+	splashpage.splashenabled=1;
+	splashpage.splashpageurl= '/interstitial?splashType=welcome';
+	splashpage.enablefrequency=1;
+	splashpage.displayfrequency='sessiononly';
+	splashpage.cookiename = ['interstitialpagecookie2877700', 'path=/'];		
+	splashpage.autohidetimer=15;
+	splashpage.enablecounter=true;
+	splashpage.counter=1;
+	splashpage.timeremaining=0;
+	splashpage.sessiononlyCookieLifeTime=24;
+	if (splashpage.browserdetectstr && splashpage.splashenabled==1) {
+        //console.info('initializing interstitial ad');
+        splashpage.init();
+        //console.info('interstitial ad init finished');
+    }
+</script> 
+<a href="/" class="backtotop"></a> 
+<header id="header"> 
+ <style>
+header #ieee-metanav ul li a:hover {
+    color: #03a6e3;
+}
+</style> 
+ <div id="ieee-metanav" role="banner"> 
+  <div class="commonwrap"> 
+   <ul class="inline-list left-nav"> 
+    <li><a href="/static/enhance-your-spectrum-experience-become-an-ieee-member">Join IEEE</a></li> 
+    <li class="sep">|</li> 
+    <li><a href="http://www.ieee.org" target="_blank">IEEE.org</a></li> 
+    <li class="sep">|</li> 
+    <li><a href="http://ieeexplore.ieee.org" target="_blank">IEEE <em>Xplore</em> Digital Library</a></li> 
+    <li class="sep">|</li> 
+    <li><a href="http://standards.ieee.org" target="_blank">IEEE Standards</a></li> 
+    <li class="sep">|</li> 
+    <li><a href="/"><span>IEEE Spectrum</span></a></li> 
+    <li class="sep">|</li> 
+    <li><a href="http://www.ieee.org/sitemap" target="_blank">More Sites</a></li> 
+   </ul> 
+  </div> 
+ </div> 
+ <section id="masthead"> 
+  <div class="masthead-wrap"> 
+   <div class="brand-space" role="img"> 
+    <a href="/" id="brand"> <img src="/assets/logo-main-feb42a39ad411519bd3bbfbf85743dfe.png" alt="IEEE Spectrum logo"> </a> 
+    <div id="social-space"> 
+     <span class="follow">Follow on:</span> 
+     <ul class="inline-list social-links"> 
+      <li><a href="http://www.facebook.com/IEEE.Spectrum" target="_blank"><span class="faceBook"></span> </a></li> 
+      <li><a href="http://twitter.com/#!/IEEESpectrum" target="_blank"><span class="twitter"></span></a> </li> 
+      <li><a href="http://www.linkedin.com/groups/IEEE-Spectrum-1982451?home=&amp;gid=1982451&amp;trk=anet_ug_hm" target="_blank"><span class="linkedIn"></span></a></li> 
+      <li><a href="https://plus.google.com/105079317383160047042/posts" target="_blank"><span class="google"></span></a></li> 
+      <li><a href="/static/rss" target="_blank"><span class="rssFeed"></span></a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="ad-space" role="img"> 
+    <span>Advertisement</span> 
+    <div class="leaderboard-wrap"> 
+     <!-- begin static module gpt-body-ad-module-728-90 --> 
+     <div id="div-gpt-ad-leaderboard" style="728px; height: 90px"> 
+      <script type="text/javascript">
+						googletag.cmd.push(function() {
+						googletag.display("div-gpt-ad-leaderboard");
+						});
+						</script> 
+     </div> 
+     <!-- end static module --> 
+    </div> 
+   </div> 
+  </div> 
+ </section> 
+ <script>
+var Registration = {
+
+    popupwindow: function(url, title, w, h) {
+        var y = window.outerHeight / 2 + window.screenY - ( h / 2)
+        var x = window.outerWidth / 2 + window.screenX - ( w / 2)
+        return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + y + ', left=' + x);
+    }
+}
+
+</script> 
+ <nav id="mainNav" role="navigation"> 
+  <div class="commonwrap"> 
+   <ul class="primary" role="menubar"> 
+    <li><a href="#" onclick="return false;" id="topics"><span class="trunc">Engineering </span>Topics<span class="arrow-icon">&nbsp;</span></a></li> 
+    <li><a href="#" onclick="return false;" id="reports"><span class="trunc">Special </span>Reports<span class="arrow-icon">&nbsp;</span></a></li> 
+    <li><a href="#" onclick="return false;" id="blogs">Blogs<span class="arrow-icon">&nbsp;</span></a></li> 
+    <li><a href="#" onclick="return false;" id="multimedia">Multimedia<span class="arrow-icon">&nbsp;</span></a></li> 
+    <li><a href="#" onclick="return false;" id="magazine"><span class="trunc">The </span>Magazine<span class="arrow-icon">&nbsp;</span></a></li> 
+    <li><a href="#" onclick="return false;" id="resources"><span class="trunc">Professional </span>Resources<span class="arrow-icon">&nbsp;</span></a></li> 
+    <li><a href="#" onclick="return false;" class="last" id="searchmenu">Search<span class="arrow-icon">&nbsp;</span></a></li> 
+   </ul> 
+   <!-- /.primary --> 
+  </div> 
+  <div class="slider collapsed" role="landmark"> 
+   <div id="menuCentered"> 
+    <div id="menuContainer"></div> 
+   </div> 
+  </div> 
+  <!-- begin static module global-ticker-module --> 
+  <!-- end static module --> 
+ </nav> 
+</header> 
+<div id="main" role="main"> 
+ <div class="wrap"> 
+  <section id="medium-center"> 
+   <article id="2957515" class="article-detail article-page" style="position:relative"> 
+    <ul id="breadcrumbs"> 
+     <li>Feature </li> 
+     <li><a href="/computing">Computing</a></li> 
+     <li><a href="/computing/networks">Networks</a></li> 
+    </ul> 
+    <h1 class="article-title">Why the Biggest Bitcoin Mines Are in China</h1> 
+    <h2 class="article-dek">The heart of Bitcoin is now in Inner Mongolia, where&nbsp;dirty coal fuels sophisticated semiconductor&nbsp;engineering</h2> 
+    <div class="metadata" role="contentinfo"> 
+     <div class="byline"> 
+      <div class="date-published">
+        Posted 
+       <label>4 Oct 2017 | 19:00 GMT</label> 
+      </div> By 
+      <span class="author-name">Morgen E. Peck</span> 
+     </div> 
+     <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+     <div style="float: right;" class="addthis_sharing_toolbox"></div> 
+     <script type="text/javascript" class="addthis" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f4cf61812d7916f"></script> 
+    </div> 
+    <div id="artBody"> 
+     <div class="articleBody entry-content"> 
+      <section id="side-module"> 
+       <div class="medium-top-ad"> 
+        <!-- begin static module gpt-body-ad-module-300-250 --> 
+        <div class="ad-module"> 
+         <div class="adtext">
+           Advertisement 
+         </div> 
+         <div id="div-gpt-ad-med-rectangle" style="300px; height: 250px"> 
+          <script type="text/javascript">
+				googletag.cmd.push(function() {
+					googletag.display("div-gpt-ad-med-rectangle");
+				});
+		</script> 
+         </div> 
+        </div> 
+        <!-- end static module --> 
+       </div> 
+       <div id="recommended-side"> 
+        <div class="title">
+          Editor’s Picks 
+        </div> 
+        <div id="article-rec"> 
+         <a class="article" href="/computing/networks/how-blockchains-work"> 
+          <div class="image-column"> 
+           <img src="/image/Mjk1NzM2NQ.jpeg" alt="All illustrations: Greg Mably"> 
+          </div> 
+          <div class="text-column"> 
+           <h4>How Blockchains Work</h4> 
+          </div> </a> 
+         <a class="article" href="/computing/networks/bitcoins-computing-crisis"> 
+          <div class="image-column"> 
+           <img src="/image/MjM5ODAwOA.jpeg" width="140" height="140"> 
+          </div> 
+          <div class="text-column"> 
+           <h4>Bitcoin’s Computing Crisis</h4> 
+          </div> </a> 
+         <a class="article" href="/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world"> 
+          <div class="image-column"> 
+           <img src="/image/Mjk1NzQ2Mg.jpg" width="140" height="140" alt="Photo by The Vorhes"> 
+          </div> 
+          <div class="text-column"> 
+           <h4>Blockchains: How They Work and Why They’ll Change the World</h4> 
+          </div> </a> 
+        </div> 
+       </div> 
+      </section> 
+      <div class="article-detail"></div> 
+      <link href="/ns/interactive/1017_blockchain_special_report/Block2017v1.css" rel="stylesheet"> 
+      <script class="mobile-allowscript" src="/ns/interactive/1017_blockchain_special_report/Block2017v3.js" type="text/javascript"></script> 
+      <script>
+   window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '174248889578740',
+          xfbml      : true,
+          version    : 'v2.4'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+</script> 
+      <div class="article-detail"> 
+       <style type="text/css">@media print {
+  .article-detail iframe {
+    display: block !important;
+  }
+}
+p.intro-section {
+    width: 85%;
+    padding-bottom: 10px;
+  }
+@media only screen and (max-width: 620px) {
+    #medium-content {
+width: 100%!important;
+}
+p.intro-section {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+#food-widget{
+  margin:0 0 30px 0;
+  float:left;
+}
+#food-widget #prev, #food-widget a h1{
+  display:none;
+}
+#food-widget a{
+text-decoration:none;
+}
+#food-widget #next img{
+    display: inline-block;
+    float: left;
+    width: 33%;
+    margin: 0 10px 0 0;
+}
+ #food-widget #next img.arrow{
+  display:none;
+ }
+#food-widget #next h2{
+   display: inline;
+    float: left;
+    width: 58%;
+    margin: 0;
+} 
+#food-widget a h1,#food-widget a h2{
+text-decoration:underline;
+}
+#food-widget a div{
+color:#03a6e3;
+font-size:18px;
+font-weight:bold;
+}
+    #food-widget ul li#next {
+   float: none;
+   text-align: left;
+   width: 95%;
+   padding: 5px;
+ }
+}
+aside.inlay.qa-panels.xlrg p.qa-panels-position span {
+    font-style: normal;
+}
+.article-detail figure.lt {
+clear:none;
+}
+</style> 
+       <div class="article-detail"> 
+        <div class="imgWrapper offsetLeft lt sm"> 
+         <a href="/static/special-report-blockchain-world"><img alt="special report icon" src="/image/Mjk1Mjk1Ng.gif"></a> 
+        </div> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU2OQ.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Inner Mongolia, 8 a.m.: </strong>A measurable fraction of all the computing power on the Bitcoin network is on these shelves. 
+         </figcaption> 
+        </figure> 
+        <p>It’s only 8 in the morning when I arrive at my destination in the Ordos prefecture of Inner Mongolia, but already the air is heavy and oppressively hot. My host drives me through a gate, past a sleepy-looking security guard, and into an industrial yard that extends into the dry, barren countryside about as far as I can see.</p> 
+        <p>In front of me are nine warehouses with bright blue roofs, each emblazoned with the logo for Bitmain, a Chinese firm headquartered in Beijing that is arguably the most important company in the Bitcoin industry. Bitmain sells Bitcoin mining rigs—the specialized computers that keep the cryptocurrency running and that produce, or “mine,” new bitcoins for their owners. It also uses its own rigs to stock facilities that it owns or co-owns and operates. Bitmain owns about 20&nbsp;percent of this one.</p> 
+        <p>Jihan Wu, the CEO of Bitmain, claims that 70&nbsp;percent of the Bitcoin mining rigs in operation today were made by his company. And, according to a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2965436">study conducted last winter by the University of Cambridge</a>, in England, it’s likely that most of those machines are plugged into an outlet somewhere in China.</p> 
+        <p>Bitmain acquired this mining facility in Inner Mongolia a couple years ago and has turned it into one of the most powerful money factories on the Bitcoin network. It quite literally metabolizes electricity into money. By my own calculations, the hardware on the grounds—some 21,000&nbsp;computers—accounted for about 4&nbsp;percent of all the computing power in the Bitcoin network when I visited.</p> 
+        <p>Like 10-ton paperweights, these machines bear down on the globally distributed ledger of transactions that is Bitcoin, keeping its pages from ever turning backward. Here is where the supply of existing bitcoins is secured. And here is where the banquet of new bitcoins is served.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4MQ.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Speedy Installation: </strong>The faster the machines are plugged in, the sooner they can begin gulping down electricity and turning it into money. Racks of bitcoin mining rigs run the length of seven warehouses at Bitmain’s Ordos facility, which is in a constant state of upgrade. 
+         </figcaption> 
+        </figure> 
+        <p><strong>The process of mining bitcoins</strong> works like a lottery. Bitcoin miners are competing to produce hashes—alphanumeric strings of a fixed length that are calculated from data of an arbitrary length. They’re producing the hashes from a combination of three pieces of data: new blocks of Bitcoin transactions; the last block on the blockchain; and a random number. These are collectively referred to as the “block header” for the current block. Each time miners perform the hash function on the block header with a new random number, they get a new result. To win the lottery, a miner must find a hash that begins with a certain number of zeroes. Just how many zeroes are required is a shifting parameter determined by how much computing power is attached to the Bitcoin network. Every two weeks, on average, the mining software automatically readjusts the number of leading zeros needed—the difficulty level—by looking at how fast new blocks of Bitcoin transactions were added. The algorithm is aiming for a latency of 10 minutes between blocks. When miners boost the computing power on the network, they temporarily increase the rate of block creation. The network senses the change and then ratchets up the difficulty level. When a miner’s computer finds a winning hash, it broadcasts the block header to its next peers in the Bitcoin network, which check it and then propagate it further.</p> 
+        <p>Then two things happen. New transactions are added to the Bitcoin blockchain ledger, and the winning miner is rewarded with newly minted bitcoins. The miner also collects small fees that users voluntarily tack onto their transactions as a way of pushing them to the head of the line. It’s ultimately an exchange of electricity for coins, mediated by a whole lot of computing power. The probability of an individual miner winning the lottery depends entirely on the speed at which that miner can generate new hashes relative to the speed of all other miners combined. In this way, the lottery is more like a raffle, where the more tickets you buy in comparison to everyone else makes it more likely that your name will be pulled out of the hat.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4Mg.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Haste Makes Money:</strong> A tangle of networking cables is evidence that the building was constructed and the equipment installed at breakneck speeds. 
+         </figcaption> 
+        </figure> 
+        <p>These dynamics have resulted in a race among miners to amass the fastest, most energy-efficient chips. And the demand for faster equipment has spawned a new industry devoted entirely to the computational needs of Bitcoin miners. Until late 2013, <a href="/computing/networks/bitcoins-computing-crisis">generic graphics cards and field-programmable gate arrays (FPGAs) were powerful enough to put you in the race</a>. But that same year companies began to sell computer chips, called application-specific integrated circuits (ASICs), which are specifically designed for the task of computing the Bitcoin hashing algorithm. Today, ASICs are the standard technology found in every large-scale facility, including the mining farm in Ordos. When Bitmain first started making ASICs in 2013, the field was thick with competitors—<a href="http://bitfury.com/">BitFury</a>, a multinational ASIC maker; KnCMiner in Stockholm; Butterfly Labs in the United States; <a href="https://canaan.io/">Canaan Creative</a> in Beijing; and about 20 other companies spread around&nbsp;China.</p> 
+        <p>Bitmain gained an edge by supplying a superior product in large quantities, a feat that has eluded every other company in the industry. The Ordos facility is stuffed almost exclusively with Bitmain’s best performing rig, the Antminer S9. According to company specs, the S9 is capable of churning out 14&nbsp;terahashes, or 14&nbsp;trillion hashes, every second while consuming around 0.1&nbsp;joules of energy per gigahash for a total of about 1,400&nbsp;watts (about as much as a microwave oven consumes).</p> 
+        <p>Although BitFury claims to be producing chips whose performance is nearly identical to those used in the S9, the company has packaged them into a very different product. Called the BlockBox, it’s a complete bitcoin-mining data center that BitFury ships to customers in a storage container. Beijing’s Canaan Creative is still selling mining rigs to the public, but it offers only one product, the AvalonMiner 741, and it’s only half as powerful and slightly less efficient than the S9.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4Mw.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Compact Power:</strong> At Ordos, Bitmain has installed its most sophisticated mining rigs, Antminer&nbsp;S9s. 
+         </figcaption> 
+        </figure> 
+        <p>An Antminer S9 houses 189 ASICs fabricated by the Taiwan Semiconductor Manufacturing Company (the world’s biggest foundry), using its 16-nanometer manufacturing process.</p> 
+        <p>Each ASIC has more than 100&nbsp;cores, all of which operate independently to run Bitcoin’s SHA-256 hashing algorithm. A control board on the top of the machine coordinates the work, downloading the block header to be hashed and distributing the problem to all the hashing engines, which then report back with solutions and the random numbers they used to get them.</p> 
+        <p>It’s “sort of like an ant colony, where the control board is the queen directing the workers,” says Peter Holm, the director of integrated circuit design at Bitmain, revealing the inspiration for the rig’s name.</p> 
+        <p>All mining ASICs, Bitmain’s included, are performing essentially the same computation—the SHA-256 hashing algorithm—even if they go about it a bit differently. The standard algorithm takes 64 steps to complete, but in Bitcoin it is run twice for each block header, meaning a full round requires 128 steps that are heavy on integer addition. “That’s what dominates the whole design,” says Timo Hanke, the chief cryptographer at <a href="http://string.technology/">String Labs</a>, a cryptography-focused incubator in Palo Alto, Calif. “So, if somebody was to optimize it, they have to optimize the adders. That’s where most of the work is.”</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4NA.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Harsh Conditions: </strong>Inner Mongolia has some of the cheapest electricity prices in the world (4&nbsp;U.S.&nbsp;cents per&nbsp;kilowatt-hour, a government-reduced rate), which is the primary reason miners are setting up shop here. But it comes with a trade-off: The climate outside Bitmain’s warehouses can be brutal, especially in the summer. 
+         </figcaption> 
+        </figure> 
+        <p>Despite having similar needs, there is a good deal of diversity in how chip designers build their hashing engines, says Hanke, who also served as the chief technology officer of a now-defunct mining rig manufacturer called <a href="https://www.coindesk.com/bitcoin-mining-firm-cointerra-files-chapter-7-bankruptcy/">CoinTerra</a>. For example, Bitmain uses pipelining—a strategy that links the steps in a process into a chain in which the output of one step is the input of the next. Bitmain competitor BitFury has chosen not to use that technology.</p> 
+        <p>The most pressing problem in the mining chip design is power efficiency, because your return on investment is the difference between how much money you spend on electricity versus how many new bitcoins you can win.</p> 
+        <p>“Here, power is more important than absolute speed. You’re not designing the adders for maximum possible speed, but you’re designing them for the maximum power efficiency,” says Hanke.</p> 
+        <p>If you’re doing your job right, you’re also desperately looking for a way to keep the chips cool. The S9 is meant to operate below 38 °C. A controller on top of the machine samples the ambient temperature and sets the fan speed and the voltage and clock speed of the machine accordingly.</p> 
+        <p>But such measures aren’t enough if you’re mining in a place like Inner Mongolia.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4NQ.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Breathe In: </strong>Each warehouse is swathed in netting to keep pollen and dust from getting inside. 
+         </figcaption> 
+        </figure> 
+        <p><strong>Inside the warehouse</strong> in Ordos, it’s dark, loud, and windy.</p> 
+        <p>A young man named Zhang brings me inside, shouting over a deafening whir. “This is the cool side,” he tells me. All along a wall of the warehouse, the windows have been removed from their frames and replaced with desert fans—panels of twisted, tightly packed metal strips that are being doused with water from a pipe above.</p> 
+        <p>Zhang walks up to a door between two shelves full of mining rigs, and we step through. “This is the hot side,” he tells me. We’re standing in an empty, brightly lit space that serves as the heat dump for the facility. The exhaust fans from all the mining machines on the other side are poking out through little holes in a metal wall, blasting hot air into the space, where it gets purged to the outside by another wall full of giant metal fans.</p> 
+        <p>With the Antminers needing to stay below 38 °C, Mongolia is not the ideal location for a mining facility. It had been above 40 °C for several days when I visited in July. And in the winter, it can fall to –20 °C, cold enough for Bitmain to add insulation to the facilities. Dust is a problem as well, which is why the interior of every warehouse I walk through is veiled in a fine fabric&nbsp;filter.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4Ng.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Drip Dry:</strong> Windows have been removed from one full side of the warehouse and replaced with desert fans—panels of twisted metal that get doused with water from a pipe running along the top. As air enters the warehouse through these desert fans, the water evaporates and cools the interior. 
+         </figcaption> 
+        </figure> 
+        <p>To save money on cooling, some mine operators have opted for cooler climates. BitFury also runs three large mining facilities, one of which is in Iceland to benefit from the cool weather. “Many data centers around the world have 30 to 40 percent of electricity costs going to cooling,” explains Valery Vavilov, the CEO of BitFury.&nbsp;“This is not an issue in our Iceland data&nbsp;center.”</p> 
+        <p>The other two BitFury mines are in Tbilisi, in the Republic of Georgia, where the weather is much warmer. According to Vavilov, the company has developed a two-phase immersion cooling technology with their subsidiary, <a href="http://www.allied-control.com/">Allied Control</a>. The system bathes the mining machines in a dielectric heat-transfer liquid called Novec, which cools the computers as it evaporates. The system is now deployed at the Georgia data centers.</p> 
+        <figure class="rt med" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4Nw.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Heat Pumps:</strong> On the hot side of the warehouse, industrial fans blow air back out into the courtyard. Temperatures on this side exceed 40 °C (104 °F). 
+         </figcaption> 
+        </figure> 
+        <p><strong>While heat is definitely</strong> an issue for the mining farm in Ordos, the electricity there is dirt cheap, only 4&nbsp;U.S.&nbsp;cents per kilowatt-hour, with government subsidies. That’s about one-fifth of the average price in the United Kingdom. The only other costs for the facility are the rigs themselves and the salary of the few dozen staff that keeps them operational.</p> 
+        <p>Zhang is part of that staff. He recently graduated from college in Inner Mongolia and started working at the mine only a few months ago. He describes himself as a technician, then points to a man who is standing on a pneumatic lift pulling a mining rig out of the racks. “That’s what I do,” he tells&nbsp;me.</p> 
+        <p>The controller on the S9 has a red light that goes off when it detects a malfunction. Technicians like Zhang are on hand to scan the racks for sick rigs. When they find one, they pull it out and send it to a house on the factory lot where other technicians diagnose the problem, fix it, and get the machine back on the line. Sometimes it’s a failed chip. Other times it’s a burned-out fan. If the problem is more serious, then the rig gets sent all the way to Bitmain’s labs in Shenzhen in southeast China for a proper rebuild. Every moment the rigs spend unplugged, potential revenue slips away.</p> 
+        <p>Given the price of bitcoin at the time I visited Ordos, each individual mining rig at the facility was making around US $10 in bitcoins per day. At that rate, the facility as a whole, which houses over 20,000&nbsp;Antminer rigs, could bring in $70 million or more per year. And this is just one of the facilities that Bitmain runs.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU4OA.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Heat Shields: </strong>The layout of the mining racks is being reconfigured to maintain a cool side and a hot side. The machines are set up on a single rack that traverses the entire length of the warehouse. The fans are aligned to shoot hot air out behind the machines into the hot side of the warehouse, and a barrier is set up to keep the air from circulating back. 
+         </figcaption> 
+        </figure> 
+        <p>But due to the volatility of bitcoin, it’s impossible to predict the annual revenue of a mining farm. On my flight from China back to the United States, the price of bitcoin crashed 25&nbsp;percent, from $2,400 to $1,800. In no time at all the operation I visited was bringing in $50,000 less per day. Within a week it was back up, and approaching an all-time high.</p> 
+        <p>Price fluctuations, which have been common in Bitcoin since the day it was created eight years ago, saddle miners with risk and uncertainty. And that burden is shared by chip manufacturers, especially ones like Bitmain, which invest the time and money in a full custom design. According to Nishant Sharma, the international marketing manager at Bitmain, when the price of bitcoin was breaking records this spring, sales of S9 rigs doubled. But again, that is not a trend the company can afford to bet on.</p> 
+        <p>And so, Bitmain has begun to diversify. In addition to Bitcoin businesses, the company has also started to dabble in artificial intelligence and is developing facial-recognition hardware that it plans to sell to the Chinese government.</p> 
+        <p>Competing ASIC maker BitFury has also started seeking profit from nonmining industries. “While we began as just a mining company back in 2011, our company has significantly expanded its reach since then,” says CEO Vavilov. Among other things, BitFury is now providing its immersion cooling technology to high-performance data centers that are not involved in Bitcoin.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU5Mg.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Something’s Wrong:</strong> Software monitors the operating status of the thousands of mining rigs and alerts workers when one has failed. 
+         </figcaption> 
+        </figure> 
+        <p>For Bitmain CEO Jihan Wu, the of pursuing new revenue streams is a way of protecting the company’s role in Bitcoin, a technology that he describes adoringly. “It’s quite personal that I wanted Bitcoin to be successful,” says Wu. “But as a company we are not allowed to solely rely on the success of Bitcoin. That’s a thing we cannot afford.”</p> 
+        <p>The uncertainty may explain why the giants of the semiconductor industry have thus far shied from entering the fray. But if bitcoin prices remain high, that could change.</p> 
+        <p>“It’s a real testament to Bitmain that they’ve been able to fend off the competition they have fended off. But still, you haven’t seen an Intel and a Nvidia go full hog into this sector, and it would be interesting to see what would happen if they did,” says Garrick Hileman, an economic historian at the London School of Economics who compiled a miner survey with the University of Cambridge.</p> 
+        <figure class="xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU5MA.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Home Sweet Repair Shop: </strong>One building on the grounds houses a lunchroom, operational center, repair shop, and dormitory. A few dozen employees run the entire facility. Their jobs include scanning the racks for malfunctioning machines, cleaning the cooling fans, fixing broken rigs, and installing upgraded machines. Many of the employees are recent engineering graduates from the local university. 
+         </figcaption> 
+        </figure> 
+        <p>What would it take for a competitor to nudge into the fray? For starters, it has to be willing to put a lot of money on the line. Several million dollars can go into chip design before a single prototype is produced. “It takes the willingness to pull the trigger and pay the money,” says Hanke. But he’s confident it will happen. “People will see it’s profitable, and they will jump&nbsp;in.”</p> 
+        <p>Indeed, it may already be happening. This September, <a href="https://www.gmo.jp/en/">GMO Internet Group</a>, a Japanese company with 135 billion yen (US $1.2 billion) in revenues, announced that it was developing its own mining ASIC utilizing 7-nanometer-process technology.</p> 
+        <p>Such disruption would be welcome news to some in the community who argue that Bitmain’s outsized market position in mining hardware is itself a threat to Bitcoin.</p> 
+        <p>This spring, Bitmain caused a minor uproar when a developer found a “backdoor,” called Antbleed, in the firmware of Bitmain’s S9 Antminers. The backdoor could have been used by the company to track the location of its machines and shut them down remotely. While no computer purchaser would find such a vulnerability acceptable, it’s particularly troubling for Bitcoin.</p> 
+        <figure class="stacked xlrg" role="img"> 
+         <img alt="img" src="/image/Mjk2MDU5MQ.jpeg"> 
+         <img alt="img" src="/image/Mjk2MDU4OQ.jpeg"> 
+         <figcaption class="hi-cap">
+           Photo: Stefen Chow 
+         </figcaption> 
+         <figcaption> 
+          <strong>Fix It: </strong>In the repair shop, workers manually tend to broken rigs, fixing fans and replacing chips. At each workstation, scavenged jar caps are filled with new ASICs ready to be glued into place. Workers remove heat sinks from circuit boards and replace any failed chips. 
+         </figcaption> 
+        </figure> 
+        <p>The Bitcoin protocol was designed to encourage the distribution of hashing power among miners rather than its concentration. The reason? Miners wield power not only over which transactions get added to the Bitcoin blockchain but over the evolution of the Bitcoin software itself. When updates are made to the protocol, it is the miners, largely, who enforce these changes. If the miners band together and choose not to deploy an update from Bitcoin’s core developers, they can stall transactions or even cause the currency to split into competing versions.</p> 
+        <p>A backdoor like Antbleed, if utilized, would give an ASIC manufacturer the power to effectively silence miners who support a version of the Bitcoin protocol that it doesn’t agree with. For instance, Bitmain could have flipped a switch and shut down the entire facility in Ordos if the company found itself in disagreement with the other shareholders.</p> 
+        <p>Wu claims that Antbleed, which has since been patched, was only vestigial code left in by mistake when engineers were trying to build a kill switch for a customer’s own use. There was some skepticism about this explanation, but because the S9’s firmware is open source, users are confident in the patched version. Still, the discovery of it was a startling reminder of the need for diversity in the mining hardware industry.</p> 
+        <p>“Hardware vendors have significant control over Bitcoin,” says Peter Todd, a Bitcoin core developer and applied-cryptography consultant. “A competent backdoor could be extremely difficult to detect and [could] act as a kill switch for hashing power, allowing the network to be killed outright or putting Bitcoin under the control of a single actor.”</p> 
+        <p>Sitting in his Beijing office this July, Wu seemed to think there was enough competition, or at least enough of a threat of competition, to keep Bitmain honest.</p> 
+        <p>“In any specific area, there will be only one player or two. That’s the nature of the ASIC business. If it’s not us, it might be AMD [Advanced Micro Devices]. It might be Nvidia. It might be Intel. It might be someone else,” says Wu. “And if we are doing something wrong, we could be replaced.”</p> 
+       </div> 
+       <div class="medium-bottom-ad"> 
+        <!-- begin static module gpt-body-ad-module-300-250-2 --> 
+        <div class="ad-module"> 
+         <div class="adtext">
+           Advertisement 
+         </div> 
+         <div id="div-gpt-ad-med-rectangle-2" style="300px; height: 250px"> 
+          <script type="text/javascript">
+				googletag.cmd.push(function() {
+					googletag.display("div-gpt-ad-med-rectangle-2");
+				});
+		</script> 
+         </div> 
+        </div> 
+        <!-- end static module --> 
+       </div> 
+      </div> 
+     </div> 
+     <section id="recommended"> 
+      <div style="margin:0 auto;width:940px;"> 
+       <div class="title">
+         Recommended For You 
+       </div> 
+       <div id="article-rec"> 
+        <a class="article" href="/computing/networks/illinois-vs-dubai-two-experiments-bring-blockchains-to-government"> 
+         <div class="image-column"> 
+          <img src="/image/Mjk2MTc3Ng.jpeg" alt="Illustration: Greg Mably"> 
+         </div> 
+         <div class="text-column"> 
+          <h4>Illinois vs. Dubai: Two Experiments Bring Blockchains to Government</h4> 
+         </div> </a> 
+        <a class="article" href="/computing/networks/blockchain-lingo"> 
+         <div class="image-column"> 
+          <img src="/image/Mjk1NzM2NA.jpeg" alt="Illustration by Nicholas Little"> 
+         </div> 
+         <div class="text-column"> 
+          <h4>Blockchain Lingo</h4> 
+         </div> </a> 
+        <a class="article" href="/computing/networks/blockchains-will-allow-rooftop-solar-energy-trading-for-fun-and-profit"> 
+         <div class="image-column"> 
+          <img src="/image/Mjk1OTk4MQ.jpg" width="140" height="140" alt="Photo: Sasha Santiago/LO3 Energy"> 
+         </div> 
+         <div class="text-column"> 
+          <h4>Blockchains Will Allow Rooftop Solar Energy Trading for Fun and Profit</h4> 
+         </div> </a> 
+        <a class="article" href="/computing/networks/do-you-need-a-blockchain"> 
+         <div class="image-column"> 
+          <img src="/image/Mjk2MTg1Ng.jpeg" alt="Illustration: Greg Mably"> 
+         </div> 
+         <div class="text-column"> 
+          <h4>Do You Need a Blockchain?</h4> 
+         </div> </a> 
+        <a class="article" href="/static/special-report-blockchain-world"> 
+         <div class="image-column"> 
+          <img src="/image/Mjk2MTc5NA.jpeg" alt="Illustration by Mario De Meyer"> 
+         </div> 
+         <div class="text-column"> 
+          <h4>Special Report: Blockchain World</h4> 
+         </div> </a> 
+        <a class="article" href="/energy/policy/the-ridiculous-amount-of-energy-it-takes-to-run-bitcoin"> 
+         <div class="image-column"> 
+          <img src="/image/Mjk2MTgzMg.jpeg" alt="Illustration by Greg Mably"> 
+         </div> 
+         <div class="text-column"> 
+          <h4>The Ridiculous Amount of Energy It Takes to Run Bitcoin</h4> 
+         </div> </a> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="learn-more" role="menu"> 
+      <h5>Learn More</h5> 
+      <style>
+u {
+    text-decoration: none;
+}
+</style> 
+      <a href="/tag/Antminer">Antminer</a> 
+      <a href="/tag/ASIC">ASIC</a> 
+      <a href="/tag/Bitcoin">Bitcoin</a> 
+      <a href="/tag/bitcoin+mining">bitcoin mining</a> 
+      <a href="/tag/Bitcoin+mining">Bitcoin mining</a> 
+      <a href="/tag/Bitmain">Bitmain</a> 
+      <a href="/tag/blockchain">blockchain</a> 
+      <a href="/tag/blockchain+technology">blockchain technology</a> 
+      <a href="/tag/China">China</a> 
+      <a href="/tag/hash+function">hash function</a> 
+      <a href="/tag/hashing">hashing</a> 
+      <a href="/tag/hashing+algorithm">hashing algorithm</a> 
+      <a href="/tag/Inner+Mongolia">Inner Mongolia</a> 
+      <a href="/tag/SHA-256">SHA-256</a> 
+      <a href="/tag/what+is+blockchain">what is blockchain</a> 
+     </section> 
+     <section id="comments-section" role="complementary"> 
+      <div class="split"> 
+       <div class="column"> 
+        <h6 class="section-title">Comments</h6> 
+       </div> 
+       <div class="column last align-right"> 
+        <div class="policy"> 
+         <a href="/static/comment-policy">Comment Policy</a> 
+        </div> 
+       </div> 
+       <div class="clear"></div> 
+      </div> 
+      <div id="disqus_thread"></div> 
+      <script type="text/javascript">
+            var disqus_shortname = 'ieeespectrum';
+            var disqus_identifier = '/computing/networks/why-the-biggest-bitcoin-mines-are-in-china';
+            var disqus_title = 'Why the Biggest Bitcoin Mines Are in China';
+            var disqus_url = '/computing/networks/why-the-biggest-bitcoin-mines-are-in-china';
+
+            
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script> 
+      <noscript>
+        Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt; 
+      </noscript> 
+      <a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a> 
+     </section> 
+    </div> 
+   </article> 
+  </section> 
+ </div> 
+</div> 
+<footer id="global-footer" role="landmark"> 
+ <div id="topFooter" role="region"> 
+  <div class="commonwrap" role="section"> 
+   <a href="/"> <img src="/assets/footer-logo-54ded86f182c0bcf8f26c9de4cb7c8f7.png" class="footerLogo" alt="IEEE Spectrum logo" width="270" role="img"> </a> 
+   <div id="footerTopMenu" role="navigation"> 
+    <ul class="topics" role="menu"> 
+     <h4 role="heading">Topics</h4> 
+     <li role="menuitem"><a href="/aerospace">Aerospace</a></li> 
+     <li role="menuitem"><a href="/at-work">At Work</a></li> 
+     <li role="menuitem"><a href="/biomedical">Biomedical</a></li> 
+     <li role="menuitem"><a href="/computing">Computing</a></li> 
+     <li role="menuitem"><a href="/energy">Energy</a></li> 
+     <li role="menuitem"><a href="/consumer-electronics">Gadgets</a></li> 
+     <li role="menuitem"><a href="/geek-life">Geek Life</a></li> 
+     <li role="menuitem"><a href="/green-tech">Green Tech</a></li> 
+     <li role="menuitem"><a href="/tech-history">History</a></li> 
+     <li role="menuitem"><a href="/robotics">Robotics</a></li> 
+     <li role="menuitem"><a href="/semiconductors">Semiconductors</a></li> 
+     <li role="menuitem"><a href="/telecom">Telecom</a></li> 
+     <li role="menuitem"><a href="/transportation">Transportation</a></li> 
+    </ul> 
+    <ul class="social-links" role="menu"> 
+     <h4 role="heading">Connect</h4> 
+     <li role="menuitem"><a href="http://www.facebook.com/IEEE.Spectrum" class="icn-sml" target="_blank"><span class="faceBook"></span>Facebook</a></li> 
+     <li role="menuitem"><a href="http://twitter.com/#!/IEEESpectrum" class="icn-sml" target="_blank"><span class="twitter"></span>Twitter</a></li> 
+     <li role="menuitem"><a href="http://www.linkedin.com/groups/IEEE-Spectrum-1982451?home=&amp;gid=1982451&amp;trk=anet_ug_hm" class="icn-sml" target="_blank"><span class="linkedIn"></span>LinkedIn</a></li> 
+     <li role="menuitem"><a href="https://plus.google.com/105079317383160047042/posts" class="icn-sml" target="_blank"><span class="google"></span>Google+</a></li> 
+     <li role="menuitem"><a href="/static/rss" class="icn-sml" target="_blank"><span class="rssFeed"></span>RSS</a></li> 
+    </ul> 
+    <ul class="spectrum-footer-links" role="menu"> 
+     <h4 role="heading">IEEE Spectrum</h4> 
+     <li role="menuitem"><a href="/static/contactus">Contact Us</a></li> 
+     <li role="menuitem"><a href="/static/aboutus">About</a></li> 
+     <li role="menuitem"><a href="/static/newsletters">Newsletters</a></li> 
+     <li role="menuitem"><a href="http://ieeespectrumreprints.magreprints.com/" target="_blank">Reprints &amp; Permissions</a></li> 
+     <h4 class="footerTitle" role="heading">IEEE Partners</h4> 
+     <li role="menuitem"><a href="http://advertise.ieee.org">Advertising &amp; Media Center</a></li> 
+     <li role="menuitem"><a href="http://careers.ieee.org/">IEEE Job Site</a></li> 
+     <li role="menuitem"><a href="http://spectrumsuppliermarketplace.com/">Buyer’s Guide</a></li> 
+    </ul> 
+    <ul class="magazine-links" role="menu"> 
+     <h4 role="heading">The Magazine</h4> 
+     <li role="menuitem"><a href="/magazine"><img src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" class="lazy" data-original="/image/Mjk2MDA2NA.jpeg" width="100" height="133" alt="Magazine cover image"></a></li> 
+     <li role="menuitem"><a href="/static/readerservices">Subscribe Now</a></li> 
+     <li role="menuitem"><a href="http://www.qmags.com/subscribers">Digital Download</a></li> 
+    </ul> 
+   </div> 
+   <ul id="footerCopy"> 
+    <li id="copyrightTag" role="contentinfo">© Copyright 2017 IEEE Spectrum</li> 
+    <li role="menu" id="policyNav"><a href="http://www.ieee.org/site_terms_conditions.html">Terms &amp; Conditions</a> | <a href="http://www.ieee.org/privacy">Privacy &amp; Opting Out of Cookies</a> | <a href="http://www.ieee.org/accessibility_statement.html">Accessibility</a> | <a href="http://www.ieee.org/nondiscrimination">Nondiscrimination Policy</a></li> 
+   </ul> 
+  </div> 
+ </div> 
+ <div id="subFooter" role="navigation"> 
+  <div class="commonwrap" role="region"> 
+   <a href="http://www.ieee.org"> <img src="/assets/ieee-logo-851bf96265ef3f9dfa532b4db93f0843.png" class="footerLogo" width="142" height="41" alt="IEEE logo" role="img"> </a> 
+   <div id="footerSubMenu" role="section"> 
+    <ul role="menu"> 
+     <li role="menuitem"><a href="/static/enhance-your-spectrum-experience-become-an-ieee-member">Join IEEE</a></li> 
+     <li role="menuitem"><a href="http://www.ieee.org/about/index.html">About IEEE</a></li> 
+     <li role="menuitem"><a href="http://www.ieee.org/conferences_events/index.html">Conferences &amp; Events</a></li> 
+     <li role="menuitem"><a href="http://www.ieee.org/education_careers/index.html">Education &amp; Careers</a></li> 
+    </ul> 
+    <ul role="menu"> 
+     <li role="menuitem"><a href="http://www.ieee.org/membership_services/index.html">Membership &amp; Services</a></li> 
+     <li role="menuitem"><a href="http://www.ieee.org/publications_standards/index.html">Publications and Standards</a></li> 
+     <li role="menuitem"><a href="http://www.ieee.org/societies_communities/index.html">Societies &amp; Communities</a></li> 
+    </ul> 
+    <p class="legalText">© Copyright 2017 IEEE — All rights reserved. Use of this Web site signifies your agreement to the <a href="http://www.ieee.org/site_terms_conditions.html?WT.mc_id=hpf_terms" target="_blank">IEEE Terms and Conditions</a>.<br>A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.</p> 
+   </div> 
+  </div> 
+ </div> 
+</footer> 
+<script type="text/javascript" src="/assets/footer/footer-ca260bb95db258e9d449f710d6c5ed43.js"></script> 
+<script type="text/javascript">
+    function ss_track(slideshow_image, image_number, image_name, image_caption, path_to_assets) {
+        _gaq.push(['_setAccount', 'UA-747464-1']);
+        _gaq.push(['_trackEvent', 'Slideshows', 'Change Slide', '', image_number, true]);
+    }
+</script> 
+<!-- START Parse.ly Include: Standard --> 
+<div id="parsely-root" style="display: none"> 
+ <div id="parsely-cfg" data-parsely-site="spectrum.ieee.org"></div> 
+</div> 
+<script>
+(function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script> 
+<!-- END Parse.ly Include --> 
+<!-- begin static module global-footer-spectrum4 --> 
+<!-- end static module -->
+</body>
+</html>

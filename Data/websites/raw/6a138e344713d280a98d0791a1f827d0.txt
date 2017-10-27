@@ -1,0 +1,620 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze: Shanghaiist</title>
+		    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<!--     <meta name="viewport" content="width=device-width"> --> <!-- looks right but scroll broken -->
+<!--     <meta name="viewport" content="width=device-width, initial-scale=1" > --> <!-- scroll works but too wide -->
+<!--     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"> --> <!-- scroll works, but too wide -->
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script type="text/javascript" src="http://assets.gothamistllc.com/v8/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://assets.gothamistllc.com/v8/js/scroll.js"></script>
+	<script async type="text/javascript" src="http://assets.gothamistllc.com/v8/js/swipe.js"></script>
+	<script type="text/javascript" src="http://assets.gothamistllc.com/v8/js/jquery.viewport.min.js"></script>
+    <script async type="text/javascript" src="http://assets.gothamistllc.com/v8/js/main.js"></script>
+	    <script async type="text/javascript" src="http://assets.gothamistllc.com/v8/js/shanghaiist.js"></script>
+	
+	<script src="https://use.typekit.net/clb8lou.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<link rel="stylesheet" href="http://assets.gothamistllc.com/v8/css/styles.css" type="text/css" media="screen" charset="utf-8">
+    	<link rel="stylesheet" href="http://assets.gothamistllc.com/v8/css/shanghaiist.css" type="text/css" media="screen" charset="utf-8">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://shanghaiist.com/index.rdf" />
+
+  <!-- For FB Instant Articles -->
+  
+	
+
+	<script type="text/javascript">
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  (function() {
+	    var gads = document.createElement("script");
+	    gads.async = true;
+	    gads.type = "text/javascript";
+	    var useSSL = "https:" == document.location.protocol;
+	    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+	    var node =document.getElementsByTagName("script")[0];
+	    node.parentNode.insertBefore(gads, node);
+	   })();
+	</script>
+
+<!-- Yieldbot.com Intent Tag LOADING -->
+<script type="text/javascript">
+var ybotq = ybotq || [];
+(function() {
+  var js = document.createElement('script');
+  js.src = '//cdn.yldbt.com/js/yieldbot.intent.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(js, node);
+})();
+</script>
+<!-- Yieldbot.com Intent Tag ACTIVATION -->
+<script type="text/javascript">
+ybotq.push(function () {
+  yieldbot.pub('8858');
+  yieldbot.defineSlot('Gothamist_300x250_Interior');
+  yieldbot.defineSlot('Gothamist_300x600_Interior');
+  yieldbot.defineSlot('Gothamist_300x250_Front');
+  yieldbot.enableAsync();
+  yieldbot.go();
+});
+</script>
+
+<script>
+	ybotq.push(function() {
+	var gptAdSlots = [];
+     googletag.cmd.push(function() {
+    var mapping1 = googletag.sizeMapping().
+	  addSize([0, 0], []).
+	  addSize([1050, 200], [[300, 250],[300, 600]]). // Desktop
+	  build();
+	 
+	var mapping2 = googletag.sizeMapping().
+	  addSize([0, 0], [[300, 250],[300, 50]]).
+	  addSize([320, 700], [[300, 250],[300, 50]]). // Tablet
+	  addSize([1050, 200], []). // Desktop
+	  build();
+	  
+	var mapping3 = googletag.sizeMapping().
+	  addSize([0, 0], [[300, 250],[300, 50]]).
+	  addSize([320, 700], [[300, 250],[300, 50]]). // Tablet
+	  addSize([1050, 200], []). // Desktop
+	  build();
+
+	var mapping_970_top_desktop = googletag.sizeMapping(). 
+	  addSize([0, 0], []).
+	  addSize([1050, 200], [970,90]). // Desktop
+	  build();
+
+	var mapping_970_top_mobile = googletag.sizeMapping(). 
+	  addSize([0, 0], [[320, 50],[300, 50]]).
+	  addSize([320, 700], [[320, 50],[300, 50]]). // Tablet
+	  addSize([1050, 200], []). // Desktop
+	  build();
+	  
+					
+			gptAdSlots[5] = googletag.defineSlot('/1065181/Shanghaiist/Shanghaiist_970x90_Interior_Top', [970, 90], 'leaderTopDesktop').
+			  defineSizeMapping(mapping_970_top_desktop).
+			  setCollapseEmptyDiv(true).
+			  addService(googletag.pubads());
+			
+			gptAdSlots[6] = googletag.defineSlot('/1065181/Shanghaiist/Shanghaiist_970x90_Interior_Top', [[300, 50],[320, 50]], 'leaderTopMobile').
+			  defineSizeMapping(mapping_970_top_mobile).
+			  setCollapseEmptyDiv(true).
+			  addService(googletag.pubads());
+		
+		    googletag.defineSlot('/1065181/Shanghaiist/Shanghaiist_300x250_Interior', [300, 250], 'div-gpt-ad-1473719428132-1').addService(googletag.pubads());
+		    googletag.defineSlot('/1065181/Shanghaiist/Shanghaiist_300x250_Middle_Interior', [300, 250], 'div-gpt-ad-1473719428132-2').addService(googletag.pubads());
+		    gptAdSlots[2] = googletag.defineSlot('/1065181/Shanghaiist/Shanghaiist_300x600_Interior', [300, 600], 'div-gpt-ad-1473719428132-3').
+		    	defineSizeMapping(mapping1).
+		    	addService(googletag.pubads());
+			googletag.defineSlot('/1065181/Shanghaiist/shanghaiist_Billboard_970x250_Interior', [970, 250], '').setCollapseEmptyDiv(true).addService(googletag.pubads());
+			    googletag.defineSlot('/1065181/Shanghaiist/shanghaiist_skin', [1, 1], 'div-gpt-ad-1473719428132-7').setCollapseEmptyDiv(true).addService(googletag.pubads());
+	    googletag.defineSlot('/1065181/Shanghaiist/shanghaiist_interstitial', [1, 1], 'div-gpt-ad-1472407414318-8').setCollapseEmptyDiv(true).addService(googletag.pubads());
+	
+
+    //Set Yieldbot Targeting on the GPT object
+    googletag.pubads().setTargeting("ybot",yieldbot.getPageCriteria());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+});
+</script>
+  <script type="text/javascript">
+	  googletag.cmd.push(function() {
+	  	googletag.pubads().setTargeting('Category', 'news');
+	  });
+</script>
+ <script type="text/javascript" src="http://assets.gothamistllc.com/v8/js/entry.js"></script>
+	
+    	<meta property="vr:author" content="Shanghaiist">
+    	<meta property="vr:category" content="news">
+    	<meta property="og:title" content="Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze">
+    	<meta property="og:description" content="The hashtag #å½­äºæåºæ# &quot;Eddie Peng comes out&quot; has literally lit up">
+    	<meta property="og:image" content="http://shanghaiist.com/assets_c/2017/10/eddie_peng_zhang_leifront-thumb-640xauto-1016206.jpg">
+    	<meta property="og:type" content="article">
+    	<meta property="og:url" content="http://shanghaiist.com/2017/10/16/eddie-peng-gay-affair-rumors.php">
+    	<meta property="og:locale" content="en_US">
+    	<meta name="twitter:card" content="summary">
+    	<meta name="twitter:site" content="@shanghaiist">
+    	<meta name="twitter:url" content="http://shanghaiist.com/2017/10/16/eddie-peng-gay-affair-rumors.php">
+    	<meta name="twitter:title" content="Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze">
+    	<meta name="twitter:description" content="The hashtag #å½­äºæåºæ# "Eddie Peng comes out" has literally lit up">
+    	<meta name="twitter:image" content="http://shanghaiist.com/assets_c/2017/10/eddie_peng_zhang_leifront-thumb-640xauto-1016206.jpg">
+    	<meta property="og:site_name" content="Shanghaiist">
+				
+								
+                
+        
+        
+        
+		<script>
+		  ga('send', 'event', 'Author', 'Shanghaiist' , 'Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze');
+		  ga('send', 'event', 'Category', 'News', 'Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze');
+		</script>
+		        
+        <!-- Start Quantcast tag -->
+        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <script type="text/javascript">
+        _qacct="p-11lnUuPOz_qQQ";quantserve();</script>
+        <noscript>
+        <img src="http://pixel.quantserve.com/pixel/p-11lnUuPOz_qQQ.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+        <!-- End Quantcast tag -->
+        <script type="text/javascript">
+			window._taboola = window._taboola || [];
+			_taboola.push({article:'auto'});
+			!function (e, f, u) {
+			e.async = 1;
+			e.src = u;
+			f.parentNode.insertBefore(e, f);
+			}(document.createElement('script'),
+			document.getElementsByTagName('script')[0],
+			'http://cdn.taboola.com/libtrc/gothamist-network/loader.js');
+		</script>
+	<script type="text/javascript">
+var debug = 0;
+jQuery.fn.log = function(message) {
+       // do not print messages if debug is off.
+       if (debug !== 1) {
+          return;
+       }
+       // we're not going to get any console actions in ie.
+       if (typeof console === "undefined" || typeof console.log === "undefined") {
+          //alert(message);
+          return;
+       }
+       console.log(message);
+    };
+    
+$(document).ready(function(){
+	$.fn.log('loaded');
+	$("#comments-toggle").click(function() {
+		$("#comments-content").removeClass("is-collapsed");
+		$.fn.log('hi');
+/* 		$(this).hide(); */
+	});
+})
+</script>
+
+<style type="text/css" media="screen">
+/* 	.comments-content.is-collapsed  {height:99px;overflow:hidden} */
+</style>
+</head>
+<body id="entry" class="wide  shanghaiist" onload="">
+<div id='div-gpt-ad-1473719428132-7'>
+<script>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1473719428132-7'); });
+</script>
+</div>
+	<div id='div-gpt-ad-1472407414318-8'>
+		<script>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1472407414318-8'); });
+		</script>
+	</div>
+<div id="fb-root"></div>
+
+
+<div id="container">
+	<div id="container-inner">
+		<div id="970x90" class="nine-seventy-ads billboard_interior">
+			<div id="970x90-inner" data-cb-ad-id="billboard_interior">
+				<div id=''>
+				<script>
+					googletag.cmd.push(function() { googletag.display(''); });
+				</script>
+				</div>
+			</div>
+		</div>	
+
+						<div id="beta-header">
+			<div id="beta-header-inner">
+				Thanks for checking out our new design, please let us know if you have  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOO_VWVDQBuiuRD1Fv-bPphJqfu9woDLdbDGn6cElU_mwtNA/viewform">feedback</a>
+			</div>
+		</div>
+		
+
+		<div id="newHeader">
+			<div id="newHeader-inner">
+				<div id="nH-left">
+					<div class="hamburger more"></div>
+				</div>
+				<div id="nH-middle">
+					<div class="logo"><a href="/"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a></div>				
+				</div>
+				<div id="nH-right">
+					<div id="header-search" class="search-opened">
+						<form method="get" action="/search_query.php">
+						<input id="search" class="query" name="search" value="Search" onclick="this.value=''" onblur="if(this.value==''){this.value='Search'}" autofocus />
+						<input type="submit" value="Go"/>
+						</form>
+					</div>
+					<div class="search-closed" title="Search!"><img src="http://assets.gothamistllc.com/images/spacer.gif"></div>
+					<a class="social mail" title="Send us a tip!" href="mailto:tips@shanghaiist.com"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+					<a class="social facebook" title="Visit us on facebook!" href="http://facebook.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+					<a class="social twitter" title="Find us on twitter!" href="http://twitter.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+					<a class="social instagram" title="Instagram!" href="http://instagram.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+					<a class="social youtube" title="YouTube!" href="http://youtube.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+
+								
+				</div>
+			</div>
+			<div id="newHeader-more">
+				<ul id="newHeaderMore-items">
+	<li class="item-about item-one">
+		<p>Shanghaiist is a website about Shanghai</p>
+		<span class="site-switch"><h3 class="item-header">View</h3> <a id="prettySwitch">Pretty</a> | <a id="blogSwitch">Blog</a>
+	</li> 
+	<li class="item-two"><a href="/arts">Arts & Entertainment</a></li>
+	<li class="item-three"><a href="/food">Food</a></li>
+	<li class="item-four"><a href="/news">News</a></li>
+	<li class="item-five"><a href="/popular.php">Popular</a></li>
+	<li class="item-six"><a href="http://gothamistllc.com/">Advertising</a></li>
+	<li class="item-seven"><a href="/contact.php">Contact</a></li>
+	<li class="item-eight"><a href="http://eepurl.com/yIS4r">Newsletter</a></li>
+	<li class="item-ten"><a href="/index.rdf">RSS Feed</a></li>
+	<li class="item-nine"><a href="/staff.php">Staff</a></li>
+	<li class="item-cities item-eleven">
+		<a href="#">Our Cities</a>
+		<ul class="cities-list">
+			<li><a href="http://www.chicagoist.com"><span>Chicago</span></a></li>
+			<li><a href="http://www.londonist.com"><span>London</span></a></li>
+			<li><a href="http://www.laist.com"><span>Los Angeles</span></a></li>
+			<li><a href="http://www.gothamist.com"><span>New York City</span></a></li>
+			<li><a href="http://www.sfist.com"><span>San Francisco</span></a></li>
+			<li><a href="http://www.shanghaiist.com"><span>Shanghai</span></a></li>
+			<li><a href="http://www.torontoist.com"><span>Toronto</span></a></li>
+			<li><a href="http://www.dcist.com"><span>Washington DC</span></a></li>
+		</ul>
+	</li>
+	<li class="item-social item-tweleve">
+		<a class="social mail" title="Send us a tip!" href="mailto:tips@shanghaiist.com"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+		<a class="social facebook" title="Visit us on facebook!" href="http://facebook.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+		<a class="social twitter" title="Find us on twitter!" href="http://twitter.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+		<a class="social instagram" title="Instagram!" href="http://instagram.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+		<a class="social youtube" title="YouTube!" href="http://youtube.com/shanghaiist"><img src="http://assets.gothamistllc.com/images/spacer.gif"></a>
+	</li>
+</ul>			</div>
+		</div>
+		
+		
+				
+		<div id="970x90" class="nine-seventy-ads Interior_Top_970x90">
+			<div id="970x90-inner" data-cb-ad-id="970x90_Interior_Top">
+				<div id='leaderTopDesktop'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('leaderTopDesktop'); });
+				</script>
+				</div>
+				<div id='leaderTopMobile'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('leaderTopMobile'); });
+				</script>
+				</div>
+			</div>
+		</div>
+		<div id="entry-content" class="content">
+			<div id="entry-content-inner"  class="content-inner">
+				<div class="section-infinate">
+					<div id="WelcomePlaceHolder"></div>
+					
+						
+											
+					<div class="entry-header">
+						<h1>Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze</h1>
+						<style type="text/css" media="screen">
+							.entry-header-attrib, .entry-header-attrib a:link {color:#555!important;padding-top:15px}
+							.entry-header-attrib a:link {font-weight:bold}
+							#entry .entry-header-attrib  .byline {font-size:11px;text-transform: uppercase}
+							#entry .entry-footer .asset-meta {margin-top: 0;}
+							#entry .entry-footer {min-height:inherit}
+							#entry .entry-contact {padding-bottom:0}
+						</style>
+						<div class="entry-header-attrib">
+							<span class="byline"><span class="vcard author">by <a href="/author/Shanghaiist">Shanghaiist</a></span> in <a href="/news" rel="tag" title="">News</a>							
+														on <abbr class="published" title="Oct 16, 2017 8:10 pm">Oct 16, 2017 8:10 pm</abbr></span>
+						</div>
+											</div>
+					<div id="entry-social-float">
+						<div class="entry-social-float-item">
+							<div id="fb-root"></div>
+							<script>(function(d, s, id) {
+							  var js, fjs = d.getElementsByTagName(s)[0];
+							  if (d.getElementById(id)) return;
+							  js = d.createElement(s); js.id = id;
+							  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=147288319654";
+							  fjs.parentNode.insertBefore(js, fjs);
+							}(document, 'script', 'facebook-jssdk'));</script>
+							<div class="fb-like" data-href="http://shanghaiist.com/2017/10/16/eddie-peng-gay-affair-rumors.php" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+						</div>						
+						<div class="entry-social-float-item">							
+							<iframe style="height:60px;overflow:hidden;width:60px;" allowtransparency="true" frameborder="0" role="presentation" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http://shanghaiist.com/2017/10/16/eddie-peng-gay-affair-rumors.php&count=vertical&text=Rumors that Eddie Peng is having gay affair with investment firm CEO set Chinese internet ablaze&via=Shanghaiist"></iframe>							
+						</div>						
+					</div>
+					<div class="entry-body">	
+										<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="eddie_peng_zhang_lei.jpg" src="http://shanghaiist.com/attachments/alexlinder/eddie_peng_zhang_lei.jpg" width="640" height="448" class="image-none" /> </span></p>
+
+<p>The hashtag <a href="https://www.weibo.com/p/100808a1c67b986ee04d770f8c5d9d9f6b5468">#å½­äºæåºæ#</a> "Eddie Peng comes out" has literally lit up the Chinese internet. Juicy rumors are swirling around social media that the Taiwanese-Canadian star and Zhang Lei, founder and CEO of Hillhouse Capital Group, are now an item.</p>
+
+<p>Eddie Peng (å½­äºæ), a 35-year-old singer-turned-actor is <a href="http://chinafilminsider.com/why-monkey-king-eddie-peng-is-one-of-asias-most-prolific-performers/">one of Asia's biggest and most beloved stars</a>, headlining in a series of blockbuster action films in recent years that have turned him into one of the continent's most sought-after bachelors. Over the years, the heartthrob has been linked to a number of alleged girlfriends, including <a href="http://asianpopnews.com/eddie-peng-denies-dating-dada-chan/">Chinese bombshell Dada Chan</a> and <a href="http://asianfanaticfans.blogspot.com/2008/11/eddie-peng-says-hes-not-in-love.html">Mandopop diva Jolin Tsai </a>, but has <a href="http://www.chinatopix.com/articles/60953/20150807/eddie-peng-hopes-to-marry-soon-rumored-to-have-bought-elite-apartment.htm">mostly managed</a> to keep his private life a secret.</p>
+
+<p>Meanwhile, <a href="https://en.wikipedia.org/wiki/Zhang_Lei_(investor)">Zhang Lei</a> (å¼ ç£), 45, is one of China's richest investors, founding Hillhouse Capital in 2005 with a $20 million investment. Now, the group reportedly manages over $20 billion. Despite his wealth, Zhang <a href="https://www.nytimes.com/2015/04/03/business/the-chinese-billionaire-zhang-lei-spins-research-into-investment-gold.html">likes to live frugally</a> and stay out of the eye of the press.</p>
+
+<p>But that will be difficult to do now. In a Weibo post that has since been deleted, user @åå°ç· claimed that Peng was straight, but, in order to climb up the entertainment industry ladder, he had offered himself up to Zhang.</p>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="eddie_peng_gay_rumors.jpg" src="http://shanghaiist.com/attachments/alexlinder/eddie_peng_gay_rumors.jpg" width="340" height="569" class="image-none" /> </span></center>
+
+<p>As evidence, the Weibo user posted a screencap of a WeChat group chat conversation in which anonymous sources were discussing the pair's alleged relationship, claiming that Peng had slept with Zhang and that Peng was actually versatile (both a top or bottom).</p>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="eddie_peng_gay_rumors2.jpg" src="http://shanghaiist.com/attachments/alexlinder/eddie_peng_gay_rumors2.jpg" width="440" height="585" class="image-none" /> </span></center>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="eddie_peng_gay_rumors3.jpg" src="http://shanghaiist.com/attachments/alexlinder/eddie_peng_gay_rumors3.jpg" width="440" height="419" class="image-none" /> </span></center>
+
+<p>A famous social media celebrity with more than 900,000 followers also posted a vague Weibo post about Peng and Zhang, which was retweeted by Liu Chun, CEO of Zhongnan Film and former vice-president of Sohu.com. That post has also since been deleted.</p>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="eddie_peng_gay_rumors4.jpg" src="http://shanghaiist.com/attachments/alexlinder/eddie_peng_gay_rumors4.jpg" width="440" height="286" class="image-none" /> </span></center>
+
+<p>Peng's team has denied that the rumors have any validity. "Complete fabrication," <a href="https://weibo.com/5861549990/FqyAn5vYG?from=page_1006065861549990_profile&wvr=6&mod=weibotime&type=comment">wrote</a> the star's manager on Weibo. "Lawyers are looking into the matter."</p>
+
+<p>There have long been rumors that Peng is gay. In one <a href="https://news.uc.cn/a_3344511970432534479/">interview</a>, Peng's close friend, Hong Kong actor and singer Shawn Yue, jokingly said: "Eddie doesn't seem to be interested in girls, but he often checks out my body. There's also a <a href="http://hn.qq.com/a/20130314/000236.htm#p=2">photo</a> showing Peng kissing Jiang Jinfu, a Chinese actor and model, at the premiere for the movie <em>A Wedding Invitation</em>.</p>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="eddie_peng_kiss.jpg" src="http://shanghaiist.com/attachments/alexlinder/eddie_peng_kiss.jpg" width="440" height="640" class="image-none" /> </span></center>
+
+<p>While some believe the rumors to be true, others are less certain. One netizen jokingly <a href="http://tech.sina.com.cn/i/2017-10-16/doc-ifymvuyt1410845.shtml">explained</a> how they may have gotten out: &#8220;Zhang Lei says I want Eddie Peng to be my LP. Someone overhears it, and then goes around saying that they are together.&#8221; In business, LP is short for "Limited Partner," but it could also mean "wife" (èå©, <em>laopo</em>) in Chinese.</p>
+
+<p><em>By Alex Tang</em></p>					
+										
+									
+				</div>
+					<div class="entry-body-more"><p></p>
+
+<p><br />
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <a href="http://shanghaiist.com/tags/events2017"><img alt="events-banner.jpg" src="http://shanghaiist.com/attachments/alexlinder/events-banner.jpg" width="600" height="200" class="image-none" /></a> </span></form></center></p>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <a href="http://shanghaiist.com/tags/trips2017"><img alt="Shanghaiist-Travel.jpg" src="http://shanghaiist.com/attachments/shang_kenneth/Shanghaiist-Travel.jpg" width="600" height="200" class="image-none" /></a> </span></center>
+
+<center><span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <a href="http://shanghaiist.com/tags/everydaychinese"><img alt="everyday-chinese-banner.jpg" src="http://shanghaiist.com/attachments/alexlinder/everyday-chinese-banner.jpg" width="600" height="200" class="image-none" /></a> </span></form></center>
+
+<p><br><br><center><h1>Follow Shanghaiist on WeChat</h1><br />
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"> <img alt="qrcode-shanghaiist.jpg" src="http://shanghaiist.com/attachments/shang_kenneth/qrcode-shanghaiist.jpg" width="344" height="344" class="image-none" /> </span></p></div>
+						
+															
+					<div class="entry-footer">
+																<div class="entry-contact">Contact the <a href="http://shanghaiist.com/staff.php">author</a> of this article or email <a href="mailto:tips@shanghaiist.com">tips@shanghaiist.com</a> with further questions, comments or tips.</div>
+															<div class="entry-tags">
+						<ul class="entry-tags-list"> 
+							<li class="entry-tag">
+								<a href="/tags/actors" rel="tag">actors</a></li> <li class="entry-tag"><a href="/tags/EddiePeng" rel="tag">Eddie Peng</a></li> <li class="entry-tag"><a href="/tags/gay" rel="tag">gay</a></li> <li class="entry-tag"><a href="/tags/LGBT" rel="tag">LGBT</a></li> <li class="entry-tag"><a href="/tags/relationship" rel="tag">relationship</a></li> <li class="entry-tag"><a href="/tags/romance" rel="tag">romance</a></li> <li class="entry-tag"><a href="/tags/rumors" rel="tag">rumors</a></li> <li class="entry-tag"><a href="/tags/stars" rel="tag">stars</a></li> <li class="entry-tag"><a href="/tags/ZhangLei" rel="tag">Zhang Lei</a></li> <li class="entry-tag">							</li> 
+						</ul>             
+					</div>
+					
+				</div>
+					<div id="stage-bottom">                                
+					<div id="related-module">
+						<h2 class="comments-open-header">Other Interesting Stories</h2>
+												<script>
+							if (window.screen.width <= 480) {
+								document.write('<div id="taboola-mobile-below-article-thumbnails"></div><script type="text/javascript">window._taboola = window._taboola || []; _taboola.push({ mode: \'thumbnails-b\', container: \'taboola-mobile-below-article-thumbnails\', placement: \'Mobile Below Article Thumbnails\', target_type: \'mix\'});<\/script>');
+							} else {
+								document.write('<div id="taboola-below-article-thumbnails"></div><script type="text/javascript">window._taboola = window._taboola || []; _taboola.push({ mode: \'thumbnails-a\', container: \'taboola-below-article-thumbnails\', placement: \'Below Article Thumbnails\', target_type: \'mix\'});<\/script>');
+							}
+						</script>
+											</div>
+
+					<a name="comments"></a>
+											<div class="adv_box" data-cb-ad-id="300x250_Middle">
+							<div id='div-gpt-ad-1473719428132-2' style='height:250px; width:300px;'>
+							<script>
+							ybotq.push(function() {
+								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1473719428132-2'); });
+							});
+							</script>
+							</div>
+						</div>
+					
+										                                
+										<div class="comments-content">
+										
+										
+										
+										<div id="disqus_thread"></div>
+										
+										<script>
+										    var disqus_config = function () {
+										        this.page.url = 'http://shanghaiist.com/2017/10/16/eddie-peng-gay-affair-rumors.php';  // Replace PAGE_URL with your page's canonical URL variable
+										        this.page.identifier = '699779'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+										    };
+										   
+										    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+										        var d = document, s = d.createElement('script');
+										        
+										        s.src = '//shanghaiist.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+										        
+										        s.setAttribute('data-timestamp', +new Date());
+										        (d.head || d.body).appendChild(s);
+										    })();
+										</script>
+										<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+										</div>
+
+					
+					<div class="clear"></div>
+				</div>
+
+					<div id="taboola-below-comments-thumbnails"></div>
+										<script type="text/javascript">
+					  window._taboola = window._taboola || [];
+					  _taboola.push({
+					    mode: 'organic-thumbnails-a',
+					    container: 'taboola-below-comments-thumbnails',
+					    placement: 'Below Comments Thumbnails',
+					    target_type: 'mix'
+					  });
+					</script>
+									</div>					
+			</div>				
+
+		</div>
+		<div id="box" class="">
+			<div id="box-inner" data-cb-ad-id="300x250_Interior">
+				<div id='div-gpt-ad-1473719428132-1' style='width:300px;'>
+				<script>
+				ybotq.push(function() {
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1473719428132-1'); });
+				});
+				</script>
+				</div>
+			</div>
+		</div>
+
+		<div id="skyscraper" class="">
+			<div id="skyscraper-inner" data-cb-ad-id="300x600_Interior">
+				<div id='div-gpt-ad-1473719428132-3' style='width:300px;'>
+				<script>
+				ybotq.push(function() {
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1473719428132-3'); });
+				});
+				</script>
+				</div>
+			</div>
+			
+						<div id="taboola-right-rail-thumbnails"></div>
+						<script type="text/javascript">
+			  window._taboola = window._taboola || [];
+			  _taboola.push({
+			    mode: 'organic-thumbnails-b',
+			    container: 'taboola-right-rail-thumbnails',
+			    placement: 'Right Rail Thumbnails',
+			    target_type: 'mix'
+			  });
+			</script>
+									
+			<div id="column-bestof">
+				<div id="column-bestof-inner">
+					<div id="column-featured" class="column column-bestof"><h3><a href="/tags/bestof">best of shanghaiist</a></h3>
+    <ul><li><a href="http://shanghaiist.com/2017/02/22/asias_50_best_restaurants_2017.php" title="Two Shanghai eateries ranked among Asia's 50 Best Restaurants of 2017" onClick=""><div class="title">Two Shanghai eateries ranked among Asia's 50 Best Restaurants of 2017</div></a></li><li><a href="http://shanghaiist.com/2017/02/10/valentines.php" title="ð 11 great things to do in Shanghai this Valentine's ä»å¹´æäººèæä¹è¿?" onClick=""><div class="title">ð 11 great things to do in Shanghai this Valentine's ä»å¹´æäººèæä¹è¿?</div></a></li><li><a href="http://shanghaiist.com/2017/01/23/cny2017.php" title="[ð²CNY] 9 things to do in Shanghai over the Chinese New Year break! æ¥èå¨é­é½å¯ä»¥åç9ä»¶äº" onClick=""><div class="title">[ð²CNY] 9 things to do in Shanghai over the Chinese New Year break! æ¥èå¨é­é½å¯ä»¥åç9ä»¶äº</div></a></li><li><a href="http://shanghaiist.com/2016/12/26/nye2016.php" title="ð  8 things to do to ring in 2017!" onClick=""><div class="title">ð  8 things to do to ring in 2017!</div></a></li><li><a href="http://shanghaiist.com/2016/12/20/xmasmeals.php" title="ð  The 8 best food-coma worthy restaurants this Christmas" onClick=""><div class="title">ð  The 8 best food-coma worthy restaurants this Christmas</div></a></li></ul><div class="clear"></div></div>				</div>
+			</div>
+		</div>
+			<div class="clear"></div>
+		</div>
+		<div id="nine-seventy-footer" class="nine-seventy-ads 970x250_Interior">
+			<div id="970x250-inner" data-cb-ad-id="970x250_Interior">
+			</div>
+		</div>
+		<div id="footer">
+			<div id="footer-inner">
+				<div id="footer-top">
+</div>
+<div id="footer-middle">
+					</div>
+<div id="footer-bottom">&nbsp;
+	&copy; 2003-2017 <a href="http://gothamistllc.com">Gothamist LLC</a>. All rights reserved. <a href="http://gothamist.com/mediakit/privacy_legal.php">Terms of Use & Privacy Policy</a>.
+</div>
+
+
+
+<script type=âtext/javascriptâ>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+	_sf_async_config.domain = 'shanghaiist.com';
+    _sf_async_config.uid = 16246;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "Shanghaiist,News,Shanghaiist News";
+    _sf_async_config.zone = 'Shanghaiist/News';  
+    _sf_async_config.path = document.location.host + document.location.pathname; 
+    _sf_async_config.authors = "Shanghaiist"; 
+    (function () {
+      function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+      var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function () { oldonload(); loadChartbeat(); };
+        })();
+</script>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "10161631" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=10161631&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript">
+    var disqus_shortname = 'shanghaiist'; 
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-105585h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-105585h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- begin rocket fuel -->
+<!-- Advertiser 'Gothamist',  Include user in segment 'Gothamist - Landing - 4.28.2014 (Img/Unsecure) 20561101' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://ads.yahoo.com/pixel?id=2499017&t=2" width="1" height="1" />
+<!-- End of segment tag -->
+<!-- end rocket fuel -->
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+	
+						    
+</body>
+</html>

@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://theattestor.com/xmlrpc.php">
+<title>The 19th Chinese Communist Party Congress: Everything You Need To Know &#8211; The Attestor</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Libre+Baskerville:i:latin,latin-ext"]},"typekit":{"id":"sxt0pxe"}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body{font-family:"abril-text","abril-text-1",sans-serif}.wf-active .entry-content, .wf-active .entry-content dl, .wf-active .entry-content ol, .wf-active .entry-content p, .wf-active .entry-content table, .wf-active .entry-content ul, .wf-active .entry-header .intro p, .wf-active .entry-summary, .wf-active .section-about-column-one p, .wf-active .widget, .wf-active p.text-big, .wf-active p.text-small{font-family:"abril-text","abril-text-1",sans-serif}.wf-active #colophon .widget, .wf-active .contact-form input[type="submit"], .wf-active .entry-content blockquote p, .wf-active .entry-content p span.uppercase, .wf-active .section-about-column-one p cite, .wf-active .section-about-column-two  .jetpack-social-navigation ul li a, .wf-active .site-content div.wpcf7 input, .wf-active .site-content div.wpcf7 p, .wf-active .site-content div.wpcf7 textarea, .wf-active .widget_blog_subscription #subscribe-blog input#subscribe-field, .wf-active .widget_blog_subscription #subscribe-submit input[type="submit"], .wf-active a.standard-btn, .wf-active input, .wf-active textarea{font-family:"abril-text","abril-text-1",sans-serif}.wf-active code, .wf-active kbd, .wf-active pre, .wf-active tt, .wf-active var{font-family:"abril-text","abril-text-1",sans-serif}.wf-active input#submit, .wf-active input[type="button"], .wf-active input[type="submit"]{font-family:"abril-text","abril-text-1",sans-serif}.wf-active .widget_search input.search-field{font-family:"abril-text","abril-text-1",sans-serif}.wf-active .widget_blog_subscription #subscribe-blog p input#subscribe-field{font-family:"abril-text","abril-text-1",sans-serif}.wf-active h1.site-title, .wf-active p.site-title, .wf-active .featured-slider .entry-header h2.entry-title, .wf-active .blog-wrap h3.blog-title, .wf-active .entry-header h2.entry-title, .wf-active .front-section-title, .wf-active .social-front-title, .wf-active .title-footer, .wf-active .footer-widgetarea h3.footer-widget-title, .wf-active .widget h2.widget-title{font-family:"Libre Baskerville",serif;font-style:italic;font-weight:400}.wf-active #secondary h2.widget-title, .wf-active #sidebar-page h2.widget-title, .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6, .wf-active .entry-content h1, .wf-active .entry-content h2, .wf-active .entry-content h3, .wf-active .entry-content h4, .wf-active .entry-content h5, .wf-active .entry-content h6, .wf-active div.sharedaddy h3.sd-title{font-family:"Libre Baskerville",serif;font-style:italic;font-weight:400}.wf-active h1.site-title, .wf-active p.site-title{font-style:italic;font-weight:400}.wf-active #front-section-four .entry-header h2.entry-title, .wf-active #front-section-three h3.front-section-title, .wf-active .archive-header h1.archive-title, .wf-active .blog #primary .hentry.has-post-thumbnail:nth-child(4n+1) .entry-header h2.entry-title, .wf-active .blog-wrap h3.blog-title, .wf-active .featured-slider .entry-header h2.entry-title, .wf-active .front-section-title, .wf-active .page h1.entry-title, .wf-active .recommended-posts-wrap #jp-relatedposts h3.jp-relatedposts-headline, .wf-active .section-one-column-one .entry-header h2.entry-title, .wf-active .section-three-column-one .entry-header h2.entry-title, .wf-active .single-post .entry-header h1.entry-title, .wf-active .social-front-title{font-style:italic;font-weight:400}.wf-active #secondary h2.widget-title, .wf-active #sidebar-page h2.widget-title{font-style:italic;font-weight:400}.wf-active .entry-header h2.entry-title{font-style:italic;font-weight:400}.wf-active #comments #respond h3#reply-title, .wf-active #comments h2.comments-title, .wf-active .authorbox h3.author-title, .wf-active .footer-widgetarea h3.footer-widget-title, .wf-active .widget_blog_subscription h2.widget-title{font-style:italic;font-weight:400}.wf-active div.sharedaddy h3.sd-title{font-style:italic;font-weight:400}.wf-active .entry-content h1{font-style:italic;font-weight:400}.wf-active .entry-content h2{font-style:italic;font-weight:400}.wf-active .entry-content h3{font-style:italic;font-weight:400}.wf-active .entry-content h4{font-style:italic;font-weight:400}.wf-active .entry-content h5{font-style:italic;font-weight:400}.wf-active .entry-content h6{font-style:italic;font-weight:400}.wf-active #comments h2.comments-title, .wf-active #desktop-navigation ul li a, .wf-active #overlay-nav ul li a, .wf-active .authorbox h3.author-title, .wf-active .page-links, .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-weight:400;font-style:italic}.wf-active h1.site-title, .wf-active p.site-title{font-weight:400;font-style:italic}.wf-active .footer-widgetarea h3.footer-widget-title{font-weight:400;font-style:italic}.wf-active .authorbox h3.author-title span{font-style:italic;font-weight:400}.wf-active #comments h2.comments-title, .wf-active #comments #respond h3#reply-title{font-weight:400;font-style:italic}.wf-active .title-footer{font-weight:400;font-style:italic}.wf-active div.sharedaddy h3.sd-title{font-weight:400;font-style:italic}.wf-active .recommended-posts-wrap #jp-relatedposts h3.jp-relatedposts-headline{font-weight:400;font-style:italic}.wf-active .recommended-posts-wrap #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title{font-style:italic;font-weight:400}@media screen and (min-width: 37.500em){.wf-active .page h1.entry-title, .wf-active .single-attachment .entry-header h1.entry-title, .wf-active .single-post .entry-header h1.entry-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .entry-content h1{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active #front-section-four .entry-header h2.entry-title, .wf-active .archive-header h1.archive-title, .wf-active .blog #primary .hentry.has-post-thumbnail:nth-child(4n+1) .entry-header h2.entry-title, .wf-active .blog-wrap h3.blog-title, .wf-active .featured-slider .entry-header h2.entry-title, .wf-active .front-section-title, .wf-active .recommended-posts-wrap #jp-relatedposts h3.jp-relatedposts-headline, .wf-active .section-one-column-one .entry-header h2.entry-title, .wf-active .section-three-column-one .entry-header h2.entry-title, .wf-active .social-front-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .entry-content h2{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .entry-content h3, .wf-active .entry-header h2.entry-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .entry-content h4{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .entry-content h5, .wf-active .entry-content h6{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active #front-section-fourcolumn .type-post .entry-header h2.entry-title, .wf-active .section-one-column-two .type-post:nth-of-type(n+2) .entry-header h2.entry-title, .wf-active .section-sixcolumn-postwrap .type-post .entry-header h2.entry-title, .wf-active .section-three-column-two .type-post .entry-header h2.entry-title, .wf-active .section-two-column-two .type-post .entry-header h2.entry-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .page div.sharedaddy h3.sd-title, .wf-active .page div.sharedaddy h3.sd-title, .wf-active .single-post div.sharedaddy h3.sd-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active .entry-header h2.entry-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active #front-section-twocolumn .entry-header h2.entry-title, .wf-active p.text-big{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active p.site-description{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active h1.site-title, .wf-active p.site-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active #front-section-four .entry-header h2.entry-title, .wf-active .blog #primary .hentry.has-post-thumbnail:nth-child(4n+1) .entry-header h2.entry-title, .wf-active .featured-slider .entry-header h2.entry-title, .wf-active .section-one-column-one .entry-header h2.entry-title, .wf-active .section-three-column-one .entry-header h2.entry-title{font-style:italic;font-weight:400}}@media screen and (min-width: 37.500em){.wf-active #front-section-fourcolumn .type-post .entry-header h2.entry-title, .wf-active .recommended-posts-wrap #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title{font-style:italic;font-weight:400}}</style>
+<meta name="google-site-verification" content="_d-fFr9J9T2RGiZ6iPFpFJamRqTMIzRReWKPJHoG1xs" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=theattestor.com&amp;id=135305967&amp;t=1509094508&amp;back=https%3A%2F%2Ftheattestor.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//theattestor.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="The Attestor &raquo; Feed" href="https://theattestor.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Attestor &raquo; Comments Feed" href="https://theattestor.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Attestor &raquo; The 19th Chinese Communist Party Congress: Everything You Need To&nbsp;Know Comments Feed" href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyFkNEOgjAMRX/IuZAo4oPxW3A0MFi3hZagf28HaiIx82W57e5Jb6vnqEzwDJ41Tiq6qbWe9BxNQEVoHTw21d4Q7fRvzNkBSPfAsTaDWqqcfQRXMzQqBuJNlcNMGEH6GGtODoTG1uAAxZbDZtu0IHPE8tKK4Z5FMJbvQUl2slU22Xqo2y2OQKTkRTuh4k6y/dkIU/r1YkvAr86KWu0DW6HpI9LHFS/F4VxWp6I6Fv0TN6GuSw==' type='text/css' media='all' />
+<link rel='stylesheet' id='nikau-fonts-css'  href='https://fonts.googleapis.com/css?family=Noticia+Text%3A400%2C400italic%2C700%2C700italic%7CKanit%3A400%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJyFkNsKAjEMRH/IGhUvT+K3dGu2ZntbmpbVv7eyChW1voQZksMwgWkUKviEPkG6oEOGMaKj7MCTkRk43SwuFfMCqlOXxWizJs+g0WOksvghP9ivMQMDW1Jmnq08DoqkFQ59rnULmeisMTH0UmEXghGWTBHX/+Ve5DNo7lab9meCsEHJRMG/GdFbSbGFRuxs0EVqKFeVfUAnd1zvVofNdl/mcAcc+Kly' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyNj90OwiAMhV9IhjMaswvjs0xWZ8evtLjMpxeiXqiLmpAS6Hd6TuUYBDplUgckh3zOCeL0uKqBFvIbICz2sWWoLLonrLxjcFxY6w9oQCSC2Pb5Lw86+hkueGILRBma6b5GQndBGH9iA3BolRYRCK8fU20SwaQeHckIJi/QiZLh7fWu4hPklDJEsJisdKjbVJzJoNL3+q/kkbKsEnxkdQKlIf5tyNlqEho5K/Z2V2+W29V609TNcAPQ6K6O'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://theattestor.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Human Rights Groups Raise Alarms Over The Cost Of Raqqa&#8217;s&nbsp;Liberation' href='https://theattestor.com/2017/10/25/human-rights-groups-raise-alarms-over-the-cost-of-raqqas-liberation/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/" />
+<link rel='shortlink' href='http://wp.me/p99Jgj-1AS' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Ftheattestor.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Ftheattestor.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The 19th Chinese Communist Party Congress: Everything You Need To Know" />
+<meta property="og:url" content="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/" />
+<meta property="og:description" content="Jalil Javed and Henry Kincaid- The 19th Communist Party Congress comes at an important time for China; this will see the return of the president of the country, Xi Jinping, attempt to further stren…" />
+<meta property="article:published_time" content="2017-10-26T20:09:10+00:00" />
+<meta property="article:modified_time" content="2017-10-26T20:53:00+00:00" />
+<meta property="og:site_name" content="The Attestor" />
+<meta property="og:image" content="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="645" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@TheAttestor_" />
+<meta name="twitter:text:title" content="The 19th Chinese Communist Party Congress: Everything You Need To&nbsp;Know" />
+<meta name="twitter:image:src" content="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@TheAttestor_" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://theattestor.com/osd.xml" title="The Attestor" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#ffffff" />
+	<style type="text/css">
+					#front-section-threecolumn .entry-summary {display: block;}
+							#front-section-fourcolumn .entry-summary {display: block;}
+			</style>
+	<meta name="application-name" content="The Attestor" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Ideas Worth Attesting" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://theattestor.com/feed/;icon-uri=https://theattestor.files.wordpress.com/2017/09/logo-alt-2.jpg?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="The 19th Chinese Communist Party Congress: Everything You Need To&nbsp;Know | The Attestor on WordPress.com" />
+<meta name="description" content="Jalil Javed and Henry Kincaid- The 19th Communist Party Congress comes at an important time for China; this will see the return of the president of the country, Xi Jinping, attempt to further strengthen his position, and will likely be the occasion in which plans are drawn up to extend the normal ten-year presidential term&hellip;" />
+	<style type="text/css" id="nikau-header-css">
+		h1.site-title,
+	p.site-title,
+	p.site-description {
+		position: absolute;
+		clip: rect(1px, 1px, 1px, 1px);
+	}
+		</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<link rel="amphtml" href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css" id="custom-colors-css">pre{color:#939393}body,input,textarea,input[type=button],input[type=submit],input#submit,img.img-border-thin,#site-branding,.close-btn-wrap,.format-video .entry-thumbnail a:before,.sticky-header{background-color:#fff}pre,#front-section-three,.widget-area .widget_blog_subscription,.inner-offcanvas-wrap{background-color:#f2f2f2}.mobile-search{background-color:#e0e0e0}#colophon,input[type=submit]:hover,input#submit:hover,#primary #infinite-handle span:hover,#front-section-three a.all-posts-link:hover,.desktop-search input[type=submit]:hover,.widget_search input[type=submit]:hover,.post-password-form input[type=submit]:hover .footer-feature-btn:hover,#offcanvas-widgets-open:hover,.offcanvas-widgets-show #offcanvas-widgets-open,#secondary .widget_blog_subscription input[type=submit],#colophon a,.blog #primary .hentry.has-post-thumbnail:nth-child(4n+1) .entry-cats a,.section-one-column-one .entry-cats a,.section-three-column-one .entry-cats a,#front-section-four .entry-cats a,#front-section-four .entry-header h2.entry-title a,#front-section-four .entry-meta,#front-section-four .entry-meta a,.single-post .entry-cats a,#primary #infinite-handle span:hover button,.featured-slider .entry-cats a,.section-one-column-one .entry-cats a,.section-three-column-one .entry-cats a,#front-section-four .entry-cats a,.single-post .entry-cats a,.single-post .sd-social-icon .sd-content ul li a.sd-button:hover,.page .sd-social-icon .sd-content ul li a.sd-button:hover,a.standard-btn,.post .entry-content a.standard-btn,.page .entry-content a.standard-btn,.post .entry-content a.standard-btn:hover,.page .entry-content a.standard-btn:hover,.desktop-search input[type=submit],#desktop-navigation ul ul.sub-menu,#desktop-navigation ul ul.children,#desktop-navigation .sub-menu li a,#desktop-navigation .children li a,#colophon #site-info,#colophon #site-info a,#colophon .jetpack-social-navigation a,#colophon .widget,#colophon .widget a,#colophon .widget a:hover,#colophon #site-info a:hover,#colophon .widget h3,#colophon .jetpack-social-navigation a:hover,#secondary .widget_blog_subscription p,#sidebar-offcanvas .widget_blog_subscription p,#desktop-navigation ul ul li.menu-item-has-children a:hover,#desktop-navigation ul ul li.menu-item-has-children a:focus,#secondary .widget_blog_subscription input[type=submit],#secondary .widget_blog_subscription input[type=submit]:hover,#secondary .widget_blog_subscription input[type=submit]:focus,.footer-widgetarea .widget_blog_subscription input[type=submit],.footer-widgetarea .widget_blog_subscription input[type=submit]:hover,.footer-widgetarea .widget_blog_subscription input[type=submit]:focus,#sidebar-offcanvas .widget_blog_subscription input[type=submit],#sidebar-offcanvas .widget_blog_subscription input[type=submit]:hover,#sidebar-offcanvas .widget_blog_subscription input[type=submit]:focus,.footer-widgetarea .widget_search input[type=submit],.footer-widgetarea .widget_search input[type=submit]:hover,.footer-widgetarea .widget_search input[type=submit]:focus{color:#fff}.desktop-search input[type=submit]{color:#fff}.desktop-search input.search-field,.desktop-search input[type=submit]{border-color:#fff}body,.format-video .entry-thumbnail a:before,#desktop-navigation ul ul.sub-menu:before,#desktop-navigation ul ul.children:before{color:#0a0a0a}.single-post .entry-header .intro p,.entry-meta,.entry-cats,.entry-summary,.front-section-title,.social-front-title,.widget_blog_subscription #subscribe-blog p,.section-about-column-one p,a,.entry-header h2.entry-title,.entry-header h2.entry-title a,#secondary h2.widget-title,#sidebar-page h2.widget-title,.entry-meta a,.entry-cats a,a.more-link:hover:before,input,textarea,.blog .entry-cats a:nth-child(n+2):before,.search-results .entry-cats a:nth-child(n+2):before,.archive .entry-cats a:nth-child(n+2):before,.pagination,.pagination a,.widget h2.widget-title,#primary #infinite-handle span{color:#0a0a0a}::-webkit-input-placeholder{color:#0a0a0a}:-moz-placeholder{color:#0a0a0a}::-moz-placeholder{color:#0a0a0a}:-ms-input-placeholder{color:#0a0a0a}#comments .comment-reply a,#respond a#cancel-comment-reply-link,#comments #respond p.comment-notes a,#comments #respond p.logged-in-as a,#nav-comments a,#comments .comment-meta,#comments .comment-meta a,.single-post .entry-tags a,p.wp-caption-text,.contact-form label span,.gallery .gallery-item .gallery-caption,.pagination .nav-links .current{color:#0a0a0a}#colophon,#desktop-navigation ul ul.sub-menu,#desktop-navigation ul ul.children{background-color:#0a0a0a}a.standard-btn{background-color:#0a0a0a}.widget_search input[type=submit],.post-password-form input[type=submit],.front-section-title,.social-front-title,.front-section .type-post,#front-section-three h3.front-section-title:before,.section-about-column-one .front-section-title,.section-about-column-two .jetpack-social-navigation ul,.section-about-column-two .jetpack-social-navigation ul li,.blog-wrap h3.blog-title,.archive-header h1.archive-title,#primary .hentry,.single-post .hentry .entry-meta,.single-attachment .entry-meta,.single-post .authorbox,#comments h2.comments-title,.page-template-default #primary .hentry,.page-fullwidth #primary .hentry,.page-template-no-sidebar #primary .hentry,.error404 #primary .page,.page h1.entry-title,.widget-area .widget,.recommended-posts-wrap #jp-relatedposts h3.jp-relatedposts-headline,.recommended-posts-wrap #jp-relatedposts .jp-relatedposts-items-visual .jp-relatedposts-post,.widget-area .widget_blog_subscription,#overlay-nav,#overlay-nav ul li,#overlay-nav ul ul.sub-menu,#overlay-nav ul ul.children{border-color:#0a0a0a}#desktop-navigation ul li.menu-item-has-children a:after,#desktop-navigation ul li.page_item_has_children a:after{border-top-color:#0a0a0a}abbr,acronym,.single-post .entry-content blockquote,.page .entry-content blockquote,textarea:focus,textarea:active,input:focus,input:active,input[type=button],input[type=submit],input#submit,#offcanvas-widgets-open,#front-section-three a.all-posts-link,.pagination,.single-post .post-navigation a,.single-attachment .post-navigation a,#primary #infinite-handle span{border-color:#0a0a0a}table,table td,table th,#site-branding,#overlay-nav ul li,.inner-offcanvas-wrap .jetpack-social-navigation,.close-btn-wrap,.mobile-search,.slider-on.slider-boxed #masthead,.headerimg-on.header-boxed #masthead,#masthead,.desktop-search,input,textarea{border-color:#0a0a0a}.entry-content a:hover,.comment-text a:hover,.author-bio a:hover{color:#ac541a}.entry-content a,.comment-text a,#desktop-navigation ul li a:hover,.front-section a.all-posts-link:hover,#overlay-close:hover,.widget-area .widget ul li a:hover,#sidebar-offcanvas .widget a:hover,.textwidget a:hover,#overlay-nav a:hover,.author-links a:hover,.single-post .post-navigation a:hover,.single-attachment .post-navigation a:hover,.author-bio a,.single-post .hentry .entry-meta a:hover,.entry-header a:hover,.entry-header h2.entry-title a:hover,.blog .entry-meta a:hover,a.more-link:hover,.pagination .nav-links a:hover,.widget_blog_subscription input[type=submit]{color:#ac541a}.featured-slider button.slick-arrow:hover:after{color:#e2874a}.blog #primary .hentry.has-post-thumbnail:nth-child(4n+1) .entry-cats a:hover,.featured-slider .entry-cats a:hover,.section-one-column-one .entry-cats a:hover,.section-three-column-one .entry-cats a:hover,#front-section-four .entry-cats a:hover,.single-post .entry-cats a:hover,.footer-feature-btn:hover,#secondary .widget_blog_subscription input[type=submit]:hover,input[type=submit]:hover,input#submit:hover,#primary #infinite-handle span:hover,#front-section-three a.all-posts-link:hover,.desktop-search input[type=submit]:hover,#offcanvas-widgets-open:hover,.offcanvas-widgets-show #offcanvas-widgets-open,#secondary .widget_blog_subscription input[type=submit],.footer-widgetarea .widget_blog_subscription input[type=submit],#sidebar-offcanvas .widget_blog_subscription input[type=submit],.footer-widgetarea .widget_search input[type=submit]{background-color:#ac541a}#secondary .widget_blog_subscription input[type=submit]:hover,#secondary .widget_blog_subscription input[type=submit]:focus,.footer-widgetarea .widget_blog_subscription input[type=submit]:hover,.footer-widgetarea .widget_blog_subscription input[type=submit]:focus,#sidebar-offcanvas .widget_blog_subscription input[type=submit]:hover,#sidebar-offcanvas .widget_blog_subscription input[type=submit]:focus,.footer-widgetarea .widget_search input[type=submit]:hover,.footer-widgetarea .widget_search input[type=submit]:focus{background-color:#6a310a}.featured-slider .entry-cats a,.section-one-column-one .entry-cats a,.section-three-column-one .entry-cats a,#front-section-four .entry-cats a,.single-post .entry-cats a,.blog #primary .hentry.has-post-thumbnail:nth-child(4n+1) .entry-cats a,#desktop-navigation .sub-menu li a:hover,#desktop-navigation .children li a:hover,#secondary .widget_blog_subscription input[type=submit]{background-color:#ac541a}input[type=submit]:hover,input#submit:hover,#primary #infinite-handle span:hover,#front-section-three a.all-posts-link:hover,.desktop-search input[type=submit]:hover,.widget_search input[type=submit]:hover,.post-password-form input[type=submit]:hover .footer-feature-btn:hover,#offcanvas-widgets-open:hover,.offcanvas-widgets-show #offcanvas-widgets-open,#secondary .widget_blog_subscription input[type=submit]{border-color:#ac541a}.single-post .post-navigation a:hover,.single-attachment .post-navigation a:hover,.desktop-search input.search-field:active,.desktop-search input.search-field:focus{border-color:#ac541a}#desktop-navigation ul li.menu-item-has-children a:hover:after{border-top-color:#e2874a}</style>
+<link rel="icon" href="https://theattestor.files.wordpress.com/2017/09/logo-alt-2.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://theattestor.files.wordpress.com/2017/09/logo-alt-2.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://theattestor.files.wordpress.com/2017/09/logo-alt-2.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://theattestor.files.wordpress.com/2017/09/logo-alt-2.jpg?w=270" />
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=99Jgj&#038;cscache=6&#038;csrev=7" />
+		</head>
+
+<body class="post-template-default single single-post postid-6130 single-format-standard custom-background wp-custom-logo mp6 customizer-styles-applied has-thumb custom-logo-on slider-on highlander-enabled highlander-light custom-colors">
+
+<header id="masthead" class="site-header cf" role="banner">
+	<div class="site-header-content">
+		<div id="site-branding">
+							<p class="site-title"><a href="https://theattestor.com/" rel="home">The Attestor</a></p>
+			
+							<div class="custom-logo-wrap">
+					<a href="https://theattestor.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="520" height="236" src="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg" class="custom-logo" alt="The Attestor" itemprop="logo" srcset="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg 520w, https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=150&amp;h=68 150w, https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=300&amp;h=136 300w" sizes="(max-width: 520px) 100vw, 520px" data-attachment-id="5217" data-permalink="https://theattestor.com/cropped-untitled-10-jpg/" data-orig-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg" data-orig-size="520,236" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-untitled-10.jpg" data-image-description="&lt;p&gt;https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg&lt;/p&gt;
+" data-medium-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=300" data-large-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=520" /></a>				</div><!-- end .custom-logo-wrap -->
+			
+							<p class="site-description">Ideas Worth Attesting</p>
+			
+			<button id="overlay-open" class="overlay-open overlay-btn"><span>Menu</span></button>
+
+					<nav class="jetpack-social-navigation jetpack-social-navigation-genericons" role="navigation" aria-label="Social Links Menu">
+			<div class="menu-social-container"><ul id="menu-social" class="menu"><li id="menu-item-1442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1442"><a target="_blank" href="https://twitter.com/TheAttestor_"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-1443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1443"><a target="_blank" href="https://www.facebook.com/TheAttestor/?ref=br_tf"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-5214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5214"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=AYQYQQ5ZHK9YG"><span class="screen-reader-text">Donate</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+			</div><!-- end #site-branding -->
+		<nav id="desktop-navigation" class="desktop-navigation cf" role="navigation">
+			<ul id="menu-primary" class="menu"><li id="menu-item-1346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346"><a href="https://theattestor.wordpress.com">-Home-</a></li>
+<li id="menu-item-2587" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2587"><a href="https://theattestor.com/category/todays-latest/">-Today&#8217;s News-</a></li>
+<li id="menu-item-1324" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-1324"><a href="https://theattestor.com/category/politics/">-Politics-</a>
+<ul class="sub-menu">
+	<li id="menu-item-1327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1327"><a href="https://theattestor.com/category/american-politics/">American Politics</a></li>
+	<li id="menu-item-1328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1328"><a href="https://theattestor.com/category/european-politics/">European Politics</a></li>
+	<li id="menu-item-1341" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1341"><a href="https://theattestor.com/category/international-politics/">International Politics</a></li>
+</ul>
+</li>
+<li id="menu-item-3842" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3842"><a href="https://theattestor.com/category/world/">-World-</a></li>
+<li id="menu-item-3841" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3841"><a href="https://theattestor.com/category/history/">-History-</a></li>
+<li id="menu-item-2343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2343"><a href="https://theattestor.com/category/business/">-Business-</a></li>
+<li id="menu-item-1323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1323"><a href="https://theattestor.com/category/war-room/">-War Room-</a></li>
+<li id="menu-item-1357" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1357"><a href="https://theattestor.com/category/opinion/">-Opinion-</a></li>
+</ul>		</nav><!-- .main-navigation -->
+		<button id="search-open" class="search-open search-btn"><span>Search</span></button>
+			<div class="desktop-search">
+				<form role="search" method="get" class="search-form" action="https://theattestor.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div><!-- end .desktop-search -->
+	</div><!-- .site-header-content -->
+
+	<div class="sticky-header hidden" aria-hidden="true">
+		<button id="overlay-open-sticky" class="overlay-open overlay-btn"><span>Menu</span></button>
+		<button id="search-open-sticky" class="search-open search-btn"><span>Search</span></button>
+
+				 <div class="custom-logo-wrap">
+			 <a href="https://theattestor.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="520" height="236" src="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg" class="custom-logo" alt="The Attestor" itemprop="logo" srcset="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg 520w, https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=150&amp;h=68 150w, https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=300&amp;h=136 300w" sizes="(max-width: 520px) 100vw, 520px" data-attachment-id="5217" data-permalink="https://theattestor.com/cropped-untitled-10-jpg/" data-orig-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg" data-orig-size="520,236" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-untitled-10.jpg" data-image-description="&lt;p&gt;https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg&lt;/p&gt;
+" data-medium-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=300" data-large-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=520" /></a>		 </div><!-- end .custom-logo-wrap -->
+		
+				<nav class="jetpack-social-navigation jetpack-social-navigation-genericons" role="navigation" aria-label="Social Links Menu">
+			<div class="menu-social-container"><ul id="menu-social-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1442"><a target="_blank" href="https://twitter.com/TheAttestor_"><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1443"><a target="_blank" href="https://www.facebook.com/TheAttestor/?ref=br_tf"><span class="screen-reader-text">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5214"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=AYQYQQ5ZHK9YG"><span class="screen-reader-text">Donate</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+		</div><!-- end .sticky-header -->
+
+	<div class="inner-offcanvas-wrap">
+		<div class="close-btn-wrap">
+			<button id="overlay-close" class="overlay-btn"><span>Close</span></button>
+		</div><!-- end .close-btn-wrap -->
+		<div class="mobile-search">
+			<form role="search" method="get" class="search-form" action="https://theattestor.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		</div><!-- end .mobile-search -->
+
+				<nav class="jetpack-social-navigation jetpack-social-navigation-genericons" role="navigation" aria-label="Social Links Menu">
+			<div class="menu-social-container"><ul id="menu-social-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1442"><a target="_blank" href="https://twitter.com/TheAttestor_"><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1443"><a target="_blank" href="https://www.facebook.com/TheAttestor/?ref=br_tf"><span class="screen-reader-text">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5214"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=AYQYQQ5ZHK9YG"><span class="screen-reader-text">Donate</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+			<nav id="overlay-nav" class="main-nav cf" role="navigation">
+		<ul id="menu-primary-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346"><a href="https://theattestor.wordpress.com">-Home-</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2587"><a href="https://theattestor.com/category/todays-latest/">-Today&#8217;s News-</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-1324"><a href="https://theattestor.com/category/politics/">-Politics-</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1327"><a href="https://theattestor.com/category/american-politics/">American Politics</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1328"><a href="https://theattestor.com/category/european-politics/">European Politics</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1341"><a href="https://theattestor.com/category/international-politics/">International Politics</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3842"><a href="https://theattestor.com/category/world/">-World-</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3841"><a href="https://theattestor.com/category/history/">-History-</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2343"><a href="https://theattestor.com/category/business/">-Business-</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1323"><a href="https://theattestor.com/category/war-room/">-War Room-</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1357"><a href="https://theattestor.com/category/opinion/">-Opinion-</a></li>
+</ul>		</nav><!-- .main-navigation -->
+
+		
+<button id="offcanvas-widgets-open"><span>More Info</span></button>
+<aside id="sidebar-offcanvas" class="sidebar-offcanvas cf" role="complementary">
+			<div class="widget-area">
+			<section id="search-1" class="widget widget_search"><h2 class="widget-title">Search</h2><form role="search" method="get" class="search-form" action="https://theattestor.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section><section id="blog_subscription-3" class="widget widget_blog_subscription"><h2 class="widget-title"><label for="subscribe-field">Subscribition</label></h2>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address here and receive notifications of new articles by email.</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="135305967"/>
+						<input type="hidden" name="source" value="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="daf0d8c113" />						<input type="submit" value="Subscribe" />
+					</p>
+				</form>
+			
+</section><section id="text-9" class="widget widget_text"><h2 class="widget-title">Donate</h2>			<div class="textwidget"><p>Here at The Attestor, we are committed to bringing you well-written news and articles for free. This is our founding concept and it won&#8217;t be changing anytime soon. This being said, if you want to donate to us, we have set up a PayPal link so you may do so.</p>
+<p>We will be grateful for any and all donations as it helps us to further our mission of quality journalism.</p>
+<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AYQYQQ5ZHK9YG" target="_blank" rel="noopener">Click this link to donate</a></p>
+</div>
+		</section>		</div><!-- .widget-area -->
+	
+</aside><!-- .sidebar-offcanvas -->
+
+	</div><!-- end .desktop-offcanvas-wrap -->
+</header><!-- end #masthead -->
+
+
+<div id="singlepost-wrap" class="singlepost-wrap cf">
+
+	
+		
+<article id="post-6130" class="post-6130 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-international-politics category-opinion category-politics category-todays-latest tag-featured">
+	<header class="entry-header cf">
+		
+		<div class="title-wrap">
+						<div class="entry-cats">
+				<a href="https://theattestor.com/category/articles/" rel="category tag">Articles</a> <a href="https://theattestor.com/category/international-politics/" rel="category tag">International Politics</a> <a href="https://theattestor.com/category/opinion/" rel="category tag">Opinion</a> <a href="https://theattestor.com/category/politics/" rel="category tag">Politics</a> <a href="https://theattestor.com/category/todays-latest/" rel="category tag">Today's Latest</a>			</div><!-- end .entry-cats -->
+						<h1 class="entry-title">The 19th Chinese Communist Party Congress: Everything You Need To&nbsp;Know</h1>
+			
+		</div><!-- end .title-wrap -->
+
+		<div class="entry-meta cf">
+			<div class="meta-columnone">
+				<div class="author-pic">
+					<img alt='' src='https://1.gravatar.com/avatar/14236ee713bcbb185251ba9edf0cad9f?s=100&#038;d=identicon&#038;r=G' class='avatar avatar-100' height='100' width='100' />				</div><!-- end .author-pic -->
+
+				<div class="entry-author"> by <span class="author vcard"><a class="url fn n" href="https://theattestor.com/author/theattestor/">The Attestor.</a></span></div><div class="entry-date"><a href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/" rel="bookmark"><time class="entry-date published updated" datetime="2017-10-26T20:09:10+00:00">October 26, 2017</time></a></div>
+			</div><!-- end .meta-columnone -->
+
+			<div class="meta-columntwo">
+								<div class="entry-comments-single">
+					<span class="entry-comments"><a href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/#respond">Comments 0</a></span>				</div><!-- end .entry-comments -->
+							</div><!-- end .meta-columntwo -->
+
+			<div class="meta-columnthree">
+							</div><!-- end .meta-columnthree -->
+		</div><!-- end .entry-meta -->
+	</header><!-- end .entry-header -->
+
+	<div class="contentwrap">
+					<div class="entry-thumbnail">
+				<a href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/"><img width="950" height="511" src="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=950" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=950 950w, https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=1900 1900w, https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=150 150w, https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=300 300w, https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=768 768w, https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=1024 1024w" sizes="(max-width: 950px) 100vw, 950px" data-attachment-id="6383" data-permalink="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/19-party-congress/" data-orig-file="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg" data-orig-size="6700,3603" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="19 party congress" data-image-description="" data-medium-file="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=300" data-large-file="https://theattestor.files.wordpress.com/2017/10/19-party-congress-e1509051155802.jpg?w=950" /></a>
+			</div><!-- end .entry-thumbnail -->
+		
+		<div id="socialicons-sticky">
+			<div id="entry-content" class="entry-content">
+				<p><em>Jalil Javed and Henry Kincaid-</em></p>
+<p>The 19th Communist Party Congress comes at an important time for China; this will see the return of the president of the country, Xi Jinping, attempt to further strengthen his position, and will likely be the occasion in which plans are drawn up to extend the normal ten-year presidential term limit. If the limit is extended, or simply removed, it will give Jinping more than enough time to consolidate his position as one of the most powerful people in the world, even more so than he&#8217;s done already. Jinping is often regarded as being the strongest leader China has possessed in decades, and, as the head of 1.3 billion people, one of the strongest world leaders too.</p>
+<p>With 2,287 delegates attending the event, up from the 13 delegates that arrived at the original Congress, this event is likely to be the most significant China will hold this year.</p>
+<p><strong>How The Congress Works </strong></p>
+<p>The 2,287, carefully picked delegates that arrive at the event will choose officials from the 205-member Central Committee, all for the purpose of those Central Committee members voting for who will become part of the 24/25-member Politburo, including the heads of the Politburo, the Standing Committee.</p>
+<p>On top of voting, the Congress&#8217; Politburo meeting is intended to be a chance for China&#8217;s ruling elite to establish where the country will be heading in the next few years, setting up goals and intentions for the next half-decade.</p>
+<p>&nbsp;</p>
+<figure data-shortcode="caption" id="attachment_6300" style="width: 1920px" class="wp-caption alignnone"><img data-attachment-id="6300" data-permalink="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/19-people-congress/" data-orig-file="https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=950" data-orig-size="1920,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="19-People-Congress" data-image-description="" data-medium-file="https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=950?w=300" data-large-file="https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=950?w=950" class="alignnone size-full wp-image-6300" src="https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=950" alt="19-People-Congress.jpg" srcset="https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=950 950w, https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=1900 1900w, https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=150 150w, https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=300 300w, https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=768 768w, https://theattestor.files.wordpress.com/2017/10/19-people-congress.jpg?w=1024 1024w" sizes="(max-width: 950px) 100vw, 950px"   /><figcaption class="wp-caption-text">China&#8217;s new Standing Committee (Aly Song/Reuters)</figcaption></figure>
+<p>&nbsp;</p>
+<p><strong>A &#8220;New Era&#8221; Of Communism</strong></p>
+<p>The main message of the Congress was that Communism, or Maoism, was entering a &#8220;New Era&#8221;, and that the classical interpretations of Chinese Communists would soon become defunct. They made this commitment to the world in the form of four-year development plans, to which they say they are strongly committed.</p>
+<p>The Congress has formally adopted the &#8216;Xi Jinping Thought&#8217;, and the ideology will be written into the party&#8217;s Manifesto. This new form of Socialism under Xi Jin Ping will be the latest interpretation of Marxism to be used. The new &#8216;Theory&#8217; will come after &#8216;Marxism-Leninism Theory&#8217;, &#8216;Mao Zedong Thought&#8217;, and &#8216;Deng Xiaoping Theory&#8217; as a forward to the rest of the constitution, acting as an introduction in which the ethos of the country will be established.</p>
+<p><strong>The New Leadership, Xi, Is Here To Stay</strong></p>
+<p>One thing that we learned from this Congress is that its leader, Xi Jinping, is here to stay. This became clear after the Congress did not reveal any obvious successor to him as the leader of the communist party.</p>
+<p>Xi was announced to become the new president back in the 2007 Congress, and became president during the 2012 event. With no successor announced during this year&#8217;s ceremony, and with 2017 also marking the start of Jinping&#8217;s second term, it appears that the current president may end up serving longer than the ten-year standard term length. If Xi was to seek a third term, the current president would be breaking current rules that state a president can only serve two terms, however; with what some would call a &#8216;cult of personality&#8217; growing around the head of state, it is quite possible that this law would be ammended to allow Xi to continue to serve if he so wished.</p>
+<p>The Politburo Standing Committee (PBSC) has an obligatory retirement age policy, forcing members of the Committee to stand down after they reach the age of 68. Due to this policy, a close political ally to Xi, Wang Qishan, has exited the Committee. Rumours had it that Xi had been looking to bend the rules in order to allow Qishan to retain his position in the Politburo, however; this appears to either have not been the case, or that Xi&#8217;s efforts were ultimately unsuccessful.</p>
+<p>&nbsp;</p>
+<p>The Politburo&#8217;s leading members are all aged in their sixties, regardless of the rule that would force them to step down in only a few of years&#8217; time.</p>
+<p>The Standing Committee members are as follows:</p>
+<ul>
+<li>Xi Jinping, 64, President since 2012</li>
+<li>Li Keqiang, 62, Premier since 2013</li>
+<li>Li Zhanshu, 67, Head of the Parliament</li>
+<li>Wang Yang, 62, Executive Vice Premier</li>
+<li>Wang Huning, 62, Director of the Policy Research Office</li>
+<li>Zhao Leji, 60, Head of anti-corruption agency</li>
+<li>Han Zheng, 63, Shanghai Party Chief</li>
+</ul>
+<p>&nbsp;</p>
+<figure data-shortcode="caption" id="attachment_6304" style="width: 2048px" class="wp-caption alignnone"><img data-attachment-id="6304" data-permalink="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/18china-party-1sub-superjumbo-v2/" data-orig-file="https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=950" data-orig-size="2048,1392" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="18china-party-1sub-superJumbo-v2" data-image-description="" data-medium-file="https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=950?w=300" data-large-file="https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=950?w=950" class="alignnone size-full wp-image-6304" src="https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=950" alt="18china-party-1sub-superJumbo-v2" srcset="https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=950 950w, https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=1900 1900w, https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=150 150w, https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=300 300w, https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=768 768w, https://theattestor.files.wordpress.com/2017/10/18china-party-1sub-superjumbo-v2.jpg?w=1024 1024w" sizes="(max-width: 950px) 100vw, 950px"   /><figcaption class="wp-caption-text">President Xi Jinping arriving for his speech (Ng Han Guan/AP)</figcaption></figure>
+<p>&nbsp;</p>
+<p><strong>The New And Updated CPC Ideals</strong></p>
+<p>This new part of the Manifesto titled &#8216;Xi Jinping Thought&#8217; describes the principle of the CPC&#8217;s role in governing day-to-day life in the country.</p>
+<p>Some of these principles include:</p>
+<ul class="story-body__unordered-list">
+<li class="story-body__list-item">A call for &#8220;complete and deep reform&#8221; and &#8220;new developing ideas&#8221;.</li>
+<li class="story-body__list-item">A promise of &#8220;harmonious living between man and nature&#8221; &#8211; this is a call for improved environmental conservation, and could also refer to the stated aim to have the bulk of China&#8217;s energy needs supplied by renewables.</li>
+<li class="story-body__list-item">An emphasis on &#8220;absolute authority of the party over the people&#8217;s army&#8221; &#8211; which comes amid what analysts call the largest turnover of senior military officials in modern Chinese history.</li>
+<li class="story-body__list-item">An emphasis on the importance of &#8220;&#8216;one country two systems&#8221; and reunification with the motherland &#8211; a clear reference to Hong Kong and Taiwan.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>The Future of China </strong></p>
+<p>With China&#8217;s presence on the global stage ever-growing, and with social media becoming more accessible and widespread, both internationally and in China, the Communist country&#8217;s future is likely to be more generally impactful than ever.</p>
+<p>The previous point is extended further when factoring in Jinping&#8217;s own ethos behind China&#8217;s destiny. With a stance that arguably resembles a more militaristic, authoritarian form of Social Liberalism than traditional Communism, Jinping&#8217;s policies are likely to appear far less alien to much of the outside world, potentially making them just that much more influential.</p>
+<p>It appears that old Communist China is officially gone, replaced with a far more public, seemingly more reasonable upheaval of the old ideals, however; with China&#8217;s authoritarian, heavily propagandist nature still intact, with the country reaching new heights when it comes to international influence, and with the state still maintaining what amounts to a monopoly over many sectors of business, the country has arguably never been more dangerously important.</p>
+<pre>Featured Image Credits: AFP</pre>
+<p>&nbsp;</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-6130" class="share-twitter sd-button share-icon" href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-6130" class="share-facebook sd-button share-icon" href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-6130" class="share-google-plus-1 sd-button share-icon" href="https://theattestor.com/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-135305967-6130-59f2f46cf1749' data-src='//widgets.wp.com/likes/#blog_id=135305967&amp;post_id=6130&amp;origin=theattestor.wordpress.com&amp;obj_id=135305967-6130-59f2f46cf1749' data-name='like-post-frame-135305967-6130-59f2f46cf1749'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>							</div><!-- end .entry-content -->
+
+			<footer class="entry-footer cf">
+									<div class="entry-tags"><span>Tags</span><a href="https://theattestor.com/tag/featured/" rel="tag">featured</a></div>
+											</footer><!-- end .entry-footer -->
+
+			
+<div id="comments" class="comments-area cf">
+  <h2 class="comments-title">
+    0 comments on &ldquo;<span>The 19th Chinese Communist Party Congress: Everything You Need To&nbsp;Know</span>&rdquo;  </h2>
+
+<div class="comments-content cf">
+
+  
+  	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/#respond" style="display:none;">Cancel reply</a></small></h3>		<form action="https://theattestor.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+														
+
+
+						<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="c2a89e5f6b" /><input type="hidden" name="_wp_http_referer" value="/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity" class="comment_registration">
+
+	<div id="comment-form-nascar">
+		<p>Please log in using one of these methods to post your comment:</p>
+		<ul>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+						<p class="form-submit">
+				<input name="submit" type="submit" id="comment-submit" value="Post Comment" />
+				<input type='hidden' name='comment_post_ID' value='6130' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+			</p>
+			<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="2ab5013567" /></p>
+<input type="hidden" name="genseq" value="1509094508" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="114"/></p>		</form>
+	</div><!-- #respond -->
+	<div style="clear: both"></div>
+  </div><!-- end .comments-content -->
+</div><!-- end #comments .comments-area -->
+
+			
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://theattestor.com/2017/10/25/human-rights-groups-raise-alarms-over-the-cost-of-raqqas-liberation/" rel="prev"><span class="meta-nav">Previous Post</span> </a></div></div>
+	</nav>
+		</div><!-- end #socialicons-sticky -->
+	</div><!-- end .content-wrap -->
+
+</article><!-- end post -6130 -->
+
+	
+	
+<aside id="secondary" class="sidebar widget-area" role="complementary">
+	<section id="text-10" class="widget widget_text"><h2 class="widget-title">Donate</h2>			<div class="textwidget"><p>Here at The Attestor, we are committed to bringing you well-written news and articles for free. This is our founding concept and it won&#8217;t be changing anytime soon. This being said, if you want to donate to us, we have set up a PayPal link so you may do so.</p>
+<p>We will be grateful for any and all donations as it helps us to further our mission of quality journalism.</p>
+<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AYQYQQ5ZHK9YG" target="_blank" rel="noopener">Click this link to donate</a></p>
+</div>
+		</section></aside><!-- #secondary -->
+
+</div><!-- end .singlepost-wrap -->
+
+			<div class="recommended-posts-wrap cf">
+				<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>		</div><!-- end .recommended-posts-wrap -->
+	
+
+<footer id="colophon" class="site-footer cf">
+	<div class="footer-wrap">
+
+					
+	<div class="custom-logo-wrap">
+		<a href="https://theattestor.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="520" height="236" src="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg" class="custom-logo" alt="The Attestor" itemprop="logo" srcset="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg 520w, https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=150&amp;h=68 150w, https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=300&amp;h=136 300w" sizes="(max-width: 520px) 100vw, 520px" data-attachment-id="5217" data-permalink="https://theattestor.com/cropped-untitled-10-jpg/" data-orig-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg" data-orig-size="520,236" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-untitled-10.jpg" data-image-description="&lt;p&gt;https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg&lt;/p&gt;
+" data-medium-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=300" data-large-file="https://theattestor.files.wordpress.com/2017/10/cropped-untitled-10.jpg?w=520" /></a>	</div><!-- end .custom-logo-wrap -->
+
+<div class="footer-widgetarea-wrap cf">
+
+		<aside id="footer-widgetarea-one" class="footer-widgetarea cf" role="complementary">
+			<section id="facebook-likebox-3" class="widget widget_facebook_likebox"><h3 class="footer-widget-title"><a href="https://www.facebook.com/TheAttestor/">Follow us on Facebook</a></h3>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/TheAttestor/" data-width="340"  data-height="432" data-hide-cover="true" data-show-facepile="false" data-show-posts="true">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/TheAttestor/"><a href="https://www.facebook.com/TheAttestor/">Follow us on Facebook</a></blockquote></div>
+		</div>
+		</section>	</aside><!-- #footer-widgetarea-one -->
+	
+		<aside id="footer-widgetarea-two" class="footer-widgetarea cf" role="complementary">
+			<section id="twitter_timeline-4" class="widget widget_twitter_timeline"><h3 class="footer-widget-title">Follow us on Twitter</h3><a class="twitter-timeline" data-height="430" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" href="https://twitter.com/@TheAttestor_">My Tweets</a></section>	</aside><!-- #footer-widgetarea-two -->
+	
+		<aside id="footer-widgetarea-three" class="footer-widgetarea cf" role="complementary">
+			<section id="text-8" class="widget widget_text"><h3 class="footer-widget-title">Donate</h3>			<div class="textwidget"><p>Here at The Attestor, we are committed to bringing you well-written news and articles for free. This is our founding concept and it won&#8217;t be changing anytime soon. This being said, if you want to donate to us, we have set up a PayPal link so you may do so.</p>
+<p>We will be grateful for any and all donations as it helps us to further our mission of quality journalism.</p>
+<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AYQYQQ5ZHK9YG" target="_blank" rel="noopener">Click this link to donate</a></p>
+</div>
+		</section>	</aside><!-- #footer-widgetarea-three -->
+	
+	
+</div><!-- end .footer-widgetarea-wrap -->
+	
+			<nav class="jetpack-social-navigation jetpack-social-navigation-genericons" role="navigation" aria-label="Social Links Menu">
+			<div class="menu-social-container"><ul id="menu-social-3" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1442"><a target="_blank" href="https://twitter.com/TheAttestor_"><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1443"><a target="_blank" href="https://www.facebook.com/TheAttestor/?ref=br_tf"><span class="screen-reader-text">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5214"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#038;hosted_button_id=AYQYQQ5ZHK9YG"><span class="screen-reader-text">Donate</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+	
+	<div id="site-info" class="cf">
+		<a href="https://wordpress.com/?ref=footer_custom_svg" title="Create a website or blog at WordPress.com"><svg style="fill: currentColor; position: relative; top: 1px;" width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title" role="img">
+				<title id="title">Create a website or blog at WordPress.com</title>
+				<path d="M12.5225848,4.97949746 C13.0138466,5.87586309 13.2934037,6.90452431 13.2934037,7.99874074 C13.2934037,10.3205803 12.0351007,12.3476807 10.1640538,13.4385638 L12.0862862,7.88081544 C12.4453251,6.98296834 12.5648813,6.26504621 12.5648813,5.62667922 C12.5648813,5.39497674 12.549622,5.17994084 12.5225848,4.97949746 L12.5225848,4.97949746 Z M7.86730089,5.04801561 C8.24619178,5.02808979 8.58760099,4.98823815 8.58760099,4.98823815 C8.9267139,4.94809022 8.88671369,4.44972248 8.54745263,4.46957423 C8.54745263,4.46957423 7.52803983,4.54957381 6.86996227,4.54957381 C6.25158863,4.54957381 5.21247202,4.46957423 5.21247202,4.46957423 C4.87306282,4.44972248 4.83328483,4.96816418 5.17254589,4.98823815 C5.17254589,4.98823815 5.49358462,5.02808979 5.83269753,5.04801561 L6.81314716,7.73459399 L5.43565839,11.8651647 L3.14394256,5.04801561 C3.52312975,5.02808979 3.86416859,4.98823815 3.86416859,4.98823815 C4.20305928,4.94809022 4.16305906,4.44972248 3.82394616,4.46957423 C3.82394616,4.46957423 2.80475558,4.54957381 2.14660395,4.54957381 C2.02852925,4.54957381 1.88934333,4.54668493 1.74156477,4.54194422 C2.86690406,2.83350881 4.80113651,1.70529256 6.99996296,1.70529256 C8.638342,1.70529256 10.1302017,2.33173369 11.2498373,3.35765419 C11.222726,3.35602457 11.1962815,3.35261718 11.1683554,3.35261718 C10.5501299,3.35261718 10.1114609,3.89113285 10.1114609,4.46957423 C10.1114609,4.98823815 10.4107217,5.42705065 10.7296864,5.94564049 C10.969021,6.36482346 11.248578,6.90326506 11.248578,7.68133501 C11.248578,8.21992476 11.0413918,8.84503256 10.7696866,9.71584277 L10.1417574,11.8132391 L7.86730089,5.04801561 Z M6.99996296,14.2927074 C6.38218192,14.2927074 5.78595654,14.2021153 5.22195356,14.0362644 L7.11048207,8.54925635 L9.04486267,13.8491542 C9.05760348,13.8802652 9.07323319,13.9089317 9.08989995,13.9358945 C8.43574834,14.1661896 7.73285573,14.2927074 6.99996296,14.2927074 L6.99996296,14.2927074 Z M0.706448182,7.99874074 C0.706448182,7.08630113 0.902152921,6.22015756 1.25141403,5.43749503 L4.25357806,13.6627848 C2.15393732,12.6427902 0.706448182,10.4898387 0.706448182,7.99874074 L0.706448182,7.99874074 Z M6.99996296,0.999 C3.14016476,0.999 0,4.13905746 0,7.99874074 C0,11.8585722 3.14016476,14.999 6.99996296,14.999 C10.8596871,14.999 14,11.8585722 14,7.99874074 C14,4.13905746 10.8596871,0.999 6.99996296,0.999 L6.99996296,0.999 Z" id="wordpress-logo-simplified-cmyk" stroke="none" fill=“currentColor” fill-rule="evenodd"></path>
+			</svg></a>
+		
+			</div><!-- end #site-info -->
+
+</div><!-- end .footer-wrap -->
+</footer><!-- end #colophon -->
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201743y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-14236ee713bcbb185251ba9edf0cad9f">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/theattestor.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/theattestor.wordpress.com\/wp-login.php?action=logout&_wpnonce=85e2911a77","homeURL":"https:\/\/theattestor.com\/","postID":"6130","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"1","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="135305967" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://theattestor.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="The Attestor" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="efeac732b2" /><input type="hidden" name="_wp_http_referer" value="/2017/10/26/the-19th-chinese-communist-party-congress-everything-you-need-to-know/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/theattestor.com\/2017\/10\/26\/the-19th-chinese-communist-party-congress-everything-you-need-to-know\/":6130};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"135305967","siteName":"The Attestor","siteURL":"https:\/\/theattestor.com","icon":"<img alt='' src='https:\/\/theattestor.files.wordpress.com\/2017\/09\/logo-alt-2.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/nikau","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/theattestor.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Ftheattestor.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F","themeURL":"https:\/\/wordpress.com\/theme\/nikau\/","xhrURL":"https:\/\/theattestor.com\/wp-admin\/admin-ajax.php","nonce":"daada304f0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"daf0d8c113\" \/>","referer":"https:\/\/theattestor.com\/2017\/10\/26\/the-19th-chinese-communist-party-congress-everything-you-need-to-know\/","canFollow":"1","feedID":"72140383","statusMessage":"","customizeLink":"https:\/\/theattestor.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Ftheattestor.wordpress.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F","postID":"6130","shortlink":"http:\/\/wp.me\/p99Jgj-1AS","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/theattestor.com\/6130","statsLink":"https:\/\/wordpress.com\/stats\/post\/6130\/theattestor.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Nikau","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 334 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/theattestor.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Ftheattestor.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/theattestor.com\/wp-admin\/admin-ajax.php","nonce":"4061cb636f","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"1","require_name_email":"1","login_url":"https:\/\/theattestor.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Ftheattestor.com%2F2017%2F10%2F26%2Fthe-19th-chinese-communist-party-congress-everything-you-need-to-know%2F","blog_id":"135305967","local_comments_commenting_as":"<p id=\"jp-carousel-commenting-as\">You must be <a href=\"#\" class=\"jp-carousel-comment-login\">logged in<\/a> to post a comment.<\/p>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=135305967&v=wpcom&tz=0&user_id=0&subd=theattestor","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVkdtOwzAMhl+I1J1gAi4Qj4LSxF2dxkmWwwpvT8rWqcBUwZWtP//n+ABTEMq7jC6DSaDxRArDe2PSHayeuIhgy4FcAksjJjgWLDhIpy3GDbPyzFUSZ8jMdAdpooD/gb4JP8E8IFdbiMhUGByNssxQX5zK5N0vYPWTwRykGuGNnIJeKuy8HwVyh/qvVJ4oZ4wiE6MltzWX1ExOdDICy1SZmgl/whhJ1wGu2laFr4nmCtdscddebNHnfaVA7pZu6tXixyU0a9etK8joS0K7jCsWYau/kRJjFvdNe9mpj7zhDz5l0VtJEdIgI7nDEiv0yi+7ffv0+LxvH3bmE72z/wc='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'135305967','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'135305967','v':'wpcom','tz':'0','user_id':'0','post':'6130','subd':'theattestor'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGNrd29+Smw0TDhnZmRTK0hlRi9QSGh6bi9GXVhBJWIlZlR5U1JMLU8/MkNtblkvY1cydnNnT3N4LF9XckorVFRFSjZJfCVfY25PMFR8RkNGdkVWcFhIV1U1U2krRUc9b340VEp0fFBJcU5YS1ZtYTUmW2xOfl1RNXEsdGNEJS58aDJbT1d1X1E9Yl8mR2xHSmV3ci8vQXFKPz93Z0tiL00wMmdiVXdKZmcuN00uS18zUHNJNT1OTisrRUh4RHxkTzFTLnZaZF1ZdiV6UnRlVHh6LzdDSXBCQThHQ2w3LHQuMV9SMjlsOX5qZUFya35JZVZQajBOdV8rRmkmQVVdam18flNhM1ZiZ1U9eH5mNVpbbTdJdDFiWVJYdzFFVHUycUQ5VzIsbmlkZD8udFRtaXMuNXhmWDlqdSxDTEpFeDh0cz95cVpfRUc1TGw='}]);
+_stq.push([ 'clickTrackerInit', '135305967', '6130' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
