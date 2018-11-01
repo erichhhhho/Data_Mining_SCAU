@@ -9,6 +9,4 @@ Modified by HE WEI Oct 27,2017
 
 Using Python3.5.4 + Pycharm/ Jupyter + Anaconda 1.63
 
-Please Install requirement.txt
-by
 pip install -r requirement.txt 
